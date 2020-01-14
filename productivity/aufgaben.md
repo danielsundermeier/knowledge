@@ -1,15 +1,31 @@
 # Aufgaben
 
-- Alles erfassen
+- Alles erfassen (teilen: an OneNote senden)
 - Mindestens ein Mal pro Woche durchgehen und leeren
 - GTD Capture [GTD 101](http://www.asianefficiency.com/task-management/gtd-intro/)
+- Ich möchte jeder Zeit alle Aufgaben aus Habitica direkt ausführen können.
+
+```
+Langeweile?
+-> Älteste Aufgabe in Habitica ausführen!
+```
+
+## Planen
+
+OneNote
+(Dopmain)
+
+## Ausführen
+
+Habitica
+(Here & Now)
 
 ## Eingang
 
 1. OneNote
 1.1 Aktuelle Notizen
 1.2 Persönlich > Nicht abgelegte Notizen
-1.3 Persönlich Braindump
+1.3 Persönlich > Braindump
 2. Firefox Pocket mit Tag "Eingang"
 3. Wissenssammlung Git History
 
@@ -67,6 +83,8 @@ Mittelfristig in [LifeOS](lifeos.serienguide.tv)
 
 ### Habitica
 
+[Habitica](https://habitica.com)
+
 #### Aufgaben
 
 - Nur ausführbare Aufgaben
@@ -75,8 +93,7 @@ Mittelfristig in [LifeOS](lifeos.serienguide.tv)
 
 #### Tags
 - gruppieren einzelner Aufgaben
-- mehrere Tags möglich
-- z.B. Renovieren + Arbeitszimmer
+- Pro Aufgabe nur ein Tag
 
 ### Wissenssammlung
 

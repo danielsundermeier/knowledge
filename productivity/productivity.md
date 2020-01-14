@@ -1,5 +1,13 @@
 # Produktivität
 
+## Idee
+
+- Alles, was ich tue dokumentieren
+- Wenn ich es das Nächste Mal mache, Dokumentation aufrufen
+- Dokumentation / Abläufe jedes Mal verbessern
+- Automatisieren
+- Autonomes System erstellen
+
 ## Zitate
 
 First, master fundamentals. Then, play infinite games. — James Stuber
@@ -8,7 +16,8 @@ First, master fundamentals. Then, play infinite games. — James Stuber
 
 ### Artikel
 
-[GTD 101: The Beginner’s Guide To Getting Things Done](http://www.asianefficiency.com/task-management/gtd-intro/)
+- [Manual Work is a Bug](https://queue.acm.org/detail.cfm?id=3197520)
+- [GTD 101: The Beginner’s Guide To Getting Things Done](http://www.asianefficiency.com/task-management/gtd-intro/)
 
 ### Blogs
 

@@ -1,15 +1,34 @@
 # Lesen
 
-## Markieren
+## Vor dem Lesen
 
-- gelb: Higlight
+Zusammenfasung auf www.blinkist.de anhören
+
+OneNote
+
+- Was möchte ich lernen / Warum lese ich das Buch
+- Fragen aufschreiben
+
+## Während des Lesens
+
+### Markieren
+
+- gelb: Highlight
 - rot: Autor / Buch Vorschlag
 - blau: Zusammenfassung
 - orange: Ausführbare Aktion
 
-## Kategorisieren
+### Fragen beantworten
 
+
+## Nach dem Lesen
+
+- Fragen beantworten
 - Bücher nach dem Lesen in goodreads kategorisieren, wenn sie hilfreich waren
+- Wichtige Punkte in Wissenssammlung eintragen
+- In bestimmten Abständen Zusammenfassung anhören, um das Gelernte zu behalten
+
+## Kategorien
 
 ### Beispiele
 
@@ -17,3 +36,9 @@
 - Ernährung
 - Produktivität
 - Gewohnheiten
+
+## Links
+
+- [How to Effectively Read and Implement Books](http://www.asianefficiency.com/systems/how-to-effectively-read-and-implement-books/)
+- [MindNode](https://mindnode.com/)
+- [Read This Twice](https://readthistwice.com/) - Books worth reading twice.

@@ -36,6 +36,7 @@ Shortcut: ctrl + M
 - Aufgaben erstellen
     + OneNote
     + Habitica
+        * Bei mehreren Aufgaben nur die aktuelle in Habitica mit Checkliste: "Nachfolger anlegen"
 - konkrete Schritte zur Ausführung als Checkliste erstellen
 
 ### Wissenssammlung
@@ -52,3 +53,7 @@ Shortcut: ctrl + M
 
 - Tagebucheinträge durchgehen
 - Lebensbereiche bewerten
+
+## Blinkist
+
+- "Diese Woche neu" durchgehen und interessantes zu "Meine Titel" hinzufügen

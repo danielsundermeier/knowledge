@@ -1,19 +1,7 @@
 # Home Automation
 
-## Design
+## Links
 
-### Home Automation Controller
-I use [Home Assistant](https://www.homeassistant.io) on a Raspberry Pi 3.
-Link to config
+### Podcasts
 
-### Sensors
-
-#### Multisensor
-
-#### Motion
-
-#### Temperature
-
-### Actors
-
-### Automations
+- [Automators](https://www.relay.fm/automators/41)

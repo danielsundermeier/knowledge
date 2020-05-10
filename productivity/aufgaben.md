@@ -3,6 +3,8 @@
 - Alles erfassen (teilen: an OneNote senden)
 - Mindestens ein Mal pro Woche durchgehen und leeren
 - GTD Capture [GTD 101](http://www.asianefficiency.com/task-management/gtd-intro/)
+- [Five Steps](https://gettingthingsdone.com/what-is-gtd/)
+- [GTP with Habitica](https://habitica.fandom.com/wiki/GTD_with_Habitica)
 - Ich möchte jeder Zeit alle Aufgaben aus Habitica direkt ausführen können.
 
 ```

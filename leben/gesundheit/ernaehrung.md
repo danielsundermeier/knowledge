@@ -28,4 +28,6 @@ Geasmtkalorien steuern:
 
 ## Links
 
+- [NutritionFacts](https://nutritionfacts.org/)
 - [Air Meat](https://www.businessinsider.de/international/air-meat-alternative-startup-nasa-2019-11/?r=US&IR=T)
+- [Why Eating Meat Is Good for You](https://chriskresser.com/why-eating-meat-is-good-for-you/)

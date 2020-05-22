@@ -4,6 +4,7 @@
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - [Things I believe](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
 - [One Hundred Ideas for Computing](https://samsquire.github.io/ideas/)
+- [H+H Principles](https://github.com/hplush/hplu.sh/blob/master/principles.md)
 
 ## Setup
 

@@ -1,5 +1,7 @@
 # Home Assistant
 
+- [Lovelace Soft UI](https://github.com/N-l1/lovelace-soft-ui)
+
 ## Plugins
 
 - [HACS](https://community.home-assistant.io/t/custom-component-hacs/121727)

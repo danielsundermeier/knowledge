@@ -16,6 +16,8 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - Nächster Schritt in Projekt pro Abschnitt
 - Nächster Schritt ganzes Projekt in Habitica erstellen
 
+- Wenn ich ein Projekt pausiere, den Nächsten Schritt aufschreiben -> Ich weiß direkt was zu tun ist, wenn ich weitermachen möchte
+
 ## Flow
 
 ### Trigger
@@ -45,6 +47,8 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Inbox Management 101 – Getting to Inbox Zero](http://www.asianefficiency.com/email-management/inbox-zero-101/)
 - [How to Be Really, Really, Ridiculously Productive](https://www.nateliason.com/blog/productive)
 - [The PARA Method](https://praxis.fortelabs.co/the-p-a-r-a-method-a-universal-system-for-organizing-digital-information-75a9da8bfb37/)
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+- [Beyond The 80/20 Rule](https://www.fastcompany.com/3069049/beyond-the-80-20-rule-this-formula-might-make-you-rethink-time-management)
 
 ### Blogs
 

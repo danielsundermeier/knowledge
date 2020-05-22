@@ -12,7 +12,13 @@
 - [Zettelkasten](https://zettelkasten.de/posts/overview/)
 - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
 - [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)
+- [Two ideas that will revolutionize education forever](https://www.youtube.com/watch?v=P9rpYLOdBdM&t=240s)
+- [Learn in Public](https://www.swyx.io/writing/learn-in-public/)
 
 ## Spaced Repetition
 
 [Spaced Repetition](https://www.gwern.net/Spaced-repetition)
+
+## Online Universities
+
+- [Udacity](https://www.udacity.com)

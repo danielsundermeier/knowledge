@@ -20,8 +20,9 @@
 
 > Identify the one thing that matters the most and, as much as possible, ignore all of the other shiny distractions that just don’t matter. - [The hardest thing](https://fourpillarfreedom.com/the-hardest-thing/)
 
-Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 2080 Verteilung oder power law
-Es besagt dass man 80 % der Ergebnisse 20 % des Einsatz erreichen kann
+Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
+Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
+- [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)
 
 - [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Pet erson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
 - [Specialization is For Insects](https://thedeepdish.org/specialisation-is-for-insects/)
@@ -29,12 +30,23 @@ Es besagt dass man 80 % der Ergebnisse 20 % des Einsatz erreichen kann
 - [The Barbell Strategy for Buying Quality Stuff](https://thedeepdish.org/buying-quality/)
 - [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [Welche kleine, aber tägliche Gewohnheit kommt Dir langfristig zugute?](https://de.quora.com/Welche-kleine-aber-t%C3%A4gliche-Gewohnheit-kommt-Dir-langfristig-zugute)
 
 > Lege Dein Handy weg, nachdem Du dies hier gelesen hast.
 Steh vom Sofa auf.
 Nimm Dir ein Blatt Papier und schreibe drei Dinge auf, die Du für ein besseres Leben haben willst. Noch besser… klebe Bilder von Deinen Träumen auf eine Pinwand.
 Frage Dich jeden Morgen, was Du heute machen wirst, um Deinen Träumen näher zu kommen.
 Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen versprochen hast. - [Was kann ich tun, um mein Leben zu ändern?](https://de.quora.com/Was-kann-ich-tun-um-mein-Leben-zu-%C3%A4ndern)
+
+> If every single man or woman rejects your romantic advances, there is something wrong with your approach and your attitude. - [What are some simple truths in life?](https://www.quora.com/What-are-some-simple-truths-in-life)
+
+> Either it’s a “Hell yes” or a “No”. Everything that is not a clear yes defaults to a No. - [What are the most productive habits?](https://www.quora.com/What-are-the-most-productive-habits)
+
+> Someone that is further towards a similar goal to yours. Engage with them, learn from them, and allow yourself to be pulled along with them. - [What are the most productive habits?](https://www.quora.com/What-are-the-most-productive-habits)
+
+> There is no such thing as a “secret sauce” or “magic bullet” if you want something then you’re going to have to work for it. - [What are some true facts about life?](https://www.quora.com/What-are-some-true-facts-about-life)
+
+## Hierachrie
 
 - Building a life
 - Themes
@@ -81,3 +93,4 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)
+- [Things I’d Tell Myself at 18 That I Now Know at 26](https://fourpillarfreedom.com/things-id-tell-myself-at-18-that-i-now-know-at-26/)

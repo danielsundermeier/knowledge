@@ -18,7 +18,7 @@
 
 ## Einrichten
 
-- Mit Shelly WLAN verbinden
+- Mit Shelly WLAN verbinden (Am Besten mit Laptop -> copy / paste)
 - http://192.168.33.1/
 - Internet & Security > WiFi Mode - Client
     * Haken setzen ("Connect the Shelly device to an existing WiFi Network")

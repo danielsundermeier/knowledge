@@ -24,6 +24,10 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Write a rapid prototype first](https://terrytao.wordpress.com/advice-on-writing-papers/write-a-rapid-prototype-first/)
 - [A few 80/20 tips for writing](https://www.indiehackers.com/post/a-few-80-20-tips-for-writing-b08941d407)
 - [](https://twitter.com/monicalent/status/1258750975021588483)
+- [How to self-host comments on your otherwise static blog?](https://news.ycombinator.com/item?id=23095273) -> discuss on twitter
+- [I Found My Dream Job And It Pays $225 A Year](https://apurplelife.com/2020/05/12/my-dream-job-pays-225-a-year/)
+- [How I write](https://thesephist.com/posts/how-i-write/)
+- [How to write a programming book](https://www.aquicarattino.com/blog/how-write-programming-book/)
 
 ## Zitate
 
@@ -35,8 +39,5 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 > The brain is no place for serious thinking. If you're thinking about something important and complicated, write it down.
 – Jack Altman
 
-## Links
 
-- [How to self-host comments on your otherwise static blog?](https://news.ycombinator.com/item?id=23095273) -> discuss on twitter
-- [I Found My Dream Job And It Pays $225 A Year](https://apurplelife.com/2020/05/12/my-dream-job-pays-225-a-year/)
 

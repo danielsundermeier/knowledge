@@ -19,6 +19,7 @@
 - [Curiosity – the Force to Transform Education | Manuel Dolderer | TEDxHeidelberg]https://www.youtube.com/watch?v=LxGML77FpEU&t=632s
 - [A teaching assistant named Jill Watson | Ashok Goel | TEDxSanFrancisco](https://www.youtube.com/watch?v=WbCguICyfTA)
 - [What if students controlled their own learning?](https://www.youtube.com/watch?v=nMxqEkg3wQ0)
+- [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
 
 ## Schulen
 

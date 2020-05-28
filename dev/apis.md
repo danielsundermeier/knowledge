@@ -11,3 +11,7 @@
 
 - [Httpbin](http://httpbin.org/)
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
+
+## Beispiele
+
+-[Stripe API](https://stripe.com/docs/api)

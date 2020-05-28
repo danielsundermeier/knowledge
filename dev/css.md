@@ -4,6 +4,19 @@
 
 ## Snippets
 
+### Ellipsis
+
+```
+.text-ellipsis {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+
+[Truncate String with Ellipsis](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
+
 ### Position fixed center
 
 ```

@@ -14,6 +14,7 @@
 - [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)
 - [Two ideas that will revolutionize education forever](https://www.youtube.com/watch?v=P9rpYLOdBdM&t=240s)
 - [Learn in Public](https://www.swyx.io/writing/learn-in-public/)
+- [How do top students manage their study time?](https://www.quora.com/How-do-top-students-manage-their-study-time/answer/Beno%C3%AEt-Seron-2)
 
 ## Spaced Repetition
 

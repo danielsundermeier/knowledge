@@ -15,6 +15,7 @@
 - [Two ideas that will revolutionize education forever](https://www.youtube.com/watch?v=P9rpYLOdBdM&t=240s)
 - [Learn in Public](https://www.swyx.io/writing/learn-in-public/)
 - [How do top students manage their study time?](https://www.quora.com/How-do-top-students-manage-their-study-time/answer/Beno%C3%AEt-Seron-2)
+- [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 
 ## Spaced Repetition
 
@@ -23,3 +24,7 @@
 ## Online Universities
 
 - [Udacity](https://www.udacity.com)
+
+## Beispiele
+
+-[Quantum computing for the very curious](https://quantum.country/qcvc)

@@ -1,5 +1,9 @@
 # Javascript
 
+## Format
+
+- [JavaScript Standard Style](https://standardjs.com/rules.html)
+
 ## Snippets
 
 - [Textarea auto-expand](https://codepen.io/vsync/pen/frudD)

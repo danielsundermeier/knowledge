@@ -14,3 +14,4 @@
 ## Links
 - [Bookstack](https://www.bookstackapp.com/)
 - [Audience-First Products](https://www.perell.com/blog/audience-first-products)
+- [How can we build an extension of your mind?](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)

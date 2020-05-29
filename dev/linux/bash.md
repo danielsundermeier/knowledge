@@ -6,3 +6,15 @@
 - [DevOps Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 - [Bash script tutorial](https://www.devopsroles.com/bash-script/)
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
+
+## Snippets
+
+### Symlink
+
+```
+ln -s /path/to/file /path/to/symlink
+```
+
+```
+ln -sf /path/to/file /path/to/symlink
+```

@@ -6,3 +6,7 @@
 
 - [HACS](https://community.home-assistant.io/t/custom-component-hacs/121727)
 Home Assistant Community Store
+
+## Automations
+
+- [No more light switches](https://smarthome.university/automations/no-more-light-switches/)

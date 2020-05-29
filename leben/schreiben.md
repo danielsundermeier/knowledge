@@ -29,6 +29,10 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How I write](https://thesephist.com/posts/how-i-write/)
 - [How to write a programming book](https://www.aquicarattino.com/blog/how-write-programming-book/)
 
+## Static Site Generator
+
+- [Static Gen](https://www.staticgen.com/)
+
 ## Zitate
 
 > When you write a first draft, you write it for yourself. When you rewrite it, you write it for everyone else. - Stephen King

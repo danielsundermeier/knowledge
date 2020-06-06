@@ -28,6 +28,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [I Found My Dream Job And It Pays $225 A Year](https://apurplelife.com/2020/05/12/my-dream-job-pays-225-a-year/)
 - [How I write](https://thesephist.com/posts/how-i-write/)
 - [How to write a programming book](https://www.aquicarattino.com/blog/how-write-programming-book/)
+- [Writing Mise en place](https://www.swyx.io/writing/writing-mise-en-place/)
 
 ## Static Site Generator
 

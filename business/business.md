@@ -14,8 +14,7 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 ## Links
 
 - [Be Good](http://paulgraham.com/good.html)
-
-### Artikel
+- [Your First 60 Days](https://microconf.gen.co/patrick-mckenzie/)
 
 ### Blogs
 

@@ -11,9 +11,9 @@ cardmonitor.de
 to namecheap.
 
 Anschrift
-Daniel | Sundermeier | daniel@hof-sundermeier.de | Germany | Forststraße 31 | Minden | NRW | 32423 | +49 17622780473
+Vorname | Nachname | E-Mail | Land | Straße Hausnummer | Stadt | Region | PLZ | Telefon
 
-Pin: 7809
-username: taces2
+Pin: 
+username: 
 
 Authcode: 

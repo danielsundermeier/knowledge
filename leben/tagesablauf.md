@@ -2,27 +2,25 @@
 
 ## Arbeitstag
 
-- 3:00: Aufstehen
-    + direkt aufstehen (erst abends wieder ins Bett legen)
-    + Klo
+- 2:45: Aufstehen
+    + Direkt aufstehen (erst abends wieder ins Bett legen)
     + Foto machen
     + Wiegen
-    + Waschen
-    + Zähneputzen 
-    + Anziehen für Spaziergang 
+    + Waschen, Zähneputzen 
+    + Training
+    + Dehnen
     + Auf Sessel im Arbeitszimmer setzen
-    + Meditieren
-    + Anfangen Tagebuch schreiben 
+        + Meditieren
+        + Anfangen Tagebuch schreiben 
+    + Frühstück 
+    + Duschen
+    + Anziehen für Spaziergang 
 - 03:45: Arbeit Start
     + Kommentare lesen
     + Aufgaben durchgehen
     + Meinen geplanten Tag durchgehen
 - 4:45: Spazieren gehen
 - 5:45: Arbeit Start
-    + Training (Jetziges Arbeitszimmer)
-    + Dehnen
-    + Frühstück 
-    + Duschen
 - 13:00: Mittagessen
 - 14:00: Nächsten Tag planen
 - 14:30: 

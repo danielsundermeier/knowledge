@@ -1,12 +1,12 @@
 # Leben
 
-- Rejection is better than the friendzone
-
 >  “Good judgment comes from experience. Experience comes from bad judgment.” - unknown
 
 > "Anything worth doing is likely to be painful, dangerous or unpleasant at least some of the time, but it provides a lot more lasting satisfaction than sitting at home in a padded room, eating candy."
 
 > "I’ve found my passion is not for a specific thing but to the idea of been able to have many short-term passions. Plus, when things get very complicated and boring my natural response is — OK NEXT!"
+
+> Rejection is better than the friendzone
 
 > "" - Erik Weinstein Podcast mit Peter Thiel
 
@@ -90,7 +90,13 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 - Stabilization
 - Clarity
 
+## Minimalismus
+
+- [Living with less](https://www.wernervanrooyen.com/living-with-less-one-bag/)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)
 - [Things I’d Tell Myself at 18 That I Now Know at 26](https://fourpillarfreedom.com/things-id-tell-myself-at-18-that-i-now-know-at-26/)
+- [What 10 things should I do every day to become smarter?](https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1)
+- [What are 5 habits that can improve my life?](https://www.quora.com/What-are-5-habits-that-can-improve-my-life/answer/Dylan-Woon-1)

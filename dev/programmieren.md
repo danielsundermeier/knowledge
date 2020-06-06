@@ -27,6 +27,8 @@
 - [Laracasts](https://laracasts.com/)
 - [The Mailcoach
 video course](https://mailcoach.app/videos)
+- [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/)
+- [Laravel Package Training](https://laravelpackage.training/)
 
 ## Ablauf
 

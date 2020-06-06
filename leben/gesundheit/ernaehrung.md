@@ -8,8 +8,8 @@
 
 ## Plan
 
-Frühstück: Haferflocken mit Milch (Joghurt?)
-Mittagessen: Kartoffeln mit Quark
+Frühstück: Haferflocken mit Milch
+Mittagessen: Kartoffeln mit Tiefkühlgemüse
 Abendbrot: Bohnen Salat
 Snacks: Obst (Äpfel, Möhren) 
 - öfter variieren 

@@ -1,5 +1,11 @@
 # Wissenssammlung
 
+## Terms of service
+
+![Terms of serive](https://user-images.githubusercontent.com/6764957/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
+
+[digital garden tos](https://github.com/sw-yx/digital-garden-tos)
+
 ## Disclamer
 
 Dies ist eine Sammlung von Ideen, Abläufen und Wissen aus meinen limitierten Erfahrungen. Alle Informationen sind in ständigem Wandel (WORK IN PROGRESS). Ich erhebe keinen Anspruch auf Richtigkeit oder Vollständigkeit.

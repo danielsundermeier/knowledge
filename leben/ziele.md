@@ -4,3 +4,11 @@
 - [Perfekt 24 Hours](https://perfect24hours.com/)
 - [What to work on](https://www.julian.com/blog/life-planning)
 - [Self Authoring Suite](https://www.selfauthoring.com/)
+
+## Ziele erreichen
+
+1. Flaschenhals bei einem Ziel erkennen; Was hält mich am Stärksten zurück
+2. Flaschenhals beseitigen
+3. Wiederholen bis Ziel erreicht
+
+So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen, die kaum Auswirkung auf das Ziel haben

@@ -13,6 +13,8 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 
 ## Links
 
+- [Be Good](http://paulgraham.com/good.html)
+
 ### Artikel
 
 ### Blogs

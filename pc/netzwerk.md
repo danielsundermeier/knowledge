@@ -1,5 +1,9 @@
 # Netzwerk
 
+## Links
+
+- [WiFi Login Card](https://wifi.dev.bdw.to/)
+
 ## Ethernet
 
 ### Crimpen

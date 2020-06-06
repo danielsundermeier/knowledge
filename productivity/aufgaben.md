@@ -66,7 +66,7 @@ Eingang ->
 
 #### Tagebuch
 
-Mittelfristig in [LifeOS](lifeos.serienguide.tv)
+Mittelfristig in [LifeOS](https://github.com/LifeOS-HQ/lifeos)
 
 #### Projektideen
 

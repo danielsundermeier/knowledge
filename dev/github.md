@@ -14,6 +14,10 @@
 
 - [Improving GitHub Issue Labels](http://karolis.koncevicius.lt/posts/improving_github_issue_labels/)
 
-## Brachches
+## Braches
 
 - [A successful Git branching model (2020)](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## Commits
+
+- [Conventional Commits](https://www.conventionalcommits.org/)

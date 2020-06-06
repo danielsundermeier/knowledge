@@ -16,6 +16,7 @@
 - [Learn in Public](https://www.swyx.io/writing/learn-in-public/)
 - [How do top students manage their study time?](https://www.quora.com/How-do-top-students-manage-their-study-time/answer/Beno%C3%AEt-Seron-2)
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
+- [Listen Notes](https://www.listennotes.com/)
 
 ## Spaced Repetition
 

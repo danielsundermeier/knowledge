@@ -46,6 +46,10 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 
 > There is no such thing as a “secret sauce” or “magic bullet” if you want something then you’re going to have to work for it. - [What are some true facts about life?](https://www.quora.com/What-are-some-true-facts-about-life)
 
+[18 years old Tolstoy's Rules For Life](https://www.reddit.com/r/JordanPeterson/comments/gxx8hf/18_years_old_tolstoys_rules_for_life/)
+
+![18 years old Tolstoy's Rules For Life](https://i.redd.it/fuun935wbc351.jpg)
+
 ## Hierachrie
 
 - Building a life

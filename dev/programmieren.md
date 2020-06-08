@@ -7,6 +7,7 @@
 - [H+H Principles](https://github.com/hplush/hplu.sh/blob/master/principles.md)
 - [Tania Rascia
 ](https://www.taniarascia.com/blog/) - Anleitungen zu verschiedenen Themen
+- [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 
 ## Setup
 

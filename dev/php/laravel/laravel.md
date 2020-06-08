@@ -40,3 +40,16 @@ trait Unguarded
     }
 }
 ```
+
+## NULL Object Pattern
+
+### Relationships
+
+```
+    public function relationship() : HasOne
+    {
+        return $this->hasOne(Relationship::class)->withDefault([
+            'foo' => 'bar',
+        ]); 
+    }
+```

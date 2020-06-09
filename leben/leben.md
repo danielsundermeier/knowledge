@@ -46,9 +46,13 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 
 > There is no such thing as a “secret sauce” or “magic bullet” if you want something then you’re going to have to work for it. - [What are some true facts about life?](https://www.quora.com/What-are-some-true-facts-about-life)
 
+> "Saying that you're a nice guy is like a restaurant whose only selling point is that the food doesn't make you sick. You're like a new movie whose title is This Movie Is in English, and its tagline is "The actors are clearly visible." [6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/)
+
 [18 years old Tolstoy's Rules For Life](https://www.reddit.com/r/JordanPeterson/comments/gxx8hf/18_years_old_tolstoys_rules_for_life/)
 
 ![18 years old Tolstoy's Rules For Life](https://i.redd.it/fuun935wbc351.jpg)
+
+- [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
 
 ## Hierachrie
 

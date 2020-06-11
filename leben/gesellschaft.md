@@ -2,13 +2,34 @@
 
 ## Wohnen
 
-2 "Welten"  
-1. Virtuelle Welt in der man Kontakt zur gesamten Welt hat
-2. Reale Welt in der man mit <150 Menschen in einer sich (größtenteils) selbstversorgenden "walkable neighbourhood" wohnt
+### 2 "Welten"   
+- Virtuelle Welt in der man Kontakt zur gesamten Welt hat
+- Reale Welt in der man mit < 150 Menschen in einer sich (größtenteils) selbstversorgenden "walkable neighbourhood" wohnt
+
+### Struktur
 
 - Plusenergiehäuser
 - Kreislaufwirtschaft
 - Leben in der Natur
+- Autarke Grundversorgung
+    + Energie
+    + Lebensmittel
+
+### Energieversorgung
+
+#### Photovoltaik
+
+#### Stromspeicher
+
+##### Haus
+##### Nachbarschaft
+##### Regional
+
+#### Wärmepumpe
+
+#### Algenkraftwerk
+
+#### Fernwärme
 
 ### Links
 

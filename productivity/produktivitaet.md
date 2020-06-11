@@ -50,6 +50,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
 - [Beyond The 80/20 Rule](https://www.fastcompany.com/3069049/beyond-the-80-20-rule-this-formula-might-make-you-rethink-time-management)
 - [How to Build a Second Brain](https://illustrated.dev/secondbrain1)
+- [Warren Buffett’s “2 List” Strategy](https://jamesclear.com/buffett-focus)
 
 ### Blogs
 

@@ -2,7 +2,7 @@
 
 ## Struktur
 
-![Übersicht](finanzen-flow.png)
+![Übersicht](./finanzen-flow.png)
 
 ### Ablauf
 

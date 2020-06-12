@@ -1,6 +1,6 @@
 # Landwirtschaft
 
-![Produktionsdiagramm](produktionsdiagramm.png)
+![Produktionsdiagramm](./produktionsdiagramm.png)
 
 ## Kompostieren
 

@@ -3,6 +3,7 @@
 - Täglich aufschreiben, was mich beschäftigt
 - -> Klarerer Verstand
 - Wenn ich meine Gedanken aufschreibe, kann ich über neues Nachdenken
+- Kleinigkeiten, die ich verbessern kann aufschreiben und abarbeiten
 
 ## Videos
 

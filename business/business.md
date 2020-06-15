@@ -6,6 +6,12 @@ Beispiel:
 - Tesla
 Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 [Teslas secret weapon](https://www.youtube.com/watch?v=XgtXped_w4s)
+- Geschäftsmodell: Vertrauen
+- keine Kosten für die Umwelt produzieren
+- geringe Kosten
+- Mitarbeiter gut bezahlen
+- sehr gutes Produkt 
+- wenige Varianten
 
 ## Zitate
 
@@ -15,6 +21,7 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 
 - [Be Good](http://paulgraham.com/good.html)
 - [Your First 60 Days](https://microconf.gen.co/patrick-mckenzie/)
+- [Pre-Brand](https://pre-brand.com/) - You don’t need a perfect brand, you need to keep moving
 
 ### Blogs
 

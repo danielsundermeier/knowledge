@@ -1,5 +1,7 @@
 # Github
 
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+
 ## Pull Requests
 
 1. [Fork](https://guides.github.com/activities/forking/) the Repository
@@ -21,3 +23,7 @@
 ## Commits
 
 - [Conventional Commits](https://www.conventionalcommits.org/)
+
+## Secrets
+
+- [Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)

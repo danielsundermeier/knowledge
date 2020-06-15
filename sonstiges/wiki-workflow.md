@@ -10,6 +10,7 @@
 - Seiten ohne Ordner kommen in "Sonnstiges"
 - Jede Seite kann zu einem Ordner werden, wenn es genung Inhalt gibt
 - Kein Ordner mit nur einer Datei
+- Alle Überschriften bekommen ein a Tag zum Verlinken
 
 ## Links
 - [Bookstack](https://www.bookstackapp.com/)

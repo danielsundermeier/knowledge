@@ -54,6 +54,10 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 
 - [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
 
+- Öfter ungestört Musik hören (1x pro Woche)
+- Jeden Tag 1h für Hobby reservieren-> führt zu beeindruckenden Ergebnissen, sehr viel Spaß und Erfüllung und vielleicht sogar zu einem (Neben)Job
+
+
 ## Hierachrie
 
 - Building a life
@@ -98,6 +102,10 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 - Stabilization
 - Clarity
 
+#### Inspiration
+
+- [Skillshare](https://www.skillshare.com)
+
 ## Minimalismus
 
 - [Living with less](https://www.wernervanrooyen.com/living-with-less-one-bag/)
@@ -108,3 +116,10 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 - [Things I’d Tell Myself at 18 That I Now Know at 26](https://fourpillarfreedom.com/things-id-tell-myself-at-18-that-i-now-know-at-26/)
 - [What 10 things should I do every day to become smarter?](https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1)
 - [What are 5 habits that can improve my life?](https://www.quora.com/What-are-5-habits-that-can-improve-my-life/answer/Dylan-Woon-1)
+- [Andrew Ferebee](https://www.quora.com/profile/Andrew-Ferebee)
+
+### Supernormal stimulus
+
+- [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
+- [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
+- [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)

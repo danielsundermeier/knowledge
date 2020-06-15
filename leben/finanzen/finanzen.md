@@ -28,6 +28,21 @@
 - Immer mindestens einen Teil der Gewinne reinvestieren
 - Nur das notwendigste entnehmen / nie mehr als die Gewinne (Dividenden)
 
+## Investments
+
+- P2P: zu Riskant, zu wenig Rendite für Risiko
+- Häuser: zu viel Aufwand 
+- Crypto: wie Kasino 
+- ETF: beste Option
+
+## Regeln
+
+- Nicht von FOMO leiten lassen -> get rich slowly 
+- Niemals Kredit für Konsum
+- Weniger ausgeben als einnehmen
+- Budget einhalten
+- Rest investieren 
+
 ## Sonstiges
 
 ### Rechnungen 

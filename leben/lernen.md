@@ -18,6 +18,7 @@
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 - [Listen Notes](https://www.listennotes.com/)
 - [recurse](https://www.recurse.com) - educational retreats for anyone who wants to get dramatically better at programming
+- [Learning How to Learn](https://max2c.com/learning-how-to-learn/)
 
 ## Spaced Repetition
 

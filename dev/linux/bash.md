@@ -18,3 +18,30 @@ ln -s /path/to/file /path/to/symlink
 ```
 ln -sf /path/to/file /path/to/symlink
 ```
+
+### Print Working directory
+
+```
+pwd
+```
+
+### Change Driectory
+
+```
+cd - // Zum letzen Ordner
+```
+
+### Rechte
+
+#### Dateien
+
+- r: lesen
+- w: schreiben
+- x: ausführen
+
+#### Ordner
+
+- r: lesen
+- w: Dateien löschen, erstellen
+- x: Ordner öffnen (cd dir)
+

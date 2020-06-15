@@ -1,5 +1,9 @@
 # Produktivität
 
+- Jeden Tag etwas verbessern
+- In kleinen Schritten ein großes Ziel erreichen: Kaizen
+- Flaschenhäse finden und entfernen
+
 ## Idee
 
 - Motivation für jede Idee aufschreiben. Wieso möchte ich das machen? Warum ist es sinnvoll?
@@ -51,6 +55,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Beyond The 80/20 Rule](https://www.fastcompany.com/3069049/beyond-the-80-20-rule-this-formula-might-make-you-rethink-time-management)
 - [How to Build a Second Brain](https://illustrated.dev/secondbrain1)
 - [Warren Buffett’s “2 List” Strategy](https://jamesclear.com/buffett-focus)
+- [GTD in 15 minutes](https://hamberg.no/gtd/)
 
 ### Blogs
 

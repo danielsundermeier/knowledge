@@ -25,3 +25,4 @@
 
 - [Monetizing open source (2020)](https://twitter.com/zenorocha/status/1252252675522981890)
 - [Sponsorware](https://github.com/sponsorware/docs)
+- [I Just Hit $100,000/yr On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)

@@ -12,6 +12,10 @@
 - Kein Ordner mit nur einer Datei
 - Alle Überschriften bekommen ein a Tag zum Verlinken
 
+## Digital gardens
+
+- [Second Brain](https://github.com/KasperZutterman/Second-Brain#readme) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
+
 ## Links
 - [Bookstack](https://www.bookstackapp.com/)
 - [Audience-First Products](https://www.perell.com/blog/audience-first-products)

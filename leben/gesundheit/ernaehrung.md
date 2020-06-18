@@ -10,13 +10,15 @@
 
 ## Plan
 
-Frühstück: Haferflocken mit Milch
-Mittagessen: Kartoffeln mit Tiefkühlgemüse
-Abendbrot: Bohnen Salat
-Snacks: Obst (Äpfel, Möhren) 
-- öfter variieren 
-- Feste Kalorienanzahl 500 kcal
-- je nach Obst andere Mengen
+Frühstück: Haferflocken (200g) mit Vollmilch (0,5l) & Leinensamen (5g)
+Mittagessen: Kartoffeln (500g) mit Tiefkühlgemüse (500g)
+Abendbrot: Bohnen Salat (Kidneybohnen, Linsen, Mais, Erbsen und Möhren; je eine halbe Dose)
+Snacks: 
+- Obst (Äpfel, Möhren) 
+    + öfter variieren 
+    + Feste Kalorienanzahl 500 kcal
+    + je nach Obst andere Mengen
+- Beeren mit Magerquark
 
 Geasmtkalorien steuern:
 1. Menge von Kartoffeln bis 750g

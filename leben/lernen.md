@@ -20,6 +20,7 @@
 - [recurse](https://www.recurse.com) - educational retreats for anyone who wants to get dramatically better at programming
 - [Learning How to Learn](https://max2c.com/learning-how-to-learn/)
 - [Constructionism and the Future of Learning](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
+- [Reimagining the PhD](https://nadiaeghbal.com/phd)
 
 ## Spaced Repetition
 

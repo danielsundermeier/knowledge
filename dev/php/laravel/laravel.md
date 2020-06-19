@@ -41,6 +41,10 @@ trait Unguarded
 }
 ```
 
+## Attributes
+
+- [Tracking model attribute changes in Laravel](https://www.amitmerchant.com/tracking-model-attribute-laravel/)
+
 ## NULL Object Pattern
 
 ### Relationships

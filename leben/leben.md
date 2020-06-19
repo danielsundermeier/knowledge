@@ -3,14 +3,9 @@
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
 Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
 - [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)
-- [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Pet erson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
-- [Specialization is For Insects](https://thedeepdish.org/specialisation-is-for-insects/)
-- [Rules](https://github.com/nikitavoloboev/knowledge/blob/ee97d6d2e96d10ce2514cd708a182ead36724967/focusing/rules.md)
-- [The Barbell Strategy for Buying Quality Stuff](https://thedeepdish.org/buying-quality/)
-- [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
-- [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-- [Welche kleine, aber tägliche Gewohnheit kommt Dir langfristig zugute?](https://de.quora.com/Welche-kleine-aber-t%C3%A4gliche-Gewohnheit-kommt-Dir-langfristig-zugute)
-- [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
+
+Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um Lösungen zu finden. Deshalb ist es wichtig seine Gedanken aufzuschreiben.
+- [Life Is a Video Game—Here Are the Cheat Codes](https://markmanson.net/life-cheat-codes)
 
 [18 years old Tolstoy's Rules For Life](https://www.reddit.com/r/JordanPeterson/comments/gxx8hf/18_years_old_tolstoys_rules_for_life/)
 
@@ -40,6 +35,15 @@ Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
 - [What are 5 habits that can improve my life?](https://www.quora.com/What-are-5-habits-that-can-improve-my-life/answer/Dylan-Woon-1)
 - [Andrew Ferebee](https://www.quora.com/profile/Andrew-Ferebee)
 - [Same As It Ever Was](https://www.collaborativefund.com/blog/same-as-it-ever-was/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
+- [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Pet erson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
+- [Specialization is For Insects](https://thedeepdish.org/specialisation-is-for-insects/)
+- [Rules](https://github.com/nikitavoloboev/knowledge/blob/ee97d6d2e96d10ce2514cd708a182ead36724967/focusing/rules.md)
+- [The Barbell Strategy for Buying Quality Stuff](https://thedeepdish.org/buying-quality/)
+- [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
+- [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [Welche kleine, aber tägliche Gewohnheit kommt Dir langfristig zugute?](https://de.quora.com/Welche-kleine-aber-t%C3%A4gliche-Gewohnheit-kommt-Dir-langfristig-zugute)
+- [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
+- [Life Is a Video Game—Here Are the Cheat Codes](https://markmanson.net/life-cheat-codes)
 
 ### Supernormal stimulus
 

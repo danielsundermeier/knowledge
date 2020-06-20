@@ -4,6 +4,7 @@
 - -> Klarerer Verstand
 - Wenn ich meine Gedanken aufschreibe, kann ich über neues Nachdenken
 - Kleinigkeiten, die ich verbessern kann aufschreiben und abarbeiten
+- Tagebuch schreiben ist wie eine Therapie. Indem man seine Gedanken aus einer andern Perspektive sieht.
 
 ## Videos
 

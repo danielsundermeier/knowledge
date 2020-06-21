@@ -8,6 +8,26 @@
 - Schule kann zum Nachfragen / Lernen genutzt werden
 - Lehrer unterstützen Schüler bei Projekten 
 
+## Fächer
+
+Zusätzlich zu den normalen Fächern 
+Schüler auf das Leben vorbereiten
+
+- Lernen lernen
+- Probleme lösen
+- Gesundheit
+    + Schlaf
+    + Ernährung / Kochen / Gärtnern
+    + Fitness
+- Finanzen
+    + Budget
+    + Investment
+- Mit Leben / Gefühlen / Stress umgehen
+    + Kommunikation mit anderen Menschen
+    + Therapie / Tagebuch
+    + Meditieren
+    + Organisation / Planen / GTD?
+
 ## Links
 
 - [Project Based Learning for all](https://www.pblworks.org/)

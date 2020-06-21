@@ -1,5 +1,19 @@
 # Lernen
 
+## Lernen durch Projekte 
+
+- Lernen durch Projekte (Probleme im eigenen Leben lösen)
+- Ich habe durch [serienguide](https://www.serienguide.tv) programmieren gelernt
+-> Innere Motivation etwas zu lernen 
+
+## Learning in Public
+
+- Gelerntes Veröffentlichen (Github, Digital Garden)
+-> Dokumentation für sich selbst
+-> Vielleicht hilft es jemandem
+-> Gemeinsam lernen
+-> Hifreich für Lebenslauf?
+
 ## Links
 
 - [Taschenhirn](https://www.taschenhirn.de/)

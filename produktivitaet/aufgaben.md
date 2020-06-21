@@ -12,15 +12,10 @@ Langeweile?
 -> Älteste Aufgabe in Habitica ausführen!
 ```
 
-## Planen
-
-OneNote
-(Dopmain)
-
-## Ausführen
-
-Habitica
-(Here & Now)
+| Planen | Ausführen |
+| ------ | --------- |
+| OneNote | Habitica |
+| Dopamin | Here & Now |
 
 ## Eingang
 

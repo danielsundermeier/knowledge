@@ -14,10 +14,6 @@
 2. Ernährung
 3. Fitness
 
-## Links
-
-- [Timebanks](https://timebanks.org/)
-
 ## Wohnen
 
 ### 2 "Welten"   
@@ -57,4 +53,5 @@
 - [The "Tesla" of EcoVillages](https://www.youtube.com/watch?v=kH_94v67upo)
 - [Regen Villages](http://regenvillages.com/)
 - [The Civium Project 01](https://www.youtube.com/watch?v=yXBAtdyBto0)
+- [Timebanks](https://timebanks.org/)
 

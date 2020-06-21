@@ -1,5 +1,19 @@
 # Gesellschaft
 
+- Menschen beibringen, wie sie Probleme lösen und mit Stress umgehen können, um so ihr Leben zu verbessern
+-> Bessere Gesellschaft
+- "Schlechteste" Nachbarschaft zuerst verbessern
+-> größter Nutzen für Einsatz (größtes Potential etwas zu verändern)
+
+## Gesundheit
+
+- Fundament des Lebens
+-> Mehr Energie, um Dinge zu ändern
+
+1. Schlaf
+2. Ernährung
+3. Fitness
+
 ## Links
 
 - [Timebanks](https://timebanks.org/)
@@ -27,6 +41,9 @@
 
 ##### Haus
 ##### Nachbarschaft
+
+- 
+
 ##### Regional
 
 #### Wärmepumpe

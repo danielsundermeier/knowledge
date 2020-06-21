@@ -12,6 +12,8 @@
 
 - [Project Based Learning for all](https://www.pblworks.org/)
 - [Die Zukunftsbauer](https://www.diezukunftsbauer.com/)
+- [Collaborative Learning Platform](https://azlen.me/projects/collaborative_learning_platform/)
+- [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
 
 ## Videos
 

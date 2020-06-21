@@ -13,9 +13,12 @@ Zeit in der Natur verbringen
 
 ## Schlaf
 
+- [SLEEP 101: How to Feel Way Better in the Morning](https://www.youtube.com/watch?v=3twqNZGe0vg&t=169s)
+- [Matthew’s Tips for Good Sleep](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
+
 ## Fitness
 
-## Ernährung
+- [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
 
 ## Altern
 

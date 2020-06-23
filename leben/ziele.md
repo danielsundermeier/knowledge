@@ -14,4 +14,5 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - [Perfekt 24 Hours](https://perfect24hours.com/)
 - [What to work on](https://www.julian.com/blog/life-planning)
 - [Self Authoring Suite](https://www.selfauthoring.com/)
+- [How to Figure out What you Want in Life](https://www.youtube.com/watch?v=O64k2QvZwa8&t=328s)
 

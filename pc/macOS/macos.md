@@ -15,6 +15,7 @@
 
 - [Homebrew's new feature: Brewfiles](https://coderwall.com/p/afmnbq/homebrew-s-new-feature-brewfiles)
 - Brewfile von Github installieren?
+- [Brewfiles](https://brewfile.info/)
 
 ## Nix
 

@@ -29,6 +29,8 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How I write](https://thesephist.com/posts/how-i-write/)
 - [How to write a programming book](https://www.aquicarattino.com/blog/how-write-programming-book/)
 - [Writing Mise en place](https://www.swyx.io/writing/writing-mise-en-place/)
+- [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
+- [The real power of the Jeff Bezos memo](https://medium.com/swlh/the-real-power-of-the-jeff-bezos-memo-and-how-you-can-put-it-into-practice-even-if-you-dont-have-bb2e66905b77)
 
 ## Static Site Generator
 

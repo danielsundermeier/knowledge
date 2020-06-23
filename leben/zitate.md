@@ -32,4 +32,6 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 
 > There is no such thing as a “secret sauce” or “magic bullet” if you want something then you’re going to have to work for it. - [What are some true facts about life?](https://www.quora.com/What-are-some-true-facts-about-life)
 
-> "Saying that you're a nice guy is like a restaurant whose only selling point is that the food doesn't make you sick. You're like a new movie whose title is This Movie Is in English, and its tagline is "The actors are clearly visible." [6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/)
+> "Saying that you're a nice guy is like a restaurant whose only selling point is that the food doesn't make you sick. You're like a new movie whose title is This Movie Is in English, and its tagline is "The actors are clearly visible." - [6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/)
+
+> writing not only helps you to understand what’s going on and to crystallize your thoughts, it actually makes you think of new ideas and come up with solutions to your problems. - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)

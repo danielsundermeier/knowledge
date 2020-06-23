@@ -12,7 +12,8 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 ![18 years old Tolstoy's Rules For Life](https://i.redd.it/fuun935wbc351.jpg)
 
 - Öfter ungestört Musik hören (1x pro Woche)
-- Jeden Tag 1h für Hobby reservieren-> führt zu beeindruckenden Ergebnissen, sehr viel Spaß und Erfüllung und vielleicht sogar zu einem (Neben)Job
+- Jeden Tag 1h für Hobby reservieren -> führt zu beeindruckenden Ergebnissen, sehr viel Spaß und Erfüllung und vielleicht sogar zu einem (Neben)Job
+- Dinge, die ich für mich machen möchte priorisieren und zuerst machen (früher aufstehen), dann kann nichts mehr dazwischenkommen
 
 ## Hierachrie
 
@@ -44,6 +45,8 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 - [Welche kleine, aber tägliche Gewohnheit kommt Dir langfristig zugute?](https://de.quora.com/Welche-kleine-aber-t%C3%A4gliche-Gewohnheit-kommt-Dir-langfristig-zugute)
 - [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
 - [Life Is a Video Game—Here Are the Cheat Codes](https://markmanson.net/life-cheat-codes)
+- [Book Review: Twelve Rules For Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)
+- [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 
 ### Supernormal stimulus
 

@@ -56,6 +56,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [How to Build a Second Brain](https://illustrated.dev/secondbrain1)
 - [Warren Buffett’s “2 List” Strategy](https://jamesclear.com/buffett-focus)
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
+- [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
 
 ### Blogs
 

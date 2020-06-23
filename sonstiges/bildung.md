@@ -34,6 +34,7 @@ Schüler auf das Leben vorbereiten
 - [Die Zukunftsbauer](https://www.diezukunftsbauer.com/)
 - [Collaborative Learning Platform](https://azlen.me/projects/collaborative_learning_platform/)
 - [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
+- [Video Games are the Future of Education](https://nabeelqu.co/education)
 
 ## Videos
 

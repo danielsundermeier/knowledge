@@ -55,6 +55,7 @@
 - [How to build wealth slowly](https://pjrvs.com/wealth)
 - [Opportunity cost ](https://thewokesalaryman.com/2020/05/05/life-changing-economic-theories-applied-to-personal-finance/)
 - [How to Build Profitable Websites from Scratch](https://fourpillarfreedom.com/the-income-community-how-to-build-profitable-websites-from-scratch/)
+- [Against Universal Basic Income](https://guzey.com/economics/against-universal-basic-income/)
 
 ## Videos
 

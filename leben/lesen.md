@@ -4,7 +4,7 @@
 
 Zusammenfasung auf www.blinkist.de anhören
 
-OneNote
+### OneNote
 
 - Was möchte ich lernen / Warum lese ich das Buch
 - Fragen aufschreiben
@@ -26,7 +26,7 @@ OneNote
 - Fragen beantworten
 - Bücher nach dem Lesen in goodreads kategorisieren, wenn sie hilfreich waren
 - Wichtige Punkte in Wissenssammlung eintragen
-- In bestimmten Abständen Zusammenfassung anhören, um das Gelernte zu behalten
+- In bestimmten Abständen Zusammenfassung anhören (Blinkist), um das Gelernte zu behalten
 
 ## Kategorien
 
@@ -42,3 +42,4 @@ OneNote
 - [How to Effectively Read and Implement Books](http://www.asianefficiency.com/systems/how-to-effectively-read-and-implement-books/)
 - [MindNode](https://mindnode.com/)
 - [Read This Twice](https://readthistwice.com/) - Books worth reading twice.
+- [How to Read a Book](https://thedeepdish.org/how-to-read-a-book/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-read-a-book)

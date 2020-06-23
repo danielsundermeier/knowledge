@@ -44,6 +44,11 @@ Schüler auf das Leben vorbereiten
 - [What if students controlled their own learning?](https://www.youtube.com/watch?v=nMxqEkg3wQ0)
 - [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
 
+## Kurse
+
+- [Progress Studies for Aspiring
+Young Scholars](https://progressstudies.school/)
+
 ## Schulen
 
 - [Khan Academy](www.khanacademy.com)

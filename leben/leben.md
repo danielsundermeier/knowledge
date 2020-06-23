@@ -14,6 +14,7 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 - Öfter ungestört Musik hören (1x pro Woche)
 - Jeden Tag 1h für Hobby reservieren -> führt zu beeindruckenden Ergebnissen, sehr viel Spaß und Erfüllung und vielleicht sogar zu einem (Neben)Job
 - Dinge, die ich für mich machen möchte priorisieren und zuerst machen (früher aufstehen), dann kann nichts mehr dazwischenkommen
+- Zeit in der Natur verbringen
 
 ## Hierachrie
 

@@ -7,6 +7,7 @@
     + Farbe der Teller nicht Farbe des Essens -> grüne Teller = mehr Gemüse; weniger vom Rest
 - Nicht hungrig Einkaufen gehen -> Ich kaufe Nahrungsmittel, die ich nicht kaufen möchte
 - bewusst essen, langsam und ohne Ablenkung
+- Nahrungsmittel mit geringer Kaloriendichte (viel Masse, wenig Kalorien) z.B. Gemüse
 
 ## Plan
 
@@ -14,13 +15,10 @@ Frühstück: Haferflocken (200g) mit Vollmilch (0,5l) & Leinensamen (5g)
 Mittagessen: Kartoffeln (500g) mit Tiefkühlgemüse (500g)
 Abendbrot: Bohnen Salat (Kidneybohnen, Linsen, Mais, Erbsen und Möhren; je eine halbe Dose)
 Snacks: 
-- Obst (Äpfel, Möhren) 
-    + öfter variieren 
-    + Feste Kalorienanzahl 500 kcal
-    + je nach Obst andere Mengen
-- Beeren mit Magerquark
+- Obst (Äpfel, Möhren) oder Gemüse (ca. 200 kcal)
+- Beeren (50g) mit Magerquark (500g)
 
-Geasmtkalorien steuern:
+Gesamtkalorien steuern:
 1. Menge von Kartoffeln bis 750g
 2. Menge von Haferflocken
 

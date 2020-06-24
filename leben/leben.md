@@ -48,6 +48,7 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 - [Life Is a Video Game—Here Are the Cheat Codes](https://markmanson.net/life-cheat-codes)
 - [Book Review: Twelve Rules For Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)
 - [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
+- [Things I’ve Learned from James Clear](https://fourpillarfreedom.com/things-ive-learned-from-james-clear/)
 
 ### Supernormal stimulus
 

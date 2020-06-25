@@ -35,6 +35,7 @@ Schüler auf das Leben vorbereiten
 - [Collaborative Learning Platform](https://azlen.me/projects/collaborative_learning_platform/)
 - [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
 - [Video Games are the Future of Education](https://nabeelqu.co/education)
+- [How can we develop transformative tools for thought?](https://numinous.productions/ttft/#exploring-tools-for-thought)
 
 ## Videos
 

@@ -17,6 +17,10 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 - Zeit in der Natur verbringen
 - Ein solides Fundment (Gesundheit, Finanzen) legen und dann in kleinen Schritten darauf aufbauen
 
+## Struktur
+
+Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag die gleichen Entscheidungen treffen muss (Was esse ich, Wann kaufe ich ein, ...). Auf diese Weise habe ich mehr Zeit mich mit Dingen zu beschäftigen, die ich wirklcih tun möchte. Ich treffe Entscheidungen ein Mal und ziehe es so lange durch, bis ich eine bessere Lösung finde. Ich überprüfe meine Abläufe regemäßig und passe gegebenenfalls an. Ich verändere Kleinigkeiten, um meine Abläufe zu verbessern.
+
 ## Hierachrie
 
 - Building a life

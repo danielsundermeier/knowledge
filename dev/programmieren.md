@@ -38,3 +38,7 @@ video course](https://mailcoach.app/videos)
 - Klassen / Funktionen erstellen
 - Kommentare mit Umsetzung in Klasse / Funktion schreiben
 - Kommentare in umsetzen
+
+## Links
+
+- [Online communities](https://twitter.com/jsjoeio/status/1276911919845310465)

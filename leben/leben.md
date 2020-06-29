@@ -54,6 +54,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Book Review: Twelve Rules For Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)
 - [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - [Things I’ve Learned from James Clear](https://fourpillarfreedom.com/things-ive-learned-from-james-clear/)
+- [On being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
 
 ### Supernormal stimulus
 

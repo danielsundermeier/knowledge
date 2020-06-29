@@ -35,6 +35,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 ## Static Site Generator
 
 - [Static Gen](https://www.staticgen.com/)
+- [Hugo](https://gohugo.io/)
 
 ## Zitate
 

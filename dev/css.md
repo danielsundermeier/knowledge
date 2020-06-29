@@ -34,3 +34,12 @@
 ## Links
 
 - [CSS-Tricks](https://css-tricks.com/)
+
+## Design
+
+### Links
+- [40 pro tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
+
+### Inspiration
+
+- [baremetrics](https://baremetrics.com/)

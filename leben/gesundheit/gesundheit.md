@@ -27,3 +27,4 @@ Zeit in der Natur verbringen
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)
+- [Health Coaching and Stress Management](https://chriskresser.com/health-coaching-and-stress-management/)

@@ -22,7 +22,10 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - [Be Good](http://paulgraham.com/good.html)
 - [Your First 60 Days](https://microconf.gen.co/patrick-mckenzie/)
 - [Pre-Brand](https://pre-brand.com/) - You don’t need a perfect brand, you need to keep moving
+- [How I side project](https://thesephist.com/posts/how-i-side-project/)
 
 ### Blogs
 
 ### Videos
+
+- [Josh Pigford - From Idea to $5k/mo in 5 Months](https://vimeo.com/94623532)

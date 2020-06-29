@@ -45,6 +45,10 @@ Schüler auf das Leben vorbereiten
 - [What if students controlled their own learning?](https://www.youtube.com/watch?v=nMxqEkg3wQ0)
 - [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
 
+## Spiele
+
+- [Minecraft Education](https://education.minecraft.net/)
+
 ## Kurse
 
 - [Progress Studies for Aspiring
@@ -55,5 +59,6 @@ Young Scholars](https://progressstudies.school/)
 - [Khan Academy](www.khanacademy.com)
 - [Prenda School](https://prendaschool.com/)
 - [Templestowe College - TC](https://tc.vic.edu.au/)
+- [ZipSchool](https://zipschool.com/) - Live, online classes for curious kids ages 4-9
 
 

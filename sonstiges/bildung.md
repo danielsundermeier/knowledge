@@ -47,7 +47,19 @@ Schüler auf das Leben vorbereiten
 
 ## Spiele
 
+- Aufbauspiel
+- Realistische Natur (Physik, Biologie, Chemie)
+- Ressourcen sammeln
+- Baupläne aus Rohstoffen entwickeln
+- Baupläne verbessern
+- Alles kombinierbar
+- Mods zur Verbesserung / Automatisierung
+    + Plugins
+    + Algorithmen
+    + "App Store"
+
 - [Minecraft Education](https://education.minecraft.net/)
+- [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
 
 ## Kurse
 

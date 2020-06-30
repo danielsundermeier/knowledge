@@ -1,5 +1,9 @@
 # Laravel
 
+## New
+
+- [Quick setup Laravel (with Tailwind scaffold)](https://martinbetz.eu/article/quick-setup-laravel-extended)
+
 ## Artikel
 
 - [Laravel beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)

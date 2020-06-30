@@ -47,5 +47,9 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 > The brain is no place for serious thinking. If you're thinking about something important and complicated, write it down.
 – Jack Altman
 
+## Kurse
+
+- [Blogging for Devs](https://bloggingfordevs.com/)
+
 
 

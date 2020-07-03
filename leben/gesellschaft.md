@@ -57,22 +57,29 @@
     + Je weniger man verdient, desto mehr Einfluss hat jeder Euro extra Geld wird ausgegeben anstatt auf dem Konto zu liegen
 - Vermögenssteuer? ab 1;5;10 Millionen Euro?
 
-### Altersvorsorge
+### Universal Basic Income
 
-#### Altersvorsorgekonto
+#### Sparkonto
 
-- [Betterment](https://www.betterment.com/investing/) als Vorlage 
-- Andere Staaten als Vorlage 
+- Staat zahlt X (ca. 500€ ?) € pro Monat bis Mindestbetrag erreicht / einmalig Geld auf Konto
+- Man kann sich selbst ein Gehalt zahlen
+- Vorlagen
+    + [Betterment](https://www.betterment.com/investing/) als Vorlage 
+    + Andere Staaten als Vorlage 
+    + FI/RE Movement
 - 1 Welt ETF
     + [Vanguard FTSE All world](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25&from=search)
     + Kaufen, wenn x Euro auf Konto in Cash 
-- Kosten pro Jahr etwas höher als TER um Veraltung zu finanzieren
-- Verkaufen ab „Geburt“ 
-    + Umsatz das ganze Leben
-    + Kundenbindung
-- Auszahlungsplan am Ende erstellen
-- Studienkonto: 0-20 Jahre?
-
+- Einzahlen
+    + Staat
+        * X € pro Monat bis Mindestbetrag / Alter erreicht
+        * einmalige Einzahlung bei Geburt
+    + mindest % von Bruttogehalt, bis Mindesbetrag erreicht, danach freiwillig
+    + freiwillige Einzahlungen immer möglich
+- Auszahlung
+    + Nur Dividenden auszahlen, wenn kein Einkommen (Ersatz für Arbeitslosenversicherung)
+    + Bei Renteneintritt Auszahlungsplan einrichten
+- Gesellschaft über Finanzen unterrichten
 
 ### Links
 

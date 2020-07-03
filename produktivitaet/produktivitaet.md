@@ -6,6 +6,12 @@
 
 - Zuerst einen schlechten ersten Entwurf schreiben, dann nach und nach überarbeiten. Es ist leichter etwas zu bearbeiten als vor einer leeren Seite zu sitzen.
 
+# Ziele
+
+- Ziel festlegen (z.B. Wohnung entrümpeln)
+- System überlegen (Jeden Tag 30 Minuten sortieren / aufräumen / wegschmeißen)
+- Ziel vergessen & System ausführen
+
 ## Idee
 
 - Motivation für jede Idee aufschreiben. Wieso möchte ich das machen? Warum ist es sinnvoll?
@@ -14,7 +20,7 @@
 - Alles, was ich tue dokumentieren
 - Wenn ich es das Nächste Mal mache, Dokumentation aufrufen
 - Dokumentation / Abläufe jedes Mal verbessern
-- Automatisieren
+planung- Automatisieren
 - Autonomes System erstellen
 
 Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=3197520)

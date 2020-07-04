@@ -1,5 +1,14 @@
 # Leben
 
+- Zeit zum Nachdenken / Reflektieren
+- Alles aufschreiben
+    + Aufgaben
+    + Ideen
+    + Sorgen / Ängste
+- Tagebuch führen
+- Systeme aufbauen / Entscheidungen automatisieren
+- Lesen
+
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
 Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
 - [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)

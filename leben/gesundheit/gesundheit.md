@@ -13,6 +13,10 @@ Zeit in der Natur verbringen
 
 ## Schlaf
 
+- Feste Schlafenszeiten
+- Schlafzimmer: dunkel, kühl
+- Notizbuch neben Bett für Braindump
+
 - [SLEEP 101: How to Feel Way Better in the Morning](https://www.youtube.com/watch?v=3twqNZGe0vg&t=169s)
 - [Matthew’s Tips for Good Sleep](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 

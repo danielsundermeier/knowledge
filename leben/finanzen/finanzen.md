@@ -31,9 +31,13 @@
 ## Investments
 
 - P2P: zu Riskant, zu wenig Rendite für Risiko
-- Häuser: zu viel Aufwand 
+- Immobilien: zu viel Aufwand 
 - Crypto: wie Kasino 
 - ETF: beste Option
+
+### Immobilien
+
+> "I thought about what my life would be like as a landlord. Spending time fixing other peoples home problems, and constantly worrying about things that could go wrong was not worth the benefit for me. I did the calculations and the tradeoff of cash for that additional worry wasn’t worth it for me." - [Why I Don’t Want to be a Landlord](https://minafi.com/i-dont-want-to-be-a-landlord)
 
 ## Regeln
 

@@ -64,6 +64,8 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - [Things I’ve Learned from James Clear](https://fourpillarfreedom.com/things-ive-learned-from-james-clear/)
 - [On being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
+- [Happiness & the Gorilla](https://www.profgalloway.com/happiness-the-gorilla)
+- [Michael Plant](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 
 ### Supernormal stimulus
 

@@ -24,6 +24,7 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - [Pre-Brand](https://pre-brand.com/) - You don’t need a perfect brand, you need to keep moving
 - [How I side project](https://thesephist.com/posts/how-i-side-project/)
 - [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
+- [How To Sell](https://nabeelqu.co/post-selling)
 
 ### Blogs
 

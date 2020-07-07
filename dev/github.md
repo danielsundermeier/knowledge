@@ -1,6 +1,7 @@
 # Github
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Git Concepts I Wish I Knew Years Ago ](https://dev.to/g_abud/advanced-git-reference-1o9j)
 
 ## Pull Requests
 

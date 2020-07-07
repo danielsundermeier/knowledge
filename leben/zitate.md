@@ -37,3 +37,5 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 > writing not only helps you to understand what’s going on and to crystallize your thoughts, it actually makes you think of new ideas and come up with solutions to your problems. - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 
 > "I Do Not Like That Man. I Must Get To Know Him Better" - Abraham Lincoln
+
+> "Rejection exists for a reason - its's a means to keep people apart who are not good for each other" - Mark Manson, [Models](https://www.goodreads.com/book/show/12633800-models)

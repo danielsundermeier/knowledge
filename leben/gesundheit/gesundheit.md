@@ -13,16 +13,42 @@ Zeit in der Natur verbringen
 
 ## Schlaf
 
-- Feste Schlafenszeiten
-- Schlafzimmer: dunkel, kühl
+- Feste Schlafenszeiten (Zirkadianer Rhythmus)
+- Schlafzimmer: 
+    + dunkel
+    + kühl (16-18 Grad Celsius)
+- Keine elektronischen Displays zwei Stunden vor dem Schlafen -> Hörbuch
 - Notizbuch neben Bett für Braindump
 
 - [SLEEP 101: How to Feel Way Better in the Morning](https://www.youtube.com/watch?v=3twqNZGe0vg&t=169s)
 - [Matthew’s Tips for Good Sleep](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 
+### Tracker
+
+- [Oura Ring](https://ouraring.com/)
+- [Sleep Cycle](https://www.sleepcycle.com/)
+
 ## Fitness
 
+- [20 MIN MORNING WORKOUT](https://www.youtube.com/watch?v=IeGrTqW5lek&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2&t=0s)
+- [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
+- HIIT Seilspringen
+    + 20 Sekunden Arbeit
+    + 10 Sekunden Pause
+
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
+
+## Meditation
+
+- Mit geschlossenen Augen auf die Atmung konzentrieren
+
+## Sonnenschein
+
+- Jeden Tag mindestens 30 Minuten draußen verbringen
+
+## Spaß
+
+- Kleine Dinge, die Freude machen über den Tag verteilen
 
 ## Altern
 

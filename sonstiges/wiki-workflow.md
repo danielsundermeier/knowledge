@@ -22,3 +22,4 @@
 - [How can we build an extension of your mind?](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [Hack Your Life With A Private Wiki Notebook](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems)
 - [Growing the Evergreens](https://maggieappleton.com/evergreens)
+- [The Commonplace Book](https://thedeepdish.org/digital-commonplace-book/)

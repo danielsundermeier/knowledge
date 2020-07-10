@@ -11,3 +11,4 @@
 ## Links 
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
+- [Paird](https://www.getpaired.com/) - 10 minutes a day to a better relationship

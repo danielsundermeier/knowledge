@@ -38,18 +38,6 @@ Zeit in der Natur verbringen
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
 
-## Meditation
-
-- Mit geschlossenen Augen auf die Atmung konzentrieren
-
-## Sonnenschein
-
-- Jeden Tag mindestens 30 Minuten draußen verbringen
-
-## Spaß
-
-- Kleine Dinge, die Freude machen über den Tag verteilen
-
 ## Altern
 
 - [Age Reduction Breakthrough](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/)

@@ -43,3 +43,4 @@ Zusammenfasung auf www.blinkist.de anhören
 - [MindNode](https://mindnode.com/)
 - [Read This Twice](https://readthistwice.com/) - Books worth reading twice.
 - [How to Read a Book](https://thedeepdish.org/how-to-read-a-book/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-read-a-book)
+- [Book Recommendations](https://markmanson.net/best-books/book-recommendations)

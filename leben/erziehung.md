@@ -7,3 +7,9 @@
 - Loben:
     + Einsatz (process) -> growth mindset 
     + nicht Intelligenz (trait) -> fixed mindset 
+- Sehr viel vorlesen
+- Viel bewegen
+- Beibringen, wie man Sachen herausfindet
+    + Google
+    + Bibliothek
+    + YouTube

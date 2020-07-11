@@ -39,3 +39,5 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 > "I Do Not Like That Man. I Must Get To Know Him Better" - Abraham Lincoln
 
 > "Rejection exists for a reason - its's a means to keep people apart who are not good for each other" - Mark Manson, [Models](https://www.goodreads.com/book/show/12633800-models)
+
+> "Rome was not built in a day, but they where laying brick every hour" - James Clear

@@ -36,6 +36,7 @@ Schüler auf das Leben vorbereiten
 - [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
 - [Video Games are the Future of Education](https://nabeelqu.co/education)
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/#exploring-tools-for-thought)
+- [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup)
 
 ## Videos
 
@@ -44,6 +45,7 @@ Schüler auf das Leben vorbereiten
 - [A teaching assistant named Jill Watson | Ashok Goel | TEDxSanFrancisco](https://www.youtube.com/watch?v=WbCguICyfTA)
 - [What if students controlled their own learning?](https://www.youtube.com/watch?v=nMxqEkg3wQ0)
 - [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
+- [Dexter: Re-inventing Education | In Depth](https://www.youtube.com/watch?v=p5zIWw4gu8c)
 
 ## Spiele
 
@@ -65,6 +67,7 @@ Schüler auf das Leben vorbereiten
 
 - [Progress Studies for Aspiring
 Young Scholars](https://progressstudies.school/)
+- [Teach Kids to Code](https://alexn.org/wiki/docs/teach-kids.html)
 
 ## Schulen
 
@@ -72,5 +75,8 @@ Young Scholars](https://progressstudies.school/)
 - [Prenda School](https://prendaschool.com/)
 - [Templestowe College - TC](https://tc.vic.edu.au/)
 - [ZipSchool](https://zipschool.com/) - Live, online classes for curious kids ages 4-9
+- [Dexter](https://www.dexter.school/) - The Artists, Engineers, and Scientists the World Needs
+- [Dexter Videos](https://dexter.live/) - Fully-supported
+at-home learning
 
 

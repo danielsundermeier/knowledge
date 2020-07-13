@@ -41,3 +41,5 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 > "Rejection exists for a reason - its's a means to keep people apart who are not good for each other" - Mark Manson, [Models](https://www.goodreads.com/book/show/12633800-models)
 
 > "Rome was not built in a day, but they where laying brick every hour" - James Clear
+
+> "You’ll start getting the results you want when you ACT like the person you want to be." - 

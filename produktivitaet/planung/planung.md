@@ -10,3 +10,4 @@
 - [Productivity System](https://jmulholland.com/cascading-productivity-system/)
 - [How to Be Really, Really, Ridiculously Productive](https://www.nateliason.com/blog/productive)
 - [My weekly review habit](https://www.benkuhn.net/weekly/)
+- [Wheel of Life](https://www.startofhappiness.com/wheel-of-life-a-self-assessment-tool/)

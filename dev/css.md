@@ -1,6 +1,7 @@
 # CSS
 
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
+- [The Guide to Design](https://start.uxdesign.cc/)
 
 ## Snippets
 

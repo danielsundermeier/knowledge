@@ -35,6 +35,7 @@
 - [Learning How to Learn](https://max2c.com/learning-how-to-learn/)
 - [Constructionism and the Future of Learning](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
 - [Reimagining the PhD](https://nadiaeghbal.com/phd)
+- [Learn awesome](https://learnawesome.org/)
 
 ## Spaced Repetition
 

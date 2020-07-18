@@ -16,9 +16,19 @@
 
 ## Wohnen
 
+- Mehrfachnutzung von Gebäuden
+    + Untergeschoss: Technik, Energiespeicher, Lager
+    + Erdgeschoss: Gewerblich, Makerspace, Co-Working-Space, öffentliche Räume
+    + Obergeschosse: Wohnungen mit unterschiedlicher Anzahl an Zimmern -> diverse Bewohner
+- Von Natur / Wald umgeben
+- Autarke Plusenergie Gebäude
+- unterirdisch mit anderen Gebäuden verbunden -> Teilen von Technik (Heizung, Energiespeicher, Wasseraufbereitung, ...)
+
+-> walkable neighborhoods
+
 ### 2 "Welten"   
 - Virtuelle Welt in der man Kontakt zur gesamten Welt hat
-- Reale Welt in der man mit < 150 Menschen in einer sich (größtenteils) selbstversorgenden "walkable neighbourhood" wohnt
+- Reale Welt in der man mit < 150 Menschen in einer sich (größtenteils) selbstversorgenden "walkable neighborhood" wohnt
 
 ### Struktur
 
@@ -36,6 +46,7 @@
 #### Stromspeicher
 
 ##### Haus
+
 ##### Nachbarschaft
 
 - 
@@ -54,7 +65,7 @@
 
 - Steuern für Geringverdiener senken 
     + Hat großen Einfluss auf Lebensqualität
-    + Je weniger man verdient, desto mehr Einfluss hat jeder Euro extra Geld wird ausgegeben anstatt auf dem Konto zu liegen
+    + Je weniger man verdient, desto mehr Einfluss hat jeder Euro extra; Geld wird ausgegeben anstatt auf dem Konto zu liegen
 - Vermögenssteuer? ab 1;5;10 Millionen Euro?
 
 ### Universal Basic Income
@@ -87,4 +98,5 @@
 - [Regen Villages](http://regenvillages.com/)
 - [The Civium Project 01](https://www.youtube.com/watch?v=yXBAtdyBto0)
 - [Timebanks](https://timebanks.org/)
+- [Oceanix](https://oceanix.org/)
 

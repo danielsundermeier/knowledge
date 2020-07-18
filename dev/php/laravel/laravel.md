@@ -8,6 +8,7 @@
 
 - [Laravel beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)
 - [Building and Deploying Laravel with Github Actions](https://driesvints.com/blog/building-and-deploying-laravel-with-github-actions/)
+- [Laravel Playground](https://laravelplayground.com/#/)
 
 ## Blogs
 

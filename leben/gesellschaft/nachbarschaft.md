@@ -76,6 +76,9 @@ Zur Finanzierung des Waldes etc. wird eine Landwirtschaft gegründet, die die Fl
 - Genossenschaft / Verwaltung für Häuser gründen    
     + Häuser teilen sich Technik
     + Pflege der Öffentlichen Plätze
+        * Spielplätze
+        * Sitzbänke
+        * Sportgeräte
     
 ### Landwirtschaft ausbauen
 

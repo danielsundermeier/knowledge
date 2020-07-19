@@ -9,6 +9,33 @@
 - Systeme aufbauen / Entscheidungen automatisieren
 - Lesen
 
+## Fundament
+
+- [Gesundheit](./gesundheit/gesundheit.md)
+- [Finanzen](./finanzen/finanzen.md)
+
+- Von einem stabilen Fundament Neues ausprobieren
+
+## Verbesserung
+
+- Immer nur mit einem Aspekt des Lebens befassen
+    + Ziel festlegen
+    + Lesen
+    + Gründe für Probleme herausfinden
+    + Mögliche Lösungen recherchieren
+    + Vorbilder suchen
+    + Ausprobieren
+    + System erstellen
+        * Konkrete Schritte, um Ziel zu erreichen
+        * Was mache ich wann
+        * Beispiele
+            - Feste Trainingszeiten
+            - Ernährungsplan erstellen
+- Lösung als System, in Leben integrieren
+- Bestehende Systeme weiter machen: Ziel ist das Erreichte mindestens zu Erhalten
+
+## Notizen
+
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
 Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
 - [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)
@@ -66,6 +93,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [On being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
 - [Happiness & the Gorilla](https://www.profgalloway.com/happiness-the-gorilla)
 - [Michael Plant](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
+- [DRMacIver's Notebook](https://notebook.drmaciver.com/)
 
 ### Supernormal stimulus
 

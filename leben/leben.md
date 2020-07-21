@@ -94,6 +94,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Happiness & the Gorilla](https://www.profgalloway.com/happiness-the-gorilla)
 - [Michael Plant](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant)
 - [DRMacIver's Notebook](https://notebook.drmaciver.com/)
+- [15 Ways to Happy](https://humbledollar.com/2020/07/15-ways-to-happy/)
 
 ### Supernormal stimulus
 

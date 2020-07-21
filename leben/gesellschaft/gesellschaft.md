@@ -99,4 +99,6 @@
 - [The Civium Project 01](https://www.youtube.com/watch?v=yXBAtdyBto0)
 - [Timebanks](https://timebanks.org/)
 - [Oceanix](https://oceanix.org/)
+- [Principles of (Social) System Design](https://notebook.drmaciver.com/posts/2018-09-27-12:18.html)
+- [Liberating Structures](http://www.liberatingstructures.com/ls-menu/)
 

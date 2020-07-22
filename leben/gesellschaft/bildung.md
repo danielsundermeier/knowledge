@@ -28,6 +28,10 @@ Schüler auf das Leben vorbereiten
     + Meditieren
     + Organisation / Planen / GTD?
 
+## Bücher
+
+- [Flip Your Classroom](https://www.goodreads.com/book/show/27213514-flip-your-classroom)
+
 ## Links
 
 - [Project Based Learning for all](https://www.pblworks.org/)
@@ -37,6 +41,7 @@ Schüler auf das Leben vorbereiten
 - [Video Games are the Future of Education](https://nabeelqu.co/education)
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/#exploring-tools-for-thought)
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup)
+- [Mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)
 
 ## Videos
 

@@ -47,6 +47,10 @@
 - Budget einhalten
 - Rest investieren 
 
+## Ausgaben
+
+- "Minimalismus": Was brauche ich wirklich?
+
 ## Sonstiges
 
 ### Rechnungen 
@@ -63,4 +67,5 @@
 
 ## Videos
 
+- [Finanztip](https://www.youtube.com/channel/UC-muQylmRx61Mt6U1oDSEVA)
 - [How to Profit from a Recession](https://www.youtube.com/watch?v=mRHBrJziE-Y&t=503s)

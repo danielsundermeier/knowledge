@@ -60,7 +60,7 @@ Das Land sollte folgende Vorraussetzungen erfüllen:
 
 ### Landwirtschaft starten
 
-Zur Finanzierung des Waldes etc. wird eine Landwirtschaft gegründet, die die Flächen bewirtschaftet, verbessert und die Produkte an die Anwohner verkauft.
+Zur Finanzierung des Waldes etc. wird eine Landwirtschaft gegründet, die die Flächen bewirtschaftet, verbessert und die Produkte an die Anwohner verkauft. In Form eines Nahrungsmittel Abos?
 
 #### Anpflanzen
 
@@ -100,6 +100,7 @@ Beipiele:
 Es werden Gebäude für die Mehrfachnutzung errichtet. Im Erdgeschoss befinden sich Gewerbe, in den Obergeschossen werden Wohnungen gebaut. 
 Die Technik zur Versorgung der Gebäude befindet sich im Keller. 
 Die Gebäude sind unterirdisch miteinander verbunden, um die gemeinsame Nutzung der Technik zu ermöglichen.
+In jedem Gebäude gibt es Gemeischaftsräume. Sie können zum gemeinsamen Essen, Versammlungen, oder Feiern genutzt werden. Zusätzlich dienen sie der Unterhaltung. Es können dort Musikinstrumente, Spielzeuge, etc. zur Verfügung gestellt werden.
 
 #### Autarkie
 
@@ -135,6 +136,38 @@ Es sollen Wohnungen mit verschiedenen Größen und unterschiedlicher Anzahl an Z
 
 Das führt zu eine diversen Gemeinschaft mit verschiedensten Meinungen und Ideen. (Stichwort [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29))
 
+#### Unterhaltung
+
+Zur Unterhaltung dienen:
+- Gemeinschaftsräume in jedem Gebäude
+- Öffentliche Plätze
+
+Die Gemeinschaftsräume und öffentliche Plätze werden von der Nachbarschaft finanziert und betreut.
+
+##### Gemeinschaftsräume
+
+Beispiele:
+- Küche
+- Spielzeuge
+- Musikinstrumente
+- Bibliothek
+- Makerspace
+- Fitnessstudio
+
+In jedem Gebäude sollte ein Raum mit Küche und Tischen sein, um gemeinsam essen zu können.
+
+Jeder aus der Nachbarschaft kann in jeden Gemeinschaftsraum gehen. Dadurch kann man Räume für spezielle Interessen nutzen (z.B. Musikraum). Dinge können geteilt werden. Das regt zum Ausprobieren von vielen verschiedenen Hobbies an. Man trifft leichter Gleichgesinnte, weil alle, die sich für Musik interessieren, in den Musikraum kommen. Es könnten so sehr teure Dinge (z.B. Aufnahmestudio, 3D-Drucker, ...) zur Verfügung gestellt werden.
+
+##### Öffentliche Plätze
+
+- Die Wege im Waldgarten und den Weiden werden der Öffentlichkeit zur Verfügung gestellt
+- Außerem gibt es dort öffentliche Plätze
+    + Spielplätze
+    + Fitnessgeräte
+    + Grillplätze
+    + Sportplatz
+    + Bänke
+
 #### Verwaltung
 
 Die Verwaltung der Gebäude sollte von den Bewohnern (einem Teil?) selbst übernommen werden. 
@@ -147,6 +180,7 @@ Dies könnte durch eine Genossenschaft erreicht werden.
 - Konflikte zwischen Bewohnern lösen
 - Technik verwalten
 - Weiterentwicklung der Nachbarschaft
+- Unterhaltung der Gemeinschaftsräume in Gebäuden
 - Pflege der Öffentlichen Plätze im Waldgarten
     + Spielplätze
     + Sitzbänke
@@ -190,6 +224,7 @@ Dies könnte durch eine Genossenschaft erreicht werden.
 - (Mobile) Produktionsstätten
 - Produktionsmittel zwischen Landwirtschaften teilen (z.B. Machinen, Ressourcen)
 - Neue Produktionsstätten errichten
+    + Genossenschaften bestehend aus Landwirten, die Inputs liefern
     + Schlachterei
     + Käserei
     + Bäckerei

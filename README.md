@@ -1,6 +1,6 @@
 # Wissenssammlung
 
-I like to solve everyday Problems with Technology 
+Ich möchte gemeinsam mit dir Ideen erarbeiten und diskutieren, die das Leben verbessern.
 
 ## Terms of service
 

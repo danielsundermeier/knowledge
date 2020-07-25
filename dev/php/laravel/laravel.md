@@ -3,6 +3,7 @@
 ## New
 
 - [Quick setup Laravel (with Tailwind scaffold)](https://martinbetz.eu/article/quick-setup-laravel-extended)
+- [Laravel Boilerplate](https://github.com/rappasoft/laravel-boilerplate)
 
 ## Artikel
 

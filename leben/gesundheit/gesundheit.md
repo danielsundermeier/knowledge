@@ -33,8 +33,9 @@ Zeit in der Natur verbringen
 - [20 MIN MORNING WORKOUT](https://www.youtube.com/watch?v=IeGrTqW5lek&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2&t=0s)
 - [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
 - HIIT Seilspringen
-    + 20 Sekunden Arbeit
+    + 20 Sekunden Training
     + 10 Sekunden Pause
+- Steady State Cardio: Spazieren gehen
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
 

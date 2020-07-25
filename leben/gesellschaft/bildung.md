@@ -3,10 +3,11 @@
 - Projektbasiertes Lernen
 - Lernen in Computerspielen
 - Eigenes Tempo
-- Online
+- Online (Videos / Livestreams) als "Hausaufgabe"
 - Zu jeder Zeit
-- Schule kann zum Nachfragen / Lernen genutzt werden
+- Schule / Klassenraum kann zum Nachfragen / Lernen genutzt werden
 - Lehrer unterstützen Schüler bei Projekten 
+- Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
 
 ## Fächer
 

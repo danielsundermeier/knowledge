@@ -16,6 +16,17 @@ Stark inspiriert von [Oceanix](https://oceanix.org/)
 - Kontakt zur Natur
 - Alles zu Fuß oder mit Fahrrad erreichen können
 
+### Walkable Neighborhoods
+
+#### Vorteile
+
+- Gesünderer Lebensstil -> Geringere Gesundheitskosten
+- Zufriedenere Bewohner
+- Geschäfte machen mehr Umsatz
+- Grundstückspreise steigen
+- Transportkosten für Bewohner sinken
+- Bildet Gemeinschaft (Nachbarn kennenlernen)
+
 #### Bücher  
 - [Happy City](https://www.goodreads.com/book/show/13330588-happy-city?from_search=true&from_srp=true&qid=mCWNIJwfD1&rank=1)
 - [Walkable City](https://www.goodreads.com/book/show/13538794-walkable-city)
@@ -113,11 +124,14 @@ Die Nachbarschaften sollen autark und aus Plusenergie Häusern bestehen.
 
 Die Gebäude sollen sich die Technik zur Versorgung teilen, um Skalierungseffekte nutzen zu können -> größere Anlagen (z.B. Heizungen) sind effizienter & günstiger.
 
+- [Moonstone Project](https://themoonstoneproject.co.uk/)
+
 #### Nutzung
 
 - Untergeschoss
     + Technik
     + Lager
+    + Waschen mit Wäscheabwurfschacht
 - Erdgeschoss
     + Gewerbe
     + Öffentliche Plätze

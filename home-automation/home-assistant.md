@@ -1,6 +1,7 @@
 # Home Assistant
 
 - [Lovelace Soft UI](https://github.com/N-l1/lovelace-soft-ui)
+- [Awesome HA](https://github.com/frenck/awesome-home-assistant)
 
 ## Plugins
 
@@ -10,3 +11,4 @@ Home Assistant Community Store
 ## Automations
 
 - [No more light switches](https://smarthome.university/automations/no-more-light-switches/)
+

@@ -27,3 +27,7 @@
 - Mit WLAN verbinden
 - Shelly App starten
 - Gerät wird automatisch entdeckt
+
+## Links
+
+- [Collection of HTTP commands](https://www.shelly-support.eu/forum/index.php?thread/775-collection-of-http-commands/)

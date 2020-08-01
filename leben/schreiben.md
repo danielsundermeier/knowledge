@@ -32,6 +32,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 - [The real power of the Jeff Bezos memo](https://medium.com/swlh/the-real-power-of-the-jeff-bezos-memo-and-how-you-can-put-it-into-practice-even-if-you-dont-have-bb2e66905b77)
 - [How to Write Technical Posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [Investing into the unknown](https://nesslabs.com/lawrence-yeo-interview)
 
 ## Static Site Generator
 

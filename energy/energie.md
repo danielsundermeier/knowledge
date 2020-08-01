@@ -2,6 +2,7 @@
 
 - [Energy](https://jwmza.com/thoughts/energy/)
 - [Second Nature](https://secondnature.org/solutions-center/)
+- [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
 
 ## Speicher
 

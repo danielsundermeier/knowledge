@@ -27,3 +27,4 @@
 - [Sponsorware](https://github.com/sponsorware/docs)
 - [I Just Hit $100,000/yr On GitHub Sponsors](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 - [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+- [Sponsor Pools](https://vriad.com/essays/a-new-funding-model-for-open-source-software)

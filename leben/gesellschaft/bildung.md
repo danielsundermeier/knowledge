@@ -84,5 +84,6 @@ Young Scholars](https://progressstudies.school/)
 - [Dexter](https://www.dexter.school/) - The Artists, Engineers, and Scientists the World Needs
 - [Dexter Videos](https://dexter.live/) - Fully-supported
 at-home learning
+- [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 
 

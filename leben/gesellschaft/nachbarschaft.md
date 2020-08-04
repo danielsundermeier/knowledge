@@ -7,6 +7,7 @@ Stark inspiriert von [Oceanix](https://oceanix.org/)
 ## Überblick
 
 ![](./nachbarschaft-design.png)
+![](./nachbarschaft-uebersicht.jpeg)
 
 ### Vorteile
 

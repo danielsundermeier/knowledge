@@ -43,3 +43,7 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 > "Rome was not built in a day, but they where laying brick every hour" - James Clear
 
 > "You’ll start getting the results you want when you ACT like the person you want to be." - 
+
+> "If you want to be happy then do what makes you happy.
+> If you want to be rich then do what makes you money.
+> And if you don’t do anything then you don’t get anything." - [Life is Simple](https://qr.ae/pNsQtj)

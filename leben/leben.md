@@ -98,6 +98,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Appearances vs Experiences](https://fs.blog/2020/07/appearances-vs-experiences/)
 - [Escape Boredom - Leonardo da Vinci and a Guide to the Good Life](https://www.youtube.com/watch?v=mYcR7Wkq1r8)
 - [The Sweet Spot](https://www.mrmoneymustache.com/2020/08/04/the-sweet-spot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
+- [This is the blueprint I've followed to build my own business/income in ~4 years](https://twitter.com/jdnoc/status/1291773397010087938)
 
 ### Supernormal stimulus
 

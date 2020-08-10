@@ -9,6 +9,7 @@
 [Dokumnetation](https://wiki.uberspace.de/domain:subdomain)
 
 ```
+ln -s Ziel Name
 ln -s /var/www/virtual/$USER/html/cardmonitor/public /var/www/virtual/$USER/www.cardmonitor.de
 ```
 

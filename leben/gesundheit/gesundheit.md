@@ -38,6 +38,7 @@ Zeit in der Natur verbringen
 - Steady State Cardio: Spazieren gehen
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
+- [Muscle Wiki](https://musclewiki.com/)
 
 ## Altern
 

@@ -15,3 +15,4 @@
 ## Solarenergie
 
 - [Ein Solardach für die Autobahn](https://www.spiegel.de/auto/forschungsprojekt-in-oesterreich-ein-solardach-fuer-die-autobahn-a-30799262-0531-4eca-987d-876ce7c22ec6?utm_source=pocket-newtab-global-de-DE)
+- [Lition](https://lition.de/) - Markplatz für erneuerbare Energien

@@ -61,6 +61,17 @@
 
 ## Finanzen
 
+- Externalitäten durch Steuern einpreisen (Benzinsteuer)  
+    + Umweltverschmutzung
+    + Gesundheitsausgaben
+    + ...
+- Steuern in Fond investieren und Dividenden an Bürger auszahlen.
+- Wer viele Dinge kauft, die sich negativ für die Gesellschaft auswirken, zahlt mehr Steuern
+    + Anreiz "bessere" Entscheidungen zu treffen
+
+- Wer entscheidet, was wie besteuert wird? Was "besser" ist?
+- Es sollte keine Ausnahmen geben
+
 ### Steuern
 
 - Steuern für Geringverdiener senken 

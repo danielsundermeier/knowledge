@@ -4,6 +4,20 @@ Ziel ist es eine lebenswerte Nachbarschaft in einem bestehenden Dorf zu kreieren
 
 Stark inspiriert von [Oceanix](https://oceanix.org/)
 
+## Werte
+
+| Gut | Schlecht |
+| --- | -------- |
+| Zufriedenheit | Materialismus |
+| Gesundheit |Egoismus |
+| Gemeinschaft | |
+| Persönliche Entwicklung | |
+| Naturschutz | |
+| Bildung | |
+| Forschung | |
+| Toleranz | |
+
+
 ## Überblick
 
 ![](./nachbarschaft-design.png)
@@ -258,4 +272,5 @@ Die Produktion soll weiter ausgebaut werden, um immer mehr Bedürnisse der Bewoh
     + Pflanzen
     + Saatgut
     + Tierzucht
+
 

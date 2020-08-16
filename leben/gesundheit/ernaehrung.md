@@ -35,3 +35,4 @@ Gesamtkalorien steuern:
 - [Why Eating Meat Is Good for You](https://chriskresser.com/why-eating-meat-is-good-for-you/)
 - [Why is there no definitive healthy Human Diet?](https://www.reddit.com/r/nutrition/comments/h7jxvp/why_is_there_no_definitive_healthy_human_diet/fulo6b0/?utm_source=share&utm_medium=web2x)
 - [Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
+- [The Many Types of Fiber](https://chriskresser.com/types-of-dietary-fiber/)

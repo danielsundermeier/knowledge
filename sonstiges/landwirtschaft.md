@@ -36,7 +36,7 @@
 
 ## Bücher
 
-- [For the love of Soil](https://www.fortheloveofsoil.org/educate)
+[Bücherliste](https://www.goodreads.com/review/list/82798685-taces2?ref=nav_mybooks&shelf=landwirtschaft)
 
 ## Betriebe
 

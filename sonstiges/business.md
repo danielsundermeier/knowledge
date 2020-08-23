@@ -25,6 +25,7 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - [How I side project](https://thesephist.com/posts/how-i-side-project/)
 - [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 - [How To Sell](https://nabeelqu.co/post-selling)
+- [Making a living as an independent maker](https://twitter.com/adamwathan/status/1296447318074568704)
 
 ### Blogs
 

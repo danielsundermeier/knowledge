@@ -42,3 +42,18 @@
     + ?
 - Politik
     + KI?
+
+## Werte 
+
+### Bildung
+
+Menschen sollten in der Lage sein ihr Leben zu meistern und sich immer weiterbilden und verbessern (Mastery) und anderen dabei zu helfen.
+
+Lernen: 
+- Mit Gefühlen umgehen
+- Um die Gesundheit (Schlaf, Ernährung, Fitness) kümmern
+- Umgang mit anderen Menschen
+- Mit der Natur zusammen leben können
+- Probleme lösen
+- Zukunft / Leben planen
+- Herausfinden, was ihnen wichtig ist

@@ -70,3 +70,4 @@
 
 - [Finanztip](https://www.youtube.com/channel/UC-muQylmRx61Mt6U1oDSEVA)
 - [How to Profit from a Recession](https://www.youtube.com/watch?v=mRHBrJziE-Y&t=503s)
+- [Joe Rogan on Wage Gap Arguments](https://www.youtube.com/watch?v=HSvLnlX-VG4&feature=share)

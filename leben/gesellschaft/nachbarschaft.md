@@ -273,4 +273,54 @@ Die Produktion soll weiter ausgebaut werden, um immer mehr Bedürnisse der Bewoh
     + Saatgut
     + Tierzucht
 
+## Ernergieversorgung
+
+### Strom
+
+- Solaranlagen
+- Windkraftanlagen
+
+### Stromspeicher
+
+#### Gebäude
+
+- Batterie
+
+#### Nachbarschaft
+
+- Wasserstoff (Brennstoffzelle)
+    + aus überschüssigem Strom
+
+#### Stadt
+
+- Biogas
+    + Methanogenese mit überschüssigem Wasserstoff
+- Flüssigluftspeicher
+
+### Wärme
+
+- Wärmepumpe    
+    + unterstützt durch Abwärme von Brennstoffzelle
+
+## Abfälle
+
+### Ausscheidungen
+
+Trennung von fester und flüssiger Phase  
+Fest -> kompostieren -> Dünger für Bäume
+Flüssig -> Algenzucht? -> Fischfutter
+
+### Organische Abfälle
+
+- Kompostieren?
+- Futter für Insekten? -> Insektenlarven -> Fischfutter
+- Biogas?
+
+### Holz
+
+- Häckseln -> Mulch
+- Kompostieren
+
+
+
 

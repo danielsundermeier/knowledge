@@ -1,8 +1,11 @@
-# SQL Syntax and PDO Operations
+# SQL 
+
+## Links
+- [SQL Operators Tutorial](https://www.freecodecamp.org/news/sql-operators-tutorial/)
+
+## SQL Syntax and PDO Operations
 
 [Overview of SQL Commands and PDO Operations](https://www.taniarascia.com/overview-of-sql-commands-and-pdo-operations)
-
-## SQL
 
 ### Create Database
 

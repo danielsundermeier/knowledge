@@ -74,10 +74,22 @@
 
 ### Steuern
 
+#### Einkommen
+
 - Steuern für Geringverdiener senken 
     + Hat großen Einfluss auf Lebensqualität
     + Je weniger man verdient, desto mehr Einfluss hat jeder Euro extra; Geld wird ausgegeben anstatt auf dem Konto zu liegen
-- Vermögenssteuer? ab 1;5;10 Millionen Euro?
+
+#### Vermögenssteuer
+
+- ab 1;5;10 Millionen Euro?
+
+#### Universität
+
+In Australien ist die Universität kostenlos. Wenn man einen Job gefunden hat und mehr als $52.000 verdient, bezahlt man eine zusätzliche Steuer, um die Kosten für die Ausbildung zurückzuzahlen.  
+Ich halte das für eine gute Lösung
+
+[The tudent Debt Crisis](https://www.youtube.com/watch?v=Rqv0nuP4OAU&t=660s)
 
 ### Universal Basic Income
 

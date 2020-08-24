@@ -1,5 +1,8 @@
 # Finanzielle Unabhängigkeit
 
+- Pro 100€ / Monat -> 40.000 € investieren
+- Jährliche Ausgaben * 33 = Summe investiert
+
 ## Artikel
 
 - [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)

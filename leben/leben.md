@@ -99,6 +99,11 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Escape Boredom - Leonardo da Vinci and a Guide to the Good Life](https://www.youtube.com/watch?v=mYcR7Wkq1r8)
 - [The Sweet Spot](https://www.mrmoneymustache.com/2020/08/04/the-sweet-spot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
 - [This is the blueprint I've followed to build my own business/income in ~4 years](https://twitter.com/jdnoc/status/1291773397010087938)
+- [Alternative Forms of Wealth](https://www.collaborativefund.com/blog/alternative-forms-of-wealth/)
+- [Michael Gervais on Creating a Living Masterpiece](https://scottbarrykaufman.com/podcast/michael-gervais-on-creating-a-living-masterpiece/)
+- [Optimize with Brian Johnson](https://www.sloww.co/optimize-brian-johnson/)
+- [The Lazy Way To An Awesome Life](https://www.bakadesuyo.com/2020/08/lazy-way-to-an-awesome-life/)
+- [Happiness is the Only Logical Pursuit](https://www.mrmoneymustache.com/2016/06/08/happiness-is-the-only-logical-pursuit/)
 
 ### Supernormal stimulus
 

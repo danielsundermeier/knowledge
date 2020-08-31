@@ -17,6 +17,8 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 
 > If you want to Go fast Go alone, if you want to Go far go together.
 
+> - "With Product-led Growth, the idea is that rather than bringing users through an active sales team or aggressive marketing campaigns, you just focus on building your product - and ensure you make it great." - (Why You May Not Need a Sales Team)[https://posthog.com/blog/product-led-growth]
+
 ## Links
 
 - [Be Good](http://paulgraham.com/good.html)
@@ -26,6 +28,8 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/)
 - [How To Sell](https://nabeelqu.co/post-selling)
 - [Making a living as an independent maker](https://twitter.com/adamwathan/status/1296447318074568704)
+- [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business)
+- [Love flywheels? You're in luck!](https://twitter.com/lennysan/status/1295743085243060224)
 
 ### Blogs
 

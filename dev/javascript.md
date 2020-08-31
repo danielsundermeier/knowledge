@@ -9,3 +9,7 @@
 - [Textarea auto-expand](https://codepen.io/vsync/pen/frudD)
 - [You don't (may not) need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 - [BlurHash](https://github.com/woltapp/blurhash)
+
+## Links
+
+- [How to Switch from jQuery to Vanilla JavaScript](https://www.freecodecamp.org/news/bootstrap-5-vanilla-js-tutorial/)

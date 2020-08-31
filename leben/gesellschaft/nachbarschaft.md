@@ -257,6 +257,9 @@ Dies könnte durch eine Genossenschaft erreicht werden.
     + Schlachterei
     + Käserei
     + Bäckerei
+    + Logistik
+    + Organisation (Management Software, Online Shop, ...)
+- Dadurch, dass die Landwirte zusammen arbeiten, ihre Produkte zusammen verkaufen und weiterverarbeiten, soll es zu einer Kooperation statt Konkurrenz kommen
 
 #### Produktion
 

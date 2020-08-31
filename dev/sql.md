@@ -2,6 +2,7 @@
 
 ## Links
 - [SQL Operators Tutorial](https://www.freecodecamp.org/news/sql-operators-tutorial/)
+- [SQL Templates](https://popsql.com/sql-templates)
 
 ## SQL Syntax and PDO Operations
 

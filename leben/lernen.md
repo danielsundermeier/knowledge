@@ -36,6 +36,7 @@
 - [Constructionism and the Future of Learning](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
 - [Reimagining the PhD](https://nadiaeghbal.com/phd)
 - [Learn awesome](https://learnawesome.org/)
+- [42](https://links.rsapkf.xyz/)
 
 ## Spaced Repetition
 

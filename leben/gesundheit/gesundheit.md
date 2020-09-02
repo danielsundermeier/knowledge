@@ -27,6 +27,7 @@ Zeit in der Natur verbringen
 
 - [Oura Ring](https://ouraring.com/)
 - [Sleep Cycle](https://www.sleepcycle.com/)
+- [EightPod](https://www.eightsleep.com/eight-pod-sleep-cool/)
 
 ## Fitness
 
@@ -39,6 +40,14 @@ Zeit in der Natur verbringen
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
 - [Muscle Wiki](https://musclewiki.com/)
+
+## Ernährung
+
+- [Energy balance and its components: implications for body weight regulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/)
+
+### Tracker
+
+- [Levels](https://www.levelshealth.com/)
 
 ## Altern
 

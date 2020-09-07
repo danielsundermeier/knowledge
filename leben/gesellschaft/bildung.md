@@ -14,6 +14,8 @@
 Zusätzlich zu den normalen Fächern 
 Schüler auf das Leben vorbereiten
 
+Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie müssen wissen was sie zufrieden macht, was sie stresst und was sie nicht wollen. So kann man ein zufriedenes Leben erreicht.  
+
 - Lernen lernen
 - Probleme lösen
 - Gesundheit

@@ -47,3 +47,6 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 > "If you want to be happy then do what makes you happy.
 > If you want to be rich then do what makes you money.
 > And if you don’t do anything then you don’t get anything." - [Life is Simple](https://qr.ae/pNsQtj)
+
+> And, when you ask MMM now what he's figured out about happiness, he tells us that to have a 
+great life, you just need to put together a string of enough great days. While everyone's great day is different, Pete's includes time outside, exercise, time with family, socializing with friends and some hard work. - [The Medicine of Mustachianism](https://www.mrmoneymustache.com/2020/04/14/the-medicine-of-mustachianism-a-guest-post-from-marla/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)

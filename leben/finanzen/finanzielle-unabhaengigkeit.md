@@ -13,3 +13,8 @@
 ## Videos
 
 - [Early Retirement in One Lesson](https://www.youtube.com/watch?v=8-Li_sFNc4Q)
+- [How To Retire by 30 Years Old | Starting with $0](https://www.youtube.com/watch?v=5S2cRNveZgg)
+
+## Zitate
+
+> "Why can’t you learn that skill/language/instrument now? What’s stopping you from achieving those fitness goals today? Why can’t you make that change in your spending now?" - [Mindsets](https://minafi.com/mindsets)

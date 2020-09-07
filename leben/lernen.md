@@ -50,3 +50,7 @@
 ## Beispiele
 
 -[Quantum computing for the very curious](https://quantum.country/qcvc)
+
+## Zitate
+
+> Among the topics to learn—the skilled crafts associated with growing food, processing local materials, constructing natural buildings, fermentation and food storage without the need for electricity, weaving textiles to make clothes and baskets, permaculture to regenerate soils and restore ecosystems, group facilitation and governance practices, how to raise children, and a host of other things related to living sustainably in place. - [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-chapter-16)

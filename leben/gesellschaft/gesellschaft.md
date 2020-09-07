@@ -93,6 +93,13 @@ Ich halte das für eine gute Lösung
 
 ### Universal Basic Income
 
+- Steuern auf ungesunde Nahrungsmittel / Produkte
+    ○ Externalitäten (Umweltschmutzung, CO2, …) einpreisen
+- Je ungesünder desto höher die Steuer
+- Gesunder = unverarbeiteter / weniger Zutaten?
+- Steuereinnahmen in Staatsfond
+- Dividende aus Fond -> Universal Basic Income
+
 #### Sparkonto
 
 - Staat zahlt X (ca. 500€ ?) € pro Monat bis Mindestbetrag erreicht / einmalig Geld auf Konto

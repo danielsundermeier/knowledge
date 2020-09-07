@@ -65,6 +65,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Warren Buffett’s “2 List” Strategy](https://jamesclear.com/buffett-focus)
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
 - [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
+- [How I very simply tricked my brain into overcoming procrastination for the better](https://www.reddit.com/r/productivity/comments/ini5ca/how_i_very_simply_tricked_my_brain_into/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ### Blogs
 

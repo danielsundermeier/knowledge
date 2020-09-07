@@ -32,6 +32,7 @@ Schüler auf das Leben vorbereiten
 ## Bücher
 
 - [Flip Your Classroom](https://www.goodreads.com/book/show/27213514-flip-your-classroom)
+- [Open Stax](https://openstax.org/)
 
 ## Links
 
@@ -43,6 +44,7 @@ Schüler auf das Leben vorbereiten
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/#exploring-tools-for-thought)
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup)
 - [Mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)
+- [Our Education System in 2035](https://medium.com/postcards-from-2035/how-we-learn-in-2035-54b16c66e190)
 
 ## Videos
 

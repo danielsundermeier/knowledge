@@ -52,8 +52,10 @@ Zeit in der Natur verbringen
 ## Altern
 
 - [Age Reduction Breakthrough](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/)
+- [Longevity FAQ](https://www.ldeming.com/longevityfaq/)
 
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)
 - [Health Coaching and Stress Management](https://chriskresser.com/health-coaching-and-stress-management/)
+- [The Lanby](https://www.thelanby.com/) - A primary care members club in New York City

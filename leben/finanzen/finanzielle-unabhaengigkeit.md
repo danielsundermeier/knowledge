@@ -9,3 +9,7 @@
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 - [A Modern Approach to Financial Independence](https://fourpillarfreedom.com/a-modern-approach-to-financial-independence/)
 - [How Much is Enough Money?](https://cityfrugal.com/enough-money/)
+
+## Videos
+
+- [Early Retirement in One Lesson](https://www.youtube.com/watch?v=8-Li_sFNc4Q)

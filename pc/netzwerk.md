@@ -3,6 +3,7 @@
 ## Links
 
 - [WiFi Login Card](https://wifi.dev.bdw.to/)
+- [Start Your Own ISP](https://startyourownisp.com/)
 
 ## Ethernet
 

@@ -24,6 +24,8 @@
 
 ### Permakultur
 
+- [Praxisorte](https://permakultur.de/praxisorte/)
+
 ### Regenerative Landwirtschaft
 
 ### Waldgarten
@@ -41,6 +43,7 @@
 ## Betriebe
 
 - [Permakultur Scheuerhof](https://www.permakultur-scheuerhof.de/)
+- [Gut & Bösel](https://www.gutundboesel.org/)
 
 ## Technologie
 
@@ -50,4 +53,6 @@
 
 - [Investors say agroforestry isn’t just climate friendly — it’s also profitable](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/)
 - [Tiny Farms](https://www.tinyfarms.de/)
-
+- [Gemüse ABC](https://www.meine-ernte.de/gemuese-abc/)
+- [IG Gesunder Boden](https://www.ig-gesunder-boden.de/)
+- [Regenerative Landwirtschaft – die nächste Agrar-Revolution?](https://www.farm-and-food.com/regenerative-landwirtschaft-in-deutschland/)

@@ -37,6 +37,7 @@
 - [Reimagining the PhD](https://nadiaeghbal.com/phd)
 - [Learn awesome](https://learnawesome.org/)
 - [42](https://links.rsapkf.xyz/)
+- [How I Learned My Skills](https://jdnoc.com/how-I-learned-my-skills/)
 
 ## Spaced Repetition
 

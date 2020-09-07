@@ -2,9 +2,12 @@
 
 ## Visionen
 
+Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgängig machen können, damit wir ein Ziel haben, auf das wir hinarbeiten können!
+
 - [The Venus Project](https://www.thevenusproject.com/)
 - [Oceanix](https://oceanix.org/)
 - [Manna](http://marshallbrain.com/manna1.htm)
+- [Imagining Elon Musk's Million-Person Mars Colony](http://marshallbrain.com/mars.htm)
 
 ## Podcasts
 

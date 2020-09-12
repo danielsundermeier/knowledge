@@ -40,6 +40,7 @@ Zeit in der Natur verbringen
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
 - [Muscle Wiki](https://musclewiki.com/)
+- [The 7-Minute Workout](https://www.7minuteworkouttimer.com/)
 
 ## Ernährung
 
@@ -59,3 +60,7 @@ Zeit in der Natur verbringen
 - [Apple Health OS](https://divinations.substack.com/p/healthos)
 - [Health Coaching and Stress Management](https://chriskresser.com/health-coaching-and-stress-management/)
 - [The Lanby](https://www.thelanby.com/) - A primary care members club in New York City
+
+## Videos
+
+- [A Pandemic of Possibility: Zach Bush, MD](https://www.youtube.com/watch?v=qUiGgRHES4k)

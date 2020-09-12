@@ -107,6 +107,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Some guiding principles for a good life](https://twitter.com/Kpaxs/status/1300016373482106882)
 - [How to be happy](https://twitter.com/dvassallo/status/1300306727963828226)
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
+- [My Favorite Lessons from The Algebra of Happiness](https://fourpillarfreedom.com/my-favorite-lessons-from-the-algebra-of-happiness/)
 
 ### Supernormal stimulus
 

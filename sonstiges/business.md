@@ -13,11 +13,13 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - sehr gutes Produkt 
 - wenige Varianten
 
+Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen. Ab 6-10 Personen pro Team wird es schwieriger sich abzustimmen. Verschiedene Teams suchen die beste Lösung für ein Problem und "treten gegeneinander an".
+
 ## Zitate
 
 > If you want to Go fast Go alone, if you want to Go far go together.
 
-> - "With Product-led Growth, the idea is that rather than bringing users through an active sales team or aggressive marketing campaigns, you just focus on building your product - and ensure you make it great." - (Why You May Not Need a Sales Team)[https://posthog.com/blog/product-led-growth]
+> "With Product-led Growth, the idea is that rather than bringing users through an active sales team or aggressive marketing campaigns, you just focus on building your product - and ensure you make it great." - (Why You May Not Need a Sales Team)[https://posthog.com/blog/product-led-growth]
 
 ## Links
 
@@ -30,6 +32,7 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 - [Making a living as an independent maker](https://twitter.com/adamwathan/status/1296447318074568704)
 - [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business)
 - [Love flywheels? You're in luck!](https://twitter.com/lennysan/status/1295743085243060224)
+- [Postmake](https://postmake.io/) - Tools and resources for your startups
 
 ### Blogs
 

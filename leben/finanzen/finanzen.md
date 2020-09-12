@@ -65,6 +65,7 @@
 - [How to Build Profitable Websites from Scratch](https://fourpillarfreedom.com/the-income-community-how-to-build-profitable-websites-from-scratch/)
 - [Against Universal Basic Income](https://guzey.com/economics/against-universal-basic-income/)
 - [How to Get Rich (without getting lucky)](https://www.sloww.co/how-to-get-rich-naval-ravikant/)
+- [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/)
 
 ## Videos
 

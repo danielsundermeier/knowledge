@@ -38,7 +38,8 @@
 
 ## Bücher
 
-[Bücherliste](https://www.goodreads.com/review/list/82798685-taces2?ref=nav_mybooks&shelf=landwirtschaft)
+- [Bücherliste](https://www.goodreads.com/review/list/82798685-taces2?ref=nav_mybooks&shelf=landwirtschaft)
+- [Farmers’ Handbook – UPDATED](https://www.permaculturenews.org/2020/08/24/farmers-handbook/)
 
 ## Betriebe
 
@@ -56,3 +57,5 @@
 - [Gemüse ABC](https://www.meine-ernte.de/gemuese-abc/)
 - [IG Gesunder Boden](https://www.ig-gesunder-boden.de/)
 - [Regenerative Landwirtschaft – die nächste Agrar-Revolution?](https://www.farm-and-food.com/regenerative-landwirtschaft-in-deutschland/)
+- [Greenhouse in the snow](https://greenhouseinthesnow.com/)
+- [Create Your Sustainable Future & Meaningful Life](https://vergepermaculture.ca/)

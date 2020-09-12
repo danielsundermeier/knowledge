@@ -92,3 +92,4 @@ Dadurch schlafe ich in der Zeit, die am längsten von der letzten Mahlzeit entfe
 - [The Many Types of Fiber](https://chriskresser.com/types-of-dietary-fiber/)
 - [The Single Best Diet To Lose Fat](https://www.youtube.com/watch?v=viYVoULXFgo&feature=share)
 - [Hunger not impossible](https://www.notimpossible.com/projects/hunger-not-impossible)
+- [Energy balance and its components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/pdf/ajcn9540989.pdf)

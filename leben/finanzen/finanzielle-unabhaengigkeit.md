@@ -9,6 +9,7 @@
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 - [A Modern Approach to Financial Independence](https://fourpillarfreedom.com/a-modern-approach-to-financial-independence/)
 - [How Much is Enough Money?](https://cityfrugal.com/enough-money/)
+- [Krankenversicherung ohne Einkommen](https://www.krankenkasseninfo.de/ratgeber/60647/krankenversicherung-ohne-einkommen.html)
 
 ## Videos
 

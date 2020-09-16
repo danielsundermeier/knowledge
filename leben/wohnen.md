@@ -17,6 +17,7 @@
 - [Strohballenhaus zum Vermieten](http://pulvermaar.de/Strohballenhaus/Vermietung)
 - [EinsB](http://einsb.haus/)
 - [Untersuchung von Strohballen und Strohballenkonstruktionen](https://www.uni-kassel.de/upress/online/frei/978-3-89958-422-6.volltext.frei.pdf)
+- [Strohballensiedlung](https://strohballensiedlung.de/)
 
 ## Nachbarschaft
 
@@ -27,3 +28,7 @@
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)
+
+## Artikel
+
+- [Freiburg: Germany’s futuristic city set in a forest](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest)

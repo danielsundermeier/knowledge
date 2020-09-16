@@ -34,6 +34,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How to Write Technical Posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [Investing into the unknown](https://nesslabs.com/lawrence-yeo-interview)
 - [How to Start a Blog that Changes Your Life](https://www.nateliason.com/blog/start-a-blog)
+- [15 rules for blogging](http://interconnected.org/home/2020/09/10/streak)
 
 ## Static Site Generator
 

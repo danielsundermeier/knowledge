@@ -4,6 +4,7 @@
 
 - [WiFi Login Card](https://wifi.dev.bdw.to/)
 - [Start Your Own ISP](https://startyourownisp.com/)
+- [Building a better home network](https://kevin.burke.dev/kevin/building-a-better-home-network/)
 
 ## Ethernet
 

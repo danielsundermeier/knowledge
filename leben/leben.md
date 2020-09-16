@@ -34,6 +34,10 @@
 - Lösung als System, in Leben integrieren
 - Bestehende Systeme weiter machen: Ziel ist das Erreichte mindestens zu Erhalten
 
+### Links
+
+- [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)
+
 ## Notizen
 
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
@@ -56,6 +60,10 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 ## Struktur
 
 Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag die gleichen Entscheidungen treffen muss (Was esse ich, Wann kaufe ich ein, ...). Auf diese Weise habe ich mehr Zeit mich mit Dingen zu beschäftigen, die ich wirklcih tun möchte. Ich treffe Entscheidungen ein Mal und ziehe es so lange durch, bis ich eine bessere Lösung finde. Ich überprüfe meine Abläufe regemäßig und passe gegebenenfalls an. Ich verändere Kleinigkeiten, um meine Abläufe zu verbessern.
+
+### Links
+
+- [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)
 
 ## Hierachrie
 

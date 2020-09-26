@@ -33,6 +33,9 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business)
 - [Love flywheels? You're in luck!](https://twitter.com/lennysan/status/1295743085243060224)
 - [Postmake](https://postmake.io/) - Tools and resources for your startups
+- [Making The Leap](https://www.coreyhaines.co/blog/leap)
+- [Microsolidarity Part 2](https://medium.com/microsolidarity/microsolidarity-part-2-a-theory-of-groups-and-groups-of-groups-7c6e7ce63eda)
+- [building an audience](https://twitter.com/thisiskp_/status/1306614299218055169)
 
 ### Blogs
 

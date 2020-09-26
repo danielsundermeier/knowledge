@@ -10,6 +10,7 @@
 - [Laravel beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)
 - [Building and Deploying Laravel with Github Actions](https://driesvints.com/blog/building-and-deploying-laravel-with-github-actions/)
 - [Laravel Playground](https://laravelplayground.com/#/)
+- [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions)
 
 ## Blogs
 
@@ -39,6 +40,13 @@ namespace App\Traits;
 
 trait Unguarded
 {
+    public static function bootUnguarded()
+    {
+        static::creating(function ($model) {
+            // 
+        });
+    }
+
     public function initializeUnguarded()
     {
         self::$unguarded = true;

@@ -50,3 +50,5 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 
 > And, when you ask MMM now what he's figured out about happiness, he tells us that to have a 
 great life, you just need to put together a string of enough great days. While everyone's great day is different, Pete's includes time outside, exercise, time with family, socializing with friends and some hard work. - [The Medicine of Mustachianism](https://www.mrmoneymustache.com/2020/04/14/the-medicine-of-mustachianism-a-guest-post-from-marla/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
+
+> “I realized that everything around me existed because someone put in the work to make it exist. Then I realized that if I wanted something to exist, I could make it happen if I wanted to. And then I wondered about all the great things we don’t have, that we could, if only someone were to make them happen. What a different world that would be.” - [Joshua Levy](https://twitter.com/ojoshe)

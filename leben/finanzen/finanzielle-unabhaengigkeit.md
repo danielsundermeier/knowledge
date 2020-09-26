@@ -10,6 +10,8 @@
 - [A Modern Approach to Financial Independence](https://fourpillarfreedom.com/a-modern-approach-to-financial-independence/)
 - [How Much is Enough Money?](https://cityfrugal.com/enough-money/)
 - [Krankenversicherung ohne Einkommen](https://www.krankenkasseninfo.de/ratgeber/60647/krankenversicherung-ohne-einkommen.html)
+- [How to Apply Zipf’s Law to Your Finances](https://fourpillarfreedom.com/how-to-apply-zipfs-law-to-your-finances/)
+- [Build the life you want, then save for it](https://www.reddit.com/r/financialindependence/comments/58j8pc/build_the_life_you_want_then_save_for_it/)
 
 ## Videos
 

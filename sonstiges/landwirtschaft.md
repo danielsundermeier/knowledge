@@ -59,3 +59,4 @@
 - [Regenerative Landwirtschaft – die nächste Agrar-Revolution?](https://www.farm-and-food.com/regenerative-landwirtschaft-in-deutschland/)
 - [Greenhouse in the snow](https://greenhouseinthesnow.com/)
 - [Create Your Sustainable Future & Meaningful Life](https://vergepermaculture.ca/)
+- [How Does Nutrient-Depleted Soil Impact Our Food](https://chriskresser.com/depletion-of-soil-and-what-can-be-done/)

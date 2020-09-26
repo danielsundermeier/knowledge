@@ -42,6 +42,10 @@ Zeit in der Natur verbringen
 - [Muscle Wiki](https://musclewiki.com/)
 - [The 7-Minute Workout](https://www.7minuteworkouttimer.com/)
 
+### Links
+
+- [How to Sixpack](https://fitness-experts.de/muskelaufbau/sixpack)
+
 ## Ernährung
 
 - [Energy balance and its components: implications for body weight regulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/)
@@ -54,6 +58,10 @@ Zeit in der Natur verbringen
 
 - [Age Reduction Breakthrough](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/)
 - [Longevity FAQ](https://www.ldeming.com/longevityfaq/)
+
+## Tests
+
+- [Lykon](https://shop.lykon.de/products/myhealth-fitness)
 
 ## Links
 

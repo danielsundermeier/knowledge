@@ -32,3 +32,7 @@
 ## Artikel
 
 - [Freiburg: Germany’s futuristic city set in a forest](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest)
+
+## Links
+
+- [Wiki House](https://www.wikihouse.cc/)

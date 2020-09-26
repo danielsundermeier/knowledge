@@ -7,3 +7,4 @@
 ## Sonstiges
 
 - [Draw.io](https://app.diagrams.net/)
+- [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display

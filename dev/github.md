@@ -9,6 +9,11 @@
 2. Connect your local to the original “upstream” repository by adding it as a remote
 3. [Create a branch](https://guides.github.com/introduction/flow/) for your edits.
 
+### Links
+
+- [Fork and Pull Request Workflow](https://github.com/susam/gitpr)
+- [Contributing to an open source PHP package](https://johnbraun.blog/posts/contributing-to-a-PHP-package)
+
 ## Actions
 
 - [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.

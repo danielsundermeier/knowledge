@@ -135,3 +135,6 @@ Ich halte das für eine gute Lösung
 ## Organisation
 
 - [Holacracy](https://www.holacracy.org/)
+- [P2P Foundation](https://p2pfoundation.net/)
+- [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
+- [Future Thinkers Smart Village](https://futurethinkers.org/village/)

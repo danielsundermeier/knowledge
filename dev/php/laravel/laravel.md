@@ -23,6 +23,7 @@
 - [Easily tail your logs](https://github.com/spatie/laravel-tail)
 - [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login)
 - [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics)
+- [Laravel Package Development](https://laravelpackage.com/)
 
 ## Valet
 

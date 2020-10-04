@@ -3,6 +3,12 @@
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
 - [The Guide to Design](https://start.uxdesign.cc/)
 
+## Tailwind
+
+- [tailwindcss](https://tailwindcss.com/)
+- [tailwindUI](https://tailwindui.com)
+- [Tailwind CSS Resources you wish you had](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
+
 ## Snippets
 
 ### Ellipsis

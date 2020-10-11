@@ -25,6 +25,7 @@
 ### Permakultur
 
 - [Praxisorte](https://permakultur.de/praxisorte/)
+- [Permapeople](https://permapeople.org/)
 
 ### Regenerative Landwirtschaft
 

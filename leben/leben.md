@@ -9,6 +9,12 @@
 - Systeme aufbauen / Entscheidungen automatisieren
 - Lesen
 
+- Zum glücklich sein ist entscheidend was ich jeden Tag tue, nicht das was ich hin und wieder mache
+- Aufschreiben was mir gefällt und was mir nicht gefällt
+- Mehr von dem tun was mir gefällt
+- Weniger von dem tun was mir nicht gefällt
+- Einen Teil der Zeit nutzen neue Dinge auszuprobieren
+
 ## Fundament
 
 - [Gesundheit](./gesundheit/gesundheit.md)
@@ -72,6 +78,23 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - Systems
 - Targets
 - Actions
+
+## Warum machen Computerspiele Spaß
+
+- Klare Ziele
+- Fortschritt einsehbar
+- Direktes Feedback
+- Verbesserung des Charakters 
+- Sammeln von Gegenständen 
+- Spannende Quests
+
+-> Gamificatition für das Leben umsetzen
+
+## Willenskraft
+
+- Funktioniert langfristig nicht
+- Besonders wenn man müde hungrig oder wütend ist
+- Automatisierte Systeme ausdenken
 
 ## Minimalismus
 

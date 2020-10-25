@@ -37,9 +37,12 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Microsolidarity Part 2](https://medium.com/microsolidarity/microsolidarity-part-2-a-theory-of-groups-and-groups-of-groups-7c6e7ce63eda)
 - [building an audience](https://twitter.com/thisiskp_/status/1306614299218055169)
 - [How to build a products](https://twitter.com/jackbutcher/status/1316747172306616321)
+- [Blogging for Devs](https://bloggingfordevs.com/)
+- [Never Compete on Price](https://medium.com/@tylerhakes/never-compete-on-price-c7709f29280)
 
 ### Blogs
 
 ### Videos
 
 - [Josh Pigford - From Idea to $5k/mo in 5 Months](https://vimeo.com/94623532)
+- [Starting a $400,000 Side Business in 1 Month](https://www.youtube.com/watch?v=NblHMZbYg-o)

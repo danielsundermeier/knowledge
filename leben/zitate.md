@@ -52,3 +52,7 @@ Frage Dich jeden Abend, ob Du wirklich das getan hast, was Du Dir am Morgen vers
 great life, you just need to put together a string of enough great days. While everyone's great day is different, Pete's includes time outside, exercise, time with family, socializing with friends and some hard work. - [The Medicine of Mustachianism](https://www.mrmoneymustache.com/2020/04/14/the-medicine-of-mustachianism-a-guest-post-from-marla/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
 
 > “I realized that everything around me existed because someone put in the work to make it exist. Then I realized that if I wanted something to exist, I could make it happen if I wanted to. And then I wondered about all the great things we don’t have, that we could, if only someone were to make them happen. What a different world that would be.” - [Joshua Levy](https://twitter.com/ojoshe)
+
+> "Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all." ― Richard Feynman
+
+> "Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from."" — Seth Godin

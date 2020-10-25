@@ -2,6 +2,12 @@
 
 - [Libraries](php-libraries.md)
 
+## php.ini
+
+```
+nano /usr/local/etc/php/7.4/php.ini
+```
+
 ## Snippets
 
 - [Remembering what spaceship operator do on comparison in PHP](https://www.amitmerchant.com/remembering-what-spaceship-operator-do-comparison-php/)

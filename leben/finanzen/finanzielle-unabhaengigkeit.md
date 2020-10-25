@@ -13,6 +13,7 @@
 - [How to Apply Zipf’s Law to Your Finances](https://fourpillarfreedom.com/how-to-apply-zipfs-law-to-your-finances/)
 - [Build the life you want, then save for it](https://www.reddit.com/r/financialindependence/comments/58j8pc/build_the_life_you_want_then_save_for_it/)
 - [Life is About Finding Fulfilling Work, Not Saving Up Enough Money to Never Work Again](https://collectingwisdom.com/life-is-about-finding-fulfilling-work-not-saving-up-enough-money-to-never-work-again/)
+- [How To Hack The Stock Market](https://bankeronfire.com/hack-the-stock-market)
 
 ## Videos
 

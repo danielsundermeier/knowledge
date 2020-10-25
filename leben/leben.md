@@ -140,6 +140,7 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [My Favorite Lessons from The Algebra of Happiness](https://fourpillarfreedom.com/my-favorite-lessons-from-the-algebra-of-happiness/)
 - [The Gamified Life](https://www.youtube.com/watch?v=yMKBeyEJDpI&list=PLkCjAL2tiIBNX6_XFcfTavDZlddHKib0Y)
+- [You Want a Better Future. But What if You Were Already Good?](https://cityfrugal.com/better-future/)
 
 ### Supernormal stimulus
 

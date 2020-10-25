@@ -35,6 +35,8 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Investing into the unknown](https://nesslabs.com/lawrence-yeo-interview)
 - [How to Start a Blog that Changes Your Life](https://www.nateliason.com/blog/start-a-blog)
 - [15 rules for blogging](http://interconnected.org/home/2020/09/10/streak)
+- [Write Useful Books](https://writeusefulbooks.com/)
+- [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
 
 ## Static Site Generator
 

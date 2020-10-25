@@ -5,6 +5,12 @@
 - [Quick setup Laravel (with Tailwind scaffold)](https://martinbetz.eu/article/quick-setup-laravel-extended)
 - [Laravel Boilerplate](https://github.com/rappasoft/laravel-boilerplate)
 
+Ich habe mir ein [CLI Tool](https://github.com/danielsundermeier/butler) programmiert, das ein neues Laravel Projekt einrichtet, damit ich direkt starten kann.
+
+```
+butler laravel:new name
+```
+
 ## Artikel
 
 - [Laravel beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)

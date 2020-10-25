@@ -1,5 +1,7 @@
 # Deployment Skript
 
+Ich habe ein [Package](https://github.com/danielsundermeier/laravel-deploy) programmiert, damit ich es nicht immer neu einrichten muss.
+
 ## Controller
 
 DeploymentController

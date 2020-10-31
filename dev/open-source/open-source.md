@@ -19,6 +19,16 @@
 - [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
 - [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
 
+## Dokumentation
+
+- [Make a README](https://www.makeareadme.com/)
+- [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
+
+### Bilder in README
+
+1. Bild in Issue hinzufügen Formular hochladen
+2. Link kopieren und in readme.md einfügen
+
 ## Monetarisieren
 
 - Hosted Version als SaaS

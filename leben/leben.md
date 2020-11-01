@@ -119,4 +119,6 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um LÃ
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [My Favorite Lessons from The Algebra of Happiness](https://fourpillarfreedom.com/my-favorite-lessons-from-the-algebra-of-happiness/)
 - [You Want a Better Future. But What if You Were Already Good?](https://cityfrugal.com/better-future/)
+- [Creating Your Ideal Life, One Day at a Time](https://cityfrugal.com/creating-your-ideal-life-one-day-at-a-time/)
+- [I turn 27 today, here's ~27 micro-essays on life](https://www.mrdbourke.com/27/)
 

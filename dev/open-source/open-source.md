@@ -18,6 +18,7 @@
 - [LoRaWAN](https://github.com/TheThingsNetwork/lorawan-stack/blob/develop/CONTRIBUTING.md)
 - [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
 - [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
+- [What a good PR looks like](https://getpocket.com/redirect?url=https%3A%2F%2Fstitcher.io%2Fblog%2Fwhat-a-good-pr-looks-like)
 
 ## Dokumentation
 

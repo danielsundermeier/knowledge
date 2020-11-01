@@ -4,6 +4,7 @@
 - [Second Nature](https://secondnature.org/solutions-center/)
 - [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
 - [Let’s Create the Future We Want](https://thesolutionsproject.org/)
+- [energypedia](https://energypedia.info/wiki/Main_Page)
 
 ## Speicher
 

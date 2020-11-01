@@ -6,12 +6,12 @@
 - OneNote > Braindump
 
 ## Actionable Tasks
-    
+ 
 - Konkrete Schritte (Checkliste) erstellen
 - Fälligkeit setzen (optional)
     
 ## Nonactionable Tasks
-    
+  
 - Sollen eigentlich nicht in Habitica sein
 - Tag (Projekt) erstellen
 - Task in actionable tasks aufteilen
@@ -25,14 +25,14 @@ Heute gehörte Zusammenfassungen durchgehen
 
 ## Aufgaben für Morgen
 
-Nicht mit einer leeren Seite starten, sonder der Überarbeitung einer Aufgabe 
+Nicht mit einer leeren Seite starten, sondern der Überarbeitung einer Aufgabe 
 von gestern
 
-Ich nmöchte bei allen Aufgaben für den nächsten Tag ein gutes Gefühl haben. 
+Ich möchte bei allen Aufgaben für den nächsten Tag ein gutes Gefühl haben. 
 Wenn es nicht so ist:
 - Umsetzung besser planen
 - Aufschreiben, was ich tue, falls etwas schief läuft
-- Bei Dingen, die niciht in meiner Kontrolle sind:
+- Bei Dingen, die nicht in meiner Kontrolle sind:
     + Was mache ich, wenn es nicht klappt?
 
 ### Starthilfe

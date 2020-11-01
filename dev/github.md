@@ -2,6 +2,7 @@
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Git Concepts I Wish I Knew Years Ago ](https://dev.to/g_abud/advanced-git-reference-1o9j)
+- [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/ch01.html)
 
 ## Pull Requests
 

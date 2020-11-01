@@ -41,6 +41,10 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Blogging for Devs](https://bloggingfordevs.com/)
 - [This is the blueprint I've followed to build my own business/income in ~4 years](https://twitter.com/jdnoc/status/1291773397010087938)
 - [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
+- [Growth Marketing](https://www.julian.com/guide/growth/intro)
+- [Audience First](https://audiencefirst.link/contents/)
+- [Show Up Every Day for Two Years](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2015%2Fshow-up-every-day-for-two-years%2F)
+- [Selling digital products using Laravel](https://freek.dev/1789-selling-digital-products-using-laravel-part-1-intro-a-tour-of-spatiebe)
 
 ### Blogs
 

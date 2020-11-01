@@ -13,3 +13,5 @@
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
 - [Paird](https://www.getpaired.com/) - 10 minutes a day to a better relationship
 - [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
+- [Beginner's Guide to Arguing Constructively](http://liamrosen.com/arguments.html)
+- [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)

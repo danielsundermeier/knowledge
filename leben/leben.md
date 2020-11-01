@@ -63,14 +63,6 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 - Zeit in der Natur verbringen
 - Ein solides Fundment (Gesundheit, Finanzen) legen und dann in kleinen Schritten darauf aufbauen
 
-## Struktur
-
-Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag die gleichen Entscheidungen treffen muss (Was esse ich, Wann kaufe ich ein, ...). Auf diese Weise habe ich mehr Zeit mich mit Dingen zu beschäftigen, die ich wirklcih tun möchte. Ich treffe Entscheidungen ein Mal und ziehe es so lange durch, bis ich eine bessere Lösung finde. Ich überprüfe meine Abläufe regemäßig und passe gegebenenfalls an. Ich verändere Kleinigkeiten, um meine Abläufe zu verbessern.
-
-### Links
-
-- [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)
-
 ## Hierachrie
 
 - Building a life
@@ -79,27 +71,17 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - Targets
 - Actions
 
-## Warum machen Computerspiele Spaß
-
-- Klare Ziele
-- Fortschritt einsehbar
-- Direktes Feedback
-- Verbesserung des Charakters 
-- Sammeln von Gegenständen 
-- Spannende Quests
-
--> Gamificatition für das Leben umsetzen
-
 ## Willenskraft
 
 - Funktioniert langfristig nicht
 - Besonders wenn man müde hungrig oder wütend ist
 - Automatisierte Systeme ausdenken
 
-## Minimalismus
+## Supernormal stimulus
 
-- [Living with less](https://www.wernervanrooyen.com/living-with-less-one-bag/)
-- [Ronald L. Banks](https://www.youtube.com/channel/UCqN9KTs9pdTWw7i31eBNv4w)
+- [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
+- [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
+- [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)
 
 ## Links
 
@@ -112,8 +94,6 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Pet erson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
 - [Specialization is For Insects](https://thedeepdish.org/specialisation-is-for-insects/)
 - [Rules](https://github.com/nikitavoloboev/knowledge/blob/ee97d6d2e96d10ce2514cd708a182ead36724967/focusing/rules.md)
-- [The Barbell Strategy for Buying Quality Stuff](https://thedeepdish.org/buying-quality/)
-- [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 - [Welche kleine, aber tägliche Gewohnheit kommt Dir langfristig zugute?](https://de.quora.com/Welche-kleine-aber-t%C3%A4gliche-Gewohnheit-kommt-Dir-langfristig-zugute)
 - [I implemented the life I designed: perfect but I feel lost. What now?](https://news.ycombinator.com/item?id=23450110)
@@ -129,7 +109,6 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Appearances vs Experiences](https://fs.blog/2020/07/appearances-vs-experiences/)
 - [Escape Boredom - Leonardo da Vinci and a Guide to the Good Life](https://www.youtube.com/watch?v=mYcR7Wkq1r8)
 - [The Sweet Spot](https://www.mrmoneymustache.com/2020/08/04/the-sweet-spot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
-- [This is the blueprint I've followed to build my own business/income in ~4 years](https://twitter.com/jdnoc/status/1291773397010087938)
 - [Alternative Forms of Wealth](https://www.collaborativefund.com/blog/alternative-forms-of-wealth/)
 - [Michael Gervais on Creating a Living Masterpiece](https://scottbarrykaufman.com/podcast/michael-gervais-on-creating-a-living-masterpiece/)
 - [Optimize with Brian Johnson](https://www.sloww.co/optimize-brian-johnson/)
@@ -139,11 +118,5 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [How to be happy](https://twitter.com/dvassallo/status/1300306727963828226)
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [My Favorite Lessons from The Algebra of Happiness](https://fourpillarfreedom.com/my-favorite-lessons-from-the-algebra-of-happiness/)
-- [The Gamified Life](https://www.youtube.com/watch?v=yMKBeyEJDpI&list=PLkCjAL2tiIBNX6_XFcfTavDZlddHKib0Y)
 - [You Want a Better Future. But What if You Were Already Good?](https://cityfrugal.com/better-future/)
 
-### Supernormal stimulus
-
-- [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
-- [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
-- [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)

@@ -34,12 +34,5 @@
 
 - [Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)
 
-## Readme
-
-### Bilder
-
-1. Bild in Issue hinzufügen Forlmular hochladen
-2. Link kopieren und in readme.md einfügen
-
 
 

@@ -1,5 +1,9 @@
 # Gesundheit
 
+- [Schlaf](./schlaf)  
+- [Ernährung](./ernaehrung)
+- [Fitness](./fitness)
+
 ## Allgemein
 
 Stress vermeiden
@@ -10,50 +14,6 @@ Zeit in der Natur verbringen
     • Senkt Stress 
     • Boosts nk Cells
     • Ohne Ablenkung (Musik, Handy, …)
-
-## Schlaf
-
-- Feste Schlafenszeiten (Zirkadianer Rhythmus)
-- Schlafzimmer: 
-    + dunkel
-    + kühl (16-18 Grad Celsius)
-- Keine elektronischen Displays zwei Stunden vor dem Schlafen -> Hörbuch
-- Notizbuch neben Bett für Braindump
-- Wenn man müde ist trifft man schlechtere Entscheidungen und ist hungriger
-
-- [SLEEP 101: How to Feel Way Better in the Morning](https://www.youtube.com/watch?v=3twqNZGe0vg&t=169s)
-- [Matthew’s Tips for Good Sleep](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
-
-### Tracker
-
-- [Oura Ring](https://ouraring.com/)
-- [Sleep Cycle](https://www.sleepcycle.com/)
-- [EightPod](https://www.eightsleep.com/eight-pod-sleep-cool/)
-
-## Fitness
-
-- [20 MIN MORNING WORKOUT](https://www.youtube.com/watch?v=IeGrTqW5lek&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2&t=0s)
-- [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
-- HIIT Seilspringen
-    + 20 Sekunden Training
-    + 10 Sekunden Pause
-- Steady State Cardio: Spazieren gehen
-
-- [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
-- [Muscle Wiki](https://musclewiki.com/)
-- [The 7-Minute Workout](https://www.7minuteworkouttimer.com/)
-
-### Links
-
-- [How to Sixpack](https://fitness-experts.de/muskelaufbau/sixpack)
-
-## Ernährung
-
-- [Energy balance and its components: implications for body weight regulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/)
-
-### Tracker
-
-- [Levels](https://www.levelshealth.com/)
 
 ## Altern
 

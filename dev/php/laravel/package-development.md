@@ -48,3 +48,4 @@ butler package:push danielsundermeier/package-name "Commit message (optional)" -
 - [Package Development](https://laravel.com/docs/packages)
 - [Creating a Laravel specific package](https://johnbraun.blog/posts/creating-a-laravel-package-1)
 - [Laravel Package Boilerplate](https://laravelpackageboilerplate.com/)
+- [Social images for PHP Packages PHP Packages](https://banners.beyondco.de/)

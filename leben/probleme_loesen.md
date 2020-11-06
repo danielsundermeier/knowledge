@@ -32,3 +32,4 @@ Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 ## Links
 
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
+- [Rediscovering and Using Ancient Ideas: Part 1](https://www.danstern.co/posts/rediscovering-and-using-ancient-ideas)

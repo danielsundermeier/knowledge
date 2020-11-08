@@ -17,3 +17,4 @@
 - [The 7-Minute Workout](https://www.7minuteworkouttimer.com/)
 - [How to Sixpack](https://fitness-experts.de/muskelaufbau/sixpack)
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)
+- [Darebee](https://darebee.com/)

@@ -15,6 +15,14 @@
 - Weniger von dem tun was mir nicht gefällt
 - Einen Teil der Zeit nutzen neue Dinge auszuprobieren
 
+## Jeden Tag
+
+- Bewegen
+- Zeit draußen / in der Natur verbringen
+- Etwas, das mir Freude bereitet
+- Etwas, das mich meinen Zielen näher bringt
+- Zeit, um über das Leben nachzudenken
+
 ## Fundament
 
 - [Gesundheit](./gesundheit/gesundheit.md)

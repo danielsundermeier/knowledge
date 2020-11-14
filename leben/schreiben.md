@@ -37,6 +37,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [15 rules for blogging](http://interconnected.org/home/2020/09/10/streak)
 - [Write Useful Books](https://writeusefulbooks.com/)
 - [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
+- [Writing for Reasons](https://blog.sulami.xyz/posts/writing-for-reasons/)
 
 ## Static Site Generator
 

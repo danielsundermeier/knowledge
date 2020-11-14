@@ -32,6 +32,7 @@ video course](https://mailcoach.app/videos)
 - [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/)
 - [Laravel Package Training](https://laravelpackage.training/)
 - [Want to learn DevOps?](https://www.freecodecamp.org/news/devops-prerequisites-course/)
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html)
 
 ## Ablauf
 

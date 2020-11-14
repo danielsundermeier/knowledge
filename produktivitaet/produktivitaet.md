@@ -68,6 +68,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [How I very simply tricked my brain into overcoming procrastination for the better](https://www.reddit.com/r/productivity/comments/ini5ca/how_i_very_simply_tricked_my_brain_into/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Things To Do When You’re Bored](https://www.tripofalifestyle.com/perspective/what-to-do-when-youre-bored/)
 - [Sean’s Content Creation Flywheel](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2020%2Fseans-content-creation-flywheel%2F)
+- [6 Things The Most Productive People Do Every Day](https://www.bakadesuyo.com/2020/11/productive-people/)
 
 ### Blogs
 

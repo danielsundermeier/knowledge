@@ -45,6 +45,8 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Audience First](https://audiencefirst.link/contents/)
 - [Show Up Every Day for Two Years](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2015%2Fshow-up-every-day-for-two-years%2F)
 - [Selling digital products using Laravel](https://freek.dev/1789-selling-digital-products-using-laravel-part-1-intro-a-tour-of-spatiebe)
+- [How to Make Sure Your Product Launch SELLS](https://www.youtube.com/watch?v=LSrcELpdgX8)
+- [Building a business from a bedroom](https://www.mrdbourke.com/running-a-business-from-a-bedroom-11-months-in/)
 
 ### Blogs
 

@@ -33,3 +33,4 @@ Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Rediscovering and Using Ancient Ideas: Part 1](https://www.danstern.co/posts/rediscovering-and-using-ancient-ideas)
+- [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)

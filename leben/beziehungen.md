@@ -15,3 +15,5 @@
 - [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 - [Beginner's Guide to Arguing Constructively](http://liamrosen.com/arguments.html)
 - [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
+- [How to Talk to Hot Girls (or anyone) Better](https://www.mrdbourke.com/how-to-talk-to-hot-girls-or-anyone-better/)
+- [People Are Like The Weather](https://www.theemotionmachine.com/people-are-like-the-weather-hard-to-predict-and-outside-of-your-control/)

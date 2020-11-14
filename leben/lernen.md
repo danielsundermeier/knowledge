@@ -40,6 +40,7 @@
 - [How I Learned My Skills](https://jdnoc.com/how-I-learned-my-skills/)
 - [amitness / learning ](https://github.com/amitness/learning)
 - [How to remember what you learn](https://vasilishynkarenka.com/learning/)
+- [Your first 100](https://www.mrdbourke.com/your-first-100/)
 
 ## Spaced Repetition
 

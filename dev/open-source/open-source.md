@@ -19,11 +19,13 @@
 - [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
 - [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
 - [What a good PR looks like](https://getpocket.com/redirect?url=https%3A%2F%2Fstitcher.io%2Fblog%2Fwhat-a-good-pr-looks-like)
+- [My first PR in laravel/framework that got merged!](https://www.amitmerchant.com/my-first-pr-in-laravel-framework-that-got-merged/)
 
 ## Dokumentation
 
 - [Make a README](https://www.makeareadme.com/)
 - [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
+- [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Bilder in README
 

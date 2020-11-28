@@ -2,6 +2,7 @@
 
 - [Lovelace Soft UI](https://github.com/N-l1/lovelace-soft-ui)
 - [Awesome HA](https://github.com/frenck/awesome-home-assistant)
+- [Demo Frontend](https://demo.home-assistant.io/#/lovelace/0)
 
 ## Plugins
 

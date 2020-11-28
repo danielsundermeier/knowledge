@@ -252,3 +252,33 @@ $statement->bindValue(':id', 5, PDO::PARAM_INT);
  
 $delete = $statement->execute();
 ```
+
+## MySQL Dump
+
+[MySQL Dump mit praxisnahen Beispielen einfach erklärt](https://mizine.de/html/import-sql-dump-via-terminal/)
+
+Export
+
+```
+mysqldump -uroot -p serienguide > serienguide.sql
+```
+
+Import
+
+```
+mysql -uroot -p serienguide < serienguide.sql
+```
+
+## Prefix for all tables
+  
+[How to add prefix of all tables in mysql](https://stackoverflow.com/questions/7970798/how-to-add-prefix-of-all-tables-in-mysql)
+
+```sql
+SELECT
+    concat('ALTER TABLE ',db,'.',tb,' RENAME ',db,'.',prfx,tb,';')
+FROM
+    (SELECT table_schema db,table_name tb
+    FROM information_schema.tables WHERE
+    table_schema='serienguide') A,
+    (SELECT 'legacy_' prfx) B;
+```

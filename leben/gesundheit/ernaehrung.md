@@ -24,3 +24,7 @@
 - [The Single Best Diet To Lose Fat](https://www.youtube.com/watch?v=viYVoULXFgo&feature=share)
 - [Hunger not impossible](https://www.notimpossible.com/projects/hunger-not-impossible)
 - [Energy balance and its components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/pdf/ajcn9540989.pdf)
+
+## Zitate
+
+> "So there you go: intermittent fasting to break the perpetual eating cycle, move more, stay busy and when you eat, go with low-cal choices. And stop putting food on a pedestal and making it a highlight of your day." - [How can I eat less and work more without being hungry?](https://www.quora.com/How-can-I-eat-less-and-work-more-without-being-hungry?top_ans=185867526)

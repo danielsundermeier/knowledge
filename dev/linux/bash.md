@@ -7,6 +7,7 @@
 - [Bash script tutorial](https://www.devopsroles.com/bash-script/)
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
 - [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 
 ## Snippets
 

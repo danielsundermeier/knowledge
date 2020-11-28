@@ -13,3 +13,4 @@
 ## Links
 
 - [How to Switch from jQuery to Vanilla JavaScript](https://www.freecodecamp.org/news/bootstrap-5-vanilla-js-tutorial/)
+- [https://denic.hashnode.dev/use-consolelog-like-a-pro ](https://denic.hashnode.dev/use-consolelog-like-a-pro)

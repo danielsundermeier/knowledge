@@ -10,6 +10,10 @@
     + 10 Sekunden Pause
 - Steady State Cardio: Spazieren gehen
 
+Die Fähigkeit Muskeln aufzubauen lässt stark nach, in den ersten 1-3 Jahren kann man noch relativ viel Muskelmase aufbauen. Bereits nach dem ersten Jahr lässt es stark nach.
+Am Anfang macht es Sinn zu bulkn und anschließen zu cutten. Nach einiger Zeit funktioniert es aber nicht mehr so gut und man sieht kaum Veränderungen.
+Ich denke nach ein paar Jahren Training kann man um Maintainance Kalorien essen und weiter trainieren. So sieht man immer gut aus und erreicht durch ständiges Steigern des Trainings einen Muskelaufbau.
+
 ### Links
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)

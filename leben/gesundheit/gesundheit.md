@@ -24,6 +24,8 @@ Zeit in der Natur verbringen
 ## Tests
 
 - [Lykon](https://shop.lykon.de/products/myhealth-fitness)
+- [lifetizr](https://www.lifetizr.io/) - Meet lifetizr, the new solution to help you optimize your blood glucose levels for more energy, increased focus and better health.
+- [Levels](https://www.levelshealth.com/) - Levels tracks your blood glucose in real time, so you can maximize your diet and exercise.
 
 ## Links
 

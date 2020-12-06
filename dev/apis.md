@@ -17,4 +17,5 @@
 
 ## Beispiele
 
--[Stripe API](https://stripe.com/docs/api)
+- [Stripe API](https://stripe.com/docs/api)
+- [List of Great Product API Docs (2020)](https://twitter.com/steipete/status/1335135761197375491)

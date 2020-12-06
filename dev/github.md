@@ -35,5 +35,3 @@
 
 - [Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)
 
-
-

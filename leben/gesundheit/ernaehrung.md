@@ -24,6 +24,7 @@
 - [The Single Best Diet To Lose Fat](https://www.youtube.com/watch?v=viYVoULXFgo&feature=share)
 - [Hunger not impossible](https://www.notimpossible.com/projects/hunger-not-impossible)
 - [Energy balance and its components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/pdf/ajcn9540989.pdf)
+- [Is there a healthy diet where I can eat the same thing every day?](https://qr.ae/pNafav)
 
 ## Zitate
 

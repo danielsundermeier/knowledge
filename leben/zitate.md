@@ -55,4 +55,6 @@ great life, you just need to put together a string of enough great days. While e
 
 > "Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all." ― Richard Feynman
 
-> "Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from."" — Seth Godin
+> "Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from." — Seth Godin
+
+> "Every time you experience a sense of disappointment or difficulty - in other words, every time your tolerance threshold is being exceeded - it's a message from your sub-conscious that there is something here you need to learn to do better." - [What are small facts about psychology?](https://qr.ae/pNa9IF)

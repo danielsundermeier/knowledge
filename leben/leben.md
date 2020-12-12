@@ -130,4 +130,5 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um LÃ
 - [Creating Your Ideal Life, One Day at a Time](https://cityfrugal.com/creating-your-ideal-life-one-day-at-a-time/)
 - [I turn 27 today, here's ~27 micro-essays on life](https://www.mrdbourke.com/27/)
 - [What does it feel like to have everything you want in life?](https://qr.ae/pNgTWb)
+- [How to Diversify Your Identity Before You Get Rich](https://cityfrugal.com/identity/)
 

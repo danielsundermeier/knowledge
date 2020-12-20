@@ -58,3 +58,9 @@ great life, you just need to put together a string of enough great days. While e
 > "Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from." — Seth Godin
 
 > "Every time you experience a sense of disappointment or difficulty - in other words, every time your tolerance threshold is being exceeded - it's a message from your sub-conscious that there is something here you need to learn to do better." - [What are small facts about psychology?](https://qr.ae/pNa9IF)
+
+> "So while thousands of Jack’s Todays will, to an outsider from far away, begin to look like a complete picture, Jack spends each moment of his actual reality in one unremarkable Today pixel or another. Jack’s error is brushing off his mundane Wednesday and focusing entirely on the big picture, when in fact the mundane Wednesday is the experience of his actual life." - [Life is a Picture, But You Live in a Pixel](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html)
+
+> "Nothing too good or too bad stays that way forever, because great times plant the seeds of their own destruction through complacency and leverage, and bad times plant the seeds of their own turnaround through opportunity and panic-driven problem-solving." - [The Big Lessons From History](https://www.collaborativefund.com/blog/the-big-lessons-from-history/)
+
+> "the long run is usually pretty good and the short run is usually pretty bad" - [The Big Lessons From History](https://www.collaborativefund.com/blog/the-big-lessons-from-history/)

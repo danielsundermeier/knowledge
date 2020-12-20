@@ -7,6 +7,8 @@
     + Geschenke
 - Andere Menschen können nicht meine Gedanken lesen. Ich muss Ihnen mitteilen was mir gefällt und was nicht.
 - Frauen lieben Blumen!
+- Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
+- Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
 
 ## Links 
 
@@ -17,3 +19,4 @@
 - [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
 - [How to Talk to Hot Girls (or anyone) Better](https://www.mrdbourke.com/how-to-talk-to-hot-girls-or-anyone-better/)
 - [People Are Like The Weather](https://www.theemotionmachine.com/people-are-like-the-weather-hard-to-predict-and-outside-of-your-control/)
+- [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)

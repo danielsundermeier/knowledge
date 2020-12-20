@@ -10,6 +10,8 @@ composer self-update
 
 ## Memory
 
+Bei v2 nicht mehr benötigt
+
 ```
 COMPOSER_MEMORY_LIMIT=2G composer require jeroen-g/laravel-packager --dev
 ```

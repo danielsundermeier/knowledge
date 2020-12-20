@@ -21,6 +21,10 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 > "With Product-led Growth, the idea is that rather than bringing users through an active sales team or aggressive marketing campaigns, you just focus on building your product - and ensure you make it great." - (Why You May Not Need a Sales Team)[https://posthog.com/blog/product-led-growth]
 
+## Inspiration
+
+- [Marvin](https://amazingmarvin.com/pricing) - Fokus auf User und großartiges Produkt (Pricing Questions)
+
 ## Links
 
 - [Be Good](http://paulgraham.com/good.html)
@@ -49,6 +53,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Building a business from a bedroom](https://www.mrdbourke.com/running-a-business-from-a-bedroom-11-months-in/)
 - [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328)
 - [What piece of financial advice is hard to explain to others?](https://qr.ae/pN9peS)
+- [PopUp Business School](https://www.popupbusinessschool.co.uk/)
 
 ### Blogs
 

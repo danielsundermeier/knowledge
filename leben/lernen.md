@@ -41,6 +41,7 @@
 - [amitness / learning ](https://github.com/amitness/learning)
 - [How to remember what you learn](https://vasilishynkarenka.com/learning/)
 - [Your first 100](https://www.mrdbourke.com/your-first-100/)
+- [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/learning_theory_class/)
 
 ## Spaced Repetition
 

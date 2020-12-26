@@ -132,4 +132,5 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um LÃ
 - [What does it feel like to have everything you want in life?](https://qr.ae/pNgTWb)
 - [How to Diversify Your Identity Before You Get Rich](https://cityfrugal.com/identity/)
 - [100 Tips For A Better Life](https://ideopunk.com/2020/12/22/100-tips-for-a-better-life/)
+- [10 RULES For Life](https://www.youtube.com/watch?v=_2HIkR4aWxU)
 

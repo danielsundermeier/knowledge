@@ -47,6 +47,10 @@
 - [Permakultur Scheuerhof](https://www.permakultur-scheuerhof.de/)
 - [Gut & Bösel](https://www.gutundboesel.org/)
 
+## Werkzeuge
+
+- [Organic Tools](https://www.organic-tools.com/)
+
 ## Technologie
 
 - [qed](https://qed.ai/)

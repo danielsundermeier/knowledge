@@ -25,6 +25,10 @@
 - [String Towns](https://www.strongtowns.org/)
 - [starcity](https://starcity.com/)
 
+## Isolierung
+
+- [Glass-Bubble-Technik](https://www.swr.de/wissen/deutscher-zukunftspreis-glass-bubble-daemmung-100.html)
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

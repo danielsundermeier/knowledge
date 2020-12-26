@@ -131,4 +131,5 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um LÃ
 - [I turn 27 today, here's ~27 micro-essays on life](https://www.mrdbourke.com/27/)
 - [What does it feel like to have everything you want in life?](https://qr.ae/pNgTWb)
 - [How to Diversify Your Identity Before You Get Rich](https://cityfrugal.com/identity/)
+- [100 Tips For A Better Life](https://ideopunk.com/2020/12/22/100-tips-for-a-better-life/)
 

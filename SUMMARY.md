@@ -143,6 +143,7 @@
     - [Landwirtschaft](/sonstiges/landwirtschaft.md)
     - [Rss](/sonstiges/rss.md)
     - [Schrauben](/sonstiges/schrauben.md)
+    - [Statistik](/sonstiges/statistik.md)
     - [Wiki-workflow](/sonstiges/wiki-workflow.md)
     - [Wirtschaft](/sonstiges/wirtschaft.md)
 - [Zukunft](zukunft.md)

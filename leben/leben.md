@@ -71,6 +71,9 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L√
 - Zeit in der Natur verbringen
 - Ein solides Fundment (Gesundheit, Finanzen) legen und dann in kleinen Schritten darauf aufbauen
 
+Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussieren. Er schreibt jeden Morgen vier Stunden lang SEO optimierte Artikel und verdient damit sehr viel Geld. Das ist die eine Sache die f√ºr ihn funktioniert.
+- [https://fourpillarfreedom.com/my-2020-annual-review/](https://fourpillarfreedom.com/my-2020-annual-review/)
+
 ## Hierachrie
 
 - Building a life
@@ -133,4 +136,5 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L√
 - [How to Diversify Your Identity Before You Get Rich](https://cityfrugal.com/identity/)
 - [100 Tips For A Better Life](https://ideopunk.com/2020/12/22/100-tips-for-a-better-life/)
 - [10 RULES For Life](https://www.youtube.com/watch?v=_2HIkR4aWxU)
+- [The ultimate list of hobbies](https://www.discoverahobby.com/)
 

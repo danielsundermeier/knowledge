@@ -8,6 +8,47 @@
 - Nicht hungrig Einkaufen gehen -> Ich kaufe Nahrungsmittel, die ich nicht kaufen möchte
 - bewusst essen, langsam und ohne Ablenkung
 - Nahrungsmittel mit geringer Kaloriendichte (viel Masse, wenig Kalorien) z.B. Gemüse
+- Wenn ich nur die Dinge aus meinem Ernährungsplan zuhause habe, kann ich nicht davon abweichen (nur mit Aufwand, der es meist nicht wert ist)
+- Wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal) brauche ich mehr Energie (Diet Break)
+    + Diet Break: für ~zwei Tage Kalorien auf Erhalt erhöhen
+
+## Ernährungsplan mit Lieferdienst
+
+Ich wünsche mir einen Ernährungsplan mit Lieferdienst.
+
+Ich teile meine Daten:
+- Ziel
+    + Zielgewicht
+    + Fettgehalt
+    + Muskelmasse
+    + Zeitraum
+- Gewicht, Fettgehalt, ...
+- Verbrauchte Kalorien
+- Aufgenommene Kalorien
+- Training
+- Wie fühle ich mich
+- Hunger?
+und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benötige.
+
+### 1. Schritt
+
+- Ernährungsplan erstellen (inkl. Rezepte)
+- Produkte aus Supermarkt liefern
+- Muss selbst zubereitet werden
+
+### 2. Schritt
+
+- Daten teilen
+- Mengen/Mahlzeiten dynamisch anpassen
+
+### 3. Schritt
+
+- Genaue Mengen gesondert abgepackt liefern
+- muss selbst zubereitet werden
+
+### 4. Schritt 
+
+- Lieferservice (fertig zubereitete Mahlzeiten liefern)
 
 ## Erfahrungen
 
@@ -25,6 +66,7 @@
 - [Hunger not impossible](https://www.notimpossible.com/projects/hunger-not-impossible)
 - [Energy balance and its components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/pdf/ajcn9540989.pdf)
 - [Is there a healthy diet where I can eat the same thing every day?](https://qr.ae/pNafav)
+- [The Macro Calculator](https://rippedbody.com/macro-calculator/)
 
 ## Zitate
 

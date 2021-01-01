@@ -10,6 +10,7 @@
 ## Speicher
 
 - [Cryogenic energy storage](https://en.wikipedia.org/wiki/Cryogenic_energy_storage) - low temperature (cryogenic) liquids such as liquid air or liquid nitrogen as energy storage
+- [The Missing Link in Renewables](https://www.youtube.com/watch?v=-PL32ea0MqM)
 
 ## Wasserstoff
 
@@ -25,6 +26,7 @@
 - [Ein Solardach für die Autobahn](https://www.spiegel.de/auto/forschungsprojekt-in-oesterreich-ein-solardach-fuer-die-autobahn-a-30799262-0531-4eca-987d-876ce7c22ec6?utm_source=pocket-newtab-global-de-DE)
 - [Lition](https://lition.de/) - Markplatz für erneuerbare Energien
 - [The Best Electricity Plan: Overbuild Solar & Wind Power Plants](https://cleantechnica.com/2020/09/07/the-best-electricity-plan-overbuild-solar-wind-power-plants/)
+- [The future of electricity is local](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
 
 ## Biogas
 

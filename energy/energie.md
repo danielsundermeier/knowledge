@@ -7,6 +7,19 @@
 - [energypedia](https://energypedia.info/wiki/Main_Page)
 - [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
 
+## Notizen
+
+- Ich glaube man muss die Energie lokal produzieren, speichern und verteilen
+- Energie wird zwischen Nachbarn getauscht
+- Man überbaut Solaranlagen, Windkraftanlagen und Batterien
+- Durch die stetig sinkenden Preise von regenerativen Energien wird sie das in naher Zukunft (fast) überall rechnen
+- Das Stromnetz kann man anschließend weiter ausbauen
+- ICh glaube wir brauchen ein neues EEG, um private Investitionen in Erneuerbare Energien zu fördern
+- Jedes Haus sollte:
+    + eigenen Energiebedarf decken
+    + Energie speichern
+    + So wenig Energie verbrauchen wie möglich
+
 ## Speicher
 
 - [Cryogenic energy storage](https://en.wikipedia.org/wiki/Cryogenic_energy_storage) - low temperature (cryogenic) liquids such as liquid air or liquid nitrogen as energy storage

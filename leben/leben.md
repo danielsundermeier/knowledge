@@ -88,6 +88,14 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - Besonders wenn man müde hungrig oder wütend ist
 - Automatisierte Systeme ausdenken
 
+## Bestimmung
+
+- Man erarbeitet sich seine "Bestimmung" anstatt sie zu finden
+- Dinge, die man oft macht, werden zur Bestimmung
+- Man wird gut in Dingen, die man oft macht
+- Man macht Dinge oft, wenn man Spaß daran hat
+- Dinge machen Spaß, wenn sie einem leicht fallen
+
 ## Supernormal stimulus
 
 - [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)

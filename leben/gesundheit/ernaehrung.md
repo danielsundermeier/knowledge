@@ -50,6 +50,23 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 
 - Lieferservice (fertig zubereitete Mahlzeiten liefern)
 
+## Abnehmen
+
+- Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt ,dann erst erhöhen
+- Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
+- täglich morgens wiegen
+
+- [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
+- [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)
+
+## Zunehmen
+
+- Kalorienüberschuss von ca. 250 kcal, bis man nicht mehr zunimmt ,dann erst erhöhen
+- Progressive overload -> immer steigern, damit der Muskel einen anreiz zum Wachsen hat
+- täglich morgens wiegen
+
+[How To Get Big Explained In 8.5 Minutes](https://www.youtube.com/watch?v=wqDRJFZk2GM)
+
 ## Erfahrungen
 
 - Geschmack verändert sich, wenn man auf gesunde Ernährung mit unverarbeiteten Lebensmitteln umstellt
@@ -67,6 +84,7 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 - [Energy balance and its components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3302369/pdf/ajcn9540989.pdf)
 - [Is there a healthy diet where I can eat the same thing every day?](https://qr.ae/pNafav)
 - [The Macro Calculator](https://rippedbody.com/macro-calculator/)
+- [Eat this much](https://www.eatthismuch.com/)
 
 ## Zitate
 

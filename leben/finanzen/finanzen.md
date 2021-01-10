@@ -67,6 +67,7 @@
 - [How to Get Rich (without getting lucky)](https://www.sloww.co/how-to-get-rich-naval-ravikant/)
 - [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/)
 - [What is a financial rule you will never break?](https://qr.ae/pNb4MV)
+- [If you had to start from the bottom with zero capital, what strategy would you use to get wealthy?](https://qr.ae/pNxaIB)
 
 ## Videos
 

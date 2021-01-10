@@ -145,4 +145,4 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [100 Tips For A Better Life](https://ideopunk.com/2020/12/22/100-tips-for-a-better-life/)
 - [10 RULES For Life](https://www.youtube.com/watch?v=_2HIkR4aWxU)
 - [The ultimate list of hobbies](https://www.discoverahobby.com/)
-
+- [What is the real truth of life?](https://qr.ae/pNVZYm)

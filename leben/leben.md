@@ -146,3 +146,5 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [10 RULES For Life](https://www.youtube.com/watch?v=_2HIkR4aWxU)
 - [The ultimate list of hobbies](https://www.discoverahobby.com/)
 - [What is the real truth of life?](https://qr.ae/pNVZYm)
+- [10 significant lies you're told about the world](https://twitter.com/Julian/status/1348001394104537089)
+- [Why it’s impt to understand that you are more than your degree](https://thewokesalaryman.com/2021/01/12/why-its-impt-to-understand-that-you-are-more-than-your-degree/)

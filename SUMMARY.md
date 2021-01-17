@@ -92,6 +92,7 @@
     - [Kleidung](/leben/kleidung.md)
     - [Kommunikation](/leben/kommunikation.md)
     - [Leben](/leben/leben.md)
+    - [Lebensweg](/leben/lebensweg.md)
     - [Lernen](/leben/lernen.md)
     - [Lesen](/leben/lesen.md)
     - [Mental-models](/leben/mental-models.md)

@@ -6,6 +6,8 @@
 
 - Zuerst einen schlechten ersten Entwurf schreiben, dann nach und nach überarbeiten. Es ist leichter etwas zu bearbeiten als vor einer leeren Seite zu sitzen.
 
+- Wenn ich unmotiviert bin, setze ich mich in meinen Sessel und tue nichts (kein Handy, keine Musik, kein TV, ...). Die ersten Minuten sind wirklich schwer. Irgendwann fallen mir Dinge ein / auf, die ich erledigen könnte, damit ich mich nicht mehr so schrecklich langweile. Selbst unangenehme Aufgaben wirken, dann attraktiver und ich habe den Drang sie zu erledigen.
+
 # Ziele
 
 - Ziel festlegen (z.B. Wohnung entrümpeln)

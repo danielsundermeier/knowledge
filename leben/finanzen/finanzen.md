@@ -1,5 +1,11 @@
 # Finanzen
 
+## Geld
+
+- Geld ist ein Werkzeug um seine Ziele zu erreichen und sollte nicht selbst das Ziel des Lebens sein.
+- Das Wichtigste, das man sich mit Geld kaufen kann sind keine Dinge sondern Zeit und Freiheit.
+- Niemals Konsumschulden haben. Alles sollte direkt bezahlt werden.
+
 ## Struktur
 
 ![Übersicht](./finanzen-flow.png)
@@ -27,6 +33,7 @@
 
 - Immer mindestens einen Teil der Gewinne reinvestieren
 - Nur das notwendigste entnehmen / nie mehr als die Gewinne (Dividenden)
+- Kapital nicht abbauen
 
 ## Investments
 
@@ -56,7 +63,7 @@
 ### Rechnungen 
 
 - per Mail -> Weniger Müll
-- per Lastschrift bezahlen
+- per Lastschrift bezahlen -> Aufwand reduzieren
 
 ## Links
 

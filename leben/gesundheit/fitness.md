@@ -22,3 +22,5 @@ Ich denke nach ein paar Jahren Training kann man um Maintainance Kalorien essen 
 - [How to Sixpack](https://fitness-experts.de/muskelaufbau/sixpack)
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)
 - [Darebee](https://darebee.com/)
+- [MuscleWiki](https://musclewiki.com/)
+- [It Took Me 21 Years To Find My Perfect Workout Routine](https://www.youtube.com/watch?v=nz1Q3BRu20g)

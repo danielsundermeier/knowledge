@@ -102,6 +102,10 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
 - [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)
 
+## Gewohnheiten
+
+- [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

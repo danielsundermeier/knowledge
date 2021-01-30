@@ -42,6 +42,7 @@
 - [How to remember what you learn](https://vasilishynkarenka.com/learning/)
 - [Your first 100](https://www.mrdbourke.com/your-first-100/)
 - [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/learning_theory_class/)
+- [You Don't Really Need Another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
 
 ## Spaced Repetition
 

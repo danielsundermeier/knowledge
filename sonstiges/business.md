@@ -54,6 +54,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328)
 - [What piece of financial advice is hard to explain to others?](https://qr.ae/pN9peS)
 - [PopUp Business School](https://www.popupbusinessschool.co.uk/)
+- [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 
 ### Blogs
 

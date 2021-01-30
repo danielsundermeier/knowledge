@@ -1,5 +1,11 @@
 # Finanzen
 
+## Zusammenfassung
+
+1. Ausgaben senken
+2. Einnahmen steigern
+3. Differenz in ETFs investieren
+
 ## Geld
 
 - Geld ist ein Werkzeug um seine Ziele zu erreichen und sollte nicht selbst das Ziel des Lebens sein.
@@ -75,6 +81,7 @@
 - [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/)
 - [What is a financial rule you will never break?](https://qr.ae/pNb4MV)
 - [If you had to start from the bottom with zero capital, what strategy would you use to get wealthy?](https://qr.ae/pNxaIB)
+- [The Margin Loan: How to Make a $400,000 Impulse Purchase](https://www.mrmoneymustache.com/2021/01/29/margin-loan-ibkr-review/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
 
 ## Videos
 

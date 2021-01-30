@@ -4,6 +4,7 @@
 - [SQL Operators Tutorial](https://www.freecodecamp.org/news/sql-operators-tutorial/)
 - [SQL Templates](https://popsql.com/sql-templates)
 - [Reduce the size of MySQL dump file](https://mauricius.dev/reduce-the-size-of-a-large-mysql-dump-file/)
+- [Use the Index, Luke](https://use-the-index-luke.com/)
 
 ## SQL Syntax and PDO Operations
 

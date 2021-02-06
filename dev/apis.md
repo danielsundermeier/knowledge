@@ -9,6 +9,8 @@
 - [REST API Tutorial](https://www.restapitutorial.com/)
 - [Lessons learned designing APIs](https://menduz.com/posts/2019.05.07)
 - [APIs you wont hate](https://apisyouwonthate.com/)
+- [Airbyte](https://airbyte.io/) - Simple & extensible open-source EL(T)
+- [YTT TECH](https://www.ytt-tech.com/) - a collection of instructional YouTube videos
 
 ### Tests
 

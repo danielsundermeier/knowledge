@@ -1,11 +1,25 @@
 # Finanzielle Unabhängigkeit
 
-- Pro 100€ / Monat -> 40.000 € investieren
-- Jährliche Ausgaben * 33 = Summe investiert
+Ziel: Aus den Dividenden des ETFs meine Ausgaben decken.
+
+1. (Viel) Weniger ausgeben als ich einnehme 
+2. Differenz in ETFs investieren
+
+[Mein Plan](./finanzen.md)
+
+```
+Benötigte Depotgröße = Jährliche Ausgaben * 33
+```
+Entspricht einer Dividende von ca. 3%
+
+```
+Pro 100 € pro Monat benötige ich 40.000 € im Depot
+```
 
 ## Artikel
 
 - [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)
+- [How I failed my daughter and a simple path to wealth](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 - [A Modern Approach to Financial Independence](https://fourpillarfreedom.com/a-modern-approach-to-financial-independence/)
 - [How Much is Enough Money?](https://cityfrugal.com/enough-money/)

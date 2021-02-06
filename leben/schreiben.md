@@ -38,6 +38,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Write Useful Books](https://writeusefulbooks.com/)
 - [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
 - [Writing for Reasons](https://blog.sulami.xyz/posts/writing-for-reasons/)
+- [Amazon Writing Tips](https://twitter.com/Mehdiyac/status/1320832578241384448?s=20)
 
 ## Static Site Generator
 

@@ -85,6 +85,7 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 - [Is there a healthy diet where I can eat the same thing every day?](https://qr.ae/pNafav)
 - [The Macro Calculator](https://rippedbody.com/macro-calculator/)
 - [Eat this much](https://www.eatthismuch.com/)
+- [The Smartest Way To Get Lean In 2021](https://www.youtube.com/watch?v=d8V9ZaSq9Oc&feature=share)
 
 ## Zitate
 

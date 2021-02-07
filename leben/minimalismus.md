@@ -1,9 +1,9 @@
 # Minimalismus
 
 Ich habe erkannt, dass ich nur sehr wenige Dinge wirklich brauche.  
-Erfahrungen dind besser als Dinge.  
+Erfahrungen sind besser als Dinge.  
 Es belastet mich zu viele Dinge zu besitzen.  
-Ich mag Platz. Räume mir zu vielen Dingen fühlen sich beengt an.  
+Ich mag Platz. Räume mit zu vielen Dingen fühlen sich beengt an.  
 Es fühlt sich gut an zu entrümpeln.
 
 ## Links

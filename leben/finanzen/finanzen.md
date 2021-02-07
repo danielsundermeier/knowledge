@@ -11,6 +11,7 @@
 - Geld ist ein Werkzeug um seine Ziele zu erreichen und sollte nicht selbst das Ziel des Lebens sein.
 - Das Wichtigste, das man sich mit Geld kaufen kann sind keine Dinge sondern Zeit und Freiheit.
 - Niemals Konsumschulden haben. Alles sollte direkt bezahlt werden.
+- Vermögen/Wohlstand wird mit Geld (Kapital) verdient, nicht mit Arbeit
 
 ## Struktur
 
@@ -66,7 +67,7 @@ Zum Starten sollte nie mehr als das Budget auf dem Taschengeldkonto sein, um sic
 Mit einem Taschengeldkonto habe ich jeden Monat neues Geld und kann es komplett ausgeben.
 
 Wenn ich am Anfang des Monats von meinem Konto direkt wieder Geld abbuche, ist das wie ein Verlust.
-Würde ich mein Bruttogehalt augezahlt bekommen und die Steuern erst danach abgebucht werden, wäre es deutlich schlimmer Steuer zu zahlen.
+Würde ich mein Bruttogehalt augezahlt bekommen und die Steuern erst danach abgebucht werden, wäre es deutlich schlimmer Steuern zu zahlen.
 Den Gleichen Effekt versuche ich mit dem Taschengeldkonto zu erzielen.
 
 #### Notgroschen

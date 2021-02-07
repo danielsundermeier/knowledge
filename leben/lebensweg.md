@@ -10,7 +10,7 @@
 - Normalen Job suchen (ca. 40.000 €; 40h, deshalb studieren)
 - Weiter leben wie ein Student 
     + WG
-        * (WG fähiges Haus kaufen und sanieren, währenddessen darin Leben und Zimmer vermieten)
+        * (WG fähiges Haus kaufen und sanieren, währenddessen darin Leben und Zimmer vermieten, danach das nächste Haus kaufen)
     + sparsam
 - Herausfinden, was man wirklich zum Leben benötigt
 - Den Rest investieren (ETF)

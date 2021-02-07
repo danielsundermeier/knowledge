@@ -2,6 +2,8 @@
 
 Ziel: Aus den Dividenden des ETFs meine Ausgaben decken.
 
+Ich versuche mein aktives Einkommen (Lohn) durch Investments in passives Einkommen (Dividenden) zu verwandeln
+
 1. (Viel) Weniger ausgeben als ich einnehme 
 2. Differenz in ETFs investieren
 

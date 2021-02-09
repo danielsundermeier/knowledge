@@ -15,8 +15,6 @@
 
 ## Struktur
 
-![Übersicht](./finanzen-flow.png)
-
 ### Ablauf
 
 - Alle Einnahmen auf Einnahmenkonto
@@ -50,6 +48,7 @@
 Ich verteile das Geld mit Daueraufträgen. Ich stelle es einmal ein und muss mich nicht mehr darum kümmern.
 
 Beim Taschengeldkonto nicht am 1. des Monats überweisen, sondern am 28. (letzter Tag aller Monate) des Vormonats. Wenn der 1. ein Samstag ist, kann es sein, dass die Überweisung erst am Montag kommt.
+Versicherungen, Miete, etc. werden eventuell schon abgebucht, das neue Geld ist aber noch nicht angekommen -> kein Geld fürs Wochenende.
 
 Um das zu verhindern habe ich angefangen immer das doppelte Taschengeld auf dem Konto zuhaben. Das widerspricht aber dem eigentlichen Ziel. Ich bin noch auf der Suche nach einer besseren Lösung. 
 
@@ -57,17 +56,24 @@ Zum Starten sollte nie mehr als das Budget auf dem Taschengeldkonto sein, um sic
 
 #### Taschengeldkonto
 
-- Automatisches Budget
 - Ich gewöhne mich an das Budget, brauche nicht mehr und komme nicht in Versuchung mehr auszugeben
 - Im Laufe der Zeit gibt man das aus, was man zur Verfügung hat [Lifestyle Creep](https://www.investopedia.com/terms/l/lifestyle-creep.asp)
 - Leichter Ausgaben zu erfassen, weil alles von einem Konto bezahlt wird
 
+##### Budget
+
+Ich bin zu meinem Budget gekommen, indem ich meine Ausgaben über mehrere Monate aufgeschrieben habe. Dazu habe ich noch einen Puffer eingeplant.
+
 ##### Verluste sind schlimmer als gleichhohe Gewinne gut sind
+
+Es ist schlimmer 100 € zu verlieren als 100 € zu bekommen gut ist.
 
 Mit einem Taschengeldkonto habe ich jeden Monat neues Geld und kann es komplett ausgeben.
 
 Wenn ich am Anfang des Monats von meinem Konto direkt wieder Geld abbuche, ist das wie ein Verlust.
+
 Würde ich mein Bruttogehalt augezahlt bekommen und die Steuern erst danach abgebucht werden, wäre es deutlich schlimmer Steuern zu zahlen.
+
 Den Gleichen Effekt versuche ich mit dem Taschengeldkonto zu erzielen.
 
 #### Notgroschen
@@ -76,7 +82,7 @@ Ich habe für Notfälle immer etwas Geld auf einem Tagesgeldkonto.
 
 ##### Betrag
 
-Ich habe oft von 3 - 12 Monatsausgaben gelesen und finde den Ansatz gut und sehr sinnvoll.
+Viele empfehlen die Kosten 3 - 12 Monate (Taschengeld) zurückzulegen. Ich finde das gut und sehr sinnvoll.
 
 Ich habe zu Beginn einen anderen Weg gewählt:  
 
@@ -157,6 +163,10 @@ Die Dividenden motivieren mich. Besonders in der Anfangszeit ist es ein gutes Ge
 
 Ich finde es gut pro Sparziel ein extra (Tagesgeld-) Konto zu haben. So kann ich direkt sehen, wie viel ich für ein bestimmtes Ziel angespart habe.
 Ich kann so gezielt jeden Monat eine bestimmte Summe pro Sparziel überweisen.
+
+#### Übersicht
+
+![Übersicht](./finanzen-flow.png)
 
 ### Investment
 

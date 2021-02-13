@@ -20,3 +20,4 @@
 - [How to Talk to Hot Girls (or anyone) Better](https://www.mrdbourke.com/how-to-talk-to-hot-girls-or-anyone-better/)
 - [People Are Like The Weather](https://www.theemotionmachine.com/people-are-like-the-weather-hard-to-predict-and-outside-of-your-control/)
 - [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
+- [Pygmalion-Effekt](https://www.businessinsider.de/wissenschaft/pygmalion-effekt-dieser-psychologische-trick-foerdert-hoechstleistungen-a/?utm_source=pocket-newtab-global-de-DE) - Ein Mensch verhält sich so, wie wir es von ihm erwarten

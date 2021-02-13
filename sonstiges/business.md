@@ -55,6 +55,8 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [What piece of financial advice is hard to explain to others?](https://qr.ae/pN9peS)
 - [PopUp Business School](https://www.popupbusinessschool.co.uk/)
 - [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
+- [The 70% Rule](https://taylorpearson.me/fast/)
+- [Jesus Marketing](https://taylorpearson.me/jesusmarketing/)
 
 ### Blogs
 

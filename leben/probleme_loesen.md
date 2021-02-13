@@ -23,9 +23,13 @@ Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 
 ### Finanzen
 
+Ziel: X Euro im Depot
+System: Jeden Monat per Sparplan Anteile kaufen
+
 ### Abnehmen
 
- 
+Ziel: X kg abnehmen
+System: Jeden Tag an Ernährungs- und Trainingsplan halten
 
 ## Tools
 

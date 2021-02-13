@@ -54,7 +54,7 @@
 
 ## Notizen
 
-Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 20/80 Verteilung, Pareto Verteilung oder Power Law
+Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
 Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
 - [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)
 
@@ -85,16 +85,16 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 ## Willenskraft
 
 - Funktioniert langfristig nicht
-- Besonders wenn man müde hungrig oder wütend ist
-- Automatisierte Systeme ausdenken
+- Besonders wenn ich müde, hungrig oder wütend bin
+- Automatisierte Systeme ausdenken (Gewohnheiten)
 
 ## Bestimmung
 
-- Man erarbeitet sich seine "Bestimmung" anstatt sie zu finden
-- Dinge, die man oft macht, werden zur Bestimmung
-- Man wird gut in Dingen, die man oft macht
-- Man macht Dinge oft, wenn man Spaß daran hat
-- Dinge machen Spaß, wenn sie einem leicht fallen
+- Ich erarbeitet mir meine "Bestimmung" anstatt sie zu finden
+- Dinge, die ich oft mache, werden zur Bestimmung
+- Ich werde in Dingen wird gut, die ich oft mache
+- Ich mache Dinge oft, wenn ich Spaß daran habe
+- Dinge machen Spaß, wenn sie mir leichter fallen
 
 ## Supernormal stimulus
 
@@ -152,3 +152,4 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [What is the real truth of life?](https://qr.ae/pNVZYm)
 - [10 significant lies you're told about the world](https://twitter.com/Julian/status/1348001394104537089)
 - [Why it’s impt to understand that you are more than your degree](https://thewokesalaryman.com/2021/01/12/why-its-impt-to-understand-that-you-are-more-than-your-degree/)
+- [50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841)

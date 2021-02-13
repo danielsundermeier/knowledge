@@ -10,6 +10,7 @@
 - [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [Where to post your project](https://www.notion.so/Where-to-post-your-project-bc6ce54240884770b2467c3b0f7c1624)
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [SOLID Principles In PHP](https://www.hashbangcode.com/article/solid-principles-php)
 
 ## Setup
 

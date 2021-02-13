@@ -1,6 +1,7 @@
 # Kommunikation
 
 - Menschen wirklich zuhören und nicht darüber nachdenken, was ich als Nächstes sagen möchte
+- Selbstbewusstein/Auftreten ist sehr wichtig
 
 ## E-Mail
 

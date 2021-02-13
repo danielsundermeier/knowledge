@@ -1,5 +1,9 @@
 # Git
 
+## Links
+
+- [Getting The Most Out Of Git](https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/) 
+
 ## Renaming (casesensitive)
 
 ```

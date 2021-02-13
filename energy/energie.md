@@ -6,6 +6,7 @@
 - [Let’s Create the Future We Want](https://thesolutionsproject.org/)
 - [energypedia](https://energypedia.info/wiki/Main_Page)
 - [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
+- [Global100REStrategyGroup](https://global100restrategygroup.org/) - Joint declaration of the global 100% renewable energy strategy group
 
 ## Notizen
 

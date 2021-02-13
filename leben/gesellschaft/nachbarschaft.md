@@ -1,6 +1,6 @@
 # Nachbarschaft
 
-Ziel ist es eine lebenswerte Nachbarschaft in einem bestehenden Dorf zu kreieren, um die Zufriedenheit der Bewohner durch Das Design der Umgebung erhöhen. Die Nachbarschaften sollen einen grünen Gürtel im Dorf bilden. So profitieren alle.
+Ziel ist es eine lebenswerte Nachbarschaft in einem bestehenden Dorf zu kreieren, um die Zufriedenheit der Bewohner durch das Design der Umgebung zu erhöhen. Die Nachbarschaften sollen einen grünen Gürtel im Dorf bilden. So profitieren alle.
 
 Stark inspiriert von [Oceanix](https://oceanix.org/)
 
@@ -132,7 +132,7 @@ In jedem Gebäude gibt es Gemeischaftsräume. Sie können zum gemeinsamen Essen,
 
 Die Nachbarschaften sollen autark und aus Plusenergie Häusern bestehen.
 
-- Selbstversorgung mit Strom und Wärme (z.B. Solaranalge, Wärmepumpe, ...)
+- Selbstversorgung mit Strom und Wärme (z.B. Solaranlage, Wärmepumpe, ...)
 - Verarbeitung von Brauchwasser (z.B. Biogas, Kompost)
 - Regenwasseraufbereitung (z.B. für Teiche, Bewässerung)
 - Organische Abfälle in Landwirtschaft verarbeiten (z.B. Kompost)
@@ -163,7 +163,7 @@ Es sollen Wohnungen mit verschiedenen Größen und unterschiedlicher Anzahl an Z
 - Senioren
 - unterschiedliche Einkommen
 
-Das führt zu eine diversen Gemeinschaft mit verschiedensten Meinungen und Ideen. (Stichwort [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29))
+Das führt zu einer diversen Gemeinschaft mit verschiedensten Meinungen und Ideen. (Stichwort [Echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29))
 
 #### Unterhaltung
 
@@ -177,7 +177,7 @@ Die Gemeinschaftsräume und öffentliche Plätze werden von der Nachbarschaft fi
 
 Beispiele:
 - Küche
-- Spielzeuge
+- Spiel- & Lernzimmer (Kinder)
 - Musikinstrumente
 - Bibliothek
 - Makerspace

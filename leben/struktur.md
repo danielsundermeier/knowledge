@@ -17,3 +17,4 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)
 - [Three priorities to rule them all](https://cityfrugal.com/three-priorities-to-rule-them-all/)
 - [Routine, Discipline, and the 1996 NBA Draft](https://cityfrugal.com/routine/)
+- [The Entrepreneur’s Daily Ritual](https://taylorpearson.me/dailyritual/)

@@ -1,8 +1,20 @@
 # Wohnen
 
+Ich möchte in einer "Walkable City" leben. Das bedeutet, dass ich alle täglichen Ziele zu Fuß odermit dem Rad erreichen kann. Ich möchte außerdem in einem Mehrfamileinhaus wohnen. Ich brach
+Im Erdgeschoss sind Gerwerbeflächen und öffentliche Plätze. Darüber sind die Wohnungen. Die Wohnungen haben eine unterchiedliche Anzahl an Zimmern, sodass Menschen in unterschiedlichen Situationen/Verhältnissen (arm/reich, Single/Famile, ...) zusammen wohnen. Ich möchte in einer Gemeinschaft wohnen.
+Um die Gebäude soll viel Natur sein.
+Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
+-> energieeffizenter
+-> mehr Gemeinschaft
+-> mehr Natur
+-> kürzere Wege
+=> glücklichere Menschen
+
+## Notizen
+
 - Blumen & Pflanzen werten jeden Raum auf!
 - Mid-Century Häuser
-- Ich ich möchte nur Frühling und Sommer erleben. Im Herbst in Deutschland möchte ich in ein Land ziehen in dem Frühling ist. Im Frühling in Deutschland komme ich zurück.
+- Ich möchte nur Frühling und Sommer erleben. Im Herbst in Deutschland möchte ich in ein Land ziehen in dem Frühling ist. Im Frühling in Deutschland komme ich zurück.
 - Lieber zwei kleine als eine große Matratze
 - Erkunden der nahen Umgebung. Man erkennt vielleicht wie schön es zuhause ist
 

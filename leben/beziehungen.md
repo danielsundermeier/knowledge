@@ -9,6 +9,13 @@
 - Frauen lieben Blumen!
 - Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
 - Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
+- Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist
+
+> The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
+
+> There are no mistakes when learning. See setbacks as opportunities of personal growth and expansion. - Monk who sold his ferrari
+
+> We all want to get people interested in us. But it rarely happens. Dale Carnegie in this book says that the best way to get people interested in you is by getting completely interested in them , such importance will make them feel special and they will get more interested in you. - how to win friends and influence people
 
 ## Links 
 
@@ -21,3 +28,4 @@
 - [People Are Like The Weather](https://www.theemotionmachine.com/people-are-like-the-weather-hard-to-predict-and-outside-of-your-control/)
 - [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
 - [Pygmalion-Effekt](https://www.businessinsider.de/wissenschaft/pygmalion-effekt-dieser-psychologische-trick-foerdert-hoechstleistungen-a/?utm_source=pocket-newtab-global-de-DE) - Ein Mensch verhält sich so, wie wir es von ihm erwarten
+- [People will follow your lead](https://qr.ae/pNBKTw)

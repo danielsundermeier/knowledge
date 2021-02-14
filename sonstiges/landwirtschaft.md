@@ -2,6 +2,10 @@
 
 ![Produktionsdiagramm](./produktionsdiagramm.png)
 
+## Garten
+
+- [Chicken Tractor on steroids](https://www.discoverpermaculture.com/FertileCompost)
+
 ## Kompostieren
 
 ### Insekten

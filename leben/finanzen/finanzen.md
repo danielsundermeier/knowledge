@@ -19,7 +19,7 @@
 Ab einem gewissen Wert braucht man nur noch mehr Geld, um andere Menschen zu beeindrucken. Ein größeres Haus, mehr Autos, ausgefallenere Parties...
 Das führt aber nicht unbedingt zu einem guten Leben.
 Ich glaube ab einer gewissen Summe kann man das Geld nicht mehr sinnvoll für sich selbst ausgeben. Was mache ich mit 10 Häusern?
-Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert für die Zufridenheit bringt.
+Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert für die Zufriedenheit bringt.
 
 Ich weiß nicht genau wieso, aber ich halte 10.000.000 Euro für eine Grenze.
 Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, ohne je über Geld nachdenken zu müssen.
@@ -31,7 +31,7 @@ Was mache ich dann, mit dem "zu viel"?
 Ich halte Spenden nicht für den richtigen Weg, weil so eine Abhängigkeit entsteht.
 
 Stattdessen kann ich das Geld dazu nutzen meine Umgebung zu verbessern und den Menschen um mich herum helfen sich selbst zu helfen.
-Indem ich Firmen gründe und/oder anderen dabei unterstütze auf eigenen Beinen zu stehen.
+Indem ich selbst Firmen gründe und Mitarbeiter anstelle und/oder andere dabei unterstütze auf eigenen Beinen zu stehen.
 
 Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, weil sind sie dadurch unabhängig und nachhaltig sind. 
 
@@ -68,7 +68,7 @@ Ich hätte mein Geld (Kredit) in sehr wenigen Immobilien gebunden.
 
 ### Crypto Währungen
 
-Wie ein Kasino oder Wetten.
+Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 
 ### ETF
 
@@ -86,7 +86,7 @@ Wie ein Kasino oder Wetten.
 
 ## Ausgaben
 
-- "Minimalismus": Was brauche ich wirklich?
+- [Minimalismus](../minimalismus.md): Was brauche ich wirklich?
 
 ## Sonstiges
 

@@ -114,7 +114,7 @@ Deshalb werden die Reichen immer reicher und die Armen immer Ärmer.
 
 ### Projekte starten
 
-Ich versuche viele verschiedene Projekte nebenbei zu starten und vieles auszuprobieren. Dadurch lerne ich sehr viel und erhöhe meine Chancen mit einem Projekt erfolgreich zu werden.
+Ich versuche viele verschiedene Projekte neben meinem Beruf zu starten und vieles auszuprobieren. Dadurch lerne ich sehr viel und erhöhe meine Chancen mit einem Projekt erfolgreich zu werden.
 Ich versuche immer alles so weit wie möglich zu automatisieren, damit ich mich mit neuen Dingen beschäftigen kann.
 So kann ich sehr viele verschiedene Dinge machen und ausprobieren.
 

@@ -15,6 +15,12 @@ Ich versuche mein aktives Einkommen (Lohn) durch Investments in passives Einkomm
 
 [Meine Struktur](./struktur.md)
 
+Wenn ich immer mein ganzes Geld ausgebe und von der Hand in den Mund lebe, komme ich nicht voran und alles muss immer so bleiben, wie es ist.
+
+> "Hierzulande musst du so schnell rennen, wie du kannst, wenn du am gleichen Fleck bleiben willst." - Alice im Wunderland
+
+Das versuche ich zu verhinden.
+
 ## Depotgröße
 
 ```

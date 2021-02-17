@@ -14,6 +14,27 @@
 - Niemals Konsumschulden haben. Alles sollte direkt bezahlt werden.
 - Vermögen/Wohlstand wird mit Geld (Kapital) verdient, nicht mit Arbeit
 
+### Genug
+
+Ab einem gewissen Wert braucht man nur noch mehr Geld, um andere Menschen zu beeindrucken. Ein größeres Haus, mehr Autos, ausgefallenere Parties...
+Das führt aber nicht unbedingt zu einem guten Leben.
+Ich glaube ab einer gewissen Summe kann man das Geld nicht mehr sinnvoll für sich selbst ausgeben. Was mache ich mit 10 Häusern?
+Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert für die Zufridenheit bringt.
+
+Ich weiß nicht genau wieso, aber ich halte 10.000.000 Euro für eine Grenze.
+Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, ohne je über Geld nachdenken zu müssen.
+
+### Wohltätigkeit
+
+Was mache ich dann, mit dem "zu viel"?
+
+Ich halte Spenden nicht für den richtigen Weg, weil so eine Abhängigkeit entsteht.
+
+Stattdessen kann ich das Geld dazu nutzen meine Umgebung zu verbessern und den Menschen um mich herum helfen sich selbst zu helfen.
+Indem ich Firmen gründe und/oder anderen dabei unterstütze auf eigenen Beinen zu stehen.
+
+Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, weil sind sie dadurch unabhängig und nachhaltig sind. 
+
 ### Investment
 
 - Immer mindestens einen Teil der Gewinne reinvestieren
@@ -22,14 +43,36 @@
 
 ## Investments
 
-- P2P: zu Riskant, zu wenig Rendite für Risiko
-- Immobilien: zu viel Aufwand 
-- Crypto: wie Kasino 
-- [ETF](./etf.md): beste Option für mich
+Ich halte es für das Beste mein aktives Einkommen (Gehalt / Lohn) in passives Einkommen (Dividende, Mieten, Renten)
+[Finanzielle Unabhängigkeit](finanzielle-unabhaengigkeit.md)
+
+### P2P
+
+Ich habe mich am Anfang auch verführen lassen in P2P Kredite zu investieren. Es hört sich zu schön an, um nicht zu investieren.
+Man bekommt jeden Monat Geld und muss dank "Auto-Invest" nichts dafür tun. Es hat auch alles gut funktioniert. Hauptsächlich weil es der Wirtschaft gut ging und die Platformen alle gewachsen sind.
+
+Ich bin irgendwann ausgestiegen, weil mir das Risiko zu groß war. Außerdem wurden die Zinsen gesenkt.
+
+Als ich den Entschluss gefasst habe, sind die ersten Zahlungen ausgefallen, obwohl es eine "Garantie" gab.
+
+Ich bin froh nicht mehr investiert zu sein.
 
 ### Immobilien
 
+Wahrscheinlich das beste Mittel um ein Vermögen aufzubauen. Mir ist es aber zu aufwändig und risikoreich.
+Ich hätte mein Geld (Kredit) in sehr wenigen Immobilien gebunden.
+
+[Why Home Ownership is the Worst Investment](https://www.youtube.com/watch?v=IibCp34AaJo)
+
 > "I thought about what my life would be like as a landlord. Spending time fixing other peoples home problems, and constantly worrying about things that could go wrong was not worth the benefit for me. I did the calculations and the tradeoff of cash for that additional worry wasn’t worth it for me." - [Why I Don’t Want to be a Landlord](https://minafi.com/i-dont-want-to-be-a-landlord)
+
+### Crypto Währungen
+
+Wie ein Kasino oder Wetten.
+
+### ETF
+
+[ETFs](./etf.md) sind für mich die beste Option
 
 ## Regeln
 

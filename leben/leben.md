@@ -153,3 +153,4 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [10 significant lies you're told about the world](https://twitter.com/Julian/status/1348001394104537089)
 - [Why it’s impt to understand that you are more than your degree](https://thewokesalaryman.com/2021/01/12/why-its-impt-to-understand-that-you-are-more-than-your-degree/)
 - [50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841)
+- [The Primal Blueprint](https://www.marksdailyapple.com/definitive-guide-primal-blueprint/)

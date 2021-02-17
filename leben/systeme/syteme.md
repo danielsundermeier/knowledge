@@ -1,5 +1,8 @@
 # Systeme
 
+Ich nutze Systeme, um meine Ziele zu erreichen.
+Ich setzte mir immer nur wenige Ziele (max 3) an denen ich aktiv arbeiten möchte.
+
 Aktion, die ich jeden Tag ausführe, um ein Ziel zu erreichen (Gewohnheit)
 
 - Ziel

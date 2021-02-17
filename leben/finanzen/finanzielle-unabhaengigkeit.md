@@ -76,6 +76,52 @@ Jahre bis sich Kapital verdoppelt = 72 / Rendite
 
 [Rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp)
 
+## Weg zur finanziellen Unabhängigkeit
+
+Am Anfang war ich sehr strikt und habe immer mehr gearbeitet und immer weniger Geld ausgegeben. Ich wollte unbedingt so schnell wie möglich in Rente gehen.
+Ich wusste aber gar nicht, was ich dann mit mir anfangen sollte. Dann ist mir klar geworden, dass die Freizeit keinen Wert hat, wenn ich sie nicht nutzen kann.
+
+Ich möchte mein Leben nicht 10-15 Jahre aufschieben und erst leben, wenn ich finanziell unabhängig bin. Das würde ich nur bereuen.
+
+Ich habe dann angefangen mein Leben so zu gestalten, dass ich jeden Tag etwas tue das mir Freude bereitet.
+Ich habe vieles ausprobiert, mehr Dinge gemacht, die mir Spaß machen und immer mehr Dinge, die mir nicht gefallen aus meinem Leben entfernt.
+
+Ich habe den Plan der finanziellen Unabhängigkeit weiter verfolgt. Ich halte es immer noch für ein gutes und wichtiges Ziel. Ich verschaffe mir dadurch Sicherheit und Optionen. Es ist aber nicht das einzige Ziel im Leben.
+
+Jetzt versuche ich mir ein Leben aufzubauen, von dem ich keinen Urlaub/Rente brauche.
+
+## Möglichkeiten
+
+Je größer mein Depot ist, desto mehr Möglichkeiten habe ich.
+
+- Ich kann nebenbei Projekte starten
+- Verhandlungsspielraum
+- Sicherheit
+
+Dadurch, dass ich mir nicht überlegen muss, wie ich die Miete bezahle oder mir Sorgen machen muss, dass unerwartete Kosten auf mich zukommen, kann ich mich mit anderen Dingen beschäftigen.
+
+Ich kann meine Zeit damit verbringen andere Projekte zu starten und potentiell Geld damit zu verdienen.
+
+So komme ich noch schneller voran und habe noch mehr Möglichkeiten. Es ist ein sich selbst verstärkender Prozess.
+
+Deshalb werden die Reichen immer reicher und die Armen immer Ärmer.
+
+### Projekte starten
+
+Ich versuche viele verschiedene Projekte nebenbei zu starten und vieles auszuprobieren. Dadurch lerne ich sehr viel und erhöhe meine Chancen mit einem Projekt erfolgreich zu werden.
+Ich versuche immer alles so weit wie möglich zu automatisieren, damit ich mich mit neuen Dingen beschäftigen kann.
+So kann ich sehr viele verschiedene Dinge machen und ausprobieren.
+
+Etwas ähnliches kann ich auch mit Firmen machen. Ich baue eine Firma auf, bis ich zuverlässig Geld verdiene und die Arbeitsabläufe strukturiert und dokumentiert sind. Dann kann ich entweder alles automatisieren oder jemanden einstellen, der die Arbeit übernimmt und mir den Überschuss auszahlen.
+Dadurch habe ich weider Zeit eine neue Firma zu starten. 
+
+Bei jedem Projekte lerne ich etwas und kann das beim Start des nächsten Projekts nutzen. So erhöhe ich meine Chancen nochmal.
+Viele und immer bessere Projekte.
+
+Wenn ich ein paar Erfolge habe, könnte ich meine Arbeitszeit reduzieren und meinen Projekten mehr Zeit widmen, um meine Chancen weiter zu steigern.
+
+Ich kann mich dann entweder auf ein sehr erfolgreiches Projekt konzentrieren oder noch mehr Projekte starten.
+
 ## Artikel
 
 - [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)

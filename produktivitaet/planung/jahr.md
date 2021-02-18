@@ -17,3 +17,7 @@
 
 - Motto für das Jahr festlegen
 - z.B. Renovieren
+
+## Links
+
+- [40 questions to ask yourself every year](http://stephanango.com/40-questions)

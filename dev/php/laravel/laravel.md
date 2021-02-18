@@ -17,6 +17,7 @@ butler laravel:new name
 - [Building and Deploying Laravel with Github Actions](https://driesvints.com/blog/building-and-deploying-laravel-with-github-actions/)
 - [Laravel Playground](https://laravelplayground.com/#/)
 - [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions)
+- [How to use GitHub Actions build matrix to deploy artifacts to multiple servers](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)
 
 ## Blogs
 

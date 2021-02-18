@@ -12,6 +12,15 @@
 - Wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal) brauche ich mehr Energie (Diet Break)
     + Diet Break: für ~zwei Tage Kalorien auf Erhalt erhöhen
 
+Alle Diäten erreichen ihr Ziel, indem man mehr Kalorien verbaucht als man zu sich nimmt. Nur die Anwendung unterscheidet sich.
+Das Ziel ist meine Diät so zu gestalten, dass ich sie sein Leben lang durchhalten kann.
+
+Nach einer Diät nimmt man oft wieder zu, oft mehr.
+Der Weg zu meinem Traumkörper geht nur über eine Änderung des Lebensstils.
+Um das zu erreichen, muss ich meine Ernährung so anpassen, das sie mir gefällt. 
+
+Ich muss Mahlzeiten essen, die mit schmecken und darf auf nichts verzichten! Sonst kann ich die Ernährungweise nicht langfristig durchhalten.
+
 ## Ernährungsplan mit Lieferdienst
 
 Ich wünsche mir einen Ernährungsplan mit Lieferdienst.
@@ -86,6 +95,7 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 - [The Macro Calculator](https://rippedbody.com/macro-calculator/)
 - [Eat this much](https://www.eatthismuch.com/)
 - [The Smartest Way To Get Lean In 2021](https://www.youtube.com/watch?v=d8V9ZaSq9Oc&feature=share)
+- [YOUR DIET SUCKS](https://www.youtube.com/watch?v=V_qBqFNThXI)
 
 ## Zitate
 

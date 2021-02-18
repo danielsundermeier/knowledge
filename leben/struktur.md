@@ -2,6 +2,25 @@
 
 Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag die gleichen [Entscheidungen](./entscheidungen.md) treffen muss (Was esse ich, Wann kaufe ich ein, ...). Auf diese Weise habe ich mehr Zeit mich mit Dingen zu beschäftigen, die ich wirklich tun möchte. Ich treffe Entscheidungen ein Mal und ziehe es so lange durch, bis ich eine bessere Lösung finde. Ich überprüfe meine Abläufe regemäßig und passe sie gegebenenfalls an. Ich verändere Kleinigkeiten, um meine Abläufe zu verbessern.
 
+Das Ziel ist den Tag und das Leben so zu gestalten, wie ich möchte. Viele finden es merktwürdig, dass ich meinen Tag so strikt strukturiere. Der Trick ist eine Struktur aufzubauen, die mir gefällt!
+
+## Ist
+
+Wie verbinge ich meinen Tag?
+
+## Soll
+
+Wie sieht mein perfekter Tag aus?
+Was muss ich unbedingt machen (ob ich will oder nicht)?
+
+Pflichten so effizient wie möglich gestalten. Wenn möglich delegieren oder automatisieren
+
+## Planen
+
+Wie komme ich von meinem aktuellen Tag zu meinem perfekten Tag?
+
+Vieles ausprobieren.
+
 ## Feste Zeiten
 
 - Schlafen

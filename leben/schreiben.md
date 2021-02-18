@@ -43,6 +43,10 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
 - [Writing for Reasons](https://blog.sulami.xyz/posts/writing-for-reasons/)
 - [Amazon Writing Tips](https://twitter.com/Mehdiyac/status/1320832578241384448?s=20)
+- [Publish now, fix later](https://www.amitmerchant.com/publish-now-fix-later/)
+- [For anyone thinking about launching a newsletter, some early learnings in the thread below](https://twitter.com/StockJabber/status/1361428648939696131)
+- [How to write like the great entrepreneurs](https://venturehacks.com/writing)
+- [Close the Gap – A CYC Writing Community](https://www.craftyourcontent.com/community/)
 
 ## Static Site Generator
 

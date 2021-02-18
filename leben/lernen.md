@@ -12,6 +12,7 @@
 -> Dokumentation für sich selbst
 -> Vielleicht hilft es jemandem
 -> Gemeinsam lernen
+-> Feedback
 -> Hifreich für Lebenslauf?
 
 ## Links
@@ -44,6 +45,7 @@
 - [Learning Theory from First Principles](https://www.di.ens.fr/~fbach/learning_theory_class/)
 - [You Don't Really Need Another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
 - [howtopedia](http://www.howtopedia.org/)
+- [Daemons and the Mindful Learning Curve](https://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/)
 
 ## Spaced Repetition
 

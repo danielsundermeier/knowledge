@@ -18,6 +18,7 @@
 ## Actions
 
 - [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.
+- [GitHub Actions: Hello World](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
 ## Issues
 

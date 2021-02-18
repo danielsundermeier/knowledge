@@ -4,6 +4,10 @@
 
 - [Sketch.systems](https://sketch.systems/)
 
+## PWA
+
+- [PWA Builder](https://www.pwabuilder.com/)
+
 ## Links 
 
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
@@ -13,3 +17,7 @@
 ## Tests
 
 - [WebPageTest](https://webpagetest.org)
+
+## SEO
+
+- [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)

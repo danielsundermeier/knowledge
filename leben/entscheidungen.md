@@ -95,3 +95,4 @@ Jeden Tag wiegen, um festzustellen, ob die Ernährung und das Training funktioni
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)
+- [How to Make Decisions](https://effectiviology.com/how-to-make-decisions/)

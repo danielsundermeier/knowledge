@@ -27,3 +27,4 @@ Beipiele:
 
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
 - [How To Understand Systems](https://neilkakkar.com/understanding-systems.html)
+- [how to hack habits](https://twitter.com/justinkan/status/1352040558198329344)

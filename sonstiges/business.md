@@ -57,6 +57,8 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 - [The 70% Rule](https://taylorpearson.me/fast/)
 - [Jesus Marketing](https://taylorpearson.me/jesusmarketing/)
+- [EntepreNERD](https://www.jackkinsella.ie/books/entreprenerd/marketing_for_programmers) - Marketing for programmers 
+- [The Math That Explains How to Get Rich with Websites](https://fourpillarfreedom.com/website-math/)
 
 ### Blogs
 

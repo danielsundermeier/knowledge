@@ -96,6 +96,34 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - Ich mache Dinge oft, wenn ich Spaß daran habe
 - Dinge machen Spaß, wenn sie mir leichter fallen
 
+> Wobei vergesse ich die Zeit? (Flow State)
+> Was habe ich als Kind gemacht?
+> Was fällt mir leichter als anderen?
+> Wofür werde ich von anderen gelobt?
+
+Es gibt zwei Wege außergewöhnlich zu werden:
+1. Der Beste in einer bestimmten Sache zu werden
+
+Der Beste in etwas zu werden ist extem schwierig -> Sehr wenige Menschen spielen in der NBA.
+
+2. Sehr gut in mehreren Dingen werden
+
+Wenn ich 3 oder mehr meiner Fähigkeiten und Talente kombinieren kann, kann ich mit dieser Kombination zu den Besten in der Welt gehören.
+
+Fähigkeiten:
+- Meine Leidenschaft(en)
+- Lesen
+- Schreiben
+- Kommunikation
+- Arithmetik
+- Verkaufen
+
+[What is a Talent Stack?](https://www.sloww.co/talent-stack/)
+
+### Links
+
+- [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+
 ## Supernormal stimulus
 
 - [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
@@ -154,3 +182,7 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - [Why it’s impt to understand that you are more than your degree](https://thewokesalaryman.com/2021/01/12/why-its-impt-to-understand-that-you-are-more-than-your-degree/)
 - [50 ideas that shape my worldview](https://twitter.com/david_perell/status/1259597720752291841)
 - [The Primal Blueprint](https://www.marksdailyapple.com/definitive-guide-primal-blueprint/)
+- [Business rules by James Clear](https://twitter.com/lexpaval/status/1359834580539371520)
+- [6 great principles of life of Elon Musk](https://qr.ae/pNEG4Y)
+- [The Machine - A Thought Experiment That Changes Your Life](https://www.youtube.com/watch?v=3DhNjtLivdg)
+- [Darwin, Munger, & More: “Seeking Wisdom” by Peter Bevelin (Book Summary)](https://www.sloww.co/seeking-wisdom-peter-bevelin/)

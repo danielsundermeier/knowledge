@@ -1,5 +1,8 @@
 # Ziele
 
+Kurzfristiges Denken verschlechtert das Leben in der Regel insgesamt, auch wenn man kurzfristig Vorteile hat.
+Langfristiges Denken verbessert es, auch wenn man kurzfristig etwas opfern muss.
+
 ## Ziele setzen
 
 Ich überlege mir, was ich erreichen möchte.

@@ -20,6 +20,15 @@
 - Brewfile von Github installieren?
 - [Brewfiles](https://brewfile.info/)
 
+### Services
+
+```
+brew services
+brew services start [service]
+brew services stop [service]
+brew services restart [service]
+```
+
 ### MariaDB
 
 Wenn mysql nach

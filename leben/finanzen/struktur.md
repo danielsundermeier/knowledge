@@ -39,6 +39,8 @@ Um das zu verhindern habe ich angefangen immer das doppelte Taschengeld auf dem 
 
 Zum Starten sollte nie mehr als das Budget auf dem Taschengeldkonto sein, um sich daran zu gewöhnen!
 
+Alternativ kann ich mir mein Budget am Anfang des Monats auszahlen und alles in bar bezahlen. Dann habe ich aber keinen automatischen Überblick mehr, wo ich Geld ausgegeben habe.
+
 ### Taschengeldkonto
 
 - Ich gewöhne mich an das Budget, brauche nicht mehr und komme nicht in Versuchung mehr auszugeben

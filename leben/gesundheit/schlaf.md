@@ -1,5 +1,7 @@
 # Schlaf
 
+## Regeln 
+
 - Feste Schlafenszeiten, auch am Wochenende (Zirkadianer Rhythmus)
 - Schlafzimmer: 
     + dunkel
@@ -12,6 +14,7 @@
 - Warm duschen bevor ich schlafen gehe. Hilft meine Körpertemperaturzu senken
 - Keinen Stress vor dem Schlafengehen. Entspannende Dinge tun
 - Keine schweren Mahzeiten vor dem Schlafengehen
+- Ohne Wecker aufwachen (eher ins Bett gehen)
 
 ## Links
 

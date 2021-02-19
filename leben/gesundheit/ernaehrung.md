@@ -1,25 +1,62 @@
 # Ernährung
 
-- whole foods, plant based [How not to diet](https://www.goodreads.com/book/show/43252570-how-not-to-diet)
-- Intermitted Fasting
 - [2 Tricks](https://jamesclear.com/feeling-fat)
     + kleinere Teller
     + Farbe der Teller nicht Farbe des Essens -> grüne Teller = mehr Gemüse; weniger vom Rest
-- Nicht hungrig Einkaufen gehen -> Ich kaufe Nahrungsmittel, die ich nicht kaufen möchte
-- bewusst essen, langsam und ohne Ablenkung
-- Nahrungsmittel mit geringer Kaloriendichte (viel Masse, wenig Kalorien) z.B. Gemüse
-- Wenn ich nur die Dinge aus meinem Ernährungsplan zuhause habe, kann ich nicht davon abweichen (nur mit Aufwand, der es meist nicht wert ist)
-- Wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal) brauche ich mehr Energie (Diet Break)
-    + Diet Break: für ~zwei Tage Kalorien auf Erhalt erhöhen
 
-Alle Diäten erreichen ihr Ziel, indem man mehr Kalorien verbaucht als man zu sich nimmt. Nur die Anwendung unterscheidet sich.
+## Diäten
+
+Alle Diäten erreichen ihr Ziel, indem man mehr Kalorien verbaucht als man zu sich nimmt. Nur die Vorgehensweise unterscheidet sich.
 Das Ziel ist meine Diät so zu gestalten, dass ich sie sein Leben lang durchhalten kann.
 
-Nach einer Diät nimmt man oft wieder zu, oft mehr.
+Nach einer Diät nimmt man oft wieder zu, oft mehr als man vorher gewogen hat.
 Der Weg zu meinem Traumkörper geht nur über eine Änderung des Lebensstils.
 Um das zu erreichen, muss ich meine Ernährung so anpassen, das sie mir gefällt. 
 
 Ich muss Mahlzeiten essen, die mit schmecken und darf auf nichts verzichten! Sonst kann ich die Ernährungweise nicht langfristig durchhalten.
+
+[YOUR DIET SUCKS](https://www.youtube.com/watch?v=V_qBqFNThXI)
+
+## Essen
+
+Indem ich langsam und bewusst ohne Ablenkungen esse, merke ich leichter, wenn ich satt bin.
+
+## whole foods, plant based
+
+Damit ich möglichst viel Masse essen kann und dadurch länger satt bin, esse ich Nahrungsmittel mit geringer Kaloriendichte (viel Masse, wenig Kalorien) z.B. Gemüse.
+
+Möglichst wenig verarbeitete Nahrungsmittel und viel Obst & Gemüse.
+
+[How not to diet](https://www.goodreads.com/book/show/43252570-how-not-to-diet)
+
+## Einkaufen
+
+Nicht hungrig einkaufen gehen.
+
+Ich kaufe nur das ein, was in meinem Ernährungsplan steht. So muss ich einem Plan folgen und kann nicht abweichen.
+Oft habe ich nicht wirklich Hunger sonder esse aus Langeweile oder ähnlichem. Das verhindere ich so auch. Wenn ich wirklich Hunger habe, kann ich immer noch einkaufen fahren. Den Aufwand ist es mir aber meist nicht wert.
+
+## Intermitted Fasting
+
+Ich esse alle meine Mahlzeiten in acht Stunden und faste dann für 16 Stunden.
+Durch das Fasten wird die Regeneration meines Körpers aktiviert.
+
+## Diet Break
+
+Für ca. zwei Tage Kalorien auf Erhalt erhöhen. Dadurch erholt sich der Körper und man kann mit der Diät weiter machen. In der Regel nehme ich trotzdem weiter ab.
+
+[Diet Break What I Have Learned](https://www.youtube.com/watch?v=nf6H4_R5Zxs)
+
+Ist relevant, wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal).
+
+## Regeln
+
+- Keine Kalorien trinken
+- Keinen (zusätzlichen) Zucker
+- Möglichst wenig verarbeitete Lebensmittel essen
+- Viel Obst & Gemüse
+- Selbst kochen
+- Ernährung tracken
 
 ## Ernährungsplan mit Lieferdienst
 
@@ -61,7 +98,7 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 
 ## Abnehmen
 
-- Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt ,dann erst erhöhen
+- Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt, dann erst erhöhen
 - Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
 - täglich morgens wiegen
 
@@ -95,7 +132,6 @@ und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benöt
 - [The Macro Calculator](https://rippedbody.com/macro-calculator/)
 - [Eat this much](https://www.eatthismuch.com/)
 - [The Smartest Way To Get Lean In 2021](https://www.youtube.com/watch?v=d8V9ZaSq9Oc&feature=share)
-- [YOUR DIET SUCKS](https://www.youtube.com/watch?v=V_qBqFNThXI)
 
 ## Zitate
 

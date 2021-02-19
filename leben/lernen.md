@@ -1,10 +1,37 @@
 # Lernen
 
+## 3 Steps to Becoming Great at Anything
+
+1. Grundlagen lernen (80/20 Prinzip)
+2. Feedback holen und anwenden
+3. für 10.000h wiederholen
+
+[3 Steps to Becoming Great at Anything](https://www.youtube.com/watch?v=XTkNe4RL6lw)
+
 ## Lernen durch Projekte 
 
-- Lernen durch Projekte (Probleme im eigenen Leben lösen)
-- Ich habe durch [serienguide](https://www.serienguide.tv) programmieren gelernt
--> Innere Motivation etwas zu lernen 
+Ich glaube der beste Weg etwas zu lernen ist durch Projekte mit denen man seine eigenen Probleme löst.
+Ich finde es wichitg an Lösungen zu meinen eigenen Problemen zu arbetien, weil ich dann genau weiß, was ich möchte und warum ich es tue. Dadurch bin ich sehr motiviert und gebe nicht so schnell auf, wenn ich nicht weiter komme.
+
+Ich habe sehr viele Serien geguckt und ständig vergessen welche Folge als nächstes dran war. Dadurch habe ich Folgen oft doppelt geguckt und erst nach ein paar Minuten gemerkt, dass ich sie schon gesehen habe.
+Ich habe dann irgendwann angefangen eine einfach Datenbank zu programmieren und meinen Fortschritt so zu dokumentieren.
+
+Am Anfang war die Seite sehr einfach und ich musste alles händisch einfügen und aktualisieren.
+Nach und nach hatte ich immer höhere Ansprüche an meine Datenbank und musste lernen, wie ich sie erfüllen kann.
+
+Dadurch hatte ich eine intrinsische Motivation etwas neues zu lernen. Weil ich nach konkreten Lösungswegen suchen konnte und es direkt ausprobiert habe, konnte ich in kurzer Zeit eine Menge lernen und hatte trotz vieler Rückschläge Spaß dabei. Ich habe mich immer sehr gefreut, wenn ich etwas nach langem hin und her geschafft habe.
+
+Die Datenbank ist immer größer und umfangreicher geworden. Ich habe immer mehr Komfortfunktionen eingebaut und vieles automatisiert.
+
+Ich habe sie dann veröffentlicht, weil mich Freunde danach gefragt haben. Dadurch habe ich Feedback und neue Anregungen bekommen und so konnte ich weiter lernen.
+
+Auf diese Weise habe ich mir selbst das Programmieren beigebracht.
+
+Ende 2020 musste ich die Seite nochmal komplett neu programmieren. Das war wieder eine Gelegenheit etwas Neues zu lernen.
+
+Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es nicht funktioniert, habe ich etwas dabei gelernt. Außerdem macht es mir mehr Spaß mich mit etwas Neuem zu beschäftigen als immer das Gleiche zu tun.
+
+[serienguide](https://www.serienguide.tv)
 
 ## Learning in Public
 

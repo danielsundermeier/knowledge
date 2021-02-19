@@ -1,7 +1,7 @@
 # Beziehungen
 
-- Wenn ich etwas möchte muss ich da fragen.
-- Wenn mir etwas nicht gefällt muss ich es ansprechen.
+- Wenn ich etwas möchte, muss ich danach fragen.
+- Wenn mir etwas nicht gefällt, muss ich es ansprechen.
     + bemerken
     + loben
     + Geschenke
@@ -15,7 +15,17 @@
 
 > There are no mistakes when learning. See setbacks as opportunities of personal growth and expansion. - Monk who sold his ferrari
 
-> We all want to get people interested in us. But it rarely happens. Dale Carnegie in this book says that the best way to get people interested in you is by getting completely interested in them , such importance will make them feel special and they will get more interested in you. - how to win friends and influence people
+> We all want to get people interested in us. But it rarely happens. Dale Carnegie in this book says that the best way to get people interested in you is by getting completely interested in them, such importance will make them feel special and they will get more interested in you. - how to win friends and influence people
+
+## Polarisieren
+
+Ich denke es ist gut anderen Menschen früh zu zeigen, woran sie sind bzw. wofür ich stehe. So können sie schnell entscheiden, ob sie etwas mit mir zu tun haben wollen. 
+
+Ich werde es nicht schaffen, dass mich alle mögen. Auf diese Weise bleiben nur Menschen, die mich / meine Ansichten interessant finden. Wenn nicht hat es uns beiden Zeit gespart festzustellen dass wir keine gemeinsamen Interessen haben.
+
+Menschen mögen Menschen mit Ecken und Kanten.
+
+Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden und mit anderen darüber zu diskutieren.
 
 ## Links 
 

@@ -66,3 +66,4 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 - [Josh Pigford - From Idea to $5k/mo in 5 Months](https://vimeo.com/94623532)
 - [Starting a $400,000 Side Business in 1 Month](https://www.youtube.com/watch?v=NblHMZbYg-o)
+- [How This CEO Built a Billion-Dollar Ethical Egg Business](https://www.youtube.com/watch?v=o8uhxZON1TU)

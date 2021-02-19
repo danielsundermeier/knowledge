@@ -11,8 +11,6 @@
 
 > Repeatedly ask whether you’re optimizing a cog in a machine instead of the machine itself. The higher the level you optimize at, typically the greater your ROI.
 
-
-
 ## Bücher
 
 - [Super Thinking](https://www.goodreads.com/book/show/41181911-super-thinking?ac=1&from_search=true&qid=w8a0JunIFf&rank=2)

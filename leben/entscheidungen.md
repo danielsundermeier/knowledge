@@ -34,7 +34,7 @@ Abläufe beobachten und ggf. anpassen
 Das Einbeziehen weiterer Optionen verbessert meine Entscheidung
 
 Anstatt: Möchte ich dies oder das? (Ja|Nein)
-Was kann ich stattdessen tun? (Oppotunitätskosten)
+Was kann ich stattdessen tun? (Opportunitätskosten)
 
 Beispiel:
 1. Gute Musikanlage für 1.000 €

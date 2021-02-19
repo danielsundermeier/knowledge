@@ -21,7 +21,7 @@
 - Zeit draußen / in der Natur verbringen
 - Etwas, das mir Freude bereitet
 - Etwas, das mich meinen Zielen näher bringt
-- Zeit, um über das Leben nachzudenken
+- Zeit, um über mein Leben nachzudenken
 
 ## Fundament
 
@@ -32,21 +32,35 @@
 
 ## Verbesserung
 
-- Immer nur mit einem Aspekt des Lebens befassen
-    + Ziel festlegen
-    + Lesen
-    + Gründe für Probleme herausfinden
-    + Mögliche Lösungen recherchieren
-    + Vorbilder suchen
-    + Ausprobieren
-    + System erstellen
-        * Konkrete Schritte, um Ziel zu erreichen
-        * Was mache ich wann
-        * Beispiele
-            - Feste Trainingszeiten
-            - Ernährungsplan erstellen
-- Lösung als System, in Leben integrieren
-- Bestehende Systeme weiter machen: Ziel ist das Erreichte mindestens zu Erhalten
+Ich versuche mein Leben immer weiter zu verbessern. Dafür beschäftige ich mich zu jeder Zeit immer nur mit einer Sache. Wenn ich alles auf einmal ändern möchte, übernehme ich mich schnell und ich falle in alte Muster zurück.
+
+Ich überlege mir, was ich in einem Bereich verbessern möchte, oder was mir nicht gefällt. Dann suche ich gezielt nach Lösungen. 
+- Lesen, Videos, Podcasts
+- Vorbilder suchen (Wer hat erreicht, was ich möchte)
+- Gründe für Unzufriedenheit herausfinden
+
+Wenn ich einen Überblick habe, was ich machen kann, fange ich an verschiedene Lösungen umzusetzen und auszuprobieren. Am Anfang habe ich oft die Lösungen von Anderen kopiert um ein Gefühl dafür zu bekommen und anschließend an meine Situation angepasst.
+
+Dann setzte ich mir ein Ziel und erstelle ein System, um es zu erreichen.
+Dafür überlege ich mir konkrete Schritte, die ich täglich ausführen kann und wie ich sie in meine [Struktur](./struktur.md) integrieren kann. 
+
+Beispiele: 
+- feste Trainingszeiten 
+- Ernährungsplan erstellen
+
+Ich lege auch fest, was ich tue, wenn Probleme auftauchen (Wenn A, dann B).
+
+Anschließend setze ich es um und versuche eine Gewohnheit daraus zu machen und den Aufwand so weit wie möglich zu reduzieren.
+
+Ich überlege mir, wie ich Widerstände abbauen und Anreize schaffen kann um das erwünschte Verhalten so einfach wie möglich zu gestalten, damit ich es auch tatsächlich immer umsetzte.
+
+In der ersten Zeit ändere ich noch viel am Ablauf. Dadurch kann ich die Gewohnheit schneller und effizienter umsetzten. Dadurch habe ich wieder mehr Zeit für andere Dinge.
+
+Ich trage auch eine Gewohnheit bei Habitica ein, damit ich daran erinnert werde und es wirklich immer mache.
+
+Irgendwann passiert das gewünschte Verhalten "automatisch". Dann kann ich mich mit dem nächsten Bereich befassen.
+
+Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
 
 ### Links
 
@@ -186,3 +200,4 @@ Fähigkeiten:
 - [6 great principles of life of Elon Musk](https://qr.ae/pNEG4Y)
 - [The Machine - A Thought Experiment That Changes Your Life](https://www.youtube.com/watch?v=3DhNjtLivdg)
 - [Darwin, Munger, & More: “Seeking Wisdom” by Peter Bevelin (Book Summary)](https://www.sloww.co/seeking-wisdom-peter-bevelin/)
+- [Burnout, Variety and Crop Rotation](https://theescapeartist.me/2021/02/19/burnout-variety-and-crop-rotation/)

@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Menscheit vom Zwang zu arbeiten befreien
+Menschheit vom Zwang zu arbeiten befreien
 
 ## Vision
 

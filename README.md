@@ -2,6 +2,8 @@
 
 Ich möchte gemeinsam mit dir Ideen erarbeiten und diskutieren, die das Leben verbessern.
 
+Ich veröffentliche viele meiner Projekte um Feedback zu bekommen, damit ich mich verbessern kann.
+
 ## Terms of service
 
 ![Terms of serive](https://user-images.githubusercontent.com/6764957/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)

@@ -58,43 +58,34 @@ Ist relevant, wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (
 - Selbst kochen
 - Ernährung tracken
 
-## Ernährungsplan mit Lieferdienst
+## Fehler
 
-Ich wünsche mir einen Ernährungsplan mit Lieferdienst.
+### Nur auf Kaloriendichte optimiert
 
-Ich teile meine Daten:
-- Ziel
-    + Zielgewicht
-    + Fettgehalt
-    + Muskelmasse
-    + Zeitraum
-- Gewicht, Fettgehalt, ...
-- Verbrauchte Kalorien
-- Aufgenommene Kalorien
-- Training
-- Wie fühle ich mich
-- Hunger?
-und bekomme am nächsten Tag die Mahlzeiten und Mengen geliefert, die ich benötige.
+Nachdem ich mich mit der Kaloriendichte von Nahrungsmitteln beschäftigt habe, habe ich meine Ernährung entsprechend umgestellt. Es hat auch gut funktioniert.
 
-### 1. Schritt
+Allerdings wollte ich eine Abkürzung nehmen und ohne die Nachteile (Hunger, Müdigkeit, ...) abnehmen.
 
-- Ernährungsplan erstellen (inkl. Rezepte)
-- Produkte aus Supermarkt liefern
-- Muss selbst zubereitet werden
+Ich habe dann die Kaloriendichte, immer weiter optimiert, damit mir das abnehmen leichter fällt. Ich habe also immer mehr Menge gegessen, damit mein Magen nach einer Mahlzeit immer voll war und ich trotzdem im Kaloriendefizit war.
 
-### 2. Schritt
+Am Anfang hat es sehr gut funktioniert. Es ist aber zu einem Teufelskreis geworden, als ich es langfristig gemacht habe.
 
-- Daten teilen
-- Mengen/Mahlzeiten dynamisch anpassen
+Ich musste immer mehr Menge essen, um mich satt zu fühlen.
 
-### 3. Schritt
+Das Problem war, dass mein Magen sich dadruch immer weiter ausgedehnt hat und ich von "normalem" Mahlzeiten (Reis, Nudeln, Brot, etc.) nicht mehr satt geworden bin. Wenn ich Mahlzeiten mit höherer Kaloriendichte gegessen habe, konnte ich nicht aufhören zu essen. Dadurch habe ich mir dann die Fortschritte wieder zu nicht gemacht und war sehr frustriert.
 
-- Genaue Mengen gesondert abgepackt liefern
-- muss selbst zubereitet werden
+Außerdem musste ich ständig essen, um auf meine Kalorien zu kommen.
+Ich habe auch immer weniger Fette gegessen, weil sie die höchste Kaloriendichte haben
 
-### 4. Schritt 
+Ich habe dann angefangen wieder weniger Menge und Mahlzeiten mit höherer Kaloriendichte zu essen.
 
-- Lieferservice (fertig zubereitete Mahlzeiten liefern)
+Es ist eine gute Möglichkeit kurzfristig abzunehmen. Irgendwann muss ich die "Kosten" aber bezahlen.
+
+Es ist keine langfristige Lösung. 
+
+Es gibt keine Möglichkeit abzunehmen, ohne etwas zu leiden. 
+
+Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 
 ## Abnehmen
 

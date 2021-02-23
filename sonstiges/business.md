@@ -15,6 +15,10 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 
 Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen. Ab 6-10 Personen pro Team wird es schwieriger sich abzustimmen. Verschiedene Teams suchen die beste Lösung für ein Problem und "treten gegeneinander an".
 
+## Regeln
+
+![](./business_rules_james_clear.jpg)
+
 ## Zitate
 
 > If you want to Go fast Go alone, if you want to Go far go together.

@@ -70,6 +70,8 @@ Ich hätte mein Geld (Kredit) in sehr wenigen Immobilien gebunden.
 
 Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 
+[Was hält der Finanzwesir viom Bitcoin-Hype?](https://www.finanzwesir.com/blog/bitcoin-crypto-manie)
+
 ### ETF
 
 [ETFs](./etf.md) sind für mich die beste Option

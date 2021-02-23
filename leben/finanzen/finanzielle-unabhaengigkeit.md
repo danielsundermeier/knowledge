@@ -96,6 +96,17 @@ Ich habe den Plan der finanziellen Unabhängigkeit weiter verfolgt. Ich halte es
 
 Jetzt versuche ich mir ein Leben aufzubauen, von dem ich keinen Urlaub/Rente brauche.
 
+## Sicherheit
+
+Ich lese oft von einem Gefühl der Sicherheit, die man durch ein finanzielles Polster bekommt. 
+
+[100.000 €](https://fourpillarfreedom.com/charlie-munger-the-first-100000-is-a-btch/) scheint so eine Grenze zu sein. Wenn man sie erreicht, fängt das Kapital an selbst einen nennenswerten Teil zum Wachstum beizutragen.
+
+Ich habe es gemerkt, als ich meine notwendigsten Ausgaben (theoretisch) mit meinem Deopt hätte decken können.  
+Ich war nicht mehr so sehr auf Geld fixiert. Ich habe aufgehört ständig ins Depot zu gucken und habe mehr darüber nachgedacht, wie ich leben möchte.  
+
+Das zeigt mir, dass ich die Vorzüge der finanziellen Freiheit schon genießen kann, wenn ich noch auf dem Weg dorthin bin. Ich bin gespannt, was sich im Laufe der Zeit sonst noch ändert.
+
 ## Möglichkeiten
 
 Je größer mein Depot ist, desto mehr Möglichkeiten habe ich.

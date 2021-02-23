@@ -6,6 +6,7 @@ Wenn ich noch mal von vorne anfangen könnte
     + Ausreichend Schlaf
     + Gesunde Ernährung
     + Tägliche Bewegung (draußen)
+    + Sport
 - In den Schulferien Praktika bei Handwerkern, um das für sich persönlich zu lernen
 - Etwas studieren, dass einem Spaß macht
     + Tiefes Wissen in einem Gebiet

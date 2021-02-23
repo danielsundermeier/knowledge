@@ -68,6 +68,8 @@
     - [Home-automation](/home-automation/home-automation.md)
     - [Shelly](/home-automation/shelly.md)
     - [Wechselschaltung](/home-automation/wechselschaltung.md)
+- [Ideen](ideen.md)
+    - [Lieferdienst](/ideen/lieferdienst.md)
 - [Leben](leben.md)
     - [Beruf](/leben/beruf.md)
     - [Beziehungen](/leben/beziehungen.md)

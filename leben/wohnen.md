@@ -48,6 +48,7 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 ## Artikel
 
 - [Freiburg: Germany’s futuristic city set in a forest](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest)
+- [How I heat my home by mining crypto currencies](https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html)
 
 ## Links
 

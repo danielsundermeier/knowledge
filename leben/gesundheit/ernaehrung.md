@@ -29,6 +29,62 @@ Möglichst wenig verarbeitete Nahrungsmittel und viel Obst & Gemüse.
 
 [How not to diet](https://www.goodreads.com/book/show/43252570-how-not-to-diet)
 
+## Makros
+
+Zuerst die Gesamtkalorien herausfinden: [Kalorienrechner](https://kalorien-rechner.info/)
+
+Makronährstoffe berechnen:
+
+| Nährstoff | Menge |
+| --------- | ----- |
+| Protein | 2g / kg Körpergewicht |
+| Fette | 25% der Kalorien (1g = 9 kcal) |
+| Kohlenhydrate | Rest |
+
+[Lose Body Fat Without Dropping Calories!](https://www.youtube.com/watch?v=KsOljsef4Rs)
+
+## Gewicht kontrollieren
+
+Ich habe mich lange dagegen gewehrt, aber irgendwann doch angefangen meine Kalorien und mein Gewicht zu tracken.
+
+Wenn ich konkrete Zahlen habe, ist es wesentlich einfacher mein Gewicht zu kontrollieren und meine Ziele zu erreichen.
+
+Zu beachten ist, dass die Werte teilweise sehr ungenau sind. Die Werte sind aber immer gleich falsch, wenn ich immer die gleichen Apps, Waage, etc. verwende und ich kann trotzdem Schlüsse daraus ziehen.
+
+Ich versuche jeden Tag ähnlich viele Kalorien zu essen und zu verbrauchen. Durch die Waage bekomme ich ein Feedback und kann entsprechende Änderungen vornehmen.
+
+### Waage
+
+Ich wiege mich jeden Morgen direkt nach dem Aufstehen (nüchtern). Ich nutze eine Waage mit App, damit ich den Verlauf auf meinem Handy sehen kann.
+
+Es ist wichtig, dass ich mich jeden Tag zur gleichen Zeit wiege, weil die Gewichte sonst nicht vergleichbar sind.
+
+### Kalorien
+
+Ich trage meine Mahlzeiten bei [MyFitnessPal](https://www.myfitnesspal.com) ein.
+
+So habe ich einen Überblick, was ich esse und kann das Ergebnis einer Änderungen in meiner Ernährung leichter nachvollziehen.
+
+So schaffe ich es auch jeden Tag ähnlich viele Kalorien zu mir zu nehmen, ohne jeden Tag das Gleiche zu essen.
+
+Ich habe auch sehr lange gebraucht, bis ich mir eine Küchenwaage angeschafft habe. Es vereinfacht die Ernährung aber ungemein.
+
+Wenn ich mein Gewicht halten möchte, nehme ich ca. 2600 kcal zu mir.
+
+### Aktivitätskalorien
+
+Ich habe eine Apple Watch um meine Aktivitätskalorien zu erfassen. Auch das ist ungemein hilfreich.
+
+Besonders, wenn ich im Defizit bin, bin ich weniger aktiv und verbrauche weniger Kalorien. 
+
+Ohne konkrete Werte ist mir das nicht aufgefallen und ich habe mich gewundert, warum ich meine Ziele nicht erreiche.
+
+Ich habe mir ein Ziel von 1.000 Aktivitätskalorien (laut Uhr) pro Tag gesetzt. Ich versuche es recht genau einzuhalten (nie weniger; nur ein bisschen mehr; 1.000 - 1.050 kcal).
+
+Spazierengehen ist ein gutes Mittel meine Aktivitätskalorien zu erhöhen. Es ist nicht anstrengend und hat nur wenig Einfluss auf die Erschöpfung.
+
+Mit einem HIIT Training verbrenne ich zwar sehr viel mehr Kalorien, ich brauche aber auch länger, um mich zu erholen.
+
 ## Einkaufen
 
 Nicht hungrig einkaufen gehen.
@@ -36,7 +92,7 @@ Nicht hungrig einkaufen gehen.
 Ich kaufe nur das ein, was in meinem Ernährungsplan steht. So muss ich einem Plan folgen und kann nicht abweichen.
 Oft habe ich nicht wirklich Hunger sonder esse aus Langeweile oder ähnlichem. Das verhindere ich so auch. Wenn ich wirklich Hunger habe, kann ich immer noch einkaufen fahren. Den Aufwand ist es mir aber meist nicht wert.
 
-## Intermitted Fasting
+## Intervallfasten
 
 Ich esse alle meine Mahlzeiten in acht Stunden und faste dann für 16 Stunden.
 Durch das Fasten wird die Regeneration meines Körpers aktiviert.
@@ -92,6 +148,11 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt, dann erst erhöhen
 - Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
 - täglich morgens wiegen
+
+Der Körper passt sich dem Defizit an und verbraucht weniger Energie. Deshalb muss ich das Defizit anpassen, wenn ich eine Woche nicht weiter abnehme.
+
+Nachdem ich genug abgenommen habe, erhöhe ich die Kalorien langsam um 50 - 100 kcal / Tag pro Woche, damit sich mein Körper langsam daran gewöhnen kann.
+Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im Defizit war.
 
 - [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
 - [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)

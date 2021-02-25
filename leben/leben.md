@@ -1,5 +1,12 @@
 # Leben
 
+## Zusammenfassung
+
+1. Alles aufschreiben -> Herausfinden, was ich möchte
+2. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
+
+## Notizen
+
 - Zeit zum Nachdenken / Reflektieren
 - Alles aufschreiben
     + Aufgaben

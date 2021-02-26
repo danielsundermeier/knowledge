@@ -73,6 +73,14 @@ Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich ger
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)
 
+## Veränderung
+
+Ich kann mich selbst duch meinen Lebenstil verändern.
+
+Indem ich bestimmte Dinge tue verändert sich mein Gehirn ([Neuronale Plastizität](https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t)) und Gene werden aktiviert ([Epigenetik](https://de.wikipedia.org/wiki/Epigenetik)).
+
+Ich kann diese Veränderungen sogar vererben.
+
 ## Notizen
 
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
@@ -147,13 +155,42 @@ Fähigkeiten:
 
 ## Supernormal stimulus
 
+Es gibt von Menschen erzeugte Dinge, die stärker auf mich wirken als natürliche. Dadruch werde ich weniger empfindlich für natürliche Reize.
+
+Beispiele:
+- Nicht aufhören können Chips zu essen (Kombination von Fetten und Salz)
+- Den ganzen Tag auf Social Media verbringen (Slotmachine)
+
+Es gibt dadurch keine Langeweile mehr. Ich bin immer "beschäftigt".
+Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und unangenehmere Dinge zu tun um meine langfristigen Ziele zu erreichen.
+
+> Wie fühle ich mich, wenn ich mit diesen Dingen meine Zeit totschlage (Social Media, Fernsehen, schlechte Ernährung)?
+
+### Links
+
 - [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
 - [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
 - [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)
 
 ## Gewohnheiten
 
+### Erwünschte
+
+- So einfach wie möglich
+- Widerstände abbauen
+- Anreize es zu tun (Belohnung)
+- An bestehende Gewohnheiten hängen
+
+### Unerwünschte
+
+- So schwer wie möglich
+- Widerstand aufbauen
+- Kein Anreiz
+- Bewusst tun, nicht automatisch, um zu merken, dass ich es nicht tun möchte
+
+### Links
 - [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)
+- [A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4)
 
 ## Links
 

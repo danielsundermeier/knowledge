@@ -1,64 +1,88 @@
 # Ernährungsplan
 
-In der Diät ändern sich die ersten beiden Mahlzeiten an ein paar Tagen in der Woche.
+Aktuell esse ich drei Mahlzeiten pro Tag alle vier Stunden. Mein Essensfenster ist also acht Stunden und ich faste für 16 Stunden.
+
+Ich esse meine letzte Mahlzeit Mittags, damit ich schlafe, wenn ich die längste Zeit nichts gegessen habe.
+
+**Die Werte sind aus einer Diät**
+
+## Makros
+
+| Nährstoff | Menge |
+| --------- | ----- |
+| Protein | 25% |
+| Fette | 25% |
+| Kohlenhydrate | 50% |
 
 ## 1. Mahlzeit
 
 - Haferflocken (200g)
-- Vollmilch (0,5l)
-- Leinensamen (5g)
+- Frische Vollmilch 1,5% (0,5l)
 
-Kalorien: 977 kcal
-
-### Diät
-
-Sa, So, Di, Do
-
-- Beeren (50g)
-- Magerquark (500g)
-
-Kalorien: 376 kcal
+Kalorien: 953 kcal
 
 ## 2. Mahlzeit
 
 - Beeren (50g)
 - Magerquark (500g)
+- Erdnüsse (20g)
 
-Kalorien: 376 kcal
+Kalorien: 500 kcal
 
-### Diät
+## 3. Mahlzeit
 
-Sa, So, Di, Do
+Für diese Mahlzeit versuche ich mich grob an dieser Vorlage zu orientieren:
+[Plant-based plate](https://darebee.com/mealplans/plant-based-plate.html)
 
+Ich esse allerdings Fisch und Fleisch.
+
+### Wraps mit Rührei & Kaisergemüse
+
+- 2 Wraps (124g)
+- Kaisergemüse (500g)
 - Rührei (4 Eier)
-- Schinken (100g)
+
+Kalorien: 821 kcal
+
+### Nudeln mit Lachs & Spinat
+
+- Nudeln (125g)
 - Spinat (450g)
+- Lachs (125g)
 
-## 3. & 4. Mahlzeit
+Kalorien: 809 kcal
 
-- Kartoffeln (250g)
-- Tiefkühlgemüse (500g)
+### Salat mit Putenschnitzel
 
-Kalorien: 395 - 410 kcal
+- Kidneybohnen (0,5 Dose, 127,5g)
+- Thunfisch (150g)
+- Hirtenkäse (125g)
+- Gurke (1 Stück)
+- Paprika (250g)
+- Putenschnitzel (200g)
 
-## 5. Mahlzeit
-
-- Kidneybohnen (halbe Dose)
-- Linsen (halbe Dose)
-- Mais (halbe Dose)
-- Erbsen und Möhren (halbe Dose)
-
-Kalorien: 434 kcal
+Kalorien: 866 kcal
 
 ## Gesamtkalorien steuern
 
-1. Menge von Kartoffeln bis 750g
+1. Menge von Erdnüssen bis 50g
 2. Menge von Haferflocken
 
-## Intermittent Fasting
+## Weiteres Vorgehen
 
-5 Mahlzeiten alle 2 Stunden. Danach fasten. 
+### Ketogene Ernährung
 
-Ich starte mit der 1. Mahlzeit kurz nach dem Aufstehen.  
+Die Steigerung des Fettanteils meiner Ernährung hat sehr gute Ergebnisse gebracht. Ich habe mich trotz Defizit sehr gut gefühlt.
 
-Dadurch schlafe ich in der Zeit, die am längsten von der letzten Mahlzeit entfernt ist und ich habe nicht so viel Hunger als würde ich nach dem Aufstehen noch 4-5 Stunden warten, bis ich die erste Mahlzeit esse.  
+Ich überlege die Kohlenhydrate weiter zu senken.
+
+### One Meal A Day (OMAD)
+
+Ich finde die Idee nur eine Mahlzeit pro Tag zu essen interessant. Dadurch würde ich lange fasten.
+
+Ich überlege es einmal auszuprobieren.
+Ich möchte mich aber langsam dahin bewegen und erst auf zwei Mahlzeiten umstellen.
+
+Außerdem möchte ich nicht alle meine Kalorien auf ein Mal essen. Ich stelle mir ein Zeitfenster von 2-4 Stunden vor in dem ich mehrere Mahlzeiten esse. 
+
+Ich habe mir das aber noch nicht genau überlegt.

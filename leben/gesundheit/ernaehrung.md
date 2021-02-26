@@ -1,5 +1,36 @@
 # Ernährung
 
+## Zusammenfassung
+
+1. Gewicht, Kalorien rein/raus tracken
+2. Werte entsprechend anpassen
+
+## Regeln
+
+- Keine Kalorien trinken
+- Keinen (zusätzlichen) Zucker
+- Möglichst wenig verarbeitete Lebensmittel essen
+- Viel Obst & Gemüse
+- Selbst kochen
+- Ernährung tracken
+
+## Ziele
+
+### Weniger Kohlenhydrate
+
+- Weniger Glukose im Blut -> Weniger Insulin
+- Fette als Energielieferant nutzen
+
+### Weniger Mahlzeiten
+
+- So wenige Mahlzeiten wie möglich (max. 3 Mahlzeiten; keine Snacks) -> Weniger Insulin
+
+### Kürzeres Essensfenster
+
+- Essensfenster so kurz wie möglich (max. 8 Stunden), dadurch wird die Fastenzeit länger -> Regenerations des Körpers, Fettverbrennung 
+
+## Notizen
+
 - [2 Tricks](https://jamesclear.com/feeling-fat)
     + kleinere Teller
     + Farbe der Teller nicht Farbe des Essens -> grüne Teller = mehr Gemüse; weniger vom Rest
@@ -38,10 +69,42 @@ Makronährstoffe berechnen:
 | Nährstoff | Menge |
 | --------- | ----- |
 | Protein | 2g / kg Körpergewicht |
-| Fette | 25% der Kalorien (1g = 9 kcal) |
+| Fette | 25% der Kalorien, min. 35g (1g = 9 kcal) |
 | Kohlenhydrate | Rest |
 
 [Lose Body Fat Without Dropping Calories!](https://www.youtube.com/watch?v=KsOljsef4Rs)
+
+## Hunger
+
+### Leptin
+
+[Leptin](https://de.wikipedia.org/wiki/Leptin) ist das Sättigkeitshormon. Es teilt dem Gehirn mit, wann ich satt bin.
+Leptin wird von Insulin blockiert und verhindert so das Sättigungsgefühl.
+
+> "Die Leptin-Konzentration des Körpers ist aber nicht nur vom Körperfett, sondern auch von anderen Faktoren wie der aktuellen Energiebilanz, der letzten Mahlzeit oder auch der Tageszeit abhängig, denn die Leptin-Produktion folgt analog zu der von Ghrelin einem Zyklus" - [Leptin: Alles, was du über das Hungerhormon wissen musst!](https://www.team-andro.com/leptin-du-hungerhormon-wissen.html)
+
+### Ghrelin
+
+[Ghrelin](https://de.wikipedia.org/wiki/Ghrelin) ist das Hungerhormon.
+
+### Insulin
+
+[Insulin](https://de.wikipedia.org/wiki/Insulin) transportiert Glukose (Zucker) aus dem Blut in die Zellen.
+
+Wenn die Muskel- (200g) und Leberzellen (70g) mit Glukose gefüllt sind, wird der Zucker als Körperfett gespeichert.
+
+Ein hoher Insulinspiegel im Blut verhindert den Fettabbau, deshalb hab ich schnell wieder Hunger auf kohlenhydrathaltige Nahrungsmittel, um meinen Energiebedarf zu decken, anstatt das gespeicherte Fett als Energiequelle zu nutzen.  
+
+Zusätzlich blockiert Insulin die Leptin Rezeptoren im Gehirn und verhindert so das Sättigungsgefühl.
+
+Es ist ein Teufelskreis.
+
+**Lösung: Mehr Proteine und Fette und weniger Kohlenhydrate.**
+
+### Links
+
+- [Do Calories Matter? Is a Calorie a Calorie?](https://www.youtube.com/watch?v=zcMBm-UVdII)
+- [Why we get Fat AND Hungry](https://www.youtube.com/watch?v=KHaCKudtVi0)
 
 ## Gewicht kontrollieren
 
@@ -104,15 +167,6 @@ Für ca. zwei Tage Kalorien auf Erhalt erhöhen. Dadurch erholt sich der Körper
 [Diet Break What I Have Learned](https://www.youtube.com/watch?v=nf6H4_R5Zxs)
 
 Ist relevant, wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal).
-
-## Regeln
-
-- Keine Kalorien trinken
-- Keinen (zusätzlichen) Zucker
-- Möglichst wenig verarbeitete Lebensmittel essen
-- Viel Obst & Gemüse
-- Selbst kochen
-- Ernährung tracken
 
 ## Fehler
 

@@ -1,5 +1,14 @@
 # Schreiben
 
+## Zusammenfassung
+
+1. Stichpunkte sammlen
+2. Stichpunkte gruppieren
+3. Stichpunkte ausformulieren
+4. Zusammenfassung schreiben
+
+## Allgemein
+
 Beim ersten Entwurf kommt es nicht auf die Qualität an. Es geht darum etwas zu haben, das ich barbeiten kann.
 Es fällt mir leichter bestehendes zu bearbeiten als vor einer "weißen Seite" zu sitzen.
 Überschriften oder Stichpunkte helfen auch. Dadurch bekomme ich eine grobe Struktur. Ich kann dan Absätze einfügen und Stichpunkte ausformulieren.

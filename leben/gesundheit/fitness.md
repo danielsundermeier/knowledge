@@ -1,17 +1,50 @@
 # Fitness
 
-- [20 MIN MORNING WORKOUT](https://www.youtube.com/watch?v=IeGrTqW5lek&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2&t=0s)
-- [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
-- HIIT (Tabata)
-    + 20 Sekunden Training
-        * Seilspringen
-        * Burpees
-        * Laufen auf der Stelle
-    + 10 Sekunden Pause
-- Steady State Cardio: Spazieren gehen
+Ich halte es für sinnvoll Dinge zu trainieren, die unsere Vorfahren täglich gemacht haben:
+- Schwere Dinge bewegen (Krafttraining)
+- Vor Gefahren wegrennen (HIIT)
+- Weite Stecken gehen (Steady State Cardio)
 
-Die Fähigkeit Muskeln aufzubauen lässt stark nach, in den ersten 1-3 Jahren kann man noch relativ viel Muskelmase aufbauen. Bereits nach dem ersten Jahr lässt es stark nach.
-Am Anfang macht es Sinn zu bulken und anschließen zu cutten. Nach einiger Zeit funktioniert es aber nicht mehr so gut und man sieht kaum Veränderungen.
+Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die Haltung zu verbessern und eine größere Bewegungsfreiheit zu haben.
+
+## Krafttraining
+
+- HFT (High Frequency Training) -> Jeden Tag Ganzkörper Training
+- Klimmzüge, Liegestütz, Kniebeugen
+- min 10 Sätze
+- min 3 Wiederholungen pro Satz
+- 15 Sekunden Pause zwischen Sätzen
+- Jeden Tag eine Wiederholung mehr
+
+## HIIT (Tabata)
+
+- 20 Sekunden Training
+    + Seilspringen
+    + Burpees
+    + Laufen auf der Stelle
+- 10 Sekunden Pause
+- Spotify Tabata Playlist
+
+## Steady State Cardio
+
+- Spazierengehen
+- Am Besten in der Natur
+- Alternativ Laufband
+
+## Mobilität
+
+- [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
+
+## Muskelaufbau
+
+Das Wichtigste beim Muskelaufbau ist, Progessive Overload. Es bedeutet sich kontinuierlich zu steigern. Nur so werden die Muskeln zum Wachsen angeregt.
+
+Durch das Wechseln von Maximalkraft (3-5 Wiederholungen) zu Hypertrophie (8-12 Wiederholungen) werden mehr Muskelfasern aktiviert bzw. Muskelfasern zum Wachstum angeregt.
+
+Die Fähigkeit Muskeln aufzubauen lässt nach den ersten 1-3 Jahren des Trainings stark nach. Bereits nach dem ersten Jahr wird es deutlich.
+
+Zu Beginn des Trainings macht es Sinn zu bulken und anschließen zu cutten. Nach einiger Zeit funktioniert es aber nicht mehr so gut und man sieht kaum Veränderungen.
+
 Ich denke nach ein paar Jahren Training kann man um Maintainance Kalorien essen und weiter trainieren. So sieht man immer gut aus und erreicht durch ständiges Steigern des Trainings einen Muskelaufbau.
 
 ### Links

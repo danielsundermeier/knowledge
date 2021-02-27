@@ -1,5 +1,38 @@
 # Programmieren
 
+## Workflow
+
+- "Make the change easy, than make the easy change"
+- Testsuit durchlaufen lassen
+- Test schreiben
+    + mit Kommentaren dokumentieren, was passieren soll
+- Programmieren und testen, bis Ergebnis erreicht
+- Testsuit durchlaufen lassen
+- Committen
+- Refactoring
+- Testsuit durchlaufen lassen
+- Committen
+- Dokumentieren
+    + Warum?
+    + Was passiert?
+    + Funktionsweise der Änderung
+- Code immer besser hinterlassen, als ich ihn vorgefunden habe
+
+## Lesbarer Code
+
+- Lesbaren Code priorisieren
+- den "ersten Entwurf" überarbeiten
+- Starten, indem ich mir mit Kommentaren selbst erkläre, was passieren soll
+- Mehrere kleine Funktionen, die erklären, was passiert
+- Lieber mehr Funktionen als konfigurierbare Funktionen
+- Code schreiben, der für Menschen einfachzu verstehen ist, anstatt für Computer gut zu lesen
+
+### Links 
+
+- [How to write readable code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
+
+## Links
+
 - [Devhints](https://devhints.io/) - TL;DR for documentation.
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - [Things I believe](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)

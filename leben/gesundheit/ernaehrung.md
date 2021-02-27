@@ -101,6 +101,17 @@ Es ist ein Teufelskreis.
 
 **Lösung: Mehr Proteine und Fette und weniger Kohlenhydrate.**
 
+## Ketose
+
+= Fettstoffwechsel
+
+- Energie wird aus Fetten und Proteinen gewonnen anstatt aus Glukose
+- Sobald dein Körper merkt, dass erstmal nicht mehr mit Kohlenhydraten zu rechnen ist, beginnt die Umstellung zur Ketose
+
+### Links
+
+- [Ketose — Die wichtigsten Fakten im Überblick](https://www.foodspring.de/magazine/ketose)
+
 ### Links
 
 - [Do Calories Matter? Is a Calorie a Calorie?](https://www.youtube.com/watch?v=zcMBm-UVdII)

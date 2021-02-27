@@ -46,6 +46,10 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 Ich halte es für das Beste mein aktives Einkommen (Gehalt / Lohn) in passives Einkommen (Dividende, Mieten, Renten)
 [Finanzielle Unabhängigkeit](finanzielle-unabhaengigkeit.md)
 
+### Einstieg
+
+- [Der 15-Minuten Investitionsplan](https://investmentratgeber.com/der-15-minuten-investitionsplan-2/)
+
 ### P2P
 
 Ich habe mich am Anfang auch verführen lassen in P2P Kredite zu investieren. Es hört sich zu schön an, um nicht zu investieren.
@@ -71,6 +75,16 @@ Ich hätte mein Geld (Kredit) in sehr wenigen Immobilien gebunden.
 Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 
 [Was hält der Finanzwesir viom Bitcoin-Hype?](https://www.finanzwesir.com/blog/bitcoin-crypto-manie)
+
+### Wald
+
+- [In Wald investieren](https://investmentratgeber.com/in-wald-investieren/#Die_Kosten_fuer_einen_eigenen_Wald)
+
+### Erneuerbare Energien
+
+- Solaranlagen
+- Windkraftanlagen
+- Energiegenossenschaft
 
 ### ETF
 
@@ -109,6 +123,7 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [If you had to start from the bottom with zero capital, what strategy would you use to get wealthy?](https://qr.ae/pNxaIB)
 - [The Margin Loan: How to Make a $400,000 Impulse Purchase](https://www.mrmoneymustache.com/2021/01/29/margin-loan-ibkr-review/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
 - [How to make wealth](http://paulgraham.com/wealth.html)
+- [When Everyone’s a Genius](https://www.collaborativefund.com/blog/speculation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
 
 ## Videos
 

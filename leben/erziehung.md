@@ -13,3 +13,7 @@
     + Google
     + Bibliothek
     + YouTube
+
+## Links
+
+- [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)

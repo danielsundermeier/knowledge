@@ -25,6 +25,16 @@ Menschen neigen zu Panikverkäufen. Die Möglichkeit jederzeit zu verkaufen erm�
 
 Da ich nicht vorhabe etwas zu verkaufen ist dieser Grund für mich irrelevant. Der (kurze) Crash im Frühjahr hat mich nicht zucken lassen. Ich habe mich stattdessen gefreut billig einkaufen zu können.
 
+## Haltedauer
+
+Kurzfristig ist der Aktienmarkt unberechnbar. Die Rendite schwnkt von Jahr zu Jahr enorm. Je länger ich meine ETFs halte, desto ausgeglichener und vorhersehbarer werden die Renditen.
+
+Deshalb ich meine bevorzugte Haltedauer "für immer".
+
+![](https://www.suredividend.com/wp-content/uploads/2018/12/SP-500-Returns-Time-Horizon.png)
+
+[Investing in Stocks](https://www.suredividend.com/investing-in-stocks/)
+
 ## Meine ETFs
 
 - [Vanguard FTSE All-World UCITS ETF](https://de.extraetf.com/etf-profile/IE00B3RBWM25)

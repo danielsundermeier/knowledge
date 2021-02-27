@@ -131,6 +131,7 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 > Wofür werde ich von anderen gelobt?
 
 Es gibt zwei Wege außergewöhnlich zu werden:
+
 1. Der Beste in einer bestimmten Sache zu werden
 
 Der Beste in etwas zu werden ist extem schwierig -> Sehr wenige Menschen spielen in der NBA.
@@ -138,6 +139,8 @@ Der Beste in etwas zu werden ist extem schwierig -> Sehr wenige Menschen spielen
 2. Sehr gut in mehreren Dingen werden
 
 Wenn ich 3 oder mehr meiner Fähigkeiten und Talente kombinieren kann, kann ich mit dieser Kombination zu den Besten in der Welt gehören.
+
+### Talent Stack
 
 Fähigkeiten:
 - Meine Leidenschaft(en)
@@ -147,7 +150,8 @@ Fähigkeiten:
 - Arithmetik
 - Verkaufen
 
-[What is a Talent Stack?](https://www.sloww.co/talent-stack/)
+- [What is a Talent Stack?](https://www.sloww.co/talent-stack/)
+- [Talent Stack](https://www.scottadamssays.com/2016/12/27/the-kristina-talent-stack/) 
 
 ### Links
 

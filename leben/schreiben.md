@@ -27,6 +27,12 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
     + Überschrift pro Abschnitte (Wichtigter Punkt)
 - Zusammenfassung der wichtigsten Punkte
 
+## Artikel Ideen
+
+- Interessante Artikel sammeln und gruppieren -> Zusammenfassung/Eigene Meinung zum Thema schreiben
+- Punkte aus bestehenden Artikel vertiefen
+- Was habe ich neues gelernt?
+
 ## Links
 
 - [Writing Well](https://www.julian.com/guide/write/intro)
@@ -56,6 +62,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [For anyone thinking about launching a newsletter, some early learnings in the thread below](https://twitter.com/StockJabber/status/1361428648939696131)
 - [How to write like the great entrepreneurs](https://venturehacks.com/writing)
 - [Close the Gap – A CYC Writing Community](https://www.craftyourcontent.com/community/)
+- [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)
 
 ## Static Site Generator
 

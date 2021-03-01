@@ -2,6 +2,7 @@
 
 ## Regeln 
 
+- 7-9 Stunden jede Nacht
 - Feste Schlafenszeiten, auch am Wochenende (Zirkadianer Rhythmus)
 - Schlafzimmer: 
     + dunkel
@@ -16,11 +17,20 @@
 - Keine schweren Mahzeiten vor dem Schlafengehen
 - Ohne Wecker aufwachen (eher ins Bett gehen)
 
+## Zirkadischer Rhythmus
+
+> "Der zirkadiane Rhythmus ist die Fähigkeit eines Organismus, physiologische Vorgänge auf eine Periodenlänge von etwa 24 Stunden zu synchronisieren. Der wichtigste zirkadiane Rhythmus ist der Schlaf-Wach-Rhythmus." - [Zirkadianer Rhythmus](https://flexikon.doccheck.com/de/Zirkadianer_Rhythmus)
+
+## Notizen
+
+- Wenn man zu wenig schläft, denkt man es würde reichen
+
 ## Links
 
 - [SLEEP 101: How to Feel Way Better in the Morning](https://www.youtube.com/watch?v=3twqNZGe0vg&t=169s)
 - [Matthew’s Tips for Good Sleep](https://fastlifehacks.com/matthew-walker-12-tips-for-good-sleep/)
 - [This Book Completely Changed How I Sleep](https://www.youtube.com/watch?v=rIVVPXkGRZo)
+- [HOW to get more quality sleep](https://www.youtube.com/watch?v=q9q3hfsPYpM)
 
 ## Tracker
 

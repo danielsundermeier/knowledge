@@ -42,6 +42,14 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 -> Feedback
 -> Hifreich für Lebenslauf?
 
+## Deliberate Practice
+
+- Fokossiertes Training mit einem bestimmten Ziel, anstatt einfacher Wiederholungen
+
+### Links
+
+- [The Beginner’s Guide to Deliberate Practice](https://jamesclear.com/beginners-guide-deliberate-practice)
+
 ## Links
 
 - [Taschenhirn](https://www.taschenhirn.de/)
@@ -73,6 +81,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [You Don't Really Need Another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
 - [howtopedia](http://www.howtopedia.org/)
 - [Daemons and the Mindful Learning Curve](https://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/)
+- [Why Trying to Be Perfect Won’t Help You Achieve Your Goals](https://jamesclear.com/repetitions)
 
 ## Spaced Repetition
 

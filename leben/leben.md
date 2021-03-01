@@ -5,6 +5,10 @@
 1. Alles aufschreiben -> Herausfinden, was ich möchte
 2. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
 
+## Ziel
+
+Meine beste Version werden.
+
 ## Notizen
 
 - Zeit zum Nachdenken / Reflektieren
@@ -181,20 +185,32 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 ### Erwünschte
 
 - So einfach wie möglich
+- Auslöser offensichtlich: Erwünschte Lebensmittel auf Tisch stellen
+- Kleine Ziele (1 Seite lesen, 2 Liegestütz)
 - Widerstände abbauen
+    + Schreibtisch immer aufgeräumt, damit ich sofort mit dem Arbeiten beginnen kann
 - Anreize es zu tun (Belohnung)
 - An bestehende Gewohnheiten hängen
+    + Beispiel: Nach dem Zähneputzen machen ich X
+- In Kalender eintragen
+    + Was 
+    + Wann
+    + Wo
 
 ### Unerwünschte
 
 - So schwer wie möglich
+- Auslöser verstecken / entfernen: Ungewollte Lebensmittel nicht kaufen
 - Widerstand aufbauen
+    + Beispiel: TV Stromstecker ziehen und Fernbedienung nicht auf Couchtisch
 - Kein Anreiz
 - Bewusst tun, nicht automatisch, um zu merken, dass ich es nicht tun möchte
+    + Beispiel: Bewusst rauchen -> Man stellt fest, dass es nicht gut schmeckt
 
 ### Links
 - [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)
 - [A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4)
+- [7 Things You Need to Understand to Stop Being Lazy](https://www.youtube.com/watch?v=vTQ0q0FsUFY)
 
 ## Links
 

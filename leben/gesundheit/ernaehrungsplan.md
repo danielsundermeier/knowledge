@@ -70,6 +70,10 @@ Kalorien: 866 kcal
 
 ## Weiteres Vorgehen
 
+### Kalorien
+
+Ich habe vor die Menge an Erdnüssen jede Woche um 10g pro Tag zu erhöhen, bis sich mein Gewicht nicht mehr ändert. Dann setze ich die Menge an Erdnüssen wieder auf 20g.
+
 ### Ketogene Ernährung
 
 Die Steigerung des Fettanteils meiner Ernährung hat sehr gute Ergebnisse gebracht. Ich habe mich trotz Defizit sehr gut gefühlt.

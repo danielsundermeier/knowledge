@@ -26,7 +26,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 ### Links
 
-- [Show Up Every Day for Two Years](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2015%2Fshow-up-every-day-for-two-years%2F)
+- [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)
 - [Jesus Marketing](https://taylorpearson.me/jesusmarketing/)
 - [Die 4 einzigen Wege, um mit deinem Blog wirklich Geld zu verdienen](https://www.chimpify.de/marketing/wege-um-mit-blog-geld-zu-verdienen/)
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)

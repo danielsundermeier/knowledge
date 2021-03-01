@@ -42,6 +42,18 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - Unpredictapility
 - Pattern recognition 
 
+## Prokrastination
+
+- Herausfinden, warum ich nicht motiviert bin
+    + Ich weiß nicht, wie ich anfangen soll
+    + Ich habe keine Lösung für das Problem
+    + Es ist langweilig
+- Immer wenn ich etwas herausschiebe, 2 Liegestütz machen
+- Nicht tun/Langweilen -> Irgendwann fange ich an
+- Wenn ich keine Lösung habe, spazieren gehen/duschen/... -> Ablenken (den Kopf entspannen), um eine Lösung zu finden: focus mode -> diffuse mode
+
+- [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU&t=293s)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

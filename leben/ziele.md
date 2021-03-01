@@ -27,6 +27,14 @@ Ich kann mir jeden Tag vornehmen eine Seite zu lesen. An den meisten Tagen werde
 
 Wenn ich jeden Tag einen Schritt in die richtige Richtung mache komme ich irgendwann an, egal wie weit der Weg ist. Die Zeit vergeht so oder so.
 
+## Beständigkeit
+
+Jeden Tag etwas für meine Ziele zun tun ist der wichtigste Baustein. Es reicht nicht hin und wieder etwas zu machen.
+
+![](https://seanwes.com/wp-content/uploads/2015/01/show-up-every-day-two-years.jpg)
+
+- [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)
+
 ## Plateau
 
 1. Flaschenhals bei einem Ziel erkennen = Was hält mich am Stärksten zurück?

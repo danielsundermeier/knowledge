@@ -149,6 +149,7 @@
 - [Sonstiges](sonstiges.md)
     - [Awesome](/sonstiges/awesome.md)
     - [Business](/sonstiges/business.md)
+    - [Garten](/sonstiges/garten.md)
     - [Geschichte](/sonstiges/geschichte.md)
     - [Haustiere](/sonstiges/haustiere.md)
     - [Landwirtschaft](/sonstiges/landwirtschaft.md)

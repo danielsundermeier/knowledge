@@ -191,7 +191,10 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
     + Schreibtisch immer aufgeräumt, damit ich sofort mit dem Arbeiten beginnen kann
 - Anreize es zu tun (Belohnung)
 - An bestehende Gewohnheiten hängen
-    + Beispiel: Nach dem Zähneputzen machen ich X
+    + Beispiele 
+        * Nach dem Zähneputzen mache ich X
+        * Nach der Tagesschau, ...
+        * Wenn ich nach der Arbeit nach Hause komme, ...
 - In Kalender eintragen
     + Was 
     + Wann
@@ -211,6 +214,12 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)
 - [A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4)
 - [7 Things You Need to Understand to Stop Being Lazy](https://www.youtube.com/watch?v=vTQ0q0FsUFY)
+- [Atomic Habits – James Clear](https://freiweg.at/2018/11/03/atomic-habits/)
+- [Buchempfehlung: „Atomic Habits“ von James Clear](https://wissensdialoge.de/buchempfehlung-atomic-habits-von-james-clear/)
+
+### Bücher
+
+
 
 ## Links
 

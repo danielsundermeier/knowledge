@@ -26,6 +26,30 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 ### Links
 
+- [How I Started a $400,000 Side Business in 1 Month (for Free)](https://www.youtube.com/watch?v=NblHMZbYg-o)
+
+## Preise
+
+Die Preise für enge Freunde sehr gering halten (Selbstkosten?), die Freunde meiner Freunde zahlen etwas mehr, deren Freunde zahlen den vollen Preis.
+
+Meine Freunde und deren Freunde werden meine Geschäft empfehlen. So kann ich sehr effizientes Marketing aufbauen. Die Leute vertrauen den Empfehlungen von Freunden eher als der Werbung.
+
+Selbst wenn nur ein kleiner Teil der Freunde relevant für mein Produkt (z.B. 10) ist, kann ich schnell viele Personen erreichen:
+
+```
+10 * 10 * 10 = 1.000 Personen
+```
+
+## Verwaltung
+
+Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe des Unternehmens konzentrieren zu können
+
+- Papierlos
+- so viel wie möglich digitalisieren
+- Automatisierung
+
+### Links
+
 - [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)
 - [Jesus Marketing](https://taylorpearson.me/jesusmarketing/)
 - [Die 4 einzigen Wege, um mit deinem Blog wirklich Geld zu verdienen](https://www.chimpify.de/marketing/wege-um-mit-blog-geld-zu-verdienen/)

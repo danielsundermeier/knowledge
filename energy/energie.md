@@ -25,6 +25,7 @@
 
 - [Cryogenic energy storage](https://en.wikipedia.org/wiki/Cryogenic_energy_storage) - low temperature (cryogenic) liquids such as liquid air or liquid nitrogen as energy storage
 - [The Missing Link in Renewables](https://www.youtube.com/watch?v=-PL32ea0MqM)
+- [Nano Coated Salt Technology](https://www.youtube.com/watch?v=IgUTL_FkErI)
 
 ## Wasserstoff
 

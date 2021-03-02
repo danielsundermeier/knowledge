@@ -48,6 +48,12 @@ Ich muss Mahlzeiten essen, die mit schmecken und darf auf nichts verzichten! Son
 
 [YOUR DIET SUCKS](https://www.youtube.com/watch?v=V_qBqFNThXI)
 
+## Trinken
+
+Ich trinke nur Wasser. Tee ist eine gute Alternative.
+
+Saft ist genauso ungesund, wie Cola. Er besteht zu einem großen Teil aus Zucker und beim Pressen werden alle gesunden Anteile, Fruchtfleisch und Ballaststoffe, entfernt.
+
 ## Essen
 
 Indem ich langsam und bewusst ohne Ablenkungen esse, merke ich leichter, wenn ich satt bin.
@@ -73,6 +79,14 @@ Makronährstoffe berechnen:
 | Kohlenhydrate | Rest |
 
 [Lose Body Fat Without Dropping Calories!](https://www.youtube.com/watch?v=KsOljsef4Rs)
+
+## Supplements
+
+> "After conducting countless randomized controlled trials on popular vitamins and supplements, Edgar Miller III, MD, PhD, a professor of medicine at Johns Hopkins University, concluded: “People would be better off spending their money on fruits and vegetables.”
+
+> "A step further, Dr. Mark Moyad, the Jenkins/Pomkempner Director of Preventive/Complementary and Alternative Medicine at the University of Michigan, said vitamins can fill some gaps related to nutritional deficiencies but treating them as a cure-all is potentially harmful:"
+
+> “The idea that you can take 10 pills a day and fix everything or live forever is faulty. There’s a huge disconnect between people’s perception of supplements and the reality, and that can be really destructive." - [In Supplements We Trust](https://insider.fitt.co/issue-no-108-in-supplements-we-trust/)
 
 ## Hunger
 
@@ -100,6 +114,18 @@ Zusätzlich blockiert Insulin die Leptin Rezeptoren im Gehirn und verhindert so 
 Es ist ein Teufelskreis.
 
 **Lösung: Mehr Proteine und Fette und weniger Kohlenhydrate.**
+
+## Glukose
+
+= Zucker aus Kohlenhydraten.
+
+Glukose darf nicht lange im Blut bleiben und wird deshalb schnell durch Insulin in Muskeln und Leber gespeichert, direkt verbrannt oder als Fett gespeichert. Solange Glukose im Blut ist, wird kein Fett abgebaut.
+
+Je mehr Glukose in meinem Blut ist, desto mehr Insolin wird produziert.
+
+### Links
+
+- [Obesity & Diabetes Explained: The Overflow Phenomenon](https://www.youtube.com/watch?v=xlfZvnV4v50)
 
 ## Ketose
 
@@ -179,6 +205,11 @@ Für ca. zwei Tage Kalorien auf Erhalt erhöhen. Dadurch erholt sich der Körper
 
 Ist relevant, wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal).
 
+## Tools
+
+- [MyFitnessPal](https://www.myfitnesspal.com/) - Ernährungs-Tracker
+- [MyFoodData](https://www.myfooddata.com/) - Free Tools to Understand What You Eat
+
 ## Fehler
 
 ### Nur auf Kaloriendichte optimiert
@@ -249,6 +280,7 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - [The Macro Calculator](https://rippedbody.com/macro-calculator/)
 - [Eat this much](https://www.eatthismuch.com/)
 - [The Smartest Way To Get Lean In 2021](https://www.youtube.com/watch?v=d8V9ZaSq9Oc&feature=share)
+- [Carb-Loaded: A Culture Dying to Eat](https://www.youtube.com/watch?v=lBb5TFxj1S0)
 
 ## Zitate
 

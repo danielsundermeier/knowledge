@@ -41,6 +41,22 @@ Zeit in der Natur verbringen
 
 - [The EASIEST Way To Fix Low Back Pain](https://www.youtube.com/watch?v=BqL-_eOiOKw)
 
+## Schultern
+
+- [How To Unf*ck Your Shoulders In 10 Minutes](https://www.youtube.com/watch?v=UE0ktBkeo64)
+
+## Diabetes
+
+Mit einer kohlenhydratarmen Ernährung heilbar?
+
+### Links
+
+- [Obesity & Diabetes Explained: The Overflow Phenomenon](https://www.youtube.com/watch?v=xlfZvnV4v50)
+
+## Depression
+
+> "Conclusions and Relevance  A layperson-delivered, empathy-oriented telephone call program reduced loneliness, depression, and anxiety compared with the control group and improved the general mental health of participants within 4 weeks. Future research can determine whether effects on depression and anxiety can be extended to maximize clinical relevance." - [Bottom line: pick up your phone today, and call a friend.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2776786)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

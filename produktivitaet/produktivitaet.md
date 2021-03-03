@@ -20,7 +20,7 @@
 - Wenn ich mich gestresst fühle -> 1 Minute Meditieren / durchatmen
 
 - Alles, was ich tue dokumentieren
-- Wenn ich es das Nächste Mal mache, Dokumentation aufrufen
+- Wenn ich es das nächste Mal mache, Dokumentation aufrufen
 - Dokumentation / Abläufe jedes Mal verbessern
 planung- Automatisieren
 - Autonomes System erstellen

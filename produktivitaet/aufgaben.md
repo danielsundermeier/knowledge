@@ -89,6 +89,7 @@ Mittelfristig in [LifeOS](https://github.com/LifeOS-HQ/lifeos)
 - Fälligkeiten zur Tagesplanung
 
 #### Tags
+
 - gruppieren einzelner Aufgaben
 - Pro Aufgabe nur ein Tag
 

@@ -15,6 +15,8 @@ Wenn man ein fantastisches Produkt hat, machen die Käufer die Werbung.
 
 Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen. Ab 6-10 Personen pro Team wird es schwieriger sich abzustimmen. Verschiedene Teams suchen die beste Lösung für ein Problem und "treten gegeneinander an".
 
+[So](./starten.md) würde ich eine Firma aufbauen
+
 ## Regeln
 
 ![](./business_rules_james_clear.jpg)

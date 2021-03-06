@@ -31,6 +31,17 @@ System: Jeden Monat per Sparplan Anteile kaufen
 Ziel: X kg abnehmen
 System: Jeden Tag an Ernährungs- und Trainingsplan halten
 
+## Lösungen
+
+Für die meisten "normalen" Probleme gibt es einfache Lösungen. Ich stehe mir nur selbst im Weg. Es fällt mir schwer meine eigenen Fehler zu erkennen. Deshalb ist die offensichtliche Lösung für mich oft nicht so klar zu erkennen. Ich wundere mich oft, wie lange ich gebraucht habe um auf die einfachsten Lösungen zu kommen. Vieles wirkt im Nachhinein trivial.
+
+Es fällt anderen oft viel leichter diese Lösungen zu erkennen. Es ist daher ratsam meine Probleme mit anderen zu diskutieren, um eine andere Sichtweise zu bekommen.  
+Es hilft auch darüber zu schreiben.
+
+Eine weitere Schwierigkeit sind meine Präferenzen. Manchmal möchte ich die beste Lösung nicht, weil sie mir nicht gefällt oder ich kein Interesse daran habe.
+
+Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind ein Vermögen aufzubauen. Ich möchte mich aber nicht damit auseinandersetzen.
+
 ## Tools
 
 - [untools](https://untools.co/)

@@ -10,6 +10,8 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 -> kürzere Wege
 => glücklichere Menschen
 
+> "Wir müssen realisieren, dass Stadt und Land den Schlüssel zur Zukunft darstellen: die Stadt als vornehmlicher Wohnort für den Menschen, das Land als vor allem der Natur vorbehaltener Bereich – und damit das wirkliche Land. Klimaschutz hängt von der Balance zwischen Stadt und Land ab. Das Eigenheim in der Vorortsiedlung ist der Ort, der diese Balance immer weiter aus dem Gleichgewicht bringt." - [Zurück in die Stadt!](https://www.zeit.de/wirtschaft/2021-02/einfamilienhaeuser-klimaschutz-debatte-eigenheim-gruene-stadt-land/seite-2)
+
 ## Notizen
 
 - Blumen & Pflanzen werten jeden Raum auf!

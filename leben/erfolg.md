@@ -1,5 +1,7 @@
 # Erfolg
 
+Ich glaube, dass jeder alles erreichen kann, wenn man bereit ist die erforderlichen Opfer zu bringen.
+
 ## 1. Gesundheit 
 
 - [Schlaf](./gesundheit/schlaf.md)

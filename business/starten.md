@@ -1,5 +1,7 @@
 # Starten
 
+Ich möchte nur Produkte vermarkten, die ich selbst nutze.
+
 ## Klein starten
 
 Kleine Teams können in kurzer Zeit viel erreichen. Es gibt keinen Wasserkopf und keine Bürokratie. Entscheidungen können schnell, unkompliziert und flexibel getroffen und auch umgesetzt werden.

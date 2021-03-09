@@ -189,8 +189,8 @@ Mit einem HIIT Training verbrenne ich zwar sehr viel mehr Kalorien, ich brauche 
 
 Nicht hungrig einkaufen gehen.
 
-Ich kaufe nur das ein, was in meinem Ernährungsplan steht. So muss ich einem Plan folgen und kann nicht abweichen.
-Oft habe ich nicht wirklich Hunger sonder esse aus Langeweile oder ähnlichem. Das verhindere ich so auch. Wenn ich wirklich Hunger habe, kann ich immer noch einkaufen fahren. Den Aufwand ist es mir aber meist nicht wert.
+Ich kaufe nur das ein, was in meinem Ernährungsplan steht. So muss ich meinem Plan folgen und kann nicht abweichen.
+Oft habe ich nicht wirklich Hunger sondern esse aus Langeweile oder ähnlichem. Das verhindere ich so auch. Wenn ich wirklich Hunger habe, kann ich immer noch einkaufen fahren. Den Aufwand ist es mir aber meist nicht wert.
 
 ## Intervallfasten
 
@@ -238,28 +238,6 @@ Es ist keine langfristige Lösung.
 Es gibt keine Möglichkeit abzunehmen, ohne etwas zu leiden. 
 
 Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
-
-## Abnehmen
-
-- Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt, dann erst erhöhen
-- Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
-- täglich morgens wiegen
-
-Der Körper passt sich dem Defizit an und verbraucht weniger Energie. Deshalb muss ich das Defizit anpassen, wenn ich eine Woche nicht weiter abnehme.
-
-Nachdem ich genug abgenommen habe, erhöhe ich die Kalorien langsam um 50 - 100 kcal / Tag pro Woche, damit sich mein Körper langsam daran gewöhnen kann.
-Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im Defizit war.
-
-- [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
-- [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)
-
-## Zunehmen
-
-- Kalorienüberschuss von ca. 250 kcal, bis man nicht mehr zunimmt ,dann erst erhöhen
-- Progressive overload -> immer steigern, damit der Muskel einen anreiz zum Wachsen hat
-- täglich morgens wiegen
-
-[How To Get Big Explained In 8.5 Minutes](https://www.youtube.com/watch?v=wqDRJFZk2GM)
 
 ## Erfahrungen
 

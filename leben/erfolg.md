@@ -2,6 +2,8 @@
 
 Ich glaube, dass jeder alles erreichen kann, wenn man bereit ist die erforderlichen Opfer zu bringen.
 
+Es ist okay Fehler zu machen, solange ich daraus lerne.
+
 ## 1. Gesundheit 
 
 - [Schlaf](./gesundheit/schlaf.md)

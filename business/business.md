@@ -103,6 +103,11 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [The 70% Rule](https://taylorpearson.me/fast/)
 - [EntepreNERD](https://www.jackkinsella.ie/books/entreprenerd/marketing_for_programmers) - Marketing for programmers 
 - [The Math That Explains How to Get Rich with Websites](https://fourpillarfreedom.com/website-math/)
+- [How do I build something people want?](https://justinjackson.ca/build)
+- [Why You Should Share Your Ideas Online](https://stewfortier.com/why-you-should-share-your-ideas-online)
+- [Referral program Loom](https://twitter.com/_shahedk/status/1367532457075957761)
+- [The easiest way to make $9,000 every month.](https://twitter.com/ImSamThompson/status/1367557220469211144)
+- [landing page examples](https://twitter.com/mrsharma/status/1367301523710103557)
 
 ### Blogs
 

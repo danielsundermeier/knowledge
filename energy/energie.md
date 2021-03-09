@@ -46,3 +46,7 @@
 ## Biogas
 
 - [Biologische Methanisierung](https://www.youtube.com/watch?v=escqKaSqLmQ)
+
+## Wasserkraft
+
+- [Micro Hydropower: Turbulent Turbines](https://www.youtube.com/watch?v=4fiqXGkaomw)

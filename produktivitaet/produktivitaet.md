@@ -96,3 +96,4 @@ for anyone who is interested in time management and productivity
 - [How to Stop Procrastinating](https://www.youtube.com/watch?v=km4pOGd_lHw&feature=share)
 - [How to GET STUFF DONE When You Don’t Feel Like It!](https://www.youtube.com/watch?v=GuYUlIDFDO0)
 - [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
+- [How to Stop Feeling Anxious About Starting Something New](https://www.youtube.com/watch?v=ueES9WiG72U)

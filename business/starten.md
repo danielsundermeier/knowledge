@@ -57,7 +57,7 @@ Außerdem kann man schon Kundenstimmen für den Launch sammlen und auf der Landi
 
 Frühe Kunden haben eine höhere Bindung an das Produkt, weil sie es "mit aufgebaut" haben.
 
-## Lanch
+## Launch
 
 Wenn man das Feedback der ersten Kunden in das Produkt integriert hat, kann man das Produkt offiziell veröffentlichen.
 

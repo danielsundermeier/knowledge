@@ -15,7 +15,7 @@
 - Man überbaut Solaranlagen, Windkraftanlagen und Batterien
 - Durch die stetig sinkenden Preise von regenerativen Energien wird sie das in naher Zukunft (fast) überall rechnen
 - Das Stromnetz kann man anschließend weiter ausbauen
-- ICh glaube wir brauchen ein neues EEG, um private Investitionen in Erneuerbare Energien zu fördern
+- Ich glaube wir brauchen ein neues EEG, um private Investitionen in Erneuerbare Energien zu fördern
 - Jedes Haus sollte:
     + eigenen Energiebedarf decken
     + Energie speichern
@@ -50,3 +50,7 @@
 ## Wasserkraft
 
 - [Micro Hydropower: Turbulent Turbines](https://www.youtube.com/watch?v=4fiqXGkaomw)
+
+## Wärmepumpen
+
+- [Is Geothermal Heating and Cooling Worth the Cost? Heat Pumps Explained](https://www.youtube.com/watch?v=PI45yUhUWgk)

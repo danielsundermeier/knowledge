@@ -71,6 +71,10 @@ trait Unguarded
 
 - [Tracking model attribute changes in Laravel](https://www.amitmerchant.com/tracking-model-attribute-laravel/)
 
+## Routes
+
+- [Handy RegEx Constraints in Laravel Routes](https://pineco.de/handy-regex-constraints-in-laravel-routes/)
+
 ## NULL Object Pattern
 
 ### Relationships

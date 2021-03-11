@@ -89,7 +89,7 @@
 In Australien ist die Universität kostenlos. Wenn man einen Job gefunden hat und mehr als $52.000 verdient, bezahlt man eine zusätzliche Steuer, um die Kosten für die Ausbildung zurückzuzahlen.  
 Ich halte das für eine gute Lösung
 
-[The tudent Debt Crisis](https://www.youtube.com/watch?v=Rqv0nuP4OAU&t=660s)
+[The Student Debt Crisis](https://www.youtube.com/watch?v=Rqv0nuP4OAU&t=660s)
 
 ### Universal Basic Income
 
@@ -102,7 +102,9 @@ Ich halte das für eine gute Lösung
 
 #### Sparkonto
 
-- Staat zahlt X (ca. 500€ ?) € pro Monat bis Mindestbetrag erreicht / einmalig Geld auf Konto
+- Staat zahlt X (ca. 500€ ?) € pro Monat bis 
+    + Mindestbetrag erreicht oder 
+    + einmalig Geld auf Konto
 - Man kann sich selbst ein Gehalt zahlen
 - Vorlagen
     + [Betterment](https://www.betterment.com/investing/) als Vorlage 

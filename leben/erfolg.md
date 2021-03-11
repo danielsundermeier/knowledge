@@ -51,7 +51,3 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - Mehr profitieren
 
 -> Zufriedenheit
-
-## Zitate
-
-> "Make it clear what you want — ask for that raise, ask her out, go for what you want with somebody. Stop hiding your intentions. You would get rejected more often but you would also start getting what you want." - [How can I stop being ordinary and start being extra-ordinary?](https://qr.ae/pNLDwq)

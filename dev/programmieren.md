@@ -47,6 +47,7 @@
 ## Dokumentation
 
 - [Documentation Guide](https://www.writethedocs.org/guide/index.html)
+- [Write self-deprecating comments](https://thepugautomatic.com/2021/02/write-self-deprecating-comments/)
 
 ## Naming
 

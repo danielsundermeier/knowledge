@@ -123,7 +123,8 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [If you had to start from the bottom with zero capital, what strategy would you use to get wealthy?](https://qr.ae/pNxaIB)
 - [The Margin Loan: How to Make a $400,000 Impulse Purchase](https://www.mrmoneymustache.com/2021/01/29/margin-loan-ibkr-review/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)
 - [How to make wealth](http://paulgraham.com/wealth.html)
-- [When Everyone’s a Genius](https://www.collaborativefund.com/blog/speculation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
+- [When Everyone’s a Genius](https://www.collaborativefund.com/blog/speculation/?utm_source=feedburner&utm_maedium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
+- [Investing: The Greatest Show On Earth](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
 
 ## Videos
 

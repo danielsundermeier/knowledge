@@ -22,7 +22,7 @@ Die drei Bereich sind:
 
 Es geht immer darum Daten zu sammeln, auszuwerten und zu verarbeiten. 
 
-Es sollen immer mehr Aufgaben automatsiert werden, damit die Menschen sich um die wichtigen Dinge kümmern können.
+Es sollen immer mehr Aufgaben automatsiert werden, damit sich die Menschen um die wichtigen Dinge kümmern können.
 
 ## Persönlich
 
@@ -97,7 +97,7 @@ Ergebnisse, Ziele
 
 Verwaltung für das Dorf/die Gemeinschaft.
 
-Soll sich zu Genossenschaften im Bereich [Energie](./energie) und [Wohnen](./wohnen.md) entwicklen, aber auch alle anderen Verwaltungsaufgaben abdecken.
+Soll sich zu Genossenschaften im Bereich [Energie](./energie.md) und [Wohnen](./wohnen.md) entwicklen, aber auch alle anderen Verwaltungsaufgaben abdecken.
 
 ### Technik
 

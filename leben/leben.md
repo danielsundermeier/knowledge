@@ -274,3 +274,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [The Machine - A Thought Experiment That Changes Your Life](https://www.youtube.com/watch?v=3DhNjtLivdg)
 - [Darwin, Munger, & More: “Seeking Wisdom” by Peter Bevelin (Book Summary)](https://www.sloww.co/seeking-wisdom-peter-bevelin/)
 - [Burnout, Variety and Crop Rotation](https://theescapeartist.me/2021/02/19/burnout-variety-and-crop-rotation/)
+- [Fear: The Battle between Life and death](https://thegamifiedlife.net/2021/02/07/fear-the-battle-between-life-and-death/)

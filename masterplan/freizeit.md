@@ -41,3 +41,5 @@ Es soll viele Angebote in und um den Gebäuden geben.
 - Restaurants
 - Kinos
 - ...
+
+[Zur Übersicht](./masterplan.md)

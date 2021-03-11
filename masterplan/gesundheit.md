@@ -27,3 +27,5 @@ Ganzheitliche Betreuung:
 - Psychotherapie
 - Training
 - Ärztegespräche
+
+[Zur Übersicht](./masterplan.md)

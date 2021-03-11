@@ -27,9 +27,9 @@ Ziel: Produzenten sollen von jedem Schritt profitieren und gleichzeitig die Vort
 
 Einzelne Unternehmen schließen sich zu Genossenschaften zusammen, um größere Projekte zu verwirklichen und von der ganzen Wertschöpfungkette zu profitieren.
 
-Bäcker -> Mühle
-Milchproduzenten -> Molkerei
-Nahrungsmittelproduzenten -> Handelsgesellschaft
+- Bäcker -> Mühle
+- Milchproduzenten -> Molkerei
+- mNahrungsmittelproduzenten -> Handelsgesellschaft
 
 ### Gemeinschaft
 

@@ -8,7 +8,7 @@ Die Produktion soll regenerativ sein und zum Wohl aller beitragen.
 - Permakultur
 - Regenerative Landwirtschaft
 
-Anstatt sich zu spezialisieren sollen viele verschiedene Produkte produziert werden, um Synergieeffekte zwischen den Lebewesen zu nutzen und ihre Besonderheiten beachtet werden.
+Anstatt sich zu spezialisieren sollen viele verschiedene [Produkte](./produktion.md) produziert werden, um Synergieeffekte zwischen den Lebewesen zu nutzen und ihre Besonderheiten beachtet werden.
 
 - Sicherheit durch Diversifikation
 

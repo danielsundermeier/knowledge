@@ -2,15 +2,13 @@
 
 Ziel: Versorgung mit lokaler, saisonaler und gesunder Nahrung, die regnererativ produziert wurde.
 
-Die Landwirtschaft soll in die Gemeinschaft integriert werden und ihre Produkte direkt an die Anwohner verkaufen.
+Die [Landwirtschaft](../landwirtschaft/landwirtschaft.md) soll in die Gemeinschaft integriert werden und ihre Produkte direkt an die Anwohner verkaufen.
 
 Dabei wird hohen Wert auf die Qualität und Produktionsmethoden gelegt (Permakultur, regenerative Landwirtschaft)
 
 Im Zentrum gibt es einen Waldgarten und den Gemüseanbau. Das Naherholungsgebiet wird als Weide und Wald genutzt, indem Tiere gehalten werden.
 
 Weiter außerhalb sind dann die Getreidefelder.
-
-[So stelle ich mir das vor](../leben/gesellschaft/landwirtschaft.md)
 
 Es soll einen Lieferdienst geben, der alle mit allen Mahlzeiten des Tages versorgt. Der Ernährungsplan wird zusammen mit dem [Gesundheitszentrum](./gesundheit.md) erarbeitet.
 

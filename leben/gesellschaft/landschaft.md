@@ -21,6 +21,12 @@ Die Gebäude sollen zentriert sein, um eine Dichte zu schaffen, die es erlaubt d
 - [Walkable City](https://www.goodreads.com/book/show/13538794-walkable-city)
 - [Strong Towns](https://www.goodreads.com/book/show/44142112-strong-towns)
 
+### Links
+
+- [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw)
+- [4 ways to make a city more walkable | Jeff Speck](https://www.youtube.com/watch?v=6cL5Nud8d7w)
+- [The Houses that Can't be Built in America - The Missing Middle](https://www.youtube.com/watch?v=CCOdQsZa15o)
+
 ## Gebäude
 
 Es werden Gebäude für die Mehrfachnutzung errichtet. Im Erdgeschoss befinden sich Gewerbe, in den Obergeschossen werden Wohnungen gebaut. 

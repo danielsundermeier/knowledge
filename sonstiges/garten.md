@@ -1,5 +1,13 @@
 # Garten
 
+## Bäume
+
+- [Grüner Garten Shop](https://www.gruener-garten-shop.de/)
+
+## Bewässerung
+
+- [CS Bewässerungssysteme GmbH](https://cs-wss.com)
+
 ## Wein
 
 ### Schneiden

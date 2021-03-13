@@ -25,7 +25,7 @@
 - Starten, indem ich mir mit Kommentaren selbst erkläre, was passieren soll
 - Mehrere kleine Funktionen, die erklären, was passiert
 - Lieber mehr Funktionen als konfigurierbare Funktionen
-- Code schreiben, der für Menschen einfachzu verstehen ist, anstatt für Computer gut zu lesen
+- Code schreiben, der für Menschen einfach zu verstehen ist, anstatt für Computer gut zu lesen
 
 ### Links 
 

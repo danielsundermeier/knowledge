@@ -64,3 +64,5 @@ great life, you just need to put together a string of enough great days. While e
 > "Nothing too good or too bad stays that way forever, because great times plant the seeds of their own destruction through complacency and leverage, and bad times plant the seeds of their own turnaround through opportunity and panic-driven problem-solving." - [The Big Lessons From History](https://www.collaborativefund.com/blog/the-big-lessons-from-history/)
 
 > "the long run is usually pretty good and the short run is usually pretty bad" - [The Big Lessons From History](https://www.collaborativefund.com/blog/the-big-lessons-from-history/)
+
+> "Humans are not built for a life of ease." - [My Generation Isn’t Suffering Enough](https://quillette.com/2021/02/28/my-generation-isnt-suffering-enough/)

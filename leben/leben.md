@@ -56,7 +56,8 @@ Dann setzte ich mir ein Ziel und erstelle ein System, um es zu erreichen.
 Dafür überlege ich mir konkrete Schritte, die ich täglich ausführen kann und wie ich sie in meine [Struktur](./struktur.md) integrieren kann. 
 
 Beispiele: 
-- feste Trainingszeiten 
+
+- Feste Trainingszeiten 
 - Ernährungsplan erstellen
 
 Ich lege auch fest, was ich tue, wenn Probleme auftauchen (Wenn A, dann B).

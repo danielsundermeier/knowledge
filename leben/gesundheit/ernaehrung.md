@@ -153,6 +153,10 @@ Zu beachten ist, dass die Werte teilweise sehr ungenau sind. Die Werte sind aber
 
 Ich versuche jeden Tag ähnlich viele Kalorien zu essen und zu verbrauchen. Durch die Waage bekomme ich ein Feedback und kann entsprechende Änderungen vornehmen.
 
+### Links 
+
+- [Should You Bulk Or Cut?](https://www.youtube.com/watch?v=GUQXo1sIhhw)
+
 ### Waage
 
 Ich wiege mich jeden Morgen direkt nach dem Aufstehen (nüchtern). Ich nutze eine Waage mit App, damit ich den Verlauf auf meinem Handy sehen kann.

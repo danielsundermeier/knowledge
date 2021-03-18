@@ -1,5 +1,19 @@
 # Uberspace
 
+## PHP
+
+### Error Log
+
+```
+tail -f /home/$USER/logs/error_log_php
+```
+
+```
+uberspace web log php_error enable
+uberspace web log php_error status
+uberspace web log php_error disable
+```
+
 ## Dateisystem
 
 ### Sym Link
@@ -85,8 +99,6 @@ Symlink erstellen
 ```
 ln -s /var/www/virtual/$USER/html/lifeos/public /var/www/virtual/$USER/lifeos.serienguide.tv
 ```
-
-
 
 ## Mails
 

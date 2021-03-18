@@ -31,6 +31,17 @@ Zeit in der Natur verbringen
 - [Longevity FAQ](https://www.ldeming.com/longevityfaq/)
 - [The Long Game](https://mehdiyacoubi.substack.com)
 
+## Testosteron
+
+### Steigern
+
+- genügend Schlaf
+- gesunde Ernährung
+- Muskeln aufbauen
+- Köperfettanteil von 12-15% (Männer)
+
+[How To Raise Testosterone Naturally](https://www.youtube.com/watch?v=Aiongz9ahek)
+
 ## Tests
 
 - [Lykon](https://shop.lykon.de/products/myhealth-fitness)

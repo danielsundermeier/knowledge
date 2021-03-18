@@ -42,6 +42,7 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 ## Isolierung
 
 - [Glass-Bubble-Technik](https://www.swr.de/wissen/deutscher-zukunftspreis-glass-bubble-daemmung-100.html)
+- [Retrofitting to Passive House standards](https://www.youtube.com/watch?v=wN34zF7e4J8)
 
 ## Videos
 

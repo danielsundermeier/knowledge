@@ -7,19 +7,21 @@
 ## Allgemein
 
 Stress vermeiden
-    • Der Körper kann nicht mehr entspannen
-    • Keine selbst Reparatur 
-    • Immunsystem wird zurückgefahren
+- Der Körper kann nicht mehr entspannen
+- Keine selbst Reparatur 
+- Immunsystem wird zurückgefahren
 Zeit in der Natur verbringen 
-    • Senkt Stress 
-    • Boosts nk Cells
-    • Ohne Ablenkung (Musik, Handy, …)
+- Senkt Stress 
+- Boosts nk Cells
+- Ohne Ablenkung (Musik, Handy, …)
 
 ## Atmen
 
 - Durch die Nase 
 - in den Bauch atmen
 - Länger ausatmen als einatmen
+
+[How to Breathe Correctly](https://www.marksdailyapple.com/how-to-breathe-correctly/)
 
 ## Meditation
 

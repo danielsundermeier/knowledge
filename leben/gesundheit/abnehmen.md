@@ -7,7 +7,7 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 
 ## Vorbereiten 
 
-- Grundumsatz herausfinden: Kalorienrechner 
+- Grundumsatz herausfinden: [Kalorienrechner](https://fitness-experts.de/kalorienrechner)
     + Sehr ungenau: als Startpunkt wählen und anpassen
     + Eine Woche testen, dann anpassen
 - Waage anschaffen

@@ -29,6 +29,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 ### Links
 
 - [How I Started a $400,000 Side Business in 1 Month (for Free)](https://www.youtube.com/watch?v=NblHMZbYg-o)
+- [Best Book On Doing Online Business](https://cortes.site/best-book-on-doing-online-business/)
 
 ## Preise
 

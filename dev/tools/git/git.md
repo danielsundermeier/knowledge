@@ -18,6 +18,8 @@
 - [Getting The Most Out Of Git](https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/)
 - [Commitizen](https://github.com/commitizen-tools/commitizen) - define a standard way of committing rules and communicating it
 - [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
+- [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+- [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes?utm_source=tldrnewsletter)
 
 ## Renaming (casesensitive)
 

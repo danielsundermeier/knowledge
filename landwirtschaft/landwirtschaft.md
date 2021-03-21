@@ -31,3 +31,43 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - [Polyface Farm](https://www.polyfacefarms.com/)
 - [Richard Perkins](https://www.youtube.com/user/mrintegralpermanence)
 - [Gabe Brown](http://brownsranch.us/soil-health/)
+
+## Umsetzung
+
+### Obstwiese
+
+Obstwiese mit Weideflächen für Weidehähnchen und Kaninchen
+
+### Garten
+
+- Marktgarten
+- Hühner zur Kompostproduktion
+- Gewächshaus
+    + Sommer: Gemüse
+    + Winter: Stall
+
+### Teich
+
+- Fische 
+- Enten
+
+### Weide
+
+- Tagesweide
+- Rinder / Kühe (1. Tag)
+- Schafe (2. Tag)
+- Hühner (4. Tag)
+
+Das selbe Stück Land wird nacheinander von mehreren Tierarten genutzt. Sie ergänzen sich dabei gegenseitig.
+
+### Wald
+
+- Nüsse, Buchen, Eicheln, Kastanien (Nutzholz + Futter für Tiere)
+- Schweinehaltung
+
+### Kreislaufwirtschaft
+
+- Unverkauftes als Futter verwenden, anststt es zu entsorgen
+    + Brot / Brötchen
+    + Obst / Gemüse
+- Grünschnittannahme zur Hackschnitzelproduktion -> Kompost

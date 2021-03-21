@@ -21,3 +21,7 @@
 ## SEO
 
 - [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+
+## htaccess
+
+- [Ultimate Htaccess Examples](https://evolt.org/ultimate_htaccess_examples)

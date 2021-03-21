@@ -17,6 +17,8 @@ Ich denke ein All World ETF reicht.
 
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 
+![how often the market generates a position return based on holding period](https://www.collaborativefund.com/uploads/Screen%20Shot%202021-03-18%20at%203.06.45%20PM.png)
+
 ## Gründe gegen ETFs
 
 Bis jetzt sind mir noch keine guten Gründe eingefallen.

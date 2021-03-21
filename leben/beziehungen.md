@@ -10,6 +10,7 @@
 - Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
 - Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
 - Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist
+- Über alles reden; keine Konflikte ignorieren
 
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 

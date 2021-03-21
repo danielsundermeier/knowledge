@@ -145,6 +145,9 @@ Der Beste in etwas zu werden ist extem schwierig -> Sehr wenige Menschen spielen
 
 Wenn ich 3 oder mehr meiner Fähigkeiten und Talente kombinieren kann, kann ich mit dieser Kombination zu den Besten in der Welt gehören.
 
+Je besser ich in Aktivitäten werde, desto mehr Spaß machen sie. Ich habe es besonders beim Sport gemerkt.
+Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beides eine Zeit sehr intensiv gemacht habe, hat es auf einmal Spaß gemacht. Als ich angefangen habe gute Zeiten zu laufen oder zu schwimmen, war ich motivert mich weiter zu verbessern. Es zeigt mir, dass es Spaß machen kann etwas zu meistern, auch wenn es am Anfang nicht so aussieht.
+
 ### Talent Stack
 
 Fähigkeiten:

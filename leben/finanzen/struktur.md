@@ -154,3 +154,8 @@ Ich kann so gezielt jeden Monat eine bestimmte Summe pro Sparziel überweisen.
 ### Übersicht
 
 ![Übersicht](./finanzen-flow.png)
+
+## Partner
+
+- Zusammen ein Konto für laufende Ausgaben (Miete, Lebensmittel, ...)
+- Jeder hat noch ein eigenes Konto zum Ausgeben / investieren

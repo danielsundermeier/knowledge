@@ -96,3 +96,7 @@ Jeden Tag wiegen, um festzustellen, ob die Ernährung und das Training funktioni
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)
 - [How to Make Decisions](https://effectiviology.com/how-to-make-decisions/)
+
+## Links
+
+- [THE GREAT MENTAL MODELS by Shane Parrish | Core Message](https://www.youtube.com/watch?v=LOMkBihsWZw)

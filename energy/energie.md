@@ -43,6 +43,10 @@
 - [The Best Electricity Plan: Overbuild Solar & Wind Power Plants](https://cleantechnica.com/2020/09/07/the-best-electricity-plan-overbuild-solar-wind-power-plants/)
 - [The future of electricity is local](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
 
+## Wind
+
+- [Bladeless Wind Ernergy](https://vortexbladeless.com/)
+
 ## Biogas
 
 - [Biologische Methanisierung](https://www.youtube.com/watch?v=escqKaSqLmQ)

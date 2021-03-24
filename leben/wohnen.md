@@ -61,3 +61,4 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [Streetmix](https://streetmix.net/-/1302457)
 - [A City is not a Tree](https://twitter.com/NajlaAlariefy/status/1315329838559965191)
 - [Reclaiming City Spaces With “Tactical Urbanism”](https://www.youtube.com/watch?v=waiI9EQTdaw)
+- [32 Subscribers & Other Urbanist Channels You Should Be Watching](https://www.youtube.com/watch?v=qSW5xy_kg9E)

@@ -152,6 +152,7 @@ Ich kann mich dann entweder auf ein sehr erfolgreiches Projekt konzentrieren ode
 - [Life is About Finding Fulfilling Work, Not Saving Up Enough Money to Never Work Again](https://collectingwisdom.com/life-is-about-finding-fulfilling-work-not-saving-up-enough-money-to-never-work-again/)
 - [How To Hack The Stock Market](https://bankeronfire.com/hack-the-stock-market)
 - [Why You Should Plant a (Symbolic) Garden For Early Retirement](https://minafi.com/garden)
+- [The 2021 Early-Retirement Update](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
 
 ## Videos
 

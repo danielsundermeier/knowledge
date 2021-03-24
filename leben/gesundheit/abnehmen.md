@@ -37,6 +37,7 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - Bei höherem Defizit werden Muskel abgebaut
 - Kaloriendefizit von ca. 250 kcal, bis man nicht mehr abnimmt, dann erst erhöhen
 - Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
+- Defizit durch Reduktion von Kohlenhydraten, Fette und Protein konstant halten (oder erhöhen)
 
 ## Spazieren gehen
 

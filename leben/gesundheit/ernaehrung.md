@@ -101,6 +101,8 @@ Leptin wird von Insulin blockiert und verhindert so das Sättigungsgefühl.
 
 [Ghrelin](https://de.wikipedia.org/wiki/Ghrelin) ist das Hungerhormon.
 
+- [Alles, was du über das Hungerhormon wissen musst!](https://www.team-andro.com/ghrelin-alles-was-du-ueber-das-hungerhormon-wissen-musst.html)
+
 ### Insulin
 
 [Insulin](https://de.wikipedia.org/wiki/Insulin) transportiert Glukose (Zucker) aus dem Blut in die Zellen.

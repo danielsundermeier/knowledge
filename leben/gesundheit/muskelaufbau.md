@@ -34,6 +34,10 @@ Beispiel: 14, 12, 8
 -> ausprobieren, was funktioniert
 Gewichte pro Satz anpassen
 
+### Links
+
+- [Die 10 Regeln der progressiven Belastungssteigerung](https://aesirsports.de/progressive-overload-10-regeln-progressive-belastungssteigerung/)
+
 ## Plateau
 
 - Magnetische Minigewichte: 0,25kg bis 2kg

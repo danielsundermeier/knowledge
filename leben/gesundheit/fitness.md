@@ -39,3 +39,4 @@ Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die H
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)
 - [Darebee](https://darebee.com/)
+- [Breiter, schlanker, stärker: besser aussehen als Mann](https://fitness-experts.de/maenner)

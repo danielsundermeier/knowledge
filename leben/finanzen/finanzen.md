@@ -24,6 +24,10 @@ Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert 
 Ich weiß nicht genau wieso, aber ich halte 10.000.000 Euro für eine Grenze.
 Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, ohne je über Geld nachdenken zu müssen.
 
+#### Links
+
+- [5 Steps to Embrace Lifestyle Deflation Without Deprivation](https://minafi.com/lifestyle-deflation)
+
 ### Wohltätigkeit
 
 Was mache ich dann, mit dem "zu viel"?
@@ -33,7 +37,7 @@ Ich halte Spenden nicht für den richtigen Weg, weil so eine Abhängigkeit entst
 Stattdessen kann ich das Geld dazu nutzen meine Umgebung zu verbessern und den Menschen um mich herum helfen sich selbst zu helfen.
 Indem ich selbst Firmen gründe und Mitarbeiter anstelle und/oder andere dabei unterstütze auf eigenen Beinen zu stehen.
 
-Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, weil sind sie dadurch unabhängig und nachhaltig sind. 
+Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, weil sie dadurch unabhängig und nachhaltig sind. 
 
 ### Investment
 

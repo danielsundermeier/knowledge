@@ -18,6 +18,10 @@ nano /usr/local/etc/php/7.4/php.ini
 - [How to Build and Autoload Your Own PHP Package Locally](https://mattstauffer.com/blog/how-to-build-and-autoload-your-own-php-package-locally/)
 - [PHP Package Development](https://phppackagedevelopment.com/)
 
+## Tests
+
+- [Unit testing tips by examples in PHP](https://github.com/sarven/unit-testing-tips)
+
 ## Links
 
 - [Object Oriented Done Right](https://front-line-php.com/object-oriented)

@@ -84,6 +84,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Things To Do When You’re Bored](https://www.tripofalifestyle.com/perspective/what-to-do-when-youre-bored/)
 - [Sean’s Content Creation Flywheel](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2020%2Fseans-content-creation-flywheel%2F)
 - [6 Things The Most Productive People Do Every Day](https://www.bakadesuyo.com/2020/11/productive-people/)
+- [Productivity advice](https://www.spakhm.com/p/productivity-advice) -> "Do the work"
 
 ### Blogs
 

@@ -51,3 +51,4 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 ## Artikel
 - [The Math That Explains Why Net Worth Goes Crazy After the First $100k](https://fourpillarfreedom.com/the-math-behind-why-net-worth-goes-crazy-after-the-first-100k/)
 - [Too Much, Too Soon, Too Fast](https://www.collaborativefund.com/blog/too-much-too-soon-too-fast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
+- [Beware of the Bubble](https://www.mrmoneymustache.com/2021/03/26/beware-of-the-bubble/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+%28Mr.+Money+Mustache%29)

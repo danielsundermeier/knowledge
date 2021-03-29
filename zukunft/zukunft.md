@@ -8,6 +8,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Oceanix](https://oceanix.org/)
 - [Manna](http://marshallbrain.com/manna1.htm)
 - [Imagining Elon Musk's Million-Person Mars Colony](http://marshallbrain.com/mars.htm)
+- [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
 
 ## Podcasts
 

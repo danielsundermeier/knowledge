@@ -13,6 +13,7 @@
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [Lookup Design](https://lookup.design/) - Find Design Examples
 - [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+- [Permission.site](https://permission.site/) - Simple site to test permission-related UI for web APIs.
 
 ## Tests
 

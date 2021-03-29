@@ -42,3 +42,4 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
 - [How to have a difficult conversation](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
 - [Pygmalion-Effekt](https://www.businessinsider.de/wissenschaft/pygmalion-effekt-dieser-psychologische-trick-foerdert-hoechstleistungen-a/?utm_source=pocket-newtab-global-de-DE) - Ein Mensch verhält sich so, wie wir es von ihm erwarten
 - [People will follow your lead](https://qr.ae/pNBKTw)
+- [Beziehungstipps](https://twitter.com/butchanarchy/status/1375833141647044610)

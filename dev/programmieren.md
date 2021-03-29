@@ -89,3 +89,4 @@ video course](https://mailcoach.app/videos)
 ## Links
 
 - [Online communities](https://twitter.com/jsjoeio/status/1276911919845310465)
+- [How to Beat Coder's Block](https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/)

@@ -108,6 +108,8 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussieren. Er schreibt jeden Morgen vier Stunden lang SEO optimierte Artikel und verdient damit sehr viel Geld. Das ist die eine Sache die für ihn funktioniert.
 - [https://fourpillarfreedom.com/my-2020-annual-review/](https://fourpillarfreedom.com/my-2020-annual-review/)
 
+Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gemacht.
+
 ## Hierachrie
 
 - Building a life
@@ -280,3 +282,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Burnout, Variety and Crop Rotation](https://theescapeartist.me/2021/02/19/burnout-variety-and-crop-rotation/)
 - [Fear: The Battle between Life and death](https://thegamifiedlife.net/2021/02/07/fear-the-battle-between-life-and-death/)
 - [A Systems Approach to Lifestyle Design](https://www.sloww.co/early-retirement-extreme/)
+- [My life philosophy](https://www.getrichslowly.org/my-life-philosophy/)

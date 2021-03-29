@@ -79,6 +79,10 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 > The brain is no place for serious thinking. If you're thinking about something important and complicated, write it down.
 – Jack Altman
 
+> "1. Write an essay. 
+> 2. Explain to a friend what you said in it.
+> 3. Go back and rewrite it to say what you just said to your friend." - [Paul Graham](https://twitter.com/paulg/status/1376139287314493447)
+
 ## Kurse
 
 - [Blogging for Devs](https://bloggingfordevs.com/)

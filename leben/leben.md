@@ -283,3 +283,5 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Fear: The Battle between Life and death](https://thegamifiedlife.net/2021/02/07/fear-the-battle-between-life-and-death/)
 - [A Systems Approach to Lifestyle Design](https://www.sloww.co/early-retirement-extreme/)
 - [My life philosophy](https://www.getrichslowly.org/my-life-philosophy/)
+- [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
+- [Staying Positive](https://avc.com/2021/03/staying-positive/)

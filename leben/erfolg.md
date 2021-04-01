@@ -51,3 +51,7 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - Mehr profitieren
 
 -> Zufriedenheit
+
+## Zitate
+
+> "The focus should be on the insistence of excellence, both from yourself and from those around you."- [The Great Asshole Fallacy](https://500ish.com/the-great-asshole-fallacy-82e108a755c7)

@@ -285,3 +285,5 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [My life philosophy](https://www.getrichslowly.org/my-life-philosophy/)
 - [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
 - [Staying Positive](https://avc.com/2021/03/staying-positive/)
+- [Mental models from Tobi Lutke](https://twitter.com/george__mack/status/1262509016992960512)
+- [How Doctors Die](https://www.thehappymd.com/blog/bid/295228/How-Doctors-Die)

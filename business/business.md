@@ -110,6 +110,7 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [The easiest way to make $9,000 every month.](https://twitter.com/ImSamThompson/status/1367557220469211144)
 - [landing page examples](https://twitter.com/mrsharma/status/1367301523710103557)
 - [This Is the Secret to Business and Artistic Success](https://ryanholiday.net/secret-to-success/)
+- [Ideas are just a multiplier of execution](https://sive.rs/multiply)
 
 ### Blogs
 

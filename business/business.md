@@ -111,6 +111,7 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [landing page examples](https://twitter.com/mrsharma/status/1367301523710103557)
 - [This Is the Secret to Business and Artistic Success](https://ryanholiday.net/secret-to-success/)
 - [Ideas are just a multiplier of execution](https://sive.rs/multiply)
+- [Honesty](https://stitcher.io/blog/honesty)
 
 ### Blogs
 

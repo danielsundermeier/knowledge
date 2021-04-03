@@ -17,6 +17,10 @@ Die Ergebnisse sollen veröffentlich und geteilt werden, damit alle davon profit
 
 Jeder kann die Produkte selbst kostenlos produzieren und nutzen.
 
-Wenn jemand die Produkte verkaufen möchte ist eine Lizenzgebühr fällig. So kann man die Forschung finanieren.
+Wenn jemand die Produkte verkaufen möchte ist eine Lizenzgebühr fällig. So kann man die Forschung finanzieren.
+
+## Links
+
+- [Fast Funding for COVID-19 Science](https://fastgrants.org/)
 
 [Zur Übersicht](./masterplan.md)

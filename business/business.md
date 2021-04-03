@@ -75,6 +75,7 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [A Bootstrapped SaaS Journey to 10K MRR](https://www.bannerbear.com/journey-to-10k-mrr/)
 - [Building a business from a bedroom](https://www.mrdbourke.com/running-a-business-from-a-bedroom-11-months-in/)
 - [A solo journey to 100k](https://draculatheme.com/pro/journey)
+- [How a Czech DJ Built a 3D Printing Empire](https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/)
 
 ## Links
 

@@ -266,6 +266,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [The Smartest Way To Get Lean In 2021](https://www.youtube.com/watch?v=d8V9ZaSq9Oc&feature=share)
 - [Carb-Loaded: A Culture Dying to Eat](https://www.youtube.com/watch?v=lBb5TFxj1S0)
 - [/r/Nutrition Wiki - Suggested Reading](https://www.reddit.com/r/nutrition/wiki/books)
+- [Anthropologist Debunks the Paleo Diet](https://www.youtube.com/watch?v=FNIoKmMq6cs)
 
 ## Zitate
 

@@ -63,6 +63,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How to write like the great entrepreneurs](https://venturehacks.com/writing)
 - [Close the Gap – A CYC Writing Community](https://www.craftyourcontent.com/community/)
 - [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)
+- [How to get started on the internet](https://twitter.com/simonsarris/status/1378023590503849986)
 
 ## Static Site Generator
 

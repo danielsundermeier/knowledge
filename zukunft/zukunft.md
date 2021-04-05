@@ -9,6 +9,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Manna](http://marshallbrain.com/manna1.htm)
 - [Imagining Elon Musk's Million-Person Mars Colony](http://marshallbrain.com/mars.htm)
 - [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
+- [What Does a Solarpunk Future Look Like?](https://www.freethink.com/articles/solarpunk)
 
 ## Podcasts
 

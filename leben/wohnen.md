@@ -47,6 +47,9 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)
+- [Reclaiming City Spaces With “Tactical Urbanism”](https://www.youtube.com/watch?v=waiI9EQTdaw)
+- [32 Subscribers & Other Urbanist Channels You Should Be Watching](https://www.youtube.com/watch?v=qSW5xy_kg9E)
+- [The Suburban Wasteland](https://www.youtube.com/watch?v=4c6rIt0fe7w&list=PLamwye612GauJGF1_Q4hEaIvaml8QyLSp)
 
 ## Artikel
 
@@ -60,6 +63,4 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [Cover](https://buildcover.com/) - Custom Backyard Homes
 - [Streetmix](https://streetmix.net/-/1302457)
 - [A City is not a Tree](https://twitter.com/NajlaAlariefy/status/1315329838559965191)
-- [Reclaiming City Spaces With “Tactical Urbanism”](https://www.youtube.com/watch?v=waiI9EQTdaw)
-- [32 Subscribers & Other Urbanist Channels You Should Be Watching](https://www.youtube.com/watch?v=qSW5xy_kg9E)
-- [The Suburban Wasteland](https://www.youtube.com/watch?v=4c6rIt0fe7w&list=PLamwye612GauJGF1_Q4hEaIvaml8QyLSp)
+- [Are Ancient City Grids Still the Best Way to Build?](https://www.freethink.com/videos/city-grids)

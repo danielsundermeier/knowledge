@@ -32,6 +32,7 @@
         - [Libraries](/dev/php/libraries.md)
         - [Php](/dev/php/php.md)
         - [Phpunit](/dev/php/phpunit.md)
+        - [Serialize](/dev/php/serialize.md)
         - [Zip](/dev/php/zip.md)
     - [Programmieren](/dev/programmieren.md)
     - [Regular-expressions](/dev/regular-expressions.md)

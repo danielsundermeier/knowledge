@@ -166,6 +166,7 @@ Fähigkeiten:
 ### Links
 
 - [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+- [Self-Knowledge](https://markmanson.net/downloads/self-knowledge)
 
 ## Supernormal stimulus
 
@@ -185,6 +186,7 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Supernormal stimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus)
 - [Supernormal Stimuli: Your Brain On Porn, Junk Food, and the Internet](https://lifehacker.com/supernormal-stimuli-is-your-brain-built-for-porn-junk-1575846913)
 - [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)
+- [Pornography Can Ruin Your Sex Life](https://markmanson.net/pornography-can-ruin-your-sex-life)
 
 ## Gewohnheiten
 

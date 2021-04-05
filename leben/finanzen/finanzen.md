@@ -28,6 +28,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 
 - [5 Steps to Embrace Lifestyle Deflation Without Deprivation](https://minafi.com/lifestyle-deflation)
 - [Not wanting something is as good as having it](https://theescapeartist.me/2021/03/29/not-wanting-something-is-as-good-as-having-it/)
+- [The Minimalist Entrepreneur](https://renenauheimer.substack.com/p/the-minimalist-entrepreneur)
 
 ### Wohltätigkeit
 
@@ -62,6 +63,10 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 
 - [Minimalismus](../minimalismus.md): Was brauche ich wirklich?
 
+## Vermögen
+
+- [How to make Wealth](http://www.paulgraham.com/wealth.html)
+
 ## Sonstiges
 
 ### Rechnungen 
@@ -90,3 +95,4 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [How to Profit from a Recession](https://www.youtube.com/watch?v=mRHBrJziE-Y&t=503s)
 - [Joe Rogan on Wage Gap Arguments](https://www.youtube.com/watch?v=HSvLnlX-VG4&feature=share)
 - [Morgan Housel | How To Become Wealthy, Stay Wealthy & Be Happy](https://www.youtube.com/watch?v=YJe0sfEYCrg)
+- [STOP Chasing Money -- Chase WEALTH](https://www.youtube.com/watch?v=7Hdu4DlnLIk)

@@ -43,6 +43,10 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 
 - Zusätzlich Kalorien ohne große Anstrengung verbrauchen
 
+### Links
+
+- [How Much Walk To Get UNDER 10% Body Fat](https://www.youtube.com/watch?v=rjQ2YLJ8q9Y)
+
 ## Makro Nährstoffe: 
 - 50% Kohlenhydrate, 25 Proteine, 25 Fette
 - Fette und Protein sättigen
@@ -67,3 +71,4 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 
 - [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
 - [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)
+- [How Long Should You Diet To Get A Six-Pack?](https://www.youtube.com/watch?v=tcOzVXOgxpc)

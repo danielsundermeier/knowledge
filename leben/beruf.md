@@ -12,3 +12,4 @@
 - [Our new guide to doing good with your career](https://80000hours.org/key-ideas/)
 - [Work on what matters](https://staffeng.com/guides/work-on-what-matters)
 - [4 Strategies To Find The Work Only You Can Do ](https://taylorpearson.me/thework/)
+- [How to Do What You Love](http://www.paulgraham.com/love.html)

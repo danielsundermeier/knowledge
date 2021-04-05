@@ -61,3 +61,8 @@ Es ist wichtig etwas zu tun, dass ich selbst für sinnvoll halte und dafür Aner
 
 Ich halte es für wichtig Dinge zu produzieren anstatt nur zu konsumieren.
 Dabei ist es egal, ob ich Möbel baue, Texte schreibe oder mich künstlerisch Betätige. Hauptsache ich mache etwas. Das Ziel muss auch nicht sein etwas zu verkaufen. Es geht um die Freude während ich es tue.
+
+## Links
+
+- [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)
+- [Happiness](https://markmanson.net/downloads/happiness)

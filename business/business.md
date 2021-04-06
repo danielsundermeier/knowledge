@@ -66,6 +66,8 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 
 ## Inspiration
 
+- [Mid-Year Review](https://perell.com/essay/mid-year-review/)
+
 ### Produkte
 
 - [Marvin](https://amazingmarvin.com/pricing) - Fokus auf User und großartiges Produkt (Pricing Questions)

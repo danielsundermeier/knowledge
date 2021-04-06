@@ -35,6 +35,12 @@ Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die H
 
 - [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
 
+## Ausrüstung
+
+- [Tonal](https://www.tonal.com/) - THE SMARTEST HOME GYM
+- [Tempo](https://tempo.fit/) - AI-Powered Home Gym
+- [Forme Life](https://formelife.com/the-tech) - The Most LifeLike Experience in Home Fitness
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

@@ -269,6 +269,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [Anthropologist Debunks the Paleo Diet](https://www.youtube.com/watch?v=FNIoKmMq6cs)
 - [Why does Japan eat so many Raw Eggs?](https://www.youtube.com/watch?v=cjrxXC3kGf4)
 - [The Obesity Epidemic, Explained (2020)](https://www.youtube.com/watch?v=q8BGYhreaco)
+- [The Fitness Wiki](https://thefitness.wiki/improving-your-diet/)
 
 ## Zitate
 

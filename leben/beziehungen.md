@@ -46,3 +46,4 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
 - [3 Simple Explanations for Why You’re Still Single](https://www.youtube.com/watch?v=464ax0cJO0s)
 - [Evolutionary biology underpins game](https://theredquest.wordpress.com/2017/07/30/evolutionary-biology-underpins-game/)
 - [Chicks want you to make the first move, so do it](https://theredquest.wordpress.com/2021/04/03/chicks-want-you-to-make-the-first-move-so-do-it/)
+- [Why Relationships and Dating Can Be So Hard](https://markmanson.net/why-dating-is-so-hard)

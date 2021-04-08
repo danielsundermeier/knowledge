@@ -289,3 +289,5 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Staying Positive](https://avc.com/2021/03/staying-positive/)
 - [Mental models from Tobi Lutke](https://twitter.com/george__mack/status/1262509016992960512)
 - [How Doctors Die](https://www.thehappymd.com/blog/bid/295228/How-Doctors-Die)
+- [Adulting Fast and Slow](https://perell.com/essay/adulting-fast-and-slow/)
+- [The Prime Belief](https://markmanson.net/the-prime-belief)

@@ -270,6 +270,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [Why does Japan eat so many Raw Eggs?](https://www.youtube.com/watch?v=cjrxXC3kGf4)
 - [The Obesity Epidemic, Explained (2020)](https://www.youtube.com/watch?v=q8BGYhreaco)
 - [The Fitness Wiki](https://thefitness.wiki/improving-your-diet/)
+- [Tailor-Made Nutrition](https://www.t-nation.com/diet-fat-loss/tailor-made-nutrition-3)
 
 ## Zitate
 

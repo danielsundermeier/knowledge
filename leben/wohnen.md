@@ -50,6 +50,7 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [Reclaiming City Spaces With “Tactical Urbanism”](https://www.youtube.com/watch?v=waiI9EQTdaw)
 - [32 Subscribers & Other Urbanist Channels You Should Be Watching](https://www.youtube.com/watch?v=qSW5xy_kg9E)
 - [The Suburban Wasteland](https://www.youtube.com/watch?v=4c6rIt0fe7w&list=PLamwye612GauJGF1_Q4hEaIvaml8QyLSp)
+- [James Howard Kunstler seziert die amerikanischen Vorstädte](https://www.youtube.com/watch?v=Q1ZeXnmDZMQ)
 
 ## Artikel
 

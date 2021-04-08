@@ -25,11 +25,14 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 - Gelerntes Veröffentlichen (Blog, Videos, ...)
 - Kostenlos Mehrwert liefern
+- Am Anfang sehr enges Themengebiet, dann langsam ausweiten
 
 ### Links
 
 - [How I Started a $400,000 Side Business in 1 Month (for Free)](https://www.youtube.com/watch?v=NblHMZbYg-o)
 - [Best Book On Doing Online Business](https://cortes.site/best-book-on-doing-online-business/)
+- [How to Crush it on Twitter](https://www.youtube.com/watch?v=P5d6zm3YbqM)
+- [Audience-First Products](https://perell.com/essay/audience-first-products/)
 
 ## Preise
 
@@ -122,6 +125,9 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [This Is the Secret to Business and Artistic Success](https://ryanholiday.net/secret-to-success/)
 - [Ideas are just a multiplier of execution](https://sive.rs/multiply)
 - [Honesty](https://stitcher.io/blog/honesty)
+- [My Principles of Company Building](https://perell.com/essay/principles-of-company-building/)
+- [Create additional revenue streams](https://twitter.com/johndsaunders/status/1379390180445065219)
+- [Do things that don't scale](http://paulgraham.com/ds.html)
 
 ### Blogs
 

@@ -26,3 +26,5 @@ How to Be Happier Without Really Trying](https://www.bakadesuyo.com/2021/03/happ
 ## Links
 
 - [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
+- [Psychological Facts That Will Blow Your Mind! - Rory Sutherland](https://www.youtube.com/watch?v=fuoDzMmoN2o)
+- [6 Tips to Change Negative Thinking](https://www.verywellmind.com/how-to-change-negative-thinking-3024843)

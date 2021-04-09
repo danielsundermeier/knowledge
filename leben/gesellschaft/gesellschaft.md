@@ -138,5 +138,12 @@ Ich halte das für eine gute Lösung
 
 - [Holacracy](https://www.holacracy.org/)
 - [P2P Foundation](https://p2pfoundation.net/)
-- [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [Future Thinkers Smart Village](https://futurethinkers.org/village/)
+
+## Regierung
+
+### E-Government
+
+- [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
+- [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
+

@@ -85,6 +85,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - [Sean’s Content Creation Flywheel](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2020%2Fseans-content-creation-flywheel%2F)
 - [6 Things The Most Productive People Do Every Day](https://www.bakadesuyo.com/2020/11/productive-people/)
 - [Productivity advice](https://www.spakhm.com/p/productivity-advice) -> "Do the work"
+- [My 3x3x3x3x3x3x3 or 3^7 System for Quarterly Goal Achieving](https://www.reddit.com/r/productivity/comments/mmqtmg/my_3x3x3x3x3x3x3_or_37_system_for_quarterly_goal/)
 
 ### Blogs
 

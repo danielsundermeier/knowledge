@@ -51,3 +51,4 @@ Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind 
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)
 - [Rediscovering and Using Ancient Ideas: Part 1](https://www.danstern.co/posts/rediscovering-and-using-ancient-ideas)
 - [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
+- [Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)

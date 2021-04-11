@@ -2,27 +2,9 @@
 
 ![Produktionsdiagramm](./produktionsdiagramm.png)
 
-## Garten
+- [Kompost](./kompost.md)
 
-- [Chicken Tractor on steroids](https://www.discoverpermaculture.com/FertileCompost)
-
-## Kompostieren
-
-### Insekten
-
-- [Ynsect](http://www.ynsect.com/en/)
-
-#### Soldatenfliege
-
-
-
-#### Würmer
-
-- [Vermicompost - A Living Soil Amendment](http://cwmi.css.cornell.edu/vermicompost.htm)
-
-
-### Pilze
-
+## Pilze
 
 ## Produktion
 
@@ -50,6 +32,10 @@
 
 - [Permakultur Scheuerhof](https://www.permakultur-scheuerhof.de/)
 - [Gut & Bösel](https://www.gutundboesel.org/)
+
+## Insekten
+
+- [Ynsect](http://www.ynsect.com/en/)
 
 ## Werkzeuge
 

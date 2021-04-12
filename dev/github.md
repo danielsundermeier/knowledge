@@ -36,3 +36,30 @@
 
 - [Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)
 
+## Config
+
+### Deploy Key
+
+```
+ssh-keygen -t rsa -b 4096 -C "{email}"
+cat .ssh/id_rsa.pub
+
+ssh -T git@github.com
+```
+
+.git/config:
+```
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = git@github.com:user/repo.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+```
+
+[Using Github Deploy Key](https://gist.github.com/zhujunsan/a0becf82ade50ed06115)

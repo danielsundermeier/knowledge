@@ -34,3 +34,7 @@ Ein unwirtschaftliches Unternehmen darf nicht gerettet werden. Es werden neue, b
 ## Privatisierung
 
 Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherungen, nicht privatisieren sollte.
+
+## Inflation
+
+- [Hyperinflation is Already Here – You Just Haven't Realised It Yet.](https://www.youtube.com/watch?v=1HmGLV46L60)

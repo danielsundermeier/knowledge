@@ -275,6 +275,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [The Obesity Epidemic, Explained (2020)](https://www.youtube.com/watch?v=q8BGYhreaco)
 - [The Fitness Wiki](https://thefitness.wiki/improving-your-diet/)
 - [Tailor-Made Nutrition](https://www.t-nation.com/diet-fat-loss/tailor-made-nutrition-3)
+- [What I've Learned About Nutrition Over The Past 10 Years](https://www.youtube.com/watch?v=rVzbLGxzOV0)
 
 ## Zitate
 

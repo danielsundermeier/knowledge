@@ -32,7 +32,27 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 
 - Wenn ich ein Projekt pausiere, den Nächsten Schritt aufschreiben -> Ich weiß direkt was zu tun ist, wenn ich weitermachen möchte
 
+## Motivation
+
+### Extrinsisch
+
+Ziele aufgrund von externen Faktoren (z.B. Geld, Preise, gute Noten) erreichen
+
+### Intrinsisch
+
+Ziele ihretwegen erreichen
+
+Vorraussetzungen:
+- Selbstbestimmt (Ziel selbst festgelegt)
+- verbesserte Kompetenz (etwas Neues lernen, Besser werden)
+
+### Links
+
+- [Building intrinsic motivation](https://nesslabs.com/intrinsic-motivation-3)
+
 ## Flow
+
+Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 
 ### Trigger
 
@@ -40,7 +60,11 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - Novelty
 - Complexity
 - Unpredictapility
-- Pattern recognition 
+- Pattern recognition
+
+### Links 
+
+- [Flow](https://de.wikipedia.org/wiki/Flow_(Psychologie))
 
 ## Prokrastination
 
@@ -53,7 +77,9 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - Wenn ich keine Lösung habe, spazieren gehen/duschen/... -> Ablenken (den Kopf entspannen), um eine Lösung zu finden: focus mode -> diffuse mode
 - Künstliche Deadlines erzeugen; Arbeit dauert immer so lange, wie man Zeit hat 
 
-- [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU&t=293s)
+- [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU)
+
+> "The only thing that works is to start the work." - [Solo developer, what's your recipe to start working?](https://news.ycombinator.com/item?id=26747318)
 
 ## Zitate
 

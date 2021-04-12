@@ -5,6 +5,14 @@
 - "Schlechteste" Nachbarschaft zuerst verbessern
 -> größter Nutzen für Einsatz (größtes Potential etwas zu verändern)
 
+## Experimente
+
+Ich denke wir sollten viel mehr kleine, lokale Experimente durchführen und die ERgebnisse veröffentlicht werden. Dann kann sich jede Gemeinschfaft das Beste heraussuchen. 
+
+Was spricht dagegen 1.000 verschiedene Anbaumethoden, Schulsysteme, Finanzsysteme, Ernährungen, Lebensstile, ... im kleinen Stil auszuprobieren. Man kann so extrem viel lernen und das Beste aus allen Systemen übernehmen. Dafür sollte alles veröffentlich werden und ein intensiver Austausch zwischen den Experimenten stattfinden.
+
+So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie haben viele Alternativen und können sich das Aussuchen, was ihnen am Besten gefällt und es an ihre Ansprüche anpassen.
+
 ## Gesundheit
 
 - Fundament des Lebens

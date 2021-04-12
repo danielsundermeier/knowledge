@@ -47,3 +47,4 @@ Ich nutze OneNote auch für mein Tagebuch. Ich erstelle ein Notizbuch pro Jahr e
 ## Links
 
 - [The Human Log](https://neilkakkar.com/the-human-log.html)
+- [90 journaling prompts to spark new personal insights](https://nesslabs.com/journaling-prompts)

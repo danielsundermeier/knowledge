@@ -15,7 +15,6 @@ Wie verbinge ich aktuell meinen Tag?
 Wie sieht mein perfekter Tag aus?
 Was muss ich unbedingt machen (ob ich will oder nicht)?
 
-
 ## Planen
 
 Wie komme ich von meinem aktuellen Tag zu meinem perfekten Tag?
@@ -42,9 +41,16 @@ Pflichten und unbeliebte Aktivitäten so effizient wie möglich gestalten. Wenn 
 - Friseur
 - Aufräumen
 
+## Prioritäten
+
+- Dinge tun, dich ich wirklich tun möchte
+- Weniger Dinge tun
+- Zuerst tun, was mir wichtig ist
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)
 - [Three priorities to rule them all](https://cityfrugal.com/three-priorities-to-rule-them-all/)
 - [Routine, Discipline, and the 1996 NBA Draft](https://cityfrugal.com/routine/)
 - [The Entrepreneur’s Daily Ritual](https://taylorpearson.me/dailyritual/)
+- [Time management: do the things you actually want to do](https://nesslabs.com/time-management)

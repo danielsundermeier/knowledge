@@ -49,6 +49,8 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 ### Links
 
 - [The Beginner’s Guide to Deliberate Practice](https://jamesclear.com/beginners-guide-deliberate-practice)
+- [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/2021/04/deliberate-practice-guide/)
+- [The science of deliberate practice](https://nesslabs.com/deliberate-practice)
 
 ## Links
 

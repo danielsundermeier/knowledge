@@ -23,6 +23,11 @@
 [
 How to Be Happier Without Really Trying](https://www.bakadesuyo.com/2021/03/happier-without-really-trying/)
 
+### Links
+
+- [Your Two Minds](https://markmanson.net/your-two-minds)
+- [Radiant vs Vacuous Self-Talk](https://www.youtube.com/watch?v=d8UlBlPtAE0)
+
 ## Links
 
 - [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)

@@ -34,6 +34,12 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [How to Crush it on Twitter](https://www.youtube.com/watch?v=P5d6zm3YbqM)
 - [Audience-First Products](https://perell.com/essay/audience-first-products/)
 
+## Nutzer
+
+Nutzer so lange wie möglich individuell betreuen. Besonders am Anfang ist es sinnvoll die Nutzer abzuholen, ihnen alles zu zeigen und Feedback zu bekommen. 
+
+Ich möchte eine Beziehung zu meinen Nutzern aufbauen und gemeinsam ein besseres Produkt entwickeln.
+
 ## Preise
 
 Die Preise für enge Freunde sehr gering halten (Selbstkosten?), die Freunde meiner Freunde zahlen etwas mehr, deren Freunde zahlen den vollen Preis.

@@ -54,6 +54,7 @@ Ich bin zu meinem Budget gekommen, indem ich meine Ausgaben über mehrere Monate
 #### Verluste sind schlimmer als gleichhohe Gewinne gut sind
 
 Es ist schlimmer 100 € zu verlieren als 100 € zu bekommen gut ist.
+([Verlustaversion](https://de.wikipedia.org/wiki/Verlustaversion))
 
 Mit einem Taschengeldkonto habe ich jeden Monat neues Geld und kann es komplett ausgeben.
 

@@ -22,6 +22,9 @@ Die meisten Orte sollen zu Fuß erreicht werden können. Dafür ist eine gewisse
 
 Mehrere dieser Gebäude sollen in einem "engen" Bereich zusammen entstehen. Dadurch lohnt es sich dort Supermärkte und ähnliches zu errichten. Je mehr Bewohner, desto mehr Möglichkeiten gibt es.
 
+![](https://www.regenvillages.com/img/rv_birdeye.jpg)  
+[REGENVILLAGES](https://www.regenvillages.com/)
+
 Der so gewonnene Platz soll als Erholungsgebiet und für die Landwirtschaft genutzt werden, in dem Wälder, Seen und ähnliches angelegt werden. Es soll viel Natur entstehen.
 
 ![](https://inteng-storage.s3.amazonaws.com/img/iea/1L6o1Qg1OP/sizes/aerial-view-1-the-big-picture_resize_md.jpg)  

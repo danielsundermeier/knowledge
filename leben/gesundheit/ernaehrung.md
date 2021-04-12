@@ -203,6 +203,10 @@ Oft habe ich nicht wirklich Hunger sondern esse aus Langeweile oder ähnlichem. 
 Ich esse alle meine Mahlzeiten in acht Stunden und faste dann für 16 Stunden.
 Durch das Fasten wird die Regeneration meines Körpers aktiviert.
 
+### Links
+
+- [DIE 5 PHASEN DES INTERVALLFASTENS](https://lifeapps.io/de/brain-de/the-5-stages-of-intermittent-fasting/)
+
 ## Diet Break
 
 Für ca. zwei Tage Kalorien auf Erhalt erhöhen. Dadurch erholt sich der Körper und man kann mit der Diät weiter machen. In der Regel nehme ich trotzdem weiter ab.

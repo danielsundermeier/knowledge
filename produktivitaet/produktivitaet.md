@@ -126,3 +126,4 @@ for anyone who is interested in time management and productivity
 - [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
 - [How to Stop Feeling Anxious About Starting Something New](https://www.youtube.com/watch?v=ueES9WiG72U)
 - [Use the 10/90 Rule to Help Find Focus, Save Time, and Get More Done](https://www.youtube.com/watch?v=FiZnDqaiIYU)
+- [The Secret to Getting Ahead in Life](https://www.youtube.com/watch?v=XbUr8Dx2yjU)

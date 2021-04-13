@@ -293,3 +293,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [The Prime Belief](https://markmanson.net/the-prime-belief)
 - [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness
 - [Personal values: how knowing yourself can guide your actions](https://nesslabs.com/personal-values)
+- [How do you make people wish to be a part of your life?](https://qr.ae/pGTle6)

@@ -13,7 +13,7 @@ Ziel: Erforschen, wie sich das Leben verbessern lässt
 
 ## Open Source
 
-Die Ergebnisse sollen veröffentlich und geteilt werden, damit alle davon profitieren können.
+Alle Ergebnisse, auch die Messwerte, sollen veröffentlich und geteilt werden, damit alle davon profitieren können.
 
 Jeder kann die Produkte selbst kostenlos produzieren und nutzen.
 

@@ -12,11 +12,22 @@
 - Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist
 - Über alles reden; keine Konflikte ignorieren
 
+
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 
 > There are no mistakes when learning. See setbacks as opportunities of personal growth and expansion. - Monk who sold his ferrari
 
 > We all want to get people interested in us. But it rarely happens. Dale Carnegie in this book says that the best way to get people interested in you is by getting completely interested in them, such importance will make them feel special and they will get more interested in you. - how to win friends and influence people
+
+## Kennenlernen
+
+Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.
+
+Ich schaffe das, indem ich Fragen stelle. Ich möchte in jedes Gespräch mit der Einstellung gehen, dass ich etwas von der anderen Person lernen kann.
+
+### Links
+
+- [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 
 ## Polarisieren
 
@@ -34,7 +45,6 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
 - [Paird](https://www.getpaired.com/) - 10 minutes a day to a better relationship
-- [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 - [Beginner's Guide to Arguing Constructively](http://liamrosen.com/arguments.html)
 - [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
 - [How to Talk to Hot Girls (or anyone) Better](https://www.mrdbourke.com/how-to-talk-to-hot-girls-or-anyone-better/)

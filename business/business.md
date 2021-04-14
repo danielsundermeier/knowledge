@@ -134,6 +134,8 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - [My Principles of Company Building](https://perell.com/essay/principles-of-company-building/)
 - [Create additional revenue streams](https://twitter.com/johndsaunders/status/1379390180445065219)
 - [Do things that don't scale](http://paulgraham.com/ds.html)
+- [What I learned from Jeff Bezos's 23 years of Amazon shareholder letters](https://twitter.com/sumitgrrg/status/1381227286238666752)+
+- [The idea validation method Stripe uses for building new products](https://www.indiehackers.com/post/the-idea-validation-method-stripe-uses-for-building-new-products-8d4ce7747e)
 
 ### Blogs
 

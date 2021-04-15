@@ -84,6 +84,8 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [howtopedia](http://www.howtopedia.org/)
 - [Daemons and the Mindful Learning Curve](https://www.tempobook.com/2011/08/17/daemons-and-the-mindful-learning-curve/)
 - [Why Trying to Be Perfect Won’t Help You Achieve Your Goals](https://jamesclear.com/repetitions)
+- [How to learn anything with the Feynman Technique](https://nesslabs.com/feynman-technique)
+- [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 
 ## Spaced Repetition
 

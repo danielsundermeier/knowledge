@@ -34,6 +34,13 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 
 ## Motivation
 
+Um motiviert zu sein muss ich
+- Wissen wo ich stehe
+- ein Ziel haben
+- Wissen, wie ich dieses Ziel erreichen kann
+
+Motivation kommt, nachdem ich angefange etwas zu tun.
+
 ### Extrinsisch
 
 Ziele aufgrund von externen Faktoren (z.B. Geld, Preise, gute Noten) erreichen
@@ -49,6 +56,7 @@ Vorraussetzungen:
 ### Links
 
 - [Building intrinsic motivation](https://nesslabs.com/intrinsic-motivation-3)
+- [The Truth About Infinite Motivation](https://www.youtube.com/watch?v=uFAlRKjexSg)
 
 ## Flow
 
@@ -112,6 +120,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [6 Things The Most Productive People Do Every Day](https://www.bakadesuyo.com/2020/11/productive-people/)
 - [Productivity advice](https://www.spakhm.com/p/productivity-advice) -> "Do the work"
 - [My 3x3x3x3x3x3x3 or 3^7 System for Quarterly Goal Achieving](https://www.reddit.com/r/productivity/comments/mmqtmg/my_3x3x3x3x3x3x3_or_37_system_for_quarterly_goal/)
+- [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
 ### Blogs
 

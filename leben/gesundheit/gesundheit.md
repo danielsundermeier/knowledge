@@ -55,6 +55,7 @@ Zeit in der Natur verbringen
 - [Apple Health OS](https://divinations.substack.com/p/healthos)
 - [Health Coaching and Stress Management](https://chriskresser.com/health-coaching-and-stress-management/)
 - [The Lanby](https://www.thelanby.com/) - A primary care members club in New York City
+- [This Is How To Have A Long Awesome Life](https://www.bakadesuyo.com/2021/04/exercise/)
 
 ## Videos
 

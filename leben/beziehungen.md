@@ -25,6 +25,8 @@ Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. E
 
 Ich schaffe das, indem ich Fragen stelle. Ich möchte in jedes Gespräch mit der Einstellung gehen, dass ich etwas von der anderen Person lernen kann.
 
+- Mögliche Gesprächsthemen anbieten (dich mich interessieren), auf die der Gesprächspartner eingehen kann.
+
 ### Links
 
 - [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)

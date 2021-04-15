@@ -41,51 +41,6 @@ Meine beste Version werden.
 
 - Von einem stabilen Fundament Neues ausprobieren
 
-## Verbesserung
-
-Ich versuche mein Leben immer weiter zu verbessern. Dafür beschäftige ich mich zu jeder Zeit immer nur mit einer Sache. Wenn ich alles auf einmal ändern möchte, übernehme ich mich schnell und ich falle in alte Muster zurück.
-
-Ich überlege mir, was ich in einem Bereich verbessern möchte, oder was mir nicht gefällt. Dann suche ich gezielt nach Lösungen. 
-- Lesen, Videos, Podcasts
-- Vorbilder suchen (Wer hat erreicht, was ich möchte)
-- Gründe für Unzufriedenheit herausfinden
-
-Wenn ich einen Überblick habe, was ich machen kann, fange ich an verschiedene Lösungen umzusetzen und auszuprobieren. Am Anfang habe ich oft die Lösungen von Anderen kopiert um ein Gefühl dafür zu bekommen und anschließend an meine Situation angepasst.
-
-Dann setzte ich mir ein Ziel und erstelle ein System, um es zu erreichen.
-Dafür überlege ich mir konkrete Schritte, die ich täglich ausführen kann und wie ich sie in meine [Struktur](./struktur.md) integrieren kann. 
-
-Beispiele: 
-
-- Feste Trainingszeiten 
-- Ernährungsplan erstellen
-
-Ich lege auch fest, was ich tue, wenn Probleme auftauchen (Wenn A, dann B).
-
-Anschließend setze ich es um und versuche eine Gewohnheit daraus zu machen und den Aufwand so weit wie möglich zu reduzieren.
-
-Ich überlege mir, wie ich Widerstände abbauen und Anreize schaffen kann um das erwünschte Verhalten so einfach wie möglich zu gestalten, damit ich es auch tatsächlich immer umsetzte.
-
-In der ersten Zeit ändere ich noch viel am Ablauf. Dadurch kann ich die Gewohnheit schneller und effizienter umsetzten. Dadurch habe ich wieder mehr Zeit für andere Dinge.
-
-Ich trage auch eine Gewohnheit bei Habitica ein, damit ich daran erinnert werde und es wirklich immer mache.
-
-Irgendwann passiert das gewünschte Verhalten "automatisch". Dann kann ich mich mit dem nächsten Bereich befassen.
-
-Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
-
-### Links
-
-- [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)
-
-## Veränderung
-
-Ich kann mich selbst duch meinen Lebenstil verändern.
-
-Indem ich bestimmte Dinge tue verändert sich mein Gehirn ([Neuronale Plastizität](https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t)) und Gene werden aktiviert ([Epigenetik](https://de.wikipedia.org/wiki/Epigenetik)).
-
-Ich kann diese Veränderungen sogar vererben.
-
 ## Notizen
 
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
@@ -262,7 +217,6 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Happiness is the Only Logical Pursuit](https://www.mrmoneymustache.com/2016/06/08/happiness-is-the-only-logical-pursuit/)
 - [Some guiding principles for a good life](https://twitter.com/Kpaxs/status/1300016373482106882)
 - [How to be happy](https://twitter.com/dvassallo/status/1300306727963828226)
-- [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [My Favorite Lessons from The Algebra of Happiness](https://fourpillarfreedom.com/my-favorite-lessons-from-the-algebra-of-happiness/)
 - [You Want a Better Future. But What if You Were Already Good?](https://cityfrugal.com/better-future/)
 - [Creating Your Ideal Life, One Day at a Time](https://cityfrugal.com/creating-your-ideal-life-one-day-at-a-time/)
@@ -294,3 +248,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [How to Build a Life](https://www.theatlantic.com/projects/how-build-life/) - A column about pointing yourself toward happiness
 - [Personal values: how knowing yourself can guide your actions](https://nesslabs.com/personal-values)
 - [How do you make people wish to be a part of your life?](https://qr.ae/pGTle6)
+- [A Few Short Stories](https://www.collaborativefund.com/blog/a-few-short-stories/)

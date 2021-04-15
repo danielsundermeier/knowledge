@@ -33,6 +33,8 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Best Book On Doing Online Business](https://cortes.site/best-book-on-doing-online-business/)
 - [How to Crush it on Twitter](https://www.youtube.com/watch?v=P5d6zm3YbqM)
 - [Audience-First Products](https://perell.com/essay/audience-first-products/)
+- [21 lessons I’ve learned over 4 years that will help you get your first 10 customers](https://twitter.com/KarthikS2206/status/1379656690740568067)
+- [How to make impact on the internet](https://twitter.com/gregisenberg/status/1381588219477815296)
 
 ## Nutzer
 

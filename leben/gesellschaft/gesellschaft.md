@@ -155,3 +155,7 @@ Ich halte das für eine gute Lösung
 - [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
 
+## Links
+
+- [The National Dashboard and Human Progress](https://max2c.com/national-dashboard-and-human-progress/)
+

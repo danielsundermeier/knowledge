@@ -9,6 +9,8 @@
 - Lehrer unterstützen Schüler bei Projekten 
 - Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
 
+Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
+
 ## Fächer
 
 Zusätzlich zu den normalen Fächern 

@@ -84,6 +84,7 @@
     - [Produktion](/landwirtschaft/produktion.md)
 - [Leben](leben.md)
     - [Beruf](/leben/beruf.md)
+    - [Bestimmung](/leben/bestimmung.md)
     - [Beziehungen](/leben/beziehungen.md)
     - [Buecher](/leben/buecher.md)
     - [Entscheidungen](/leben/entscheidungen.md)

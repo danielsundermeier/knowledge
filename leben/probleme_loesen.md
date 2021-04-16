@@ -52,3 +52,4 @@ Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind 
 - [Rediscovering and Using Ancient Ideas: Part 1](https://www.danstern.co/posts/rediscovering-and-using-ancient-ideas)
 - [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
 - [Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
+- [Problems are for Fixing](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing)

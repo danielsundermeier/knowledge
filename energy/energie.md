@@ -8,6 +8,26 @@
 - [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
 - [Global100REStrategyGroup](https://global100restrategygroup.org/) - Joint declaration of the global 100% renewable energy strategy group
 
+## Lösung?
+
+- 3-5x so viel Energie (Solar & Wind) Produktion, wie nötig
+- 35-90 Stunden Speicherkapazität (Batterien)
+- kostenlose Energie an vielen Tagen im Jahr
+
+[Rethinking Energy -- 100% Solar, Wind and Batteries Is Just The Beginning](https://www.youtube.com/watch?v=PM2RxWtF4Ds)
+
+### Notizen
+
+- Am Äquator starten und dann immer weiter nach Norden und Süden
+    + Aktuell am günstigsten
+    + Kosten sinken durch hohe Nachfrage / Produktion / Kostenlosen Strom
+    -> Lohnt sich an immer mehr Orten
+- Nur noch Plus Energie Gebäude bauen
+- Alte Gebäude sanieren
+- Alles Elektrifizieren
+
+Ist es wirklich so einfach?
+
 ## Notizen
 
 - Ich glaube man muss die Energie lokal produzieren, speichern und verteilen
@@ -20,6 +40,7 @@
     + eigenen Energiebedarf decken
     + Energie speichern
     + So wenig Energie verbrauchen wie möglich
+
 
 ## Speicher
 

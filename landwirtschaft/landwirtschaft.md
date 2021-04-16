@@ -32,6 +32,15 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - [Richard Perkins](https://www.youtube.com/user/mrintegralpermanence)
 - [Gabe Brown](http://brownsranch.us/soil-health/)
 
+## Circular Agriculture
+
+![](./circular-agriculture.jpeg)
+[Universität Wageningen - Dr. Saskia Visser](https://www.youtube.com/watch?v=FS6YsibNXic)
+
+- Ackerbau nur für Menschen
+- Tierhaltung auf Weiden + Lebensmittelreste, Prozessabfälle
+- Alle Abfallstoffe zurück in den Kreislauf führen
+
 ## Umsetzung
 
 ### Obstwiese

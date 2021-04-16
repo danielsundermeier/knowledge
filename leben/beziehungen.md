@@ -59,3 +59,5 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
 - [Evolutionary biology underpins game](https://theredquest.wordpress.com/2017/07/30/evolutionary-biology-underpins-game/)
 - [Chicks want you to make the first move, so do it](https://theredquest.wordpress.com/2021/04/03/chicks-want-you-to-make-the-first-move-so-do-it/)
 - [Why Relationships and Dating Can Be So Hard](https://markmanson.net/why-dating-is-so-hard)
+- [Reward the ways you’d like to be treated](https://www.neelnanda.io/blog/reward-the-ways-youd-like-to-be-treated)
+- [How Gratitude Makes You More Attractive](https://www.youtube.com/watch?v=0423_E2Ghh8)

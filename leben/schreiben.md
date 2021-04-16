@@ -65,6 +65,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)
 - [How to get started on the internet](https://twitter.com/simonsarris/status/1378023590503849986)
 - [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
+- [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
 
 ## Static Site Generator
 

@@ -43,6 +43,21 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
 
 > "Make it clear what you want — ask for that raise, ask her out, go for what you want with somebody. Stop hiding your intentions. You would get rejected more often but you would also start getting what you want." - [How can I stop being ordinary and start being extra-ordinary?](https://qr.ae/pNLDwq)
 
+## Liebe
+
+Es gibt 6 Arten der Liebe:
+- Eros, or sexual passion
+- Philia, or deep friendship
+- Agape, or love for everyone
+- Pragma, or longstanding love
+- Philautia, or love of the self
+- Ludus, or playful love
+
+All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) ist sehr unwahrscheinlich. Stattdessen kann man sie auf unterschieldiche Menschen verteilen:
+- fester Partner
+- Familie
+- Freunde & Bekannte
+
 ## Links 
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

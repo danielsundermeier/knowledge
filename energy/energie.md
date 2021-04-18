@@ -64,6 +64,10 @@ Ist es wirklich so einfach?
 - [Lition](https://lition.de/) - Markplatz für erneuerbare Energien
 - [The Best Electricity Plan: Overbuild Solar & Wind Power Plants](https://cleantechnica.com/2020/09/07/the-best-electricity-plan-overbuild-solar-wind-power-plants/)
 - [The future of electricity is local](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
+- [#7 Solaranlage? Mach Dein Dach voll!](https://www.youtube.com/watch?v=J5avgZdX26o)
+- [Photovoltaik ohne Finanzamt](https://www.pv-magazine.de/2019/09/27/photovoltaik-ohne-finanzamt/)
+- [Solaranlage: Kosten & Wirtschaftlichkeit im Überblick](https://www.energie-experten.org/erneuerbare-energien/solarenergie/solaranlage/kosten)
+- [Agri-Photovoltaik](https://agri-pv.org/)
 
 ## Wind
 

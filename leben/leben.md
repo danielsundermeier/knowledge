@@ -205,3 +205,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Personal values: how knowing yourself can guide your actions](https://nesslabs.com/personal-values)
 - [How do you make people wish to be a part of your life?](https://qr.ae/pGTle6)
 - [A Few Short Stories](https://www.collaborativefund.com/blog/a-few-short-stories/)
+- [some things that have helped me along the way](https://twitter.com/patrick_oshag/status/1382781568343797767)

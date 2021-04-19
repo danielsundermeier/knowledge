@@ -58,6 +58,11 @@ All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) 
 - Familie
 - Freunde & Bekannte
 
+## Empathie
+
+- Sich in andere Menschen hineinversetzen, um sie besser zu verstehen
+- Durch den Einblick in die Leben anderer kann ich mich selbst besser kennenlernen
+
 ## Links 
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

@@ -79,6 +79,20 @@ Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gem
 - Besonders wenn ich müde, hungrig oder wütend bin
 - Automatisierte Systeme ausdenken (Gewohnheiten)
 
+## Selbstbewusstsein
+
+- [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)
+
+## Zeit
+
+- Wir sehen Zeit als Währung oder Besitz
+- Wir haben Angst nichts zu tun und füllen unsere Zeit mir Ablenkungen
+- Wir haben Angst, dass uns eine längere Pause die Möglichkeit gibt zu erkennen, dass unsere Leben nicht so bedeutend und erfüllend sind, wie wir es gerne hätten
+
+[The Wonderbox](https://www.goodreads.com/book/show/13380059-the-wonderbox)
+
+> "There is more to life than increasing its speed" - Ghandi
+
 ## Supernormal stimulus
 
 Es gibt von Menschen erzeugte Dinge, die stärker auf mich wirken als natürliche. Dadruch werde ich weniger empfindlich für natürliche Reize.

@@ -61,6 +61,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 
 ## Ausgaben
 
+- Bevor man etwas kauft den Preis in Arbeitstunden umrechnen und sich dann fragen, ob es das wert ist
 - [Minimalismus](../minimalismus.md): Was brauche ich wirklich?
 
 ## Vermögen

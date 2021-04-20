@@ -41,6 +41,10 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - Tierhaltung auf Weiden + Lebensmittelreste, Prozessabfälle
 - Alle Abfallstoffe zurück in den Kreislauf führen
 
+## Agroforstwirtschaft
+
+- [Wie Agroforstwirtschaft die Umwelt schützt](https://www.youtube.com/watch?v=UGx-X-b9c2Y)
+
 ## Umsetzung
 
 ### Obstwiese

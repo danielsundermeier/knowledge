@@ -72,6 +72,7 @@ Ist es wirklich so einfach?
 ## Wind
 
 - [Bladeless Wind Ernergy](https://vortexbladeless.com/)
+- [A vertical axis wind turbine without the wind](https://www.youtube.com/watch?v=gcSnwW5v3f8)
 
 ## Biogas
 

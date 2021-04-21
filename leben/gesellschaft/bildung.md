@@ -49,6 +49,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - [Tips for setting up remote lessons](https://www.3blue1brown.com/blog/livestream-setup)
 - [Mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)
 - [Our Education System in 2035](https://medium.com/postcards-from-2035/how-we-learn-in-2035-54b16c66e190)
+- [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/)
 
 ## Videos
 

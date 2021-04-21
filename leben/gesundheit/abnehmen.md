@@ -72,3 +72,4 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
 - [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)
 - [How Long Should You Diet To Get A Six-Pack?](https://www.youtube.com/watch?v=tcOzVXOgxpc)
+- [Wie viel kcal sind 1 kg Körperfett?](https://www.marathonfitness.de/wie-viel-kcal-sind-1-kg-koerperfett/)

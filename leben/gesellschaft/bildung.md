@@ -11,6 +11,33 @@
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
 
+## Projketbasiertes Lernen
+
+- Jeder Schüler / Gruppe von Schülern sollte sich selbst Projekte aussuchen, die sie erledigen wollen. Im besten Fall lösen sie ein konkretes Problem in ihrem Leben
+- Viele Handwerksberufe eignen sich für so etwas
+- Schüler bauen und versorgen ihre eigene Schule
+    + Garten
+        * Gemüse anbauen
+        * Kompost
+        * Bienen
+        * Obst
+    + Tierhaltung?
+    + Kochen
+    + Handwerk
+        * Möbel bauen
+        * Strom verlegen
+    + Erneuerbare Energien
+    + Räume gestalten
+    + Schule ausbauen?
+- Jedes Projekt ist ein Experiment und kann veröffentlich werden
+- Unternehmen gründen?
+    + Schul-Unternehmen mit besonderen Rechten
+    + Schulinterne Wirtschaft?
+        * z.B. "Verkauf" von Gemüse an Küche
+        * Zum Lernen, wie die Wirtschaft funktioniert
+        * Kein echtes Geld?
+- Durch die Masse an Experimenten/Projekten kann die Menschheit viel lernen und ausprobieren
+
 ## Fächer
 
 Zusätzlich zu den normalen Fächern 

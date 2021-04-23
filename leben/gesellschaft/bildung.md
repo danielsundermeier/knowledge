@@ -86,6 +86,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - [What if students controlled their own learning?](https://www.youtube.com/watch?v=nMxqEkg3wQ0)
 - [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
 - [Dexter: Re-inventing Education | In Depth](https://www.youtube.com/watch?v=p5zIWw4gu8c)
+- [SCHOOL: SOCIETY'S MOST BROKEN MACHINE](https://www.youtube.com/watch?v=0Qi36WcylLs)
 
 ## Spiele
 

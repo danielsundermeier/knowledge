@@ -84,3 +84,7 @@ Das selbe Stück Land wird nacheinander von mehreren Tierarten genutzt. Sie erg�
     + Brot / Brötchen
     + Obst / Gemüse
 - Grünschnittannahme zur Hackschnitzelproduktion -> Kompost
+
+## Links 
+
+- [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)

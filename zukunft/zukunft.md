@@ -10,6 +10,8 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Imagining Elon Musk's Million-Person Mars Colony](http://marshallbrain.com/mars.htm)
 - [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks)
 - [What Does a Solarpunk Future Look Like?](https://www.freethink.com/articles/solarpunk)
+- [Arcologies](https://www.youtube.com/watch?v=TqKQ94DtS54)
+- [The Naked Arcology](https://www.youtube.com/watch?v=iV3v80g9nxI&t=1818s)
 
 ## Podcasts
 

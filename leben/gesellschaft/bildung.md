@@ -4,6 +4,10 @@
 - Lernen in Computerspielen
 - Eigenes Tempo
 - Online (Videos / Livestreams) als "Hausaufgabe"
+    + Zusammengestellt von den besten Experten der Welt
+    + Sehr hohe Qualität
+    + Verschiedene Länge, für unterschiedliche Lerntypen
+    + Möglichkeiten Dinge genauer/anders zu erklären
 - Zu jeder Zeit
 - Schule / Klassenraum kann zum Nachfragen / Lernen genutzt werden
 - Lehrer unterstützen Schüler bei Projekten 

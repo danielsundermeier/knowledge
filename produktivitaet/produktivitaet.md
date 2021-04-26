@@ -89,6 +89,10 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 
 > "The only thing that works is to start the work." - [Solo developer, what's your recipe to start working?](https://news.ycombinator.com/item?id=26747318)
 
+## Langeweile
+
+- [The Riddle of Boredom](https://moretothat.com/the-riddle-of-boredom/)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

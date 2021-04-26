@@ -21,3 +21,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 
 - [locate the futurists and philosophers of the Internet](https://twitter.com/_patriciamou/status/1296654041569570819)
 - [Charter City Insitute](https://www.chartercitiesinstitute.org/)
+- [50 Breakthroughs](https://50breakthroughs.org/)

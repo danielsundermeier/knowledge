@@ -20,6 +20,25 @@
 - Brewfile von Github installieren?
 - [Brewfiles](https://brewfile.info/)
 
+### Update
+
+```
+brew upgrade && brew update
+```
+
+Fehermeldung 
+`Error: Directory not empty @ dir_s_rmdir - /usr/local/Cellar/dnsmasq/2.84`
+
+```
+sudo rm -rf /usr/local/Cellar/dnsmasq/2.84
+```
+
+### Fehler
+
+```
+brew doctor
+```
+
 ### Services
 
 ```
@@ -27,6 +46,7 @@ brew services
 brew services start [service]
 brew services stop [service]
 brew services restart [service]
+brew services restart --all
 ```
 
 ### MariaDB

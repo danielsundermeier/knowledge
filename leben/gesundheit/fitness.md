@@ -16,6 +16,16 @@ Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die H
 - 15 Sekunden Pause zwischen Sätzen
 - Jeden Tag eine Wiederholung mehr
 
+### Fortschritte
+
+- Bis 1-3 Wiederholungen vor Muskelversagen pro Satz trainieren
+- Gewichte > als 40% 1RM (1-rep-max) / weniger als 30 Wiederholungen
+- Regelmäßig Gewichte / Wiederholungen steigern
+- Auf richitge Technik achten (Full range of motion)
+- Trainingsvolumen >= 10 Sätze / Muskel / Woche
+
+[“I LIFT BUT DON’T LOOK LIKE IT”](https://www.youtube.com/watch?v=-wKiFBAsKnI)
+
 ## HIIT (Tabata)
 
 - 20 Sekunden Training

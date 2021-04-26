@@ -24,6 +24,8 @@ Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert 
 Ich weiß nicht genau wieso, aber ich halte 10.000.000 Euro für eine Grenze.
 Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, ohne je über Geld nachdenken zu müssen.
 
+> "This is what the Fulfillment Surplus helps you realize. Once you get to the top of the Freedom phase, you are using money in a way that serves you. It is a tool that has enabled you to do the things you love, and has drifted out of focus when it has fulfilled that specific purpose. This is the sweetest spot in all of the Money Spectrum, and if we didn’t have any other aspirations or desires, then we’d be wise to stay here for a long time." - [Money Is the Megaphone of Identity](https://moretothat.com/money/)
+
 #### Links
 
 - [5 Steps to Embrace Lifestyle Deflation Without Deprivation](https://minafi.com/lifestyle-deflation)
@@ -89,6 +91,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [How to make wealth](http://paulgraham.com/wealth.html)
 - [When Everyone’s a Genius](https://www.collaborativefund.com/blog/speculation/?utm_source=feedburner&utm_maedium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
 - [Investing: The Greatest Show On Earth](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
+- [What is (Good) Financial Advice?](https://www.youtube.com/watch?v=TI5p8vqdjTw)
 
 ## Videos
 

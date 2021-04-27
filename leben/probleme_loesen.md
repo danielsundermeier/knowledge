@@ -46,6 +46,10 @@ Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind 
 
 - [untools](https://untools.co/)
 
+## Zitate
+
+> "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)
+
 ## Links
 
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/)

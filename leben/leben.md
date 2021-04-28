@@ -149,6 +149,7 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [7 Things You Need to Understand to Stop Being Lazy](https://www.youtube.com/watch?v=vTQ0q0FsUFY)
 - [Atomic Habits – James Clear](https://freiweg.at/2018/11/03/atomic-habits/)
 - [Buchempfehlung: „Atomic Habits“ von James Clear](https://wissensdialoge.de/buchempfehlung-atomic-habits-von-james-clear/)
+- [The Small Things Are Big Windows Into Who You Are](https://moretothat.com/small-things/)
 
 ### Bücher
 

@@ -43,3 +43,4 @@ Fähigkeiten:
 - [Self-Knowledge](https://markmanson.net/downloads/self-knowledge)
 - [Creating a Sense of Purpose in a Post-Scarcity Society](https://www.youtube.com/watch?v=Otu39FUqlxQ)
 - [Do Hard Things Because They Are Hard](https://chrisguillebeau.com/do-hard-things-because-they-are-hard/)
+- [The Meaning of Life Is Absurd](https://moretothat.com/the-meaning-of-life-is-absurd/)

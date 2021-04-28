@@ -27,6 +27,7 @@
 - [Your Two Minds](https://markmanson.net/your-two-minds)
 - [Radiant vs Vacuous Self-Talk](https://www.youtube.com/watch?v=d8UlBlPtAE0)
 - [How to Monitor Your Negative Thinking](https://www.theemotionmachine.com/rubber-band-technique-how-to-monitor-your-negative-thinking/)
+- [Chatter: The Voice in Our Head, Why It Matters, and How to Harness It](https://www.goodreads.com/book/show/53330118-chatter)
 
 ## Links
 

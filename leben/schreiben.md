@@ -66,6 +66,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How to get started on the internet](https://twitter.com/simonsarris/status/1378023590503849986)
 - [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
 - [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
+- [The Economics of Writing](https://moretothat.com/economics-of-writing/)
 
 ## Static Site Generator
 

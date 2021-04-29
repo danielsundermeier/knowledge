@@ -44,6 +44,16 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [Glass-Bubble-Technik](https://www.swr.de/wissen/deutscher-zukunftspreis-glass-bubble-daemmung-100.html)
 - [Retrofitting to Passive House standards](https://www.youtube.com/watch?v=wN34zF7e4J8)
 
+## Wohnfläche
+
+- 1 Person ca. 45 - 50 qm
+- 2 Personen ca. 60 qm oder 2 Wohnräume
+- 3 Personen ca. 75 qm oder 3 Wohnräume
+- 4 Personen ca. 85 - 90 qm oder 4 Wohnräume
+- sowie für jedes weitere Familienmitglied ca. 10 qm oder 1 Wohnraum mehr.
+
+[Wohnflächen - Wohnungsgrößen](https://nullbarriere.de/wohnflaechen.htm)
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

@@ -82,6 +82,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - [Our Education System in 2035](https://medium.com/postcards-from-2035/how-we-learn-in-2035-54b16c66e190)
 - [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/)
 - [Someone has to run the fabs](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
+- [We need a career path for invention](https://rootsofprogress.org/a-career-path-for-invention)
 
 ## Videos
 

@@ -67,6 +67,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
 - [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
 - [The Economics of Writing](https://moretothat.com/economics-of-writing/)
+- [Write for Yourself, and Wisdom Will Follow](https://moretothat.com/writing-and-wisdom/)
 
 ## Static Site Generator
 

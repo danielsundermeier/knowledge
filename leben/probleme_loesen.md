@@ -58,3 +58,4 @@ Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind 
 - [Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
 - [Problems are for Fixing](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing)
 - [What are you trying to achieve?](https://twitter.com/kyleshevlin/status/1387050277199486984)
+- [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)

@@ -16,3 +16,4 @@
 - [https://denic.hashnode.dev/use-consolelog-like-a-pro ](https://denic.hashnode.dev/use-consolelog-like-a-pro)
 - [JavaScript Array Methods Tutorial](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
 - [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
+- [How to Create Actions for Selected Text With the Selection API](https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/)

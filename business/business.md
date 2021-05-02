@@ -62,6 +62,20 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - so viel wie möglich digitalisieren
 - Automatisierung
 
+## Counterparty Groups
+
+- Customers 
+- Suppliers 
+- Employees 
+- Owners 
+- Regulators 
+- Community you operate in
+
+Mit allen Gruppen Win-Win Situationen schaffen. 
+Die Dinge von ihrem Blickwinkel betrachten.
+
+- [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
+
 ### Links
 
 - [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)

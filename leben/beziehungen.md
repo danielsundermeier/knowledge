@@ -12,7 +12,6 @@
 - Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist
 - Über alles reden; keine Konflikte ignorieren
 
-
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 
 > There are no mistakes when learning. See setbacks as opportunities of personal growth and expansion. - Monk who sold his ferrari
@@ -62,6 +61,36 @@ All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) 
 
 - Sich in andere Menschen hineinversetzen, um sie besser zu verstehen
 - Durch den Einblick in die Leben anderer kann ich mich selbst besser kennenlernen
+
+## Eigenschaften
+
+Eigenschaften, die alle Menschen in anderen suchen:
+- Trustworthy
+- Principaled
+- Corragious
+- Competent
+- Loyal
+- Kind
+- Understanding
+- Forgiving
+- Unselfish
+
+-> Eigenschaften selbst verkörpern
+
+- [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
+
+## Bedürfnisse
+
+- Payed Attention to
+- Listened to
+- Respected
+- Meaning, Satisfaction & Fulfillment in life
+- Being loved
+
+Ich bekomme zurück, was ich aussende -> Bedürnisse des Gegenübers achten.    
+going positiv & going first
+
+- [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 
 ## Links 
 

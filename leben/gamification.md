@@ -18,3 +18,4 @@
 ## Links
 
 - [The Gamified Life](https://www.youtube.com/watch?v=yMKBeyEJDpI&list=PLkCjAL2tiIBNX6_XFcfTavDZlddHKib0Y)
+- [How video games are changing my life](https://www.youtube.com/watch?v=Rim2rXIbVoA)

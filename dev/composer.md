@@ -16,6 +16,12 @@ Bei v2 nicht mehr benötigt
 COMPOSER_MEMORY_LIMIT=2G composer require jeroen-g/laravel-packager --dev
 ```
 
+## Dependency
+
+```
+composer show --tree
+```
+
 ## Link
 
 - [How to pull GitHub repositories](https://www.amitmerchant.com/how-to-pull-github-repositories-as-composer-packages-in-php/)

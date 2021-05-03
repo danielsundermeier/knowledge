@@ -80,6 +80,7 @@ So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie h
     + Zigaretten
     + Alkohol
     + Süßigkeiten/Zucker
+    + Luxus?
 - Steuern in Fond investieren oder direkt als Dividenden an Bürger auszahlen
 - Wer viele Dinge kauft, die sich negativ für die Gesellschaft auswirken, zahlt mehr Steuern
     + Anreiz "bessere" Entscheidungen zu treffen

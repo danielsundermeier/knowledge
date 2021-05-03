@@ -125,6 +125,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Productivity advice](https://www.spakhm.com/p/productivity-advice) -> "Do the work"
 - [My 3x3x3x3x3x3x3 or 3^7 System for Quarterly Goal Achieving](https://www.reddit.com/r/productivity/comments/mmqtmg/my_3x3x3x3x3x3x3_or_37_system_for_quarterly_goal/)
 - [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
+- [The Quest to the Unlived Life](https://moretothat.com/the-quest-to-the-unlived-life/)
 
 ### Blogs
 

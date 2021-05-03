@@ -10,6 +10,16 @@ uberspace web domain add sandbox.serienguide.tv
 ln -s /var/www/virtual/$USER/html/serienguide/public /var/www/virtual/$USER/sandbox.serienguide.tv
 ```
 
+### Cronjob
+
+```
+crontab -e
+```
+
+```bash
+* * * * * cd ~/html/hof-sundermeier && php artisan schedule:run >> /dev/null 2>&1
+```
+
 ## Projekt installieren
 
 ```
@@ -25,5 +35,6 @@ cd serienguide
 nano .env
 composer install
 npm install && npm run production
-php aristisan migrate
+php artisan migrate --force
+php artisan storage:link
 ```

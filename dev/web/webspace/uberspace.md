@@ -33,6 +33,14 @@ ln -s /var/www/virtual/$USER/html/cardmonitor/public /var/www/virtual/$USER/www.
 ln -s /var/www/share/Agrarmonitor-API-DEV/public /var/www/share/sandbox.agrarmonitor.de/htdocs
 ```
 
+#### Löschen
+
+```bash
+rm /var/www/virtual/$USER/www.cardmonitor.de
+```
+
+[How to Remove (Delete) Symbolic Links](https://linuxize.com/post/how-to-remove-symbolic-links-in-linux/)
+
 ## Supervisor
 
 ### Installieren

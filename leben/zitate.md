@@ -66,3 +66,6 @@ great life, you just need to put together a string of enough great days. While e
 > "the long run is usually pretty good and the short run is usually pretty bad" - [The Big Lessons From History](https://www.collaborativefund.com/blog/the-big-lessons-from-history/)
 
 > "Humans are not built for a life of ease." - [My Generation Isn’t Suffering Enough](https://quillette.com/2021/02/28/my-generation-isnt-suffering-enough/)
+
+> "If you went back in time before your birth you'd be terrified to do anything, because you'd know that even the smallest nudges to the present can have major impacts on the future.
+Applied to today, a reminder that how you live each day really does matter. It changes the future." - [Tim Urban](https://twitter.com/waitbutwhy/status/1384963403475791872)

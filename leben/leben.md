@@ -225,3 +225,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [KOBE BRYANT - "FAILURE DOESNT EXIST"](https://www.youtube.com/watch?v=js8OfeEL4jI)
 - [4 Life Lessons You Can Learn From Elon Musk](https://www.youtube.com/watch?v=n2AUckK70cc)
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
+- [The top 0.1% of ideas I’ve stumbled upon on the internet](https://twitter.com/george__mack/status/1381661018565279746)

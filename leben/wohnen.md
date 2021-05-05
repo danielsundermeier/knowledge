@@ -54,6 +54,10 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 
 [Wohnflächen - Wohnungsgrößen](https://nullbarriere.de/wohnflaechen.htm)
 
+## Obdachlosigkeit
+
+- [How Finland Solved Homelessness](https://www.huffpost.com/entry/homelessness-finland-housing-first_n_5c503844e4b0f43e410ad8b6)
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

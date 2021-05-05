@@ -16,3 +16,4 @@
 - [How to Do What You Love](http://www.paulgraham.com/love.html)
 - [LEARN, EARN or QUIT.. | My job/career advice for 2021](https://www.youtube.com/watch?v=eLelgy5zRv4)
 - [The Riddle of the Well-Paying, Pointless Job](https://moretothat.com/pointless-job/)
+- [You have 80,000 hours in your career](https://80000hours.org/)

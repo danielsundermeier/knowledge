@@ -42,6 +42,8 @@ Eine weitere Schwierigkeit sind meine Präferenzen. Manchmal möchte ich die bes
 
 Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind ein Vermögen aufzubauen. Ich möchte mich aber nicht damit auseinandersetzen.
 
+Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir Fehler oder andere Ansätze klar.
+
 ## Tools
 
 - [untools](https://untools.co/)
@@ -59,3 +61,4 @@ Ich glaube zum Beispiel, dass Investments in Immobilien ein sehr guter Weg sind 
 - [Problems are for Fixing](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing)
 - [What are you trying to achieve?](https://twitter.com/kyleshevlin/status/1387050277199486984)
 - [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)
+- [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)

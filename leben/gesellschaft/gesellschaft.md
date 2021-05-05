@@ -177,4 +177,5 @@ Ich halte das für eine gute Lösung
 ## Links
 
 - [The National Dashboard and Human Progress](https://max2c.com/national-dashboard-and-human-progress/)
+- [Citizens' assembly](https://citizensassemblies.org/)
 

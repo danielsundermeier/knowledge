@@ -10,3 +10,5 @@ Motivation entsteht, wenn ich etwas mache. Es reicht schon mit einer Kleinigkeit
 
 - [Commenting vs. making](https://chiefofstuff.substack.com/p/commenting-vs-making)
 - [How to Get Motivated and Take Action](https://markmanson.net/how-to-get-motivated)
+- [The Release Ratio](https://moretothat.com/release-ratio/)
+- [How Natural Selection Screwed Us](https://moretothat.com/how-natural-selection-screwed-us/)

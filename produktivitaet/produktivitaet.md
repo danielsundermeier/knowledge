@@ -141,3 +141,4 @@ for anyone who is interested in time management and productivity
 - [How to Stop Feeling Anxious About Starting Something New](https://www.youtube.com/watch?v=ueES9WiG72U)
 - [Use the 10/90 Rule to Help Find Focus, Save Time, and Get More Done](https://www.youtube.com/watch?v=FiZnDqaiIYU)
 - [The Secret to Getting Ahead in Life](https://www.youtube.com/watch?v=XbUr8Dx2yjU)
+- [THE PRACTICE by Seth Godin](https://www.youtube.com/watch?v=1Zh4x8lPbnM)

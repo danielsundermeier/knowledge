@@ -86,6 +86,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Why Trying to Be Perfect Won’t Help You Achieve Your Goals](https://jamesclear.com/repetitions)
 - [How to learn anything with the Feynman Technique](https://nesslabs.com/feynman-technique)
 - [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
+- [From Ignorance to Wisdom](https://moretothat.com/framework-for-knowledge/)
 
 ## Spaced Repetition
 

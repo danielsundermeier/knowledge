@@ -20,7 +20,7 @@ uberspace web log php_error disable
 
 #### Uberspace
 
-[Dokumnetation](https://wiki.uberspace.de/domain:subdomain)
+[Dokumentation](https://wiki.uberspace.de/domain:subdomain)
 
 ```
 ln -s Ziel Name
@@ -40,6 +40,12 @@ rm /var/www/virtual/$USER/www.cardmonitor.de
 ```
 
 [How to Remove (Delete) Symbolic Links](https://linuxize.com/post/how-to-remove-symbolic-links-in-linux/)
+
+**Nach dem Ändern PHP neu starten**
+
+```
+uberspace tools restart php
+```
 
 ## Supervisor
 

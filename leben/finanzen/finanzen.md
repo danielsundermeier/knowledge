@@ -49,7 +49,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - Nur das notwendigste entnehmen / nie mehr als die Gewinne (Dividenden)
 - Kapital nicht abbauen
 
-[Investments](./invesments.md)
+[Investments](./investments.md)
 
 ## Regeln
 

@@ -77,6 +77,10 @@ Die Dinge von ihrem Blickwinkel betrachten.
 
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 
+## Coworking
+
+- [StartMIndenUP](https://www.startup-muehlenkreis.de/) - Coworking Space in Minden
+
 ### Links
 
 - [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)

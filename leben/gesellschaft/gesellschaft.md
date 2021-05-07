@@ -166,6 +166,7 @@ Ich halte das für eine gute Lösung
 - [Holacracy](https://www.holacracy.org/)
 - [P2P Foundation](https://p2pfoundation.net/)
 - [Future Thinkers Smart Village](https://futurethinkers.org/village/)
+- [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
 
 ## Regierung
 
@@ -174,8 +175,13 @@ Ich halte das für eine gute Lösung
 - [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
 
+## Drogen
+
+- [Legalisierung von Drogen](https://de.wikipedia.org/wiki/Legalisierung_von_Drogen)
+
 ## Links
 
 - [The National Dashboard and Human Progress](https://max2c.com/national-dashboard-and-human-progress/)
 - [Citizens' assembly](https://citizensassemblies.org/)
+- [Systemic Consensus: The Future of Decision-Making](https://www.danielaschwarz.at/systemic-consensus/)
 

@@ -29,6 +29,16 @@
 - [How to Monitor Your Negative Thinking](https://www.theemotionmachine.com/rubber-band-technique-how-to-monitor-your-negative-thinking/)
 - [Chatter: The Voice in Our Head, Why It Matters, and How to Harness It](https://www.goodreads.com/book/show/53330118-chatter)
 
+## Gefühle
+
+- Wut: Kraft um Dinge zu verändern
+- Angst: Hilft das Unbekannte konfrontieren
+- Trauer: Dinge, die man nicht kontrollieren kann, akzeptieren; Kontakt zu anderen Menschen
+- Scham: Energie und Erkenntnis das Verhalten zu ändern
+- Freude: Motiviert und zeigt, dass ein Zustand erstrebenswert ist
+
+Gefühlskompass
+
 ## Links
 
 - [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)

@@ -79,3 +79,4 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [Streetmix](https://streetmix.net/-/1302457)
 - [A City is not a Tree](https://twitter.com/NajlaAlariefy/status/1315329838559965191)
 - [Are Ancient City Grids Still the Best Way to Build?](https://www.freethink.com/videos/city-grids)
+- [Ownhome](https://ownworld.org/)

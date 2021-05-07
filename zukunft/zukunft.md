@@ -13,6 +13,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Arcologies](https://www.youtube.com/watch?v=TqKQ94DtS54)
 - [The Naked Arcology](https://www.youtube.com/watch?v=iV3v80g9nxI&t=1818s)
 - [Utopia 2048](https://www.goodreads.com/book/show/53077404-utopia-2048)
+- [The Great Transition](https://greattransition.org/)
 
 ## Podcasts
 

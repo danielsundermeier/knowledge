@@ -33,6 +33,12 @@ Fehermeldung
 sudo rm -rf /usr/local/Cellar/dnsmasq/2.84
 ```
 
+### Installierte Programme
+
+```
+brew ls
+```
+
 ### Fehler
 
 ```
@@ -63,6 +69,15 @@ cd /usr/local/var/mysql
 rm ib_logfile0
 rm ib_logfile1 
 ```
+
+### PHP Versionen
+
+```
+brew unlink php@7.1
+$ brew link php@7.4 --force --overwrite
+```
+
+[Switching between PHP versions when using Homebrew](https://localheinz.com/blog/2020/05/05/switching-between-php-versions-when-using-homebrew/)
 
 ## Nix
 

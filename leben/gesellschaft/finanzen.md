@@ -17,3 +17,4 @@
 - [Positive Money EU](https://www.positivemoney.eu/)
 - [Sovereign Money System](https://themoneyquestion.org/sovereign-money-system/)
 - [Problems With Sovereign Money](https://www.continentaltelegraph.com/2018/11/problems-with-sovereign-money-mmt-and-the-benefits-of-the-current-system/)
+- [International Movement for Money Reform](https://internationalmoneyreform.org/)

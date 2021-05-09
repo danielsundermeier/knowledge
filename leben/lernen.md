@@ -88,6 +88,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 - [From Ignorance to Wisdom](https://moretothat.com/framework-for-knowledge/)
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
+- [Tinyschool](https://tiny.school/) - Prepare for future of work
 
 ## Spaced Repetition
 

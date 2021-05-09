@@ -25,3 +25,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Charter City Insitute](https://www.chartercitiesinstitute.org/)
 - [50 Breakthroughs](https://50breakthroughs.org/)
 - [Transformation durch Realutopien](https://www.realutopien.de/)
+- [Existential Hope](https://www.existentialhope.com/)

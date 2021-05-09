@@ -63,6 +63,25 @@ Ziel: Den Wasserkopf so klein wie möglich halten, um sich auf die Kernaufgabe d
 - so viel wie möglich digitalisieren
 - Automatisierung
 
+Jedes Unternehmen sollte sich viele Gedanken um die eigene Verwaltung machen (Die Maschine, die die Maschine baut).
+Dadurch können Abläufe vereinfacht und automatisiert werden. Alle Mitarbeiter habe so Zeit sich mit dem Kerngebiet zu befassen anstatt mit der Verwaltung. Das führt zu einer höheren Produktivität (mehr Produkte/abrechenbare Stunden). Weniger Verwaltung führt zu höheren Gewinnen.
+
+Das ist ein sehr guter Hebel, um den Gewinn zu steigern. Es sollte in regelmäßigen Abständen überprüft werden, wie man Abläufe schlanker gestalten kann.
+
+### Software
+
+Es sollte eine Software geben, bei er alles zusammenläuft. Es gibt einen Punkt andem alle Informationen gesammelt werden.
+
+Bereiche der Software:
+
+- Kundenverwaltung
+- Belege (Angebote, Rechnungen, Lieferscheine)
+- Ticketsystem (Aufgaben)
+- Wissenssammlung für Abläufe und Informationen
+- Betriebsspezifische Tools, um Abläufe zu automatisieren
+
+
+
 ## Counterparty Groups
 
 - Customers 

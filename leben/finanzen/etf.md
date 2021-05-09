@@ -7,6 +7,11 @@ Ich denke ein All World ETF reicht.
 
 > "once you understand that the stock market will fall by say 25-50% from time to time (e.g. Q1 2020) and that you should never sell in panic, you probably know enough to get started." - [I’m happy using electricity without understanding it](https://theescapeartist.me/2021/02/28/im-happy-using-electricity-without-understanding-it/)
 
+## Voraussetzung
+
+- Langer Anlagehorizont (>=15 Jahre)
+- Keine Panikverkäufe (Schwankungen aussitzen)
+
 ## Gründe für ETFs
 
 - Ich erreiche die durchschnittliche Marktperformance
@@ -31,7 +36,7 @@ Da ich nicht vorhabe etwas zu verkaufen ist dieser Grund für mich irrelevant. D
 
 ## Haltedauer
 
-Kurzfristig ist der Aktienmarkt unberechnbar. Die Rendite schwnkt von Jahr zu Jahr enorm. Je länger ich meine ETFs halte, desto ausgeglichener und vorhersehbarer werden die Renditen.
+Kurzfristig ist der Aktienmarkt unberechnbar. Die Rendite schwankt von Jahr zu Jahr enorm. Je länger ich meine ETFs halte, desto ausgeglichener und vorhersehbarer werden die Renditen.
 
 Deshalb ich meine bevorzugte Haltedauer "für immer".
 

@@ -35,7 +35,6 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 
 ## Links
 
-- [Writing Well](https://www.julian.com/guide/write/intro)
 - [The Ultimate Guide to Writing Online](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
 - [Jordan Peterson's 10-step process for stronger writing](https://bigthink.com/personal-growth/jordan-petersons-ten-step-process-for-stronger-writing?rebelltitem=2#rebelltitem2)
 - [Dr. Jordan B. Peterson’s 10 Step Guide to Clearer Thinking Through Essay Writing](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937)
@@ -70,6 +69,12 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Write for Yourself, and Wisdom Will Follow](https://moretothat.com/writing-and-wisdom/)
 - [This is my favorite type of content!](https://twitter.com/jkup/status/1389615876996009987)
 - [mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)
+
+## Inspiration
+
+- [Writing Well](https://www.julian.com/guide/write/intro)
+- [Explained from First Principles](https://explained-from-first-principles.com/)
+- [Josh Comeau](https://joshwcomeau.com/)
 
 ## Static Site Generator
 

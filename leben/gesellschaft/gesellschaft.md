@@ -175,7 +175,12 @@ Ich halte das für eine gute Lösung
 - [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
 
-## Drogen
+## Sucht
+
+Menschen mit einem erfüllenden Leben brauchen keine Ablenkung / Kompensierung (Geld, Status) / Drogen.
+Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie beim Aufbau dieses Lebens zu unterstützen.
+
+### Links 
 
 - [Legalisierung von Drogen](https://de.wikipedia.org/wiki/Legalisierung_von_Drogen)
 

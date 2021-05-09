@@ -46,8 +46,13 @@
 
 ## Dokumentation
 
+Bevor ich programmiere, möchte ich mir genau aufschreiben, was ich vorhabe, welche Alternativen ich habe und wie ich es umsetzen möchte. Dadurch denke ich intensiv über das Thema nach und das Progammieren sollte deutlich einfacher werden und ich habe eine Dokumentation und kann genau nachvollziehen, wo ich stehe und warum ich Dinge so umgesetzt habe. Das erleichtert mir die Wartung.
+
+### Links
+
 - [Documentation Guide](https://www.writethedocs.org/guide/index.html)
 - [Write self-deprecating comments](https://thepugautomatic.com/2021/02/write-self-deprecating-comments/)
+- [Why programmers don’t write documentation](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
 
 ## Naming
 

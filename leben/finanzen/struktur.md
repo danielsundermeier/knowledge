@@ -101,6 +101,7 @@ Bei dem nächsten Crash versuche ich mehr zu investieren. (?)
 Wenn ich Geld auf dem Einnahmenkonto habe, überweise ich es auch auf das Depot.
 Ich kaufe neue Anteile, wenn sich mindestens 2.500 € (Dividenden + zusätzliche Überweisungen) angesammelt haben. Sonst sind mir die Kosten (aktuell 7,75€ / Kauf) zu hoch.
 Ich kontrolliere das jeden Monat am 19. Dann sind die Sparpläne abgerechnet und ich kann direkt sehen, welcher Betrag verfügbar ist.
+
 Ich würde das gerne automatisieren.
 
 #### ETF
@@ -118,7 +119,7 @@ Auswahlkriterien:
 - [x] Ausschüttend
 - [x] Älter als fünf Jahre 
 
-Ich habe noch mehr ETFs und Aktien im Depot. Hauptsächlich aus der Anfangszeit. Mir war die Dividendenrendite sehr wichtig und habe entsprechende ETFs und REITs gekauf. Mittlweile bin ich aber zu dem Schluss gekommen, dass ein All World ETF die beste Variante ist.
+Ich habe noch mehr ETFs und Aktien im Depot. Hauptsächlich aus der Anfangszeit. Mir war die Dividendenrendite sehr wichtig und habe entsprechende ETFs und REITs gekauft. Mittlweile bin ich aber zu dem Schluss gekommen, dass ein All World ETF die beste Variante ist.
 Ich habe zwei All-World ETFs und beide haben von allen Investments in den letzten Jahren mit Abstand die besten Ergebnisse geliefert.
 
 Ich habe die Wertsteigerung unterschätzt. Wenn ich jetzt einen Anteil für 100 € mit 2% Dividendenrendite kaufe, steigt meine persönliche Dividendenrendite mit der Wertsteigerung des ETFs. 
@@ -146,6 +147,8 @@ Optimal wäre es, wenn der ETF in der Ansparphase die Dividenden automatisch rei
 Ich möchte keine Anteil verkaufen und nur von den Dividenden leben. Dadurch muss das Depot zwar größer sein, aber ich mag den Gedanken Kapital abzubauen nicht.
 
 Die Dividenden motivieren mich. Besonders in der Anfangszeit ist es ein gutes Gefühl Dividenden zu bekommen.
+
+Die Alternative zu einem ausschüttendend ETF ist ein thesaurierender Fond. Hier werden die Dividenden direkt reinvestiert. Es ist besser für die Ansparzeit, weil man keine Steuern auf die Dividenden zahlen muss. Allerdings muss man beim Entsparen Anteile verkaufen. Ich denke es ist die richitge Wahl, wenn man den ETF für die Rente anlegt.
 
 ### Sparen
 

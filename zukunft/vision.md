@@ -15,6 +15,7 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
     + Hoch technologisiert, aber Technik im Hintergrund
     + Sharing Economy / Open Source
 - Werte
+    + Genug
     + Natur
     + Gemeinschaft
     + Gesundheit
@@ -29,6 +30,7 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
     + KIs
     + Terraforming
 - Produktion
+    + [Produkte zur Miete](../ideen/life-as-a-service.md)
     + Automatisiert
     + Kreislaufwirtschaft (Jedes Atom kann recycelt werden)
     + Replikatoren

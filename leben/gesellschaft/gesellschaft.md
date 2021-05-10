@@ -7,7 +7,7 @@
 
 ## Experimente
 
-Ich denke wir sollten viel mehr kleine, lokale Experimente durchführen und die ERgebnisse veröffentlicht werden. Dann kann sich jede Gemeinschfaft das Beste heraussuchen. 
+Ich denke wir sollten viel mehr kleine, lokale Experimente durchführen und die Ergebnisse veröffentlicht werden. Dann kann sich jede Gemeinschfaft das Beste heraussuchen. 
 
 Was spricht dagegen 1.000 verschiedene Anbaumethoden, Schulsysteme, Finanzsysteme, Ernährungen, Lebensstile, ... im kleinen Stil auszuprobieren. Man kann so extrem viel lernen und das Beste aus allen Systemen übernehmen. Dafür sollte alles veröffentlich werden und ein intensiver Austausch zwischen den Experimenten stattfinden.
 
@@ -21,6 +21,30 @@ So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie h
 1. Schlaf
 2. Ernährung
 3. Fitness
+
+## Status
+
+Aktuell wird Status anhand von Signalen festgemacht, die der Gesellschaft an sich Schaden können:
+
+- Geld / Materialismus
+- Macht
+- Ruhm
+
+Geld ist ein immer weniger zuverlässiges Signal. Man kann durch Kredite Wohlstand vortäuschen.  
+Wirklich reiche Menschen heben sich ab, indem sie darauf verzichten ihren Reichtum zur Schau zu stellen.
+
+- Warren Buffet lebt immer noch in seinem ersten Haus
+- Bill Gates trägt eine Uhr von Casio
+- Mark Zuckerberg trägt immer Jeans und T-Shirt 
+
+Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
+
+- Wissen
+- Fähigkeiten
+- Gesundheit
+- Großzügigkeit
+- Sparsamkeit / Einfachheit
+- CO2 Fußabdruck
 
 ## Wohnen
 

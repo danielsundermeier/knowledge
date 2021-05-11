@@ -23,6 +23,7 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
     + Bildung
     + Forschung
     + Erkundung 
+    + Langfristiges Denken
 - Technologie
     + Hochtechnisiert
     + Im Hintergrund / Versteckt

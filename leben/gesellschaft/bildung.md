@@ -10,7 +10,8 @@
     + Möglichkeiten Dinge genauer/anders zu erklären
 - Zu jeder Zeit
 - Schule / Klassenraum kann zum Nachfragen / Lernen genutzt werden
-- Lehrer unterstützen Schüler bei Projekten 
+- Lehrer und Experten unterstützen Schüler bei Projekten 
+- Praktika und Mentoren
 - Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 

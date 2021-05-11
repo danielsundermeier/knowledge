@@ -17,6 +17,8 @@ Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 - Jeder Mensch verbessert sich selbst, gleichzeitig wird die Gesellschaft als Ganzes verbessert (Institutionen schaffen) -> Menschen können sich besser verbessern -> bessere Institutionen -> Aufwärtsdynamik 
 - Jedes Haus versorgt sich selbst (dezentral, smart), gleichzeitig werden die Stromnetze (Supergrid, virtuelle Kraftwerke) und Speicher verbessert
 
+Anstatt endlos Annahmen zudiskutieren einen Prototypen bauen und ausprobieren.
+
 >  "Every Problem Contains the Seed of its Own Solution" - NORMAN VINCENT PEALE
 
 ## Beispiele

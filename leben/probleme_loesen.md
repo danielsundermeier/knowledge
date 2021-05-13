@@ -19,6 +19,8 @@ Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 
 Anstatt endlos Annahmen zudiskutieren einen Prototypen bauen und ausprobieren.
 
+Wie kann ich das Positive / Funktionierende des aktuellen Ablaufs beibehalten und ihn gleichzeitig verbessern.
+
 >  "Every Problem Contains the Seed of its Own Solution" - NORMAN VINCENT PEALE
 
 ## Beispiele
@@ -64,3 +66,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [What are you trying to achieve?](https://twitter.com/kyleshevlin/status/1387050277199486984)
 - [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)
 - [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)
+- [Polarity Thinking 101](https://www.sloww.co/polarity-thinking-101/)

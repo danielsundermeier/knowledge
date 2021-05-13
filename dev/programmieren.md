@@ -91,6 +91,10 @@ video course](https://mailcoach.app/videos)
 - Kommentare mit Umsetzung in Klasse / Funktion schreiben
 - Kommentare in umsetzen
 
+## Zitate
+
+> "If you want to be a good coder, try to get the fundamentals correct. Solve a lot of problems. Write a lot of code in any freaking language. Try to analyze a problem and see what are the different sub-problems that you need to solve." - [What one tip changed your coding skills forever?](https://qr.ae/pGnJLd)
+
 ## Links
 
 - [Online communities](https://twitter.com/jsjoeio/status/1276911919845310465)

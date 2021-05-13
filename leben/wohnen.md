@@ -1,9 +1,15 @@
 # Wohnen
 
-Ich möchte in einer "Walkable City" leben. Das bedeutet, dass ich alle täglichen Ziele zu Fuß odermit dem Rad erreichen kann. Ich möchte außerdem in einem Mehrfamileinhaus wohnen. Ich brach
-Im Erdgeschoss sind Gerwerbeflächen und öffentliche Plätze. Darüber sind die Wohnungen. Die Wohnungen haben eine unterchiedliche Anzahl an Zimmern, sodass Menschen in unterschiedlichen Situationen/Verhältnissen (arm/reich, Single/Famile, ...) zusammen wohnen. Ich möchte in einer Gemeinschaft wohnen.
-Um die Gebäude soll viel Natur sein.
-Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
+Ich möchte in einer "Walkable City" leben. Das bedeutet, dass ich alle täglichen Ziele zu Fuß odermit dem Rad erreichen kann. Ich möchte außerdem in einem Mehrfamileinhaus wohnen.
+
+Im Erdgeschoss sind Gerwerbeflächen und öffentliche Plätze. Darüber sind die Wohnungen. 
+
+Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in unterschiedlichen Situationen/Verhältnissen (arm/reich, Single/Famile, ...) zusammen wohnen. 
+
+- Ich möchte in einer echten Gemeinschaft wohnen.
+- Um die Gebäude soll viel Natur sein.
+- Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
+
 -> energieeffizenter
 -> mehr Gemeinschaft
 -> mehr Natur
@@ -22,7 +28,7 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 
 ## Renovieren
 
-- Mindestens 50 % Puffer auf erwarteten Kosten aufschlagen
+- Mindestens 50 % Puffer auf die erwarteten Kosten aufschlagen
 
 ## Strohballenhaus
 
@@ -41,7 +47,15 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 
 ## Isolierung
 
+### Glass Bubble
+
 - [Glass-Bubble-Technik](https://www.swr.de/wissen/deutscher-zukunftspreis-glass-bubble-daemmung-100.html)
+- [ecosphere](https://www.maxit-ecosphere.de/)
+- [maxit eco 72 Spritzbare Außendämmung auf der Basis von Zement und Mikrohohlglaskugeln](https://www.maxit.de/produkte/ecosphere/maxit-eco-72/)
+- [Maxit: Spritzbare Dämmsysteme mit Mikro-Hohlglaskugeln](https://www.haustec.de/gebaeudehuelle/daemmung/maxit-spritzbare-daemmsysteme-mit-mikro-hohlglaskugeln)
+
+### Links
+
 - [Retrofitting to Passive House standards](https://www.youtube.com/watch?v=wN34zF7e4J8)
 
 ## Wohnfläche
@@ -80,3 +94,4 @@ Mehr Menschen pro Gebäude, weniger Gebäude, dafür mehr Natur.
 - [A City is not a Tree](https://twitter.com/NajlaAlariefy/status/1315329838559965191)
 - [Are Ancient City Grids Still the Best Way to Build?](https://www.freethink.com/videos/city-grids)
 - [Ownhome](https://ownworld.org/)
+- [Global Street Design Guide](https://globaldesigningcities.org/publication/global-street-design-guide/)

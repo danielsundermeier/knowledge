@@ -48,6 +48,11 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 
 ## Wohnen
 
+- Dichte erhöhen -> Walkable City
+    + Besserer/mehr Service möglich
+    + Energiesparend
+    + Günstigere Unterhaltung
+    + An vorhandener Infrastruktur (Zentrum, Bahnhof, Straßenbahn, Buslinie)
 - Mehrfachnutzung von Gebäuden
     + Untergeschoss: Technik, Energiespeicher, Lager
     + Erdgeschoss: Gewerblich, Makerspace, Co-Working-Space, öffentliche Räume
@@ -59,10 +64,11 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 -> walkable neighborhoods
 
 ### 2 "Welten"   
-- Virtuelle Welt in der man Kontakt zur gesamten Welt hat
+
+- Virtuelle Welt in der man Kontakt zur gesamten Welt hat (Internet)
 - Reale Welt in der man mit < 150 Menschen (Dunbar Nummer) in einer sich (größtenteils) selbstversorgenden "walkable neighborhood" wohnt
 
-### Struktur
+## Struktur
 
 - Plusenergiehäuser
 - Kreislaufwirtschaft
@@ -71,7 +77,7 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
     + Energie
     + Lebensmittel
 
-### Energieversorgung
+## Energieversorgung
 
 #### Photovoltaik
 

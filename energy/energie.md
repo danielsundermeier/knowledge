@@ -1,12 +1,15 @@
 # Energie
 
-- [Energy](https://jwmza.com/thoughts/energy/)
-- [Second Nature](https://secondnature.org/solutions-center/)
-- [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
-- [Let’s Create the Future We Want](https://thesolutionsproject.org/)
-- [energypedia](https://energypedia.info/wiki/Main_Page)
-- [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
-- [Global100REStrategyGroup](https://global100restrategygroup.org/) - Joint declaration of the global 100% renewable energy strategy group
+- Ich glaube man sollte die Energie lokal und dezentral produzieren, speichern und verteilen
+- Energie wird zwischen Nachbarn getauscht
+- Man überbaut Solaranlagen, Windkraftanlagen und Batterien
+- Durch die stetig sinkenden Preise von regenerativen Energien wird sie das in naher Zukunft (fast) überall rechnen
+- Das Stromnetz kann man anschließend weiter ausbauen
+- Ich glaube wir brauchen ein neues EEG, um private Investitionen in Erneuerbare Energien zu fördern
+- Jedes Haus sollte:
+    + eigenen Energiebedarf decken
+    + Energie speichern
+    + So wenig Energie verbrauchen wie möglich
 
 ## Lösung?
 
@@ -27,20 +30,6 @@
 - Alles Elektrifizieren
 
 Ist es wirklich so einfach?
-
-## Notizen
-
-- Ich glaube man muss die Energie lokal produzieren, speichern und verteilen
-- Energie wird zwischen Nachbarn getauscht
-- Man überbaut Solaranlagen, Windkraftanlagen und Batterien
-- Durch die stetig sinkenden Preise von regenerativen Energien wird sie das in naher Zukunft (fast) überall rechnen
-- Das Stromnetz kann man anschließend weiter ausbauen
-- Ich glaube wir brauchen ein neues EEG, um private Investitionen in Erneuerbare Energien zu fördern
-- Jedes Haus sollte:
-    + eigenen Energiebedarf decken
-    + Energie speichern
-    + So wenig Energie verbrauchen wie möglich
-
 
 ## Speicher
 
@@ -90,3 +79,13 @@ Ist es wirklich so einfach?
 ## Förderung
 
 - [KfW-Effizienzhaus-Standard](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Energieeffizient-sanieren/Das-KfW-Effizienzhaus/)
+
+## Links
+
+- [Energy](https://jwmza.com/thoughts/energy/)
+- [Second Nature](https://secondnature.org/solutions-center/)
+- [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
+- [Let’s Create the Future We Want](https://thesolutionsproject.org/)
+- [energypedia](https://energypedia.info/wiki/Main_Page)
+- [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
+- [Global100REStrategyGroup](https://global100restrategygroup.org/) - Joint declaration of the global 100% renewable energy strategy group

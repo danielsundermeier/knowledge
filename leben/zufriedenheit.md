@@ -18,7 +18,7 @@ Wenn jemand sehr viel erreicht hat, wird er auch sehr viel dafür geopfert haben
 
 ### Geld
 
-Geld ist sehr wichtig, sollte aber als Werkzeug genutzt werden, um sein Leben zu verbessern nicht als Ziel an sich 
+Geld ist sehr wichtig, sollte aber als Werkzeug genutzt werden, um sein Leben zu verbessern nicht als Ziel an sich.  
 [Finanzen](./finanzen/finanzen.md)
 
 ### Materialismus
@@ -26,11 +26,11 @@ Geld ist sehr wichtig, sollte aber als Werkzeug genutzt werden, um sein Leben zu
 Vieles wird nur gekauft, um andere zu beeindrucken. Wenn ich ganz ehrlich bin, brauche ich nur wenige Dinge wirklich.
 Mit einem großen Haus muss ich auch mehr aufräumen, ich kaufe mehr Dinge, um das Haus zu füllen.
 
-Außerdem hält das Glücksgefühl nur kurz an. Ich gewöhne mich schnell an das Neue und bin wieder an der gleichen Stelle wie vorher.
+Außerdem hält das Glücksgefühl nachdem ich etwas gekauft habe nur kurz an. Ich gewöhne mich schnell an das Neue und bin wieder an der gleichen Stelle wie vorher.
 
 ### Ruhm
 
-Es ist sehr schön von Menschen Anerkennung für etwas zu bekommen, dass mit am Herzen liegt, besonders am Anfang.
+Es ist sehr schön von Menschen Anerkennung für etwas zu bekommen, dass mir am Herzen liegt, besonders am Anfang.
 Es macht mir sehr viel Spaß Fragen zu meinen Projekten zu beantworten und ich freue mich immer über Feedback!
 
 Wenn ich aber nicht mehr einkaufen gehen kann, weil alle um mich herum durchdrehen und überall Fotografen darauf warten, dass ich einen Fehler mache, so wie es bei Schauspielern der Fall ist, wird es sehr schnell zu viel und ist sehr unangenehm.
@@ -42,25 +42,46 @@ Ich kann den einzelnen dann gar nicht mehr wertschätzen. Es ist nur noch eine M
 
 ## Erstrebenswerte Ziele
 
-Ich glaube, dass der Schlüssel zu einem zufriedenen Leben in wenigen (oft kostenlosen) Dingen liegt
+Ich glaube, dass der Schlüssel zu einem zufriedenen Leben in wenigen (oft kostenlosen) Dingen liegt.
 
-### Beziehungen zu anderen Menschen
-
-Wahrscheinlich der wichtigste Baustein eines glücklichen Lebens
-Einen Partner fürs Leben und Freunde finden.
+Die Punkte bauen aufeinander auf und verstärken sich gegenseitig.
 
 ### Gesundheit
 
 Wenn ich gesund und fit bin, fühle ich mich besser. Ich habe mehr Energie und kann mehr tun.
 
+Ist die Grundlage für ein gutes Leben.
+
+[Gesundheit](./gesundheit/gesundheit.md)
+
 ### Karriere
 
 Es ist wichtig etwas zu tun, dass ich selbst für sinnvoll halte und dafür Anerkennung zu bekommen und mein Leben zu finanzieren.
 
+Meinen Teil zur Gesellschaft beitragen.
+
+[Beruf](./beruf.md)
+
 ### Beschäftigung / Hobby
 
 Ich halte es für wichtig Dinge zu produzieren anstatt nur zu konsumieren.
-Dabei ist es egal, ob ich Möbel baue, Texte schreibe oder mich künstlerisch Betätige. Hauptsache ich mache etwas. Das Ziel muss auch nicht sein etwas zu verkaufen. Es geht um die Freude während ich es tue.
+Dabei ist es egal, ob ich Möbel baue, Texte schreibe oder mich künstlerisch betätige. Hauptsache ich mache etwas. Das Ziel muss auch nicht sein etwas zu verkaufen. Es geht um die Freude während ich es tue.
+
+### Beziehungen zu anderen Menschen
+
+Wahrscheinlich der wichtigste Baustein eines glücklichen Lebens
+
+Wenn ich die ersten drei Punkte erreicht habe, kommen die nächsten beiden von alleine. 
+
+Wenn ich ein attraktives Leben führe, wollen andere Menschen daran teilhaben. Dadurch wird das Leben noch reicher und es bieten sich mehr Gelegenheiten. 
+
+"Find your tribe(s)"
+
+[Beziehungen](./beziehungen.md)
+
+### Familie
+
+In einem guten sozialen Umfeld fällt es leichter einen Partner für Leben zu finden und eine Familie zu gründen.
 
 ## Links
 

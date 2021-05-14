@@ -46,6 +46,8 @@ Ich glaube, dass der Schlüssel zu einem zufriedenen Leben in wenigen (oft koste
 
 Die Punkte bauen aufeinander auf und verstärken sich gegenseitig.
 
+![](./zufriedenheit-ziele.png)
+
 ### Gesundheit
 
 Wenn ich gesund und fit bin, fühle ich mich besser. Ich habe mehr Energie und kann mehr tun.
@@ -81,7 +83,7 @@ Wenn ich ein attraktives Leben führe, wollen andere Menschen daran teilhaben. D
 
 ### Familie
 
-In einem guten sozialen Umfeld fällt es leichter einen Partner für Leben zu finden und eine Familie zu gründen.
+In einem guten sozialen Umfeld fällt es leichter einen Partner fürs Leben zu finden und eine Familie zu gründen.
 
 ## Links
 

@@ -76,6 +76,10 @@ Ist es wirklich so einfach?
 - [Is Geothermal Heating and Cooling Worth the Cost? Heat Pumps Explained](https://www.youtube.com/watch?v=PI45yUhUWgk)
 - [This Heating Tech Breaks the Laws of Physics](https://www.youtube.com/watch?v=moQapzjjmQM)
 
+## Sonstiges
+
+- Algenkraftwerke
+
 ## Förderung
 
 - [KfW-Effizienzhaus-Standard](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Energieeffizient-sanieren/Das-KfW-Effizienzhaus/)

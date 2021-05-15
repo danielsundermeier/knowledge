@@ -127,5 +127,6 @@ Young Scholars](https://progressstudies.school/)
 - [Dexter Videos](https://dexter.live/) - Fully-supported
 at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
+- [Synthesis](https://www.synthesis.is/)
 
 

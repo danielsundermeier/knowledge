@@ -69,6 +69,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Write for Yourself, and Wisdom Will Follow](https://moretothat.com/writing-and-wisdom/)
 - [This is my favorite type of content!](https://twitter.com/jkup/status/1389615876996009987)
 - [mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)
+- [On blog posts](https://www.neelnanda.io/blog/27-retrospective)
 
 ## Inspiration
 

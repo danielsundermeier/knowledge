@@ -22,6 +22,10 @@ So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie h
 2. Ernährung
 3. Fitness
 
+## Lebensstil
+
+- Die Welt besser verlassen, als wir sie betreten haben
+
 ## Status
 
 Aktuell wird Status anhand von Signalen festgemacht, die der Gesellschaft an sich Schaden können:
@@ -76,26 +80,6 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 - Autarke Grundversorgung
     + Energie
     + Lebensmittel
-
-## Energieversorgung
-
-#### Photovoltaik
-
-#### Stromspeicher
-
-##### Haus
-
-##### Nachbarschaft
-
-- 
-
-##### Regional
-
-#### Wärmepumpe
-
-#### Algenkraftwerk
-
-#### Fernwärme
 
 ## Organisation
 

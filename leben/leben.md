@@ -25,6 +25,8 @@ Meine beste Version werden.
 - Mehr von dem tun was mir gefällt
 - Weniger von dem tun was mir nicht gefällt
 - Einen Teil der Zeit nutzen neue Dinge auszuprobieren
+- Feedback einholen
+    + Fragebogen als Geburtstagsgeschenk ausfüllen lassen ([Having an accurate self-image](https://www.neelnanda.io/blog/26-accurate-self-image))
 
 ## Jeden Tag
 
@@ -227,3 +229,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 - [The top 0.1% of ideas I’ve stumbled upon on the internet](https://twitter.com/george__mack/status/1381661018565279746)
 - [Clearer Thinking Tools](https://www.clearerthinking.org/tools-and-mini-courses)
+- [How to be a better human](https://twitter.com/schlaf/status/1392898563693289477)

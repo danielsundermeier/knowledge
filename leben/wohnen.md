@@ -68,6 +68,10 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 
 [Wohnflächen - Wohnungsgrößen](https://nullbarriere.de/wohnflaechen.htm)
 
+## Licht
+
+- [On Light](https://paulskallas.substack.com/p/on-light-part-2)
+
 ## Obdachlosigkeit
 
 - [How Finland Solved Homelessness](https://www.huffpost.com/entry/homelessness-finland-housing-first_n_5c503844e4b0f43e410ad8b6)

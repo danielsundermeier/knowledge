@@ -67,3 +67,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw)
 - [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)
 - [Polarity Thinking 101](https://www.sloww.co/polarity-thinking-101/)
+- [When You Already Know the Answer](https://www.neelnanda.io/blog/42-inner-sim)

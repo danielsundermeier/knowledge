@@ -21,3 +21,11 @@ Alles elektronisch verwalten können
     + Kein wir gegen sie
 - haben eine klare Vision
 - Menschen schließen sich wieder gerne Parteien an
+
+## Wahlen
+
+- Wahlpflicht
+
+### Links
+
+- [Politics Would Be Less Crazy If Voting Were Compulsory](https://www.philosophersbeard.org/2021/01/politics-would-be-less-crazy-if-voting.html)

@@ -60,3 +60,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [Pursue Mastery, Not Status](https://moretothat.com/pursue-mastery-not-status/)
+- [Seek Upside Risk](https://www.neelnanda.io/blog/33-upside-risk)

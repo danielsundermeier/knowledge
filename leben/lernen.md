@@ -89,6 +89,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [From Ignorance to Wisdom](https://moretothat.com/framework-for-knowledge/)
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 - [Tinyschool](https://tiny.school/) - Prepare for future of work
+- [10 ways to start developing your intellectual curiosity](https://twitter.com/SahilBloom/status/1393558623771451393)
 
 ## Spaced Repetition
 

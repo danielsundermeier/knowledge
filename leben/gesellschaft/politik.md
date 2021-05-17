@@ -1,5 +1,14 @@
 # Politik
 
+Ziel: Das Leben aller Menschen verbessern
+
+- Langristige Planung / Entscheidungen
+- Entscheidungen auf der Ebene, wo sie relevant sind
+    + lokal
+    + regional
+    + national
+    + global
+
 ## Regierung
 
 ### E-Government
@@ -29,3 +38,8 @@ Alles elektronisch verwalten können
 ### Links
 
 - [Politics Would Be Less Crazy If Voting Were Compulsory](https://www.philosophersbeard.org/2021/01/politics-would-be-less-crazy-if-voting.html)
+- [Wahlpflicht](https://www.polyas.de/wahllexikon/wahlpflicht)
+
+## Markt
+
+Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt so lenken, um Lösungen zu generieren, die positive Auswirkungen haben

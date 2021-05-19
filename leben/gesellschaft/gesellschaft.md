@@ -96,6 +96,7 @@ Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie bei
 ### Links 
 
 - [Legalisierung von Drogen](https://de.wikipedia.org/wiki/Legalisierung_von_Drogen)
+- [Portugals Drogenpolitik – Hilfe statt Gefängnis](https://www.planet-wissen.de/kultur/suedeuropa/geschichte_portugals/portugal-drogenpolitik-100.html#Erfolg)
 
 ## Links
 

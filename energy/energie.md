@@ -57,6 +57,7 @@ Ist es wirklich so einfach?
 - [Photovoltaik ohne Finanzamt](https://www.pv-magazine.de/2019/09/27/photovoltaik-ohne-finanzamt/)
 - [Solaranlage: Kosten & Wirtschaftlichkeit im Überblick](https://www.energie-experten.org/erneuerbare-energien/solarenergie/solaranlage/kosten)
 - [Agri-Photovoltaik](https://agri-pv.org/)
+- [Agrivoltaics](https://www.youtube.com/watch?v=2ue53mBUtNY)
 
 ## Wind
 
@@ -79,6 +80,7 @@ Ist es wirklich so einfach?
 ## Sonstiges
 
 - Algenkraftwerke
+- [Dirt Simple Energy Storage](https://www.youtube.com/watch?v=tm7spMG0ch8) - Fernwärme aus Sandspeicher
 
 ## Förderung
 

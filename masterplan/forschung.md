@@ -6,6 +6,8 @@ Ziel: Erforschen, wie sich das Leben verbessern lässt
 - Zusammenschluss aller Gemeinschaften
 - Alle Gebiete des (Dorf) Lebens untersuchen und verbessern
 - Automation von allem erforschen
+- Viele (kleine) Experimente
+- Konferenzen, um Streitfragen zu klären
 - Finanzierung
     + Auftragsforschung
     + Lizenzgebühren

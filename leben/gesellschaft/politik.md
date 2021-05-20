@@ -2,6 +2,7 @@
 
 Ziel: Das Leben aller Menschen verbessern
 
+- Lösungen erarbeiten / [Probleme lösen](../probleme_loesen.md)
 - Langristige Planung / Entscheidungen
 - Entscheidungen auf der Ebene, wo sie relevant sind
     + lokal
@@ -10,6 +11,9 @@ Ziel: Das Leben aller Menschen verbessern
     + global
 
 ## Regierung
+
+- Kein "Parteiendenken" (Wir gegen Sie)
+- Berufspolitiker?
 
 ### E-Government
 

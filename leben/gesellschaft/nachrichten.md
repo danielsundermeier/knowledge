@@ -1,8 +1,12 @@
 # Nachrichten
 
 - Themen werden neutral von allen Seiten dargestellt
-- Menschen sollen sich aus den Informationen eine Meinnung bilden können
+- Menschen sollen sich aus den Informationen eine Meinung bilden können
 - Nur "echte" Nachrichten
+- Für verschiedene Medien aufbereiten
+    + Texte
+    + Podcast
+    + Video
 
 ## Finanzierung
 

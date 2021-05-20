@@ -21,6 +21,8 @@
 
 > We all want to get people interested in us. But it rarely happens. Dale Carnegie in this book says that the best way to get people interested in you is by getting completely interested in them, such importance will make them feel special and they will get more interested in you. - how to win friends and influence people
 
+> "Want someone to call you? Call them first. Want someone to text you? Text them first. Miss someone? Tell them. You are only as alone as you think you are." - [What life lessons have you learnt in your twenties?](https://qr.ae/pGrJ48)
+
 ## Kennenlernen
 
 Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.

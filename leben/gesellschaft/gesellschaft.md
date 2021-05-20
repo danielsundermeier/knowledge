@@ -22,9 +22,14 @@ So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie h
 2. Ernährung
 3. Fitness
 
+### Gesundheitssystem
+
+[Gesundheit](../..//masterplan/gesundheit.md)
+
 ## Lebensstil
 
 - Die Welt besser verlassen, als wir sie betreten haben
+- Produktion statt Konsum
 
 ## Status
 
@@ -97,6 +102,12 @@ Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie bei
 
 - [Legalisierung von Drogen](https://de.wikipedia.org/wiki/Legalisierung_von_Drogen)
 - [Portugals Drogenpolitik – Hilfe statt Gefängnis](https://www.planet-wissen.de/kultur/suedeuropa/geschichte_portugals/portugal-drogenpolitik-100.html#Erfolg)
+
+## Produkte als Service
+
+- Zugang statt Besitz
+
+[Life as a Service](../../ideen/life-as-a-service.md)
 
 ## Links
 

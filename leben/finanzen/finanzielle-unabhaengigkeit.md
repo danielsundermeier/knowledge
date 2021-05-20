@@ -96,6 +96,8 @@ Ich habe den Plan der finanziellen Unabhängigkeit weiter verfolgt. Ich halte es
 
 Jetzt versuche ich mir ein Leben aufzubauen, von dem ich keinen Urlaub/Rente brauche.
 
+> "So take time off and get away from the grind. Completely recharge, get that huge grin on your face that just won’t go away. Then get bored, try a few different things, pick out one or two that you really like — that you’d really have done all your life if money were no object — and dive into it!" - [What do people who retire at a young age do all day?](https://qr.ae/pGrJ5e)
+
 ## Sicherheit
 
 Ich lese oft von einem Gefühl der Sicherheit, die man durch ein finanzielles Polster bekommt. 

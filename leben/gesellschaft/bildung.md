@@ -56,6 +56,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
     + Schlaf
     + Ernährung / Kochen / Gärtnern
     + Fitness
+    + Stress
 - Finanzen
     + Budget
     + Investment
@@ -64,6 +65,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
     + Therapie / Tagebuch
     + Meditieren
     + Organisation / Planen / GTD?
+- Lebensplanung
 
 ## Bücher
 

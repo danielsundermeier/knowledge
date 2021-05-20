@@ -38,3 +38,29 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 ## Inflation
 
 - [Hyperinflation is Already Here – You Just Haven't Realised It Yet.](https://www.youtube.com/watch?v=1HmGLV46L60)
+## Geld
+
+## Sovereign Money System
+
+- Nur der Staat kann Geld produzieren, nicht mehr die Banken
+- Geldmenge wird an Produktion geknüpft -> keine/geringe Inflation
+- Kredite müssen zu 100% aus Rücklagen bestehen
+- Man bekommt keine Zinsen (unabhängige Gebühr für Geld über Zeit) für einen Kredit sondern eine Dividende (Anteil am Gewinn)
+- Banken verbinden Kreditnehmer und -geber
+    + Diversifikation statt einer 1:1 Verknüpfung könnten die Einlagen der Kreditgeber auf viele Kreditnehmer aufgeteilt werden (P2P Kredite)
+
+### Gefahren
+
+- "Planwirtschaft"
+- Inflation
+- Misstrauen in Geld
+
+### Links
+
+- [Positive Money](https://positivemoney.org/) - Making money and banking work for society
+- [Sovereign Money – Common Critiques](https://positivemoney.org/our-proposals/sovereign-money-common-critiques/)
+- [Positive Money EU](https://www.positivemoney.eu/)
+- [Sovereign Money System](https://themoneyquestion.org/sovereign-money-system/)
+- [Problems With Sovereign Money](https://www.continentaltelegraph.com/2018/11/problems-with-sovereign-money-mmt-and-the-benefits-of-the-current-system/)
+- [International Movement for Money Reform](https://internationalmoneyreform.org/)
+- [Modern Monetary Theory: How it Could Answer All Of Our Economic Problems](https://www.youtube.com/watch?v=N8HOWh8HPTo)

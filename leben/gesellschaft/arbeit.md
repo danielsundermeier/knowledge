@@ -5,6 +5,9 @@
 - ortsunabhängig
 - mehrere unterschiedliche Jobs gleichzeitig
 - "Berufung"
+- Alles Veröffentlichen (Open Source)
+    + Lizenzgebühren für kommerzielle Nutzung
+    + Reparaturanleitungen
 
 ## Firmen
 

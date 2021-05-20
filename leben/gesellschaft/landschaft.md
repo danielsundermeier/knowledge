@@ -34,6 +34,8 @@ Die Technik zur Versorgung der Gebäude befindet sich im Keller.
 Die Gebäude sind unterirdisch miteinander verbunden, um die gemeinsame Nutzung der Technik zu ermöglichen.
 In jedem Gebäude gibt es Gemeischaftsräume. Sie können zum gemeinsamen Essen, Versammlungen oder Feiern genutzt werden. Zusätzlich dienen sie der Unterhaltung. Es können dort Musikinstrumente, Spielzeuge, etc. zur Verfügung gestellt werden.
 
+Gebäude sollen mehr Fläche begrünen, als sie belegen (vertikal, Dachgarten, ...).
+
 ### Nutzung
 
 - Untergeschoss
@@ -90,10 +92,13 @@ Beispiele:
 - Bibliothek
 - Makerspace
 - Fitnessstudio
+- Büroräume
 
 In jedem Gebäude sollte ein Raum mit Küche und Tischen sein, um gemeinsam essen zu können.
 
 Jeder aus der Nachbarschaft kann in jeden Gemeinschaftsraum gehen. Dadurch kann man Räume für spezielle Interessen nutzen (z.B. Musikraum). Dinge können geteilt werden. Das regt zum Ausprobieren von vielen verschiedenen Hobbies an. Man trifft leichter Gleichgesinnte, weil alle, die sich für Musik interessieren, in den Musikraum kommen. Es könnten so sehr teure Dinge (z.B. Aufnahmestudio, 3D-Drucker, ...) zur Verfügung gestellt werden.
+
+Die Abrechnung könnte über die Nutzung oder pauschal erfolgen.
 
 ### Öffentliche Plätze
 
@@ -104,6 +109,8 @@ Jeder aus der Nachbarschaft kann in jeden Gemeinschaftsraum gehen. Dadurch kann 
     + Grillplätze
     + Sportplatz
     + Bänke
+    + Gemeinschaftsgärten (mit Tierhaltung?)
+    + Obstwiesen
 
 #### Verwaltung
 
@@ -122,3 +129,17 @@ Dies könnte durch eine Genossenschaft erreicht werden.
     + Spielplätze
     + Sitzbänke
     + Sportgeräte
+
+## Schwimmeden Gärten
+
+- Nahrungsmittelproduktion
+- Erholung
+- Küstenschutz (Mangroven)
+- Energie
+    + Off-Shore Wind
+    + Solar
+    + Wasserkraft
+
+![](https://www.futuretimeline.net/21stcentury/images/energy-islands.htm)
+
+- [Will “marine ranching (aquaculture) + offshore wind power” be the new trend in China?](http://www.azure-international.com/index.php/china-energy-transition-updates/renewable/will-marine-ranching-aquaculture-offshore-wind-power-be-the-new-trend-in-china)

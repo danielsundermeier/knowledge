@@ -16,7 +16,7 @@ Es soll viele Annehmlichkeiten, wie Gemeinschaftsbereiche, Fitnessstudios, Resta
 ![](https://knoxmpc.org/generalplan/graphics/agend9a.jpg)  
 [Create Walkable Neighborhoods](http://smartgrowth.org/create-walkable-neighborhoods/)
 
-Auch Services wie Haushalthilfen, Lieferdienste, etc.
+Auch Services wie Haushaltshilfen, Lieferdienste, etc.
 
 Die meisten Orte sollen zu Fuß erreicht werden können. Dafür ist eine gewisse Dichte erforderlich.
 

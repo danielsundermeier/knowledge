@@ -14,6 +14,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [The Naked Arcology](https://www.youtube.com/watch?v=iV3v80g9nxI&t=1818s)
 - [Utopia 2048](https://www.goodreads.com/book/show/53077404-utopia-2048)
 - [The Great Transition](https://greattransition.org/)
+- [The Zeitgeist Movement](https://www.thezeitgeistmovement.com/)
 
 ## Podcasts
 
@@ -26,3 +27,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [50 Breakthroughs](https://50breakthroughs.org/)
 - [Transformation durch Realutopien](https://www.realutopien.de/)
 - [Existential Hope](https://www.existentialhope.com/)
+- [Future Timeline](https://www.futuretimeline.net/)

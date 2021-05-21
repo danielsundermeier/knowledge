@@ -86,6 +86,17 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
     + Energie
     + Lebensmittel
 
+## Überfluss
+
+### Nahrungsmittel
+
+- Öffentliche Gärten
+- Gemeinschaftsgärten
+- Obst- und Nussbäume an öffentlichen Orten pflanzen
+
+- Ein Stück Gemüse kostet 1 Minute Gartenarbeit
+- Nimm 1, Pflanz 2
+
 ## Organisation
 
 - [Holacracy](https://www.holacracy.org/)
@@ -106,6 +117,8 @@ Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie bei
 ## Produkte als Service
 
 - Zugang statt Besitz
+    + Produkte ausleihen, wo sie genutzt werden
+    + Miete statt Kauf
 
 [Life as a Service](../../ideen/life-as-a-service.md)
 

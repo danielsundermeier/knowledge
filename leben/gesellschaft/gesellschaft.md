@@ -93,9 +93,22 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 - Öffentliche Gärten
 - Gemeinschaftsgärten
 - Obst- und Nussbäume an öffentlichen Orten pflanzen
+- Obstwiesen
+- Gemeinschaftshof
+    + Finanzierung
+        * Regelmäßiger Beitrag (für feste Mitarbeiter, Land und Maschinen)
+        * Mitarbeit
+    + Tierhaltung
+    + Weiterverarbeitung
+        * Molkerei
+        * Bäckerei
+        * Käserei
+        * Schlachterei
+    + Kurse zum Lernen
 
 - Ein Stück Gemüse kostet 1 Minute Gartenarbeit
 - Nimm 1, Pflanz 2
+- Verteilung der Produkte?
 
 ## Organisation
 

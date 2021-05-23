@@ -11,6 +11,9 @@ Es soll erstrebenswerter sein in einer Wohnung zu leben anstatt im
 
 Wenn man möchte kann man natürlich trotzdem in einem Einfamilienhaus wohnen. Die Mehrfamilienhäuser sollen aber so viele Vorteile bieten, dass sie vorgezogen werden. Sie sollen nicht so sein wie die "Platten" im Osten, sondern mehr wie ein Luxushotel.
 
+![](https://architizer-prod.imgix.net/media/1498773501047Stefano_Boeri_Architetti_Liuzhou_Forest_city_human_view.jpg)
+[Liuzhou Forest City / Stefano Boeri Architetti](https://architizer.com/idea/2115901/)
+
 Es soll viele Annehmlichkeiten, wie Gemeinschaftsbereiche, Fitnessstudios, Restaurants/Bars, Büroräume und ähnliches in den Gebäuden geben. 
 
 ![](https://knoxmpc.org/generalplan/graphics/agend9a.jpg)  
@@ -30,7 +33,7 @@ Der so gewonnene Platz soll als Erholungsgebiet und für die Landwirtschaft genu
 ![](https://inteng-storage.s3.amazonaws.com/img/iea/1L6o1Qg1OP/sizes/aerial-view-1-the-big-picture_resize_md.jpg)  
 [Architecture Firm Designs Smart Forest City Cancun That's Fully Self-Sufficient](https://interestingengineering.com/architecture-firm-designs-smart-forest-city-cancun-thats-fully-self-sufficient)
 
-Diese Art zu wohnen macht glücklicher, ist günstiger, lebenswerter und verbraucht weniger Resourcen. Zusätzlich können sie die Gebäude Technik teilen und von Skalierungseffekten profitieren.
+Diese Art zu wohnen macht glücklicher, ist günstiger, lebenswerter und verbraucht weniger Resourcen. Zusätzlich können sich die Gebäude Technik teilen und von Skalierungseffekten profitieren.
 
 ![](https://images.adsttc.com/media/images/56ab/7987/e58e/cefa/d300/0372/slideshow/Forest_City_22.jpg?1454078316)  
 [Sasaki’s "Forest City" Master Plan](https://www.archdaily.com/781247/sasakis-forest-city-master-plan-in-iskandar-malaysia-stretches-across-4-islands)

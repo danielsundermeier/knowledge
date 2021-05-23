@@ -1,5 +1,17 @@
 # Garten
 
+## Vorziehen
+
+- [How to Make Recycled Newspaper Pots for Seed Starting](https://www.gardenbetty.com/how-to-make-recycled-newspaper-pots-for-seed-starting/)
+
+### Schilder
+
+Plastikverpackungen in Streifen schneiden und mit Edding beschriften
+
+- Joghurt
+- Quark
+- Eis
+
 ## Bäume
 
 ### Baumschule
@@ -16,6 +28,7 @@
 ### Onlineshop
 
 - [Grüner Garten Shop](https://www.gruener-garten-shop.de/)
+- [Bingenheimer Saatgut](https://www.bingenheimersaatgut.de/)
 
 ## Bewässerung
 

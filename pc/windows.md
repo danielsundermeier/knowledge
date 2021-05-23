@@ -6,3 +6,7 @@
 
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/)
 - [Ueli](https://ueli.app/#/) - A keystroke launcher for Windows and macOS
+
+## Sicherheit
+
+- [Decent Security](https://decentsecurity.com/)

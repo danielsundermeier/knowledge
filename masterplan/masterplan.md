@@ -16,7 +16,7 @@ Der zweite Teil ist das erstrebenswert.
 - Alles ist automatisiert
 - Leben im Einklang mit der Natur
 - Regenerativer Lebensstil -> alles wird immer besser
-- Wissen, Forschung & Entwicklung haben sehr hohen Stellenwert
+- Lernen, Wissen, Forschung & Entwicklung haben sehr hohen Stellenwert
 - Menschheit verbreitet Leben im Universum
 
 ## Warum

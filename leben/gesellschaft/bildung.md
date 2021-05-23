@@ -8,6 +8,7 @@
     + Sehr hohe Qualität
     + Verschiedene Länge, für unterschiedliche Lerntypen
     + Möglichkeiten Dinge genauer/anders zu erklären
+    + In verschiedenen Formaten aufbereitet (Texte, Beispiele, Podcast)
 - Zu jeder Zeit
 - Schule / Klassenraum kann zum Nachfragen / Lernen genutzt werden
 - Lehrer und Experten unterstützen Schüler bei Projekten 
@@ -45,8 +46,7 @@ Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung
 
 ## Fächer
 
-Zusätzlich zu den normalen Fächern 
-Schüler auf das Leben vorbereiten
+Zusätzlich zu den normalen Fächern solen Schüler auf das Leben vorbereitet werden.
 
 Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie müssen wissen was sie zufrieden macht, was sie stresst und was sie nicht wollen. So kann man ein zufriedenes Leben erreicht.  
 
@@ -60,6 +60,8 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - Finanzen
     + Budget
     + Investment
+    + Steuern
+    + Versicherungen
 - Mit Leben / Gefühlen / Stress umgehen
     + Kommunikation mit anderen Menschen
     + Therapie / Tagebuch

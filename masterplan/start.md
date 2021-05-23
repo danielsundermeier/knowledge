@@ -35,6 +35,7 @@ Soll sich zu dem [Gesundheitzentrum](./gesundheit.md) entwickeln.
 ### CRM
 
 - Freunde, Bekannte, Kontakte & Beziehung verwalten
+- Aktivitäten
 
 ### Gesundheit
 
@@ -51,6 +52,7 @@ Soll sich zu dem [Gesundheitzentrum](./gesundheit.md) entwickeln.
 ### Mental
 
 - Tagebuch
+- Reflektion / Rückblick
 - Wissenssammlung
 
 ### Arbeit

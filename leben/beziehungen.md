@@ -119,3 +119,5 @@ going positiv & going first
 - [Stop doing the things you do "for them" so much. Put all the effort you put into the chase into yourself. You want to call, call. You want to have a quiet day at home? Turn off your phone. You want to ask a guy out? Do it. Not sure if you're feeling it? Let him make the first move.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2x8ht/how_can_i_get_wooed_and_date_normally_as_a_people/)
 - [If you like something, start talking about it. It will attract like-minded people: the best audience there is.](https://twitter.com/arvidkahl/status/1391146884891353089)
 - [How to Learn From Conversations](https://www.neelnanda.io/blog/mini-blog-post-5-how-to-learn-from-conversations)
+- [How to Stop Caring What Other People Think](https://www.youtube.com/watch?v=NK-rIVi4nLI)
+- [Don't create stories in your mind about him/her without ever knowing if this he/she is worthy of your swooning. Best thing is focus that energy on someone who is going to return the effort.](https://www.reddit.com/r/datingoverthirty/comments/nhhvzd/how_do_you_get_over_someone_you_cant_have_and/)

@@ -6,6 +6,8 @@ Durch die Automation werden die Menschen viel Freizeit haben. Sie sollen durch d
 
 Es soll viele Angebote in und um den Gebäuden geben.
 
+Die benötigte Ausrüstung steht an den entsprechenden Orten zur Verfügung.
+
 ## Sportzentrum
 
 - Fitnessstudio

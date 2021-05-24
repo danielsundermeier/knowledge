@@ -31,6 +31,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 - [5 Steps to Embrace Lifestyle Deflation Without Deprivation](https://minafi.com/lifestyle-deflation)
 - [Not wanting something is as good as having it](https://theescapeartist.me/2021/03/29/not-wanting-something-is-as-good-as-having-it/)
 - [The Minimalist Entrepreneur](https://renenauheimer.substack.com/p/the-minimalist-entrepreneur)
+- [Money Mind Manifesto](https://www.sloww.co/money-mind-manifesto/)
 
 ### Wohltätigkeit
 

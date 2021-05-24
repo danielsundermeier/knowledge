@@ -57,6 +57,7 @@ Zeit in der Natur verbringen
 - [The Lanby](https://www.thelanby.com/) - A primary care members club in New York City
 - [This Is How To Have A Long Awesome Life](https://www.bakadesuyo.com/2021/04/exercise/)
 - [Why Going to the Doctor Sucks](https://waitbutwhy.com/2021/04/lanby.html)
+- [The Patient Company](https://ro.co/)
 
 ## Videos
 

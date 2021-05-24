@@ -18,6 +18,7 @@ butler laravel:new name
 - [Laravel Playground](https://laravelplayground.com/#/)
 - [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions)
 - [How to use GitHub Actions build matrix to deploy artifacts to multiple servers](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)
+- [Larastreamers](https://larastreamers.com/)
 
 ## Blogs
 

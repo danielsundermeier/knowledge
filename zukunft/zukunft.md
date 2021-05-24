@@ -15,6 +15,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Utopia 2048](https://www.goodreads.com/book/show/53077404-utopia-2048)
 - [The Great Transition](https://greattransition.org/)
 - [The Zeitgeist Movement](https://www.thezeitgeistmovement.com/)
+- [economy4mankind](https://www.economy4mankind.org/)
 
 ## Podcasts
 

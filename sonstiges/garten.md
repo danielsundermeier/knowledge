@@ -45,3 +45,7 @@ Plastikverpackungen in Streifen schneiden und mit Edding beschriften
 ### Beschattung
 
 Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlich kühler in meinen Zimmern
+
+## Links
+
+- [Cornell Garden-Based Learning](https://gardening.cals.cornell.edu/)

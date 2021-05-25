@@ -34,6 +34,10 @@ Plastikverpackungen in Streifen schneiden und mit Edding beschriften
 
 - [CS Bewässerungssysteme GmbH](https://cs-wss.com)
 
+## Pilze
+
+Pilze in Hackschitzel-Wegen zwischen den Beeten
+
 ## Wein
 
 ### Schneiden

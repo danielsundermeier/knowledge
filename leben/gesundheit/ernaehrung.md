@@ -215,6 +215,12 @@ Für ca. zwei Tage Kalorien auf Erhalt erhöhen. Dadurch erholt sich der Körper
 
 Ist relevant, wenn meine verbrauchten Kalorien beim Training deutlich abnehmen (150 kcal -> 130 kcal).
 
+- 5 Tage Diät
+- 2 Tage Refeed
+- Insgesamt im Defizit bleiben
+
+[Diet Breaks & Cheat Days: The Most Misunderstood Fat Loss Tools](https://www.youtube.com/watch?v=8HVdLMnr40M)
+
 ## Tools
 
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Ernährungs-Tracker

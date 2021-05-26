@@ -230,3 +230,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [The top 0.1% of ideas I’ve stumbled upon on the internet](https://twitter.com/george__mack/status/1381661018565279746)
 - [Clearer Thinking Tools](https://www.clearerthinking.org/tools-and-mini-courses)
 - [How to be a better human](https://twitter.com/schlaf/status/1392898563693289477)
+- [As a young adult in my mid 20s, what can I do to dramatically improve my life in 5 years?](https://qr.ae/pGKrSh)

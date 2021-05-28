@@ -88,6 +88,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/)
 - [Someone has to run the fabs](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
 - [We need a career path for invention](https://rootsofprogress.org/a-career-path-for-invention)
+- [Life lessons I wish school taught us](https://twitter.com/Julian/status/1397281208296525833)
 
 ## Videos
 
@@ -133,4 +134,6 @@ at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 - [Synthesis](https://www.synthesis.is/)
 
+## Forschung
 
+- [Redditors Aim to 'Free Science' From For-Profit Publishers](https://interestingengineering.com/redditors-aim-to-free-science-from-for-profit-publishers?utm_source=tldrnewsletter)

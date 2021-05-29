@@ -1,5 +1,9 @@
 # Garten
 
+## Bodendecker
+
+- [Ernten statt Jäten: Essbare Bodendecker zur Unkrautbekämpfung](https://www.smarticular.net/ernten-statt-jaeten-essbare-bodendecker-zur-unkrautbekaempfung/)
+
 ## Vorziehen
 
 - [How to Make Recycled Newspaper Pots for Seed Starting](https://www.gardenbetty.com/how-to-make-recycled-newspaper-pots-for-seed-starting/)

@@ -2,6 +2,7 @@
 
 - [Mental models](https://www.julian.com/blog/mental-model-examples)
 - [109 Models Explained](https://fs.blog/mental-models/)
+- [A guide to my favorite mental models](https://twitter.com/gregisenberg/status/1398664821139255298)
 
 ## Zitate
 

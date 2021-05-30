@@ -51,6 +51,12 @@ Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die H
 - [Tempo](https://tempo.fit/) - AI-Powered Home Gym
 - [Forme Life](https://formelife.com/the-tech) - The Most LifeLike Experience in Home Fitness
 
+## Home Gym
+
+- [The Sovereign Lifter: Building your home gym](https://eugenemarinelli.com/the-sovereign-lifter/)
+- [The 10 Home Gym Essentials According to Coop](https://www.youtube.com/watch?v=QFq6Dg_0dbU)
+- [The 10 Biggest Home Gym Mistakes I See...](https://www.youtube.com/watch?v=dOjKpPLQZJ4)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

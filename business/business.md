@@ -36,6 +36,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [21 lessons I’ve learned over 4 years that will help you get your first 10 customers](https://twitter.com/KarthikS2206/status/1379656690740568067)
 - [How to make impact on the internet](https://twitter.com/gregisenberg/status/1381588219477815296)
 - [4 behaviors I've observed](https://twitter.com/Julian/status/1386785605145739266)
+- [How do you quickly grow an online audience?](https://twitter.com/Julian/status/1396901044429496329)
 
 ## Nutzer
 
@@ -79,8 +80,6 @@ Bereiche der Software:
 - Ticketsystem (Aufgaben)
 - Wissenssammlung für Abläufe und Informationen
 - Betriebsspezifische Tools, um Abläufe zu automatisieren
-
-
 
 ## Counterparty Groups
 
@@ -177,6 +176,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [What I learned from Jeff Bezos's 23 years of Amazon shareholder letters](https://twitter.com/sumitgrrg/status/1381227286238666752)+
 - [The idea validation method Stripe uses for building new products](https://www.indiehackers.com/post/the-idea-validation-method-stripe-uses-for-building-new-products-8d4ce7747e)
 - [My playbook for shipping side projects](https://brianlovin.com/writing/my-playbook-for-shipping-side-projects)
+- [Welche geschäftlichen Tricks standen in dem durchgesickerten Memo von Elon Musk an seine Tesla-Mitarbeiter?](https://qr.ae/pGssMQ)
 
 ### Blogs
 

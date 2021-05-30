@@ -90,6 +90,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 - [Tinyschool](https://tiny.school/) - Prepare for future of work
 - [10 ways to start developing your intellectual curiosity](https://twitter.com/SahilBloom/status/1393558623771451393)
+- [The 10,000-Experiment Rule!](https://jamesaltucher.com/blog/10000-experiment-rule/)
 
 ## Spaced Repetition
 

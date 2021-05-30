@@ -37,6 +37,10 @@ Ist es wirklich so einfach?
 - [The Missing Link in Renewables](https://www.youtube.com/watch?v=-PL32ea0MqM)
 - [Nano Coated Salt Technology](https://www.youtube.com/watch?v=IgUTL_FkErI)
 
+### Batterien
+
+- [Eternally five years away? No, batteries are improving under your nose](https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/)
+
 ## Wasserstoff
 
 - [Autark Wohnen mit Solar und Wasserstoff](https://www.youtube.com/watch?v=074gHYj6mEY)

@@ -90,6 +90,20 @@ Makronährstoffe berechnen:
 
 ## Hunger
 
+- [Expected satiety](https://en.wikipedia.org/wiki/Expected_satiety)
+- [Eating for Fullness vs. Satisfaction](https://alissarumsey.com/intuitive-eating/fullness-vs-satisfaction/)
+
+## Sattmacher
+
+- high in certain proteinase inhibitors that suppress appetite - eg potatoes
+- high in protein (which takes longer to digest than other energy sources) - eg meat
+- low in glycemic index (in which the carbohydrates take longer to digest) - eg oats
+- high in fibre (which takes longer to digest than low fibre foods) - eg fruit
+- low in calories - eg vegetables
+- solid (which takes longer to digest than liquid foods, though liquids have high satiety for a short period)
+
+[Eating to be full](https://www.reddit.com/r/nutrition/comments/nj2azz/eating_to_be_full/gz5gkp5?utm_source=share&utm_medium=web2x&context=3)
+
 ### Leptin
 
 [Leptin](https://de.wikipedia.org/wiki/Leptin) ist das Sättigkeitshormon. Es teilt dem Gehirn mit, wann ich satt bin.

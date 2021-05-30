@@ -110,6 +110,10 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 - Nimm 1, Pflanz 2
 - Verteilung der Produkte?
 
+#### Links
+
+- [Gartenarbeit im öffentlichen Raum](https://gardeniser.eu/de/e-learning/citizen-gardening-public-areas)
+
 ## Organisation
 
 - [Holacracy](https://www.holacracy.org/)

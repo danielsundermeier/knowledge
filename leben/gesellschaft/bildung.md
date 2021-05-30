@@ -137,3 +137,4 @@ at-home learning
 ## Forschung
 
 - [Redditors Aim to 'Free Science' From For-Profit Publishers](https://interestingengineering.com/redditors-aim-to-free-science-from-for-profit-publishers?utm_source=tldrnewsletter)
+- [New Science](https://newscience.org/) - aims to build new institutions of basic science, starting with the life sciences

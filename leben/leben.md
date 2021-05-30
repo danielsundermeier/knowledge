@@ -231,3 +231,5 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Clearer Thinking Tools](https://www.clearerthinking.org/tools-and-mini-courses)
 - [How to be a better human](https://twitter.com/schlaf/status/1392898563693289477)
 - [As a young adult in my mid 20s, what can I do to dramatically improve my life in 5 years?](https://qr.ae/pGKrSh)
+- [How can I be the best version of myself in a month?](https://qr.ae/pGssUs)
+- [How to Do Long Term](https://www.collaborativefund.com/blog/how-to-do-long-term)

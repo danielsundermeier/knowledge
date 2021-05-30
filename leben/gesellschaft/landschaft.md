@@ -140,6 +140,8 @@ Dies könnte durch eine Genossenschaft erreicht werden.
     + Solar
     + Wasserkraft
 
+[Der schwimmende Garten, neue Green-Trend auf globaler Ebene](https://www.corradi.eu/de/magazine/schwimmender-garten-weltweit)
+
 ![](https://www.futuretimeline.net/21stcentury/images/energy-islands.htm)
 
 - [Will “marine ranching (aquaculture) + offshore wind power” be the new trend in China?](http://www.azure-international.com/index.php/china-energy-transition-updates/renewable/will-marine-ranching-aquaculture-offshore-wind-power-be-the-new-trend-in-china)

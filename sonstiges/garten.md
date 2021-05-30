@@ -34,6 +34,10 @@ Plastikverpackungen in Streifen schneiden und mit Edding beschriften
 - [Grüner Garten Shop](https://www.gruener-garten-shop.de/)
 - [Bingenheimer Saatgut](https://www.bingenheimersaatgut.de/)
 
+## Beeren
+
+- [Sträucher oder Stämmchen: Vermehrungstipps für Johannisbeeren ](https://www.mein-schoener-garten.de/gartenpraxis/nutzgaerten/johannisbeeren-vermehren-32521)
+
 ## Bewässerung
 
 - [CS Bewässerungssysteme GmbH](https://cs-wss.com)
@@ -53,6 +57,10 @@ Pilze in Hackschitzel-Wegen zwischen den Beeten
 ### Beschattung
 
 Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlich kühler in meinen Zimmern
+
+## Zimmerpflanzen
+
+- [Zimmerpflanzen Lexikon](https://www.123zimmerpflanzen.de/pflege/lexikon)
 
 ## Links
 

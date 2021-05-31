@@ -233,3 +233,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [As a young adult in my mid 20s, what can I do to dramatically improve my life in 5 years?](https://qr.ae/pGKrSh)
 - [How can I be the best version of myself in a month?](https://qr.ae/pGssUs)
 - [How to Do Long Term](https://www.collaborativefund.com/blog/how-to-do-long-term)
+- [Best way to spend $15K to improve quality of life](https://www.reddit.com/r/fatFIRE/comments/nnzqwz/best_way_to_spend_15k_to_improve_quality_of_life/gzyjgz5)

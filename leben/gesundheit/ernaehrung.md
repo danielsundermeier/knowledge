@@ -298,6 +298,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [What I've Learned About Nutrition Over The Past 10 Years](https://www.youtube.com/watch?v=rVzbLGxzOV0)
 - [The Fitness Chef – The Biggest Myths About Fat Loss](https://modernwisdom.libsyn.com/309-the-fitness-chef-all-the-biggest-diet-myths)
 - [Eating less Meat won't save the Planet. Here's Why](https://www.youtube.com/watch?v=sGG-A80Tl5g)
+- [Cloud Kitchens](https://www.cloudkitchens.com/)
 
 ## Zitate
 

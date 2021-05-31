@@ -16,6 +16,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [The Great Transition](https://greattransition.org/)
 - [The Zeitgeist Movement](https://www.thezeitgeistmovement.com/)
 - [economy4mankind](https://www.economy4mankind.org/)
+- [Predictions of the future](https://blog.alexmaccaw.com/predictions-of-the-future/)
 
 ## Podcasts
 

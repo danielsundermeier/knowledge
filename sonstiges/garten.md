@@ -3,6 +3,43 @@
 ## Bodendecker
 
 - [Ernten statt Jäten: Essbare Bodendecker zur Unkrautbekämpfung](https://www.smarticular.net/ernten-statt-jaeten-essbare-bodendecker-zur-unkrautbekaempfung/)
+- [Essbare Bodendecker](https://www.plantura.garden/gruenes-leben/essbare-bodendecker-die-top-10-fuer-ihren-garten)
+
+### Gemüse
+
+- Kürbis
+- Zucchini
+- Melone
+- Süßkartoffel
+
+- Feldsalat / Pflücksalat
+- Neuseeländer Spinat
+- Portulak
+
+### Kräuter
+
+- Bärlauch
+- Bohnenkraut
+- Kriechender Rosmarin
+- Gundermann
+- Thymian
+- Oregano
+
+### Beeren
+
+- Preiselbeeren
+- (Wald-) Erdbeere
+- Waldheidelbeere
+- Kriechende Mahonie
+
+### Tee
+
+- Waldmeister
+
+### Sonstiges
+
+- Duftveilchen
+- Kapuzinerkresse
 
 ## Vorziehen
 
@@ -57,6 +94,10 @@ Pilze in Hackschitzel-Wegen zwischen den Beeten
 ### Beschattung
 
 Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlich kühler in meinen Zimmern
+
+## Gewächshaus
+
+- [DIY Greenhouse](https://www.ana-white.com/woodworking-projects/diy-greenhouse)
 
 ## Zimmerpflanzen
 

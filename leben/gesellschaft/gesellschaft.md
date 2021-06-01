@@ -86,31 +86,6 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
     + Energie
     + Lebensmittel
 
-## Überfluss
-
-### Nahrungsmittel
-
-- [Öffentliche Gärten / Gemeinschaftsgärten](../../garten/gemeinschaftsgarten.md)
-- Obst- und Nussbäume an öffentlichen Orten pflanzen
-- Obstwiesen
-- Gemeinschaftshof (CSA)
-    + Finanzierung
-        * Regelmäßiger Beitrag (für feste Mitarbeiter, Land und Maschinen)
-        * Mitarbeit
-    + Tierhaltung
-    + Weiterverarbeitung
-        * Molkerei
-        * Bäckerei
-        * Käserei
-        * Schlachterei
-
-- Verteilung der Produkte?
-
-#### Links
-
-- [Gartenarbeit im öffentlichen Raum](https://gardeniser.eu/de/e-learning/citizen-gardening-public-areas)
-- [Essbare Stadt](https://de.wikipedia.org/wiki/Essbare_Stadt)
-
 ## Organisation
 
 - [Holacracy](https://www.holacracy.org/)

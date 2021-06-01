@@ -1,4 +1,4 @@
-## Ernährungsplan mit Lieferdienst
+# Ernährungsplan mit Lieferdienst
 
 Ich wünsche mir einen Ernährungsplan mit Lieferdienst.
 
@@ -20,22 +20,26 @@ Mein Wunsch wurde erhört:
 [Clockwork](https://clockworknutrition.com/) - YOUR MAGICAL FUTURISTIC NUTRITION HAS ARRIVED
 
 
-### 1. Schritt
+## 1. Schritt
 
 - Ernährungsplan erstellen (inkl. Rezepte)
 - Produkte aus Supermarkt liefern
 - Muss selbst zubereitet werden
 
-### 2. Schritt
+## 2. Schritt
 
 - Daten teilen
 - Mengen/Mahlzeiten dynamisch anpassen
 
-### 3. Schritt
+## 3. Schritt
 
 - Genaue Mengen gesondert abgepackt liefern
 - muss selbst zubereitet werden
 
-### 4. Schritt 
+## 4. Schritt 
 
 - Lieferservice (fertig zubereitete Mahlzeiten liefern)
+
+## Links
+
+- [Marley Spoon](https://marleyspoon.de/)

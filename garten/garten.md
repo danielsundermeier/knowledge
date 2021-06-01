@@ -103,6 +103,10 @@ Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlic
 
 - [Zimmerpflanzen Lexikon](https://www.123zimmerpflanzen.de/pflege/lexikon)
 
+## Erdkeller
+
+![](https://i.pinimg.com/originals/76/39/f4/7639f4738009c13b23586ccfd4205e7e.jpg)
+
 ## Links
 
 - [Cornell Garden-Based Learning](https://gardening.cals.cornell.edu/)

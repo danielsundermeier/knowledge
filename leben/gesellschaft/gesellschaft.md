@@ -90,11 +90,10 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 
 ### Nahrungsmittel
 
-- Öffentliche Gärten
-- Gemeinschaftsgärten
+- [Öffentliche Gärten / Gemeinschaftsgärten](../../garten/gemeinschaftsgarten.md)
 - Obst- und Nussbäume an öffentlichen Orten pflanzen
 - Obstwiesen
-- Gemeinschaftshof
+- Gemeinschaftshof (CSA)
     + Finanzierung
         * Regelmäßiger Beitrag (für feste Mitarbeiter, Land und Maschinen)
         * Mitarbeit
@@ -104,15 +103,13 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
         * Bäckerei
         * Käserei
         * Schlachterei
-    + Kurse zum Lernen
 
-- Ein Stück Gemüse kostet 1 Minute Gartenarbeit
-- Nimm 1, Pflanz 2
 - Verteilung der Produkte?
 
 #### Links
 
 - [Gartenarbeit im öffentlichen Raum](https://gardeniser.eu/de/e-learning/citizen-gardening-public-areas)
+- [Essbare Stadt](https://de.wikipedia.org/wiki/Essbare_Stadt)
 
 ## Organisation
 

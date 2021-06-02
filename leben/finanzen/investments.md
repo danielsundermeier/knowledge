@@ -54,3 +54,4 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [Beware of the Bubble](https://www.mrmoneymustache.com/2021/03/26/beware-of-the-bubble/)
 - [The Limits of Investing Sanity](https://www.collaborativefund.com/blog/the-limits-of-investing-sanity/)
 - [The Alfred Hitchcock Path to FI](https://jlcollinsnh.com/2021/05/05/the-alfred-hitchcock-path-to-fi/)
+- [Speculation: A Game You Can’t Win](https://moretothat.com/speculation/)

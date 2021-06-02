@@ -11,3 +11,4 @@
 ## Links
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)
+- [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)

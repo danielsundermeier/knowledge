@@ -38,6 +38,8 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 ## Inflation
 
 - [Hyperinflation is Already Here – You Just Haven't Realised It Yet.](https://www.youtube.com/watch?v=1HmGLV46L60)
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
+
 ## Geld
 
 ## Sovereign Money System

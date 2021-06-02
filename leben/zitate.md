@@ -69,3 +69,5 @@ great life, you just need to put together a string of enough great days. While e
 
 > "If you went back in time before your birth you'd be terrified to do anything, because you'd know that even the smallest nudges to the present can have major impacts on the future.
 Applied to today, a reminder that how you live each day really does matter. It changes the future." - [Tim Urban](https://twitter.com/waitbutwhy/status/1384963403475791872)
+
+> "One secret life superpower is to realize that 90% of whatever’s wrong with your life is due to you, not anyone or anything else" - [Coffee with a marginal chick](https://theredquest.wordpress.com/2021/06/01/coffee-with-a-marginal-chick-and-the-sex-club-multiplier-keynesian/)

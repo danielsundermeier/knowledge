@@ -71,12 +71,14 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)
 - [On blog posts](https://www.neelnanda.io/blog/27-retrospective)
 - [Flow](https://flow.rest/)
+- [Blog about what you've struggled with](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 
 ## Inspiration
 
 - [Writing Well](https://www.julian.com/guide/write/intro)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
 - [Josh Comeau](https://joshwcomeau.com/)
+- [The Napkin project](https://web.evanchen.cc/napkin.html)
 
 ## Static Site Generator
 

@@ -42,6 +42,15 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Die 4 einzigen Wege, um mit deinem Blog wirklich Geld zu verdienen](https://www.chimpify.de/marketing/wege-um-mit-blog-geld-zu-verdienen/)
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)
 
+## Bezahlung
+
+- [Profit Sharing](https://paul.copplest.one/blog/profit-sharing.html)
+
+## Marketing
+
+- [Desperately need “sales for nerds” advice](https://news.ycombinator.com/item?id=27192884)
+- [Content Marketing for Bootstrappers](https://jameschambers.co.uk/saas-content-marketing)
+
 ## Nutzer
 
 Nutzer so lange wie möglich individuell betreuen. Besonders am Anfang ist es sinnvoll die Nutzer abzuholen, ihnen alles zu zeigen und Feedback zu bekommen. 

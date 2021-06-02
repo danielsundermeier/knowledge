@@ -91,6 +91,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Tinyschool](https://tiny.school/) - Prepare for future of work
 - [10 ways to start developing your intellectual curiosity](https://twitter.com/SahilBloom/status/1393558623771451393)
 - [The 10,000-Experiment Rule!](https://jamesaltucher.com/blog/10000-experiment-rule/)
+- [Learning how to learn](https://www.neelnanda.io/blog/34-learning)
 
 ## Spaced Repetition
 

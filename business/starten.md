@@ -30,6 +30,18 @@ Anschließend kann man einen grobes Konzept für das Produkt erstellen und Vorbe
 
 Dafür erstellt man eine Landingpage auf der man erklärt, was man vor hat. So kann man alle Interessierten auf eine Seite leiten.
 
+Auf der Landingpage sollte sehr schnell klar sein, was das Produkt ist und warum es genutzt werden sollte.
+
+Es sollte so formuliert sein, dass ich es für meine Linkssammlung kopieren kann.
+
+```
+Name/Link - Beschreibung
+```
+
+![](./open_masters_community.png)
+
+[Open Masters](https://www.openmasters.org/)
+
 Wenn es niemand kauft, ist es wahrscheinlich nicht das richtige Produkt.
 Es reicht nicht, wenn die Leute sagen, sie würden es kaufen. Es zählen nur echte Verkäufe.
 

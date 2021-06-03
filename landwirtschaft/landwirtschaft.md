@@ -26,6 +26,8 @@ Es soll eine komplette Ernährung für die Anwohner produziert werden:
 
 Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Transportwege und es entsteht wieder eine Verbindung zwischen dem Landwirt und den Anwohnern. 
 
+[Umsetzung](./umsetzung.md)
+
 ## Vorbilder
 
 - [Polyface Farm](https://www.polyfacefarms.com/)
@@ -44,46 +46,6 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 ## Agroforstwirtschaft
 
 - [Wie Agroforstwirtschaft die Umwelt schützt](https://www.youtube.com/watch?v=UGx-X-b9c2Y)
-
-## Umsetzung
-
-### Obstwiese
-
-Obstwiese mit Weideflächen für Weidehähnchen und Kaninchen
-
-### Garten
-
-- Marktgarten
-- Hühner zur Kompostproduktion
-- Gewächshaus
-    + Sommer: Gemüse
-    + Winter: Stall
-
-### Teich
-
-- Fische 
-- Enten
-
-### Weide
-
-- Tagesweide
-- Rinder / Kühe (1. Tag)
-- Schafe (2. Tag)
-- Hühner (4. Tag)
-
-Das selbe Stück Land wird nacheinander von mehreren Tierarten genutzt. Sie ergänzen sich dabei gegenseitig.
-
-### Wald
-
-- Nüsse, Buchen, Eicheln, Kastanien (Nutzholz + Futter für Tiere)
-- Schweinehaltung
-
-### Kreislaufwirtschaft
-
-- Unverkauftes als Futter verwenden, anststt es zu entsorgen
-    + Brot / Brötchen
-    + Obst / Gemüse
-- Grünschnittannahme zur Hackschnitzelproduktion -> Kompost
 
 ## Links 
 

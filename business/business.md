@@ -41,6 +41,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Jesus Marketing](https://taylorpearson.me/jesusmarketing/)
 - [Die 4 einzigen Wege, um mit deinem Blog wirklich Geld zu verdienen](https://www.chimpify.de/marketing/wege-um-mit-blog-geld-zu-verdienen/)
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)
+- [The embedded entrepreneur](https://embeddedentrepreneur.com/)
 
 ## Bezahlung
 
@@ -184,6 +185,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [My playbook for shipping side projects](https://brianlovin.com/writing/my-playbook-for-shipping-side-projects)
 - [Welche geschäftlichen Tricks standen in dem durchgesickerten Memo von Elon Musk an seine Tesla-Mitarbeiter?](https://qr.ae/pGssMQ)
 - [The six principles of lifestyle businesses](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)
+- [The sunk cost of perfectionism](https://twitter.com/jackbutcher/status/1399798492521021446)
 
 ### Blogs
 

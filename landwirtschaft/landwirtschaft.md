@@ -47,6 +47,10 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 
 - [Wie Agroforstwirtschaft die Umwelt schützt](https://www.youtube.com/watch?v=UGx-X-b9c2Y)
 
+## Weide
+
+- [Grass and Grazing...Beef and trout](https://www.youtube.com/watch?v=FephP6p1dMg)
+
 ## Links 
 
 - [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)

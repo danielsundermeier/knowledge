@@ -90,6 +90,7 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [How I heat my home by mining crypto currencies](https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html)
 - [Zurück in die Stadt!](https://www.zeit.de/wirtschaft/2021-02/einfamilienhaeuser-klimaschutz-debatte-eigenheim-gruene-stadt-land?utm_source=pocket-newtab-global-de-DE)
 - [A review of Arcologies](https://daryanenergyblog.wordpress.com/2017/07/23/a-review-of-arcologies/amp/)
+- [The Joys of a Walkable Neighborhood](https://www.getrichslowly.org/walking/)
 
 ## Links
 

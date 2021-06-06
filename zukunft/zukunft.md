@@ -30,3 +30,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Transformation durch Realutopien](https://www.realutopien.de/)
 - [Existential Hope](https://www.existentialhope.com/)
 - [Future Timeline](https://www.futuretimeline.net/)
+- [The New Productivity Revolution](https://www.city-journal.org/innovation-economic-growth)

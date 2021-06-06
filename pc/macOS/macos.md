@@ -82,3 +82,7 @@ $ brew link php@7.4 --force --overwrite
 ## Nix
 
 - [How I Start: Nix (2020)](https://christine.website/blog/how-i-start-nix-2020-03-08) ([Lobsters](https://lobste.rs/s/lktf6u/how_i_start_nix))
+
+## Hackintosh
+
+- [How to Build a Hackintosh](https://www.freecodecamp.org/news/build-a-hackintosh/)

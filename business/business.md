@@ -186,6 +186,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Welche geschäftlichen Tricks standen in dem durchgesickerten Memo von Elon Musk an seine Tesla-Mitarbeiter?](https://qr.ae/pGssMQ)
 - [The six principles of lifestyle businesses](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)
 - [The sunk cost of perfectionism](https://twitter.com/jackbutcher/status/1399798492521021446)
+- [Why the Future of Startups are Studios](https://latecheckout.substack.com/p/why-the-future-of-startups-are-studios)
 
 ### Blogs
 

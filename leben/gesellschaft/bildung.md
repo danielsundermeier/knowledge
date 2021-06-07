@@ -89,6 +89,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 - [Someone has to run the fabs](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
 - [We need a career path for invention](https://rootsofprogress.org/a-career-path-for-invention)
 - [Life lessons I wish school taught us](https://twitter.com/Julian/status/1397281208296525833)
+- [Anybody Here Know COBOL?: On the Nature of Educational Crises](https://consilienceproject.org/education-crisis/)
 
 ## Videos
 

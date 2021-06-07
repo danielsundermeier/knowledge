@@ -21,6 +21,7 @@ Alles elektronisch verwalten können
 
 - [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
+- [Taiwan's Digital Democracy](https://consilienceproject.org/taiwans-digital-democracy/)
 
 ### Links
 

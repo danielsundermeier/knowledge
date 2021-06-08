@@ -68,6 +68,7 @@ Ist es wirklich so einfach?
 - [Bladeless Wind Ernergy](https://vortexbladeless.com/)
 - [A vertical axis wind turbine without the wind](https://www.youtube.com/watch?v=gcSnwW5v3f8)
 - [The Future of Solid State Wind Energy - No More Blades](https://www.youtube.com/watch?v=nNp21zTeCDc)
+- [The Future of the North Sea](https://www.youtube.com/watch?v=ZRLW-3Niseg)
 
 ## Biogas
 

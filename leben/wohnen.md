@@ -102,3 +102,4 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [Ownhome](https://ownworld.org/)
 - [Global Street Design Guide](https://globaldesigningcities.org/publication/global-street-design-guide/)
 - [Everyday Experiments](https://everydayexperiments.com/)
+- [Living Building Challenge](https://living-future.org/lbc/)

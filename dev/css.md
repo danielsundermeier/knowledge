@@ -2,7 +2,11 @@
 
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/)
 - [The Guide to Design](https://start.uxdesign.cc/)
+
+## Grid
+
 - [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
+- [Grids Part 1: To grid or not to grid](https://sarahmhigley.com/writing/grids-part1/)
 
 ## Images
 

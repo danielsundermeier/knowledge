@@ -73,6 +73,12 @@ Ist es wirklich so einfach?
 ## Biogas
 
 - [Biologische Methanisierung](https://www.youtube.com/watch?v=escqKaSqLmQ)
+- [Kläranlage produziert Strom für 7000 Haushalte](https://www.ingenieur.de/technik/fachbereiche/umwelt/klaeranlage-produziert-strom-fuer-7000-haushalte/)
+
+## Bio-Brennstoffzelle
+
+- [Bio-Brennstoffzelle](https://de.wikipedia.org/wiki/Bio-Brennstoffzelle)
+- [Wasserwirtschaft: Strom aus der Kläranlage](https://biooekonomie.de/nachrichten/neues-aus-der-biooekonomie/wasserwirtschaft-strom-aus-der-klaeranlage)
 
 ## Wasserkraft
 

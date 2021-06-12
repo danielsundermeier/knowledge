@@ -31,19 +31,6 @@
 
 - [How to write readable code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
 
-## Links
-
-- [Devhints](https://devhints.io/) - TL;DR for documentation.
-- [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
-- [Things I believe](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
-- [One Hundred Ideas for Computing](https://samsquire.github.io/ideas/)
-- [H+H Principles](https://github.com/hplush/hplu.sh/blob/master/principles.md)
-- [Tania Rascia
-](https://www.taniarascia.com/blog/) - Anleitungen zu verschiedenen Themen
-- [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
-- [Where to post your project](https://www.notion.so/Where-to-post-your-project-bc6ce54240884770b2467c3b0f7c1624)
-- [SOLID Principles In PHP](https://www.hashbangcode.com/article/solid-principles-php)
-
 ## Dokumentation
 
 Bevor ich programmiere, möchte ich mir genau aufschreiben, was ich vorhabe, welche Alternativen ich habe und wie ich es umsetzen möchte. Dadurch denke ich intensiv über das Thema nach und das Progammieren sollte deutlich einfacher werden und ich habe eine Dokumentation und kann genau nachvollziehen, wo ich stehe und warum ich Dinge so umgesetzt habe. Das erleichtert mir die Wartung.
@@ -104,3 +91,14 @@ video course](https://mailcoach.app/videos)
 - [Online communities](https://twitter.com/jsjoeio/status/1276911919845310465)
 - [How to Beat Coder's Block](https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/)
 - [How to Design Perfect (Software) Products](http://hintjens.com/blog:19)
+- [Devhints](https://devhints.io/) - TL;DR for documentation.
+- [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+- [Things I believe](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
+- [One Hundred Ideas for Computing](https://samsquire.github.io/ideas/)
+- [H+H Principles](https://github.com/hplush/hplu.sh/blob/master/principles.md)
+- [Tania Rascia
+](https://www.taniarascia.com/blog/) - Anleitungen zu verschiedenen Themen
+- [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
+- [Where to post your project](https://www.notion.so/Where-to-post-your-project-bc6ce54240884770b2467c3b0f7c1624)
+- [SOLID Principles In PHP](https://www.hashbangcode.com/article/solid-principles-php)
+- [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)

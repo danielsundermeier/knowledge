@@ -93,3 +93,4 @@ In einem guten sozialen Umfeld fällt es leichter einen Partner fürs Leben zu f
 - [Can Happiness Be Taught?](https://www.jstor.org/stable/20027916?read-now=1&refreqid=excelsior%3Aa8b5656d7c3f099513ec951d43529d92&socuuid=46173ad4-3e24-468a-b25f-557ef21e6db2&seq=1#metadata_info_tab_contents)
 - [New American Identities (Part 3)](https://paulskallas.substack.com/p/new-american-identities-part-3)
 - [How Being A Nomad Helps Reinforce What’s Actually Important](https://apurplelife.com/2021/06/08/nomad-whats-important/)
+- [Am Ende nur Kopfbahnhof](https://www.faz.net/aktuell/stil/leib-seele/ziele-im-leben-erreichen-die-hoffnung-auf-eine-veraenderung-17257364.html?printPagedArticle=true#pageIndex_2)

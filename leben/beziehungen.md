@@ -34,6 +34,7 @@ Ich schaffe das, indem ich Fragen stelle. Ich möchte in jedes Gespräch mit der
 ### Links
 
 - [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
+- [HOW TO TALK TO ANYONE by Leil Lowndes | Core Message](https://www.youtube.com/watch?v=huj-lwH2aC8)
 
 ## Polarisieren
 

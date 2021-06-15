@@ -95,6 +95,10 @@ Ist es wirklich so einfach?
 - Algenkraftwerke
 - [Dirt Simple Energy Storage](https://www.youtube.com/watch?v=tm7spMG0ch8) - Fernwärme aus Sandspeicher
 
+## Wärme
+
+- [Mixergy Water Storage. Smart technology for grid stability](https://www.youtube.com/watch?v=N8aGV3Z8dOA)
+
 ## Förderung
 
 - [KfW-Effizienzhaus-Standard](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Energieeffizient-sanieren/Das-KfW-Effizienzhaus/)

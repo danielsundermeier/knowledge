@@ -62,3 +62,4 @@ Zeit in der Natur verbringen
 ## Videos
 
 - [A Pandemic of Possibility: Zach Bush, MD](https://www.youtube.com/watch?v=qUiGgRHES4k)
+- [How Singapore Solved Healthcare](https://www.youtube.com/watch?v=sKjHvpiHk3s)

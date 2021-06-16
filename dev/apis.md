@@ -12,6 +12,7 @@
 - [Airbyte](https://airbyte.io/) - Simple & extensible open-source EL(T)
 - [YTT TECH](https://www.ytt-tech.com/) - a collection of instructional YouTube videos
 - [API CheatSheet](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
+- [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 
 ### Tests
 

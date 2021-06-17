@@ -135,7 +135,17 @@ at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 - [Synthesis](https://www.synthesis.is/)
 
+## Experimente
+
+Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jedes Jahr 1 Experiment durchführt und die Ergebnisse strukturiert (auf einer zentralen Platform?) veröffentlicht, können wir unglaublich viel lernen und verbessern
+
 ## Forschung
+
+- Grundlagenforschung vom Staat finanziert und zugänglich für alle
+- Preise ausloben, um bestimmte Ziele zu erreichen
+- Spezielle Probleme werden vom Markt erforscht
+
+### Links
 
 - [Redditors Aim to 'Free Science' From For-Profit Publishers](https://interestingengineering.com/redditors-aim-to-free-science-from-for-profit-publishers?utm_source=tldrnewsletter)
 - [New Science](https://newscience.org/) - aims to build new institutions of basic science, starting with the life sciences

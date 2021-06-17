@@ -28,6 +28,11 @@ Obstwiese mit Weideflächen für Weidehähnchen und Kaninchen
     + Apfelmuß
     + Biokiste?
 
+Agrivoltaics?
+- Zusätzliche Stromproduktion
+- Masten zwischen den Bäumen aufstellen
+- Schatten wäre gut für Wiese im Sommer
+
 ## Garten
 
 - Gemeinschaftsgarten

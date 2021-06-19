@@ -73,6 +73,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Flow](https://flow.rest/)
 - [Blog about what you've struggled with](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [How to write](https://twitter.com/dickiebush/status/1399879281652678664)
+- [So You Want to Write a Book](https://ed2592press.com/author/)
 
 ## Inspiration
 

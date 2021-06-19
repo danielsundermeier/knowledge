@@ -6,6 +6,10 @@ Ziel: Das Leben aller Menschen verbessern
 - Langristige Planung / Entscheidungen
 - Entscheidungen auf der Ebene, wo sie relevant sind
     + lokal
+        * Familie
+        * Nachbarschaft
+        * Dorf
+        * Stadt
     + regional
     + national
     + global

@@ -51,6 +51,16 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 
 - [Grass and Grazing...Beef and trout](https://www.youtube.com/watch?v=FephP6p1dMg)
 
+## Vermarktung
+
+Mehr Daten auf Produkt:
+
+- Produktionsdatum
+- Datum, an dem es in Verkauf gekommen ist
+- Verfallsdatum
+
+-> Wettbewerbsvorteil für lokale Produzenten
+
 ## Links 
 
 - [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)

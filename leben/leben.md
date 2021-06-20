@@ -236,3 +236,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Best way to spend $15K to improve quality of life](https://www.reddit.com/r/fatFIRE/comments/nnzqwz/best_way_to_spend_15k_to_improve_quality_of_life/gzyjgz5)
 - [Harder Than It Looks, Not As Fun as It Seems](https://www.collaborativefund.com/blog/hard/)
 - [What I learned about being a man from my Dad](https://testing.civilizationemerging.com/what-i-learned-about-being-a-man-from-my-dad/)
+- [How to live a meaningful life](https://testing.civilizationemerging.com/how-to-live-a-meaningful-life/)

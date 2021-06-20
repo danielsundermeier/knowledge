@@ -188,6 +188,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [The sunk cost of perfectionism](https://twitter.com/jackbutcher/status/1399798492521021446)
 - [Why the Future of Startups are Studios](https://latecheckout.substack.com/p/why-the-future-of-startups-are-studios)
 - [It can’t be transitory](https://thereformedbroker.com/2021/06/08/it-cant-be-transitory/)
+- [HOW TO GET RICH](https://www.edge.org/conversation/jared_diamond-how-to-get-rich)
 
 ### Blogs
 

@@ -143,3 +143,4 @@ for anyone who is interested in time management and productivity
 - [The Secret to Getting Ahead in Life](https://www.youtube.com/watch?v=XbUr8Dx2yjU)
 - [THE PRACTICE by Seth Godin](https://www.youtube.com/watch?v=1Zh4x8lPbnM)
 - [EFFORTLESS by Greg McKeown](https://www.youtube.com/watch?v=qrAs1nbhhos)
+- [Pretend Your Time is Worth $1,000/Hour and You'll Become 100x More Productive](https://www.youtube.com/watch?v=6J9a_6x44Zg)

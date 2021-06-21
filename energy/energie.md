@@ -62,13 +62,17 @@ Ist es wirklich so einfach?
 - [Solaranlage: Kosten & Wirtschaftlichkeit im Überblick](https://www.energie-experten.org/erneuerbare-energien/solarenergie/solaranlage/kosten)
 - [Agri-Photovoltaik](https://agri-pv.org/)
 - [Agrivoltaics](https://www.youtube.com/watch?v=2ue53mBUtNY)
+- [Diese Solarzellen aus Abfall brauchen kein Sonnenlicht!](https://www.youtube.com/watch?v=T7iGVymy6IU)
+- [AuREUS: Aurora Renewable Energy & UV Sequestration](https://www.jamesdysonaward.org/2020/project/aureus-aurora-renewable-energy-uv-sequestration/)
 
 ## Wind
 
-- [Bladeless Wind Ernergy](https://vortexbladeless.com/)
+- [Bladeless Wind Energy](https://vortexbladeless.com/)
 - [A vertical axis wind turbine without the wind](https://www.youtube.com/watch?v=gcSnwW5v3f8)
 - [The Future of Solid State Wind Energy - No More Blades](https://www.youtube.com/watch?v=nNp21zTeCDc)
 - [The Future of the North Sea](https://www.youtube.com/watch?v=ZRLW-3Niseg)
+- [EnerKite](https://www.enerkite.de/) - Flugwindkraftanlagen
+- [MOWEA](https://www.mowea.world/de/) - Modular wind energy systems
 
 ## Biogas
 

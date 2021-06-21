@@ -33,6 +33,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 - [The Minimalist Entrepreneur](https://renenauheimer.substack.com/p/the-minimalist-entrepreneur)
 - [Money Mind Manifesto](https://www.sloww.co/money-mind-manifesto/)
 - [Getting the Goalpost to Stop Moving](https://www.collaborativefund.com/blog/goalpost/)
+- [The Less You Want, The More You Have](https://www.youtube.com/watch?v=ZrMOLqgv714)
 
 ### Wohltätigkeit
 

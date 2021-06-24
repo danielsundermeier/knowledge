@@ -12,3 +12,4 @@
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)
 - [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)
+- [Sorry, Your Complain Meter Is Filled For the Day!](https://www.theemotionmachine.com/sorry-your-complain-meter-is-filled-for-the-day/)

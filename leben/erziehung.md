@@ -32,3 +32,4 @@ Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeite
 
 - [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)
 - [Whirli](https://whirli.com/) - Spielzeug Teilen
+- [What tips would you give to raise independent, happy children?](https://qr.ae/pGHZ3f)

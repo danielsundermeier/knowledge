@@ -8,6 +8,10 @@
 3. Sehr gut dafür bezahlt werden
 4. Herausfinden, was nur ich machen kann (Monopol bilden)
 
+## Zitate
+
+> "Don't be afraid to invest upfront. Invest in ways you cannot make a loss. Invest your time like you would your money." - [My "Investment Mindset"](https://blog.pragmaticengineer.com/the-investment-mindset/)
+
 ## Links
 
 - [Our new guide to doing good with your career](https://80000hours.org/key-ideas/)

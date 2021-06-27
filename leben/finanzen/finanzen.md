@@ -95,6 +95,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [When Everyone’s a Genius](https://www.collaborativefund.com/blog/speculation/?utm_source=feedburner&utm_maedium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
 - [Investing: The Greatest Show On Earth](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
 - [What is (Good) Financial Advice?](https://www.youtube.com/watch?v=TI5p8vqdjTw)
+- [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 
 ## Videos
 

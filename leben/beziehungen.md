@@ -23,6 +23,8 @@
 
 > "Want someone to call you? Call them first. Want someone to text you? Text them first. Miss someone? Tell them. You are only as alone as you think you are." - [What life lessons have you learnt in your twenties?](https://qr.ae/pGrJ48)
 
+> "Life isn’t fair. Get jacked, get to work, fix yourself, ask her out, accept rejection, accept that chicks are mean."- [Compassion and empathy for chicks](https://theredquest.wordpress.com/2021/06/21/compassion-and-empathy-for-chicks/)
+
 ## Kennenlernen
 
 Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.

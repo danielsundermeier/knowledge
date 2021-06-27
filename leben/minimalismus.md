@@ -13,3 +13,4 @@ Es fühlt sich gut an zu entrümpeln.
 - [The Barbell Strategy for Buying Quality Stuff](https://thedeepdish.org/buying-quality/)
 - [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
 - [Minimalism](https://markmanson.net/minimalism)
+- [This is everything I own – fits into one backpack](https://ryzalyusoff.com/everything-i-own-fits-into-one-backpack/)

@@ -94,6 +94,11 @@ Ist es wirklich so einfach?
 - [This Heating Tech Breaks the Laws of Physics](https://www.youtube.com/watch?v=moQapzjjmQM)
 - [Geothermal Energy meets Master Planned Communities](https://www.youtube.com/watch?v=F07RNxIAm9Q)
 
+## Atomkraft
+
+- Kleine wartungsfreie Reaktoren
+- Uran aus Meerwasser?
+
 ## Sonstiges
 
 - Algenkraftwerke

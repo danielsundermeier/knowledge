@@ -146,3 +146,4 @@ for anyone who is interested in time management and productivity
 - [EFFORTLESS by Greg McKeown](https://www.youtube.com/watch?v=qrAs1nbhhos)
 - [Pretend Your Time is Worth $1,000/Hour and You'll Become 100x More Productive](https://www.youtube.com/watch?v=6J9a_6x44Zg)
 [ADVANCED: How To Maximize The 80/20 Principle](https://www.youtube.com/watch?v=X0srpSdvktc)
+[10 Secrets From Benjamin Franklin’s Daily Schedule that Will Double Your Productivity](https://www.youtube.com/watch?v=gL5qJece-Sw)

@@ -44,6 +44,10 @@ butler laravel:new name
 brew upgrade
 ```
 
+```
+valet install
+```
+
 ## Traits
 
 public function initializeTRAITNAME

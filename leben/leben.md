@@ -238,3 +238,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [What I learned about being a man from my Dad](https://testing.civilizationemerging.com/what-i-learned-about-being-a-man-from-my-dad/)
 - [How to live a meaningful life](https://testing.civilizationemerging.com/how-to-live-a-meaningful-life/)
 - [Little Stories](https://www.collaborativefund.com/blog/little)
+- [What is something brutally honest that needs to be said?](https://qr.ae/pGoiqE)

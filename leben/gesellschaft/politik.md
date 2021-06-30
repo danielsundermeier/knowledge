@@ -52,3 +52,21 @@ Alles elektronisch verwalten können
 ## Markt
 
 Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt so lenken, um Lösungen zu generieren, die positive Auswirkungen haben
+
+## Rente
+
+- Im optimalen Fall hat jeder einen individuellen Fond und spart selbst aus seinem Bruttolohn, bis er finanziell unabhängig ist
+-> (Finanz-) Bildung !!!
+
+- (Zusätzliche) Einzahlungen kommen wie jetzt vom Bruttoeinkommen
+- Einmalzahlung bei Geburt in Depot
+- Bei Langfristigem Halten Steuervorteile?
+- Arbeiten so lange/viel, wie man möchte
+- Rente aus Depot
+
+- Was passiert mit Menschen, ohne Depot / nicht genug Kapital?
+- Mindesteinlage als Pflicht?
+
+### Umstellung
+
+- Zuerst nur ein kleiner Teil der Renteneinzahlungen in ETF, der immer weiter erhöht wird, wenn die Belastung des aktuellen Rentensystems kleiner wird?

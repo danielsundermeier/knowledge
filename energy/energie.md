@@ -99,6 +99,10 @@ Ist es wirklich so einfach?
 - Kleine wartungsfreie Reaktoren
 - Uran aus Meerwasser?
 
+### Links
+
+- [Energy Abundance: The Future of Nuclear](https://www.diamandis.com/blog/nuclear-energy-abundance)
+
 ## Sonstiges
 
 - Algenkraftwerke

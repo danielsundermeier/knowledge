@@ -41,6 +41,8 @@ Diese Art zu wohnen macht glücklicher, ist günstiger, lebenswerter und verbrau
 Auch hier soll wieder eine Genossenschaft gegründet werden, die sich um den Bau, Erhalt und die Weiterentwicklung des Wohnraums kümmert. 
 Die Bewohner sollen selbst bestimmen, was, wie, wo gebaut wird und wie sie leben möchten.
 
+Die Genossenschaft kann neue Gebäude bauen, bestehende Gebäude kaufen, renovieren, auf neue Energiestandards bringen (, ausbauen) und (an vorherigen Eigentümer) vermieten.
+
 Auch hier sollte es Experten geben, die die Genossenschaften unterstützen.
 
 [So könnte ich mir den Start von Landwirtschaft & Wohnen vorstellen](../leben/gesellschaft/start.md)

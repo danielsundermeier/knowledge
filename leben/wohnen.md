@@ -77,6 +77,12 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [How Finland Solved Homelessness](https://www.huffpost.com/entry/homelessness-finland-housing-first_n_5c503844e4b0f43e410ad8b6)
 - [Housing-First-Fonds](https://www.housingfirstfonds.de/)
 
+## Schimmende / Fliegende Städte
+
+- Ortsunabhängig
+- Autark
+- Platz ist verfügbar
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

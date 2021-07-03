@@ -239,3 +239,4 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [How to live a meaningful life](https://testing.civilizationemerging.com/how-to-live-a-meaningful-life/)
 - [Little Stories](https://www.collaborativefund.com/blog/little)
 - [What is something brutally honest that needs to be said?](https://qr.ae/pGoiqE)
+- [What is a life-changing realization you wish you had sooner?](https://news.ycombinator.com/item?id=27690731)

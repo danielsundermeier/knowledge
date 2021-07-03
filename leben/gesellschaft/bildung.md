@@ -149,3 +149,6 @@ Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jede
 
 - [Redditors Aim to 'Free Science' From For-Profit Publishers](https://interestingengineering.com/redditors-aim-to-free-science-from-for-profit-publishers?utm_source=tldrnewsletter)
 - [New Science](https://newscience.org/) - aims to build new institutions of basic science, starting with the life sciences
+- [The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+- [Thiel Fellowship](http://thielfellowship.org/)
+- [Stiftelsen Ekskäret](https://ekskaret.se/)

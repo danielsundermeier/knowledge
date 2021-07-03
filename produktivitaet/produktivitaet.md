@@ -92,6 +92,8 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 ## Langeweile
 
 - [The Riddle of Boredom](https://moretothat.com/the-riddle-of-boredom/)
+- [Casualties of Perfection
+](https://www.collaborativefund.com/blog/inefficient/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
 
 ## Zitate
 

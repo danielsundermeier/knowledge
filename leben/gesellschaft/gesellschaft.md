@@ -111,6 +111,11 @@ Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie bei
 
 [Life as a Service](../../ideen/life-as-a-service.md)
 
+## Broken Window Theory
+
+Wenn etwas heruntergekommen ist, ist die wahrscheinlichkeit höher, dass es weiter verkommt.
+Wenn etwas gefpegt wird, bleibt es auch eher so.
+
 ## Links
 
 - [The National Dashboard and Human Progress](https://max2c.com/national-dashboard-and-human-progress/)

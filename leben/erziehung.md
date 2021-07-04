@@ -15,11 +15,17 @@
 
 ## Finanzen
 
+- Geringes Taschengeld -> Sparsamkeit
+- Für Geld arbeiten -> Wert des Geldes kennenlernen
+- Beibringen, dass man Geld mit Geld verdient nicht mit Arbeit -> Investments
+
+### Unterstützung
+
 - ETF von Geburt an
     + Sparplan
     + Einmalig
 - Grundstück -> Kind baut selbst ein Gebäude + Garten, um zu lernen & experimentieren
-- Mietobjekt zur Geburt mit 20 Jahre Kredit
+- Mietobjekt zur Geburt mit Kredit über 20 Jahre
 - "Bank von Papa": Hohe Zinsen für "Einlagen" von Kind zahlen -> sparen lernen
 
 Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeitet. 

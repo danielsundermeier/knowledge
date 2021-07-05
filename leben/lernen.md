@@ -96,6 +96,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [In Online Ed, Content Is No Longer King—Cohorts Are](https://future.a16z.com/cohort-based-courses/)
+- [How to learn and master a new skill](https://www.youtube.com/watch?v=_ySbzVXiwzQ)
 
 ## Spaced Repetition
 

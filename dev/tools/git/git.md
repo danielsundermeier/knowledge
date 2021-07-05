@@ -20,6 +20,7 @@
 - [Advanced Git Features You Didn’t Know You Needed](https://martinheinz.dev/blog/43)
 - [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 - [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes?utm_source=tldrnewsletter)
+- [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 
 ## Renaming (casesensitive)
 

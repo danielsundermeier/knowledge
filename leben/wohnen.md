@@ -115,3 +115,5 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [Everyday Experiments](https://everydayexperiments.com/)
 - [Living Building Challenge](https://living-future.org/lbc/)
 - [Boxable](https://www.boxabl.com/)
+- [I want to live in a baugruppe](https://grist.org/cities/i-want-to-live-in-a-baugruppe/)
+- [The 5 coolest trends in urbanism ... in Europe](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism)

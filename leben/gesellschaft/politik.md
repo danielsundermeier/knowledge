@@ -55,8 +55,9 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt s
 
 ## Rente
 
-- Im optimalen Fall hat jeder einen individuellen Fond und spart selbst aus seinem Bruttolohn, bis er finanziell unabhängig ist
+- Im optimalen Fall hat jeder einen individuellen Fond und spart selbst aus seinem Bruttolohn, bis man finanziell unabhängig ist
 -> (Finanz-) Bildung !!!
+- Möglichkeit nach eigenem Depot, das Depot der Kinder aus Bruttolohn zu besparen
 
 - (Zusätzliche) Einzahlungen kommen wie jetzt vom Bruttoeinkommen
 - Einmalzahlung bei Geburt in Depot

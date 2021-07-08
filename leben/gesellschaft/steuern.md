@@ -4,6 +4,12 @@
 - Kein Absetzen
 - Einfache Regeln
 
+Kann man ein extrem einfaches Steuersystem erstellen?
+
+Es gibt nur eine Steuer auf den Umsatz, die Unternehmen zahlen. Dazu werden alle Ausgangsrechnungen summiert und darauf eine Steuer gezahlt.
+
+- [Umsatzprovisionen statt Steuern](https://www.economy4mankind.org/umsatzprovisionseinnahmen/)
+
 ## Einkommen
 
 - Steuern für Geringverdiener senken 

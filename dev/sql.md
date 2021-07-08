@@ -1,11 +1,13 @@
 # SQL 
 
 ## Links
+
 - [SQL Operators Tutorial](https://www.freecodecamp.org/news/sql-operators-tutorial/)
 - [SQL Templates](https://popsql.com/sql-templates)
 - [Reduce the size of MySQL dump file](https://mauricius.dev/reduce-the-size-of-a-large-mysql-dump-file/)
 - [Use the Index, Luke](https://use-the-index-luke.com/)
 - [In-depth discussion of all kinds of topics related to the database modeling](https://minimalmodeling.substack.com/)
+- [SQL Join Types Explained Visually](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
 
 ## SQL Syntax and PDO Operations
 

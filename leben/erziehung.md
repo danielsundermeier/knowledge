@@ -19,6 +19,14 @@
 - Für Geld arbeiten -> Wert des Geldes kennenlernen
 - Beibringen, dass man Geld mit Geld verdient nicht mit Arbeit -> Investments
 
+Auf der einen Seite ist es sinnvoll, dass Menschen sich selbst etwas erarbeiten und erreichen. Man weiß es dann mehr zu schätzen, hat Disziplin gelernt und hat herausgefunden, was man erreichen kann. 
+
+Auf der anderen Seite ist es hilfreich, wenn man eine gewissen Sicherheit hat, damit man das tun kann, was man möchte. Um das herauszufinden, muss man viel experimentieren.
+
+Wie kann man beides kombinieren?
+
+Dem Kind schon früh ermöglichen vieles in einer sicheren Umgebung auszuprobieren und Fehler zu machen und sich gleichzeitig etwas aufzubauen. (?)
+
 ### Unterstützung
 
 - ETF von Geburt an

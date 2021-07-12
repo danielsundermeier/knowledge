@@ -42,6 +42,10 @@ Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeite
 
 - [With our first kid coming, what’re some clever ways we can help her out financially?](https://twitter.com/nateliason/status/1404441187143110660)
 
+## Programmieren
+
+- [Programming for kids](https://github.com/jackdoe/programming-for-kids)
+
 ## Links
 
 - [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)

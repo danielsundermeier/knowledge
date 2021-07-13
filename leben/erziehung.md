@@ -12,6 +12,7 @@
     + Google
     + Bibliothek
     + YouTube
+- Möglichkeit bieten vieles auszuprobieren
 
 ## Finanzen
 
@@ -41,6 +42,30 @@ Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeite
 ### Links
 
 - [With our first kid coming, what’re some clever ways we can help her out financially?](https://twitter.com/nateliason/status/1404441187143110660)
+
+## Rite of Passage
+
+"Test" zum Erwachsenwerden.
+
+Ich glaube Jugendliche sollten sich Herausforderungen stellen und etwas für die Gemeinschaft tun, um ein "vollwertiges" Mitglied zu werden.
+
+Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten und schätzen die Gemeinschaft mehr, da sie etwas in sie investiert haben. Gleichzeitig profitiert die Gemeinschaft von der Investition der Jugendlichen. Das führt zu einem größeren Zusammenhalt.
+
+### Gemeinschaft
+
+- Etwas organisieren / Verantwortung für etwas übernemhen
+    + Öffentliche Plätze (Grillplatz, Gemeinschaftshaus, Obstbäume)
+    + Feiern (Straßenfest, Dorfgemeinschaftsfest)
+- Öffentliche Plätze pfegen / bauen / erweitern
+
+### Persönlich / Familie
+
+- Versorgung von Tieren
+- Selbstversorgung (teilweise)
+    + Gemüse anbauen
+    + Tiere halten
+- Haus bauen / erweitern
+- Unternehmen gründen (in sicherem Umfeld)
 
 ## Programmieren
 

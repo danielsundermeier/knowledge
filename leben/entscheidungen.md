@@ -13,7 +13,7 @@
     * Termine
         + Nächsten Termin beim aktuellen Termin machen
         + Einkaufen (z.B. jeden Mittwoch)
-        + Friseur (z. B. 1. Samstag im Monat)
+        + Friseur (z.B. 1. Samstag im Monat)
         + Zahnarzt
     * Gruppieren 
         + Rechnungen bezahlen (jeden Montag)
@@ -51,7 +51,7 @@ Ich kann das positive Feedback aller Lösungen kombinieren und die endgültige L
 
 ### Lösungen von anderen einbeziehen
 
-Ich bin in der Regeln nicht der erste, der ein bestimmtes Problem hat.
+Ich bin in der Regeln nicht der Erste, der ein bestimmtes Problem hat.
 Es ist gut sich zu informieren, wie andere das Problem gelöst haben.
 
 Lösungen aus anderen Bereichen für meinen konkreten Fall anpassen.
@@ -59,26 +59,34 @@ Lösungen aus anderen Bereichen für meinen konkreten Fall anpassen.
 ### Die Lösung sabotieren
 
 Versuchen herauszufinden, was die Nachteile der meiner favorisierten Lösung sind.
-Was muss passieren, damit eine andere Lösung die Beste Lösung ist?
+Was muss passieren, damit eine andere Lösung die beste Lösung ist?
 
 ### Objektive Ansicht
 
-Wie ist es anderen Menschen ergangen, die die gleiche Entscheidung getroffen haben?
-Was würde ich einem Freund in dieser Situation raten?
+- Wie ist es anderen Menschen ergangen, die die gleiche Entscheidung getroffen haben?
+- Was würde ich einem Freund in dieser Situation raten?
 
 ### Testen
 
-Bevor ich eine Entscheidung treffen, kann ich kleine Tests machen. So kann ich ohne viel Aufwand ausprobieren, ob die Entscheidung funktionieren kann.
+Bevor ich eine Entscheidung treffe, kann ich kleine Tests machen. So kann ich ohne viel Aufwand ausprobieren, ob die Entscheidung funktionieren kann.
+
+#### Beispiele
+
+- Im kleinen Maßstab, ohne viel Aufwand ausprobieren
+- Praktika
+- Vor Karriere Entscheidungen mit anderen Menschen mit dem Job sprechen
 
 ### Zukunftsperspektive
 
 Wie wird sich die Entscheidung in 
+
 - 10 Minuten
 - 10 Monaten
 - 10 Jahren 
+
 anfühlen?
 
-Ich kann mir den besten und schlechtesten Ausgang der Entscheidung vorstellen. So kann ich reagieren, wenn die Konsequenzen der Entscheidung zum negativen tendieren.
+Ich kann mir den besten und schlechtesten Ausgang der Entscheidung vorstellen. So kann ich reagieren, wenn die Konsequenzen der Entscheidung zum Negativen tendieren.
 
 ### Werte
 

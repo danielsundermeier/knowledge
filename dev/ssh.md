@@ -1,5 +1,13 @@
 # SSH
 
+## Kopieren
+
+```
+cat ~/.ssh/id_rsa.pub | pbcopy
+```
+
+- [How to view your SSH keys in Linux, macOS, and Windows](https://www.techrepublic.com/article/how-to-view-your-ssh-keys-in-linux-macos-and-windows/)
+
 ## PATH
 
 anzeigen

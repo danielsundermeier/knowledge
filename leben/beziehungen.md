@@ -2,6 +2,7 @@
 
 - Wenn ich etwas möchte, muss ich danach fragen.
 - Wenn mir etwas nicht gefällt, muss ich es ansprechen.
+- Wenn mir etwas gefällt auch.
     + bemerken
     + loben
     + Geschenke
@@ -9,7 +10,7 @@
 - Frauen lieben Blumen!
 - Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
 - Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
-- Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist
+- Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist / Wie sie ihren Tag verbringen (würden)
 - Über alles reden; keine Konflikte ignorieren
 - Positiv sein; negative Dinge für mich behalten
 - Namen merken und im Gespräch wiederholen
@@ -61,7 +62,7 @@ Es gibt 6 Arten der Liebe:
 - Ludus, or playful love
 
 All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) ist sehr unwahrscheinlich. Stattdessen kann man sie auf unterschieldiche Menschen verteilen:
-- fester Partner
+- Fester Partner
 - Familie
 - Freunde & Bekannte
 
@@ -97,6 +98,8 @@ Eigenschaften, die alle Menschen in anderen suchen:
 
 Ich bekomme zurück, was ich aussende -> Bedürnisse des Gegenübers achten.    
 going positiv & going first
+
+Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperson nach Hause kommt. Der Hund erfüllt dadurch die oben aufgelisteten Bedürfnisse und der Mensch gibt dem Hund alles, was er benötigt. 
 
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 

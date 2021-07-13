@@ -85,6 +85,17 @@ Wenn ich ein attraktives Leben führe, wollen andere Menschen daran teilhaben. D
 
 In einem guten sozialen Umfeld fällt es leichter einen Partner fürs Leben zu finden und eine Familie zu gründen.
 
+## Herausforderung
+
+Sich selbst Herausforderungen stellen und etwas tun!  
+Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
+
+### Beispiele
+
+- Training
+- Ernährung
+- Neues Lernen / Ausprobieren
+
 ## Links
 
 - [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)

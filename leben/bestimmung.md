@@ -2,7 +2,7 @@
 
 - Ich erarbeitet mir meine "Bestimmung" anstatt sie zu finden
 - Dinge, die ich oft mache, werden zur Bestimmung
-- Ich werde in Dingen wird gut, die ich oft mache
+- Ich werde gut in Dingen, die ich oft mache
 - Ich mache Dinge oft, wenn ich Spaß daran habe
 - Dinge machen Spaß, wenn sie mir leichter fallen
 
@@ -14,10 +14,9 @@
 Es gibt zwei Wege außergewöhnlich zu werden:
 
 1. Der Beste in einer bestimmten Sache zu werden
+2. Sehr gut in mehreren Dingen werden
 
 Der Beste in etwas zu werden ist extem schwierig -> Sehr wenige Menschen spielen in der NBA.
-
-2. Sehr gut in mehreren Dingen werden
 
 Wenn ich 3 oder mehr meiner Fähigkeiten und Talente kombinieren kann, kann ich mit dieser Kombination zu den Besten in der Welt gehören.
 
@@ -26,13 +25,16 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 
 ## Talent Stack
 
-Fähigkeiten:
+### Fähigkeiten
+
 - Meine Leidenschaft(en)
 - Lesen
 - Schreiben
 - Kommunikation
 - Arithmetik
 - Verkaufen
+
+### Links 
 
 - [What is a Talent Stack?](https://www.sloww.co/talent-stack/)
 - [Talent Stack](https://www.scottadamssays.com/2016/12/27/the-kristina-talent-stack/) 

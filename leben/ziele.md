@@ -3,6 +3,8 @@
 Kurzfristiges Denken verschlechtert das Leben in der Regel insgesamt, auch wenn man kurzfristig Vorteile hat.
 Langfristiges Denken verbessert es, auch wenn man kurzfristig etwas opfern muss.
 
+Für mich ist es wichtig ein großes Ziel in allen Bereichen vor Augen zu haben. Ich denke dann viel öfter darüber nach, habe mehr Spaß und ein Gefühl des Fortschritts. Außerdem fallen mir die unangenehmen Aufgaben viel leichter und ich mache sie gerne, um das große Ziel zu erreichen.
+
 ## Ziele setzen
 
 Ich überlege mir, was ich erreichen möchte.
@@ -14,6 +16,16 @@ Beispiel
 Was möchte ich erreichen? Sportlicher werden
 Welche Art von Peron erreicht das Ziel? Sportler
 Was macht diese Person? Trainieren
+
+### In die Zukunft schauen
+
+Menschen, (die älter sind als ich) können als Blick in die Zukunft dienen. Welcher Lebensstil führt zu einem Ergebnis. 
+
+Wenn ich jemanden finde, der ein Leben lebt, dass mir gefällt, kann ich tun, was die Person getan hat. Es muss nicht das komplette Leben sein. Es kann auch ein Bereich sein.
+
+Ich kann Dinge vermeiden, die Menschen getan haben, dessen Leben ich nicht ansprechend finde möchte.
+
+So kann ich mir das Beste aus den Leben meiner Mitmenschen heraussuchen und in mein Leben integrieren.
 
 ## Ziele erreichen
 

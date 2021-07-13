@@ -48,6 +48,10 @@ Ich muss Mahlzeiten essen, die mit schmecken und darf auf nichts verzichten! Son
 
 [YOUR DIET SUCKS](https://www.youtube.com/watch?v=V_qBqFNThXI)
 
+### Links
+
+- [FASTER FAT LOSS | Meal Plan 4 Rapid Results](https://www.youtube.com/watch?v=qwdu_CwbDco)
+
 ## Trinken
 
 Ich trinke nur Wasser. Tee ist eine gute Alternative.

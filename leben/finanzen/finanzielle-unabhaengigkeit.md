@@ -29,7 +29,7 @@ Benötigte Depotgröße = Jährliche Ausgaben * 33
 Entspricht einer Dividende von ca. 3%
 
 ```
-Pro 100 € pro Monat benötige ich 40.000 € im Depot
+Pro 100 € Dividenden pro Monat benötige ich 40.000 € im Depot
 ```
 
 ## Auszahlung

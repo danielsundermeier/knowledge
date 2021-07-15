@@ -3,6 +3,7 @@
 ## Links
 
 - [WiFi Login Card](https://wifi.dev.bdw.to/)
+- [WiFi Card](https://github.com/bndw/wifi-card)
 - [Start Your Own ISP](https://startyourownisp.com/)
 - [Building a better home network](https://kevin.burke.dev/kevin/building-a-better-home-network/)
 

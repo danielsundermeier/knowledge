@@ -159,6 +159,7 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Atomic Habits – James Clear](https://freiweg.at/2018/11/03/atomic-habits/)
 - [Buchempfehlung: „Atomic Habits“ von James Clear](https://wissensdialoge.de/buchempfehlung-atomic-habits-von-james-clear/)
 - [The Small Things Are Big Windows Into Who You Are](https://moretothat.com/small-things/)
+- [My thoughts on free will](https://twitter.com/david_perell/status/1414685400308793347)
 
 ### Bücher
 

@@ -46,6 +46,7 @@ Jeden Tag etwas für meine Ziele zun tun ist der wichtigste Baustein. Es reicht 
 ![](https://seanwes.com/wp-content/uploads/2015/01/show-up-every-day-two-years.jpg)
 
 - [Show Up Every Day for Two Years](https://seanwes.com/2015/show-up-every-day-for-two-years/)
+- [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 
 ## Plateau
 

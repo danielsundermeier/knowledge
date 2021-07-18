@@ -2,7 +2,7 @@
 
 Die Landwirte sollen Produkte direkt an die Kunden verkaufen, damit sie von der ganzen Wertschöpfung profitieren können und nicht in Abhängigkeit der Industrie, die die Preise diktiert, geraten.
 
-Dazu soll grßer Wert auf die Qualität der Produkte und der Produktionsmethoden gelegt werden.
+Dazu soll großer Wert auf die Qualität der Produkte und der Produktionsmethoden gelegt werden.
 
 Die Produktion soll regenerativ sein und zum Wohl aller beitragen.
 - Permakultur
@@ -60,6 +60,10 @@ Mehr Daten auf Produkt:
 - Verfallsdatum
 
 -> Wettbewerbsvorteil für lokale Produzenten
+
+## Projekte
+
+- [FederWaldHof](https://federwaldhof.de)
 
 ## Links 
 

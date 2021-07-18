@@ -64,3 +64,4 @@ Zusätzlich halte ich das Dehen/Mobilität für sehr wichtig. Besonders um die H
 - [Breiter, schlanker, stärker: besser aussehen als Mann](https://fitness-experts.de/maenner)
 - [More Gains, Half the Time (LIFT LIKE THIS!)](https://www.youtube.com/watch?v=9e2EgsKo_qU)
 - [AWorkoutRoutine](https://www.aworkoutroutine.com/)
+- [/r/bodyweightfitness Recommended Routine](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view)

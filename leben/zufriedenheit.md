@@ -8,6 +8,8 @@ Indem ich Dinge produziere anstatt nur zu konsumieren bin ich zufriedener. Beson
 
 Ich glaube etwas Leiden gehört zu einem guten Leben dazu. Dadurch habe ich den Antrieb mein Leben zu verbessern und etwas zu tun. Entscheidend ist, dass ich es mir selbst aussuche. Es ist wichtig herauszufinden, wofür ich bereit bin Opfer zu bringen.
 
+> “human beings need three basic things in order to be content: they need to feel competent at what they do; they need to feel authentic in their lives; and they need to feel connected to others. These values are considered "intrinsic" to human happiness and far outweigh "extrinsic" values such as beauty, money and status.” - [Tribe: On Homecoming and Belonging](https://www.goodreads.com/book/show/40940205-tribe)
+
 ## Ziele
 
 Ich glaube die meisten Ziele die von der Gesellschaft als erstrebenswert angesehen werden führen nicht zu einem zufriedenen Leben.

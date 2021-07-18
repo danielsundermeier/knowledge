@@ -117,3 +117,4 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [Boxable](https://www.boxabl.com/)
 - [I want to live in a baugruppe](https://grist.org/cities/i-want-to-live-in-a-baugruppe/)
 - [The 5 coolest trends in urbanism ... in Europe](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism)
+- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)

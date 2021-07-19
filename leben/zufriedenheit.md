@@ -92,6 +92,9 @@ In einem guten sozialen Umfeld fällt es leichter einen Partner fürs Leben zu f
 Sich selbst Herausforderungen stellen und etwas tun!  
 Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 
+![](https://pbs.twimg.com/media/E1Py7K-XsAIoJzZ?format=jpg&name=medium)
+[What comfort does](https://twitter.com/Mehdiyac/status/1392723867509067777)
+
 ### Beispiele
 
 - Training

@@ -33,3 +33,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Future Timeline](https://www.futuretimeline.net/)
 - [The New Productivity Revolution](https://www.city-journal.org/innovation-economic-growth)
 - [Definite optimism as human capital](https://danwang.co/definite-optimism-as-human-capital/)
+- [Drawing pictures of cities](https://noahpinion.substack.com/p/drawing-pictures-of-cities)

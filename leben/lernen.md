@@ -98,6 +98,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [In Online Ed, Content Is No Longer King—Cohorts Are](https://future.a16z.com/cohort-based-courses/)
 - [How to learn and master a new skill](https://www.youtube.com/watch?v=_ySbzVXiwzQ)
 - [Studying the mundane](https://notebook.drmaciver.com/posts/2021-07-07-14:11.html)
+- [How to Learn Faster If You Are Not a Genius](https://www.youtube.com/watch?v=hbF7MRZEtl8)
 
 ## Spaced Repetition
 

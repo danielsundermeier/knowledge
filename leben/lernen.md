@@ -99,6 +99,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [How to learn and master a new skill](https://www.youtube.com/watch?v=_ySbzVXiwzQ)
 - [Studying the mundane](https://notebook.drmaciver.com/posts/2021-07-07-14:11.html)
 - [How to Learn Faster If You Are Not a Genius](https://www.youtube.com/watch?v=hbF7MRZEtl8)
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 
 ## Spaced Repetition
 

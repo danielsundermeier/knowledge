@@ -189,6 +189,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Why the Future of Startups are Studios](https://latecheckout.substack.com/p/why-the-future-of-startups-are-studios)
 - [It can’t be transitory](https://thereformedbroker.com/2021/06/08/it-cant-be-transitory/)
 - [HOW TO GET RICH](https://www.edge.org/conversation/jared_diamond-how-to-get-rich)
+- [The Secret 3-Step Master Plan to Cure Healthcare](https://www.notboring.co/p/the-secret-3-step-master-plan-to)
 
 ### Blogs
 

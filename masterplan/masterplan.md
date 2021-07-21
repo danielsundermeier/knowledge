@@ -9,7 +9,7 @@ Menschheit vom Zwang zu arbeiten befreien und sie dabei unterstützen sich selbs
 [Manna von Marshall Brain](https://marshallbrain.com/manna1)
 
 Das Ende des ersten Teil muss verhindert werden.
-Der zweite Teil ist das erstrebenswert.
+Der zweite Teil ist erstrebenswert.
 
 ## Vision
 

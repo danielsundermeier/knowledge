@@ -45,7 +45,7 @@ Die Genossenschaft kann neue Gebäude bauen, bestehende Gebäude kaufen, renovie
 
 Auch hier sollte es Experten geben, die die Genossenschaften unterstützen.
 
-[So könnte ich mir den Start von Landwirtschaft & Wohnen vorstellen](../leben/gesellschaft/start.md)
+[So könnte ich mir den Start von Landwirtschaft & Wohnen vorstellen](../gesellschaft/start.md)
 
 [Zur Übersicht](./masterplan.md)
 

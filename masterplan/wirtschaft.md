@@ -1,12 +1,16 @@
 # Wirtschaft
 
-Ziel: Jeder soll seiner Leidenschaft nachgehen können und damit Geld verdienen können, wenn es gewünscht ist.
+Ziel: Jeder soll seiner Leidenschaft nachgehen und damit Geld verdienen können, wenn es gewünscht ist.
 
 Es soll zu Kooperation statt Konkurrenz ermutigt werden.
 
+Firmen sollen ein Problem nachhaltig lösen und danach aufgelöst werden. Sie sollen sich selbst überflüssig machen.
+
 ## Gründerzentrum
 
-Ziel: Beim Gründen unterstützen, Verwaltung für Firmen minimieren und Prozesse verschlanken.
+Ziel: Beim Gründen unterstützen, Verwaltung für Firmen minimieren, Abläufe optimieren und Prozesse verschlanken.
+
+Die Person / das Team soll sich auf das Kerngeschäft konzentrieren können. Das Drumherum soll vom Gründerzentrum erledigt werden.
 
 - Netzwerk
 - Lokale Firmen unterstützen
@@ -29,7 +33,7 @@ Einzelne Unternehmen schließen sich zu Genossenschaften zusammen, um größere 
 
 - Bäcker -> Mühle
 - Milchproduzenten -> Molkerei
-- mNahrungsmittelproduzenten -> Handelsgesellschaft
+- Nahrungsmittelproduzenten -> Handelsgesellschaft
 
 ### Gemeinschaft
 

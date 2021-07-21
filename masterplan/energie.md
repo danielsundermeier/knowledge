@@ -4,7 +4,7 @@ Jede Gemeinschaft soll ihre eigene Energie produzieren und speichern. Die Gmeins
 
 Die Energieversorgung erfolgt dabei regenerativ, lokal und dezentral.
 
-Es soll immer genug günstige Energie zur Verfügung stehen. Dafür wird die Energieversorgung überbaut. Es wird für den schlechtesten Fall gebaut. Das bedeutet in den meisten Fällen wird es "zu viel" Energie geben. Diese kann dann genutzt werden, um die lokale Wirtschaft zu versorgen oder anderen Projekte zur Verfügung getellt werden.
+Es soll immer genug günstige Energie zur Verfügung stehen. Dafür wird die Energieversorgung überbaut. Es wird für den schlechtesten Fall gebaut. Das bedeutet in den meisten Fällen wird es "zu viel" Energie geben. Diese kann dann genutzt werden, um die lokale Wirtschaft zu versorgen oder anderen Projekten zur Verfügung getellt werden.
 
 Zusätzlich soll die Energieeffizienz gesteigert werden. Häuser werden isoliert und saniert. Alle neuen Häuser müssen Plus Energie Häuser sein.
 Alle sollen zur Energieversorgung beitragen. 

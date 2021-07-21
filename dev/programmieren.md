@@ -31,6 +31,10 @@
 
 - [How to write readable code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
 
+## Tests
+
+- [You should want to write unit tests and here is why](https://dev.to/jbszczepaniak/you-should-want-to-write-tests-and-here-is-why-4bi5)
+
 ## Dokumentation
 
 Bevor ich programmiere, möchte ich mir genau aufschreiben, was ich vorhabe, welche Alternativen ich habe und wie ich es umsetzen möchte. Dadurch denke ich intensiv über das Thema nach und das Progammieren sollte deutlich einfacher werden und ich habe eine Dokumentation und kann genau nachvollziehen, wo ich stehe und warum ich Dinge so umgesetzt habe. Das erleichtert mir die Wartung.
@@ -104,3 +108,4 @@ video course](https://mailcoach.app/videos)
 - [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
 - [Organizing Miscellaneous Utility Functions](https://afilina.com/misc-util-functions)
 - [Opinion-driven design](https://stitcher.io/blog/opinion-driven-design)
+- [The road to hell is paved with special features for special customers](https://twitter.com/mostalive/status/1415983044935274506)

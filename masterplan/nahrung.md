@@ -14,10 +14,14 @@ Dabei wird hohen Wert auf die Qualität und Produktionsmethoden gelegt (Permakul
 
 Im Zentrum gibt es einen Waldgarten und den Gemüseanbau. Das Naherholungsgebiet wird als Weide und Wald genutzt, indem Tiere gehalten werden.
 
+Es gibt überall Gärten, Obstwiesen auf denen Tiere grasen und Wälder. Sie dienen gleichzeitig als Naherholungsgebiet. Jeder Anwohner soll seine Lebensmittel fußläufig bekommen können.
+
+Es sollen auch öffentliche Gärten angelegt und Obstbäume gepflanzt werden. Die Gärten können von Schülern betreut werden, die dadurch lernen, wie Nahrungmittel produziert werden.
+
 ![](http://www.perennialsolutions.org/wp-content/uploads/2014/12/8.1c-silvopasture-1024x768.jpg)  
 [Carbon Farming Practices](http://www.perennialsolutions.org/carbon-farming-practices)
 
-Weiter außerhalb sind dann die Getreidefelder.
+Weiter außerhalb findet der Ackerbau statt. Auf den Feldern werden gleichzeitig Bäume für die Holzgewinnung angebaut.
 
 Es soll einen Lieferdienst geben, der alle mit allen Mahlzeiten des Tages versorgt. Der Ernährungsplan wird zusammen mit dem [Gesundheitszentrum](./gesundheit.md) erarbeitet.
 
@@ -25,6 +29,8 @@ Zusätzlich gibt es Restaurants und einen Hofladen.
 
 Die Landwirte schließen sich ebenfalls zusammen, um alle Produkte für eine komplette Ernährung anbieten zu können, Maschinen und Ackerflächen zu teilen und einen gemeinsamen Verkaufskanal zu haben.
 
-[So könnte ich mir den Start von Landwirtschaft & Wohnen vostellen](../leben/gesellschaft/start.md)
+Die Lebensmittelversorgung wird im Abo oder als CSA Modell finanziert. So entsteht ein Gefühl von Überfluss ("Flatrate").
+
+[So könnte ich mir den Start von Landwirtschaft & Wohnen vostellen](../gesellschaft/start.md)
 
 [Zur Übersicht](./masterplan.md)

@@ -11,7 +11,7 @@ Ziel: Erforschen, wie sich das Leben verbessern lässt
 - Finanzierung
     + Auftragsforschung
     + Lizenzgebühren
-    + [Bildungsangebote](../leben/gesellschaft/bildung.md)
+    + [Bildungsangebote](../gesellschaft/bildung.md)
 
 ## Open Source
 

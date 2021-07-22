@@ -34,6 +34,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 - [Money Mind Manifesto](https://www.sloww.co/money-mind-manifesto/)
 - [Getting the Goalpost to Stop Moving](https://www.collaborativefund.com/blog/goalpost/)
 - [The Less You Want, The More You Have](https://www.youtube.com/watch?v=ZrMOLqgv714)
+- [The Biggest Returns](https://www.collaborativefund.com/blog/the-biggest-returns/)
 
 ### Wohltätigkeit
 
@@ -97,6 +98,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [What is (Good) Financial Advice?](https://www.youtube.com/watch?v=TI5p8vqdjTw)
 - [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [Money Rules](https://www.collaborativefund.com/blog/$/)
+- [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
 
 ## Videos
 

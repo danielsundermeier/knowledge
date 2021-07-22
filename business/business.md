@@ -43,6 +43,10 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)
 - [The embedded entrepreneur](https://embeddedentrepreneur.com/)
 
+## Verkaufen
+
+- [Improve your salesmanship](https://www.youtube.com/playlist?list=PLkVbIsAWN2lvMDgewjAldPf3svd-cdEnL)
+
 ## Bezahlung
 
 - [Profit Sharing](https://paul.copplest.one/blog/profit-sharing.html)

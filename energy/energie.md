@@ -107,6 +107,9 @@ Ist es wirklich so einfach?
 
 - Algenkraftwerke
 - [Dirt Simple Energy Storage](https://www.youtube.com/watch?v=tm7spMG0ch8) - Fernwärme aus Sandspeicher
+- Dyson Swarm
+- Schwarzes Loch
+- Optical rectenna
 
 ## Wärme
 

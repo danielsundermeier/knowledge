@@ -8,6 +8,7 @@
 - [Use the Index, Luke](https://use-the-index-luke.com/)
 - [In-depth discussion of all kinds of topics related to the database modeling](https://minimalmodeling.substack.com/)
 - [SQL Join Types Explained Visually](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
+- [TextQL](https://github.com/dinedal/textql) - Allows you to easily execute SQL against structured text like CSV or TSV
 
 ## SQL Syntax and PDO Operations
 

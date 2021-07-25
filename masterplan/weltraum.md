@@ -5,3 +5,7 @@
 - Abbau von Rohstoffen auf Kometen (Kometengürtel)
 - Produktion im All für das All
 - Erste Siedlung auf dem Mond; von dort den Rest des Sonnensystems besiedeln
+
+## Links
+
+- [NSS Roadmap to Space Settlement](https://space.nss.org/nss-roadmap-to-space-settlement-3rd-edition-2018-contents/)

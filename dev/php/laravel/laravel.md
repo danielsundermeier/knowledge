@@ -20,6 +20,7 @@ butler laravel:new name
 - [How to use GitHub Actions build matrix to deploy artifacts to multiple servers](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)
 - [Larastreamers](https://larastreamers.com/)
 - [Laravel Examples](https://laravelexamples.com/)
+- [Outputting Eloquent query unparameterized in Laravel](https://www.amitmerchant.com/outputting-eloquent-query-unparameterized-in-laravel/)
 
 ## Blogs
 

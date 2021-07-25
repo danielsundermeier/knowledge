@@ -45,3 +45,4 @@ Gefühlskompass
 - [Psychological Facts That Will Blow Your Mind! - Rory Sutherland](https://www.youtube.com/watch?v=fuoDzMmoN2o)
 - [6 Tips to Change Negative Thinking](https://www.verywellmind.com/how-to-change-negative-thinking-3024843)
 - [Anxiety Is in Your Body, Not Your Mind](https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb)
+- [The 10 Must-Read Psychology Books Every Human Being Should Read](https://durmonski.com/reading-lists/must-read-psychology-books/)

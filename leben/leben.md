@@ -249,3 +249,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What is something brutally honest that needs to be said?](https://qr.ae/pGoiqE)
 - [What is a life-changing realization you wish you had sooner?](https://news.ycombinator.com/item?id=27690731)
 - [The ultimate hack in life is to simply be the person you're looking for](https://twitter.com/ShaneAParrish/status/1329789158462722049)
+- [Starting Principles](https://www.julian.com/blog/starting-principles?utm_source=pocket_mylist)

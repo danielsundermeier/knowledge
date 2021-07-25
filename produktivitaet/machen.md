@@ -19,3 +19,4 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [The Release Ratio](https://moretothat.com/release-ratio/)
 - [How Natural Selection Screwed Us](https://moretothat.com/how-natural-selection-screwed-us/)
 - [A Project of One's Own](http://paulgraham.com/own.html)
+- [Your Idea Is Brilliant, Your Idea Is Worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)

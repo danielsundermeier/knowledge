@@ -101,6 +101,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [How to Learn Faster If You Are Not a Genius](https://www.youtube.com/watch?v=hbF7MRZEtl8)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [If I were to write everyday, would I significantly improve my writing skills?](https://qr.ae/pG5yu1)
+- [Teaching Tech Together](https://teachtogether.tech/en/index.html)
 
 ## Spaced Repetition
 

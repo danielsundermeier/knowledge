@@ -14,3 +14,4 @@ Es fühlt sich gut an zu entrümpeln.
 - [Busyness is Laziness](https://www.becomingminimalist.com/busyness/)
 - [Minimalism](https://markmanson.net/minimalism)
 - [This is everything I own – fits into one backpack](https://ryzalyusoff.com/everything-i-own-fits-into-one-backpack/)
+- [Why People Are Scared of Marie Kondo](https://sashachapin.substack.com/p/why-people-are-scared-of-marie-kondo)

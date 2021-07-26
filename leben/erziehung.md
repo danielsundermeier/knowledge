@@ -76,3 +76,4 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 - [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)
 - [Whirli](https://whirli.com/) - Spielzeug Teilen
 - [What tips would you give to raise independent, happy children?](https://qr.ae/pGHZ3f)
+- [The Stats Guy: Career advice for your kids? Here’s how to prepare them for the future of work](https://thenewdaily.com.au/finance/work/2021/07/25/stats-guy-career-advice/)

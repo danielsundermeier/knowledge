@@ -129,6 +129,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 - [The Quest to the Unlived Life](https://moretothat.com/the-quest-to-the-unlived-life/)
 - [Why Rest Is The Key To Creativity](https://apurplelife.com/2021/06/22/why-rest-is-the-key-to-creativity/)
+- [Prioritizing everything is prioritizing nothing](https://blog.drgriffin.com.au/posts/2021-07-12-prioritizing-everything-is-prioritizing-nothing.html)
 
 ### Blogs
 

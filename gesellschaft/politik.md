@@ -2,6 +2,12 @@
 
 Ziel: Das Leben aller Menschen verbessern
 
+- Große Ziele ausgeben und finanzieren (Mondlandung, Manhatten Projekt)
+    + Energiewende
+    + Klimawandel lösen
+    + Post Scarcity erreichen
+    + Weltraum besiedeln
+    + [UN Sustainability Development Golas](https://sdgs.un.org/goals)
 - Lösungen erarbeiten / [Probleme lösen](../probleme_loesen.md)
 - Langristige Planung / Entscheidungen
 - Entscheidungen auf der Ebene, wo sie relevant sind

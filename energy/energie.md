@@ -99,6 +99,11 @@ Ist es wirklich so einfach?
 - Kleine wartungsfreie Reaktoren
 - Uran aus Meerwasser?
 
+## Optical rectenna (Nantenna)
+
+- [Optical rectenna](https://en.wikipedia.org/wiki/Optical_rectenna)
+- [Scientists debut world’s most efficient 'optical rectennas,' devices that harvest power from heat](https://www.colorado.edu/today/2021/05/18/optical-rectennas)
+
 ### Links
 
 - [Energy Abundance: The Future of Nuclear](https://www.diamandis.com/blog/nuclear-energy-abundance)
@@ -109,7 +114,6 @@ Ist es wirklich so einfach?
 - [Dirt Simple Energy Storage](https://www.youtube.com/watch?v=tm7spMG0ch8) - Fernwärme aus Sandspeicher
 - Dyson Swarm
 - Schwarzes Loch
-- Optical rectenna
 
 ## Wärme
 

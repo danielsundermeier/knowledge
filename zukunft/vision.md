@@ -1,12 +1,12 @@
 # Vision
 
-Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bringen und das Wissen zu vervollständigen.
+Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bringen und alles zu erforschen.
 
 ![](https://www.thevenusproject.com/wp-content/uploads/2019/07/center_for_resource_management_aerial.jpg)  
 [The Venus Project](https://www.thevenusproject.com/)
 
 - Post Scarcity (Alle haben genug)
-- Priorität von Wissen (Forschung, Entwicklung, Entdeckung)
+- Fokus auf Wissen (Forschung, Entwicklung, Entdeckung)
 - Automatisierung
     + Jeder versucht sich selbst überflüssig zu machen -> neue Aufgabe suchen
     + Jeder verfolgt seine Leidenschaft

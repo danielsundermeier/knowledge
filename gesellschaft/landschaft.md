@@ -29,7 +29,7 @@ Die Gebäude sollen zentriert sein, um eine Dichte zu schaffen, die es erlaubt d
 
 ## Gebäude
 
-Es werden Gebäude für die Mehrfachnutzung errichtet. Im Erdgeschoss befinden sich Gewerbe, in den Obergeschossen werden Wohnungen gebaut. 
+Es werden Gebäude für die Mehrfachnutzung errichtet. Das Erdgeschoss wird gewerblich genutzt, in den Obergeschossen werden Wohnungen gebaut. 
 Die Technik zur Versorgung der Gebäude befindet sich im Keller. 
 Die Gebäude sind unterirdisch miteinander verbunden, um die gemeinsame Nutzung der Technik zu ermöglichen.
 In jedem Gebäude gibt es Gemeischaftsräume. Sie können zum gemeinsamen Essen, Versammlungen oder Feiern genutzt werden. Zusätzlich dienen sie der Unterhaltung. Es können dort Musikinstrumente, Spielzeuge, etc. zur Verfügung gestellt werden.

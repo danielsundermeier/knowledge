@@ -114,9 +114,16 @@ Ist es wirklich so einfach?
 - [Dirt Simple Energy Storage](https://www.youtube.com/watch?v=tm7spMG0ch8) - Fernwärme aus Sandspeicher
 - Dyson Swarm
 - Schwarzes Loch
+- [Dieses norddeutsche Rechenzentrum läuft mit Windkraft und wärmt eine Algenfarm](https://1e9.community/t/dieses-norddeutsche-rechenzentrum-laeuft-mit-windkraft-und-waermt-eine-algenfarm/9962)
 
 ## Wärme
 
+- Abwärme in Nahwärmenetz einspeisen
+    + Datenzentren
+    + Industrie
+    + Biogasanlage
+    + Abwasser
+- [Wärmenetze](https://www.waermewende.de/waermewende/kommunale-waermewende/waermenetze/)
 - [Mixergy Water Storage. Smart technology for grid stability](https://www.youtube.com/watch?v=N8aGV3Z8dOA)
 
 ## Förderung

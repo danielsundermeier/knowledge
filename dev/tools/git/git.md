@@ -21,6 +21,7 @@
 - [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 - [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes?utm_source=tldrnewsletter)
 - [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+- [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 
 ## Renaming (casesensitive)
 

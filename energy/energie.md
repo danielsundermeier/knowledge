@@ -140,3 +140,4 @@ Ist es wirklich so einfach?
 - [Rewiring America](https://www.rewiringamerica.org/) - Our Mission: Electrify Everything
 - [Global100REStrategyGroup](https://global100restrategygroup.org/) - Joint declaration of the global 100% renewable energy strategy group
 - [The future of electricity is local](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
+- [e-coFACE Elementfassade der Zukunft](https://www.youtube.com/watch?v=CP_srGELb8k)

@@ -40,6 +40,7 @@ Ist es wirklich so einfach?
 ### Batterien
 
 - [Eternally five years away? No, batteries are improving under your nose](https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/)
+- [New Iron-Air Battery outperforms best Lithium Ion tech. Cheap. Abundant. Non-toxic & Carbon Free.](https://www.youtube.com/watch?v=UDjgSSO98VI)
 
 ## Wasserstoff
 

@@ -119,3 +119,4 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [The 5 coolest trends in urbanism ... in Europe](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism)
 - [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [pt.3 of the third place series](https://wellnesswisdom.substack.com/p/-wellness-wisdom-vol40-the-future)
+- [Sustainable Infrastructure](https://wrathofgnon.substack.com/p/sustainable-infrastructure)

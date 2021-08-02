@@ -152,3 +152,4 @@ Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jede
 - [The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
 - [Thiel Fellowship](http://thielfellowship.org/)
 - [Stiftelsen Ekskäret](https://ekskaret.se/)
+- [On Medici and Thiel](https://www.strangeloopcanon.com/p/on-medici-and-thiel)

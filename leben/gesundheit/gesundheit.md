@@ -32,6 +32,7 @@ Zeit in der Natur verbringen
 - [Age Reduction Breakthrough](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/)
 - [Longevity FAQ](https://www.ldeming.com/longevityfaq/)
 - [The Long Game](https://mehdiyacoubi.substack.com)
+- [The Case for a Longevity Moonshot](https://lincolnpolicy.org/2021/the-case-for-a-longevity-moonshot/)
 
 ## Testosteron
 

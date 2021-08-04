@@ -35,6 +35,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 - [Getting the Goalpost to Stop Moving](https://www.collaborativefund.com/blog/goalpost/)
 - [The Less You Want, The More You Have](https://www.youtube.com/watch?v=ZrMOLqgv714)
 - [The Biggest Returns](https://www.collaborativefund.com/blog/the-biggest-returns/)
+- [Why is being stagnant in life so frowned upon by todays society?](https://www.reddit.com/r/NoStupidQuestions/comments/owbk2t/why_is_being_stagnant_in_life_so_frowned_upon_by/)
 
 ### Wohltätigkeit
 

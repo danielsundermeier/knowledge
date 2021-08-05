@@ -78,6 +78,16 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt s
 
 - Zuerst nur ein kleiner Teil der Renteneinzahlungen in ETF, der immer weiter erhöht wird, wenn die Belastung des aktuellen Rentensystems kleiner wird?
 
+## Militär
+
+- So klein wie möglich
+- Spezialeinheit?
+- Finanziert sich selbst durch Ausstrahlung und Vermarktung von „War Games“
+- Battle Royal
+- Counterstrike
+- Capture the Flag
+- ...
+
 ### Links
 
 - [On the Pension Apocalypse](https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/)

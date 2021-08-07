@@ -26,6 +26,8 @@
 
 > "Life isn’t fair. Get jacked, get to work, fix yourself, ask her out, accept rejection, accept that chicks are mean."- [Compassion and empathy for chicks](https://theredquest.wordpress.com/2021/06/21/compassion-and-empathy-for-chicks/)
 
+> "What have you experienced that I haven’t that would make you believe what you do? And would I think about the world like you do if I experienced what you have?" - [Other People’s Mistakes](https://www.collaborativefund.com/blog/mistakes/)
+
 ## Kennenlernen
 
 Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.

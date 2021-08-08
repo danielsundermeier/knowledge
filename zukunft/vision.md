@@ -6,7 +6,7 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 [The Venus Project](https://www.thevenusproject.com/)
 
 - Post Scarcity (Alle haben genug)
-- Fokus auf Wissen (Forschung, Entwicklung, Entdeckung)
+- Fokus auf Wissen (Forschung, Entwicklung, Entdeckung, Experimente)
 - Automatisierung
     + Jeder versucht sich selbst überflüssig zu machen -> neue Aufgabe suchen
     + Jeder verfolgt seine Leidenschaft
@@ -206,7 +206,7 @@ Startplatz für Besiedelung des Weltraums
 
 ### Bildung
 
-Menschen sollten in der Lage sein ihr Leben zu meistern und sich immer weiterbilden und verbessern (Mastery) und andere auf ihrem Weg unterstützen.
+Menschen sollten in der Lage sein ihr Leben zu meistern, sich immer weiterbilden und verbessern (Mastery) können und andere auf ihrem Weg unterstützen.
 
 Lernen: 
 - Mit Gefühlen umgehen

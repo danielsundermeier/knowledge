@@ -34,6 +34,10 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 
 [Was hält der Finanzwesir viom Bitcoin-Hype?](https://www.finanzwesir.com/blog/bitcoin-crypto-manie)
 
+## Ackerland
+
+- [BioBoden](https://bioboden.de/)
+
 ## Wald
 
 - [In Wald investieren](https://investmentratgeber.com/in-wald-investieren/#Die_Kosten_fuer_einen_eigenen_Wald)
@@ -43,6 +47,10 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - Solaranlagen
 - Windkraftanlagen
 - Energiegenossenschaft
+
+## Start Up
+
+- [How does Angel Investing?](https://zachholman.com/posts/how-does-angel-investing)
 
 ## ETF
 

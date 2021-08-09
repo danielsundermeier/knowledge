@@ -1,5 +1,20 @@
 # Dev
 
+
+## Privacy
+
+- Alle meine Daten gehören mir
+- Zwei Varianten der Speicherung    
+    + Hersteller (kostenlos / Eingepreist)
+    + Open Source Tool
+        * Standard API
+        * Alle Daten können geteilt werden
+        * Rechtevergabe, wer auf welche Daten zugreifen kann
+        * Protokoll wer wann auf was zugegriffen hat
+        * Möglichkeit eigenen Server einzurichten
+        * Gehostete Version gegen Bezahlung
+        * Blockchain?
+
 ## Setup
 
 ### Monitore

@@ -30,6 +30,21 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 
 - Mindestens 50 % Puffer auf die erwarteten Kosten aufschlagen
 
+## Gebäude
+
+Ich halte es für sinnvoll Gebäude aus lokalen Resourcen zu bauen und alte Techniken zu verwenden. Viele der Gebäude halten ewig, kosten wenig und können ohne Maschinen gebaut werden.
+
+Außerdem sollten Gebäude energiesparend ausgerichtet werden (Ost-West mit Fenstern Richtung Süden, Lager im Norden).
+
+So könnte theoretisch jeder sein eigenes Haus bauen.
+
+Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anpflanzen.
+
+### Links
+
+- [Sustainable Infrastructure](https://wrathofgnon.substack.com/p/sustainable-infrastructure)
+- [Reading “Architecture for the Poor”](https://wrathofgnon.substack.com/p/reading-architecture-for-the-poor)
+
 ## Strohballenhaus
 
 - Lasttragendes Strohballenhaus
@@ -119,4 +134,3 @@ Die Wohnungen haben eine unterschiedliche Anzahl an Zimmern, sodass Menschen in 
 - [The 5 coolest trends in urbanism ... in Europe](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism)
 - [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [pt.3 of the third place series](https://wellnesswisdom.substack.com/p/-wellness-wisdom-vol40-the-future)
-- [Sustainable Infrastructure](https://wrathofgnon.substack.com/p/sustainable-infrastructure)

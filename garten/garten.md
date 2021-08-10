@@ -1,5 +1,9 @@
 # Garten
 
+## Boden
+
+- [A complete guide to soil microbiology](https://www.youtube.com/watch?v=LO-ostC1q-4)
+
 ## Bodendecker
 
 - [Ernten statt Jäten: Essbare Bodendecker zur Unkrautbekämpfung](https://www.smarticular.net/ernten-statt-jaeten-essbare-bodendecker-zur-unkrautbekaempfung/)

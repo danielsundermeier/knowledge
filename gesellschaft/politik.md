@@ -33,6 +33,10 @@ Alles elektronisch verwalten können
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
 - [Taiwan's Digital Democracy](https://consilienceproject.org/taiwans-digital-democracy/)
 
+### Open Data
+
+- [bundDEV](https://bund.dev/) - Wir dokumentieren Deutschland
+
 ### Links
 
 - [Citizens' assembly](https://citizensassemblies.org/)

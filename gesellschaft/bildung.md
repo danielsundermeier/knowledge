@@ -153,3 +153,4 @@ Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jede
 - [Thiel Fellowship](http://thielfellowship.org/)
 - [Stiftelsen Ekskäret](https://ekskaret.se/)
 - [On Medici and Thiel](https://www.strangeloopcanon.com/p/on-medici-and-thiel)
+- [Fermat’s Library](https://fermatslibrary.com/)

@@ -60,6 +60,10 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [String Towns](https://www.strongtowns.org/)
 - [starcity](https://starcity.com/)
 
+### Beispiele 
+
+- [Welcome to Culdesac Tempe](https://culdesac.com/)
+
 ## Isolierung
 
 ### Glass Bubble

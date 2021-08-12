@@ -113,6 +113,18 @@ Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlic
 
 ![](https://i.pinimg.com/originals/76/39/f4/7639f4738009c13b23586ccfd4205e7e.jpg)
 
+## Pflanzengemeinschaften
+
+### 7 Schichten
+
+- Bodendecker
+- Ranken
+- Obere Baumschicht
+- Untere Baumschicht
+- Büsche
+- Wurzelgemüse
+
 ## Links
 
 - [Cornell Garden-Based Learning](https://gardening.cals.cornell.edu/)
+- [Der Gartenplan fürs neue Jahr](https://eatsmarter.de/blogs/gruene-beete/der-gartenplan-fuers-neue-jahr)

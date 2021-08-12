@@ -304,6 +304,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [Eating less Meat won't save the Planet. Here's Why](https://www.youtube.com/watch?v=sGG-A80Tl5g)
 - [Cloud Kitchens](https://www.cloudkitchens.com/)
 - [UK doctor switches to 80% ULTRA-processed food diet for 30 days](https://www.youtube.com/watch?v=T4PFt4czJw0)
+- [Saisonkalender für das ganze Jahr](https://eatsmarter.de/saisonkalender)
 
 ## Zitate
 

@@ -11,6 +11,22 @@
 
 ## Snippets
 
+### Dateien älter als X Tage
+
+Alle .json Dateien, die älter als 7 Tage sind finden
+
+```
+find /var/www/share/default/htdocs/agrirouter/mqtt/backup -name "*.json" -type f -mtime +7
+```
+
+und löschen
+
+```
+find /var/www/share/default/htdocs/agrirouter/mqtt/backup -name "*.json" -type f -mtime +7 -delete
+```
+
+[How to Delete Files Older than 30 days in Linux](https://tecadmin.net/delete-files-older-x-days/)
+
 ### Symlink
 
 ```

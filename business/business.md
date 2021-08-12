@@ -42,6 +42,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Die 4 einzigen Wege, um mit deinem Blog wirklich Geld zu verdienen](https://www.chimpify.de/marketing/wege-um-mit-blog-geld-zu-verdienen/)
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)
 - [The embedded entrepreneur](https://embeddedentrepreneur.com/)
+- [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
 
 ## Verkaufen
 

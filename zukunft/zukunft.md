@@ -24,6 +24,10 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 
 - [Future Thinkers](https://futurethinkers.org/)
 
+## Zitate
+
+> "Predicting what the world will look like in, say, 2050, is just impossible. But predicting that people will still respond to greed, fear, opportunity, exploitation, risk, uncertainty, tribal affiliations and social persuasion in the same way is a bet I’d take." - [Hanging By A Thread](https://www.collaborativefund.com/blog/thread/)
+
 ## Links
 
 - [locate the futurists and philosophers of the Internet](https://twitter.com/_patriciamou/status/1296654041569570819)

@@ -145,6 +145,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [A solo journey to 100k](https://draculatheme.com/pro/journey)
 - [How a Czech DJ Built a 3D Printing Empire](https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/)
 - [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
+- [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
 
 ## Links
 

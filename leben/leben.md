@@ -252,3 +252,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Starting Principles](https://www.julian.com/blog/starting-principles?utm_source=pocket_mylist)
 - [In observing life deeply, what are your conclusions?](https://qr.ae/pGwebj)
 - [Chris Duffin: The Mad Scientist of Strength | Lex Fridman Podcast #207](https://www.youtube.com/watch?v=e4Bet29PVPY)
+- [Advice](https://patrickcollison.com/advice)

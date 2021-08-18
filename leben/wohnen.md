@@ -64,6 +64,17 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 
 - [Welcome to Culdesac Tempe](https://culdesac.com/)
 
+## Menschlicher Maßstab
+
+- Stadtgröße: 10 - 15 Gehminuten
+- Gebäudehöhe: Anzahl Treppenstufen, die ein Mensch bereit ist jeden Tag zu steigen (max. 5)
+- Wachsen durch Kopieren statt übermäßigem Wachstum
+
+![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c3c805b-7680-4538-8222-5067d6f14f43_1448x2048.jpeg)
+[The Human Scale: Part II](https://wrathofgnon.substack.com/p/the-human-scale-part-ii)
+
+Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
+
 ## Isolierung
 
 ### Glass Bubble
@@ -138,3 +149,4 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [The 5 coolest trends in urbanism ... in Europe](https://www.volts.wtf/p/the-5-coolest-trends-in-urbanism)
 - [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [pt.3 of the third place series](https://wellnesswisdom.substack.com/p/-wellness-wisdom-vol40-the-future)
+- [WrathOfGnon’s Newsletter](https://wrathofgnon.substack.com/) - Traditionalism, sustainability, localism, urbanism.

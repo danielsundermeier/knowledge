@@ -192,7 +192,11 @@ Startplatz für Besiedelung des Weltraums
     + Unterhaltung
     + Konferenz-, Seminarräume
     + Musik, Kunst, ...
-
+- Städte
+    + Viele kleine, statt weniger großer (menschlicher Maßstab)
+    + Überall Gärten und Bäume
+    + Grüner Gürtel um Stadt
+    
 ## Werte 
 
 ### Genug

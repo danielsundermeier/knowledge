@@ -104,6 +104,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Teaching Tech Together](https://teachtogether.tech/en/index.html)
 - [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
 - [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
+- [Opinionated Guides](https://opguides.info)
 
 ## Spaced Repetition
 

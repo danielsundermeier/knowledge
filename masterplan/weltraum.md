@@ -9,3 +9,4 @@
 ## Links
 
 - [NSS Roadmap to Space Settlement](https://space.nss.org/nss-roadmap-to-space-settlement-3rd-edition-2018-contents/)
+- [Seeing on the far side of the moon](https://www.worksinprogress.co/issue/seeing-on-the-far-side-of-the-moon/)

@@ -20,3 +20,5 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [How Natural Selection Screwed Us](https://moretothat.com/how-natural-selection-screwed-us/)
 - [A Project of One's Own](http://paulgraham.com/own.html)
 - [Your Idea Is Brilliant, Your Idea Is Worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)
+- [Stop learning](https://www.nashvail.me/blog/stop-learning)
+- [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more)

@@ -8,6 +8,8 @@
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
 - [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+- [How to Use Bash Alias](https://www.shell-tips.com/bash/alias/)
+- [The Complete How To Guide of Bash Functions](https://www.shell-tips.com/bash/functions/)
 
 ## Snippets
 

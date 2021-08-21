@@ -63,3 +63,4 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [The Limits of Investing Sanity](https://www.collaborativefund.com/blog/the-limits-of-investing-sanity/)
 - [The Alfred Hitchcock Path to FI](https://jlcollinsnh.com/2021/05/05/the-alfred-hitchcock-path-to-fi/)
 - [Speculation: A Game You Can’t Win](https://moretothat.com/speculation/)
+- [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)

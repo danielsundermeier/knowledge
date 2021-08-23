@@ -22,3 +22,4 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [Your Idea Is Brilliant, Your Idea Is Worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)
 - [Stop learning](https://www.nashvail.me/blog/stop-learning)
 - [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more)
+- [Goal Achieved | Your Turn!](https://www.youtube.com/watch?v=P9u-8wjcU2s)

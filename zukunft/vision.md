@@ -8,7 +8,7 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 - Post Scarcity (Alle haben genug)
 - Fokus auf Wissen (Forschung, Entwicklung, Entdeckung, Experimente)
 - Automatisierung
-    + Jeder versucht sich selbst überflüssig zu machen -> neue Aufgabe suchen
+    + Jeder versucht sich selbst überflüssig zu machen -> anschließend neue Aufgabe suchen
     + Jeder verfolgt seine Leidenschaft
 - Kooperation
 - Menschheit hat positiven Einfluss (alles wird besser)

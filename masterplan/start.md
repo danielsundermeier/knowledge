@@ -106,7 +106,7 @@ Soll sich zu Genossenschaften im Bereich [Energie](./energie.md) und [Wohnen](./
 - Öffentliches WLAN
 - Straßenbeleuchtung
 
-#### Energie
+### Energie
 
 - Produktion
 - Speicher

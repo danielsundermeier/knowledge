@@ -9,6 +9,21 @@
 
 Meine beste Version werden.
 
+## Jeden Tag
+
+- Bewegen
+- Zeit draußen / in der Natur verbringen
+- Etwas, das mir Freude bereitet
+- Etwas, das mich meinen Zielen näher bringt
+- Zeit, um über mein Leben nachzudenken
+
+## Fundament
+
+- [Gesundheit](./gesundheit/gesundheit.md)
+- [Finanzen](./finanzen/finanzen.md)
+
+- Von einem stabilen Fundament Neues ausprobieren
+
 ## Notizen
 
 - Zeit zum Nachdenken / Reflektieren
@@ -27,23 +42,6 @@ Meine beste Version werden.
 - Einen Teil der Zeit nutzen neue Dinge auszuprobieren
 - Feedback einholen
     + Fragebogen als Geburtstagsgeschenk ausfüllen lassen ([Having an accurate self-image](https://www.neelnanda.io/blog/26-accurate-self-image))
-
-## Jeden Tag
-
-- Bewegen
-- Zeit draußen / in der Natur verbringen
-- Etwas, das mir Freude bereitet
-- Etwas, das mich meinen Zielen näher bringt
-- Zeit, um über mein Leben nachzudenken
-
-## Fundament
-
-- [Gesundheit](./gesundheit/gesundheit.md)
-- [Finanzen](./finanzen/finanzen.md)
-
-- Von einem stabilen Fundament Neues ausprobieren
-
-## Notizen
 
 Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
 Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
@@ -121,49 +119,6 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 
 - [This Is The Most Fun Way To Make Your Life Awesome](https://www.bakadesuyo.com/2021/06/life-awesome/)
 - [The Redemptive Self: Stories Americans Live by](https://www.goodreads.com/book/show/766251.The_Redemptive_Self)
-
-## Gewohnheiten
-
-### Erwünschte
-
-- So einfach wie möglich
-- Auslöser offensichtlich: Erwünschte Lebensmittel auf Tisch stellen
-- Kleine Ziele (1 Seite lesen, 2 Liegestütz)
-- Widerstände abbauen
-    + Schreibtisch immer aufgeräumt, damit ich sofort mit dem Arbeiten beginnen kann
-- Anreize es zu tun (Belohnung)
-- An bestehende Gewohnheiten hängen
-    + Beispiele 
-        * Nach dem Zähneputzen mache ich X
-        * Nach der Tagesschau, ...
-        * Wenn ich nach der Arbeit nach Hause komme, ...
-- In Kalender eintragen
-    + Was 
-    + Wann
-    + Wo
-
-### Unerwünschte
-
-- So schwer wie möglich
-- Auslöser verstecken / entfernen: Ungewollte Lebensmittel nicht kaufen
-- Widerstand aufbauen
-    + Beispiel: TV Stromstecker ziehen und Fernbedienung nicht auf Couchtisch
-- Kein Anreiz
-- Bewusst tun, nicht automatisch, um zu merken, dass ich es nicht tun möchte
-    + Beispiel: Bewusst rauchen -> Man stellt fest, dass es nicht gut schmeckt
-
-### Links
-- [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)
-- [A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4)
-- [7 Things You Need to Understand to Stop Being Lazy](https://www.youtube.com/watch?v=vTQ0q0FsUFY)
-- [Atomic Habits – James Clear](https://freiweg.at/2018/11/03/atomic-habits/)
-- [Buchempfehlung: „Atomic Habits“ von James Clear](https://wissensdialoge.de/buchempfehlung-atomic-habits-von-james-clear/)
-- [The Small Things Are Big Windows Into Who You Are](https://moretothat.com/small-things/)
-- [My thoughts on free will](https://twitter.com/david_perell/status/1414685400308793347)
-
-### Bücher
-
-
 
 ## Links
 

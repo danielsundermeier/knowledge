@@ -87,6 +87,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 ### Links
 
 - [Retrofitting to Passive House standards](https://www.youtube.com/watch?v=wN34zF7e4J8)
+- [Dach dämmen ohne Unterspannbahn](https://www.rathscheck.de/magazin/dach-daemmen-ohne-unterspannbahn-wie-gehe-ich-vor/#)
 
 ## Wohnfläche
 

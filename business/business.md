@@ -196,6 +196,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [It can’t be transitory](https://thereformedbroker.com/2021/06/08/it-cant-be-transitory/)
 - [HOW TO GET RICH](https://www.edge.org/conversation/jared_diamond-how-to-get-rich)
 - [The Secret 3-Step Master Plan to Cure Healthcare](https://www.notboring.co/p/the-secret-3-step-master-plan-to)
+- [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
 
 ### Blogs
 

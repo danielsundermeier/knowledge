@@ -46,3 +46,4 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 - [Creating a Sense of Purpose in a Post-Scarcity Society](https://www.youtube.com/watch?v=Otu39FUqlxQ)
 - [Do Hard Things Because They Are Hard](https://chrisguillebeau.com/do-hard-things-because-they-are-hard/)
 - [The Meaning of Life Is Absurd](https://moretothat.com/the-meaning-of-life-is-absurd/)
+- [There’s Nothing More Real Than Your Potential](https://moretothat.com/potential/)

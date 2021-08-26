@@ -105,6 +105,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Do you have a process or a framework to learn specific skills quickly?](https://news.ycombinator.com/item?id=28017289)
 - [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
 - [Opinionated Guides](https://opguides.info)
+- [On the Link Between Great Thinking and Obsessive Walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking)
 
 ## Spaced Repetition
 

@@ -110,3 +110,4 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - [New American Identities (Part 3)](https://paulskallas.substack.com/p/new-american-identities-part-3)
 - [How Being A Nomad Helps Reinforce What’s Actually Important](https://apurplelife.com/2021/06/08/nomad-whats-important/)
 - [Am Ende nur Kopfbahnhof](https://www.faz.net/aktuell/stil/leib-seele/ziele-im-leben-erreichen-die-hoffnung-auf-eine-veraenderung-17257364.html?printPagedArticle=true#pageIndex_2)
+- [The Gift of Challenge](https://moretothat.com/the-gift-of-challenge/)

@@ -156,3 +156,4 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 - [pt.3 of the third place series](https://wellnesswisdom.substack.com/p/-wellness-wisdom-vol40-the-future)
 - [WrathOfGnon’s Newsletter](https://wrathofgnon.substack.com/) - Traditionalism, sustainability, localism, urbanism.
+- [Ulmer Wohnungspolitik: Konsens statt Enteignung](https://taz.de/Ulmer-Wohnungspolitik/!5789951)

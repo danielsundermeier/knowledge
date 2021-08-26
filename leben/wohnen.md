@@ -69,11 +69,16 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - Stadtgröße: 10 - 15 Gehminuten
 - Gebäudehöhe: Anzahl Treppenstufen, die ein Mensch bereit ist jeden Tag zu steigen (max. 5)
 - Wachsen durch Kopieren statt übermäßigem Wachstum
+- lokale Materialien, die von Menschen verarbeitet werden können
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c3c805b-7680-4538-8222-5067d6f14f43_1448x2048.jpeg)
 [The Human Scale: Part II](https://wrathofgnon.substack.com/p/the-human-scale-part-ii)
 
 Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
+
+- [The Human Scale: Part I](https://wrathofgnon.substack.com/p/the-human-scale)
+- [The Human Scale: Part II](https://wrathofgnon.substack.com/p/the-human-scale-part-ii)
+- [The Human Scale: Part III](https://wrathofgnon.substack.com/p/the-human-scale-part-iii)
 
 ## Isolierung
 

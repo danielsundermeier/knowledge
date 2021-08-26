@@ -50,6 +50,21 @@ Alles elektronisch verwalten können
 - haben eine klare Vision
 - Menschen schließen sich wieder gerne Parteien an
 
+## Arbeit
+
+- X% des Nettolohns werden automatisch in einen Welt Fond investiert 
+- Jeder muss arbeiten, bis Summe X in Welt Fond erreicht ist
+- Zeiten / Sparquote können dynamisch festgelegt werden?
+    + z.B. 50% / 15 Jahre
+-> Finanzielle Unabhängigkeit
+
+- Arbeitszeit als "Rite of Passage"?
+- Danach kann man tun, was man möchte
+- Keine Einzahlungen in die Rentenkasse nötig
+- Weniger Arbeitnehmer -> Höhere Löhne
+- Alle profitieren von wirtschaftlichem Aufschwung
+- Alle sind an Kapital beteiligt
+
 ## Wahlen
 
 - Wahlpflicht

@@ -20,6 +20,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Future Manhattan Projects](https://www.youtube.com/watch?v=v0S22i1JHD0)
 - [Solarpunk: Post-Industrial Design and Aesthetics](https://medium.com/@erichunting/solarpunk-post-industrial-design-and-aesthetics-1ecb350c28b6)
 - [Rethinking Humanity](https://www.rethinkx.com/humanity-executive-summary)
+- [Social Anarchist Futures](https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures)
 
 ## Podcasts
 

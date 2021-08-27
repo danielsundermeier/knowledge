@@ -58,3 +58,4 @@ Ich kann diese Veränderungen sogar vererben.
 - [A series of pieces on getting better at life](http://www.aaronsw.com/weblog/rawnerve)
 - [The awkwardness principle: why change rarely feels right](https://www.oliverburkeman.com/awkwardness)
 - [Better.](http://www.merlinmann.com/better/)
+- [Mediocrity by "areas of improvement"](https://headrush.typepad.com/creating_passionate_users/2006/02/mediocrity_by_a.html)

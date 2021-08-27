@@ -14,6 +14,7 @@
 - [Lookup Design](https://lookup.design/) - Find Design Examples
 - [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 - [Permission.site](https://permission.site/) - Simple site to test permission-related UI for web APIs.
+- [humans.txt](https://humanstxt.org/) - We Are People, Not Machines
 
 ## Tests
 

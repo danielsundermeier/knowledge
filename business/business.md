@@ -198,6 +198,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [The Secret 3-Step Master Plan to Cure Healthcare](https://www.notboring.co/p/the-secret-3-step-master-plan-to)
 - [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
 - [The Locker Room](https://www.collaborativefund.com/blog/the-locker-room/)
+- [Doing a Job](https://govleaders.org/rickover.htm)
 
 ### Blogs
 

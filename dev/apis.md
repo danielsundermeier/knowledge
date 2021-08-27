@@ -14,6 +14,7 @@
 - [API CheatSheet](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 - [Give me /events, not webhooks](https://blog.syncinc.so/events-not-webhooks?utm_source=pocket_mylist)
+- [API version control](https://github.com/reindert-vetter/api-version-control)
 
 ### Tests
 

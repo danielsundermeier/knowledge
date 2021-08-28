@@ -23,3 +23,4 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [Stop learning](https://www.nashvail.me/blog/stop-learning)
 - [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more)
 - [Goal Achieved | Your Turn!](https://www.youtube.com/watch?v=P9u-8wjcU2s)
+- [Why Ambition Makes You Lonely](https://www.youtube.com/watch?v=3xzEUQg3LDo)

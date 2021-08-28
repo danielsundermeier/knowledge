@@ -80,6 +80,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
     + Ich weiß nicht, wie ich anfangen soll
     + Ich habe keine Lösung für das Problem
     + Es ist langweilig
+- Klarheit schaffen
 - Immer wenn ich etwas herausschiebe, 2 Liegestütz machen
 - Nicht tun/Langweilen -> Irgendwann fange ich an
 - Wenn ich keine Lösung habe, spazieren gehen/duschen/... -> Ablenken (den Kopf entspannen), um eine Lösung zu finden: focus mode -> diffuse mode
@@ -88,6 +89,12 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU)
 
 > "The only thing that works is to start the work." - [Solo developer, what's your recipe to start working?](https://news.ycombinator.com/item?id=26747318)
+
+### Links
+
+- [How to Stop Procrastinating](https://www.youtube.com/watch?v=km4pOGd_lHw)
+- [How I very simply tricked my brain into overcoming procrastination for the better](https://www.reddit.com/r/productivity/comments/ini5ca/how_i_very_simply_tricked_my_brain_into/)
+- [How To Hack Procrastination](https://www.youtube.com/watch?v=AdsBpXTYc0Y)
 
 ## Langeweile
 
@@ -120,7 +127,6 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Warren Buffett’s “2 List” Strategy](https://jamesclear.com/buffett-focus)
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
 - [Do the Real Thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
-- [How I very simply tricked my brain into overcoming procrastination for the better](https://www.reddit.com/r/productivity/comments/ini5ca/how_i_very_simply_tricked_my_brain_into/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Things To Do When Yaou’re Bored](https://www.tripofalifestyle.com/perspective/what-to-do-when-youre-bored/)
 - [Sean’s Content Creation Flywheel](https://getpocket.com/redirect?url=https%3A%2F%2Fseanwes.com%2F2020%2Fseans-content-creation-flywheel%2F)
 - [6 Things The Most Productive People Do Every Day](https://www.bakadesuyo.com/2020/11/productive-people/)
@@ -140,7 +146,6 @@ for anyone who is interested in time management and productivity
 ### Videos
 
 - [Ali Abdal - How I Built a Million Dollar Business in Medical School - 10 Tips for Entrepreneurs](https://www.youtube.com/watch?v=80rugVXQzes)
-- [How to Stop Procrastinating](https://www.youtube.com/watch?v=km4pOGd_lHw&feature=share)
 - [How to GET STUFF DONE When You Don’t Feel Like It!](https://www.youtube.com/watch?v=GuYUlIDFDO0)
 - [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
 - [How to Stop Feeling Anxious About Starting Something New](https://www.youtube.com/watch?v=ueES9WiG72U)

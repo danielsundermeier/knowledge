@@ -135,6 +135,8 @@ Es ist ein Teufelskreis.
 
 **Lösung: Mehr Proteine und Fette und weniger Kohlenhydrate.**
 
+- [Open Insulin Foundation](https://openinsulin.org/)
+
 ## Glukose
 
 = Zucker aus Kohlenhydraten.

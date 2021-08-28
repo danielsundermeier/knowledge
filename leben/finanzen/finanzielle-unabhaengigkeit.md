@@ -155,6 +155,7 @@ Ich kann mich dann entweder auf ein sehr erfolgreiches Projekt konzentrieren ode
 - [How To Hack The Stock Market](https://bankeronfire.com/hack-the-stock-market)
 - [Why You Should Plant a (Symbolic) Garden For Early Retirement](https://minafi.com/garden)
 - [The 2021 Early-Retirement Update](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
+- [I hustled like mad in my 20s. Here’s what it cost me.](https://thewokesalaryman.com/2021/08/27/i-hustled-like-mad-in-my-20s-heres-what-it-cost-me)
 
 ## Videos
 

@@ -69,6 +69,8 @@ Alles elektronisch verwalten können
 
 - Wahlpflicht
 
+- [Briefwahl](https://www.minden.de/stadt_minden/de/B%C3%BCrger,%20Service,%20Politik/Bundestagswahl%202021/Briefwahl/)
+
 ### Links
 
 - [Politics Would Be Less Crazy If Voting Were Compulsory](https://www.philosophersbeard.org/2021/01/politics-would-be-less-crazy-if-voting.html)

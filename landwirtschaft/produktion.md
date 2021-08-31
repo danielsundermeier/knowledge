@@ -12,6 +12,7 @@
 
 - [Praxisorte](https://permakultur.de/praxisorte/)
 - [Permapeople](https://permapeople.org/)
+- [Prof. Declan Kennedy](https://declan.de/)
 
 ### Regenerative Landwirtschaft
 

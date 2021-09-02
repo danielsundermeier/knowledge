@@ -106,6 +106,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
 - [Opinionated Guides](https://opguides.info)
 - [On the Link Between Great Thinking and Obsessive Walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking)
+- [How to Learn Faster: The IMPROVED Feynman Technique](https://www.youtube.com/watch?v=B8V5EfJLX9U)
 
 ## Spaced Repetition
 

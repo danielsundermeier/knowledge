@@ -134,12 +134,18 @@ Startplatz für Besiedelung des Weltraums
 - Replikatoren
 - Zugang statt Besitz
 - Weltweite Entwicklung, lokale Produktion
+- Creation instead of Extraction
+    + Produkte werden von Grund auf hergestellt (Atome, Bakterien)
+    + Anstatt abgebaut zu werden
+    + Beispiele
+        * Laborfleisch statt Rinderhaltung (Precision Fermentation)
+        * Materialien aus Atomen zusammenbauen anstatt es abzubauen
 
 ## Transport
 
 - Hauptsächlich zu Fuß / Fahrrad
 - Öffentlicher Nahverkehr
-- Automatisierte Autos
+- Automatisierte Autos (Transportation as a Service)
 - Drohnen für Lieferungen
 - Tunnel
     + Transport

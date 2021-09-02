@@ -131,3 +131,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Don't create stories in your mind about him/her without ever knowing if this he/she is worthy of your swooning. Best thing is focus that energy on someone who is going to return the effort.](https://www.reddit.com/r/datingoverthirty/comments/nhhvzd/how_do_you_get_over_someone_you_cant_have_and/)
 - [Beyond Pick Up Artistry: Witnessing Beauty w/ Zan Perrion](https://www.youtube.com/watch?v=tBTLQsqW_z4)
 - [The Unspoken Rules of Society](https://www.youtube.com/watch?v=f4qhjH54sqw)
+- [This Is Why You're Lonely (and How to Fix It)](https://www.youtube.com/watch?v=vI3hO3HiqBw)

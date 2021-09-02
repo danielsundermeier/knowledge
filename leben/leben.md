@@ -209,3 +209,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Chris Duffin: The Mad Scientist of Strength | Lex Fridman Podcast #207](https://www.youtube.com/watch?v=e4Bet29PVPY)
 - [Advice](https://patrickcollison.com/advice)
 - [Ben Franklin's 13 Guidelines for Living a Good Life](https://bigthink.com/scotty-hendricks/ben-franklins-13-guidelines-for-living-a-good-life)
+- [What is the main lesson one could learn from life?](https://qr.ae/pGar4b)

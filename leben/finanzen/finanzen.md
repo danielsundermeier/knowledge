@@ -101,6 +101,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [Bogleheads® investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [Money Rules](https://www.collaborativefund.com/blog/$/)
 - [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
+- [The TWS Guide to Get Rich Quick](https://thewokesalaryman.com/2021/08/31/the-tws-guide-to-get-rich-quick/)
 
 ## Videos
 

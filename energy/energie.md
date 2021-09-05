@@ -10,6 +10,9 @@
     + eigenen Energiebedarf decken
     + Energie speichern
     + So wenig Energie verbrauchen wie möglich
+- P2P Strommarkt
+- Keine Abgaben für selbstgenutzen Strom
+- Mit öffentlichen Gebäuden anfangen
 
 ## Lösung?
 

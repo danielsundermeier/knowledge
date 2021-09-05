@@ -23,6 +23,8 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 
 Alle haben genug
 
+- Produkte und Dienstleistungen so günstig produzieren / anbieten, dass die laufenden Kosten keine Rolle spielen
+
 Herausfinden, wie die Menschheit regenerativ leben kann
 - Gesellschaft
 - Ressourcen

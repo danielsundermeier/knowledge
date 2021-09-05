@@ -2,6 +2,14 @@
 
 Das Projekt muss sich selbst finanzieren können und darf nicht auf Spenden etc. angewiesen sein. Es muss einen finanziellen Anreiz geben, eine Nachbarschaft zu starten.
 
+Es kann eine Stiftung oder eine gemeinnützige Firma gegründet werden, die das Land kauft, verwaltet und verpachtet. Die Einnahmen können zum Ausbau und Anbieten von Dienstleistungen (Bildung, Medizin, Transport, Forschung, ...) genutzt werden.
+
+Ich glaube Stadpläne aus dem Mittelalter oder von Altstädten sind ein gutes Vorbild. Sie sind nach menschlichem Maßstab gebaut und entsprechen "Walkable Cities". Die Kirche wird durch ein Gemeinschaftsgebäude mit Versammlungsräumen, etc. ersetzt und die Stadtmauer wird zu einem Naturgürtel. Um die Stadt herum sind Felder, (Obst) Wiesen und Wälder.
+
+![](http://www.astrolehrbuch.de/Bilder/zittau1647.jpg)
+
+[Nicht mehr ganz aktueller Stadtplan von Zittau (Stand 1643)](http://wincontact32naturwunder.blogspot.com/2014/02/nicht-mehr-ganz-aktueller-stadtplan-von.html)
+
 ## Ackerland kaufen
 
 Die Nachbarschaft startet auf einem Stück Ackerland (2-3ha).

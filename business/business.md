@@ -43,6 +43,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Was ist ein Tribe und warum ist er so wichtig?](https://www.chimpify.de/marketing/warum-tribe-wichtig/)
 - [The embedded entrepreneur](https://embeddedentrepreneur.com/)
 - [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
+- [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
 
 ## Verkaufen
 

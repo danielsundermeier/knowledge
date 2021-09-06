@@ -10,6 +10,7 @@ Ziel: Das Leben aller Menschen verbessern
     + [UN Sustainability Development Golas](https://sdgs.un.org/goals)
 - Lösungen erarbeiten / [Probleme lösen](../probleme_loesen.md)
 - Langristige Planung / Entscheidungen
+- Stadt und Region als wichtigste Einheit
 - Entscheidungen auf der Ebene, wo sie relevant sind
     + lokal
         * Familie
@@ -23,6 +24,7 @@ Ziel: Das Leben aller Menschen verbessern
 ## Regierung
 
 - Kein "Parteiendenken" (Wir gegen Sie)
+- Kein [Lobbyismus](https://de.wikipedia.org/wiki/Lobbyismus)
 - Berufspolitiker?
 
 ### E-Government

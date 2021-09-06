@@ -10,6 +10,8 @@ Wenn ich noch mal von vorne anfangen könnte
 - In den Schulferien Praktika bei Handwerkern, um das für sich persönlich zu lernen
 - Etwas studieren, dass einem Spaß macht
     + Tiefes Wissen in einem Gebiet
+    + Work & Travel in Semesterferien
+    + Auslandssemester
 - Normalen Job suchen (ca. 40.000 €; 40h, deshalb studieren)
 - Weiter leben wie ein Student 
     + WG

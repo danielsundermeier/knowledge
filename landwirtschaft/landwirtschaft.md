@@ -68,3 +68,4 @@ Mehr Daten auf Produkt:
 ## Links 
 
 - [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)
+- [How to Transition From Industrialized Agriculture to Permaculture?](https://www.youtube.com/watch?v=EVF_6Cq2LLY)

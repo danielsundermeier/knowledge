@@ -130,6 +130,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [32 Subscribers & Other Urbanist Channels You Should Be Watching](https://www.youtube.com/watch?v=qSW5xy_kg9E)
 - [The Suburban Wasteland](https://www.youtube.com/watch?v=4c6rIt0fe7w&list=PLamwye612GauJGF1_Q4hEaIvaml8QyLSp)
 - [James Howard Kunstler seziert die amerikanischen Vorstädte](https://www.youtube.com/watch?v=Q1ZeXnmDZMQ)
+- [How to Design a PERMACULTURE NEIGHBORHOOD](https://www.youtube.com/watch?v=9R-fAc0wl10)
 
 ## Artikel
 

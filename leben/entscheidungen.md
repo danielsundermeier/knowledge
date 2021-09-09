@@ -25,6 +25,7 @@
     * Irgendwo anfangen und ausprobieren
     * von dort Anpassen/Optimieren/andere Entscheidung treffen
     * Fehlentscheidungen zum Lernen nutzen
+    * setzt Energie frei
 Abläufe beobachten und ggf. anpassen
 
 ## Entscheidungen treffen

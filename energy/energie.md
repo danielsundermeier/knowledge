@@ -130,6 +130,12 @@ Ist es wirklich so einfach?
 - [Wärmenetze](https://www.waermewende.de/waermewende/kommunale-waermewende/waermenetze/)
 - [Mixergy Water Storage. Smart technology for grid stability](https://www.youtube.com/watch?v=N8aGV3Z8dOA)
 
+## Genossenschaften
+
+- [LOW CARBON HUB](https://www.lowcarbonhub.org/) - Creating energy we can
+all feel good about
+- [NETZWERK ENERGIEWENDE JETZT e.V.](https://www.energiegenossenschaften-gruenden.de/)
+
 ## Förderung
 
 - [KfW-Effizienzhaus-Standard](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Energieeffizient-sanieren/Das-KfW-Effizienzhaus/)

@@ -112,3 +112,4 @@ Jeden Tag wiegen, um festzustellen, ob die Ernährung und das Training funktioni
 - [THE GREAT MENTAL MODELS by Shane Parrish | Core Message](https://www.youtube.com/watch?v=LOMkBihsWZw)
 - [The Big Lessons of the Last Year](https://www.collaborativefund.com/blog/the-big-lessons-of-the-last-year)
 - [A thread on thinking more clearly](https://twitter.com/Julian/status/1378439257879162880)
+- [Ok. So, You Can’t Decide.](https://randsinrepose.com/archives/ok-so-you-cant-decide/)

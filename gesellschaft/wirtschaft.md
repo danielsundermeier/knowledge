@@ -66,3 +66,4 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 - [Problems With Sovereign Money](https://www.continentaltelegraph.com/2018/11/problems-with-sovereign-money-mmt-and-the-benefits-of-the-current-system/)
 - [International Movement for Money Reform](https://internationalmoneyreform.org/)
 - [Modern Monetary Theory: How it Could Answer All Of Our Economic Problems](https://www.youtube.com/watch?v=N8HOWh8HPTo)
+- [Infinity Revenue, Infinity Possibilities](https://www.notboring.co/p/infinity-revenue-infinity-possibilities)

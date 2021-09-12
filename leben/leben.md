@@ -24,6 +24,10 @@ Meine beste Version werden.
 
 - Von einem stabilen Fundament Neues ausprobieren
 
+Ich habe soziale Kontakte bewusst heraus gelassen, obwohl es eine der wichtigsten Aspekte für ein glückliches Leben ist, weil es nicht in meiner Kontrolle ist. 
+
+Meine Gesundheit und Finanzen kann ich so gestalten, wie ich es mir vorstelle. Das Leben mit anderen Menschen nicht.
+
 ## Notizen
 
 - Zeit zum Nachdenken / Reflektieren

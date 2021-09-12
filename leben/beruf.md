@@ -48,3 +48,4 @@
 - [5 Steps to break into high $ consulting as a developer: 1. Specialize in something. 2. Document everything as you learn - videos, blogs, OSS on Git. 3. Update social presence reflecting specialty. 4. Create website with good SEO as lead funnel. 5. Link everything you do to the site](https://twitter.com/dabit3/status/1390790989019746307)
 - [Want to 10X your income in the next 4 years?](https://twitter.com/craigclemens/status/1407857453711040512)
 - [If You Want to Stand Out, Put Your Head Down](https://medium.com/simple-pub/if-you-want-to-stand-out-put-your-head-down-304613ae646e)
+- [The Future of Work](https://www.collaborativefund.com/blog/the-future-of-work)

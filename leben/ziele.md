@@ -64,4 +64,5 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - [Self Authoring Suite](https://www.selfauthoring.com/)
 - [How to Figure out What you Want in Life](https://www.youtube.com/watch?v=O64k2QvZwa8&t=328s)
 - [The Slight Edge – How to Achieve Anything](https://kyil-extra.com/slight-edge/)
+- [A letter from my 80 year old self](https://accidentallyretired.com/personal-growth/a-letter-from-my-80-year-old-self/1283)
 

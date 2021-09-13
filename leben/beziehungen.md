@@ -132,3 +132,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Beyond Pick Up Artistry: Witnessing Beauty w/ Zan Perrion](https://www.youtube.com/watch?v=tBTLQsqW_z4)
 - [The Unspoken Rules of Society](https://www.youtube.com/watch?v=f4qhjH54sqw)
 - [This Is Why You're Lonely (and How to Fix It)](https://www.youtube.com/watch?v=vI3hO3HiqBw)
+- [How to lose all your friends in life](https://www.youtube.com/watch?v=TvOJc8N8AIw)

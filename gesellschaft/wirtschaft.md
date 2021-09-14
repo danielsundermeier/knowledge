@@ -67,3 +67,4 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 - [International Movement for Money Reform](https://internationalmoneyreform.org/)
 - [Modern Monetary Theory: How it Could Answer All Of Our Economic Problems](https://www.youtube.com/watch?v=N8HOWh8HPTo)
 - [Infinity Revenue, Infinity Possibilities](https://www.notboring.co/p/infinity-revenue-infinity-possibilities)
+- [Why We Need Modern Monetary Theory (MMT) and Why It Needs Universal Basic Income (UBI)](https://vocal.media/theSwamp/why-we-need-modern-monetary-theory-mmt-and-why-it-needs-universal-basic-income-ubi)

@@ -112,3 +112,5 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - [Am Ende nur Kopfbahnhof](https://www.faz.net/aktuell/stil/leib-seele/ziele-im-leben-erreichen-die-hoffnung-auf-eine-veraenderung-17257364.html?printPagedArticle=true#pageIndex_2)
 - [The Gift of Challenge](https://moretothat.com/the-gift-of-challenge/)
 - [Investing in Happiness](https://www.youtube.com/watch?v=iNZk-N6uDcg)
+- [Having Too Little or Too Much Time Is Linked to Lower
+Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp0000391.pdf)

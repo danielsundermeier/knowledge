@@ -214,3 +214,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Advice](https://patrickcollison.com/advice)
 - [Ben Franklin's 13 Guidelines for Living a Good Life](https://bigthink.com/scotty-hendricks/ben-franklins-13-guidelines-for-living-a-good-life)
 - [What is the main lesson one could learn from life?](https://qr.ae/pGar4b)
+- [What advice would you give yourself 20 years ago?](https://qr.ae/pGc32C)

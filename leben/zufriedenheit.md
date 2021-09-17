@@ -114,3 +114,4 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - [Investing in Happiness](https://www.youtube.com/watch?v=iNZk-N6uDcg)
 - [Having Too Little or Too Much Time Is Linked to Lower
 Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp0000391.pdf)
+- [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)

@@ -63,7 +63,7 @@ Startplatz für Besiedelung des Weltraums
 - Wohnraum
 - Forschung
 
-#### Sonne 
+#### Sonne
 
 - Dyson Schwarm
 - Rohstoffe abbauen ([Star lifting](https://en.wikipedia.org/wiki/Star_lifting))
@@ -205,7 +205,7 @@ Startplatz für Besiedelung des Weltraums
     + Überall Gärten und Bäume
     + Grüner Gürtel um Stadt
     
-## Werte 
+## Werte
 
 ### Genug
 ### Natur

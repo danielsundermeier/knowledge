@@ -70,6 +70,7 @@
     - [Gemeinschaftsgarten](/garten/gemeinschaftsgarten.md)
     - [Jahr](jahr.md)
         - [1-januar](/garten/jahr/1-januar.md)
+    - [Pflanzen](/garten/pflanzen.md)
 - [Gesellschaft](gesellschaft.md)
     - [Arbeit](/gesellschaft/arbeit.md)
     - [Bildung](/gesellschaft/bildung.md)

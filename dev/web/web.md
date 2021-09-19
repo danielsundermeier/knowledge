@@ -1,6 +1,6 @@
 # Web
 
-## Tools 
+## Tools
 
 - [Sketch.systems](https://sketch.systems/)
 
@@ -8,7 +8,7 @@
 
 - [PWA Builder](https://www.pwabuilder.com/)
 
-## Links 
+## Links
 
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [Lookup Design](https://lookup.design/) - Find Design Examples

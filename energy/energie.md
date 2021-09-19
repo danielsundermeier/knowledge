@@ -103,6 +103,10 @@ Ist es wirklich so einfach?
 - Kleine wartungsfreie Reaktoren
 - Uran aus Meerwasser?
 
+### Links
+
+- [Why You’re Wrong About Nuclear Power](https://www.youtube.com/watch?v=J3znG6_vla0)
+
 ## Optical rectenna (Nantenna)
 
 - [Optical rectenna](https://en.wikipedia.org/wiki/Optical_rectenna)

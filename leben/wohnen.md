@@ -61,7 +61,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [String Towns](https://www.strongtowns.org/)
 - [starcity](https://starcity.com/)
 
-### Beispiele 
+### Beispiele
 
 - [Welcome to Culdesac Tempe](https://culdesac.com/)
 
@@ -132,6 +132,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [The Suburban Wasteland](https://www.youtube.com/watch?v=4c6rIt0fe7w&list=PLamwye612GauJGF1_Q4hEaIvaml8QyLSp)
 - [James Howard Kunstler seziert die amerikanischen Vorstädte](https://www.youtube.com/watch?v=Q1ZeXnmDZMQ)
 - [How to Design a PERMACULTURE NEIGHBORHOOD](https://www.youtube.com/watch?v=9R-fAc0wl10)
+- [Vienna's Radical Idea? Affordable Housing For All](https://www.youtube.com/watch?v=41VJudBdYXY)
 
 ## Artikel
 
@@ -160,3 +161,5 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [WrathOfGnon’s Newsletter](https://wrathofgnon.substack.com/) - Traditionalism, sustainability, localism, urbanism.
 - [Ulmer Wohnungspolitik: Konsens statt Enteignung](https://taz.de/Ulmer-Wohnungspolitik/!5789951)
 - [European Ecovillage Map](https://gen-europe.org/ecovillages/european-ecovillages/)
+- [If you were building a house from scratch, what features would you recommend considering?](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
+- [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)

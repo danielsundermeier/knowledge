@@ -8,7 +8,7 @@
 
 [3 Steps to Becoming Great at Anything](https://www.youtube.com/watch?v=XTkNe4RL6lw)
 
-## Lernen durch Projekte 
+## Lernen durch Projekte
 
 Ich glaube der beste Weg etwas zu lernen ist durch Projekte mit denen man seine eigenen Probleme löst.
 Ich finde es wichitg an Lösungen zu meinen eigenen Problemen zu arbetien, weil ich dann genau weiß, was ich möchte und warum ich es tue. Dadurch bin ich sehr motiviert und gebe nicht so schnell auf, wenn ich nicht weiter komme.

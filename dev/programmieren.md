@@ -18,6 +18,15 @@
     + Funktionsweise der Änderung
 - Code immer besser hinterlassen, als ich ihn vorgefunden habe
 
+## Verbessern
+
+1. Every morning, take your favorite open source library or one from a language you’re learning, go to the closed PRs on Github and start reading them from the beginning. Just a few a morning for warmup while you drink your morning coffee and catch up on email.
+2. When you want to level up, start reading the diff, and review the code and changes yourself before reading the comments. 
+3. Finally, when you start feeling more confident, start leaving those comments on new PRs so that the maintainer doesn’t have to. You’re starting to contribute to open source!
+
+[How To Rapidly Improve At Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
+
+
 ## Lesbarer Code
 
 - Lesbaren Code priorisieren
@@ -27,7 +36,7 @@
 - Lieber mehr Funktionen als konfigurierbare Funktionen
 - Code schreiben, der für Menschen einfach zu verstehen ist, anstatt für Computer gut zu lesen
 
-### Links 
+### Links
 
 - [How to write readable code](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html)
 

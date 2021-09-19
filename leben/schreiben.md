@@ -15,7 +15,7 @@ Es fällt mir leichter bestehendes zu bearbeiten als vor einer "weißen Seite" z
 
 ## Aufbau Text
 
-### Abstract 
+### Abstract
 
 am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 
@@ -26,6 +26,14 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
     + in Abschnitte unterteilen
     + Überschrift pro Abschnitte (Wichtigter Punkt)
 - Zusammenfassung der wichtigsten Punkte
+
+## Notizen
+
+- [The 5 Rs of Note Taking](https://aliabdaal.com/the-5-rs-of-note-taking/)
+
+![](https://lawschooltoolbox.com/wp-content/uploads/2016/09/IMG_0080_2.jpg)
+
+[Tips for Using the Cornell Note-Taking Method](https://lawschooltoolbox.com/tips-for-using-the-cornell-note-taking-method/)
 
 ## Artikel Ideen
 

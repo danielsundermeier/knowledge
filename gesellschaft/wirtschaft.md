@@ -40,6 +40,30 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 - [Hyperinflation is Already Here – You Just Haven't Realised It Yet.](https://www.youtube.com/watch?v=1HmGLV46L60)
 - [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
 
+## Unternehmen
+
+Unternehmen sollen einen positiven Einfluss auf das Leben haben. Gewinn sollte nicht das einzige Ziel sein. 
+
+Alle Beteiligten (Stakeholder) sollen profieren, nicht nur die Shareholder.
+
+- Angestellte
+- Eigentümer
+- Gesellschaft
+- Kontrolleure
+- Kunden
+- Lieferanten
+- Umwelt
+
+Unternehmen sollen Win-Win Situationen schaffen.
+
+### Tripple Bottom Line
+
+- People
+- Planet
+- Profit
+
+[Triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line)
+
 ## Geld
 
 ## Sovereign Money System

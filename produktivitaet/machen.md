@@ -25,3 +25,4 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [Goal Achieved | Your Turn!](https://www.youtube.com/watch?v=P9u-8wjcU2s)
 - [Why Ambition Makes You Lonely](https://www.youtube.com/watch?v=3xzEUQg3LDo)
 - [How can I explore my self and know my direction, I am 29 years old and still dont know what I want to do in life?](https://qr.ae/pGcL8W)
+- [This Is How To Never Be Bored Again](https://www.bakadesuyo.com/2021/09/bored/)

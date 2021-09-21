@@ -1,9 +1,5 @@
 # Home Assistant
 
-- [Lovelace Soft UI](https://github.com/N-l1/lovelace-soft-ui)
-- [Awesome HA](https://github.com/frenck/awesome-home-assistant)
-- [Demo Frontend](https://demo.home-assistant.io/#/lovelace/0)
-
 ## Plugins
 
 - [HACS](https://community.home-assistant.io/t/custom-component-hacs/121727)
@@ -32,5 +28,9 @@ conditions:
 
 ### Links
 
+- [Lovelace Soft UI](https://github.com/N-l1/lovelace-soft-ui)
+- [Awesome HA](https://github.com/frenck/awesome-home-assistant)
+- [Demo Frontend](https://demo.home-assistant.io/#/lovelace/0)
 - [No more light switches](https://smarthome.university/automations/no-more-light-switches/)
+- [Home Assistant Amber](https://www.crowdsupply.com/nabu-casa/home-assistant-amber) - Hardware für Home Assistant
 

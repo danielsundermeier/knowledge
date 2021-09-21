@@ -105,7 +105,7 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 
-## Links 
+## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
 - [Paird](https://www.getpaired.com/) - 10 minutes a day to a better relationship
@@ -133,3 +133,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [The Unspoken Rules of Society](https://www.youtube.com/watch?v=f4qhjH54sqw)
 - [This Is Why You're Lonely (and How to Fix It)](https://www.youtube.com/watch?v=vI3hO3HiqBw)
 - [How to lose all your friends in life](https://www.youtube.com/watch?v=TvOJc8N8AIw)
+- [The Art of Not Taking Things Personally](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)

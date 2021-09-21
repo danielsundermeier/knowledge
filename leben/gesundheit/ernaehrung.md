@@ -175,7 +175,7 @@ Zu beachten ist, dass die Werte teilweise sehr ungenau sind. Die Werte sind aber
 
 Ich versuche jeden Tag ähnlich viele Kalorien zu essen und zu verbrauchen. Durch die Waage bekomme ich ein Feedback und kann entsprechende Änderungen vornehmen.
 
-### Links 
+### Links
 
 - [Should You Bulk Or Cut?](https://www.youtube.com/watch?v=GUQXo1sIhhw)
 
@@ -307,6 +307,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [Cloud Kitchens](https://www.cloudkitchens.com/)
 - [UK doctor switches to 80% ULTRA-processed food diet for 30 days](https://www.youtube.com/watch?v=T4PFt4czJw0)
 - [Saisonkalender für das ganze Jahr](https://eatsmarter.de/saisonkalender)
+- [A Chemical Hunger](https://slimemoldtimemold.com/tag/a-chemical-hunger/)
 
 ## Zitate
 

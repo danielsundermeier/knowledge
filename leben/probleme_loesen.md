@@ -24,6 +24,8 @@ Wie kann ich das Positive / Funktionierende des aktuellen Ablaufs beibehalten un
 
 >  "Every Problem Contains the Seed of its Own Solution" - NORMAN VINCENT PEALE
 
+Probleme sind Gelegenheiten zur Verbesserung
+
 ## Beispiele
 
 ### Finanzen

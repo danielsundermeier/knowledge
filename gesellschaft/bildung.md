@@ -14,6 +14,11 @@
 - Lehrer und Experten unterstützen Schüler bei Projekten 
 - Praktika und Mentoren
 - Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
+- "Meisterstück" zum Abchluss der Schule / Schuljahr / Schulabschnitt
+    + Handwerk
+    + Kunstwerk
+    + Software
+    + Unternehmen
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
 

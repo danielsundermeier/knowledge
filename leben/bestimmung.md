@@ -34,7 +34,7 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 - Arithmetik
 - Verkaufen
 
-### Links 
+### Links
 
 - [What is a Talent Stack?](https://www.sloww.co/talent-stack/)
 - [Talent Stack](https://www.scottadamssays.com/2016/12/27/the-kristina-talent-stack/) 
@@ -48,3 +48,4 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 - [The Meaning of Life Is Absurd](https://moretothat.com/the-meaning-of-life-is-absurd/)
 - [There’s Nothing More Real Than Your Potential](https://moretothat.com/potential/)
 - [Why You Can't Find Your Passion](https://www.youtube.com/watch?v=_9uvRG6yed4)
+- [I am 25 and I have no idea what I want to do in life. Any suggestion on how to find my direction?](https://qr.ae/pGSuLG)

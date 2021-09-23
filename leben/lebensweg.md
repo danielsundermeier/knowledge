@@ -7,6 +7,9 @@ Wenn ich noch mal von vorne anfangen könnte
     + Gesunde Ernährung
     + Tägliche Bewegung (draußen)
     + Sport
+        * Mannschaftssport
+        * Krafttraining
+        * Selbstverteidigung
 - In den Schulferien Praktika bei Handwerkern, um das für sich persönlich zu lernen
 - Etwas studieren, dass einem Spaß macht
     + Tiefes Wissen in einem Gebiet

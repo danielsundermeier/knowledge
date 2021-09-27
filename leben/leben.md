@@ -1,5 +1,8 @@
 # Leben
 
+Mir ist bewusst, dass mein Lebensstil nicht für jeden etwas ist.  
+Ich möchte dich dazu bringen über dein eigenes Leben nachzudenken und herauszufinden, wie Du leben möchtest.
+
 ## Zusammenfassung
 
 1. Alles aufschreiben -> Herausfinden, was ich möchte

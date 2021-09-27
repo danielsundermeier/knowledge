@@ -3,7 +3,7 @@
 Kurzfristiges Denken verschlechtert das Leben in der Regel insgesamt, auch wenn man kurzfristig Vorteile hat.
 Langfristiges Denken verbessert es, auch wenn man kurzfristig etwas opfern muss.
 
-Für mich ist es wichtig ein großes Ziel in allen Bereichen vor Augen zu haben. Ich denke dann viel öfter darüber nach, habe mehr Spaß und ein Gefühl des Fortschritts. Außerdem fallen mir die unangenehmen Aufgaben viel leichter und ich mache sie gerne, um das große Ziel zu erreichen.
+Für mich ist es wichtig ein großes Ziel, das ich mir selbst ausgessucht habe oder hinter dem ich stehe, in allen Bereichen vor Augen zu haben. Ich denke dann viel öfter darüber nach, habe mehr Spaß und ein Gefühl des Fortschritts. Außerdem fallen mir die unangenehmen Aufgaben viel leichter und ich mache sie gerne, um das große Ziel zu erreichen.
 
 ## Ziele setzen
 

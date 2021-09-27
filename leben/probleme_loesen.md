@@ -2,6 +2,13 @@
 
 Wenn ich auf Anhieb keine gute Lösung für ein Problem finde, werde ich es erstmal zurückstellen und weiter drüber nachdenken. Meistens fällt mir eine gute Lösung ein, wenn ich über das Problem geschlafen habe, wenn ich mich vorher intensiv damit befasst habe.
 
+Ich neige dazu die letzte Lösung auf alle neuen Probleme anwenden zu wollen, auch wenn es nicht der beste Weg ist.
+
+Ich möchte versuchen mich nicht auf einen Lösungsansatz (Taktik) festzulegen, sondern mir zuerst das Ziel (Strategie) vor Augen zu führen und das Problem wirklich zu verstehen.  
+Was möchte ich wirklich erreichen?  
+Anschließend kann ich mir eine oder mehrere Lösungen überlegen.
+
+
 Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 
 1. Ziel definieren

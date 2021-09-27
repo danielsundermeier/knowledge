@@ -78,7 +78,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 
 ## Sonstiges
 
-### Rechnungen 
+### Rechnungen
 
 - per Mail -> Weniger Müll
 - per Lastschrift bezahlen -> Aufwand reduzieren / Automatisieren
@@ -102,6 +102,7 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - [Money Rules](https://www.collaborativefund.com/blog/$/)
 - [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
 - [The TWS Guide to Get Rich Quick](https://thewokesalaryman.com/2021/08/31/the-tws-guide-to-get-rich-quick/)
+- [Go Big, Then Stop](https://ofdollarsanddata.com/go-big-then-stop/)
 
 ## Videos
 

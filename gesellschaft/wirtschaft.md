@@ -56,6 +56,10 @@ Alle Beteiligten (Stakeholder) sollen profieren, nicht nur die Shareholder.
 
 Unternehmen sollen Win-Win Situationen schaffen.
 
+- Produkte müssen von Unternehmen zurückgenommen (abgeholt?) und recycled werden
+- Externalitäten einpreisen (Steuern?)
+- Right to Repair
+
 ### Tripple Bottom Line
 
 - People

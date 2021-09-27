@@ -34,6 +34,7 @@
 - [2 Tricks](https://jamesclear.com/feeling-fat)
     + kleinere Teller
     + Farbe der Teller nicht Farbe des Essens -> grüne Teller = mehr Gemüse; weniger vom Rest
+- Erhöhte Mengen an Salz in der Ernährung führen zu Wassereinlagerungen und dadurch zu starker Gewichtszunahme
 
 ## Diäten
 

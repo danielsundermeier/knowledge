@@ -51,7 +51,8 @@ Ich denke Einkommen sollten nicht besteuert werden. Es sollte einen Anreiz geben
     + Unterstützung gegen Armut
     + Gerechtere Gesellschaft
     + Anreiz für Innovationen
-
+    
+- z. B. Jeder kann rauchen, muss aber auch für die Kosten (Gesundheit, Umwelt, ...) zahlen 
 - Wer entscheidet, was wie besteuert wird? Was "besser" ist?
 - Es sollte keine Ausnahmen geben
 

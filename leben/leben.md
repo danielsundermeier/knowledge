@@ -5,8 +5,9 @@ Ich möchte dich dazu bringen über dein eigenes Leben nachzudenken und herauszu
 
 ## Zusammenfassung
 
-1. Alles aufschreiben -> Herausfinden, was ich möchte
-2. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
+1. Fundament legen
+2. Alles aufschreiben -> Herausfinden, was ich möchte
+3. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
 
 ## Ziel
 
@@ -43,6 +44,7 @@ Meine Gesundheit und Finanzen kann ich so gestalten, wie ich es mir vorstelle. D
 - Lesen
 
 - Zum glücklich sein ist entscheidend was ich jeden Tag tue, nicht das was ich hin und wieder mache
+- Nicht für das Wochenende oder den Urlaub leben
 - Aufschreiben was mir gefällt und was mir nicht gefällt
 - Mehr von dem tun was mir gefällt
 - Weniger von dem tun was mir nicht gefällt

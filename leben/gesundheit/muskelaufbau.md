@@ -24,8 +24,8 @@ Immer steigern, damit der Muskel einen Anreiz zum Wachsen hat.
 
 Beispiel Muskelaufbau
 
-3*8 -> 9,8,8 -> 9,9,8 -> … -> 12,12,12 
--> Gewichte erhöhen, mit 8, 8, 8 Weitermachen 
+3*8 Wiederholungen -> 9,8,8 -> 9,9,8 -> … -> 12,12,12 
+-> Gewichte erhöhen, mit 8, 8, 8 Weitermachen
 
 Das ist die ideal Vorstellung. Das wird so nicht funktionieren. 
 
@@ -40,14 +40,39 @@ Gewichte pro Satz anpassen
 
 ## Plateau
 
+Ich kann mich nicht über lange Zeit bei jedem Training steigern und immer eine neue persönliche Bestleistung aufstellen. Bis jetzt habe ich dann immer mit den Gewichten weiter trainiert, mich kaum noch gesteigert, war trotzdem kaputt und irgendwann verzweifelt. 
+
+Ich habe mir folgendes überlegt und werde es ausprobieren:
+
+- Nach 6-8 Wochen Plateau
+- (Regenerationswoche)
+- Mit Gewichten von vor zwei Wochen wieder anfangen
+    + Erholung
+    + Konzentration auf Technik (durch niedrigere Gewichte)
+    + Nach 2 Wochen wieder bei alten Gewichten
+    + Dann 4 Wochen steigern
+    
+Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es fühlt sich an wie eine Niederlage. Aber manchmal muss einen Schritt zurückgehen, um weiter zu kommen.
+
 - Magnetische Minigewichte: 0,25kg bis 2kg
 - 2 Schritte vor, 1 zurück -> Gewichte etwas reduzieren und von dort weiter steigern
+
+## Fortschritte
+
+- Bis 1-3 Wiederholungen vor Muskelversagen pro Satz trainieren
+- Gewichte > als 40% 1RM (1-rep-max) / weniger als 30 Wiederholungen
+- Regelmäßig Gewichte / Wiederholungen steigern
+- Auf richitge Technik achten (Full range of motion)
+- Trainingsvolumen >= 10 Sätze / Muskel / Woche
+
+[“I LIFT BUT DON’T LOOK LIKE IT”](https://www.youtube.com/watch?v=-wKiFBAsKnI)
 
 ## Splits
 
 - 1: Ganzkörper
 - 2: Oberkörper, Unterkörper
 - 3: Beine, Push, Pull
+- 4: Beine, Push, Pull, Beine, Oberkörper
 - 2*3, 3*2: zwischen Kraft- und Muskelaufbau wechseln
 - 5: Bro Split, nur für Bodybuilder, zu lange Pause
 

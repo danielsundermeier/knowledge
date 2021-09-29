@@ -5,6 +5,8 @@ Das ist mit ETFs möglich.
 
 Ich denke ein All World ETF reicht.
 
+> "Das was Sie am Ende herausbekommen, hängt nicht von der Zusammenstellung Ihres Depots ab, sondern von der geopolitisch globalwirtschaftlichen Lage" - [Monte Carlo: Rendite aus dem Casino](https://www.finanzwesir.com/blog/monte-carlo-etf-index)
+
 > "once you understand that the stock market will fall by say 25-50% from time to time (e.g. Q1 2020) and that you should never sell in panic, you probably know enough to get started." - [I’m happy using electricity without understanding it](https://theescapeartist.me/2021/02/28/im-happy-using-electricity-without-understanding-it/)
 
 ## Voraussetzung

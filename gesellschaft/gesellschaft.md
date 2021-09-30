@@ -72,7 +72,7 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 
 -> walkable neighborhoods
 
-### 2 "Welten"   
+### 2 "Welten"
 
 - Virtuelle Welt in der man Kontakt zur gesamten Welt hat (Internet)
 - Reale Welt in der man mit < 150 Menschen (Dunbar Nummer) in einer sich (größtenteils) selbstversorgenden "walkable neighborhood" wohnt
@@ -98,7 +98,7 @@ Wie wäre es, wenn die Signale einen positiven Einfluss hätten?
 Menschen mit einem erfüllenden Leben brauchen keine Ablenkung / Kompensierung (Geld, Status) / Drogen.
 Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie beim Aufbau dieses Lebens zu unterstützen.
 
-### Links 
+### Links
 
 - [Legalisierung von Drogen](https://de.wikipedia.org/wiki/Legalisierung_von_Drogen)
 - [Portugals Drogenpolitik – Hilfe statt Gefängnis](https://www.planet-wissen.de/kultur/suedeuropa/geschichte_portugals/portugal-drogenpolitik-100.html#Erfolg)

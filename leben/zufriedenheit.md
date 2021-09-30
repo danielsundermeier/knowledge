@@ -35,6 +35,11 @@ Mit einem großen Haus muss ich auch mehr aufräumen, ich kaufe mehr Dinge, um d
 
 Außerdem hält das Glücksgefühl nachdem ich etwas gekauft habe nur kurz an. Ich gewöhne mich schnell an das Neue und bin wieder an der gleichen Stelle wie vorher.
 
+
+#### Links
+
+- [Joe Rogan - Avoid The Trap of Materialism If You Want To Succeed In LIFE](https://www.youtube.com/watch?v=q60LG8y3BHs)
+
 ### Ruhm
 
 Es ist sehr schön von Menschen Anerkennung für etwas zu bekommen, dass mir am Herzen liegt, besonders am Anfang.

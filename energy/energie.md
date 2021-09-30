@@ -40,6 +40,8 @@ Ist es wirklich so einfach?
 - [The Missing Link in Renewables](https://www.youtube.com/watch?v=-PL32ea0MqM)
 - [Nano Coated Salt Technology](https://www.youtube.com/watch?v=IgUTL_FkErI)
 - [Gridscale - Long duration energy storage](https://www.youtube.com/watch?v=6tEkRRec3NE)
+- [New energy storage tech breathing life and jobs back into disused coal power plants](https://www.youtube.com/watch?v=edVjYofLYc4)
+- [Energy Vault](https://www.energyvault.com/ev1) - HARNESSING THE POWER OF GRAVITY
 
 ### Batterien
 

@@ -16,7 +16,7 @@ Die benötigte Ausrüstung steht an den entsprechenden Orten zur Verfügung.
 - Laufstrecke 
 - ...
 
-## Öffentliche Plätze 
+## Öffentliche Plätze
 
 ### Draußen
 

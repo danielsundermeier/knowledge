@@ -65,3 +65,4 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [More Gains, Half the Time (LIFT LIKE THIS!)](https://www.youtube.com/watch?v=9e2EgsKo_qU)
 - [AWorkoutRoutine](https://www.aworkoutroutine.com/)
 - [/r/bodyweightfitness Recommended Routine](https://drive.google.com/file/d/1IdrvTC4IqJ4Wn4GIgOWWncHhSstUoTrL/view)
+- [The MOST Important Advice For Getting Lean (Do This or Stay Average!)](https://www.youtube.com/watch?v=XfY3prn8tMA) - Grundlagen sind das Wichtigste (Defizit, Protein, Ernährung, Lebensstil, Training, Schlaf, Stress managen)

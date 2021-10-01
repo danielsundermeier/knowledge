@@ -134,3 +134,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [This Is Why You're Lonely (and How to Fix It)](https://www.youtube.com/watch?v=vI3hO3HiqBw)
 - [How to lose all your friends in life](https://www.youtube.com/watch?v=TvOJc8N8AIw)
 - [The Art of Not Taking Things Personally](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
+- [What are some daily habits that build a strong relationship?](https://qr.ae/pGJsyf)

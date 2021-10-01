@@ -114,3 +114,4 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt s
 ### Links
 
 - [On the Pension Apocalypse](https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/)
+- [Why Oil Doesn’t Corrupt Norway](https://www.youtube.com/watch?v=zu8ClwrTpbA)

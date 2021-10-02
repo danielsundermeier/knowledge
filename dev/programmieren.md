@@ -26,7 +26,6 @@
 
 [How To Rapidly Improve At Any Programming Language](https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/)
 
-
 ## Lesbarer Code
 
 - Lesbaren Code priorisieren
@@ -120,3 +119,4 @@ video course](https://mailcoach.app/videos)
 - [The road to hell is paved with special features for special customers](https://twitter.com/mostalive/status/1415983044935274506)
 - [What has improved You as a Developer?](https://news.ycombinator.com/item?id=28085189)
 - [How I Write Code: Pen & Paper](https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper)
+- [How to be a great programmer](https://www.youtube.com/watch?v=XklQac5WLs4) - Curiosity, Breaking down problems, write down what you want to accomplish 

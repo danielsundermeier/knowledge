@@ -1,0 +1,15 @@
+# Reading
+
+```
+[]()
+
+> ""
+```
+
+[Never apologise for hard work](https://theescapeartist.me/2021/07/04/never-apologise-for-hard-work/?utm_source=pocket_mylist)
+
+> "Society wins when people with scarce and valuable skills work harder."
+
+[On Solitude](https://eriktorenberg.substack.com/p/on-solitude)
+
+> "Want new ideas? Spend one full day alone doing nothing. Want to be more in touch with yourself? Spend one full day alone doing nothing. Want to have greater appreciation and connection with others? Spend one full day doing nothing."

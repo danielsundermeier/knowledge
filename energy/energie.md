@@ -130,12 +130,19 @@ Ist es wirklich so einfach?
 ## Wärme
 
 - Abwärme in Nahwärmenetz einspeisen
+    + Zuerst lokal nutzen
     + Datenzentren
     + Industrie
     + Biogasanlage
     + Abwasser
+    + Kühlung
+    + 2 Netzte
+        * Heißes Wasser
+        * Wasser für Wärmepumpe (shared ground loop)
 - [Wärmenetze](https://www.waermewende.de/waermewende/kommunale-waermewende/waermenetze/)
 - [Mixergy Water Storage. Smart technology for grid stability](https://www.youtube.com/watch?v=N8aGV3Z8dOA)
+
+- Kann man die Wärme von Kühlschränken, Kühltruhen, Klimaanlagen, Abwasser (in der Wärmepumpe) nutzen?
 
 ## Genossenschaften
 

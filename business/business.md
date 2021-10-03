@@ -1,5 +1,20 @@
 # Business
 
+Es sollte wieder Standard sein ehrlich zu sein und morlaische Entscheidungen zu treffen. Alle Stakeholder sollten profitieren. 
+Durch diese Win-Win Situationen gewinnen alle. 
+
+Entscheidungen sollten langfristig betroffen werden.
+
+Ziel sollte sein ein Problem endgültig zu lösen und sich dann dem Nächsten zu widmen und nicht möglichst schnell so viel Geld wie möglich zu verdienen.
+
+Die Qualität der Produkte / Dienstleistung sollte höchste Priorität haben.  
+Mit einem wirklich guten Produkt, langfristiger Ausrichtung und ehrlichen Motiven sind viele der zusätzlichen Maßnahmen nicht nötig:
+
+- Verkaufstricks
+- Konkurrenzdenken
+- Bestechung / Lobbyarbeit
+- Extremes Marketing 
+
 Es ist sinnvoller Geld in die Entwicklung eines großartigen Produktes zu stecken als in Marketing.
 Beispiel:
 - Betriko

@@ -21,11 +21,44 @@ Ziel: Das Leben aller Menschen verbessern
     + national
     + global
 
+## Prioritäten
+
+### Grundversorgung
+
+Alle müssen einen Mindeststandard an Versorgung bekommen
+
+- Essen / Trinken
+- Wohnen
+- Energie
+- Sicherheit
+- Krankenversicherung
+- Transport
+
+### Bildung
+
+Ich halte lebenslange Bildung für sehr wichtig und sie sollte nach der Grundversorgung die höchste Priorität haben. Es ist eine Investition in die Zukunft.
+
+Menschen sollen in der Lage sein sich selbst und anderen zu helfen und ein gutes Leben aufzubauen.
+
+### Informationen
+
+Informationen sollten öffentlich sein und unabhängig aufbereitet werden, damit sich die Bürger selbst ein Bild von den Themen machen können und eine fundierte Meinung bilden können, um Entscheidungen zu treffen.
+
+[Nachrichten](./nachrichten.md)
+
+### Bürokratie
+
+Abläufe sollten so effizient wie möglich gestaltet werden. 
+
+[Bildung](./bildung.md)
+
 ## Regierung
 
-- Kein "Parteiendenken" (Wir gegen Sie)
+- Gemeinsam die beste Lösung finden -> Kein "Parteiendenken" (Wir gegen Sie)
 - Kein [Lobbyismus](https://de.wikipedia.org/wiki/Lobbyismus)
 - Berufspolitiker?
+- Langfristigkeit!
+- Experimentieren -> Fehler eingestehen können
 
 ### E-Government
 
@@ -43,6 +76,10 @@ Alles elektronisch verwalten können
 
 - [Citizens' assembly](https://citizensassemblies.org/)
 
+## Reflektieren
+
+Es sollte eine Abteilung geben, die sich koninuierlich Gedanken macht, wie man den demokratischen Prozess verbessert.
+
 ## Parteien
 
 - Kooperation der Parteien
@@ -54,7 +91,7 @@ Alles elektronisch verwalten können
 
 ## Arbeit
 
-- X% des Nettolohns werden automatisch in einen Welt Fond investiert 
+- X% des Bruttolohns werden automatisch in einen Welt Fond investiert 
 - Jeder muss arbeiten, bis Summe X in Welt Fond erreicht ist
 - Zeiten / Sparquote können dynamisch festgelegt werden?
     + z.B. 50% / 15 Jahre
@@ -80,7 +117,7 @@ Alles elektronisch verwalten können
 
 ## Markt
 
-Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt so lenken, um Lösungen zu generieren, die positive Auswirkungen haben
+Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt durch Anreize lenken, um Lösungen zu generieren, die positive Auswirkungen haben
 
 ## Rente
 
@@ -101,17 +138,51 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt s
 
 - Zuerst nur ein kleiner Teil der Renteneinzahlungen in ETF, der immer weiter erhöht wird, wenn die Belastung des aktuellen Rentensystems kleiner wird?
 
+## Rohstoffe
+
+### Nichterneuerbare Rohstoffe
+
+- Öl
+- Metalle
+- Edelsteine
+
+- Gehören der Öffentlichkeit -> alle sollen davon profitieren
+- Sehr hohe Steuern 
+    + Norwegen
+        * 22% Gewerbesteuer
+        * 56% Spezialsteuer
+    + Gewinne komplett in Staatsfond investieren
+    + Limit für Ausgaben aus Staatsfond (höchstens Gewinne entnehmen, besser weniger, ~3%)
+- Keine Förderungen für Abbau
+- Unternehmen müssen Rücklagen für Rückbau anlegen
+- Endlichkeit beachten und einplanen -> jährliches Limit zum Abbau setzen
+- Nutzen, um Infrastruktur für Recycling und nachwachsenden Rohstoffe aufzubauen
+
+#### Links
+
+- [Nichterneuerbarer Rohstoff](https://de.wikipedia.org/wiki/Nichterneuerbarer_Rohstoff) - "Nicht-erneuerbare Rohstoffe sind Rohstoffe, bei denen die Geschwindigkeit ihres Verbrauchs die Geschwindigkeit ihrer Regeneration übersteigt. Gegensatz sind die nachwachsenden Rohstoffe."
+- [Why Oil Doesn’t Corrupt Norway](https://www.youtube.com/watch?v=zu8ClwrTpbA)
+- [Dutch disease](https://en.wikipedia.org/wiki/Dutch_disease) - "In economics, the Dutch disease is the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture)." 
+
+### Nachwachsende Rohstoffe
+
+- Wirtschaft auf erneuerbaren Rohstoffen aufbauen
+- Nie mehr nutzen als vorhanden
+- Am Besten einen Teil als Investment zurücklassen (nur einen Teil der "reifen" Bäume fällen -> mehr Holz)
+
+#### Links
+
+- [Nachwachsender Rohstoff](https://de.wikipedia.org/wiki/Nachwachsender_Rohstoff) - "Nachwachsende Rohstoffe (abgekürzt NawaRo, Nawaro oder NR) sind organische Rohstoffe, die aus land- und forstwirtschaftlicher Produktion stammen und vom Menschen zielgerichtet für weiterführende Anwendungszwecke außerhalb des Nahrungs- und Futterbereiches verwendet werden. Gegensatz ist der nichterneuerbare Rohstoff."
+
 ## Militär
 
 - So klein wie möglich
 - Spezialeinheit?
-- Finanziert sich selbst durch Ausstrahlung und Vermarktung von „War Games“
-- Battle Royal
-- Counterstrike
-- Capture the Flag
-- ...
+- Finanziert sich selbst durch Ausstrahlung und Vermarktung von „War Games“?
+    + Battle Royal
+    + Counterstrike
+    + Capture the Flag
 
-### Links
+## Links
 
 - [On the Pension Apocalypse](https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/)
-- [Why Oil Doesn’t Corrupt Norway](https://www.youtube.com/watch?v=zu8ClwrTpbA)

@@ -10,6 +10,7 @@
     + Möglichkeiten Dinge genauer/anders zu erklären
     + In verschiedenen Formaten aufbereitet (Texte, Beispiele, Podcast)
 - Zu jeder Zeit
+- Module, ähnlich Skilltree in Computerspielen
 - Schule / Klassenraum kann zum Nachfragen / Lernen genutzt werden
 - Lehrer und Experten unterstützen Schüler bei Projekten 
 - Praktika und Mentoren
@@ -22,7 +23,7 @@
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
 
-## Projketbasiertes Lernen
+## Projektbasiertes Lernen
 
 - Jeder Schüler / Gruppe von Schülern sollte sich selbst Projekte aussuchen, die sie erledigen wollen. Im besten Fall lösen sie ein konkretes Problem in ihrem Leben
 - Viele Handwerksberufe eignen sich für so etwas
@@ -57,6 +58,7 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 
 - Lernen lernen
 - Probleme lösen
+- Kritisches Denken
 - Gesundheit
     + Schlaf
     + Ernährung / Kochen / Gärtnern

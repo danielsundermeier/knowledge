@@ -2,12 +2,15 @@
 
 - Menschen beibringen, wie sie Probleme lösen und mit Stress umgehen können, um so ihr Leben zu verbessern
 -> Bessere Gesellschaft
+
 - "Schlechteste" Nachbarschaft zuerst verbessern
 -> größter Nutzen für Einsatz (größtes Potential etwas zu verändern)
 
+- Auf nachwachsenden Rohstoffen und erneuerbaren Ressourcen aufgebaut
+
 ## Experimente
 
-Ich denke wir sollten viel mehr kleine, lokale Experimente durchführen und die Ergebnisse veröffentlicht werden. Dann kann sich jede Gemeinschfaft das Beste heraussuchen. 
+Ich denke wir sollten viel mehr kleine, lokale Experimente durchführen und die Ergebnisse veröffentlicht werden. Dann kann sich jede Gemeinschaft das Beste für sich heraussuchen. 
 
 Was spricht dagegen 1.000 verschiedene Anbaumethoden, Schulsysteme, Finanzsysteme, Ernährungen, Lebensstile, ... im kleinen Stil auszuprobieren. Man kann so extrem viel lernen und das Beste aus allen Systemen übernehmen. Dafür sollte alles veröffentlich werden und ein intensiver Austausch zwischen den Experimenten stattfinden.
 

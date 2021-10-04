@@ -13,12 +13,15 @@
 - [Praxisorte](https://permakultur.de/praxisorte/)
 - [Permapeople](https://permapeople.org/)
 - [Prof. Declan Kennedy](https://declan.de/)
+- [Permablitz](http://www.permablitz.net/) - eating the suburbs - one backyard at a time
 
 ### Regenerative Landwirtschaft
 
 ### Waldgarten
 
 - [Seattle's Urban Food Forest Park!](https://www.youtube.com/watch?v=wH2ShQ-7hEI&t=629s)
+- [Start A Food Forest](https://www.startafoodforest.com/)
+- [How to Start a FOOD FOREST From Scratch!](https://www.youtube.com/watch?list=PL-WIU6_H4uiTAZAc4jVec9pvgMIa41U4V)
 
 ### Urban Farming
 
@@ -56,5 +59,4 @@
 - [Greenhouse in the snow](https://greenhouseinthesnow.com/)
 - [Create Your Sustainable Future & Meaningful Life](https://vergepermaculture.ca/)
 - [How Does Nutrient-Depleted Soil Impact Our Food](https://chriskresser.com/depletion-of-soil-and-what-can-be-done/)
-- [Indigo](https://www.indigoag.de/deutschland) - CO2 Zertifikate, Regenerative Landwirtschaft
 - [Reinventing the Greenhouse](https://www.lowtechmagazine.com/2015/12/reinventing-the-greenhouse.html)

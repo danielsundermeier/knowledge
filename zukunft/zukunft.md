@@ -45,3 +45,4 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Did You Miss the Part About How We're in Utopia??](https://jimleff.blogspot.com/2019/04/did-you-miss-part-about-how-were-in.html)
 - [What the smartest people do on the weekend is what everyone else will do during the week in ten years](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
 - [The Great Disruption - Rethinking Energy, Transportation, Food & Agriculture](https://www.youtube.com/watch?v=Kj96nxtHdTU)
+- [Our Visions of the Future Determine Our Society Today](https://palladiummag.com/2020/05/11/our-visions-of-the-future-determine-our-society-today/?utm_source=pocket_mylist)

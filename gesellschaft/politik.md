@@ -75,6 +75,8 @@ Alles elektronisch verwalten können
 ### Links
 
 - [Citizens' assembly](https://citizensassemblies.org/)
+- [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making) - "Consensus decision-making or consensus politics (often abbreviated to consensus) is group decision-making processes in which participants develop and decide on proposals with the aim, or requirement, of acceptance by all"
+- [Participatory budgeting](https://en.wikipedia.org/wiki/Participatory_budgeting) - "Participatory budgeting (PB) is a process of democratic deliberation and decision-making, in which ordinary people decide how to allocate part of a municipal or public budget"
 
 ## Reflektieren
 

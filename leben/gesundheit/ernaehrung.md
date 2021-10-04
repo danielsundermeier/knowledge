@@ -309,6 +309,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [UK doctor switches to 80% ULTRA-processed food diet for 30 days](https://www.youtube.com/watch?v=T4PFt4czJw0)
 - [Saisonkalender für das ganze Jahr](https://eatsmarter.de/saisonkalender)
 - [A Chemical Hunger](https://slimemoldtimemold.com/tag/a-chemical-hunger/)
+- [Simple Diet for Lean Muscle](https://www.youtube.com/watch?v=gK92Pq-c3fc)
 
 ## Zitate
 

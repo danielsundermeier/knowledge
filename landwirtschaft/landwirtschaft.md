@@ -65,7 +65,10 @@ Mehr Daten auf Produkt:
 
 - [FederWaldHof](https://federwaldhof.de)
 
-## Links 
+## Links
 
 - [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)
 - [How to Transition From Industrialized Agriculture to Permaculture?](https://www.youtube.com/watch?v=EVF_6Cq2LLY)
+- [Indigo](https://www.indigoag.de/deutschland) - CO2 Zertifikate, Regenerative Landwirtschaft
+- [Guerilla Gardening](https://de.wikipedia.org/wiki/Guerilla_Gardening) - "Als Guerilla Gardening (span. guerrilla „kleiner Krieg“ und engl. gardening „Gärtnern“) wurde ursprünglich die heimliche Aussaat von Pflanzen als subtiles Mittel politischen Protests und zivilen Ungehorsams im öffentlichen Raum bezeichnet, vorrangig in Großstädten oder auf öffentlichen Grünflächen"
+- [Regen Network](https://www.regen.network/) - Platform for a Thriving Planet

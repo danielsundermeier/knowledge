@@ -4,7 +4,7 @@ Ich glaube, dass jeder alles erreichen kann, wenn man bereit ist die erforderlic
 
 Es ist okay Fehler zu machen, solange ich daraus lerne.
 
-## 1. Gesundheit 
+## 1. Gesundheit
 
 - [Schlaf](./gesundheit/schlaf.md)
 - [Ernährung](./gesundheit/ernaehrung.md)
@@ -28,7 +28,7 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 -> Mehrwert bieten
 
-## 4. Netzwerk/Zielgruppe aufbauen 
+## 4. Netzwerk/Zielgruppe aufbauen
 
 - Gelerntes veröffentlichen
 - Kostenlos Mehrwert bieten
@@ -63,3 +63,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [Pursue Mastery, Not Status](https://moretothat.com/pursue-mastery-not-status/)
 - [Seek Upside Risk](https://www.neelnanda.io/blog/33-upside-risk)
+- [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)

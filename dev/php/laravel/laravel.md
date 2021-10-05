@@ -22,6 +22,7 @@ butler laravel:new name
 - [Laravel Examples](https://laravelexamples.com/)
 - [Outputting Eloquent query unparameterized in Laravel](https://www.amitmerchant.com/outputting-eloquent-query-unparameterized-in-laravel/)
 - [ArchTech Forum](https://forum.archte.ch/) - a community specifically for advanced discussions
+- [Larger Laravel Projects: 12 Things to Take Care Of](https://laraveldaily.com/larger-laravel-projects-12-things-to-take-care-of/)
 
 ## Blogs
 

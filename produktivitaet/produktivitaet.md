@@ -138,6 +138,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Prioritizing everything is prioritizing nothing](https://blog.drgriffin.com.au/posts/2021-07-12-prioritizing-everything-is-prioritizing-nothing.html)
 - [How do you make productivity less of a miserable experience?](https://qr.ae/pGOLzK)
 - [The One Thing](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/)
+- [Be Challenged. Not Overwhelmed.](https://moretothat.com/be-challenged-not-overwhelmed/)
 
 ### Blogs
 

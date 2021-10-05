@@ -22,6 +22,7 @@
 - [Seattle's Urban Food Forest Park!](https://www.youtube.com/watch?v=wH2ShQ-7hEI&t=629s)
 - [Start A Food Forest](https://www.startafoodforest.com/)
 - [How to Start a FOOD FOREST From Scratch!](https://www.youtube.com/watch?list=PL-WIU6_H4uiTAZAc4jVec9pvgMIa41U4V)
+- [Permaculture guilds part 1 - companion planting on steroids](https://www.youtube.com/watch?v=RpXfiaGpmsc)
 
 ### Urban Farming
 

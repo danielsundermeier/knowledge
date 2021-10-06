@@ -5,7 +5,7 @@ Der Körper passt sich dem Defizit an und verbraucht weniger Energie. Deshalb mu
 Nachdem ich genug abgenommen habe, erhöhe ich die Kalorien langsam um 50 - 100 kcal / Tag pro Woche, damit sich mein Körper langsam daran gewöhnen kann.
 Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im Defizit war.
 
-## Vorbereiten 
+## Vorbereiten
 
 - Grundumsatz herausfinden: [Kalorienrechner](https://fitness-experts.de/kalorienrechner)
     + Sehr ungenau: als Startpunkt wählen und anpassen
@@ -47,7 +47,7 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 
 - [How Much Walk To Get UNDER 10% Body Fat](https://www.youtube.com/watch?v=rjQ2YLJ8q9Y)
 
-## Makro Nährstoffe: 
+## Makro Nährstoffe:
 - 50% Kohlenhydrate, 25 Proteine, 25 Fette
 - Fette und Protein sättigen
 - Fette für Hormonhaushalt
@@ -67,7 +67,7 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - Hunger passt sich an Essenszeiten an
 - Keine Snacks
 
-## Links 
+## Links
 
 - [How Many Calories Should You Eat To Lose Fat?](https://www.youtube.com/watch?v=rBUsZvMD-Qk)
 - [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)

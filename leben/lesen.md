@@ -45,3 +45,4 @@ Zusammenfasung auf www.blinkist.de anhören
 - [How to Read a Book](https://thedeepdish.org/how-to-read-a-book/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-read-a-book)
 - [Book Recommendations](https://markmanson.net/best-books/book-recommendations)
 - [Escape your literary echo chamber!](https://abooklikefoo.com/escape/)
+- [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)

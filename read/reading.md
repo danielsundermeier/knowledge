@@ -32,3 +32,34 @@
 
 > "All history is the study of what’s changed, but it’s often used as a guide to the future. The irony is overlooked because the idea that if we gather enough data and read enough books we’ll acquire a map of the future is so seductive – it’s so simple, and makes you feel great."
 
+[How Will You Measure Your Life? ](https://hbr.org/2010/07/how-will-you-measure-your-life)
+
+> "the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements."
+
+> "Doing deals doesn’t yield the deep rewards that come from building up people."
+
+> "I’ve seen more and more of them come to reunions unhappy, divorced, and alienated from their children. I can guarantee you that not a single one of them graduated with the deliberate strategy of getting divorced and raising children who would become estranged from them. And yet a shocking number of them implemented that strategy. The reason? They didn’t keep the purpose of their lives front and center as they decided how to spend their time, talents, and energy."
+
+> "People who are driven to excel have this unconscious propensity to underinvest in their families and overinvest in their careers—even though intimate and loving relationships with their families are the most powerful and enduring source of happiness."
+
+> "it’s easier to hold to your principles 100% of the time than it is to hold to them 98% of the time"
+
+> "Don’t worry about the level of individual prominence you have achieved; worry about the individuals you have helped become better people. This is my final recommendation: Think about the metric by which your life will be judged, and make a resolution to live every day so that in the end, your life will be judged a success."
+
+[API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+
+> "Frankly, the biggest knock against simple random tokens is that they’re boring. If you can get away with using them — and most applications can — you probably should."
+
+[Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
+
+> "make sure you’re playing the real game, not some more complicated game you’ve made up for yourself."
+
+> "The scrub mentality is to be so shackled by self-imposed handicaps as to never have any hope of being truly good at a game. You can practice forever, but if you can't get over these common hangups, in a sense you've lost before you even started. You've lost before you even picked which game to play. You aren't playing to win."
+
+[How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
+
+> "Skim a lot of books. Read a few. Immediately re-read the best ones twice. While rereading can seem like a waste of time because there are so many other books to read, this is a misunderstanding of the learning process. The best time to start rereading a great book is right after finishing. The goal is not to read as many books as possible. The goal is to gain as much wisdom as you can."
+
+[The Long Game 68](https://thelonggame.xyz/p/the-long-game-68-zone-2-training)
+
+> "Modern society duped us all with the wrong idea that more convenience & comfort will necessarily lead to more happiness"

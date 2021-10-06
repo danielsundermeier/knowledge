@@ -21,7 +21,7 @@ Es gibt mehrere Staffeln von "immer das Neuste" bis "Hauptsache es funktioniert"
 - Automatische Updates
 - Ressourcenschonend
 
-## Produkte 
+## Produkte
 
 Anreiz Produkte in sehr hoher Qualität zu produzieren. Hersteller hat nicht den Zwang ständig Neues zu verkaufen. 
 

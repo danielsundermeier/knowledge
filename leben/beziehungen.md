@@ -137,3 +137,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [What are some daily habits that build a strong relationship?](https://qr.ae/pGJsyf)
 - [Getting beyond small talk](https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html)
 - [The network approach and the shotgun approach](https://theredquest.wordpress.com/2021/10/04/the-network-approach-and-the-shotgun-approach-why-and-when-girls-flake-in-dating/)
+- [New Neuroscience Reveals 7 Secrets That Will Make You Emotionally Intelligent](https://www.bakadesuyo.com/2021/10/conflict/)

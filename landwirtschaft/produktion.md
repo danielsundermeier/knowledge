@@ -23,6 +23,8 @@
 - [Start A Food Forest](https://www.startafoodforest.com/)
 - [How to Start a FOOD FOREST From Scratch!](https://www.youtube.com/watch?list=PL-WIU6_H4uiTAZAc4jVec9pvgMIa41U4V)
 - [Permaculture guilds part 1 - companion planting on steroids](https://www.youtube.com/watch?v=RpXfiaGpmsc)
+- [9 Permaculture Plant Lists - Plant Guilds and Companion Planting](https://www.youtube.com/watch?v=-ZliMUJre2Y)
+- [Plant Index](http://tcpermaculture.com/site/plant-index/)
 
 ### Urban Farming
 

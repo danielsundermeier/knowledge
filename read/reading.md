@@ -63,3 +63,11 @@
 [The Long Game 68](https://thelonggame.xyz/p/the-long-game-68-zone-2-training)
 
 > "Modern society duped us all with the wrong idea that more convenience & comfort will necessarily lead to more happiness"
+
+[Nature Shows How This All Works](https://www.collaborativefund.com/blog/nature-shows-how-this-all-works/)
+
+> "The point is that extreme events in one direction increase the odds of extreme events in the other."
+
+> "The time, not the little changes, is what moves the needle. Take minuscule changes and compound them by 3.8 billion years and you get results that are indistinguishable from magic."
+
+> "If you understand the math behind compounding you realize the most important question is not “How can I earn the highest returns?” It’s, “What are the best returns I can sustain for the longest period of time?”"

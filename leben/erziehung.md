@@ -42,6 +42,7 @@ Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeite
 ### Links
 
 - [With our first kid coming, what’re some clever ways we can help her out financially?](https://twitter.com/nateliason/status/1404441187143110660)
+- [How to teach young kids about money?](https://news.ycombinator.com/item?id=28774683)
 
 ## Rite of Passage
 

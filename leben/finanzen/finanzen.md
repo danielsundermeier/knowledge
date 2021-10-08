@@ -114,6 +114,7 @@ PBNKDEFF011
 - [The Highest Forms of Wealth](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
 - [The TWS Guide to Get Rich Quick](https://thewokesalaryman.com/2021/08/31/the-tws-guide-to-get-rich-quick/)
 - [Go Big, Then Stop](https://ofdollarsanddata.com/go-big-then-stop/)
+- [Nature Shows How This All Works](https://www.collaborativefund.com/blog/nature-shows-how-this-all-works/)
 
 ## Videos
 

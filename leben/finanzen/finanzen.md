@@ -83,6 +83,17 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 - per Mail -> Weniger Müll
 - per Lastschrift bezahlen -> Aufwand reduzieren / Automatisieren
 
+### BIC
+
+```
+PBNKDEFF011
+```
+
+- PBNK - Die ersten 4 Zeichen (nur Buchstaben) - Postbank Code.
+- DE - Die nächsten 2 Zeichen (nur Buchstaben) - Deutschland ISO-Code.
+- Die nächsten 2 Zeichen (Buchstaben und Zahlen) - Standort code.
+- Die letzten 3 Zeichen (Buchstaben und Zahlen) ? Bankfiliale (optional).
+
 ## Links
 
 - [How to build wealth slowly](https://pjrvs.com/wealth)

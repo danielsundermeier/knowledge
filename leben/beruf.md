@@ -12,6 +12,8 @@
 
 > "Don't be afraid to invest upfront. Invest in ways you cannot make a loss. Invest your time like you would your money." - [My "Investment Mindset"](https://blog.pragmaticengineer.com/the-investment-mindset/)
 
+- [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
+
 ## Anforderungen an den Job
 
 - Authenticity - to express who you truly are, and be seen and valued for it

@@ -67,10 +67,14 @@ Ist es wirklich so einfach?
 - [#7 Solaranlage? Mach Dein Dach voll!](https://www.youtube.com/watch?v=J5avgZdX26o)
 - [Photovoltaik ohne Finanzamt](https://www.pv-magazine.de/2019/09/27/photovoltaik-ohne-finanzamt/)
 - [Solaranlage: Kosten & Wirtschaftlichkeit im Überblick](https://www.energie-experten.org/erneuerbare-energien/solarenergie/solaranlage/kosten)
-- [Agri-Photovoltaik](https://agri-pv.org/)
-- [Agrivoltaics](https://www.youtube.com/watch?v=2ue53mBUtNY)
 - [Diese Solarzellen aus Abfall brauchen kein Sonnenlicht!](https://www.youtube.com/watch?v=T7iGVymy6IU)
 - [AuREUS: Aurora Renewable Energy & UV Sequestration](https://www.jamesdysonaward.org/2020/project/aureus-aurora-renewable-energy-uv-sequestration/)
+
+### Agrivoltaics
+
+- [Agri-Photovoltaik](https://agri-pv.org/)
+- [Agrivoltaics](https://www.youtube.com/watch?v=2ue53mBUtNY)
+- [Solar Panels Plus Farming? Agrivoltaics Explained](https://www.youtube.com/watch?v=lgZBlD-TCFE)
 
 ## Wind
 

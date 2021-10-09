@@ -6,6 +6,7 @@
 - [WiFi Card](https://github.com/bndw/wifi-card)
 - [Start Your Own ISP](https://startyourownisp.com/)
 - [Building a better home network](https://kevin.burke.dev/kevin/building-a-better-home-network/)
+- [What is the OSI Model?](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/)
 
 ## Ethernet
 

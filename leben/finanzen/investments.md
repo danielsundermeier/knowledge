@@ -64,3 +64,4 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [The Alfred Hitchcock Path to FI](https://jlcollinsnh.com/2021/05/05/the-alfred-hitchcock-path-to-fi/)
 - [Speculation: A Game You Can’t Win](https://moretothat.com/speculation/)
 - [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
+- [I Collect Cashflows](https://thereformedbroker.com/2021/10/05/i-collect-cashflows/)

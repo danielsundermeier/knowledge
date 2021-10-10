@@ -26,7 +26,8 @@
     * von dort Anpassen/Optimieren/andere Entscheidung treffen
     * Fehlentscheidungen zum Lernen nutzen
     * setzt Energie frei
-Abläufe beobachten und ggf. anpassen
+    * Abläufe beobachten und ggf. anpassen
+- Kopf, Herz und Bauch einbeziehen und Lösung für alle finden
 
 ## Entscheidungen treffen
 

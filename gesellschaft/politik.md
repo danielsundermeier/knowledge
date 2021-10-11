@@ -77,6 +77,7 @@ Alles elektronisch verwalten können
 - [Citizens' assembly](https://citizensassemblies.org/)
 - [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making) - "Consensus decision-making or consensus politics (often abbreviated to consensus) is group decision-making processes in which participants develop and decide on proposals with the aim, or requirement, of acceptance by all"
 - [Participatory budgeting](https://en.wikipedia.org/wiki/Participatory_budgeting) - "Participatory budgeting (PB) is a process of democratic deliberation and decision-making, in which ordinary people decide how to allocate part of a municipal or public budget"
+- [Sortition](https://en.wikipedia.org/wiki/Sortition) - "In governance, sortition (also known as selection by lottery, selection by lot, allotment, demarchy, stochocracy, aleatoric democracy and lottocracy) is the selection of political officials as a random sample from a larger pool of candidates.""
 
 ## Reflektieren
 

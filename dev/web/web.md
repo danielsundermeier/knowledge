@@ -15,6 +15,7 @@
 - [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 - [Permission.site](https://permission.site/) - Simple site to test permission-related UI for web APIs.
 - [humans.txt](https://humanstxt.org/) - We Are People, Not Machines
+- [12ft](https://12ft.io/) - Show me a 10ft paywall, I’ll show you a 12ft ladder.
 
 ## Tests
 

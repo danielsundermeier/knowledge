@@ -19,3 +19,4 @@ $string = preg_replace("/\r|\n/s", '[,nL]', $string);
 
 - [regex101](https://regex101.com/) for testing
 - [iHateRegex](https://ihateregex.io/)
+- [Learn Regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)

@@ -15,6 +15,7 @@
 - Positiv sein; negative Dinge für mich behalten
 - Namen merken und im Gespräch wiederholen
 - Offen für andere Meinungen sein
+- >= 5 positive : 1 negative Interaktion
 
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 

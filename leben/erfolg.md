@@ -58,6 +58,8 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 > "All you have to do, if you want everything in life from everybody else, is first pay attention; listen to them; show them respect; give them meaning, satisfaction, and fulfillment. Convey to them that they matter to you. And show you love them. But you have to go first. And what are you going to get back? Mirrored reciprocation. Right? See how we tie this all together? The world is so damn simple. It’s not complicated at all! Every single person on this planet is looking for the same thing. Now, why is it that we don’t act on these very simple things?" - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 
+> "the world rewards you for value added, not time spent" - [James Clear](https://jamesclear.com/)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

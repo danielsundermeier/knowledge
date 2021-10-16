@@ -10,6 +10,7 @@
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 - [How to Use Bash Alias](https://www.shell-tips.com/bash/alias/)
 - [The Complete How To Guide of Bash Functions](https://www.shell-tips.com/bash/functions/)
+- [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner.
 
 ## Snippets
 

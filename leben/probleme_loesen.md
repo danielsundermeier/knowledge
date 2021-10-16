@@ -78,3 +78,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)
 - [Polarity Thinking 101](https://www.sloww.co/polarity-thinking-101/)
 - [When You Already Know the Answer](https://www.neelnanda.io/blog/42-inner-sim)
+- [I did a Think Week on a remote Scottish island](https://www.petecodes.io/think-week-scottish-island-2021/)

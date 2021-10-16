@@ -216,6 +216,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Starting a company is just taking something that used to annoy you every once in a while and spending every waking minute thinking about it.](https://twitter.com/gkoberger/status/1428138994294874115)
 - [The Locker Room](https://www.collaborativefund.com/blog/the-locker-room/)
 - [Doing a Job](https://govleaders.org/rickover.htm)
+- [Gemeinnützige GmbH](https://de.wikipedia.org/wiki/Gemeinn%C3%BCtzige_GmbH) - "Die gemeinnützige GmbH (gGmbH) ist im deutschen Steuerrecht eine Gesellschaft mit beschränkter Haftung, deren Erträge für gemeinnützige Zwecke verwendet werden."
 
 ### Blogs
 

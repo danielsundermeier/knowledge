@@ -84,6 +84,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [So You Want to Write a Book](https://ed2592press.com/author/)
 - [Copywriting is a superpower](https://twitter.com/alexgarcia_atx/status/1405155705477156866)
 - [On audience capture and fast food content](https://manuelmoreale.com/fast-food-content)
+- [How to Start a Blog](https://www.freecodecamp.org/news/how-to-start-a-blog-book/)
 
 ## Inspiration
 

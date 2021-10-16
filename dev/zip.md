@@ -33,4 +33,8 @@ tar cvzf tarball.tar.gz .
 
 ```
 tar xvzf tarball.tar.gz
-``
+```
+
+## Links
+
+- [Linux tar Command](https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/) - How to Compress Files in Linux

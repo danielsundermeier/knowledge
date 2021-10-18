@@ -90,6 +90,18 @@ Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gem
 
 ## Selbstbewusstsein
 
+- Nervosität als Begeisterung interpretieren.
+
+### Feedback
+
+Sich selbst nach jeder Aufgabe Feedback geben:
+
+- Great: Selbst loben, wenn es gut war
+- OK
+- Needs Work: Wenn etwas schlecht lief
+
+### Links
+
 - [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)
 
 ## Zeit

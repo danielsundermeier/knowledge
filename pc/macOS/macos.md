@@ -3,6 +3,7 @@
 - [Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
 - [Can select text from middle of link's text by holding down alt while you drag and select with the mouse](https://twitter.com/MBoffin/status/1218668903586394112)
 - [Defaults](https://macos-defaults.com/#%F0%9F%99%8B-what-s-a-defaults-command)
+- [Understanding DisplayLink, multiple displays, and M1 Macs](https://danielcompton.net/2021/07/28/apple-m1-displaylink-multiple-display)
 
 ## Setup
 

@@ -51,6 +51,7 @@ Ich habe mir folgendes überlegt und werde es ausprobieren:
     + Konzentration auf Technik (durch niedrigere Gewichte)
     + Nach 2 Wochen wieder bei alten Gewichten
     + Dann 4 Wochen steigern
+- Wiederholungen bei aktuellem Gewicht reduzieren
     
 Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es fühlt sich an wie eine Niederlage. Aber manchmal muss einen Schritt zurückgehen, um weiter zu kommen.
 

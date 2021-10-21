@@ -94,6 +94,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 
 - [Retrofitting to Passive House standards](https://www.youtube.com/watch?v=wN34zF7e4J8)
 - [Dach dämmen ohne Unterspannbahn](https://www.rathscheck.de/magazin/dach-daemmen-ohne-unterspannbahn-wie-gehe-ich-vor/#)
+- [Hanfdämmung](https://www.haus.de/bauen/hanfdaemmung)
 
 ## Wohnfläche
 
@@ -163,3 +164,4 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [European Ecovillage Map](https://gen-europe.org/ecovillages/european-ecovillages/)
 - [If you were building a house from scratch, what features would you recommend considering?](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
 - [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [Isn’t it good, Swedish plywood](https://www.theguardian.com/artanddesign/2021/oct/14/skelleftea-swedish-plywood-eco-town-20-storey-wooden-skyscraper-worlds-tallest)

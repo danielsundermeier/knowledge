@@ -171,3 +171,4 @@ all feel good about
 - [The future of electricity is local](https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/)
 - [e-coFACE Elementfassade der Zukunft](https://www.youtube.com/watch?v=CP_srGELb8k)
 - [Eine Milliarde Maschinen](https://1e9.community/t/eine-milliarde-maschinen-ein-us-wissenschaftler-will-einfach-alles-elektrisch-machen/9988)
+- [Who is the real problem when it comes to climate change?](https://noahpinion.substack.com/p/who-is-the-real-problem-when-it-comes)

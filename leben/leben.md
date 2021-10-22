@@ -74,7 +74,7 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 
 Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gemacht.
 
-## Hierachrie
+## Hierarchie
 
 - Building a life
 - Themes

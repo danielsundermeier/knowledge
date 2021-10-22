@@ -165,3 +165,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [If you were building a house from scratch, what features would you recommend considering?](https://www.reddit.com/r/fatFIRE/comments/pq373t/if_you_were_building_a_house_from_scratch_what/)
 - [The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
 - [Isn’t it good, Swedish plywood](https://www.theguardian.com/artanddesign/2021/oct/14/skelleftea-swedish-plywood-eco-town-20-storey-wooden-skyscraper-worlds-tallest)
+- [KODA Loft](https://www.kodasema.com/koda-loft/) - is a movable timber frame house
+- [Hocomo](https://www.hocomo.eu/de-de) - Modulare Häuser
+
+

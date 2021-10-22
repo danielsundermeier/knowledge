@@ -141,6 +141,7 @@ Young Scholars](https://progressstudies.school/)
 at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 - [Synthesis](https://www.synthesis.is/)
+- [Schoolhouse](https://schoolhouse.world/) - Free tutoring, with peers
 
 ## Experimente
 

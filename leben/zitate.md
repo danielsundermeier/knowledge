@@ -1,6 +1,6 @@
 # Zitate
 
->  “Good judgment comes from experience. Experience comes from bad judgment.” - unknown
+> “Good judgment comes from experience. Experience comes from bad judgment.” - unknown
 
 > "Anything worth doing is likely to be painful, dangerous or unpleasant at least some of the time, but it provides a lot more lasting satisfaction than sitting at home in a padded room, eating candy."
 

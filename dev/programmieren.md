@@ -18,6 +18,10 @@
     + Funktionsweise der Änderung
 - Code immer besser hinterlassen, als ich ihn vorgefunden habe
 
+### Links
+
+- [Writing a program: 1. Analyze the problem. 2. Build the flow chart. 3. Code the instructions. ](https://twitter.com/kevinbaker/status/1450684742916005892)
+
 ## Verbessern
 
 1. Every morning, take your favorite open source library or one from a language you’re learning, go to the closed PRs on Github and start reading them from the beginning. Just a few a morning for warmup while you drink your morning coffee and catch up on email.

@@ -87,4 +87,4 @@ Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es füh
 - [It Took Me 21 Years To Find My Perfect Workout Routine](https://www.youtube.com/watch?v=nz1Q3BRu20g)
 - [How To Get Big Explained In 8.5 Minutes](https://www.youtube.com/watch?v=wqDRJFZk2GM)
 - [Why You’re Not Making Gains](https://www.youtube.com/watch?v=3HeqwpngI64)
-- [Schwere oder leichte Gewichte für Muskelaufbau?](https://science-fitness.de/research-reviews/gewichte-muskelaufbau) - Es ist entscheidend einen Reiz zum Wachsen zu setzen, nicht wie man es erreicht
+- [Schwere oder leichte Gewichte für Muskelaufbau?](https://science-fitness.de/research-reviews/gewichte-muskelaufbau) - Schwere und leichte Gewichte funktionieren

@@ -22,3 +22,4 @@ Aktuell verarbeite ich:
 - [A Framework for Personal Science](https://quantifiedself.com/)
 - [Map of my personal data infrastructure](https://beepb00p.xyz/myinfra.html)
 - [What data on myself I collect and why?](https://beepb00p.xyz/my-data.html)
+- [Project Blueprint](https://blueprint.bryanjohnson.co/) - Project Blueprint aims to measure all 70+ organs of my body and then maximally reverse the quantified biological age of each.

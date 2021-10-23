@@ -79,3 +79,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [Polarity Thinking 101](https://www.sloww.co/polarity-thinking-101/)
 - [When You Already Know the Answer](https://www.neelnanda.io/blog/42-inner-sim)
 - [I did a Think Week on a remote Scottish island](https://www.petecodes.io/think-week-scottish-island-2021/)
+- [I don't understand this (yet)](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)

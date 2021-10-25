@@ -75,10 +75,22 @@ rm ib_logfile1
 
 ```
 brew unlink php@7.1
-$ brew link php@7.4 --force --overwrite
+brew link php@7.4 --force --overwrite
 ```
 
 [Switching between PHP versions when using Homebrew](https://localheinz.com/blog/2020/05/05/switching-between-php-versions-when-using-homebrew/)
+
+Create a function to your bash/zshrc profile
+
+```
+switchphp() {
+    brew unlink php && brew link --force --overwrite php@$1
+}
+
+switchphp 7.4
+```
+
+[Switching between PHP versions with Homebrew](https://dcblog.dev/switching-between-php-versions-with-homebrew)
 
 ## Nix
 

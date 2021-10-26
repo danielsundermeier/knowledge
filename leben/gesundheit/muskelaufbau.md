@@ -1,6 +1,6 @@
 # Muskelaufbau
 
-- Kalorienüberschuss von ca. 250 kcal, bis ich nicht mehr zunehme, dann erst erhöhen
+- Kalorienüberschuss von ca. 250 kcal (10-15%), bis ich nicht mehr zunehme, dann erst erhöhen
 - Progressive overload -> immer steigern
 - täglich morgens wiegen
 - Die richtige Ausführung ist wichtiger als Wiederholungen oder Gewichte
@@ -88,3 +88,4 @@ Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es füh
 - [How To Get Big Explained In 8.5 Minutes](https://www.youtube.com/watch?v=wqDRJFZk2GM)
 - [Why You’re Not Making Gains](https://www.youtube.com/watch?v=3HeqwpngI64)
 - [Schwere oder leichte Gewichte für Muskelaufbau?](https://science-fitness.de/research-reviews/gewichte-muskelaufbau) - Schwere und leichte Gewichte funktionieren
+- [Wie oft trainieren?](https://science-fitness.de/research-reviews/wie-oft-trainieren-pro-woche) - ca. 10 Sätze pro Muskelgruppe pro Training, Volumen ist wichtiger als Anzahl Trainingseinheiten

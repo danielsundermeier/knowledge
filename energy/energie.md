@@ -158,6 +158,7 @@ Ist es wirklich so einfach?
 - [LOW CARBON HUB](https://www.lowcarbonhub.org/) - Creating energy we can
 all feel good about
 - [NETZWERK ENERGIEWENDE JETZT e.V.](https://www.energiegenossenschaften-gruenden.de/)
+- [Sonnen GmbH](https://sonnen.de/sonnencommunity/) - Eine Gemeinschaft von Unabhängigen
 
 ## Förderung
 

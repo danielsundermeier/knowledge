@@ -128,3 +128,4 @@ Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp000039
 - [Why a Daily Self-Care Routine Is More Important Than a Vacation](https://www.theemotionmachine.com/why-a-daily-self-care-routine-is-more-important-than-a-vacation/)
 - [How Will You Measure Your Life? ](https://hbr.org/2010/07/how-will-you-measure-your-life)
 - [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
+- [Internal vs. External Benchmarks](https://www.collaborativefund.com/blog/internal-vs-external-benchmarks/)

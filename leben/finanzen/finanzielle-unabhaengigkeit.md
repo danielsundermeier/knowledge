@@ -156,6 +156,7 @@ Ich kann mich dann entweder auf ein sehr erfolgreiches Projekt konzentrieren ode
 - [Why You Should Plant a (Symbolic) Garden For Early Retirement](https://minafi.com/garden)
 - [The 2021 Early-Retirement Update](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/)
 - [I hustled like mad in my 20s. Here’s what it cost me.](https://thewokesalaryman.com/2021/08/27/i-hustled-like-mad-in-my-20s-heres-what-it-cost-me)
+- [People who cashed out early and stopped working: What is your life like?](https://news.ycombinator.com/item?id=28798089) - "Humans are built for problem solving and the struggle and the adventure of challenge"
 
 ## Videos
 

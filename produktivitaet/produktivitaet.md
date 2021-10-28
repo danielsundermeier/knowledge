@@ -140,6 +140,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [The One Thing](https://emilyyleung.github.io/digitalgarden/books/The%20One%20Thing%20-%20Keller/)
 - [Be Challenged. Not Overwhelmed.](https://moretothat.com/be-challenged-not-overwhelmed/)
 - [Every productivity thought I've ever had](https://guzey.com/productivity/)
+- [Moving faster](https://scattered-thoughts.net/writing/moving-faster/)
 
 ### Blogs
 

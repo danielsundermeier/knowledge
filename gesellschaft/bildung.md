@@ -162,3 +162,6 @@ Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jede
 - [Stiftelsen Ekskäret](https://ekskaret.se/)
 - [On Medici and Thiel](https://www.strangeloopcanon.com/p/on-medici-and-thiel)
 - [Fermat’s Library](https://fermatslibrary.com/)
+- [The Case Against Teaching](https://learn.uakron.edu/ideal/cohorts/friday/case_against_teaching.pdf)
+
+

@@ -45,6 +45,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Sustainable Infrastructure](https://wrathofgnon.substack.com/p/sustainable-infrastructure)
 - [Reading “Architecture for the Poor”](https://wrathofgnon.substack.com/p/reading-architecture-for-the-poor)
 - [Clay to stay](https://www.ibo.at/forschung/referenzprojekte/data/clay-to-stay) - Ausweitung der Lehmanwendung im Bausektor durch Aufbau eines Prüfnetzwerks
+- [Geoship](https://geoship.is/) - Build the future of home
 
 ## Strohballenhaus
 

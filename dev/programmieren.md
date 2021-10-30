@@ -126,3 +126,5 @@ video course](https://mailcoach.app/videos)
 - [How to be a great programmer](https://www.youtube.com/watch?v=XklQac5WLs4) - Curiosity, Breaking down problems, write down what you want to accomplish 
 - [Code Catalog](https://codecatalog.org/) - Code Catalog is a collection of instructive code examples with annotations
 - [Programming Guidelines](https://github.com/guettli/programming-guidelines)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+

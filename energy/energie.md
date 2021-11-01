@@ -84,6 +84,8 @@ Ist es wirklich so einfach?
 - [The Future of the North Sea](https://www.youtube.com/watch?v=ZRLW-3Niseg)
 - [EnerKite](https://www.enerkite.de/) - Flugwindkraftanlagen
 - [MOWEA](https://www.mowea.world/de/) - Modular wind energy systems
+- [Kite//Kraft](https://www.kitekraft.de/) - Building flying
+wind turbines.
 
 ## Biogas
 

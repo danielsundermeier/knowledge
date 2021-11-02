@@ -95,10 +95,17 @@ Es sollte eine Abteilung geben, die sich koninuierlich Gedanken macht, wie man d
 ## Arbeit
 
 - X% des Bruttolohns werden automatisch in einen Welt Fond investiert 
-- Jeder muss arbeiten, bis Summe X in Welt Fond erreicht ist
+- Jeder muss arbeiten, bis mindestens Summe X in Welt Fond erreicht ist (Auszahlungen = Armutsgrenze)
 - Zeiten / Sparquote können dynamisch festgelegt werden?
     + z.B. 50% / 15 Jahre
--> Finanzielle Unabhängigkeit
+- Auszahlungen
+    + bis zu 4% / Jahr steuerfrei
+    + Beträge darüber werden besteuert und mit "Strafzahlungen" belegt 
+    + -> Depot soll wachsen und nicht kleiner werden
+- Zusätzlich Einzahlungen unbegrenzt möglich
+- Kann steuerfrei vererbt werden
+- Maximal Wert durch Vermögenssteuer begrenzen? [Steuern](./steuern.md)
+-> Finanzielle Unabhängigkeit für alle innerhalb von 1-3 Generationen
 
 - Arbeitszeit als "Rite of Passage"?
 - Danach kann man tun, was man möchte

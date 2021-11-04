@@ -2,6 +2,7 @@
 
 - Kalorienüberschuss von ca. 250 kcal (10-15%), bis ich nicht mehr zunehme, dann erst erhöhen
 - Progressive overload -> immer steigern
+- 10 - 20 Sätze pro Muskel pro Woche mit je 2-4 Reps in Reserve
 - täglich morgens wiegen
 - Die richtige Ausführung ist wichtiger als Wiederholungen oder Gewichte
 - Muskelaufbau: 8-12 Wiederholungen 3 Sätze 
@@ -89,3 +90,4 @@ Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es füh
 - [Why You’re Not Making Gains](https://www.youtube.com/watch?v=3HeqwpngI64)
 - [Schwere oder leichte Gewichte für Muskelaufbau?](https://science-fitness.de/research-reviews/gewichte-muskelaufbau) - Schwere und leichte Gewichte funktionieren
 - [Wie oft trainieren?](https://science-fitness.de/research-reviews/wie-oft-trainieren-pro-woche) - ca. 10 Sätze pro Muskelgruppe pro Training, Volumen ist wichtiger als Anzahl Trainingseinheiten
+- [New Science of Muscle Hypertrophy - Part 3, Eating & Training: 55 Min Phys](https://www.youtube.com/watch?v=cw6XPWaEK20) - 10-20 Sätze pro Muskel pro Woche mit je 2-4 Reps in Reserve, alles andere ist nebensächlich

@@ -5,3 +5,12 @@
 > "Living in a world packed with rivals is highly stressful."
 
 > "Live your own life, and don’t try to fulfill the expectations of others."
+
+[]()
+
+> "The same attitudes, the same flaws, the same stories that show up all over the place. They’re reflections of how people’s heads work no matter where they live or when they were born."
+
+> "Take a good, honest, loving person and strip them of basic necessities and you’ll soon get an unrecognizable monster who’ll do anything to survive."
+
+> "Declines occur because many people’s entire goal is to become so successful that they can relax, and relaxing leads to complacency that breeds decline."
+

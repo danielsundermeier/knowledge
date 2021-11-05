@@ -2,7 +2,7 @@
 
 - Jeden Tag etwas verbessern
 - In kleinen Schritten ein großes Ziel erreichen: Kaizen
-- Flaschenhäse finden und entfernen
+- Flaschenhälse finden und entfernen
 
 - Zuerst einen schlechten ersten Entwurf schreiben, dann nach und nach überarbeiten. Es ist leichter etwas zu bearbeiten als vor einer leeren Seite zu sitzen.
 

@@ -108,6 +108,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [On the Link Between Great Thinking and Obsessive Walking](https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking)
 - [How to Learn Faster: The IMPROVED Feynman Technique](https://www.youtube.com/watch?v=B8V5EfJLX9U)
 - [460 Free Textbooks – Math, Science, and More](https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/)
+- [How Learning Works](https://romandesign.co/how-learning-works-components-systems-and-loops/)
 
 ## Spaced Repetition
 

@@ -8,6 +8,7 @@ Ich möchte versuchen mich nicht auf einen Lösungsansatz (Taktik) festzulegen, 
 Was möchte ich wirklich erreichen?  
 Anschließend kann ich mir eine oder mehrere Lösungen überlegen.
 
+Was würde ich einen Freund in der gleichen Situation raten?
 
 Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 

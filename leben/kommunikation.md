@@ -14,3 +14,4 @@
 - [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)
 - [Sorry, Your Complain Meter Is Filled For the Day!](https://www.theemotionmachine.com/sorry-your-complain-meter-is-filled-for-the-day/)
 - [Nonviolent Communication](Nonviolent Communication) - "is an approach to communication based on principles of nonviolence. It is not a technique to end disagreements, but rather a method designed to increase empathy and improve the quality of life of those who utilize the method and the people around them."
+- [Psychiatrist's Guide to Conversation](https://www.youtube.com/watch?v=tIATzLf-y04)

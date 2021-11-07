@@ -19,6 +19,14 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 
 ## Ziele
 
+### Post Poverty
+
+- Alle haben ein Depot für die finanzielle Unabhängigkeit
+- Aufbau des Depots staatlich gefördert
+- Genug Einnahmen durch das Depot, um über der Armutsgrenze zu leben
+- Nicht mehr als 3-4% / Jahr entnehmen, damit es immer weiter wächst
+- [Arbeit](../gesellschaft/politik.md#arbeit)
+
 ### Post Scarcity
 
 Alle haben genug

@@ -53,6 +53,7 @@ Ist es wirklich so einfach?
 - [Autark Wohnen mit Solar und Wasserstoff](https://www.youtube.com/watch?v=074gHYj6mEY)
 - [HPS](https://www.homepowersolutions.de/)
 - [Hydrogen Home Storage. Could this be a game changer?](https://www.youtube.com/watch?v=0_bTjcjqN6c)
+- [Energy Storage Breakthrough - Solid Hydrogen Explained](https://www.youtube.com/watch?v=U7CCq4oBgw4)
 
 ## Transport
 

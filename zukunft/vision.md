@@ -19,6 +19,32 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 
 ## Ziele
 
+### Heute
+
+#### [Bildung](../gesellschaft/bildung.md)
+
+- Kampagne für Fundament: Gesundheit und Finanzen
+- Verschiedene Formate
+    + YouTube
+    + Artikel
+    + Podcasts
+- Open Source
+- Gemeinschafts-
+    + Werkstätten
+    + Makerspaces
+    + Repair-Cafes
+
+#### [Energie](../energy/energie.md)
+
+- Förderung von Erneuerbaren Energien
+- P2P Energiemarkt
+- Nahwärmenetze ausbauen (warm & kalt)
+
+#### [Landwirtschaft](../landwirtschaft/umsetzung.md)
+
+- Rasen zu (Wald-) Gärten mit Tieren
+- Öffentliche, gemeinschaftliche und private Gärten
+
 ### Post Poverty
 
 - Alle haben ein Depot für die finanzielle Unabhängigkeit

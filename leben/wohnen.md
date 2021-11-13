@@ -59,8 +59,9 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 ## Nachbarschaft
 
 - [Better Block](https://www.betterblock.org/)
-- [String Towns](https://www.strongtowns.org/)
+- [Strong Towns](https://www.strongtowns.org/)
 - [starcity](https://starcity.com/)
+- [Citizen Spring](https://citizenspring.earth/)
 
 ### Beispiele
 

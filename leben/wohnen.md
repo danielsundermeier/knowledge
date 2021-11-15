@@ -62,6 +62,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Strong Towns](https://www.strongtowns.org/)
 - [starcity](https://starcity.com/)
 - [Citizen Spring](https://citizenspring.earth/)
+- [Introducing Praxis](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future.
 
 ### Beispiele
 

@@ -63,6 +63,8 @@ Saft ist genauso ungesund, wie Cola. Er besteht zu einem großen Teil aus Zucker
 
 Indem ich langsam und bewusst ohne Ablenkungen esse, merke ich leichter, wenn ich satt bin.
 
+Ich esse drei Mahlzeiten pro Tag mit mindestens vier Stunden Pause zwischen den Mahlzeiten, keine Snacks.
+
 ## whole foods, plant based
 
 Damit ich möglichst viel Masse essen kann und dadurch länger satt bin, esse ich Nahrungsmittel mit geringer Kaloriendichte (viel Masse, wenig Kalorien) z.B. Gemüse.
@@ -118,11 +120,19 @@ Makronährstoffe berechnen:
 [Leptin](https://de.wikipedia.org/wiki/Leptin) ist das Sättigkeitshormon. Es teilt dem Gehirn mit, wann ich satt bin.
 Leptin wird von Insulin blockiert und verhindert so das Sättigungsgefühl.
 
+Leptin motiviert zu Aktivität.
+
 > "Die Leptin-Konzentration des Körpers ist aber nicht nur vom Körperfett, sondern auch von anderen Faktoren wie der aktuellen Energiebilanz, der letzten Mahlzeit oder auch der Tageszeit abhängig, denn die Leptin-Produktion folgt analog zu der von Ghrelin einem Zyklus" - [Leptin: Alles, was du über das Hungerhormon wissen musst!](https://www.team-andro.com/leptin-du-hungerhormon-wissen.html)
 
 ### Ghrelin
 
 [Ghrelin](https://de.wikipedia.org/wiki/Ghrelin) ist das Hungerhormon.
+
+Es steigt kurz vor der erwarteten Mahlzeit (Uhrzeit) an und sinkt danach wieder, egal ob ich gegessen habe oder nicht.
+
+![](https://content.geneticliteracyproject.org/wp-content/uploads/2016/01/f954c2d860-ghrelin-graph.png)
+
+[Why is your memory so bad when you’re hungry?](https://geneticliteracyproject.org/2016/02/17/memory-bad-youre-hungry/)
 
 - [Alles, was du über das Hungerhormon wissen musst!](https://www.team-andro.com/ghrelin-alles-was-du-ueber-das-hungerhormon-wissen-musst.html)
 

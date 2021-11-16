@@ -62,6 +62,7 @@ Zeit in der Natur verbringen
 - [The Patient Company](https://ro.co/)
 - [How stress affects your brain and how to reverse it](https://scopeblog.stanford.edu/2020/10/07/how-stress-affects-your-brain-and-how-to-reverse-it/) - "physiological sighs" -> pattern of breathing in which two inhales through the nose are followed by an extended exhale through the mouth
 - [This Is How To Have A Long Awesome Life](https://www.bakadesuyo.com/2021/08/longevity/)
+- [DiagnosticDetectives](https://diagnosticdetectives.de/) - Wir möchten die Gesundheit Ihrer Familie nachhaltig verbessern.
 
 ## Videos
 

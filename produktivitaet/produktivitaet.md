@@ -38,6 +38,7 @@ Um motiviert zu sein muss ich
 - Wissen wo ich stehe
 - ein Ziel haben
 - Wissen, wie ich dieses Ziel erreichen kann
+- Kopf frei haben; Wenige Prioritäten / Aufgaben zur selben Zeit
 
 Motivation kommt, nachdem ich angefange etwas zu tun.
 
@@ -57,6 +58,7 @@ Vorraussetzungen:
 
 - [Building intrinsic motivation](https://nesslabs.com/intrinsic-motivation-3)
 - [The Truth About Infinite Motivation](https://www.youtube.com/watch?v=uFAlRKjexSg)
+- [How to Unlock Your Motivation](https://www.youtube.com/watch?v=RfL0H9IiU9s)
 
 ## Flow
 

@@ -130,3 +130,4 @@ Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp000039
 - [Things you probably don’t need in your life](https://twitter.com/Mochievous/status/1452015750382866435)
 - [Internal vs. External Benchmarks](https://www.collaborativefund.com/blog/internal-vs-external-benchmarks/)
 - [Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)
+- [Ten Steps Towards Happiness](http://hintjens.com/blog:99)

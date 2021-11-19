@@ -66,3 +66,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [Pursue Mastery, Not Status](https://moretothat.com/pursue-mastery-not-status/)
 - [Seek Upside Risk](https://www.neelnanda.io/blog/33-upside-risk)
 - [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)
+- [Defining Success](https://www.collaborativefund.com/blog/defining-success/)

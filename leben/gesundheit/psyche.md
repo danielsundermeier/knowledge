@@ -49,3 +49,4 @@ Gefühlskompass
 - [What’s the best question your therapist has asked you?](https://www.reddit.com/r/AskWomen/comments/oqrm57/whats_the_best_question_your_therapist_has_asked/)
 - [13 Steps to Cognitive “Perfection”](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f)
 - [harsh Psychology truths](https://twitter.com/thebrometheus/status/1357419737278386179)
+- [Grounding](http://hintjens.com/blog:81#toc12)

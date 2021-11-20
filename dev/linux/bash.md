@@ -11,6 +11,7 @@
 - [How to Use Bash Alias](https://www.shell-tips.com/bash/alias/)
 - [The Complete How To Guide of Bash Functions](https://www.shell-tips.com/bash/functions/)
 - [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner.
+- [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 
 ## Snippets
 

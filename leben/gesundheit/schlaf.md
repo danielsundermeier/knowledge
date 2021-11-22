@@ -1,5 +1,9 @@
 # Schlaf
 
+## Ziel
+
+Täglich erholt ohne Wecker aufwachen
+
 ## Regeln
 
 - 7-9 Stunden jede Nacht

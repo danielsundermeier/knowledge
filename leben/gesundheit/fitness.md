@@ -1,5 +1,18 @@
 # Fitness
 
+## Ziel
+
+Ausdauer und Kraft steigern
+
+## Zusammenfassung
+
+- [Muskelaufbau](./muskelaufbau.md)
+- Ausdauer
+    + Steady State Cardio (z.B. Spaziergang)
+    + High Intenity Interval Training (z.B. Tabata)
+
+## Notizen
+
 Ich halte es für sinnvoll Dinge zu trainieren, die unsere Vorfahren täglich gemacht haben:
 - Schwere Dinge bewegen (Krafttraining)
 - Vor Gefahren wegrennen (HIIT)

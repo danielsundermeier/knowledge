@@ -1,5 +1,19 @@
 # Beziehungen
 
+## Ziel
+
+Netzwerk aus Menschen, die das Leben bereichern, aufbauen
+
+## Zusammenfassung
+
+- Attraktives [Leben](./leben.md) aufbauen
+- Positiv auf andere zugehen (going first, going positive)
+- Veranstaltungen planen/organisieren
+- Vereine/Klubs/Kurse
+
+## Notizen
+
+- Attraktives Leben aufbauen -> Menschen wollen daran teilhaben
 - Wenn ich etwas möchte, muss ich danach fragen.
 - Wenn mir etwas nicht gefällt, muss ich es ansprechen.
 - Wenn mir etwas gefällt auch.

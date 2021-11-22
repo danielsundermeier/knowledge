@@ -1,5 +1,9 @@
 # Ernährung
 
+## Ziel
+
+Gesunde, nachhaltige Energiegewinnung
+
 ## Zusammenfassung
 
 1. Gewicht, Kalorien rein/raus tracken

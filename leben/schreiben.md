@@ -1,5 +1,9 @@
 # Schreiben
 
+## Ziel
+
+Wissen speichern und Kopf für Ideen frei machen
+
 ## Zusammenfassung
 
 1. Stichpunkte sammlen

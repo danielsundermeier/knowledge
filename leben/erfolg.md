@@ -67,3 +67,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [Seek Upside Risk](https://www.neelnanda.io/blog/33-upside-risk)
 - [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)
 - [Defining Success](https://www.collaborativefund.com/blog/defining-success/)
+- [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)

@@ -1,5 +1,9 @@
 # Finanzen
 
+## Ziel
+
+Finanzielle Unabhängigkeit
+
 ## Zusammenfassung
 
 1. Ausgaben senken

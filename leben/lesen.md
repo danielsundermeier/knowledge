@@ -1,5 +1,9 @@
 # Lesen
 
+## Ziel
+
+Wissensschatz aufbauen
+
 ## Vor dem Lesen
 
 Zusammenfasung auf www.blinkist.de anhören

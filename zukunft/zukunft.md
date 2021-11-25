@@ -22,6 +22,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Rethinking Humanity](https://www.rethinkx.com/humanity-executive-summary)
 - [Social Anarchist Futures](https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures)
 - [Telosa](https://cityoftelosa.com/)
+- [Rethinking Humanity](https://www.youtube.com/watch?v=r71yNnfY6ss)
 
 ## Podcasts
 

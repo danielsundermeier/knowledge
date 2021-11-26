@@ -131,3 +131,5 @@ Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp000039
 - [Internal vs. External Benchmarks](https://www.collaborativefund.com/blog/internal-vs-external-benchmarks/)
 - [Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)
 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
+- [Why your life is so boring](https://www.youtube.com/watch?v=hGdNyAuMJQI)
+

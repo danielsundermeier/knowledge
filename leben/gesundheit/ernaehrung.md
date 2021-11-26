@@ -103,6 +103,7 @@ Makronährstoffe berechnen:
 
 - [Expected satiety](https://en.wikipedia.org/wiki/Expected_satiety)
 - [Eating for Fullness vs. Satisfaction](https://alissarumsey.com/intuitive-eating/fullness-vs-satisfaction/)
+- [Fat Chance: Fructose 2.0](https://www.youtube.com/watch?v=ceFyF9px20Y)
 
 ## Sattmacher
 

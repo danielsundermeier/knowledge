@@ -25,3 +25,4 @@ nano /usr/local/etc/php/7.4/php.ini
 ## Links
 
 - [Object Oriented Done Right](https://front-line-php.com/object-oriented)
+- [Upgrade to PHP 8.1 with Homebrew on Mac](https://stitcher.io/blog/php-81-upgrade-mac)

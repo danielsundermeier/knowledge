@@ -37,6 +37,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Veranstaltungen planen und andere einladen
 - Allen Einladungen zusagen
 - Man kann von jedem etwas lernen; im schlimmsten Fall, wie man etwas nicht macht
+- "Ich mache X, willst Du mit?"
 
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 

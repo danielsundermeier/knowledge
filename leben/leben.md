@@ -3,19 +3,19 @@
 Mir ist bewusst, dass mein Lebensstil nicht für jeden etwas ist.  
 Ich möchte dich dazu bringen über dein eigenes Leben nachzudenken und herauszufinden, wie Du leben möchtest.
 
+## Ziel
+
+Meine beste Version werden.
+
 ## Zusammenfassung
 
 1. Fundament legen
 2. Alles aufschreiben -> Herausfinden, was ich möchte
 3. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
 
-## Ziel
-
-Meine beste Version werden.
-
 ## Jeden Tag
 
-- Bewegen
+- Bewegen / Training
 - Zeit draußen / in der Natur verbringen
 - Etwas, das mir Freude bereitet
 - Etwas, das mich meinen Zielen näher bringt
@@ -72,7 +72,17 @@ Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um L�
 Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussieren. Er schreibt jeden Morgen vier Stunden lang SEO optimierte Artikel und verdient damit sehr viel Geld. Das ist die eine Sache die für ihn funktioniert.
 - [https://fourpillarfreedom.com/my-2020-annual-review/](https://fourpillarfreedom.com/my-2020-annual-review/)
 
-Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gemacht.
+- Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gemacht.
+- Decide, don't slide: Bewusste Entscheidungen treffen und getroffene Entscheidungen regemäßig hinterfragen
+- Win oder Learn: Aus Fehlern lernen und besser werden
+- Auf wenige Dinge (ca. 5) fokusieren und sie lange (ca. 10 Jahre) verbessern -> [Erfolg](./erfolg.md)
+    + Training
+    + Ernährung
+    + Karriere
+    + Hobby
+    + Investments
+- 100% Verantwortung übernehmen, nicht in Opferrolle fallen
+- Will Smith zu sich selbst: "I love you too much, to ..." (bad habit)
 
 ## Hierarchie
 
@@ -233,3 +243,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What is the main lesson one could learn from life?](https://qr.ae/pGar4b)
 - [What advice would you give yourself 20 years ago?](https://qr.ae/pGc32C)
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
+- [This Is The Most Surprising Way To Make Your Life Awesome](https://www.bakadesuyo.com/2021/11/personality/)

@@ -6,7 +6,7 @@ Wissensschatz aufbauen
 
 ## Vor dem Lesen
 
-Zusammenfasung auf www.blinkist.de anhören
+Zusammenfassung auf www.blinkist.de anhören
 
 ### OneNote
 

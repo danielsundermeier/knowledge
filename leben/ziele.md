@@ -19,11 +19,11 @@ Was macht diese Person? Trainieren
 
 ### In die Zukunft schauen
 
-Menschen, (die älter sind als ich) können als Blick in die Zukunft dienen. Welcher Lebensstil führt zu einem Ergebnis. 
+Menschen (die älter sind als ich), können als Blick in die Zukunft dienen. Welcher Lebensstil führt zu einem Ergebnis. 
 
 Wenn ich jemanden finde, der ein Leben lebt, dass mir gefällt, kann ich tun, was die Person getan hat. Es muss nicht das komplette Leben sein. Es kann auch ein Bereich sein.
 
-Ich kann Dinge vermeiden, die Menschen getan haben, dessen Leben ich nicht ansprechend finde möchte.
+Ich kann Dinge vermeiden, die Menschen getan haben, dessen Leben ich nicht ansprechend finde.
 
 So kann ich mir das Beste aus den Leben meiner Mitmenschen heraussuchen und in mein Leben integrieren.
 

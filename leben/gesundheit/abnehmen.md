@@ -1,5 +1,18 @@
 # Abnehmen
 
+## Ziel
+
+Fett abbauen
+
+## Zusammenfassung
+
+1. Mehr Gesunde, unverarbeitete Lebensmittel in Ernährung integrieren
+2. Ungesunde Lebensmittel und Zucker reduzieren
+3. Kaloriendefizit: weniger Essen, mehr Bewegen
+4. An den Plan halten, bis Ziel erreicht
+
+## Notizen
+
 Der Körper passt sich dem Defizit an und verbraucht weniger Energie. Deshalb muss ich das Defizit anpassen, wenn ich eine Woche nicht weiter abnehme.
 
 Nachdem ich genug abgenommen habe, erhöhe ich die Kalorien langsam um 50 - 100 kcal / Tag pro Woche, damit sich mein Körper langsam daran gewöhnen kann.
@@ -73,3 +86,4 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - [How To Get Shredded Explained In 5 Minutes](https://www.youtube.com/watch?v=m9RVTdZhysY)
 - [How Long Should You Diet To Get A Six-Pack?](https://www.youtube.com/watch?v=tcOzVXOgxpc)
 - [Wie viel kcal sind 1 kg Körperfett?](https://www.marathonfitness.de/wie-viel-kcal-sind-1-kg-koerperfett/)
+- [3 Huge Nutrition Mistakes](https://www.youtube.com/watch?v=u2gy92DDvxI)

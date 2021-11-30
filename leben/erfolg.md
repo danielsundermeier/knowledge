@@ -68,3 +68,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [Dangerous Feelings](https://www.collaborativefund.com/blog/dangerous-feelings/)
 - [Defining Success](https://www.collaborativefund.com/blog/defining-success/)
 - [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)
+- [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)

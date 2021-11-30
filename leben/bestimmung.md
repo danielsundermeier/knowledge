@@ -1,5 +1,16 @@
 # Bestimmung
 
+## Ziel
+
+Herausfinden, was ich mit meinem Leben machen möchte
+
+## Zusammenfassung
+
+1. Viel Ausprobieren und Experimentieren 
+2. Talent Stack aufbauen
+
+## Notizen
+
 - Ich erarbeitet mir meine "Bestimmung" anstatt sie zu finden
 - Dinge, die ich oft mache, werden zur Bestimmung
 - Ich werde gut in Dingen, die ich oft mache

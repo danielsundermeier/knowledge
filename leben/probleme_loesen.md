@@ -8,7 +8,7 @@ Ich möchte versuchen mich nicht auf einen Lösungsansatz (Taktik) festzulegen, 
 Was möchte ich wirklich erreichen?  
 Anschließend kann ich mir eine oder mehrere Lösungen überlegen.
 
-Was würde ich einen Freund in der gleichen Situation raten?
+Was würde ich einem Freund in der gleichen Situation raten?
 
 Ich versuche jeden Tag eine Kleinigkeit zu verbessern
 
@@ -32,7 +32,8 @@ Wie kann ich das Positive / Funktionierende des aktuellen Ablaufs beibehalten un
 
 >  "Every Problem Contains the Seed of its Own Solution" - NORMAN VINCENT PEALE
 
-Probleme sind Gelegenheiten zur Verbesserung
+- Probleme sind Gelegenheiten zur Verbesserung
+- Lösungen suchen anstatt Beschweren
 
 ## Beispiele
 

@@ -8,6 +8,9 @@
 
 - Wenn ich unmotiviert bin, setze ich mich in meinen Sessel und tue nichts (kein Handy, keine Musik, kein TV, ...). Die ersten Minuten sind wirklich schwer. Irgendwann fallen mir Dinge ein / auf, die ich erledigen könnte, damit ich mich nicht mehr so schrecklich langweile. Selbst unangenehme Aufgaben wirken, dann attraktiver und ich habe den Drang sie zu erledigen.
 
+- Fokussierte Blöcke für Produktivität (90 min), anschließend Erholen
+    + 3x 90 Minuten pro Tag
+
 # Ziele
 
 - Ziel festlegen (z.B. Wohnung entrümpeln)
@@ -114,6 +117,8 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 > If you’re trying to optimize around working less, find better work.
 - https://www.nateliason.com/blog/productive
 
+> "Do the hard work, especially when you don't feel like it."
+
 ## Links
 
 ### Artikel
@@ -165,3 +170,4 @@ for anyone who is interested in time management and productivity
 - [10 Secrets From Benjamin Franklin’s Daily Schedule that Will Double Your Productivity](https://www.youtube.com/watch?v=gL5qJece-Sw)
 - [How to become productive as a software engineer](https://www.youtube.com/watch?v=w8D5M1Dj4O8)
 - [Men Only Need Discipline & Patience](https://www.youtube.com/watch?v=X8JBaR4-H90)
+- [How He Earned $15,000,000 In 12 Months](https://www.youtube.com/watch?v=w47sY1sCWco)

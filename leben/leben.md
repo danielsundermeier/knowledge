@@ -83,6 +83,8 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
     + Investments
 - 100% Verantwortung übernehmen, nicht in Opferrolle fallen
 - Will Smith zu sich selbst: "I love you too much, to ..." (bad habit)
+- Self-Love: doing things for your future self
+- 
 
 ## Hierarchie
 

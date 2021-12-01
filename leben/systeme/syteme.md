@@ -8,7 +8,7 @@ Aktion, die ich jeden Tag ausführe, um ein Ziel zu erreichen (Gewohnheit)
 - Ziel
 - Fester Termin / Uhrzeit
 - Ablauf: Was? Wo? Wie?
-- Was tue ich bei Problemen
+- Was tue ich bei Problemen ([Implementation Intentions](https://de.wikipedia.org/wiki/Implementation_Intentions))
     + Wenn A, dann B
 
 ## Ziel

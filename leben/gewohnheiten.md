@@ -1,5 +1,7 @@
 # Gewohnheiten
 
+Es ist leicher sich an 100% zu halten als an 98%.
+
 ## Erwünschte
 
 - So einfach wie möglich

@@ -15,6 +15,18 @@ Ich glaube etwas Leiden gehört zu einem guten Leben dazu. Dadurch habe ich den 
 
 Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 
+- Glücklich sein: Nichts wollen, nichts bewerten, den Moment genießen
+
+## Perma
+
+- Positive Emotion
+- Engagement
+- Relationships
+- Meaning
+- Accomplishment
+
+[PERMA Theory of Well-Being](https://ppc.sas.upenn.edu/learn-more/perma-theory-well-being-and-perma-workshops)
+
 ## Ziele
 
 Ich glaube die meisten Ziele die von der Gesellschaft als erstrebenswert angesehen werden führen nicht zu einem zufriedenen Leben.

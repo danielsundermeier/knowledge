@@ -21,6 +21,7 @@ Herausfinden, was ich mit meinem Leben machen möchte
 > Was habe ich als Kind gemacht?
 > Was fällt mir leichter als anderen?
 > Wofür werde ich von anderen gelobt?
+> Worauf bin ich eifersüchtig?
 
 Es gibt zwei Wege außergewöhnlich zu werden:
 

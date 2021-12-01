@@ -4,7 +4,9 @@ Ich habe eine feste Struktur für meinen Tagesablauf, damit ich nicht jeden Tag 
 
 Das Ziel ist den Tag und das Leben so zu gestalten, wie ich möchte. Viele finden es merkwürdig, dass ich meinen Tag so strikt strukturiere. Der Trick ist eine Struktur aufzubauen, die mir gefällt!
 
-Wenn ich mich nicht an meine Struktur halte merke ich recht schnell, dass ich unzufriedener werde. Ich habe weniger Lust aufzustehen, habe weniger Energie und bin unprodiktiver.
+Wenn ich mich nicht an meine Struktur halte merke ich recht schnell, dass ich unzufriedener werde. Ich habe weniger Lust aufzustehen, habe weniger Energie und bin unproduktiver.
+
+Je schlechter der Tag ist, desto wichtiger ist es mich an meine Struktur zu halten. Sie gibt mir Stabilität und Sicherheit.
 
 ## Ist
 
@@ -44,7 +46,7 @@ Pflichten und unbeliebte Aktivitäten so effizient wie möglich gestalten. Wenn 
 ## Prioritäten
 
 - Dinge tun, dich ich wirklich tun möchte
-- Weniger Dinge tun
+- Weniger Dinge tun (1 Big Thing)
 - Zuerst tun, was mir wichtig ist
 
 ## Links

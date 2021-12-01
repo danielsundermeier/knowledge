@@ -56,6 +56,13 @@ Jeden Tag etwas für meine Ziele zun tun ist der wichtigste Baustein. Es reicht 
 
 So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen, die kaum Auswirkung auf das Ziel haben
 
+## Woop
+
+- Whish
+- Outcome
+- Obstacle
+- Plan -> [Systeme](./systeme.md), [Gewohnheiten](./gewohnheiten.md)
+
 ## Links
 
 - [Why You Need to Make a Life Plan](https://www.lifehack.org/articles/lifestyle/why-you-need-to-make-a-life-plan.html)

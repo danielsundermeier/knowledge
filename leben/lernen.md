@@ -45,6 +45,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 ## Deliberate Practice
 
 - Fokossiertes Training mit einem bestimmten Ziel, anstatt einfacher Wiederholungen
+- 4% schwerer als aktuelle Fähigkeiten -> Flow
 
 ### Links
 

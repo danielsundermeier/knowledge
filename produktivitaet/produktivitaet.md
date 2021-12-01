@@ -90,6 +90,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - Nicht tun/Langweilen -> Irgendwann fange ich an
 - Wenn ich keine Lösung habe, spazieren gehen/duschen/... -> Ablenken (den Kopf entspannen), um eine Lösung zu finden: focus mode -> diffuse mode
 - Künstliche Deadlines erzeugen; Arbeit dauert immer so lange, wie man Zeit hat 
+- Unangenehmes mit Angenehmen verbinden
 
 - [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU)
 

@@ -15,11 +15,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 
 - Attraktives Leben aufbauen -> Menschen wollen daran teilhaben
 - Wenn ich etwas möchte, muss ich danach fragen.
-- Wenn mir etwas nicht gefällt, muss ich es ansprechen.
-- Wenn mir etwas gefällt auch.
-    + bemerken
-    + loben
-    + Geschenke
+
 - Andere Menschen können nicht meine Gedanken lesen. Ich muss Ihnen mitteilen was mir gefällt und was nicht.
 - Frauen lieben Blumen! - [Flowers make a nice gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
 - Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
@@ -77,6 +73,19 @@ Menschen mögen Menschen mit Ecken und Kanten.
 Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden und mit anderen darüber zu diskutieren.
 
 > "Make it clear what you want — ask for that raise, ask her out, go for what you want with somebody. Stop hiding your intentions. You would get rejected more often but you would also start getting what you want." - [How can I stop being ordinary and start being extra-ordinary?](https://qr.ae/pNLDwq)
+
+## Beeinflussen
+
+- Ziel vorgeben, aber Entscheidung für Vorgehensweise überlassen
+    + Ziel Muskelaufbau
+    + Vorgehensweise Entscheidung des Anderen
+- Kleine Ziele, Erfolge feiern
+    + statt Six-Pack, Anzahl an Trainingseinheiten pro Woche als Ziel setzen
+- Wenn mir etwas nicht gefällt, muss ich es ansprechen.
+- Wenn mir etwas gefällt auch.
+    + bemerken
+    + loben
+    + Geschenke
 
 ## Liebe
 

@@ -167,6 +167,7 @@ all feel good about
 ## Förderung
 
 - [KfW-Effizienzhaus-Standard](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/Energieeffizient-sanieren/Das-KfW-Effizienzhaus/)
+- [THG Quote](https://www.elektroauto-news.net/thg-quote-barpraemie)
 
 ## Links
 

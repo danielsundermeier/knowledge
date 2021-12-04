@@ -34,6 +34,8 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Allen Einladungen zusagen
 - Man kann von jedem etwas lernen; im schlimmsten Fall, wie man etwas nicht macht
 - "Ich mache X, willst Du mit?"
+- Interesse am Leben / Ideen von anderen zeigen und darüber sprechen
+- Auf die andere Person fokussieren
 
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 
@@ -48,6 +50,15 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 > "What have you experienced that I haven’t that would make you believe what you do? And would I think about the world like you do if I experienced what you have?" - [Other People’s Mistakes](https://www.collaborativefund.com/blog/mistakes/)
 
 ## Kennenlernen
+
+- Raus gehen und Dinge tun
+    + Spazieren gehen
+    + Im Park trainieren
+    + Cafe trinken gehen
+- Andere ansprechen
+    + Erst nur "Hallo" sagen, um Selbsvertrauen aufzubauen
+    + Langsam steigern, bis zum Führen von Gesprächen
+    + Andere Einladen mitzumachen
 
 Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.
 
@@ -173,3 +184,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [The network approach and the shotgun approach](https://theredquest.wordpress.com/2021/10/04/the-network-approach-and-the-shotgun-approach-why-and-when-girls-flake-in-dating/)
 - [New Neuroscience Reveals 7 Secrets That Will Make You Emotionally Intelligent](https://www.bakadesuyo.com/2021/10/conflict/)
 - [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
+- [Complete guide to becoming the tribe leader (How to become popular)](https://www.youtube.com/watch?v=lSKxhR-YDMI)
+

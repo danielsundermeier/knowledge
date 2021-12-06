@@ -1,5 +1,33 @@
 # Produktivität
 
+Ich möchte eine gute Balance zwischen Arbeit und Entspannung finden.
+
+Ich glaube der richtige Weg ist Blöcke zu haben, in denen ich sehr fokussiert und produktiv bin, dazwischen gibt es Zeit für die Entspannung.
+
+Das ist der gleiche Ablauf, wie Meschen [lernen](../leben/lernen.md): Intensiv mit einem Thema beschäftigen anschließend entspannen, um Verknüpfungen mit Erfahrungen und bestehendem Wissen zu erstellen.
+
+Ich nehme mir Zeit die Aufgaben vorzubereiten und zu planen. Während ich mich erhole, habe ich neue Ideen und finde bessere Lösungen, die ich dann während eines Arbeitsblocks umsetzen kann. Die Lösungen fallen mir aber erst ein, wenn ich mich intensiv mit einem Thema befasst habe.
+
+Wenn ich genau weiß, was und wie ich etwas tun möchte, geht die Arbeit viel schneller von der Hand. Es gibt keine Ablenkungen sondern nur die aktuelle Aufgabe. Im besten Fall habe ich die Aufgabe so aufbereitet, dass ich die genauen Schritte kenne und sie nur ausführen muss. So kann ich sehr viel in wenig Zeit schaffen.
+
+Ich habe oft von einer Studie gehört in der die besten Musiker relativ wenig, dafür aber sehr fokussiert und intensiv üben (deliberate practice) und sich den Rest der Zeit erholen, damit sie genug Energie für die Arbeit haben. Sie haben maximal drei intensive Arbeitsblöcke pro Tag zu je 90 Minuten. (Anders Ericsson: Deliberate Practice)
+
+Sie konzentrieren sich dabei auf die wichtigen Dinge und schaffen deshalb sehr viel, anstatt nur irgendetwas zu tun, wie E-Mails beantworten.
+
+Wenn ich den ganzen Tag "hustle" (= nur arbeiten und schlafen), habe ich keine Möglichkeit über bessere Lösungen nachzudenken. Außerdem und viel wichtiger, es fehlt die Erholung und ich bin irgendwann zu erschöpft, um wirklich produktiv zu sein. Diese Art zu arbeiten ist nicht nachhaltig.
+
+Ich falle dann in ein Loch und bin sehr unproduktiv. Dann fühle ich mich schlecht und will die verlorene Zeit mit noch mehr Arbeit aufholen.
+
+Das ist mir oft bei der Ernährung passiert. Ich halte mich sehr genau an meinen Ernährungsplan, irgendwann kommt der Zeitpunkt an dem ich Heißhunger bekomme und ich viel zu viel esse. Ich möchte das dann wieder gut machen, indem ich einen noch strengeren Plan aufstelle. Es ist ein Teufelskreis.
+
+Der richtige Weg ist eine Balance. Konstante (nachhaltige) Schritte in die richtige Richtung über einen langen Zeitraum führen zu viel besseren Ergebnissen, als etwas zwanghaft und schnell erreichen zu wollen. (Stichwort Boom und Bust Zyklen)
+
+> "Long lasting success that resulted from consistently showing up, adjusting to changing circumstances, and sustaining above average performance for long periods of time." - [Defining Success](https://www.collaborativefund.com/blog/defining-success/)
+
+Das ist auch mein Ziel: Genau wissen, was ich im nächsten Arbeitsblock machen möchte, es konzentriert umsetzen und mich dann erholen.
+
+## Notizen
+
 - Jeden Tag etwas verbessern
 - In kleinen Schritten ein großes Ziel erreichen: Kaizen
 - Flaschenhälse finden und entfernen

@@ -1,6 +1,8 @@
 # Gewohnheiten
 
-Es ist leicher sich an 100% zu halten als an 98%.
+- Es ist leicher sich an 100% zu halten als an 98%.
+- Ganz einfach anfangen (1 Seite lesen, 1 Sekunde Meditieren, 1 Liegestütz), um die Gewohnheit aufzubauen 
+-> Ich habe mein ganzes Leben, um mich zu steigern
 
 ## Erwünschte
 

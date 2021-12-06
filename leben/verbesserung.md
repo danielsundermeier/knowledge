@@ -31,6 +31,14 @@ Irgendwann passiert das gewünschte Verhalten "automatisch". Dann kann ich mich 
 
 Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
 
+## Vorgehen
+
+Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.
+
+- Mehr gesunde unverarbeitete Lebensmittel verdrängen die ungesunden
+- Mehr angenehme interessante Personen verdrängen Menschen mit schlechtem Einfluss
+- Überfluss generieren und nur das Beste behalten
+
 ## Mindframing
 
 1. Beschließen, was ich verbessern/lernen möchte
@@ -40,7 +48,7 @@ Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich ger
 
 Mir gefällt der dritte Schritt in diesem System sehr gut. Durch das Veröffentlichen des Gelernten, muss ich nochmal intensiv darüber nachdenken und vertiefe so mein Wissen. Ich habe eine Art Erfolgstagebuch und ein Nachschlagewerk für mich selbst. Außerdem kann ich Feedback bekommen und Menschen auf einem ähnlichen Weg kennenlernen.
 
-### Links 
+### Links
 
 - [Mindframing: a personal growth framework](https://nesslabs.com/mindframing)
 

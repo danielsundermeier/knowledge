@@ -123,6 +123,19 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - Ernährung
 - Neues Lernen / Ausprobieren
 
+## Instant Gratification
+
+Z.B. :Drogen, Parties, Konsum
+
+Ich glaube dass dieser Weg nur kurzfristig funktioniert und zu einem insgesamt schlechteren Leben führt, auch wenn der aktuelle Moment vielleicht sehr gut ist.
+
+## Delayed Gratification
+
+Ich glaube ein produktives Leben mit dem Anspruch die beste Version seiner Selbst zu werden führt zu einem Zufriedenen Leben ohne etwas zu bereuen.
+Der Weg dahin führt über das Aufschieben von Belohnungen.
+
+- Training, Lesen, Lernen, Investieren, Gärtnern
+
 ## Links
 
 - [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)

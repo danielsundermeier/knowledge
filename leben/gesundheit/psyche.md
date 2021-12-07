@@ -3,10 +3,34 @@
 ## Meditation
 
 - Mit geschlossenen Augen auf die Atmung konzentrieren
+- Geführte Meditation
+    + spotify
+    
+### Effekte
+
+- Stressreduktion
+- Verbesserung der kognitiven Fähigkeiten
+- Verbesserter Schlaf
+- Steigert das Glücksempfinden
+- Fördert die emotionale Gesundheit
+- Verbessert die Selbstwahrnehmung
+- Verlängert die Aufmerksamkeitsspanne
+- Besseres Gedächtnis
+- Kann den Blutdruck senken
+
+#### Links
+
+- [Meditation: 12 wissenschaftlich bewiesene Vorteile](https://www.brainperform.de/meditation-vorteile/)
+    
+## Aufmerksamkeit
+
+- Dinge bewusst machen
+- Keine Ablenkungen
+- Im Moment sein und wahrnehmen
 
 ## Sonnenschein
 
-- Jeden Tag mindestens 30 Minuten draußen verbringen
+- Jeden Tag mindestens 30 Minuten draußen verbringen -> Vitamin D
 
 ## Spaß
 

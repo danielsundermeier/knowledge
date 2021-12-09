@@ -12,6 +12,7 @@ Meine beste Version werden.
 1. Fundament legen
 2. Alles aufschreiben -> Herausfinden, was ich möchte
 3. Jeden Tag etwas tun, dass mich meinen Zielen näher bringt
+4. [Struktur](./struktur.md) für den Tag erstellen (Stundenplan)
 
 ## Jeden Tag
 
@@ -42,6 +43,7 @@ Meine Gesundheit und Finanzen kann ich so gestalten, wie ich es mir vorstelle. D
 - Tagebuch führen
 - Systeme aufbauen / Entscheidungen automatisieren
 - Lesen
+- In allen Lebensbereichen besser als der Durchschnitt werden (7/10 Punkten) -> Durch Kombination aller Lebensbereiche in Spitzenposition
 
 - Zum glücklich sein ist entscheidend was ich jeden Tag tue, nicht das was ich hin und wieder mache
 - Nicht für das Wochenende oder den Urlaub leben
@@ -84,7 +86,28 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 - 100% Verantwortung übernehmen, nicht in Opferrolle fallen
 - Will Smith zu sich selbst: "I love you too much, to ..." (bad habit)
 - Self-Love: doing things for your future self
-- 
+
+## Lebensbereiche
+
+- Achtsamkeit 
+- Emotionen / Perpektive
+- Erfahrungen
+- Familie & Freunde
+- Finanzen
+- Gesundheit
+- Karriere
+- Liebe
+
+[Life Goal Framework](https://thegamifiedlife.net/wp-content/uploads/2019/10/The-Gamified-Life-Life-Goal-Framework.pdf)
+
+## Lebensstil
+
+- Erst etwas kaufen oder mieten, wenn ich es mir zehn mal leisten kann
+- Höhere Einnahmen nicht direkt in höheren Lebensstil stecken
+- Leben ist lang
+    + Lieber "pleite" mit 20 als mit 30 oder später
+    + Lebensstil nachhaltig und langsam steigern
+    + Am Anfang "leiden" und "verzichten", um später den Fuß etwas vom Gas nehmen zu können
 
 ## Hierarchie
 
@@ -246,3 +269,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What advice would you give yourself 20 years ago?](https://qr.ae/pGc32C)
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
 - [This Is The Most Surprising Way To Make Your Life Awesome](https://www.bakadesuyo.com/2021/11/personality/)
+- [Some of Life’s Great Paradoxes](https://moretothat.com/some-of-lifes-great-paradoxes/)

@@ -76,6 +76,20 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
     + Organisation / Planen / GTD?
 - Lebensplanung
 
+## Lernmaterialien
+
+- Staat produziert Open Source Fachbücher 
+    + sehr detailiert
+    + aktuell
+    + Anfoderung zum Bestehen von Modul
+    + 1 Buch pro Modul?
+- Aus den Fachbüchern werden weitere offizielle Medien zum Lernen erstellt
+    + Videos
+    + Texte
+    + Podcasts
+    + Beispielaufgaben / -projekte
+- Jeder kann eigene Inhalte aus Fachbüchern erstellen
+
 ## Bücher
 
 - [Flip Your Classroom](https://www.goodreads.com/book/show/27213514-flip-your-classroom)

@@ -42,6 +42,7 @@ Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, 
 - [Why is being stagnant in life so frowned upon by todays society?](https://www.reddit.com/r/NoStupidQuestions/comments/owbk2t/why_is_being_stagnant_in_life_so_frowned_upon_by/)
 - [The monetization trap](https://sebastiandedeyne.com/the-monetization-trap)
 - [The Hidden Brilliance of Stealth Wealth](https://www.youtube.com/watch?v=_INmFnlp-hU)
+- [The Many Worlds of Enough](https://moretothat.com/the-many-worlds-of-enough/)
 
 ### Wohltätigkeit
 

@@ -1,19 +1,26 @@
 # Start
 
+Ich denke viel darüber nach, was ich vom Leben möchte und wie ich das erreichen kann. Ich möchte dich dazu inspirieren selbst über dein Leben nachzudenken und es in die Hand zu nehmen.
+
+> "Decide don't slide"
+
+In diesem Teil der Wissenssammlung schriebe ich auf, was ich gelernt habe, wie ich es anwende und was für mich funktioniert hat.
+
 Wieso habe ich mich für meinen Lebensstil entschieden?
 
-## Erkenntniss
+## Erkenntnis
 
 **Dramatisierung**
 
 Mit Anfang bis Mitte 20 habe ich gearbeitet / studiert, habe Serien geguckt und bin feiern gegangen und sehr viel Zeit "totgeschlagen".
 
 Das typische 9-5 Leben:
+
 - Aufstehen
 - Arbeiten
 - TV / Social Media
 - Schlafen
-- Am Wochenende feiern gehen.
+- Am Wochenende feiern gehen
 
 Irgendwann hab ich mir die Frage gestellt, ob das alles ist. Ich konnte und kann mir nicht vorstellen das bis zur Rente zu machen und erst dann mein Leben zu genießen, wenn ich alt und schwach bin.
 
@@ -24,6 +31,7 @@ Ich habe mir dann die Leben von den Menschen in meiner Umgebung angeguckt, die e
 **Dramatisierung**
 
 Dabei habe ich festgestellt, dass viele:
+
 - Unzufrieden (konstantes Beschweren)
 - Kein Geld haben
 - "Busy" / Beschäftigt / keine Zeit
@@ -44,7 +52,7 @@ Selbst, wenn ich nicht weiß, was ich sonst mit meinem Leben anfangen will, Gesu
 
 Das ist mein [Fundament](./leben.md) auf dem ich aufbaue.
 
-Ich habe mich dann viel mit [Schlaf](./gesundheit/schlaf.md), [Ernährung](./gesundheit/ernaehrung.md) und [Fitness](./gesundheit/fitness.md) beschäftigt und viel ausporbiert.
+Ich habe mich dann mit [Schlaf](./gesundheit/schlaf.md), [Ernährung](./gesundheit/ernaehrung.md) und [Fitness](./gesundheit/fitness.md) beschäftigt und viel ausprobiert.
 
 Zusätzlich habe ich mich über [Geld](./finanzen/finanzen.md) und [Investments](./finanzen/investments.md) informiert und bin recht schnell auf die [finanzielle Unabhängigkeit](./finanzen/finanzielle-unabhaengigkeit.md) gestoßen und war sofort begeistert.
 
@@ -82,6 +90,8 @@ Ich habe angefangen mehr von dem zu tun, das mir gefällt und weniger (effizient
 Ich habe dann zufällig diesen Satz gelesen und zu meinem Lebensmotto gemacht:
 
 ![](./motto.png)
+
+So [verbessere](./verbesserung.md) ich die verschiedenen Dinge in meinem Leben
 
 
 

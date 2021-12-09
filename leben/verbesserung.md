@@ -4,7 +4,7 @@ Ich versuche mein Leben immer weiter zu verbessern. Dafür beschäftige ich mich
 
 Ich überlege mir, was ich in einem Bereich verbessern möchte, oder was mir nicht gefällt. Dann suche ich gezielt nach Lösungen. 
 - Lesen, Videos, Podcasts
-- Vorbilder suchen (Wer hat erreicht, was ich möchte)
+- Vorbilder suchen (Wer hat erreicht, was ich möchte?)
 - Gründe für Unzufriedenheit herausfinden
 
 Wenn ich einen Überblick habe, was ich machen kann, fange ich an verschiedene Lösungen umzusetzen und auszuprobieren. Am Anfang habe ich oft die Lösungen von Anderen kopiert um ein Gefühl dafür zu bekommen und anschließend an meine Situation angepasst.
@@ -33,10 +33,10 @@ Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich ger
 
 ## Vorgehen
 
-Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.
+Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas Gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.
 
-- Mehr gesunde unverarbeitete Lebensmittel verdrängen die ungesunden
-- Mehr angenehme interessante Personen verdrängen Menschen mit schlechtem Einfluss
+- Mehr gesunde, unverarbeitete Lebensmittel verdrängen die ungesunden
+- Mehr angenehme, interessante Personen verdrängen Menschen mit schlechtem Einfluss
 - Überfluss generieren und nur das Beste behalten
 
 ## Mindframing
@@ -67,3 +67,4 @@ Ich kann diese Veränderungen sogar vererben.
 - [The awkwardness principle: why change rarely feels right](https://www.oliverburkeman.com/awkwardness)
 - [Better.](http://www.merlinmann.com/better/)
 - [Mediocrity by "areas of improvement"](https://headrush.typepad.com/creating_passionate_users/2006/02/mediocrity_by_a.html)
+- [Life's an RPG And You Messed Up Your Build](https://www.youtube.com/watch?v=JgkYRyqloVA)

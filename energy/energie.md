@@ -156,6 +156,7 @@ wind turbines.
 - [Mixergy Water Storage. Smart technology for grid stability](https://www.youtube.com/watch?v=N8aGV3Z8dOA)
 - [Wärmenetze für die kommunale Wärmewende](https://www.youtube.com/watch?v=DNfWynbxwiA)
 - [Kalte Nahwärme](https://de.wikipedia.org/wiki/Kalte_Nahw%C3%A4rme) - Kalte Nahwärme beziehungsweise Kalte Fernwärme ist eine technische Variante eines Wärmeversorgungsnetzes, das mit niedrigen Übertragungstemperaturen in der Nähe der Umgebungstemperatur arbeitet und daher sowohl Wärme als auch Kälte bereitstellen kann.
+- [Innovativer Speicher: Zeolithkügelchen speichern Wärme dauerhaft ohne Energieverlust](https://www.trendsderzukunft.de/innovativer-speicher-zeolithkuegelchen-speichern-waerme-dauerhaft-ohne-energieverlust/)
 
 ## Genossenschaften
 

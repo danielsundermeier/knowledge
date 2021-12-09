@@ -1,5 +1,13 @@
 # Schreiben
 
+Ich versuche alles aufzuschreiben. Jede Idee und alles worüber ich nachdenke. Indem ich es aufschreibe denke ich intensiv über das Thema nach und mir fallen, manchmal wie von selbst, neue Ideen ein oder mir werden Dinge klarer.
+
+Außerdem speichere ich so mein Wissen und meine Gedanken ab und ich muss sie mir nicht merken. Dadurch hat mein Gehirn Kapazitäten neue Ideen und Gedanken zu generieren. Ich drehe mich nicht mehr immer nur im Kreis, sondern komme immer ein kleines Stück weiter.
+
+Seit ich alles aufschreibe sind meine Gedanken viel klarer und ich bin nicht mehr so abgelenkt. Ich muss mir nicht mehr so viele verschiedene Dinge merken und immer im Hinterkopf haben.
+
+Ich habe eine [Todo Liste](../produktivitaet/aufgaben.md), schreibe ein [Tagebuch](./tagebuch.md) und habe einen Braindump, wenn mir zwischendurch oder nachts Dinge durch den Kopf gehen
+
 ## Ziel
 
 Wissen speichern und Kopf für Ideen frei machen
@@ -28,7 +36,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - tl;dr am Anfang mit Links zu Abschnitten
 - Text
     + in Abschnitte unterteilen
-    + Überschrift pro Abschnitte (Wichtigter Punkt)
+    + Überschrift pro Abschnitt (Wichtigter Punkt)
 - Zusammenfassung der wichtigsten Punkte
 
 ## Notizen

@@ -2,11 +2,11 @@
 
 Ich möchte eine gute Balance zwischen Arbeit und Entspannung finden.
 
-Ich glaube der richtige Weg ist Blöcke zu haben, in denen ich sehr fokussiert und produktiv bin, dazwischen gibt es Zeit für die Entspannung.
+Ich glaube der richtige Weg ist Blöcke zu haben, in denen ich sehr fokussiert und produktiv bin (Deep Work), dazwischen gibt es Zeit für die Entspannung.
 
 Das ist der gleiche Ablauf, wie Meschen [lernen](../leben/lernen.md): Intensiv mit einem Thema beschäftigen anschließend entspannen, um Verknüpfungen mit Erfahrungen und bestehendem Wissen zu erstellen.
 
-Ich nehme mir Zeit die Aufgaben vorzubereiten und zu planen. Während ich mich erhole, habe ich neue Ideen und finde bessere Lösungen, die ich dann während eines Arbeitsblocks umsetzen kann. Die Lösungen fallen mir aber erst ein, wenn ich mich intensiv mit einem Thema befasst habe.
+Ich nehme mir Zeit die Aufgaben vorzubereiten und zu planen. Während ich mich erhole, habe ich neue Ideen und finde bessere Lösungen, die ich dann während eines Arbeitsblocks umsetzen kann. Die Lösungen fallen mir aber erst ein, wenn ich mich vorher intensiv mit einem Thema befasst habe.
 
 Wenn ich genau weiß, was und wie ich etwas tun möchte, geht die Arbeit viel schneller von der Hand. Es gibt keine Ablenkungen sondern nur die aktuelle Aufgabe. Im besten Fall habe ich die Aufgabe so aufbereitet, dass ich die genauen Schritte kenne und sie nur ausführen muss. So kann ich sehr viel in wenig Zeit schaffen.
 
@@ -39,7 +39,7 @@ Das ist auch mein Ziel: Genau wissen, was ich im nächsten Arbeitsblock machen m
 - Fokussierte Blöcke für Produktivität (90 min), anschließend Erholen
     + 3x 90 Minuten pro Tag
 
-# Ziele
+## Ziele
 
 - Ziel festlegen (z.B. Wohnung entrümpeln)
 - System überlegen (Jeden Tag 30 Minuten sortieren / aufräumen / wegschmeißen)
@@ -53,7 +53,7 @@ Das ist auch mein Ziel: Genau wissen, was ich im nächsten Arbeitsblock machen m
 - Alles, was ich tue dokumentieren
 - Wenn ich es das nächste Mal mache, Dokumentation aufrufen
 - Dokumentation / Abläufe jedes Mal verbessern
-planung- Automatisieren
+- Automatisieren
 - Autonomes System erstellen
 
 Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=3197520)

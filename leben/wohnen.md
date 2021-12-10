@@ -143,6 +143,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [James Howard Kunstler seziert die amerikanischen Vorstädte](https://www.youtube.com/watch?v=Q1ZeXnmDZMQ)
 - [How to Design a PERMACULTURE NEIGHBORHOOD](https://www.youtube.com/watch?v=9R-fAc0wl10)
 - [Vienna's Radical Idea? Affordable Housing For All](https://www.youtube.com/watch?v=41VJudBdYXY)
+- [Alternatives to Sprawl: Case Studies in Building Better 'Burbs](https://www.youtube.com/watch?v=-sA2LeHTIUI)
 
 ## Artikel
 

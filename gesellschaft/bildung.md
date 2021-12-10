@@ -90,6 +90,15 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
     + Beispielaufgaben / -projekte
 - Jeder kann eigene Inhalte aus Fachbüchern erstellen
 
+## Lehrer
+
+Den Beruf des Lehrers in Teilaufgaben aufteilen, Lehrer können sich spezialisieren.
+
+- Unterrichtsplanung
+- Lehrmaterial produzieren
+- Betreuung der Schüler bei Hausaufgaben
+- Prüfung / Bewerten von Modulen
+
 ## Bücher
 
 - [Flip Your Classroom](https://www.goodreads.com/book/show/27213514-flip-your-classroom)

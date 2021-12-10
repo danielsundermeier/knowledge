@@ -91,3 +91,4 @@ Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es füh
 - [Schwere oder leichte Gewichte für Muskelaufbau?](https://science-fitness.de/research-reviews/gewichte-muskelaufbau) - Schwere und leichte Gewichte funktionieren
 - [Wie oft trainieren?](https://science-fitness.de/research-reviews/wie-oft-trainieren-pro-woche) - ca. 10 Sätze pro Muskelgruppe pro Training, Volumen ist wichtiger als Anzahl Trainingseinheiten
 - [New Science of Muscle Hypertrophy - Part 3, Eating & Training: 55 Min Phys](https://www.youtube.com/watch?v=cw6XPWaEK20) - 10-20 Sätze pro Muskel pro Woche mit je 2-4 Reps in Reserve, alles andere ist nebensächlich
+- [Lift Weights, Get Stronger](https://stronglifts.com/)

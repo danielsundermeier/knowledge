@@ -163,6 +163,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [How a Czech DJ Built a 3D Printing Empire](https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/)
 - [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
 - [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
+- [Grinding to $1,000,000 in revenue over 6 years](https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/)
 
 ## Links
 

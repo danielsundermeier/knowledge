@@ -42,6 +42,7 @@ Ist es wirklich so einfach?
 - [Gridscale - Long duration energy storage](https://www.youtube.com/watch?v=6tEkRRec3NE)
 - [New energy storage tech breathing life and jobs back into disused coal power plants](https://www.youtube.com/watch?v=edVjYofLYc4)
 - [Energy Vault](https://www.energyvault.com/ev1) - HARNESSING THE POWER OF GRAVITY
+- [EnergyDome](https://energydome.com/) - Using CO2 against climate change
 
 ### Batterien
 

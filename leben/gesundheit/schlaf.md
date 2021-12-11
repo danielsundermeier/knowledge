@@ -7,6 +7,7 @@ Täglich erholt ohne Wecker aufwachen
 ## Regeln
 
 - 7-9 Stunden jede Nacht
+- Zeit im Bett ist nicht gleich Schlafenszeit: 9-10h im Bett -> 8h Schlaf
 - Feste Schlafenszeiten, auch am Wochenende (Zirkadianer Rhythmus)
 - Schlafzimmer: 
     + dunkel

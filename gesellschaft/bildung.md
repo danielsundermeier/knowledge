@@ -20,6 +20,7 @@
     + Kunstwerk
     + Software
     + Unternehmen
+- Höchstes Investment für die Jüngsten (wie in Skandinavien) -> größter Einfluss
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
 

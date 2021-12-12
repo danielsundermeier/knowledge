@@ -152,6 +152,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Zurück in die Stadt!](https://www.zeit.de/wirtschaft/2021-02/einfamilienhaeuser-klimaschutz-debatte-eigenheim-gruene-stadt-land?utm_source=pocket-newtab-global-de-DE)
 - [A review of Arcologies](https://daryanenergyblog.wordpress.com/2017/07/23/a-review-of-arcologies/amp/)
 - [The Joys of a Walkable Neighborhood](https://www.getrichslowly.org/walking/)
+- [Berlin’s Transformation Is Wunderbar: a San Francisco Transplant’s View](https://sf.streetsblog.org/2021/12/06/berlins-transformation-is-wunderbar-a-san-francisco-transplants-view/)
 
 ## Links
 

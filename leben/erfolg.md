@@ -60,6 +60,8 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 > "the world rewards you for value added, not time spent" - [James Clear](https://jamesclear.com/)
 
+> "But I think of just two years ago, when I could barely survive what now has become routine, and remind myself that there is nothing more important than simply showing up and doing the work, every single day." - [Lessons from the Sea](https://www.collaborativefund.com/blog/lessons-from-the-sea)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

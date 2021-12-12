@@ -29,7 +29,7 @@ Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 
 ## Ziele
 
-Ich glaube die meisten Ziele die von der Gesellschaft als erstrebenswert angesehen werden führen nicht zu einem zufriedenen Leben.
+Ich glaube die meisten Ziele, die von der Gesellschaft als erstrebenswert angesehen werden, führen nicht zu einem zufriedenen Leben.
 Sie sind alle von äußeren Faktoren, die man oft nicht beeinflussen kann, abhängig.
 
 Vieles beruht auch auf Neid. Aber um neidisch auf jemanden zu sein, muss ich das ganze Leben der Person in Betracht ziehen, nicht nur das Positive.
@@ -157,4 +157,8 @@ Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp000039
 - [Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)
 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
 - [Why your life is so boring](https://www.youtube.com/watch?v=hGdNyAuMJQI)
+- [Assured Misery](https://www.collaborativefund.com/blog/assured-misery/)
+- [When All Moments Have Equal Value](https://www.raptitude.com/2021/05/when-all-moments-have-equal-value/)
+- [The Ancient Art of Using Time Well](https://www.raptitude.com/2021/04/the-ancient-art-of-using-time-well/)
+
 

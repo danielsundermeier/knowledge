@@ -109,6 +109,37 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
     + Lebensstil nachhaltig und langsam steigern
     + Am Anfang "leiden" und "verzichten", um später den Fuß etwas vom Gas nehmen zu können
 
+## Jäger und Sammler
+
+Oft wird das Leben von Jägern und Sammlern verherlicht und als optimal für Menschen dargestellt. Ich denke für das beste Leben sollte ich die guten Dinge aus dem Leben von Jägern und Sammlern mit den positiven Dingen aus der heuteigen Zeit verbinden.
+
+### Vorteile J & S
+
+- Viel Bewegung
+- Viel Zeit draußen in der Natur
+- Unverarbeitete, natürliche Lebensmittel
+- Weite Kompetenz  
+    + Überleben
+    + Umgebung
+- Gemeinschaft
+- Produktion
+
+### Vorteile Heute
+
+- Sicherheit (Polizei, Feuerwehr, Gesetze, ...)
+- Medizin
+- Ernährungsüberfluss
+- Fortschritt, Wissenschaft, Bildung
+- Technologie, Automatisierung
+- Energie
+- Wohnen (Fließendes Wasser, Heizung, Klo)
+- Investments
+- Internet (Wissen & Kommunikation)
+- Arbeitsteilung
+- Kompetenz
+    + Spezialisiert
+    + T-Form: Breites Allgemeinwissen und tiefes Spezialwissen
+
 ## Hierarchie
 
 - Building a life

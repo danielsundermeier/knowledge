@@ -123,9 +123,17 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - Ernährung
 - Neues Lernen / Ausprobieren
 
+### Training
+
+Ich kann alles im Leben als Training sehen.
+
+- Schwieriges Telefonat -> Geduld üben und mich freuen, wie geduldig ich schon bin
+- Körperlich anstrengende Aufgabe -> Training und mich freuen, wie stark ich schon bin
+- Fehler gefunden -> Gelegenheit Dinge zu verbessern
+
 ## Instant Gratification
 
-Z.B. :Drogen, Parties, Konsum
+- Drogen, Parties, Konsum
 
 Ich glaube dass dieser Weg nur kurzfristig funktioniert und zu einem insgesamt schlechteren Leben führt, auch wenn der aktuelle Moment vielleicht sehr gut ist.
 

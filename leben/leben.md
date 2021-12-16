@@ -301,4 +301,5 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [How we spend our days is, of course, how we spend our lives.](https://twitter.com/lorde)
 - [This Is The Most Surprising Way To Make Your Life Awesome](https://www.bakadesuyo.com/2021/11/personality/)
 - [Some of Life’s Great Paradoxes](https://moretothat.com/some-of-lifes-great-paradoxes/)
+- [How To Live - Derek Sivers](https://astobbe.me/books/how-to-live/)
 

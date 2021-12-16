@@ -155,8 +155,7 @@ Der Weg dahin führt über das Aufschieben von Belohnungen.
 - [Am Ende nur Kopfbahnhof](https://www.faz.net/aktuell/stil/leib-seele/ziele-im-leben-erreichen-die-hoffnung-auf-eine-veraenderung-17257364.html?printPagedArticle=true#pageIndex_2)
 - [The Gift of Challenge](https://moretothat.com/the-gift-of-challenge/)
 - [Investing in Happiness](https://www.youtube.com/watch?v=iNZk-N6uDcg)
-- [Having Too Little or Too Much Time Is Linked to Lower
-Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp0000391.pdf)
+- [Having Too Little or Too Much Time Is Linked to Lower Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp0000391.pdf)
 - [Stress primarily comes from not taking action over something that you can have some control over… stress comes from ignoring things that you shouldn’t be ignoring.](https://twitter.com/austen/status/1438157425744306176)
 - [Why a Daily Self-Care Routine Is More Important Than a Vacation](https://www.theemotionmachine.com/why-a-daily-self-care-routine-is-more-important-than-a-vacation/)
 - [How Will You Measure Your Life? ](https://hbr.org/2010/07/how-will-you-measure-your-life)
@@ -168,5 +167,5 @@ Subjective Well-Being](https://www.apa.org/pubs/journals/releases/psp-pspp000039
 - [Assured Misery](https://www.collaborativefund.com/blog/assured-misery/)
 - [When All Moments Have Equal Value](https://www.raptitude.com/2021/05/when-all-moments-have-equal-value/)
 - [The Ancient Art of Using Time Well](https://www.raptitude.com/2021/04/the-ancient-art-of-using-time-well/)
-
+- [Why You Don't Feel Like Doing Anything](https://www.reddit.com/r/selfimprovement/comments/rggcch/why_you_dont_feel_like_doing_anything/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 

@@ -57,6 +57,26 @@ Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlic
 - [DIY Greenhouse](https://www.ana-white.com/woodworking-projects/diy-greenhouse)
 - [Polycrub](https://www.polycrub.co.uk/)
 
+## Gemüsetunnel
+
+- Baustahlmatten
+- Außen
+    + Tomaten
+    + Gurken
+    + Paprika
+    + Melone
+    + Kürbis
+- Innen
+    + Salat
+    + Kräuter
+    + Zucchini
+    + Zwiebeln
+    + Knoblauch
+
+![](https://homesteadingfamily.com/wp-content/uploads/2020/05/bean-tunnel-filled-with-crops.jpg)
+
+[How to Build a DIY Hoop House Greenhouse](https://homesteadingfamily.com/diy-bean-tunnel-or-hoop-house/)
+
 ## Zimmerpflanzen
 
 - [Zimmerpflanzen Lexikon](https://www.123zimmerpflanzen.de/pflege/lexikon)

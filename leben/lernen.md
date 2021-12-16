@@ -111,6 +111,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [460 Free Textbooks – Math, Science, and More](https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/)
 - [How Learning Works](https://romandesign.co/how-learning-works-components-systems-and-loops/)
 - [Study Tips from Dr. K](https://www.youtube.com/watch?v=Lw4dMehQkgs)
+- [Get Skilled](https://www.artofmanliness.com/skills/)
 
 ## Spaced Repetition
 

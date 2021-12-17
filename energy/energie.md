@@ -184,3 +184,6 @@ all feel good about
 - [e-coFACE Elementfassade der Zukunft](https://www.youtube.com/watch?v=CP_srGELb8k)
 - [Eine Milliarde Maschinen](https://1e9.community/t/eine-milliarde-maschinen-ein-us-wissenschaftler-will-einfach-alles-elektrisch-machen/9988)
 - [Who is the real problem when it comes to climate change?](https://noahpinion.substack.com/p/who-is-the-real-problem-when-it-comes)
+- [Want to learn more about how to electrify your home?](https://surveys.signforgood.com/rewiring-america-electrify-everything)
+
+

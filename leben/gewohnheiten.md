@@ -4,6 +4,22 @@
 - Ganz einfach anfangen (1 Seite lesen, 1 Sekunde Meditieren, 1 Liegestütz), um die Gewohnheit aufzubauen 
 -> Ich habe mein ganzes Leben, um mich zu steigern
 
+## Trigger
+
+## Action
+
+## Reward
+
+Im besten Fall verstärkt die Belohnung die Gewohnheit indem die Belohnung besser wird, je länger ich die Gewohnheit ausführe.
+
+Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
+
+| Ziel | Schlechte Belohnung | Besssere Belohnung |
+| ---- | ------------------- | ------------------ |
+| Abnehmen | Cheat Meal | Schwimmen, Fotoshooting, Massage |
+| Kein Alkohol trinken | Feiern gehen | Urlaub, Abenteuer |
+| Geld sparen | Shoppen | Computerspiele |
+
 ## Erwünschte
 
 - So einfach wie möglich

@@ -12,6 +12,10 @@
 
 > "Lifestyle isn’t just about what you own or the size of your apartment – it’s about how you live your life, how you pursue your passions, how you spend your time and who you spend it with."
 
+> "if you’re leading an interesting life, others are going to want to be a part of it."
+
+> "The happier you are with who you are, the better you will be at interacting with others."
+
 [How to Be A Better Man](https://www.masculinedevelopment.com/5-ways-be-a-man/)
 
 > "If you don’t have the kind of salary that you want, then upgrade your life. If you don’t have the dating life that you want, then upgrade your life. If you don’t have the physical health you want, then upgrade your life. Take accountability for your life, and take action to change things."

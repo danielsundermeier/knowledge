@@ -24,8 +24,8 @@ Meine beste Version werden.
 
 ## Fundament
 
-- [Gesundheit](./gesundheit/gesundheit.md)
-- [Finanzen](./finanzen/finanzen.md)
+- [Gesundheit](./gesundheit/gesundheit.md) -> Energie für ein aktives, produktives Leben
+- [Finanzen](./finanzen/finanzen.md) -> Energie Anderer nutzen, Optionalitäten aufbauen und Stress reduzieren
 
 - Von einem stabilen Fundament Neues ausprobieren
 
@@ -108,6 +108,10 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
     + Lieber "pleite" mit 20 als mit 30 oder später
     + Lebensstil nachhaltig und langsam steigern
     + Am Anfang "leiden" und "verzichten", um später den Fuß etwas vom Gas nehmen zu können
+
+### Links
+
+- [Leveling Up: Building an Attractive Lifestyle](https://www.doctornerdlove.com/building-attractive-lifestyle/)
 
 ## Jäger und Sammler
 

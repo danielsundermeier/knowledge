@@ -119,6 +119,7 @@ Es sollte eine Abteilung geben, die sich koninuierlich Gedanken macht, wie man d
 - Wahlpflicht
 
 - [Briefwahl](https://www.minden.de/stadt_minden/de/B%C3%BCrger,%20Service,%20Politik/Bundestagswahl%202021/Briefwahl/)
+- [The mathematical method that could offer a fairer way to vote](https://www.economist.com/christmas-specials/2021/12/18/the-mathematical-method-that-could-offer-a-fairer-way-to-vote) - Quadratic voting
 
 ### Links
 

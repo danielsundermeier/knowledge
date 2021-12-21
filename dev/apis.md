@@ -16,6 +16,7 @@
 - [Give me /events, not webhooks](https://blog.syncinc.so/events-not-webhooks?utm_source=pocket_mylist)
 - [API version control](https://github.com/reindert-vetter/api-version-control)
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- [The Light and Dark Side of the API Economy](https://www.swyx.io/api-economy/)
 
 ### Tests
 

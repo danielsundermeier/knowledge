@@ -54,6 +54,9 @@ Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlic
 
 ## Gewächshaus
 
+- Mit Abwärme aus Kühlraum heizen (Wärmepumpe)
+    + Gewächshaus heizen
+    + Gemüse einfrieren
 - [DIY Greenhouse](https://www.ana-white.com/woodworking-projects/diy-greenhouse)
 - [Polycrub](https://www.polycrub.co.uk/)
 

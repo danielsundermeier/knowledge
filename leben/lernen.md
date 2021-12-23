@@ -112,6 +112,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [How Learning Works](https://romandesign.co/how-learning-works-components-systems-and-loops/)
 - [Study Tips from Dr. K](https://www.youtube.com/watch?v=Lw4dMehQkgs)
 - [Get Skilled](https://www.artofmanliness.com/skills/)
+- [Against 3X Speed](https://perell.com/essay/against-3x-speed/)
 
 ## Spaced Repetition
 

@@ -15,12 +15,14 @@
 - Lehrer und Experten unterstützen Schüler bei Projekten 
 - Praktika und Mentoren
 - Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
-- "Meisterstück" zum Abchluss der Schule / Schuljahr / Schulabschnitt
+- "Meisterstück" zum Abchluss der Schule / Schuljahr / Schulabschnitt / Modul
     + Handwerk
     + Kunstwerk
     + Software
     + Unternehmen
 - Höchstes Investment für die Jüngsten (wie in Skandinavien) -> größter Einfluss
+- Punkte fürs Lernen und Erledigen von Aufgaben, für die sich Schüler Belohnungen (z.B. Snacks) "kaufen" können
+- Schüler setzen sich selbst Ziele für den Tag, Woche, Modul
 
 Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung zu sparen. Es ist ein Investment in die Zukunft. 
 
@@ -166,6 +168,7 @@ at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 - [Synthesis](https://www.synthesis.is/)
 - [Schoolhouse](https://schoolhouse.world/) - Free tutoring, with peers
+- [Alpha](https://alpha.school/)
 
 ## Experimente
 

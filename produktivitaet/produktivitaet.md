@@ -178,6 +178,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Be Challenged. Not Overwhelmed.](https://moretothat.com/be-challenged-not-overwhelmed/)
 - [Every productivity thought I've ever had](https://guzey.com/productivity/)
 - [Moving faster](https://scattered-thoughts.net/writing/moving-faster/)
+- [I feel guilty about resting, and it’s a problem](https://thewokesalaryman.com/2021/12/22/i-feel-guilty-about-resting-and-its-a-problem/)
 
 ### Blogs
 

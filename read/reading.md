@@ -27,3 +27,20 @@
 > "The science of memory reveals why writing is such an effective way to learn. Putting ideas into your own words forces you to internalize them. Rather than memorizing disparate pieces of information, writing helps you deduce their logic and bring them together into a coherent whole."
 
 > "There’s a whole level of knowledge, most of which is hard to define, that only reveals itself once you step outside the classroom and actually do the thing."
+
+[How to know what you really want](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire)
+
+> "Most of all: know where your desires came from. Your desires have a history. You can’t know what a ‘true’ or ‘authentic’ desire is unless you understand where it came from – and that involves diving deep into your past, understanding how you have evolved as a person, and seeing which desires have been with you for a long time and which ones have come and gone like the wind."
+
+> "What is something that seems to bring me longer-lasting joy, without the need for ‘more’?"
+
+> "So, before you pursue a specific kind of material possession, ask yourself what kind of person you think it’s helping you to become – and, if you don’t like the answer, maybe reconsider the purchase."
+
+> "It’s likely that if you can’t be happy right where you’re at, right now, then you probably won’t be happy anywhere. Your happiness will always be something ‘out there’, beyond the horizon, and mimetic desire will continue to exert an unhealthy control over you."
+
+[The Good Research Code Handbook](https://goodresearch.dev/)
+
+> "One of our strongest weapons against overloading our working memory is convention. Conventions mean that you don’t have to remember details in your working memory - you can rely on your long-term memory instead."
+
+> "Future you will have forgotten 90% of that process. Code that sticks to convention, is tidy and well-documented will be far easier to use in the future than clever, obtuse code. Boring code is good code!"
+

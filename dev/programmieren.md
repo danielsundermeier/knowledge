@@ -127,4 +127,5 @@ video course](https://mailcoach.app/videos)
 - [Code Catalog](https://codecatalog.org/) - Code Catalog is a collection of instructive code examples with annotations
 - [Programming Guidelines](https://github.com/guettli/programming-guidelines)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [The Good Research Code Handbook](https://goodresearch.dev/)
 

@@ -41,7 +41,7 @@ Meine Gesundheit und Finanzen kann ich so gestalten, wie ich es mir vorstelle. D
     + Ideen
     + Sorgen / Ängste
 - Tagebuch führen
-- Systeme aufbauen / Entscheidungen automatisieren
+- [Gewohnheiten](./gewohnheiten.md) etablieren / Entscheidungen automatisieren
 - Lesen
 - In allen Lebensbereichen besser als der Durchschnitt werden (7/10 Punkten) -> Durch Kombination aller Lebensbereiche in Spitzenposition
 
@@ -156,7 +156,7 @@ Oft wird das Leben von Jägern und Sammlern verherlicht und als optimal für Men
 
 - Funktioniert langfristig nicht
 - Besonders wenn ich müde, hungrig oder wütend bin
-- Automatisierte Systeme ausdenken (Gewohnheiten)
+- Automatisierte Systeme ausdenken ([Gewohnheiten](./gewohnheiten.md))
 
 ## Selbstbewusstsein
 

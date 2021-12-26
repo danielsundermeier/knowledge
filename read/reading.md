@@ -44,3 +44,8 @@
 
 > "Future you will have forgotten 90% of that process. Code that sticks to convention, is tidy and well-documented will be far easier to use in the future than clever, obtuse code. Boring code is good code!"
 
+[What is important in life?](https://qr.ae/pGzWp9)
+
+> "Everyone thinks its about the goal in the end. That once you have money, a partner, fame, or once you have found your passion you will be happy and everything will be perfect. But the goal will never bring you true happiness. It is just an excuse to go on the journey… which is the real goal. The journey of growth and of finding out more about the world and who we are fills us with happiness… not what is at the end."
+
+

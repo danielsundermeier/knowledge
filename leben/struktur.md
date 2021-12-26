@@ -43,6 +43,8 @@ Pflichten und unbeliebte Aktivitäten so effizient wie möglich gestalten. Wenn 
 - Friseur
 - Aufräumen
 
+- Nächsten Termin beim aktuellen Termin machen
+
 ## Prioritäten
 
 - Dinge tun, dich ich wirklich tun möchte

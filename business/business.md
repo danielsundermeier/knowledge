@@ -73,6 +73,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 ## Marketing
 
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers#readme)
 - [Desperately need “sales for nerds” advice](https://news.ycombinator.com/item?id=27192884)
 - [Content Marketing for Bootstrappers](https://jameschambers.co.uk/saas-content-marketing)
 - [Good copywriting: Here's your problem. Here's the benefit of solving it. Here's why what you've tried has failed. And by the way here's a product that will help you solve it.](https://twitter.com/dickiebush/status/1445375496636743682)

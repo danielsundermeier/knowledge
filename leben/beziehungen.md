@@ -33,7 +33,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Veranstaltungen planen und andere einladen
 - Allen Einladungen zusagen
 - Man kann von jedem etwas lernen; im schlimmsten Fall, wie man etwas nicht macht
-- "Ich mache X, willst Du mit?"
+- "Ich mache X, willst Du mit?"; Besser "Wir machen X, willst Du mit?" -> Andere machen schon mit (Social Proof)
 - Interesse am Leben / Ideen von anderen zeigen und darüber sprechen
 - Auf die andere Person fokussieren
 
@@ -58,7 +58,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Andere ansprechen
     + Erst nur "Hallo" sagen, um Selbsvertrauen aufzubauen
     + Langsam steigern, bis zum Führen von Gesprächen
-    + Andere Einladen mitzumachen
+    + Andere Einladen bei Aktivität mitzumachen
 
 Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. Es ist nicht ihre Aufgabe es mir zu zeigen.
 

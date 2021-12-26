@@ -19,7 +19,7 @@
 - Renovierung
 - Verbesserung
 - Ordnung / Struktur
-- Systeme erstellen
+- Gewohnheiten / Systeme erstellen
 - Positivity
 - Health
 - Schreiben

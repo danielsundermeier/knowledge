@@ -29,7 +29,7 @@ Ich trage auch eine Gewohnheit bei Habitica ein, damit ich daran erinnert werde 
 
 Irgendwann passiert das gewünschte Verhalten "automatisch". Dann kann ich mich mit dem nächsten Bereich befassen.
 
-Wichtig ist, dass ich alle meine Systeme weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
+Wichtig ist, dass ich alle meine [Gewohnheiten](./gewohnheiten.md) weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
 
 ## Vorgehen
 

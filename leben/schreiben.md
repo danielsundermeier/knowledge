@@ -4,6 +4,8 @@ Ich versuche alles aufzuschreiben. Jede Idee und alles worüber ich nachdenke. I
 
 Außerdem speichere ich so mein Wissen und meine Gedanken ab und ich muss sie mir nicht merken. Dadurch hat mein Gehirn Kapazitäten neue Ideen und Gedanken zu generieren. Ich drehe mich nicht mehr immer nur im Kreis, sondern komme immer ein kleines Stück weiter.
 
+Wichtig ist sich ein System zu überlegen, damit ich alles wiederfinde. Es klappt nur, wenn mein Gehirn "weiß", dass die Informationen sicher abgespeichert sind.
+
 Seit ich alles aufschreibe sind meine Gedanken viel klarer und ich bin nicht mehr so abgelenkt. Ich muss mir nicht mehr so viele verschiedene Dinge merken und immer im Hinterkopf haben.
 
 Ich habe eine [Todo Liste](../produktivitaet/aufgaben.md), schreibe ein [Tagebuch](./tagebuch.md) und habe einen Braindump, wenn mir zwischendurch oder nachts Dinge durch den Kopf gehen
@@ -21,9 +23,9 @@ Wissen speichern und Kopf für Ideen frei machen
 
 ## Allgemein
 
-Beim ersten Entwurf kommt es nicht auf die Qualität an. Es geht darum etwas zu haben, das ich barbeiten kann.
+Beim ersten Entwurf kommt es nicht auf die Qualität an. Es geht darum etwas zu haben, das ich bearbeiten kann.
 Es fällt mir leichter bestehendes zu bearbeiten als vor einer "weißen Seite" zu sitzen.
-Überschriften oder Stichpunkte helfen auch. Dadurch bekomme ich eine grobe Struktur. Ich kann dan Absätze einfügen und Stichpunkte ausformulieren.
+Überschriften oder Stichpunkte helfen auch. Dadurch bekomme ich eine grobe Struktur. Ich kann dann Absätze einfügen und Stichpunkte ausformulieren.
 
 ## Aufbau Text
 

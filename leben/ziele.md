@@ -33,7 +33,7 @@ Jeden Tag (regelmäßig) etwas tun, dass mich dem Ziel näher bringt
 
 Wenn ich jeden Tag etwas tue, auch wenn es nur eine Kleinigkeit ist, kann ich jedes Ziel erreichen. Ich muss nur meine "Wiederholungen" machen.
 
-Dafür überlege ich mir ein [System](./systeme/systeme.md).
+Dafür überlege ich mir ein System und etabliere [Gewohnheiten](./gewohnheiten.md).
 
 Ich kann mir jeden Tag vornehmen eine Seite zu lesen. An den meisten Tagen werde ich mehr machen. Eine Seite kann ich aber jeden Tag schaffen. 
 
@@ -61,7 +61,7 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - Whish
 - Outcome
 - Obstacle
-- Plan -> [Systeme](./systeme.md), [Gewohnheiten](./gewohnheiten.md)
+- Plan -> [Gewohnheiten](./gewohnheiten.md)
 
 ## Links
 

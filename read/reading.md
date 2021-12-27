@@ -48,4 +48,12 @@
 
 > "Everyone thinks its about the goal in the end. That once you have money, a partner, fame, or once you have found your passion you will be happy and everything will be perfect. But the goal will never bring you true happiness. It is just an excuse to go on the journey… which is the real goal. The journey of growth and of finding out more about the world and who we are fills us with happiness… not what is at the end."
 
+[Master Boring Fundamentals 01: Boring is Fun](https://jamesstuber.com/boring-is-fun/)
 
+> "We can train ourselves to love the pain of Type 2 fun. By attaching a boring action with the anticipation of positive feelings, we can turn the uncomfortable grind into fun."
+
+> "We don’t feel happy because we picked up our friend, we feel happy because we anticipated picking up our friend. We don’t feel annoyed because we’re doing the dishes, we feel annoyed because we anticipated the worst parts of doing the dishes."
+
+[Attainable Excellence](https://tynan.com/excellence/)
+
+> "You don’t need skills or background to make something excellent, you just have to find the right raw materials and care enough to put in the work to make it great."

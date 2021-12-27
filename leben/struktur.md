@@ -61,3 +61,4 @@ Pflichten und unbeliebte Aktivitäten so effizient wie möglich gestalten. Wenn 
 - [This Is The Best Time To Do Anything](https://www.bakadesuyo.com/2021/04/circadian/)
 - [In praise of structured time](https://twitter.com/jongold/status/1397218299251990535)
 - [What happened when you decided to change yourself at any point in your life?](https://qr.ae/pGSNDN)
+- [Routine, routine, routine How I actually stopped procrastinating](https://www.youtube.com/watch?v=cvNNecOZqeQ)

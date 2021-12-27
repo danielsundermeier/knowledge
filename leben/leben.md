@@ -90,7 +90,7 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 ## Lebensbereiche
 
 - Achtsamkeit 
-- Emotionen / Perpektive
+- Emotionen / Perspektive
 - Erfahrungen
 - Familie & Freunde
 - Finanzen

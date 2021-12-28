@@ -187,4 +187,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Complete guide to becoming the tribe leader (How to become popular)](https://www.youtube.com/watch?v=lSKxhR-YDMI)
 - [Encouragement from other men who had trouble getting women until later in life](https://www.reddit.com/r/JordanPeterson/comments/rgbhuh/i_need_some_encouragement_from_other_men_who_had/hojaw2a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3)
 - [My main goal in most convos is to find the thing that makes the other person’s eyes sparkle.](https://twitter.com/mollyfmielke/status/1473652440020910081)
+- [How To Make Amazing Friends](https://tynan.com/excellentfriends/)
 

@@ -123,3 +123,4 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - [My thoughts on free will](https://twitter.com/david_perell/status/1414685400308793347)
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
 - [How To Understand Systems](https://neilkakkar.com/understanding-systems.html)
+- [Consistency is Key](https://tynan.com/thekey/)

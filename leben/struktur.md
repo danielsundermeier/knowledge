@@ -26,12 +26,20 @@ Vieles ausprobieren.
 Ich versuche meinem perfekten Tag immer näher zu kommen. Dafür ändere ich viele kleine Dinge und überprüfe, ob es mir gefällt oder nicht.
 Je nach dem mache ich weitere Änderungen.
 
-Es reicht dabei eine grobe Vorstellung von dem perfekten Tag zu haben und sich langsam zu nähern. Durch die Tests und indem ich Neues lerne ändert sich mein perfekter Tag auch. Es ist nur wichtig, dass ich ihm immer näher komme. 
+Ich fange mit einer Sache an. (z.B. feste Schlafens- oder Essenszeiten, Training). Von dort aus hänge ich weitere Gewohnheiten an, bis mein ganzer Tag strukturiert ist und ich weiß, wann ich was mache.
+
+Von da an ist es nur noch eine Frage der Wiederholungen. Je besser ich mich an die Struktur halte, desto besser wird mein Leben. Nach 10 Jahren möchte ich mein Leben so sehr verbessert haben, dass ich den Fuß etwas vom Gas nehmen kann, mir mehr gönne und meinen Lebenstil langsam anpasse. 
+
+Wichtig ist das ich auch während der Zeit Spaß habe und mich erholen kann.
+
+Es reicht eine grobe Vorstellung von dem perfekten Tag zu haben und mich langsam zu nähern. Durch die Tests und indem ich Neues lerne ändert sich mein perfekter Tag auch. Es ist nur wichtig, dass ich ihm immer näher komme. 
 
 Ich denke es ist wichtig früh damit anzufangen und nicht erst auf die Rente oder ähnliches zu warten.
 Für ein zufriedenes Leben ist es entscheidend, was ich jeden Tag mache. Nicht das Highlight hin und wieder (z.B. Urlaub).
 
 Pflichten und unbeliebte Aktivitäten so effizient wie möglich gestalten. Wenn möglich delegieren oder automatisieren.
+
+Ich schaffe nicht immer alles. Das Leben kommt dazwischen. Die Struktur dient als Ideal. Je näher ich dem perfekten Tag komme, desto besser ist mein Tag.
 
 ## Feste Zeiten
 

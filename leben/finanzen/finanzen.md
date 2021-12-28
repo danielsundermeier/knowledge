@@ -122,6 +122,7 @@ PBNKDEFF011
 - [Go Big, Then Stop](https://ofdollarsanddata.com/go-big-then-stop/)
 - [Nature Shows How This All Works](https://www.collaborativefund.com/blog/nature-shows-how-this-all-works/)
 - [A catalog of wealth-creation mechanisms](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html)
+- [Financial Phases to Follow](https://tynan.com/phases/)
 
 ## Videos
 

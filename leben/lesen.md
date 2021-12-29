@@ -22,6 +22,11 @@ Zusammenfassung auf www.blinkist.de anhören
 - blau: Zusammenfassung
 - orange: Ausführbare Aktion
 
+### Wie kann ich das Gelesene anwenden?
+
+- Nach einem Kapitel / Seite
+- Wie kann ich das Gelernte konkret in meinem Leben anwenden
+
 ### Fragen beantworten
 
 

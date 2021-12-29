@@ -28,3 +28,4 @@ Creation brings meaning because it's what we were made to do." - [Alex MacCaw](h
 - [This Is How To Never Be Bored Again](https://www.bakadesuyo.com/2021/09/bored/)
 - [consistently generate great work](https://twitter.com/Julian/status/1457422738491011079)
 - [Master Boring Fundamentals 01: Boring is Fun](https://jamesstuber.com/boring-is-fun/)
+- [How To Create Your First Piece Of Content](https://www.youtube.com/watch?v=qPTPJGzZGPY)

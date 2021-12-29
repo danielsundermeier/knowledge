@@ -307,4 +307,5 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Some of Life’s Great Paradoxes](https://moretothat.com/some-of-lifes-great-paradoxes/)
 - [How To Live - Derek Sivers](https://astobbe.me/books/how-to-live/)
 - [What are common mistakes I should avoid in life?](https://qr.ae/pGzvb3)
+- [12 Rules For Life](https://www.youtube.com/watch?v=Cn_n8GL3XeM)
 

@@ -57,3 +57,11 @@
     + Klassenzimmer im Wald
     + Grillplatz
     + Trainings Trail
+- Stakeholder
+    + Anwohner
+    + Vereine
+    + Kirche
+    + Schule
+    + Kindergarten
+    + Seniorenheim
+    + Krankenhaus

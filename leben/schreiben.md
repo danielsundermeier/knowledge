@@ -99,6 +99,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Copywriting is a superpower](https://twitter.com/alexgarcia_atx/status/1405155705477156866)
 - [On audience capture and fast food content](https://manuelmoreale.com/fast-food-content)
 - [How to Start a Blog](https://www.freecodecamp.org/news/how-to-start-a-blog-book/)
+- [How I Write A Book in 14 Days](https://tynan.com/write/)
 
 ## Inspiration
 

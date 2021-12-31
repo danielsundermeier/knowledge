@@ -189,4 +189,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [My main goal in most convos is to find the thing that makes the other person’s eyes sparkle.](https://twitter.com/mollyfmielke/status/1473652440020910081)
 - [How To Make Amazing Friends](https://tynan.com/excellentfriends/)
 - [Making Friends with Awesome People](https://tynan.com/making-friends-with-awesome-people/)
-
+- [How to Stop Being Creepy and Needy](https://www.woujo.com/blog/2020/9/14/how-to-stop-being-creepy-and-needy)

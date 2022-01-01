@@ -8,6 +8,8 @@ Wenn ich mich nicht an meine Struktur halte merke ich recht schnell, dass ich un
 
 Je schlechter der Tag ist, desto wichtiger ist es mich an meine Struktur zu halten. Sie gibt mir Stabilität und Sicherheit.
 
+Durch die Struktur (Stundenplan) weiß ich immer, was ich tun möchte und erstelle mir mein Traumleben "automatisch".
+
 ## Ist
 
 Wie verbinge ich aktuell meinen Tag?

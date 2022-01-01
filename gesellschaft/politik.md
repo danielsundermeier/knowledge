@@ -185,6 +185,15 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt d
 
 - [Nachwachsender Rohstoff](https://de.wikipedia.org/wiki/Nachwachsender_Rohstoff) - "Nachwachsende Rohstoffe (abgekürzt NawaRo, Nawaro oder NR) sind organische Rohstoffe, die aus land- und forstwirtschaftlicher Produktion stammen und vom Menschen zielgerichtet für weiterführende Anwendungszwecke außerhalb des Nahrungs- und Futterbereiches verwendet werden. Gegensatz ist der nichterneuerbare Rohstoff."
 
+## Wohlstand
+
+### Produktion
+
+- Nahrungsmittelproduktion
+- Bekleidungsindustrie
+- Produktion/Industrie
+- Technologie
+
 ## Militär
 
 - So klein wie möglich

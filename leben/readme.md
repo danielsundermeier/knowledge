@@ -45,6 +45,7 @@ Ich freue mich immer über Anregung und Feedback. Schick mir einfach eine Nachri
         * HIIT
     + Ernährung
     + Erholung
+    + Mentale Gesundheit
 - [Finanzen](./finanzen/finanzen.md)
     + Minimalismus
 
@@ -57,11 +58,14 @@ Ich freue mich immer über Anregung und Feedback. Schick mir einfach eine Nachri
 
 ## Lebensbereiche
 
+Meine Lösungen zu jedem Bereich. Erfahrungen, Tipps & Tricks.
+
 - Achtsamkeit 
 - Emotionen / Perspektive
 - Erfahrungen
 - Familie & Freunde
 - Finanzen
+    + Struktur
 - Gesundheit
 - Karriere
 - Liebe

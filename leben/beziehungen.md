@@ -190,3 +190,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [How To Make Amazing Friends](https://tynan.com/excellentfriends/)
 - [Making Friends with Awesome People](https://tynan.com/making-friends-with-awesome-people/)
 - [How to Stop Being Creepy and Needy](https://www.woujo.com/blog/2020/9/14/how-to-stop-being-creepy-and-needy)
+- [IN A NUTSHELL – How to Win Friends and Influence People](https://reiterator.wordpress.com/2013/07/15/in-a-nutshell-how-to-win-friends-and-influence-people-dale-carnegie/)
+

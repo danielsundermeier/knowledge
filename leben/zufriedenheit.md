@@ -144,6 +144,15 @@ Der Weg dahin führt über das Aufschieben von Belohnungen.
 
 - Training, Lesen, Lernen, Investieren, Gärtnern
 
+Das Problem ist, dass man die Erfolge erst nach einiger Zeit sieht. Bis dahin ist es schwer weiter zu "verzichten", ohne etwas davon zu haben.
+
+Wenn man aber über diese Phase hinweg ist und die Erfolge sichtbar werden, ist es leichter weiter zu machen. Es ist etwas wie der Zinseszins Effekt.
+
+Ich bin dankbar für mein früheres Ich, weil ich durch den "Verzicht" jetzt in einer besseren Situation bin und möchte es an mein zukünftiges Ich weitergeben.  
+So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
+
+[This Graph Changed My Life](https://www.youtube.com/watch?v=HdJwHx-QofA)
+
 ## Links
 
 - [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)

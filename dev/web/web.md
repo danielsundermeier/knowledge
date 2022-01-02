@@ -7,6 +7,7 @@
 ## PWA
 
 - [PWA Builder](https://www.pwabuilder.com/)
+- [Add a Service Worker to Your Site](https://css-tricks.com/add-a-service-worker-to-your-site/)
 
 ## Links
 

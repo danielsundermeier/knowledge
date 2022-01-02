@@ -21,6 +21,7 @@
 #### Links
 
 - [Meditation: 12 wissenschaftlich bewiesene Vorteile](https://www.brainperform.de/meditation-vorteile/)
+- [Wie Achtsamkeit wirkt](https://www.spektrum.de/news/meditation-wie-achtsamkeit-wirkt/1940368#Echobox=1640676407)
     
 ## Aufmerksamkeit
 

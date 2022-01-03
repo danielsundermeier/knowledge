@@ -22,7 +22,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
 - Andere fragen, was sie gerade interessiert / Was ihre Leidenschaft ist / Wie sie ihren Tag verbringen (würden)
 - Über alles reden; keine Konflikte ignorieren
-- Positiv sein; negative Dinge für mich behalten
+- Positiv sein; negative Dinge (Meckern, Beschweren) für mich behalten
 - Namen merken und im Gespräch wiederholen
 - Offen für andere Meinungen sein
 - >= 5 positive : 1 negative Interaktion

@@ -151,7 +151,13 @@ Wenn man aber über diese Phase hinweg ist und die Erfolge sichtbar werden, ist 
 Ich bin dankbar für mein früheres Ich, weil ich durch den "Verzicht" jetzt in einer besseren Situation bin und möchte es an mein zukünftiges Ich weitergeben.  
 So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 
-[This Graph Changed My Life](https://www.youtube.com/watch?v=HdJwHx-QofA)
+![](./Cause-&-Effect-Timeframes.png)
+
+[Cause & Effect Timeframes](https://www.consulting.com/channel/cause-effect-timeframes-why-todays-results-came-from-last-years-work)
+
+### Links
+
+- [This Graph Changed My Life](https://www.youtube.com/watch?v=HdJwHx-QofA)
 
 ## Links
 

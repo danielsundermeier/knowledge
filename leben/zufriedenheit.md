@@ -183,4 +183,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [When All Moments Have Equal Value](https://www.raptitude.com/2021/05/when-all-moments-have-equal-value/)
 - [The Ancient Art of Using Time Well](https://www.raptitude.com/2021/04/the-ancient-art-of-using-time-well/)
 - [Why You Don't Feel Like Doing Anything](https://www.reddit.com/r/selfimprovement/comments/rggcch/why_you_dont_feel_like_doing_anything/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [I’ve found only 4 things that increase my baseline happiness: 1 - Time outside, ideally in nature 2 - Physical activity, preferably rigorous 3 - Meaningful relationships, with lots of play 4 - Work that has purpose, where I have agency](https://twitter.com/ankurnagpal/status/1476574206435418121)
 

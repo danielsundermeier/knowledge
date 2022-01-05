@@ -42,3 +42,20 @@
 
 > "„Creepiness” is just emotional over-investment in a particular emotion, and you over-invest in something when you place it in the wrong place in the hierarchy of your emotional experience."
 
+> "if you feel a conversation dying you should confidently make some excuse and leave, and then come back later."
+
+> "your main purpose when interacting with women should be to find somebody who will help you pursue your purposes and enhance your emotional experience, whatever those may be."
+
+> "The deeper, the better. Human beings naturally have a strong desire to discuss deep subjects: God, spirituality, relationships, their beliefs about the universe, their goals for life, their passions, their hatreds, etc... These subjects are "deep" because they are emotionally important to people and difficult to completely figure out, so there is a ton of unknown to explore."
+
+> "The most important skill when interacting with women is the ability to read your audience, figure out what they care about, and tailor the emotional experience in a way that will maximally stimulate their emotions."
+
+> "You feel confidence when 1) you feel like you are pursuing the best goal you could be pursuing, and 2) you feel you can defeat any threats or challenges on the way to the goal. Confidence is the feeling that you can get whatever you want, whenever you want.they want a guy who FEELS like he can do whatever he wants whenever he wants."
+
+> "Or to be more specific, women want to find a man whose subconscious mind feels like there is a clear path to anything he could possibly want, and when women find that man they want to vicariously experience his emotions."
+
+> "But if you change your purpose to “approach this woman and have a brief conversation” your subconscious mind may calculate that the possibility that this purpose is likely to be successful is relatively high, so it will energize you to go for it"
+
+> "it is not the money that women want most, but the feeling of moving towards a better future."
+
+> "The solution to this dilemma is that you must not only venture into the unknown, but you must also yourself feel like the unknown to her."

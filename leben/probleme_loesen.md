@@ -82,3 +82,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [When You Already Know the Answer](https://www.neelnanda.io/blog/42-inner-sim)
 - [I did a Think Week on a remote Scottish island](https://www.petecodes.io/think-week-scottish-island-2021/)
 - [I don't understand this (yet)](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)
+- [A Few Notes on Problem Solving](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)

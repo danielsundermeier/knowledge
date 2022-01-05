@@ -124,3 +124,4 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
 - [How To Understand Systems](https://neilkakkar.com/understanding-systems.html)
 - [Consistency is Key](https://tynan.com/thekey/)
+- [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)

@@ -75,3 +75,4 @@ Gefühlskompass
 - [13 Steps to Cognitive “Perfection”](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f)
 - [harsh Psychology truths](https://twitter.com/thebrometheus/status/1357419737278386179)
 - [Grounding](http://hintjens.com/blog:81#toc12)
+- [Mental Wealth](https://jjbeshara.com/2020/06/04/mental-wealth/)

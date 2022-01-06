@@ -102,6 +102,37 @@ Den Beruf des Lehrers in Teilaufgaben aufteilen, Lehrer können sich spezialisie
 - Betreuung der Schüler bei Hausaufgaben
 - Prüfung / Bewerten von Modulen
 
+## Start
+
+- Khan Accademy als Vorlage
+- Ziel ist eine Schule aufzubauen (online/offline)
+
+- Nachhilfe
+    + 1:1 Nachhilfe
+    + Videos zum Lernen bei Youtube 7 Khan Accademy zusammenstellen
+    + Studenten und Schüler geben Nachhilfe?
+    + Lehren ist sehr gut zum Lernen
+- Aufbaukurse
+    + Betimmtes Thema
+    + Ergänzend zu Schule/Studium
+    + Online 
+    + Mehrere Schüler/Studenten
+    + Aufzeichnen 
+    + Veröffentlichen?
+- Raum / Gebäude mieten
+    + Firma gründen (Gemeinnützig?)
+    + Makerspace (Learningspace) zum Lernen und Ausprobieren aufbauen
+    + Nachhilfe und Aufbaukurse Online und Offline
+- Module aufbauen
+    + Erst Grundlagen (Mathe, Naturwissenschaften, Sprachen), dann immer speziellere Themengebiete
+    + Zertifizierungen, Abschlussprüfungen
+- Projekte
+    + Projekte anbieten, die auf den Modulen aufbauen
+        * Webseite programmieren
+        * Garten anlegen
+        * Handwerken
+        * Unternehmen gründen
+
 ## Bücher
 
 - [Flip Your Classroom](https://www.goodreads.com/book/show/27213514-flip-your-classroom)
@@ -163,8 +194,7 @@ Young Scholars](https://progressstudies.school/)
 - [Templestowe College - TC](https://tc.vic.edu.au/)
 - [ZipSchool](https://zipschool.com/) - Live, online classes for curious kids ages 4-9
 - [Dexter](https://www.dexter.school/) - The Artists, Engineers, and Scientists the World Needs
-- [Dexter Videos](https://dexter.live/) - Fully-supported
-at-home learning
+- [Dexter Videos](https://dexter.live/) - Fully-supported at-home learning
 - [Pendra](https://prendaschool.com/) - The neighborhood school reimagined
 - [Synthesis](https://www.synthesis.is/)
 - [Schoolhouse](https://schoolhouse.world/) - Free tutoring, with peers

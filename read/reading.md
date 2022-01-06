@@ -59,3 +59,29 @@
 > "it is not the money that women want most, but the feeling of moving towards a better future."
 
 > "The solution to this dilemma is that you must not only venture into the unknown, but you must also yourself feel like the unknown to her."
+
+[The Purpose Series (Part 3 of 3) - How to Manage your Ego](https://www.woujo.com/blog/2019/12/25/the-purpose-series-part-3-of-3-how-to-manage-your-ego)
+
+> "One way to fulfill your desire for acceptance is to find a good group of friends that are solid, reliable people that will not condition their acceptance of you and their friendship on stupid criteria or on you supplicating to them."
+
+> "People who feel comfortably accepted do not feel scarcity, and do not act impatiently, impulsively, or in ways that maximize short term pleasure at the expense of long-term gain."
+
+> "But if he thinks that he will probably get rejected, he will subconsciously refuse to approach because he would prefer to live in a reality where she MIGHT like him rather than one where she DEFINITELY does not like him. "
+
+> "The first step in fixing your ego is realizing that it is good for you to occasionally dissolve and reconstruct your map."
+
+> "I also believe that human beings can eventually overcome any limitation, so it is better to face our threats and challenges head-on rather than running from them. "
+
+> "You can induce #1 by finding a good group of friends that are solid, reliable people that will not condition their acceptance of you and their friendship on stupid criteria or on you supplicating to them. You can induce #2 by creating a set of goals for yourself, big and small, that you can accomplish to get a feeling of “wins.” You need big, long-term life goals like succeeding at your career, succeeding at your relationships, creating artistic or other creative projects, and solving complex problems. The payoff from these goals, however, take a while to come, so to give yourself the “dopamine” boost to keep going you need shorter-term goals that can exist either inside or outside these big goals"
+
+> "Addiction is essentially the feeling that the things we need most (feeling accepted by the tribe, and feeling like you have contributed to the tribe) are unavailable to use so we need to fill that hole with other pleasure. "
+
+> "Because our subconscious (and often conscious) minds have difficulty understanding nuance, when we fail we often throw out our entire map rather than fixing the small part of it that was wrong."
+
+> "The key to reconstructing your map is to rationally determine what you did wrong and create a rational, articulable plan to fix that part of your map. If finding a solution to the problem is important to you, you should find some time and really think through all the possible things you may have done wrong and what you can possibly to do to fix them."
+
+> "You do not feel anxiety and depression because you have problems; you feel anxiety and depression because you see no path in your map to the solution to those problems. As long as you have a plan and you are making steps to achieve your plan, your subconscious mind will feel the dopamine hits that are associated with making progress towards a pleasurable goal."
+
+[The Long Game 86: Mental Wealth, Not Having Time, the Decline of Rationality](https://thelonggame.xyz/p/the-long-game-86-mental-wealth-not)
+
+> "The only way to find more time is to remove the unnecessary. Fewer commitments, fewer projects, lower expectations on what doesn’t matter so you can focus better on what truly matters."

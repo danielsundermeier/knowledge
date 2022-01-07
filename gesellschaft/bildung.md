@@ -1,5 +1,71 @@
 # Bildung
 
+Ich denke, dass der Mensch von Natur aus neugierig ist und Neues lernen möchte. Trotzdem macht den meisten Schülern die Schule keinen Spaß.
+
+Meiner Meinung nach liegt es daran, dass ihnen der Stoff vorgesetzt wird und es kaum Anwendungen in der "echten" Welt gibt. Es gibt keinen konkreten Grund etwas zu lernen.
+
+Außerdem ist das Auswendiglernen nicht sehr zielführend, wenn man alles im Internet nachgucken kann. Es ist wichtiger zu wissen, wie man etwas herausfindet und Probleme löst.
+
+Das Schulsystem könnte etwas wie ein Rollenspiel aufgebaut sein ("choose your own adventure").
+
+### Module
+
+Es gibt keine Klassen mehr sondern nur noch Module, die man sich selbst zusammenstellen kann. Ein Modul ist dabei eine in sich abgeschlossene Fähigkeit (z.B. Addieren, Bruchrechnen, Integrale).
+
+Erst wenn man ein Modul bestanden hat, kann man die darauf aufbauenden Module belegen.
+
+Es gibt weiterhin Pflichtmodule, wie Lesen, Schreiben und Mathe, man kann sich danach aber immer mehr Module frei aussuchen. So kann man selbst steuern, ob man sich auf etwas spezialisieren oder eher eine breite Ausbildung bekommen möchte.
+
+Am Anfang gibt es viele Grundlagenmodule, die Pflicht sind, um vieles auszuprobieren und die Interessen, Stärken und Schwächen herauszufinden. Daraufhin kann man viel besser entscheiden, wie man weiter machen möchte.
+
+Die Module sind aufgebaut wie ein Skilltree in einem Rollenspiel. Es gibt eine Hierarchie und man kann die höheren Module nur belegen, wenn man die darunter bestanden hat.
+
+Am Ende jedes Moduls gibt es eine Prüfung. Diese Prüfung muss zu mindestens 90% bestanden werden ([Mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)), um das Modul abzuschließen. Dabei hat man so viele Versuche, bis das Modul bestanden ist. Es ist ähnlich zu einem Helpdesk. Man reicht die Aufgaben immer wieder ein, bis sie bestanden wurde. Die Lehrer geben den Schülern Hinweise und helfen bei der Lösung.
+
+Das Lernen selbst sollte projektbasiert sein. Man muss das Gelernte anwenden um es wirklich zu verstehen. Die Schüler sind sehr viel motiverter (intrinsische Motivation), weil es einen Grund gibt und sie sich ihren Weg (teilweise) selbst ausgesucht haben. Sie wissen also warum sie etwas lernen und sie möchten das Projekt weiterbringen. Man ist auch leichter bereit dafür ungeliebte Dinge zu tun, schließlich gibt es ein höheres Ziel.
+
+Ich habe so programmieren gelernt. Ich habe viele Serien geguckt und immer vergessen, welche die nächste Folge ist. Daraufhin habe ich mir eine Datenbank programmiert, die ich immer weiter aufgebaut habe. Immer wenn ich eine neue Idee hatte, habe ich mir selbst beigebracht wie ich es umsetzen kann. Ich habe viel gelernt, viel freiwillige Arbeit in die Homepage gesteckt und hatte Spaß dabei. So stelle ich mir die Schule vor.
+
+Der Tagesablauf selbst soll auch auf den Kopf gestellt werden. Es gibt Videos, Texte, Tutorials und Podcasts, die die Grundlagen vermitteln (z.B. Khan Accademy). Die Grundlagen lernt man nach der Schule zuhause alleine oder in der Gruppe. In der Schule arbeitet man an den Aufgaben und Projekten. Dort sind Lehrer (oder ältere Schüler), die die Schüler unterstüzen können. Man lernt am Besten, wenn man es anderen erklärt ([The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)).
+
+Die Schüler sollen ein Mitspracherecht in ihrer Ausbildung haben und ihren Interessen folgen können.
+
+Mein Studium war so aufgebaut. Etwa die Hälfte der Module war Pflicht, um die Grundlagen zu verstehen. Die andere Hälfte konnte ich mir frei auswählen. Mir hat das System sehr gut gefallen und ich war sehr viel motivierter die selbst ausgewählten Module zu besuchen. Ich konnte sie mir nach meinen Interessen aussuchen. Ich habe mich für eine breite Ausbildung entschieden, weil ich noch nicht genau wusste, was ich später machen möchte. Andere konnten so ganz gezielt Module belegen und genau das Lernen, was sie für ihren Beruf brauchen.
+
+### Projekte
+
+Größere Projekte dienen als "Quests". Kleine Abenteuer an deren Ende man etwas zum Zeigen hat. Sie bestehen aus mehrere Modulen und einer Projektarbeit.
+
+Es gibt auch Module die abgeschlossen werden müssen, um das Projekt freizuschalten.
+
+Ein Beispiel wäre das Programmieren einer Software oder das Bauen von Möbeln.
+
+Eine Projektarbeit kann etwas handwerkliches, eine Software oder etwas künstlerisches sein. Wichtig ist, dass man am Ende etwas vorweisen kann und es sich lohnt das Projekt umzusetzen. 
+
+Am Besten lösen die Schüler konkrete Probleme oder Verbessern ihren (Schul-) Alltag.
+
+Es könnte auch sehr große Projekte geben, die die Schüler die ganze Schullaufbahn begleiten können, z.B. ein Haus bauen, eine Unternehmen gründen oder das Schulgebäude erweitern.
+
+### Leben
+
+Zusätzlich sollte die Schule Kinder und Jugendliche auf das Leben vorbereiten. Dinge wie Gesundheit, Finanzen, Beziehungen und vieles mehr sollte den Kindern beigerbacht werden. Sie sollen selbstständig sein und wissen, wie sie Probleme lösen und sich ihr Leben aufbauen können.
+
+Aktuell muss sich jeder diese Dinge selbst beibringen. Viele der Themen wirken aber nicht sehr interessant (Steuern, gesunde Ernährung), sind aber sehr wichtig für ein gutes Leben. Wenn man die Grundlagen in der Schule lernen würde, hätte man zumindest einen Überblick und kann bessere Entscheidungen treffen.
+
+### Lernzentrum
+
+Die Schüler könnten auch Lernzentren aufbauen und verbessern, sodass es in jedem Dorf einen Ort zum Lernen und Ausprobieren gibt. Die Lernzentren dienen allen Anwohnern, auch den Erwachsenen um neues Auszuprobieren, lebenslang zu lernen und Nutzen.
+
+Sie bestehen aus speziellen "Klassenräumen", Werkstätten, Bibliothek, Gärten und können zusätzlich als Gemeinschaftsräume genutzt werden. Eine Art Makerspace, offen für alle, die etwas lernen oder machen wollen.
+
+Es wäre auch ein guter Ort an dem man Unternehmen gründen könnte. 
+
+Eine Kombination aus Schule, Universität, Makerspace, VHS, Gründerzentrum und vielem mehr. Es soll die Menschen dabei unterstützen sich selbst zu helfen.
+
+Es kann sich zu einem Lebensmittelpunkt im Dorf, wie früher die Kirche oder die Kneipe entwickeln. So kann auch ein Gemeinschaftsgefühl aufgebaut werden.
+
+## Notizen
+
 - Projektbasiertes Lernen
 - Lernen in Computerspielen
 - Eigenes Tempo

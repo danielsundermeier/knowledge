@@ -12,6 +12,17 @@
 - Kein Ordner mit nur einer Datei
 - Alle Überschriften bekommen ein a Tag zum Verlinken
 
+## Aufbau
+
+- [Vorlage](https://onepotpony.com/)
+- Einführung
+- Ziel
+- Meine Lösung
+    - Zusammenfassung
+    - Lösungsweg, warum mache ich es so
+    - Schritte
+- Links, etc.
+
 ## Digital gardens
 
 - [Second Brain](https://github.com/KasperZutterman/Second-Brain#readme) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱

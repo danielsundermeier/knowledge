@@ -85,3 +85,12 @@
 [The Long Game 86: Mental Wealth, Not Having Time, the Decline of Rationality](https://thelonggame.xyz/p/the-long-game-86-mental-wealth-not)
 
 > "The only way to find more time is to remove the unnecessary. Fewer commitments, fewer projects, lower expectations on what doesn’t matter so you can focus better on what truly matters."
+
+[Feeling Good: Justin’s Program](https://justinkan.com/feed/feeling-good-justins-program)
+
+> "ironically, because as a society we are collectively scared to express how we feel, authentic connection can be a very rare treat for people"
+
+> "The big realization for me was that emotions (anger, sadness, fear, joy, excitement) are just a signal. Emotions are neither good nor bad; they are just a form of data."
+
+> "I’ve become committed to feeling all my emotions (and not trying to avoid them through escapes like drinking alcohol or distracting myself through media). Also, I’ve tried to develop the skill of being able to name those emotions explicitly with myself and other people (“I feel anger right now”) as a way to drive more deeply into the underlying interpersonal issues (“I think this may be because I don’t feel heard by you in this conversation”)."
+

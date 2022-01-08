@@ -47,7 +47,6 @@ Mit einem großen Haus muss ich auch mehr aufräumen, ich kaufe mehr Dinge, um d
 
 Außerdem hält das Glücksgefühl nachdem ich etwas gekauft habe nur kurz an. Ich gewöhne mich schnell an das Neue und bin wieder an der gleichen Stelle wie vorher.
 
-
 #### Links
 
 - [Joe Rogan - Avoid The Trap of Materialism If You Want To Succeed In LIFE](https://www.youtube.com/watch?v=q60LG8y3BHs)
@@ -97,7 +96,7 @@ Dabei ist es egal, ob ich Möbel baue, Texte schreibe oder mich künstlerisch be
 
 Wahrscheinlich der wichtigste Baustein eines glücklichen Lebens
 
-Wenn ich die ersten drei Punkte erreicht habe, kommen die nächsten beiden von alleine. 
+Wenn ich die ersten drei Punkte (Gesundheit, Karriere, Hobby) erreicht habe, kommen die nächsten beiden von alleine. 
 
 Wenn ich ein attraktives Leben führe, wollen andere Menschen daran teilhaben. Dadurch wird das Leben noch reicher und es bieten sich mehr Gelegenheiten. 
 
@@ -133,7 +132,9 @@ Ich kann alles im Leben als Training sehen.
 
 ## Instant Gratification
 
-- Drogen, Parties, Konsum
+- Beispiele: Social Media, TV, Drogen, Parties, Konsum
+- Selten machen
+- Belohnung für Delayed Gratification
 
 Ich glaube dass dieser Weg nur kurzfristig funktioniert und zu einem insgesamt schlechteren Leben führt, auch wenn der aktuelle Moment vielleicht sehr gut ist.
 
@@ -142,7 +143,7 @@ Ich glaube dass dieser Weg nur kurzfristig funktioniert und zu einem insgesamt s
 Ich glaube ein produktives Leben mit dem Anspruch die beste Version seiner Selbst zu werden führt zu einem Zufriedenen Leben ohne etwas zu bereuen.
 Der Weg dahin führt über das Aufschieben von Belohnungen.
 
-- Training, Lesen, Lernen, Investieren, Gärtnern
+- Beispiele: Training, Lesen, Lernen, Investieren, Gärtnern
 
 Das Problem ist, dass man die Erfolge erst nach einiger Zeit sieht. Bis dahin ist es schwer weiter zu "verzichten", ohne etwas davon zu haben.
 
@@ -184,4 +185,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [The Ancient Art of Using Time Well](https://www.raptitude.com/2021/04/the-ancient-art-of-using-time-well/)
 - [Why You Don't Feel Like Doing Anything](https://www.reddit.com/r/selfimprovement/comments/rggcch/why_you_dont_feel_like_doing_anything/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [I’ve found only 4 things that increase my baseline happiness: 1 - Time outside, ideally in nature 2 - Physical activity, preferably rigorous 3 - Meaningful relationships, with lots of play 4 - Work that has purpose, where I have agency](https://twitter.com/ankurnagpal/status/1476574206435418121)
-
+- [Feeling Good: Justin’s Program](https://justinkan.com/feed/feeling-good-justins-program)

@@ -65,6 +65,7 @@ Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. E
 Ich schaffe das, indem ich Fragen stelle. Ich möchte in jedes Gespräch mit der Einstellung gehen, dass ich etwas von der anderen Person lernen kann.
 
 - Mögliche Gesprächsthemen anbieten (dich mich interessieren), auf die der Gesprächspartner eingehen kann.
+- Fragen aussführlich beantworten (Nicht nur "Ja" oder "Nein", sondern Ja, und ...) und weitere Themen mit einbeziehen.
 
 > "Find stuff that's interesting and fun and do them with and without a girl. Join clubs, go somewhere to watch your favorite sports team. Find an Irish bar where the barman knows you by name -a great place to take a date on a winter night. This is more about you bettering yourself. Honestly if you are out having a good time women will want to join you." - [How to become a "boyfriend" material from a "husband" material?](https://www.reddit.com/r/AskMen/comments/qulz07/how_to_become_a_boyfriend_material_from_a_husband/hkr1rn8/?utm_source=share&utm_medium=web2x&context=3)
 

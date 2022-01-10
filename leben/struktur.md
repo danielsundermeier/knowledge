@@ -28,7 +28,7 @@ Vieles ausprobieren.
 Ich versuche meinem perfekten Tag immer näher zu kommen. Dafür ändere ich viele kleine Dinge und überprüfe, ob es mir gefällt oder nicht.
 Je nach dem mache ich weitere Änderungen.
 
-Ich fange mit einer Sache an. (z.B. feste Schlafens- oder Essenszeiten, Training). Von dort aus hänge ich weitere Gewohnheiten an, bis mein ganzer Tag strukturiert ist und ich weiß, wann ich was mache.
+Ich fange mit einer Sache an. (z.B. feste Schlafens- oder Essenszeiten, Training). Von dort aus hänge ich weitere [Gewohnheiten](./gewohnheiten.md) an, bis mein ganzer Tag strukturiert ist und ich weiß, wann ich was mache.
 
 Von da an ist es nur noch eine Frage der Wiederholungen. Je besser ich mich an die Struktur halte, desto besser wird mein Leben. Nach 10 Jahren möchte ich mein Leben so sehr verbessert haben, dass ich den Fuß etwas vom Gas nehmen kann, mir mehr gönne und meinen Lebenstil langsam anpasse. 
 

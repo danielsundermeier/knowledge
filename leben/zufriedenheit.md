@@ -122,6 +122,10 @@ Je schwieriger die Aufgabe, desto größer die Zufriedenheit.
 - Ernährung
 - Neues Lernen / Ausprobieren
 
+### Links
+
+- [The truth about retiring at age 31 with $100,000,000](https://www.youtube.com/watch?v=ahslH-8qoFY)
+
 ### Training
 
 Ich kann alles im Leben als Training sehen.

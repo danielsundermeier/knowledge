@@ -94,3 +94,37 @@
 
 > "I’ve become committed to feeling all my emotions (and not trying to avoid them through escapes like drinking alcohol or distracting myself through media). Also, I’ve tried to develop the skill of being able to name those emotions explicitly with myself and other people (“I feel anger right now”) as a way to drive more deeply into the underlying interpersonal issues (“I think this may be because I don’t feel heard by you in this conversation”)."
 
+[Thinking About Quality](https://tynan.com/quality/)
+
+> "The net result of surrounding yourself with high quality is that friction just disappears. I have no real frustrations with anything I own. They always work as expected and sometimes surprise me because I haven’t thought about the function as deeply as designer. Friction is also reduced because you need to replace items far less frequently. I shop for a shirt once a year, and only get one. Same with pants. I may never buy another watch again."
+
+[Reconciling Adventure and Work](https://tynan.com/reconciling/)
+
+> "When I think about my life so far, the parts that stick out are the quality time I’ve spent with friends and family and the work I’ve done that I feel is useful or important. That’s really about it. Of course I remember movies I’ve seen, food I’ve eaten, and things I’ve bought, but those are hills compared to the two mountains of quality time and good work."
+
+> "Both my finances and my friendships are at good levels, but I know that finances have diminishing returns whereas friendships don’t, so I prioritize friendships."
+
+> "No matter what your job is, there is someone who loves that job. Think about that. I’ve met people who love working fast food. What’s so different about them? Just their attitude, and you can change your own. When you are engaged in your work you do a better job and require less outside stimulation (which often costs money). If you “have” to work a job that’s not your dream job, why not work on making it your dream job?"
+
+> "Do whatever you want, but do it because you’ve organized your life such that your short term wants align with your long term wants, and expect that it may take years to mentally and logistically be set up to do that."
+
+[How to be Competent](https://tynan.com/competent/)
+
+> "I define competence at the ability to get an undefined task done in an efficient manner. The skills that go into that are primarily time management and ability to learn. Someone who is very competent can take a random task in a field in which he’s not an expert, figure out how to get it done, and then complete it."
+
+> "The more you do tasks in subjects with which you’re unfamiliar, the more you’ll learn about how you learn and work."
+
+> "It’s a great feeling to know that you can handle anything life throws at you, and you become very useful to other people."
+
+[Utility on Investment](https://tynan.com/utility/)
+
+> "The end result of all of this is that a large portion of my discretionary spending goes to things that will both make my life cheaper and better in the future."
+
+> "Every year I have fewer and fewer mandatory expenses, so I can use more of my money to invest further in utility and/or to invest for a return which can perpetually fund my extremely low living costs."
+
+> "And when you’re thinking about investing money, think beyond pure financial returns. How could you invest money that would lower your cost of living for years to come? How could you spend it to permanently make your life better? What resource could you buy that would create experiences for you and your friends?"
+
+> "Most people’s expenses increase all the time, as if it’s some law of nature that this is how life has to be. But with good capital allocation you can continually increase your quality of life and lower your costs. That’s how you buy freedom, in a way."
+
+
+

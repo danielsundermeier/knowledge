@@ -58,7 +58,14 @@ Ich freue mich immer über Anregung und Feedback. Schick mir einfach eine Nachri
 
 ## Lebensbereiche
 
-Meine Lösungen zu jedem Bereich. Erfahrungen, Tipps & Tricks.
+- Meine Lösungen zu jedem Bereich. 
+- Starten
+- Ausführbare Schritte
+- Erste Schritte
+- Levels (Schwierigkeit erhöhen)
+- Erfahrungen, Tipps & Tricks.
+
+### Inhalt
 
 - Achtsamkeit 
 - Emotionen / Perspektive

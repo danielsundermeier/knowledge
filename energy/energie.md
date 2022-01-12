@@ -43,6 +43,7 @@ Ist es wirklich so einfach?
 - [New energy storage tech breathing life and jobs back into disused coal power plants](https://www.youtube.com/watch?v=edVjYofLYc4)
 - [Energy Vault](https://www.energyvault.com/ev1) - HARNESSING THE POWER OF GRAVITY
 - [EnergyDome](https://energydome.com/) - Using CO2 against climate change
+- [Ocean Battery](https://oceangrazer.com/) - The Ocean Battery is a scalable, modular solution for utility scale energy storage that is produced by renewable sources such as wind turbines and floating solar farms at sea.
 
 ### Batterien
 

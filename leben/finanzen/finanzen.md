@@ -25,6 +25,8 @@ Das führt aber nicht unbedingt zu einem guten Leben.
 Ich glaube ab einer gewissen Summe kann man das Geld nicht mehr sinnvoll für sich selbst ausgeben. Was mache ich mit 10 Häusern?
 Ich glaube, dass der Gedanke daran cool ist, es aber keinen wirklichen Mehrwert für die Zufriedenheit bringt.
 
+Ich glaube man muss das Gefühl von Überfluss (zu viel) gehabt haben, um zu wissen, was genug bedeutet.
+
 Ich weiß nicht genau wieso, aber ich halte 10.000.000 Euro für eine Grenze.
 Mit so viel Geld kann ich sehr gut leben und mir alle meine Wünsche erfüllen, ohne je über Geld nachdenken zu müssen.
 
@@ -123,6 +125,7 @@ PBNKDEFF011
 - [Nature Shows How This All Works](https://www.collaborativefund.com/blog/nature-shows-how-this-all-works/)
 - [A catalog of wealth-creation mechanisms](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html)
 - [Financial Phases to Follow](https://tynan.com/phases/)
+- [Assets, Experiences, and Indulgences](https://tynan.com/moneyspent/)
 
 ## Videos
 

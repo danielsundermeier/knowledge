@@ -46,6 +46,7 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 ## Agroforstwirtschaft
 
 - [Wie Agroforstwirtschaft die Umwelt schützt](https://www.youtube.com/watch?v=UGx-X-b9c2Y)
+- [The Incredible Benefits of Agroforestry on Small Farms](https://www.youtube.com/watch?v=iO0ycMkr8lo)
 
 ## Weide
 

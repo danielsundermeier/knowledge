@@ -5,6 +5,8 @@
 - Mit geschlossenen Augen auf die Atmung konzentrieren
 - Geführte Meditation
     + spotify
+
+![](meditieren.jpeg)
     
 ### Effekte
 

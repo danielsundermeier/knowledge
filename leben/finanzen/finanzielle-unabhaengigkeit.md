@@ -158,6 +158,7 @@ Ich kann mich dann entweder auf ein sehr erfolgreiches Projekt konzentrieren ode
 - [I hustled like mad in my 20s. Here’s what it cost me.](https://thewokesalaryman.com/2021/08/27/i-hustled-like-mad-in-my-20s-heres-what-it-cost-me)
 - [People who cashed out early and stopped working: What is your life like?](https://news.ycombinator.com/item?id=28798089) - "Humans are built for problem solving and the struggle and the adventure of challenge"
 - [Three Years of Early Retirement – Mindset Changes and Realizations](https://minafi.com/three-years-of-early-retirement) 
+- [Retire First](https://tynan.com/retire/)
 
 ## Videos
 

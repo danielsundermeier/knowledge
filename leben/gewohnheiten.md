@@ -125,3 +125,5 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - [How To Understand Systems](https://neilkakkar.com/understanding-systems.html)
 - [Consistency is Key](https://tynan.com/thekey/)
 - [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)
+- [Consider, Commit, Lock](https://tynan.com/consider-commit-lock/)
+

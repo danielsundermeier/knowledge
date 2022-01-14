@@ -14,6 +14,8 @@ Erst wenn die Gewohnheit wirklich etabliert ist, befasse ich mich mit einer ande
 
 Irgendwann ist es normal das "Gute" zu tun und ich denke nicht mehr darüber nach.
 
+Ich habe volle Kontrolle über meinen Tag, weil die Grundlagen durch meine Gewohnheiten "automatisch" erledigt werden und ich mir keine Gedanken darüber machen muss.
+
 ## Ziel
 
 Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewusster erleben kann.

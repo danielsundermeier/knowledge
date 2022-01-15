@@ -70,6 +70,7 @@ Zeit in der Natur verbringen
 - [This Is How To Have A Long Awesome Life](https://www.bakadesuyo.com/2021/08/longevity/)
 - [DiagnosticDetectives](https://diagnosticdetectives.de/) - Wir möchten die Gesundheit Ihrer Familie nachhaltig verbessern.
 - [How do I lose weight after 40?](https://www.quora.com/How-do-I-lose-weight-after-40/answer/Timothy-James-117?ch=10&oid=318699246&share=3fed67dc&srid=uoDLKq&target_type=answer)
+- [Die ultimative Anleitung für eine richtige Haltung](https://www.ergotopia.de/infografiken/die-richtige-haltung)
 
 ## Videos
 

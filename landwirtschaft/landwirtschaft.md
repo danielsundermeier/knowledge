@@ -33,6 +33,7 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - [Polyface Farm](https://www.polyfacefarms.com/)
 - [Richard Perkins](https://www.youtube.com/user/mrintegralpermanence)
 - [Gabe Brown](http://brownsranch.us/soil-health/)
+- [Parc Carreg](https://www.parccarreg.com/) - Organic Duck Eggs
 
 ## Circular Agriculture
 

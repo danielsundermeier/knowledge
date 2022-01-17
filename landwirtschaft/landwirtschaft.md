@@ -67,6 +67,10 @@ Mehr Daten auf Produkt:
 
 - [FederWaldHof](https://federwaldhof.de)
 
+## Cellular Agriculture
+
+- [Fleisch vom Acker, Gemüse aus dem Tank](https://www.spektrum.de/news/essen-aus-dem-bioreaktor-fleisch-vom-acker-gemuese-aus-dem-tank/1968235?utm_source=pocket-newtab-global-de-DE)
+
 ## Links
 
 - [Regenerative Landwirtschaft: Der Pionier zeigt wie - mit Joel Salatin](https://www.youtube.com/watch?v=DavtMuiPM1M)

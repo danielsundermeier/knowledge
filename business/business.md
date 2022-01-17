@@ -66,6 +66,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 ## Verkaufen
 
 - [Improve your salesmanship](https://www.youtube.com/playlist?list=PLkVbIsAWN2lvMDgewjAldPf3svd-cdEnL)
+- [What is the best sales advice you can give?](https://qr.ae/pG3e4i)
 
 ## Bezahlung
 

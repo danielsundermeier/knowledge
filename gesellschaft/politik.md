@@ -60,6 +60,30 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
 - Langfristigkeit!
 - Experimentieren -> Fehler eingestehen können
 
+## Währung
+
+- Energiebasiert
+    - Mit genug Energie können alle (materiellen) Probleme gelöst werden
+        + Rohstoffe gewinnen
+        + Produktion
+        + Transport
+        + Heizen
+    - Verfügbare "öffentliche" Energie aufteilen
+        + Jeder bekommt ein Energiebudget
+        + Muss für komfortables Leben reichen
+    - Anreiz mehr Energie zu produzieren
+        + Energie nutzen, um mehr private Energie zu produzieren
+        + Besserer Lebensstil
+        + Besondere Interessen / Hobbys
+    - Keine Zinsen / Dividenen
+        + Nutzen, speichern oder verlieren
+    - Energie bündeln, um größere Projekte umzusetzen
+        + Mehr Energie produzieren
+        + Effizienzsteigerung
+        + Forschung
+        + Automatisierung
+        + Produktionstechniken
+
 ### E-Government
 
 Alles elektronisch verwalten können

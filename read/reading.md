@@ -1,13 +1,12 @@
 # Reading
 
-[Grappling with vastness](https://notebook.drmaciver.com/posts/2022-01-08-08:36.html)
+[Wellness Wisdom vol.45: 30 pieces of unsolicited advice ](https://wellnesswisdom.substack.com/p/-wellness-wisdom-vol45-30-pieces)
 
-> "Choosing smaller problems allows me to grapple with things that are my size, and that I know I can handle, but as I expand the scope, I have to grapple with a world of possibilities that is vastly larger than me, and could easily crush me as and when it fights back, and honestly, yeah, this scares me."
+> "The point is to live a life where everyday is an expression of my authentic self."
 
-[Would You Trade Places With Someone Else?](https://chrisguillebeau.com/would-you-trade-places-with-someone-else)
+> "Surrounding yourself with people and ideas that project a higher ceiling of self-belief than your current threshold, raises it through osmosis. You see that these people are self-doubting and flawed just like you, yet believe in themselves. You can too."
 
-> "Therefore, you now have the solution to comparison envy: ask yourself if you’d trade your life for theirs."
+> "An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company."  - Ian McEwan 
 
-[Inflation – Should We Be Worried?](https://www.mrmoneymustache.com/2022/01/11/inflation-should-we-be-worried/)
+> "If I’m down or in a rut, I force myself to move my body, even if only a little bit."
 
-> "The magic of economics is that in the long run, prices for almost anything compete themselves all the way down to the point where it is barely profitable to make a product. And this is why over time, life keeps getting cheaper and our standard of living keeps rising. Despite the fact that inflation keeps happening in the background."

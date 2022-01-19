@@ -101,6 +101,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How to Start a Blog](https://www.freecodecamp.org/news/how-to-start-a-blog-book/)
 - [How I Write A Book in 14 Days](https://tynan.com/write/)
 - [Write for yourself](https://www.chrisbehan.ca/posts/write-for-yourself)
+- [Prose for Programmers](https://proseforprogrammers.dev/)
 
 ## Inspiration
 

@@ -61,6 +61,7 @@ Bevor ich programmiere, möchte ich mir genau aufschreiben, was ich vorhabe, wel
 
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [Why Is Naming Things Hard?](https://neilkakkar.com/why-is-naming-things-hard.html)
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/#fundamentals)
 
 ## Setup
 

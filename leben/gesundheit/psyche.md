@@ -5,7 +5,7 @@
 - Mit geschlossenen Augen auf die Atmung konzentrieren
 - Geführte Meditation
     + spotify
-
+    + [Das Meditieren beginnen](https://open.spotify.com/episode/1Cojh3ByBDQiHiRj6siyMI?si=oSXg9MiMTc2NYR0zGeYJ5A&nd=1)
 ![](meditieren.jpeg)
     
 ### Effekte

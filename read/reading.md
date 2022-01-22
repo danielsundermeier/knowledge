@@ -10,3 +10,7 @@
 
 > "If I’m down or in a rut, I force myself to move my body, even if only a little bit."
 
+[Casualties of Your Own Success](https://www.collaborativefund.com/blog/casualties-of-your-own-success/)
+
+> "The most dominant creatures tend to be huge, but the most enduring tend to be smaller. T-Rex < cockroach < bacteria."
+

@@ -31,6 +31,10 @@
 - Keine Ablenkungen
 - Im Moment sein und wahrnehmen
 
+### Links
+
+- [](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+
 ## Sonnenschein
 
 - Jeden Tag mindestens 30 Minuten draußen verbringen -> Vitamin D

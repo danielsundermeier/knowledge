@@ -1,8 +1,8 @@
 # Planung
 
-| [Tag](./tag) | [Woche](./woche) | [Monat](./monat) | [Jahr](./jahr) |
+| [Tag](./tag) | [Woche](./woche) | [Monat](./monat) | [Jahr](./jahr) |
 | --- | ----- | ----- | ---- |
-| Ausführbare Aufgaben für nächsten Tag planen | Aufgaben aus Projekten erstellen | Projekte für den Monat planen | Ziele für das Jahr festlegen
+| Ausführbare Aufgaben für nächsten Tag planen | Aufgaben aus Projekten erstellen | Projekte für den Monat planen | Ziele für das Jahr festlegen
 
 ## Links
 

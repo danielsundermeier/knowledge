@@ -94,6 +94,7 @@ wind turbines.
 
 - [Biologische Methanisierung](https://www.youtube.com/watch?v=escqKaSqLmQ)
 - [Kläranlage produziert Strom für 7000 Haushalte](https://www.ingenieur.de/technik/fachbereiche/umwelt/klaeranlage-produziert-strom-fuer-7000-haushalte/)
+- [Wie Abwasser zum Rohstoff wird](https://www.spektrum.de/news/klaeranlagen-faekalien-zu-geld-machen/1971448)
 
 ## Bio-Brennstoffzelle
 

@@ -12,6 +12,7 @@
 - [The Complete How To Guide of Bash Functions](https://www.shell-tips.com/bash/functions/)
 - [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner.
 - [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 
 ## Snippets
 

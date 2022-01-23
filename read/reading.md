@@ -14,3 +14,15 @@
 
 > "The most dominant creatures tend to be huge, but the most enduring tend to be smaller. T-Rex < cockroach < bacteria."
 
+[How I plan](https://stitcher.io/blog/how-i-plan)
+
+> "Whenever I try to shove my creative energy into a some kind of system, I find that it utterly fails."
+
+> "Sure, we still plan short-term things, but there's definitely not a long-term plan we hold on to. There are dreams and hopes, but we don't expect all of them to become a reality."
+
+> "I'll see where this whole online adventure takes me step by step, and I'm ok with that. I actually find it very liberating."
+
+[The Time Trap of Productivity](https://moretothat.com/the-time-trap-of-productivity/)
+
+> "But in a culture so focused on managing time, we have become subservient to it. By scheduling your day down to the last minute, you introduce an anxiety from managing your real-time progress to an imagined vision."
+

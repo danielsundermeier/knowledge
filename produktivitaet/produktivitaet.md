@@ -16,6 +16,8 @@ Sie konzentrieren sich dabei auf die wichtigen Dinge und schaffen deshalb sehr v
 
 Wenn ich den ganzen Tag "hustle" (= nur arbeiten und schlafen), habe ich keine Möglichkeit über bessere Lösungen nachzudenken. Außerdem und viel wichtiger, es fehlt die Erholung und ich bin irgendwann zu erschöpft, um wirklich produktiv zu sein. Diese Art zu arbeiten ist nicht nachhaltig.
 
+Ein guter Ausgleich ist eine Tätigkeit, bei der man etwas kreatives mit seinen Händen macht (Möbel bauen, Gärtnern, Handwerk, ...).
+
 Ich falle dann in ein Loch und bin sehr unproduktiv. Dann fühle ich mich schlecht und will die verlorene Zeit mit noch mehr Arbeit aufholen.
 
 Das ist mir oft bei der Ernährung passiert. Ich halte mich sehr genau an meinen Ernährungsplan, irgendwann kommt der Zeitpunkt an dem ich Heißhunger bekomme und ich viel zu viel esse. Ich möchte das dann wieder gut machen, indem ich einen noch strengeren Plan aufstelle. Es ist ein Teufelskreis.

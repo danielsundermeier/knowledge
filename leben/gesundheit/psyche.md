@@ -70,6 +70,12 @@
 
 Gefühlskompass
 
+## Negativität
+
+- In allem Negativen etwas Positives sehen
+- Negative Gefühle führen zu weiteren negativen Gefühlen -> Teufelskreis
+    + Wenn ich mich über etwas aufrege, rege ich mich leichter über andere Dinge auf
+
 ## Links
 
 - [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)

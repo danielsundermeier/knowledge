@@ -8,3 +8,6 @@
 
 > "My work as a scientist has taught me that alternative hypotheses need to be explored, and one that feminists often fail to consider is that women and men are simply different and on average may have different desires leading to different pursuits, even if there is overlap."
 
+[Don't Shine The Turd](https://www.collaborativefund.com/blog/dont-shine-the-turd/)
+
+> "So this is what I try to do: Be up-front. Figure out the problem. Create a plan to reverse or minimize it. And always own up to it."

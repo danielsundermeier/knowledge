@@ -160,6 +160,7 @@ wind turbines.
 - [Wärmenetze für die kommunale Wärmewende](https://www.youtube.com/watch?v=DNfWynbxwiA)
 - [Kalte Nahwärme](https://de.wikipedia.org/wiki/Kalte_Nahw%C3%A4rme) - Kalte Nahwärme beziehungsweise Kalte Fernwärme ist eine technische Variante eines Wärmeversorgungsnetzes, das mit niedrigen Übertragungstemperaturen in der Nähe der Umgebungstemperatur arbeitet und daher sowohl Wärme als auch Kälte bereitstellen kann.
 - [Innovativer Speicher: Zeolithkügelchen speichern Wärme dauerhaft ohne Energieverlust](https://www.trendsderzukunft.de/innovativer-speicher-zeolithkuegelchen-speichern-waerme-dauerhaft-ohne-energieverlust/)
+- [https://www.energiepflanzen.com/elefantengras-heizen/](https://www.energiepflanzen.com/elefantengras-heizen/)
 
 ## Genossenschaften
 

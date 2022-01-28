@@ -11,3 +11,9 @@
 [Don't Shine The Turd](https://www.collaborativefund.com/blog/dont-shine-the-turd/)
 
 > "So this is what I try to do: Be up-front. Figure out the problem. Create a plan to reverse or minimize it. And always own up to it."
+
+[Create For Just One Hour Each Day](https://moretothat.com/create-for-just-one-hour-each-day/)
+
+> "If you’re able to string together an hour each day on a creative endeavor, the results over time will be astronomical."
+
+> "This is the magic of creativity: The commitment to starting is the force that propels you throughout the entire work."

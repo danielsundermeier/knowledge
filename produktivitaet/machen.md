@@ -41,3 +41,4 @@ Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins 
 - [Removing Friction](https://tynan.com/friction/)
 - [Ask HN: How do you force yourself to do boring tasks?](https://news.ycombinator.com/item?id=29725668)
 - [Writing as yourself](https://notebook.drmaciver.com/posts/2022-01-07-14:02.html)
+- [Create For Just One Hour Each Day](https://moretothat.com/create-for-just-one-hour-each-day/)

@@ -17,3 +17,13 @@
 > "If you’re able to string together an hour each day on a creative endeavor, the results over time will be astronomical."
 
 > "This is the magic of creativity: The commitment to starting is the force that propels you throughout the entire work."
+
+[“The cost of sexual liberation” for women](https://theredquest.wordpress.com/2022/01/27/the-cost-of-sexual-liberation-for-women/)
+
+> "one twentysomething friend tells me that “photogenic” male friends find female attention so abundant that some are “quite sick of the attention.”"
+
+> "Women strongly prefer hot, tall, exciting guys."
+
+> "Hot women prefer buff guys with social skills over the guys building civilization and society."
+
+> "In human sexuality, women are collectively the choosers, men the chosen."

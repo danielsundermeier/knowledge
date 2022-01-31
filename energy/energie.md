@@ -72,6 +72,7 @@ Ist es wirklich so einfach?
 - [Solaranlage: Kosten & Wirtschaftlichkeit im Überblick](https://www.energie-experten.org/erneuerbare-energien/solarenergie/solaranlage/kosten)
 - [Diese Solarzellen aus Abfall brauchen kein Sonnenlicht!](https://www.youtube.com/watch?v=T7iGVymy6IU)
 - [AuREUS: Aurora Renewable Energy & UV Sequestration](https://www.jamesdysonaward.org/2020/project/aureus-aurora-renewable-energy-uv-sequestration/)
+- [Solar PV's Path to Dominance](https://austinvernon.site/blog/solar.html)
 
 ### Agrivoltaics
 

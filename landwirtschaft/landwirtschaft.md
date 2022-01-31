@@ -79,3 +79,4 @@ Mehr Daten auf Produkt:
 - [Guerilla Gardening](https://de.wikipedia.org/wiki/Guerilla_Gardening) - "Als Guerilla Gardening (span. guerrilla „kleiner Krieg“ und engl. gardening „Gärtnern“) wurde ursprünglich die heimliche Aussaat von Pflanzen als subtiles Mittel politischen Protests und zivilen Ungehorsams im öffentlichen Raum bezeichnet, vorrangig in Großstädten oder auf öffentlichen Grünflächen"
 - [Regen Network](https://www.regen.network/) - Platform for a Thriving Planet
 - [Healthy Soil is the Real Key to Feeding the World](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
+- [Rural America is Gearing Up For a Generation of Change](https://austinvernon.site/blog/ruralfuture.html)

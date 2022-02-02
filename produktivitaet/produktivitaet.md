@@ -40,6 +40,8 @@ Das ist auch mein Ziel: Genau wissen, was ich im nächsten Arbeitsblock machen m
 
 - Fokussierte Blöcke für Produktivität (90 min), anschließend Erholen
     + 3x 90 Minuten pro Tag
+    
+- Tätigkeiten an Gefühlslage anpassen
 
 ## Ziele
 

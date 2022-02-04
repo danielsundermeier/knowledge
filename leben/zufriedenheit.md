@@ -16,6 +16,7 @@ Ich glaube etwas Leiden gehört zu einem guten Leben dazu. Dadurch habe ich den 
 Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 
 - Glücklich sein: Nichts wollen, nichts bewerten, den Moment genießen
+- Immer das Positive in allen Situationen sehen
 
 ## Perma
 
@@ -190,3 +191,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [Why You Don't Feel Like Doing Anything](https://www.reddit.com/r/selfimprovement/comments/rggcch/why_you_dont_feel_like_doing_anything/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [I’ve found only 4 things that increase my baseline happiness: 1 - Time outside, ideally in nature 2 - Physical activity, preferably rigorous 3 - Meaningful relationships, with lots of play 4 - Work that has purpose, where I have agency](https://twitter.com/ankurnagpal/status/1476574206435418121)
 - [Feeling Good: Justin’s Program](https://justinkan.com/feed/feeling-good-justins-program)
+- [How to Be Happy. Always.](https://tynan.com/how-to-be-happy-always/)

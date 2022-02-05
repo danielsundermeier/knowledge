@@ -102,6 +102,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [How I Write A Book in 14 Days](https://tynan.com/write/)
 - [Write for yourself](https://www.chrisbehan.ca/posts/write-for-yourself)
 - [Prose for Programmers](https://proseforprogrammers.dev/)
+- [Learning and teaching](https://notebook.drmaciver.com/posts/2022-01-29-16:02.html)
 
 ## Inspiration
 

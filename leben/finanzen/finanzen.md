@@ -65,6 +65,10 @@ Ich denke dass sich auch gemeinnützige Projekte selbst finanzieren sollten, wei
 
 [Investments](./investments.md)
 
+### Kaufen
+
+- Entweder das Beste oder das Billigste (Barbell Strategy)
+
 ## Regeln
 
 - Nicht von FOMO (Fear of missing out) leiten lassen -> get rich slowly 

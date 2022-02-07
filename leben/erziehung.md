@@ -80,3 +80,4 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 - [The Stats Guy: Career advice for your kids? Here’s how to prepare them for the future of work](https://thenewdaily.com.au/finance/work/2021/07/25/stats-guy-career-advice/)
 - [What is the best way to grow up?](https://qr.ae/pGDQU9)
 - [little-kiddo-learning](https://github.com/obensource/little-kiddo-learning) - Introducing Kiddos to a Big World of Awesomeness
+- [Dadditude](https://www.dadditude.app/) - The Happy Dad App

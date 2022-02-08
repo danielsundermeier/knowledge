@@ -33,3 +33,9 @@
 > "Many women say, “I would have never swiped right on my husband.”"
 
 > "Typically, a woman will give you three dates to feel a spark. Three dates is roughly equal to 5 - 10 hours spent together. Most quality men can’t engineer attraction fast enough and so when women don’t feel a spark they move onto the next match."
+
+[The false mystique of the top guy](https://theredquest.wordpress.com/2022/02/07/the-false-mystique-of-the-top-guy-and-what-revealed-preferences-show-women-really-want-2/)
+
+> "Scarcity has moved to the ability to make women feel."
+
+> "Women want peak experiences, peak feelings, strong emotions"

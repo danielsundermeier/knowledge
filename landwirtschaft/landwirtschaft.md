@@ -80,3 +80,4 @@ Mehr Daten auf Produkt:
 - [Regen Network](https://www.regen.network/) - Platform for a Thriving Planet
 - [Healthy Soil is the Real Key to Feeding the World](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
 - [Rural America is Gearing Up For a Generation of Change](https://austinvernon.site/blog/ruralfuture.html)
+- [Relay Cropping of Soybean into Winter Wheat](https://www.osciaresearch.org/current-projects/relay-cropping-soybean-into-winter-wheat/)

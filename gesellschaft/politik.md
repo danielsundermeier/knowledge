@@ -60,6 +60,30 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
 - Langfristigkeit!
 - Experimentieren -> Fehler eingestehen können
 
+## Welt
+
+### Regionen
+
+- Welt in 1000 Regionen ähnlicher größe (2-10 Millionen Einwohner) einteilen
+   + maximale 
+    + natürliche Grenzen z.B. Berge, Seen
+    + wie eine Nation heute
+    
+### Städte
+
+- Städte und Dörfer gleichmäßg in der Region verteilen
+    + Ökonomische und ökoligische Vorteile
+    + Größe
+        * 1x 1.000.000 Einwohner
+        * 10x 100.000 Einwohner
+        * 100x 10.000 Einwohner
+        * 1000x 100 Einwohner
+- Städte über weiter Gebiete in Korridoren aufbauen
+    + max 1 km breit
+    + Jeder ist max 10 Minuten von der Natur entfernt
+    + Dazwischen Landwirtschaft und Naturgebiete (mindestens 1km breit)
+    + Hauptstraßen und Öffentlicher Nahverkehr in der Mitte der Korridore
+
 ## Währung
 
 - Energiebasiert
@@ -91,6 +115,7 @@ Alles elektronisch verwalten können
 - [The Most Advanced Digital Government in the World](https://www.youtube.com/watch?v=nPJ7IVFNEhI)
 - [What a digital government looks like | Anna Piperal](https://www.youtube.com/watch?v=kaU7IPlg9PA)
 - [Taiwan's Digital Democracy](https://consilienceproject.org/taiwans-digital-democracy/)
+- [awesome-egov-de](https://github.com/codedust/awesome-egov-de)
 
 ### Open Data
 

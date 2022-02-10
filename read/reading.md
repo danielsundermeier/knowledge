@@ -39,3 +39,39 @@
 > "Scarcity has moved to the ability to make women feel."
 
 > "Women want peak experiences, peak feelings, strong emotions"
+
+[The Gamification of Life](https://moretothat.com/the-gamification-of-life/)
+
+> "The moment we introduce a metric, a hierarchy develops. And the moment a hierarchy develops, a game is formed. Another uncomfortable truth is that social standing affects the way people talk to one another, and this dynamic bleeds into even the most self-aware minds. Influence is a hell of a drug, and metrics are its primary distributor."
+
+[After The Fact](https://www.collaborativefund.com/blog/after-the-fact/)
+
+> "The typical American family is earning more than ever before. But for many it probably doesn’t feel like that – at least as much as it should – because all of the income gains and then some have been offset with higher spending."
+
+> "So a lot of people are the financial equivalent of the exerciser who burns 500 calories then immediately offsets it with dessert and is frustrated by the lack of progress despite working so hard."
+
+> "But all wealth relies on the ability to receive an extra dollar and say, “I could spend this, and spending feels great, but I’m not going to.” It’s the same as turning down a big meal after working out, and it’s just as hard. All great things are hard."
+
+[How technology can shape our lives — for the better](https://tincture.io/its-time-to-build-health-into-the-os-1783e118b54d)
+
+> "The fact that more than 70 percent of U.S. adults are overweight or obese is not due to the individual moral failings of 200 million people. It is the result of many different industries, each individually optimizing our engagement for their particular goals, but lacking a coherent value system that prioritizes our overall well-being."
+
+> "We have created lifestyles that do not suit the species we have become."
+
+> "It would mean building a culture where people don’t have to think consciously about being healthy, but rather being healthy is a natural consequence of going about your day."
+
+> "Building health into the OS means consciously seeking to optimize our health and well-being through these new technologies that will reinvent transportation, the food experience, the work experience, urban planning, architecture, entertainment and more."
+
+[The only metric of success that really matters is the one we ignore](https://qz.com/1570179/how-to-make-friends-build-a-community-and-create-the-life-you-want/)
+
+> "And I spent my days focused on optimizing myself: Endlessly working and improving, on a permanent quest to do as much as possible in the unforgiving confines of 24 hours. It was the only way I knew how to be. Compete. Excel. Win."
+
+> "But after many nights in emergency rooms and too-long stays in hospitals, of watching my nieces slowly lose their father, I got a glimpse of what community looks like. It was the people who turned up before they were asked, to do things they didn’t have time to do. Neighbors who collected kids from school and came to hospitals to sit. Friends who stayed. Groups of people who materialized to make lunch for four kids for months because their parents couldn’t."
+
+> "Though I didn’t understand it at the time, I was lonely. I didn’t think it possible—I had friends, I had kids, I had no time. How could I be lonely?"
+
+> "The twist was that some pursued self-improvement goals such as getting a new job or making more money, while others tried spending more time with friends and family. A year later, she found those who focused on connecting more with others were happier than those who pursued self-improvement."
+
+> "The thing that makes us happiest in life is other people. And yet other people are often the first thing to fall off our list of priorities."
+
+> "Warren Buffett, a friend of Gates, says that his measure of success comes down to one question: “Do the people you care about love you back?”"

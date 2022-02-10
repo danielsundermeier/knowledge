@@ -67,6 +67,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 
 - [Improve your salesmanship](https://www.youtube.com/playlist?list=PLkVbIsAWN2lvMDgewjAldPf3svd-cdEnL)
 - [What is the best sales advice you can give?](https://qr.ae/pG3e4i)
+- [literally step by step guide to make money on social media](https://www.youtube.com/watch?v=lMaiUFs5RoA)
 
 ## Bezahlung
 

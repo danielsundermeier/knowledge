@@ -192,3 +192,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [I’ve found only 4 things that increase my baseline happiness: 1 - Time outside, ideally in nature 2 - Physical activity, preferably rigorous 3 - Meaningful relationships, with lots of play 4 - Work that has purpose, where I have agency](https://twitter.com/ankurnagpal/status/1476574206435418121)
 - [Feeling Good: Justin’s Program](https://justinkan.com/feed/feeling-good-justins-program)
 - [How to Be Happy. Always.](https://tynan.com/how-to-be-happy-always/)
+- [The only metric of success that really matters is the one we ignore](https://qz.com/1570179/how-to-make-friends-build-a-community-and-create-the-life-you-want/)

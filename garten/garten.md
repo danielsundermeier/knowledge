@@ -31,6 +31,7 @@ Plastikverpackungen in Streifen schneiden und mit Edding beschriften
 - [Bingenheimer Saatgut](https://www.bingenheimersaatgut.de/)
 - [ackerbaum](https://www.ackerbaum.de/) - Essbare Pflanzen für die Zukunft
 - [Kiwiri](https://www.kiwiri.de/)
+- [Quickpot](https://www.quickpot.de/) - Gärtnern wie die Profis
 
 ## Bewässerung
 

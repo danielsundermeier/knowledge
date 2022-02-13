@@ -83,6 +83,15 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
     + Jeder ist max 10 Minuten von der Natur entfernt
     + Dazwischen Landwirtschaft und Naturgebiete (mindestens 1km breit)
     + Hauptstraßen und Öffentlicher Nahverkehr in der Mitte der Korridore
+- Verkehr
+    + Lokal
+        * zu Fuß
+        * Fahrrad
+        * Öffentlicher Nahverkehr
+        * Umständlich und teuer für Autos machen  
+    + größere Distanzen
+        * Autos, Bahn
+        * Zubringer, Ringstraßen, Autobahnen
 
 ## Währung
 

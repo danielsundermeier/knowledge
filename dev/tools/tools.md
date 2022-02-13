@@ -7,3 +7,4 @@
 - [TIPP10](https://www.tipp10.com/en/) - TIPP10 is a free touch typing tutor for your browser and for Windows, OS X and Linux 
 - [Slidev](https://sli.dev/) - Presentation Slides for Developers
 - [PHP Monitor](https://github.com/nicoverbruggen/phpmon)
+- [DevToysMac](https://github.com/ObuchiYuki/DevToysMac)

@@ -9,3 +9,5 @@
 - [Stuck In Customs](https://stuckincustoms.com/)
 - [German Roamers](https://germanroamers.org/) - A CONSORTIUM OF EXPLORERS
 - [Städtereisen](https://www.22places.de/staedtereisen/)
+- [Packing like a Pro](https://www.youtube.com/watch?v=L5UlxHsgD58)
+- [What are the best travel hacks?](https://qr.ae/pGjbLX)

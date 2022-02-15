@@ -17,6 +17,7 @@
 - [Permission.site](https://permission.site/) - Simple site to test permission-related UI for web APIs.
 - [humans.txt](https://humanstxt.org/) - We Are People, Not Machines
 - [12ft](https://12ft.io/) - Show me a 10ft paywall, I’ll show you a 12ft ladder.
+- [Server-Sent Events: the alternative to WebSockets you should be using](https://germano.dev/sse-websockets/)
 
 ## Tests
 

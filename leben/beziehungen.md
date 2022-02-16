@@ -64,6 +64,17 @@ Es ist meine Aufgabe etwas interessantes über andere Menschen herauszufinden. E
 
 Ich schaffe das, indem ich Fragen stelle. Ich möchte in jedes Gespräch mit der Einstellung gehen, dass ich etwas von der anderen Person lernen kann.
 
+Fragen wie 
+
+- Woher kommst Du?
+- Was machst Du?
+
+bedeuten: Erzähl mir etwas interessantes über dich, über das wir reden können.
+
+Anstatt ich bin aus X, mehr erzählen: Ich bin in X Geboren, habe dort studiert und bin dann zum Y nach Z gezogen.
+
+-> viele mögliche Gesprächsthemen in die ersten Antwort integrieren
+
 - Mögliche Gesprächsthemen anbieten (dich mich interessieren), auf die der Gesprächspartner eingehen kann.
 - Fragen aussführlich beantworten (Nicht nur "Ja" oder "Nein", sondern Ja, und ...) und weitere Themen mit einbeziehen.
 

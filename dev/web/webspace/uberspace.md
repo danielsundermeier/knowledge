@@ -27,12 +27,6 @@ ln -s Ziel Name
 ln -s /var/www/virtual/$USER/html/cardmonitor/public /var/www/virtual/$USER/www.cardmonitor.de
 ```
 
-#### Agrarmonitor
-
-```
-ln -s /var/www/share/Agrarmonitor-API-DEV/public /var/www/share/sandbox.agrarmonitor.de/htdocs
-```
-
 #### Löschen
 
 ```bash

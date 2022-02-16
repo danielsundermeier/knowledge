@@ -12,3 +12,7 @@
 
 > "Whenever we are about to substitute a laborious activity such as learning a language, cooking a meal, or tending to plants with a — deceptively — simple solution, we might always ask ourselves: Should the technology grow — or the person using it?"
 
+[Write to Give Yourself Advice](https://moretothat.com/write-to-give-yourself-advice/)
+
+> "Writing is the act of giving yourself advice about the problems you care about most."
+

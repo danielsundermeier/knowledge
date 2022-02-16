@@ -28,3 +28,4 @@ nano /usr/local/etc/php/7.4/php.ini
 - [Upgrade to PHP 8.1 with Homebrew on Mac](https://stitcher.io/blog/php-81-upgrade-mac)
 - [shivammathur/php](https://github.com/shivammathur/homebrew-php)
 - [PHP The Right Way](https://phptherightway.com/)
+- [Human readable number formatting in PHP](https://www.amitmerchant.com/human-readable-number-formatting-in-php/)

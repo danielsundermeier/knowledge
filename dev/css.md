@@ -55,6 +55,7 @@
 
 ### Links
 - [40 pro tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
+- [Aspect Ratio is Great](https://css-irl.info/aspect-ratio-is-great/)
 
 ### Inspiration
 

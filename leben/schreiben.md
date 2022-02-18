@@ -104,6 +104,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Prose for Programmers](https://proseforprogrammers.dev/)
 - [Learning and teaching](https://notebook.drmaciver.com/posts/2022-01-29-16:02.html)
 - [Write to Give Yourself Advice](https://moretothat.com/write-to-give-yourself-advice/)
+- [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 
 ## Inspiration
 

@@ -8,3 +8,7 @@
 
 > "No matter how strong, beautiful or intelligent we are, we will never be able to control life to always give us what we want."
 
+[A Return To Fundamentals](https://avc.com/2022/02/a-return-to-fundamentals/)
+
+> "What I do know is that the businesses that focus on the fundamentals will succeed in any market, up or down."
+

@@ -106,6 +106,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Write to Give Yourself Advice](https://moretothat.com/write-to-give-yourself-advice/)
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 - [Notes apps are where ideas go to die. And that’s good.](https://reproof.app/blog/notes-apps-help-us-forget)
+- [trick for telling better stories](https://twitter.com/wes_kao/status/1495065668546408456)
 
 ## Inspiration
 

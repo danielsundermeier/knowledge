@@ -173,6 +173,7 @@ Sich selbst nach jeder Aufgabe Feedback geben:
 ### Links
 
 - [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)
+- [The Only Way to Be Truly Confident in Yourself](https://markmanson.net/how-to-be-confident)
 
 ## Zeit
 

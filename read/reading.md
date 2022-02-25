@@ -25,3 +25,14 @@
 > "People who are confident in their relationships are confident because they’re comfortable with getting hurt. They’re not afraid to be vulnerable and tell someone how they feel and then establish strong boundaries around those feelings, even if it means being uncomfortable (or leaving a bad relationship)."
 
 > "Comfort in our failures allows us to act without fear, to engage without judgment, to love without conditions."
+
+[Write Two Letters](https://www.collaborativefund.com/blog/write-two-letters/)
+
+> "Sadly, it feels like we see fewer and fewer people taking these sorts of actions these days. Yet, these are precisely the types of people we need most. Those willing to share the credit and accept the blame. Those with the right amount of confidence."
+
+[Now You Get It](https://www.collaborativefund.com/blog/experience/)
+
+> "Most mental upside comes from the thrill of anticipation – actual experiences tend to fall flat, and your mind quickly moves on to anticipating the next event. That’s how dopamine works."
+
+> "I don’t think I’ve met, or know of, anyone with outsized success who gained as much happiness as an outsider might expect. That doesn’t mean success can’t bring pride or contentment or independence. But it’s rarely what you thought it would be before achieving it."
+

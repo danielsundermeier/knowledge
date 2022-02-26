@@ -92,6 +92,21 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
     + größere Distanzen
         * Autos, Bahn
         * Zubringer, Ringstraßen, Autobahnen
+        
+### Regierungsbezirke
+
+- 5000-10000 Personen
+- Entscheidungen
+    + Landnutzung
+    + Wohnen
+    + Wartung
+    + Straßen
+    + Parks
+    + Schulen
+    + Sozialhilfe
+    + Dienstleistungen
+- Politik als teilendes Lebens
+- Menschen sollen selbst entscheiden können, wie sie leben wollen
 
 ## Währung
 

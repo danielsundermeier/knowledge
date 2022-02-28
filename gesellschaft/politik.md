@@ -96,6 +96,7 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
 ### Regierungsbezirke
 
 - 5000-10000 Personen
+    + Direkter Kontakt von Politok zu Bevölkerung
 - Entscheidungen
     + Landnutzung
     + Wohnen
@@ -106,6 +107,8 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
     + Sozialhilfe
     + Dienstleistungen
 - Politik als teilendes Lebens
+    + Versammlungsort
+    + Räume für Besprechungen und Diskussionen
 - Menschen sollen selbst entscheiden können, wie sie leben wollen
 
 ## Währung

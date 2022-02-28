@@ -62,6 +62,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [The embedded entrepreneur](https://embeddedentrepreneur.com/)
 - [How do I get my first 1000 users?](https://twitter.com/sab8a/status/1422162888589037568)
 - [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
+- [Drawabox Lesson 0, Part 1: What is Drawabox?](https://www.youtube.com/watch?v=2gujrl5NU8M&list=PLA7yj0dxiUGv7k8ohEt15EtMz9PTckNXw)
 
 ## Verkaufen
 

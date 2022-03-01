@@ -25,6 +25,10 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Rethinking Humanity](https://www.youtube.com/watch?v=r71yNnfY6ss)
 - [A Hopeful Pathway for Humanity](https://hopefulpathway.blainehansen.me/)
 
+### Dystopien
+
+- [The Metaverse Is Changing Society Forever](https://www.youtube.com/watch?v=_BTdfJ2MbU8)
+
 ## Podcasts
 
 - [Future Thinkers](https://futurethinkers.org/)

@@ -72,6 +72,7 @@ Zeit in der Natur verbringen
 - [How do I lose weight after 40?](https://www.quora.com/How-do-I-lose-weight-after-40/answer/Timothy-James-117?ch=10&oid=318699246&share=3fed67dc&srid=uoDLKq&target_type=answer)
 - [Die ultimative Anleitung für eine richtige Haltung](https://www.ergotopia.de/infografiken/die-richtige-haltung)
 - [The Peckham Experiment](https://en.wikipedia.org/wiki/The_Peckham_Experiment) - was an experiment designed to determine whether people as a whole would, given the opportunity, take a vested interest in their own health and fitness and expend effort to maintain it.
+- [The Longevity Guide](https://thelongevity.guide/) - A guide to living healthier, longer.
 
 ## Videos
 

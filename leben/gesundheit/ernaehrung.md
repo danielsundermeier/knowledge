@@ -332,6 +332,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [Carbs vs Fats - Clarifying the Confusion](https://www.youtube.com/watch?v=LdMOsnILT00)
 - [One Pot Pony](https://onepotpony.com/) - A lazy person's guide to delicious meal prep
 - [Die Ernährung, die die Welt retten soll](https://www.spektrum.de/news/klimawandel-die-ernaehrung-die-die-welt-retten-soll/1960078#main)
+- [My $100,000,000 diet...](https://www.youtube.com/watch?v=RpqSy5V1fFQ)
 
 ## Zitate
 

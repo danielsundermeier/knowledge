@@ -184,3 +184,4 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Thammasat University Urban Rooftop Farm (TURF)](https://www.greenroofs.com/projects/thammasat-university-urban-rooftop-farm-turf/)
 - [Designing a 100-year home in Accra](https://www.quartey.com/writing/designing-family-home)
 - [A modern home](https://johnnyrodgers.is/building-a-modern-home)
+- [Genesis House](https://www.deugenesis.com/)

@@ -59,6 +59,8 @@ Es fällt mir wirklich schwer meine Gewichte "freiwillig" zu reduzieren. Es füh
 - Magnetische Minigewichte: 0,25kg bis 2kg
 - 2 Schritte vor, 1 zurück -> Gewichte etwas reduzieren und von dort weiter steigern
 
+Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Ausführung zu verbessern. So kann ich mich weiter steigern, ohne die Gewichte oder Wiederholungen zu steigern.
+
 ## Fortschritte
 
 - Bis 1-3 Wiederholungen vor Muskelversagen pro Satz trainieren

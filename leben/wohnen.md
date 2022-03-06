@@ -106,6 +106,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Dach dämmen ohne Unterspannbahn](https://www.rathscheck.de/magazin/dach-daemmen-ohne-unterspannbahn-wie-gehe-ich-vor/#)
 - [Hanfdämmung](https://www.haus.de/bauen/hanfdaemmung)
 - [Gablok](https://gablok.be/de/) - Blocksystem zum Selberbauen 
+- [Hempcrete](https://en.wikipedia.org/wiki/Hempcrete)
 
 ## Wohnfläche
 

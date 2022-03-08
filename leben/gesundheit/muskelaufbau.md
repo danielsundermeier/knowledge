@@ -94,3 +94,4 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [Wie oft trainieren?](https://science-fitness.de/research-reviews/wie-oft-trainieren-pro-woche) - ca. 10 Sätze pro Muskelgruppe pro Training, Volumen ist wichtiger als Anzahl Trainingseinheiten
 - [New Science of Muscle Hypertrophy - Part 3, Eating & Training: 55 Min Phys](https://www.youtube.com/watch?v=cw6XPWaEK20) - 10-20 Sätze pro Muskel pro Woche mit je 2-4 Reps in Reserve, alles andere ist nebensächlich
 - [Lift Weights, Get Stronger](https://stronglifts.com/)
+- [How Much Muscle Can You Gain In 30 Days?](https://www.youtube.com/watch?v=Rvz0RUPDzrI)

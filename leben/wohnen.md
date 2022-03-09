@@ -148,6 +148,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Vienna's Radical Idea? Affordable Housing For All](https://www.youtube.com/watch?v=41VJudBdYXY)
 - [Alternatives to Sprawl: Case Studies in Building Better 'Burbs](https://www.youtube.com/watch?v=-sA2LeHTIUI)
 - [How cohousing can make us happier (and live longer) | Grace Kim](https://www.youtube.com/watch?v=mguvTfAw4wk)
+- [Suburbia is Subsidized: Here's the Math](https://www.youtube.com/watch?v=7Nw6qyyrTeI)
 
 ## Artikel
 

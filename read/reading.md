@@ -20,3 +20,12 @@
 
 > "But imagine the tragedy of unbelievable progress throughout your life and enjoying none of it because you expected all of it."
 
+[Technical Debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/)
+
+> "Thus any engineer worth her salt soon learns to be paranoid of code growth. She assumes, correctly, that whenever she ceases to be vigilant, the code will get itself into trouble."
+
+> "If we want to finish the refactoring project Darwin started 150 years ago — to fix up the holes left by removing God from our worldview — we can't just continue to apply mechanical thinking. If we do, it will seem like we're making progress, but eventually we'll reach a dead end where it becomes clear (if it hasn't already) that there are deeper structural problems, and further opportunistic fixes won't get the thing to compile."
+
+[Becoming a magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
+
+> "So, in short, a helpful strategy for becoming a magician: Surround yourself with people who look like magicians to you. Then imagine yourself as one, older and wiser, in great detail. Imagine yourself as the person you would be afraid to say you want to be out loud to others (because it seems so ridiculously impossible right now). Write it down in great clarity and detail, then forget it. And let the part of your subconscious mind that still remembers lead you to becoming the things you want, and maybe, years later, check if it did."

@@ -311,4 +311,5 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What are common mistakes I should avoid in life?](https://qr.ae/pGzvb3)
 - [12 Rules For Life](https://www.youtube.com/watch?v=Cn_n8GL3XeM)
 - [Makes You Think](https://www.collaborativefund.com/blog/makes-you-think/)
+- [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
 

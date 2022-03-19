@@ -99,6 +99,10 @@ video course](https://mailcoach.app/videos)
 
 > "turn nouns from the problem domain into objects and verbs into methods" - [A hopefully modern description of Object-Oriented Design](https://www.sicpers.info/2021/05/a-hopefully-modern-description-of-object-oriented-design/)
 
+## Debug
+
+- [What is Debugging?](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
+
 ## Zitate
 
 > "If you want to be a good coder, try to get the fundamentals correct. Solve a lot of problems. Write a lot of code in any freaking language. Try to analyze a problem and see what are the different sub-problems that you need to solve." - [What one tip changed your coding skills forever?](https://qr.ae/pGnJLd)

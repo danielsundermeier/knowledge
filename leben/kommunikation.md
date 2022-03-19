@@ -3,6 +3,15 @@
 - Menschen wirklich zuhören und nicht darüber nachdenken, was ich als Nächstes sagen möchte
 - Selbstbewusstein/Auftreten ist sehr wichtig
 
+## Kritik
+
+1. Hören Sie sich genau an, was Ihr Gegenüber sagt. Geben Sie seine Position oder sein Argument in Ihren eigenen Worten wieder – so korrekt, klar und anschaulich wie möglich. Fragen Sie nach, ob Sie Ihr Gegenüber richtig verstanden haben.
+2. Zählen Sie alle Punkte auf, denen Sie zustimmen.
+3. Nennen Sie etwas, das Sie von Ihrem Gegenüber gelernt haben (wenn irgendwie möglich).
+4. Bringen Sie erst dann Gegenargumente und respektvolle Kritik.
+
+[Vier Regeln für konstruktive Kritik](https://forum-streitkultur.de/vier-regeln-konstruktive-kritik/)
+
 ## E-Mail
 
 - [Whenever you compose an email, put your ask in the first sentence. Do you want information from them? Do you want them to do something for you? Put it in the first sentence. Then put the explanation and details in the rest of the email.](https://news.ycombinator.com/item?id=23064974)

@@ -81,3 +81,4 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 - [What is the best way to grow up?](https://qr.ae/pGDQU9)
 - [little-kiddo-learning](https://github.com/obensource/little-kiddo-learning) - Introducing Kiddos to a Big World of Awesomeness
 - [Dadditude](https://www.dadditude.app/) - The Happy Dad App
+- [This Is How To Be An Emotionally Intelligent Parent](https://www.bakadesuyo.com/2022/03/parenting/)

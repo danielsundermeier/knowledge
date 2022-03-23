@@ -100,3 +100,4 @@ Unternehmen sollen Win-Win Situationen schaffen.
 ## Links
 
 - [Crash Course Socialism](https://dessalines.github.io/essays/crash_course_socialism.html)
+- [Wealth: A New Era of Economics](https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441)

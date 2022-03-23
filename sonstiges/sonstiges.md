@@ -19,3 +19,26 @@ Das könnte auch ein guter Mechanismus zur Kontrolle sein, um ein übermäßiges
 Es wird gleichzeitig in Fortschritt und (progressiv in) den Rückbau investiert. 
 
 Falls sich ein System mittel- bis langfristig als Fehler herausstellt, sind die Möglichkeit es rückgängig zu machen bereits vorhanden.
+
+## Schreibtisch
+
+[BOHO Office](https://www.boho-moebel.de/)
+
+Sehr guter Schreibtisch und super Support!
+
+### Speichern
+
+1. Höhe einstellen
+2. "S" drücken
+3. "#" Speicherplatz drücken
+
+### Steuerung umstellen
+
+1. "S" gedrückt halten, bis "---" angezeigt werden
+2. "1" drücken
+3. "H-0": Taste gedrückt halten bis Höhe erreicht, "H-1": Taste einmal drücken und Schreibtisch fährt zur gespeicherten Höhe
+
+## Links
+
+- [Disaster planning for regular folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+- [Nuclear War Survival Skills](http://oism.org/nwss/nwss.pdf)

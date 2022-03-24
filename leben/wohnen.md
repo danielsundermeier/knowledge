@@ -187,3 +187,4 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Designing a 100-year home in Accra](https://www.quartey.com/writing/designing-family-home)
 - [A modern home](https://johnnyrodgers.is/building-a-modern-home)
 - [Genesis House](https://www.deugenesis.com/)
+- [Jakarta’s Transit Miracle](https://infiniteblock.substack.com/p/jakartas-transit-miracle)

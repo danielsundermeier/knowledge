@@ -30,3 +30,8 @@
 
 > "I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it’s not the answer."
 
+[How to figure out what to do with your life](https://www.julian.com/blog/life-planning)
+
+> "Sure, it would be epic to have billions to do crazy Tony Stark stuff with. But if you can't figure out how to live a crazy, great life with a middle class income, don't expect to be handed the keys to euphoria when you're struck by a windfall of cash."
+
+> "Ultimately, people should spend way less energy trying to get super wealthy and way more energy building a tight-knit group of friends that will be with them until old age."

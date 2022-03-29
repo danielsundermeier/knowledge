@@ -13,6 +13,7 @@
 - [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner.
 - [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
+- [How to Search for Files from the Linux Command Line](https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/)
 
 ## Snippets
 

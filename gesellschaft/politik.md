@@ -225,6 +225,10 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt d
 
 - Zuerst nur ein kleiner Teil der Renteneinzahlungen in ETF, der immer weiter erhöht wird, wenn die Belastung des aktuellen Rentensystems kleiner wird?
 
+### Links
+
+[Aktienrente: Sinnvolles Konzept für Staat und Sparer?](https://aktienrebell.de/aktienrente/)
+
 ## Rohstoffe
 
 ### Nichterneuerbare Rohstoffe

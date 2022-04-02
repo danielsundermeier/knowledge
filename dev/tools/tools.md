@@ -8,3 +8,4 @@
 - [Slidev](https://sli.dev/) - Presentation Slides for Developers
 - [PHP Monitor](https://github.com/nicoverbruggen/phpmon)
 - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
+- [Redis GUI](https://github.com/ekvedaras/redis-gui)

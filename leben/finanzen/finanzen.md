@@ -130,6 +130,7 @@ PBNKDEFF011
 - [A catalog of wealth-creation mechanisms](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html)
 - [Financial Phases to Follow](https://tynan.com/phases/)
 - [Assets, Experiences, and Indulgences](https://tynan.com/moneyspent/)
+- [Investor Math and Statistics](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
 
 ## Videos
 

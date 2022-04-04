@@ -81,3 +81,5 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [The MOST Important Advice For Getting Lean (Do This or Stay Average!)](https://www.youtube.com/watch?v=XfY3prn8tMA) - Grundlagen sind das Wichtigste (Defizit, Protein, Ernährung, Lebensstil, Training, Schlaf, Stress managen)
 - [Human Performance Education](https://andy-galpin.squarespace.com/) - "Enhance the human condition by providing the world with FREE & entertaining health, human performance, and nutrition education."
 - [Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance](https://hubermanlab.com/dr-andy-galpin-how-to-build-strength-muscle-size-and-endurance/)
+- [How Results REALLY Happen — In Order..](https://romanfitnesssystems.com/articles/order-of-fitness-results/)
+

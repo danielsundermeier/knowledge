@@ -19,3 +19,25 @@
 > "The absurdity of past connections humbles your confidence in predicting future ones."
 
 > "The craziest events – good and bad – happened because little events, each of which was easy to ignore, compounded."
+
+[Boring is a State of Mind](http://www.pickthebrain.com/blog/boring-state-mind-curiosity-diminishes-monotony/)
+
+> "Life becomes exhilarating, not when we do those things which are interesting, but rather when we find interest in things we once considered boring."
+
+> "The next time you are tempted to be bored with a task, try being curious instead. Don’t ask, “Is this interesting?” Ask instead, “How is this interesting?” Assume interest."
+
+[The Monday Mindset](https://romanfitnesssystems.com/articles/the-monday-mindset/)
+
+> "Mastering small failures means that you become comfortable with the fact that sometimes you will slip up."
+
+[Everything is a Practice](https://zenhabits.net/practiceground/)
+
+> "Every difficulty that comes up is simply something to practice with."
+
+[You can’t wait until life isn’t hard anymore before you decide to be happy](https://stephenguise.com/you-cant-wait-until-life-isnt-hard-anymore-before-you-decide-to-be-happy/)
+
+> "Life is hard for most people most of the time. Don’t wait for life to get easy before you decide to enjoy it."
+
+[Stop Waiting and Choose Your Own Talent](https://www.pickthebrain.com/blog/stop-waiting-and-choose-your-own-talent/)
+
+> "Natural ability is insignificant compared to years of hard work and experience."

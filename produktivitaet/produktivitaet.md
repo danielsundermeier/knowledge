@@ -4,7 +4,7 @@ Ich möchte eine gute Balance zwischen Arbeit und Entspannung finden.
 
 Ich glaube der richtige Weg ist Blöcke zu haben, in denen ich sehr fokussiert und produktiv bin (Deep Work), dazwischen gibt es Zeit für die Entspannung.
 
-Das ist der gleiche Ablauf, wie Meschen [lernen](../leben/lernen.md): Intensiv mit einem Thema beschäftigen anschließend entspannen, um Verknüpfungen mit Erfahrungen und bestehendem Wissen zu erstellen.
+Das ist der gleiche Ablauf, wie Menschen [lernen](../leben/lernen.md): Intensiv mit einem Thema beschäftigen anschließend entspannen, um Verknüpfungen mit Erfahrungen und bestehendem Wissen zu erstellen.
 
 Ich nehme mir Zeit die Aufgaben vorzubereiten und zu planen. Während ich mich erhole, habe ich neue Ideen und finde bessere Lösungen, die ich dann während eines Arbeitsblocks umsetzen kann. Die Lösungen fallen mir aber erst ein, wenn ich mich vorher intensiv mit einem Thema befasst habe.
 
@@ -186,6 +186,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [How to Organize Your Life to Find More Time](https://www.lifehack.org/articles/productivity/how-organize-your-life-find-more-time.html)
 - [Effortless personal productivity](https://jakobgreenfeld.com/personal-productivity)
 - [Building Things and Raising Children](https://www.swiftjectivec.com/building-things-and-raising-children/)
+- [50+ Productivity Tips to Take Your Success to the Next Level](https://www.theemotionmachine.com/50-productivity-tips-to-take-your-success-to-the-next-level/)
 
 ### Blogs
 

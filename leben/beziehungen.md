@@ -207,4 +207,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Dating for nerds (part 2): gender differences](https://p.migdal.pl/2017/09/30/dating-for-nerds-gender-differences.html)
 - [The Painfully Shy Developer's Guide to Networking for a Better Job](https://www.samjulien.com/shy-dev-networking)
 - [The Truth About Online Dating](https://aaronrenn.substack.com/p/newsletter-50-the-truth-about-online)
+- [What Do Women Want In a Man?](http://www.peopleskillsdecoded.com/what-do-women-want-in-a-man/)
 

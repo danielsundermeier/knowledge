@@ -42,3 +42,4 @@ Sehr guter Schreibtisch und super Support!
 
 - [Disaster planning for regular folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 - [Nuclear War Survival Skills](http://oism.org/nwss/nwss.pdf)
+- [System](https://www.system.com/graph) - A knowledge base of the world’s systems

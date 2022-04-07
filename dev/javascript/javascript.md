@@ -15,6 +15,10 @@
 - [JavaScript Array Methods Tutorial](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
 - [The JavaScript Array Handbook](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
 
+## TypeScript
+
+- [How to Use TypeScript – Beginner-Friendly TS Tutorial](https://www.freecodecamp.org/news/an-introduction-to-typescript/)
+
 ## Links
 
 - [How to Switch from jQuery to Vanilla JavaScript](https://www.freecodecamp.org/news/bootstrap-5-vanilla-js-tutorial/)

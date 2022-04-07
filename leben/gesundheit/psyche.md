@@ -75,6 +75,15 @@ Gefühlskompass
 - In allem Negativen etwas Positives sehen
 - Negative Gefühle führen zu weiteren negativen Gefühlen -> Teufelskreis
     + Wenn ich mich über etwas aufrege, rege ich mich leichter über andere Dinge auf
+    
+## Notizen
+
+- Say what you mean. Mean what you say.
+- Don’t say to anyone unless you can say to everyone.
+- Don’t say inside, what you cannot say outside.
+- Don’t say unless it is true, useful or kind.
+
+[How to Quiet Your Mind](http://thinksimplenow.com/clarity/how-to-quiet-your-mind/)
 
 ## Links
 

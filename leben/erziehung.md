@@ -36,6 +36,9 @@ Dem Kind schon früh ermöglichen vieles in einer sicheren Umgebung auszuprobier
 - Grundstück -> Kind baut selbst ein Gebäude + Garten, um zu lernen & experimentieren
 - Mietobjekt zur Geburt mit Kredit über 20 Jahre
 - "Bank von Papa": Hohe Zinsen für "Einlagen" von Kind zahlen -> sparen lernen
+- Gespartes Geld der Kinder als Grundlage für Erbe/Schenkung
+    + Gespartes Geld * X = Erbe
+    + Anreiz selbst viel zu investieren und zu verdienen
 
 Grunsätzlich gilt aber: Es ist besser wenn sich das Kind selbst etwas erarbeitet. 
 

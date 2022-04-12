@@ -128,4 +128,4 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - [Consistency is Key](https://tynan.com/thekey/)
 - [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)
 - [Consider, Commit, Lock](https://tynan.com/consider-commit-lock/)
-
+- [Curbing a Compulsive Habit: A Primer](https://zenhabits.net/compulsive/)

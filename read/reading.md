@@ -8,3 +8,9 @@
 
 > "Instead, we should raise our clean energy production ambitions. We don’t want to replace 100% of our current dirty energy — we want to generate vastly more energy than we are currently using and make it zero carbon."
 
+[Staying Put](https://www.collaborativefund.com/blog/staying-put/)
+
+> "Most of the time you see someone do something incredible, with what seems like little effort, and you ask “How did you do that?”, the honest answer is, “I’ve been doing this every day for 10+ years.” Noticing patterns and connecting the subtle dots is something that’s hard to teach in a classroom but becomes obvious when you’ve lived and breathed a field for decades."
+
+> "the big money comes from compounding uninterrupted over years and decades, when what you’ve done is not as important as how long you’ve been doing it for."
+

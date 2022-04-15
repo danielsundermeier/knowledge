@@ -14,3 +14,8 @@
 
 > "the big money comes from compounding uninterrupted over years and decades, when what you’ve done is not as important as how long you’ve been doing it for."
 
+[Flow-Diät](https://www.healthyhabits.de/flow-diaet-herzensprojekt-zum-abnehmen/)
+
+> "Die Ursachen für mein falsches Essen waren Einsamkeit, Langeweile, Leere, eine fehlende sinnvolle Beschäftigung am Abend, ein Ausgleich, Entspannung."
+
+> "Viele Probleme verschwinden, wenn du mit dir zufrieden bist und aufhörst auf dir herumzutrampeln. Statt dich an Kalorien aufzuhängen, solltest du an deinem Wohlbefinden ansetzen."

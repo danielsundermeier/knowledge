@@ -64,6 +64,38 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [One of the coolest onboarding tricks I've seen recently - do different tasks for a product onboarding to add days to your free trial.](https://twitter.com/kushaanshah/status/1433210611895189509)
 - [Drawabox Lesson 0, Part 1: What is Drawabox?](https://www.youtube.com/watch?v=2gujrl5NU8M&list=PLA7yj0dxiUGv7k8ohEt15EtMz9PTckNXw)
 
+## Wert
+
+- [How I got 700 people to pay me $40,000 each...no bs..](https://www.youtube.com/watch?v=_qspvJAq34M)
+
+### Ergebnis
+
+- Was bekomme ich
+- Mehr ist besser
+- Richtiges Ergebnis erkennen und verkaufen 
+    + Warum wollen die Kunden das Produkt wirklich
+    + Was ermöglicht es ihnen
+
+### Wahrscheinlichkeit
+
+- Wie hoch ist die Wahrscheinlichkeit, das Ergebnis zu erreichen
+- Wie erfahren ist der Anbieter
+    + Wie oft verkauft
+    + Bewertungen
+    + Ausbildung
+- Wahrscheinlicher ist besser
+
+## Zeit
+
+- Wie lange dauert es das Ergebnis zu erreichen
+- Weniger ist besser, sofort am besten
+
+## Aufwand / Opfer
+
+- Was muss ich tun, um dass Ergbnis zu erreichen
+- Worauf muss ich verzichten
+- Weniger ist besser, nichts am besten
+
 ## Verkaufen
 
 - [Improve your salesmanship](https://www.youtube.com/playlist?list=PLkVbIsAWN2lvMDgewjAldPf3svd-cdEnL)
@@ -227,7 +259,6 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Gemeinnützige GmbH](https://de.wikipedia.org/wiki/Gemeinn%C3%BCtzige_GmbH) - "Die gemeinnützige GmbH (gGmbH) ist im deutschen Steuerrecht eine Gesellschaft mit beschränkter Haftung, deren Erträge für gemeinnützige Zwecke verwendet werden."
 - [How The Pandora Papers Actually Work](https://www.youtube.com/watch?v=0uLhh5GSxsQ)
 - [Your First Business Should Be A Spreadsheet](https://endler.dev/2021/first-business/)
-- [How I got 700 people to pay me $40,000 each...no bs..](https://www.youtube.com/watch?v=_qspvJAq34M)
 
 ### Blogs
 

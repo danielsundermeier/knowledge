@@ -227,6 +227,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Gemeinnützige GmbH](https://de.wikipedia.org/wiki/Gemeinn%C3%BCtzige_GmbH) - "Die gemeinnützige GmbH (gGmbH) ist im deutschen Steuerrecht eine Gesellschaft mit beschränkter Haftung, deren Erträge für gemeinnützige Zwecke verwendet werden."
 - [How The Pandora Papers Actually Work](https://www.youtube.com/watch?v=0uLhh5GSxsQ)
 - [Your First Business Should Be A Spreadsheet](https://endler.dev/2021/first-business/)
+- [How I got 700 people to pay me $40,000 each...no bs..](https://www.youtube.com/watch?v=_qspvJAq34M)
 
 ### Blogs
 

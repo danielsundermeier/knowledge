@@ -168,6 +168,7 @@ Je mehr Glukose in meinem Blut ist, desto mehr Insolin wird produziert.
 ### Links
 
 - [Obesity & Diabetes Explained: The Overflow Phenomenon](https://www.youtube.com/watch?v=xlfZvnV4v50)
+- [Wie Zucker in unserem Körper funktioniert](https://www.healthyhabits.de/wie-zucker-unserem-koerper-funktioniert/)
 
 ## Ketose
 

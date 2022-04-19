@@ -26,3 +26,4 @@
 - [Psychiatrist's Guide to Conversation](https://www.youtube.com/watch?v=tIATzLf-y04)
 - [Storytelling](https://www.julian.com/blog/storytelling)
 - [What is the key to confidence?](https://www.quora.com/I-cant-seem-to-figure-out-how-so-many-people-are-so-confident-when-talking-to-others-and-conversing-in-general-I-find-it-hard-to-talk-to-certain-people-and-especially-new-people-What-is-the-key-to-confidence/answer/Waqas-Hassn?ch=10&oid=90171715&share=4fc597eb&srid=uoDLKq&target_type=answer)
+- [Wie du richtig zuhörst und weise wir(k)st](https://www.healthyhabits.de/zuhoeren-weise/)

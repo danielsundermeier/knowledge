@@ -134,4 +134,5 @@ video course](https://mailcoach.app/videos)
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [The Good Research Code Handbook](https://goodresearch.dev/)
 - [Software Paper Cuts](https://matthewbischoff.com/software-paper-cuts/)
+- [Rubber Duck Debugging](https://www.freecodecamp.org/news/rubber-duck-debugging/)
 

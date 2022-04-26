@@ -131,6 +131,7 @@ PBNKDEFF011
 - [Financial Phases to Follow](https://tynan.com/phases/)
 - [Assets, Experiences, and Indulgences](https://tynan.com/moneyspent/)
 - [Investor Math and Statistics](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
+- [How to DEPROGRAM being poor...in 22 min](https://www.youtube.com/watch?v=9ySuYdJ0H4s)
 
 ## Videos
 

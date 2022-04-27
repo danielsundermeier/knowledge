@@ -57,6 +57,21 @@ CREATE TABLE IF NOT EXISTS table_name (
 `NOT NULL`|Value cannot be NULL
 `DEFAULT`|Initialized with default value
 
+### Table vorhanden
+
+```sql
+SELECT EXISTS (
+    SELECT 
+        TABLE_NAME
+    FROM 
+    information_schema.TABLES 
+    WHERE 
+    TABLE_SCHEMA LIKE 'serienguide' AND 
+        TABLE_TYPE LIKE 'BASE TABLE' AND
+        TABLE_NAME = 'watched_history'
+    ) AS vorhanden;
+```
+
 ### Alter Table
 
 ```sql

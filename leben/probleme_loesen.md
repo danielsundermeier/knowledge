@@ -84,3 +84,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [I don't understand this (yet)](https://www.iamjonas.me/2021/08/i-dont-understand-this-yet.html)
 - [A Few Notes on Problem Solving](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
+- [Inversion: The Crucial Thinking Skill Nobody Ever Taught You](https://jamesclear.com/inversion)

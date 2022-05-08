@@ -82,4 +82,7 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [Human Performance Education](https://andy-galpin.squarespace.com/) - "Enhance the human condition by providing the world with FREE & entertaining health, human performance, and nutrition education."
 - [Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance](https://hubermanlab.com/dr-andy-galpin-how-to-build-strength-muscle-size-and-endurance/)
 - [How Results REALLY Happen — In Order..](https://romanfitnesssystems.com/articles/order-of-fitness-results/)
+- [Why I Walk](https://walkingtheworld.substack.com/p/why-i-walk-part-1?)
+- [What Are Reasonable Fitness Expectations?](https://www.youtube.com/watch?v=ZoleN7y5ZHI)
+
 

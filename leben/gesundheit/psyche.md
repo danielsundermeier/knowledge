@@ -75,7 +75,11 @@ Gefühlskompass
 - In allem Negativen etwas Positives sehen
 - Negative Gefühle führen zu weiteren negativen Gefühlen -> Teufelskreis
     + Wenn ich mich über etwas aufrege, rege ich mich leichter über andere Dinge auf
-    
+
+## Erwartungen
+
+- [The Expectation Effect: How Your Mindset Can Change Your World](https://www.goodreads.com/book/show/57771229-the-expectation-effect)
+
 ## Notizen
 
 - Say what you mean. Mean what you say.

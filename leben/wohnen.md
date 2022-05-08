@@ -151,6 +151,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Suburbia is Subsidized: Here's the Math](https://www.youtube.com/watch?v=7Nw6qyyrTeI)
 - [The Housing Crisis is the Everything Crisis](https://www.youtube.com/watch?v=4ZxzBcxB7Zc)
 - [Transit Oriented Development, Explained](https://www.youtube.com/watch?v=RYsqWIGyRVk)
+- [How to build neighborhoods we actually like](https://www.youtube.com/watch?v=y_oZVVS2nVk)
 
 ## Artikel
 

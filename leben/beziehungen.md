@@ -209,4 +209,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [The Truth About Online Dating](https://aaronrenn.substack.com/p/newsletter-50-the-truth-about-online)
 - [What Do Women Want In a Man?](http://www.peopleskillsdecoded.com/what-do-women-want-in-a-man/)
 - [Einsamkeit überwinden: Der lange Weg zu tieferen Beziehungen](https://www.healthyhabits.de/einsamkeit-ueberwinden-der-lange-weg-zu-tieferen-beziehungen/)
+- [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/05/be-yourself/)
 

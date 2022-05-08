@@ -160,7 +160,7 @@ Startplatz für Besiedelung des Weltraums
 - Im Hintergrund / Versteckt
 - Nanobots
 - KIs
-- Terraforming (Weltraumstationen sind wahrscheinlich besser)
+- Terraforming (Weltraumstationen sind besser)
 
 ## Produktion
 
@@ -217,15 +217,23 @@ Startplatz für Besiedelung des Weltraums
     + mehrere unterschiedliche Jobs (Abwechslung)
     + alles kann/soll automatisiert werden
 - Geldsystem
-    + Sovereign Money System?
+    + Energie- / Ressourcenwährung
+    + Ab Post Scarcity nicht mehr nötig?
 - Steuern
     + So unkompliziert und gerecht wie möglich
 
 ## Wohnen
 
+### Gesellschaft
+
 - [Arcologies](https://en.wikipedia.org/wiki/Arcology)
 - [O'Neill cylinder](https://en.wikipedia.org/wiki/O%27Neill_cylinder)
 - Generationenschiffe -> Weltraum besiedeln
+
+Die meisten Menschen werden in Raumschiffen leben, die durch das All fliegen.
+
+### Personen
+
 - "Kleine" private Wohnungen / Häuser
 - Viele Gemeinschaftsräume
     + Fitnesstudio / Sport

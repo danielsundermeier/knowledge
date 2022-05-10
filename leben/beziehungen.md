@@ -210,4 +210,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [What Do Women Want In a Man?](http://www.peopleskillsdecoded.com/what-do-women-want-in-a-man/)
 - [Einsamkeit überwinden: Der lange Weg zu tieferen Beziehungen](https://www.healthyhabits.de/einsamkeit-ueberwinden-der-lange-weg-zu-tieferen-beziehungen/)
 - [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/05/be-yourself/)
+- [making friends on the internet](https://jon.bo/posts/making-friends-online/)
 

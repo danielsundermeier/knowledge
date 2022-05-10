@@ -94,6 +94,7 @@ Vorraussetzungen:
 - [Building intrinsic motivation](https://nesslabs.com/intrinsic-motivation-3)
 - [The Truth About Infinite Motivation](https://www.youtube.com/watch?v=uFAlRKjexSg)
 - [How to Unlock Your Motivation](https://www.youtube.com/watch?v=RfL0H9IiU9s)
+- ["Motivation is a byproduct of action, not the catalyst for it."](https://twitter.com/adamwathan/status/1520153298023636993)
 
 ## Flow
 

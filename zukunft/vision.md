@@ -45,6 +45,10 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
 - Rasen zu (Wald-) Gärten mit Tieren
 - Öffentliche, gemeinschaftliche und private Gärten
 
+#### Wohnen
+
+- Alle haben ein Dach über dem Kopf (Housing First)
+
 ### Post Poverty
 
 - Alle haben ein Depot für die finanzielle Unabhängigkeit

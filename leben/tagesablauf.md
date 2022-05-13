@@ -1,5 +1,17 @@
 # Tagesablauf
 
+## Tätigkeiten
+
+- Morgen vorbereiten
+    + Entscheidungen vorwegnehmen -> Leichter sich daran zu halten
+    + Ausführbare Aufgaben für den Tag planen
+    + Essen vorbereiten (Abwiegen, Auftauen)
+    + Sporttasche packen
+- Meditieren
+- Lesen
+- Schreiben
+- Bewegung / Sport
+
 ## Arbeitstag
 
 - 2:45: Aufstehen

@@ -43,3 +43,4 @@ Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins 
 - [Writing as yourself](https://notebook.drmaciver.com/posts/2022-01-07-14:02.html)
 - [Create For Just One Hour Each Day](https://moretothat.com/create-for-just-one-hour-each-day/)
 - [What do you do when you feel your life has become monotonous?](https://qr.ae/pvsZC5)
+- [Managing personal motivation is the absolute hardest skill to acquire and maintain. I only know of two things that help: 1: Just start on ANYTHING every day related to your goal, and 2: Surround yourself with people doing things way cooler than yourself. Competition is good.](https://twitter.com/slimsag/status/1524418178587054080)

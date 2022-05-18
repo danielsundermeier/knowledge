@@ -84,5 +84,6 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [How Results REALLY Happen — In Order..](https://romanfitnesssystems.com/articles/order-of-fitness-results/)
 - [Why I Walk](https://walkingtheworld.substack.com/p/why-i-walk-part-1?)
 - [What Are Reasonable Fitness Expectations?](https://www.youtube.com/watch?v=ZoleN7y5ZHI)
+- [HYBRID CALISTHENICS ROUTINE](https://www.hybridcalisthenics.com/routine)
 
 

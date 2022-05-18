@@ -52,3 +52,4 @@
 - [If You Want to Stand Out, Put Your Head Down](https://medium.com/simple-pub/if-you-want-to-stand-out-put-your-head-down-304613ae646e)
 - [The Future of Work](https://www.collaborativefund.com/blog/the-future-of-work)
 - [Being an ideas guy](https://notebook.drmaciver.com/posts/2022-01-15-17:03.html)
+- [Core Idea: Don't Follow Your Passion](https://www.youtube.com/watch?v=sjiP6sDyN-E)

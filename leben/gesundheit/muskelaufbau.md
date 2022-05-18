@@ -95,3 +95,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [New Science of Muscle Hypertrophy - Part 3, Eating & Training: 55 Min Phys](https://www.youtube.com/watch?v=cw6XPWaEK20) - 10-20 Sätze pro Muskel pro Woche mit je 2-4 Reps in Reserve, alles andere ist nebensächlich
 - [Lift Weights, Get Stronger](https://stronglifts.com/)
 - [How Much Muscle Can You Gain In 30 Days?](https://www.youtube.com/watch?v=Rvz0RUPDzrI)
+- [Training Volume Landmarks for Muscle Growth](https://rpstrength.com/training-volume-landmarks-muscle-growth/)
+- [The Hypertrophy Training Guide Central Hub](https://rpstrength.com/hypertrophy-training-guide-central-hub/)

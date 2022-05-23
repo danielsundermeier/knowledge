@@ -53,3 +53,4 @@
 - [The Future of Work](https://www.collaborativefund.com/blog/the-future-of-work)
 - [Being an ideas guy](https://notebook.drmaciver.com/posts/2022-01-15-17:03.html)
 - [Core Idea: Don't Follow Your Passion](https://www.youtube.com/watch?v=sjiP6sDyN-E)
+- [The Most Important Piece of Career Advice You Probably Never Heard](https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/)

@@ -6,7 +6,7 @@ Schönes Zuhause zum Wohlfühlen einrichten
 
 ## Notizen
 
-Ich möchte in einer "Walkable City" leben. Das bedeutet, dass ich alle täglichen Ziele zu Fuß odermit dem Rad erreichen kann. Ich möchte außerdem in einem Mehrfamileinhaus wohnen.
+Ich möchte in einer "Walkable City" leben. Das bedeutet, dass ich alle täglichen Ziele zu Fuß oder mit dem Rad erreichen kann. Ich möchte außerdem in einem Mehrfamileinhaus wohnen.
 
 Im Erdgeschoss sind Gerwerbeflächen und öffentliche Plätze. Darüber sind die Wohnungen. 
 

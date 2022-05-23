@@ -84,6 +84,8 @@ Anstatt ich bin aus X, mehr erzählen: Ich bin in X Geboren, habe dort studiert 
 
 - [A List of Interesting Questions for People](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 - [HOW TO TALK TO ANYONE by Leil Lowndes | Core Message](https://www.youtube.com/watch?v=huj-lwH2aC8)
+- [Why (and How) You Should Join Twitter Right Now](https://guzey.com/twitter/)
+- [making friends on the internet](https://jon.bo/posts/making-friends-online/)
 
 ## Polarisieren
 
@@ -210,5 +212,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [What Do Women Want In a Man?](http://www.peopleskillsdecoded.com/what-do-women-want-in-a-man/)
 - [Einsamkeit überwinden: Der lange Weg zu tieferen Beziehungen](https://www.healthyhabits.de/einsamkeit-ueberwinden-der-lange-weg-zu-tieferen-beziehungen/)
 - [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/05/be-yourself/)
-- [making friends on the internet](https://jon.bo/posts/making-friends-online/)
+- [Twitter Guide](https://docs.google.com/document/d/18ozu7cTz3Wa1TryuNS8n5hhAenXad_RtoBm0E5d4mTQ/edit)
 

@@ -135,4 +135,5 @@ video course](https://mailcoach.app/videos)
 - [The Good Research Code Handbook](https://goodresearch.dev/)
 - [Software Paper Cuts](https://matthewbischoff.com/software-paper-cuts/)
 - [Rubber Duck Debugging](https://www.freecodecamp.org/news/rubber-duck-debugging/)
+- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 

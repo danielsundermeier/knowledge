@@ -109,6 +109,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [trick for telling better stories](https://twitter.com/wes_kao/status/1495065668546408456)
 - [Cool Things People Do With Their Blogs](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
 - [One year of sales](https://nts.strzibny.name/one-year-of-sales/)
+- [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak)
 
 ## Inspiration
 

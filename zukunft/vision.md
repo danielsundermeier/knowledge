@@ -17,101 +17,31 @@ Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bri
     + O'Neill Zylinder
     + Planten und Kometen besiedeln
 
+Es geht darum das Leben der Menschen und der Menschheit zu verbessern.
+
+Jeder soll in der Lage sein sich sein Traumleben aufzubauen.
+
+Jeder soll selbstbestimmt leben können.
+
+Jeder kann die Gesellschaft mit seiner Einzigartigkeit verbessern und die Gesellschaft soll es jedem einfacher machen, das zu tun.
+
 ## Ziele
 
-### Heute
+Ich habe meine Vision in mehrere Phasen eingeteilt. Zu jeder Phase habe ich aufgeschrieben, was passieren kann, um zur Nächsten zu kommen.
 
-#### [Bildung](../gesellschaft/bildung.md)
+Es sind keine abgeschlossenen Phasen, sondern sie existieren parallel. Es gibt fließende Übergänge von einer zur anderen.
 
-- Kampagne für Fundament: Gesundheit und Finanzen
-- Verschiedene Formate
-    + YouTube
-    + Artikel
-    + Podcasts
-- Open Source
-- Gemeinschafts-
-    + Werkstätten
-    + Makerspaces
-    + Repair-Cafes
+Hier ist mein [Masterplan](../masterplan/masterplan.md), um anzufangen.
 
-#### [Energie](../energy/energie.md)
+### Phasen
 
-- Förderung von Erneuerbaren Energien
-- P2P Energiemarkt
-- Nahwärmenetze ausbauen (warm & kalt)
-
-#### [Landwirtschaft](../landwirtschaft/umsetzung.md)
-
-- Rasen zu (Wald-) Gärten mit Tieren
-- Öffentliche, gemeinschaftliche und private Gärten
-
-#### Wohnen
-
-- Alle haben ein Dach über dem Kopf (Housing First)
-
-### Post Poverty
-
-- Alle haben ein Depot für die finanzielle Unabhängigkeit
-- Aufbau des Depots staatlich gefördert
-- Genug Einnahmen durch das Depot, um über der Armutsgrenze zu leben
-- Nicht mehr als 3-4% / Jahr entnehmen, damit es immer weiter wächst
-- [Arbeit](../gesellschaft/politik.md#arbeit)
-
-### Post Scarcity
-
-Alle haben genug
-
-- Produkte und Dienstleistungen so günstig produzieren / anbieten, dass die laufenden Kosten keine Rolle spielen
-
-Herausfinden, wie die Menschheit regenerativ leben kann
-- Gesellschaft
-- Ressourcen
-- Natur
-- Energie
-
-[Masterplan](../masterplan/masterplan.md)
-
-### Orbit
-
-Infrastruktur für Weltraum Transport schaffen
-- Weltraum Fahrstuhl
-- Orbitalring(e)
-- Energiesatelliten
-- Nantennas (Optical rectenna)
-    + Energiegewinnung (aus Infrarot Strahlung)
-    + Wetter kontrollieren
-
-### Mond
-
-Startplatz für Besiedelung des Weltraums
-
-- Weltraumbahnhof
-    + Tanken
-- Bauhof
-    + Raumschiffe
-    + O'Neill Zylinder
-    + Solarzellen / Spiegel
-    + (Kometen) Bergbau
-    + Sonstiges Equipment zur Besiedelung des Weltraums
-    
-### Inneres Sonnensystem (bis Kometengürtel)
-
-- Rohstoffe und Industrie
-- Energiegewinnung (Solar / Atomspaltung)
-- Wohnraum
-- Forschung
-
-#### Sonne
-
-- Dyson Schwarm
-- Rohstoffe abbauen ([Star lifting](https://en.wikipedia.org/wiki/Star_lifting))
-
-### Äußeres Sonnensystem
-
-- Rohstoffe und Industrie
-- Computersysteme (Kälte ist gut für Berechnungen)
-- Wohnraum
-- Forschung
+- [Heute](vision/heute.md)
+- [Post Poverty](vision/post-poverty.md)
+- [Post Scarcity](vision/post-scarcity.md)
+- [Orbit](vision/orbit.md)
+- [Mond](vision/mond.md)
+- [Inneres Sonnensystem](vision/inneres-sonnensystem.md)
+- [Äußeres Sonnensystem](vision/aeußeres-sonnensystem.md)
 
 ## Lebensstil
 
@@ -175,7 +105,7 @@ Startplatz für Besiedelung des Weltraums
 - Zugang statt Besitz
 - Weltweite Entwicklung, lokale Produktion
 - Creation instead of Extraction
-    + Produkte werden von Grund auf hergestellt (Atome, Bakterien)
+    + Produkte werden von Grund auf hergestellt (Atome, Bakterien, DNS)
     + Anstatt abgebaut zu werden
     + Beispiele
         * Laborfleisch statt Rinderhaltung (Precision Fermentation)
@@ -225,6 +155,12 @@ Startplatz für Besiedelung des Weltraums
     + Ab Post Scarcity nicht mehr nötig?
 - Steuern
     + So unkompliziert und gerecht wie möglich
+    + Arten
+        * Umsatzsteuer
+        * Umsatzpauschale auf Umsatz von Unternehmen (Summe von Rechnungen * Pauschale)
+        * 99% Erbschaftssteuer, über X €
+        * Vermögenssteuer
+        * Lenksteuern
 
 ## Wohnen
 
@@ -235,6 +171,8 @@ Startplatz für Besiedelung des Weltraums
 - Generationenschiffe -> Weltraum besiedeln
 
 Die meisten Menschen werden in Raumschiffen leben, die durch das All fliegen.
+
+Es ist leichter Raumschiffe zu bauen als Planeten lebensfähig zu machen.
 
 ### Personen
 

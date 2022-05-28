@@ -9,6 +9,7 @@
 - [In-depth discussion of all kinds of topics related to the database modeling](https://minimalmodeling.substack.com/)
 - [SQL Join Types Explained Visually](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/)
 - [TextQL](https://github.com/dinedal/textql) - Allows you to easily execute SQL against structured text like CSV or TSV
+- [arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use
 
 ## SQL Syntax and PDO Operations
 

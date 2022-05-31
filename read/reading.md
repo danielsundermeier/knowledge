@@ -1,12 +1,2 @@
 # Reading
 
-[A Few Beliefs](https://www.collaborativefund.com/blog/a-few-beliefs/)
-
-> "The worst financial decisions happen when people risk what they need in order to gain something they merely want."
-
-> "Not caring about temporary things, and obsessing over permanent things, is underrated."
-
-[When Advice Collides With Truth](https://moretothat.com/when-advice-collides-with-truth/)
-
-> "The key is to be open to any data point that resonates, but to prevent it from becoming your personal operating system. You want to learn from the ocean of knowledge that’s available to you, but to keep the water from flooding your ship. In the end, another person’s beliefs – no matter how helpful – can only propel you so far. If you don’t seek to question someone’s advice, then their values will become your own, and you will be living a life that feels more like deception than truth."
-

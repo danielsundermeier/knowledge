@@ -206,6 +206,10 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 - [Technology as Supernormal Stimuli](https://techhappylife.com/technology-as-supernormal-stimuli/)
 - [Pornography Can Ruin Your Sex Life](https://markmanson.net/pornography-can-ruin-your-sex-life)
 
+## Einstellung
+
+- [Mindset Shift to Deal with Overwhelm](https://zenhabits.net/mindset-overwhlem/)
+
 ## The Redemptive Story
 
 Growing up I was blessed in that I had been given the gift of ________. Not everyone had it as good as I did. I remember seeing _____ and I felt the need to do something about it. I have always believed that ______ was the right thing to do. It hasn’t always been easy. I faced problems, but I’m stronger because of them. They taught me that ______. I’ve wrestled with the issue of how to balance getting ahead with getting along and realized _____. Going forward, I know there will be more challenges but I want to continue to grow and flourish by setting a goal of ______.

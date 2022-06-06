@@ -52,9 +52,24 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - Ziel: Körperfettanteil / 20 -> % des Körpergewichts, das man pro Woche abnehmen sollte
 - Defizit durch Reduktion von Kohlenhydraten, Fette und Protein konstant halten (oder erhöhen)
 
+## Diet Break
+
+- Alle paar Wochen 1-3 Tage Kalorien auf neues Gleichgewicht erhöhen
+
 ## Spazieren gehen
 
 - Zusätzlich Kalorien ohne große Anstrengung verbrauchen
+
+## Aktivität
+
+- Auf Aktivität achten
+- Wir werden inaktiver, wenn wir in einem Kaloriendefizit sind
+
+## Aufhören
+
+- Kalorien langsam wieder steigern nicht abrupt
+- 50-100 kcal / Tag / Woche erhöhen
+- Körper muss sich erst daran gewöhnen
 
 ### Links
 
@@ -87,3 +102,5 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - [How Long Should You Diet To Get A Six-Pack?](https://www.youtube.com/watch?v=tcOzVXOgxpc)
 - [Wie viel kcal sind 1 kg Körperfett?](https://www.marathonfitness.de/wie-viel-kcal-sind-1-kg-koerperfett/)
 - [3 Huge Nutrition Mistakes](https://www.youtube.com/watch?v=u2gy92DDvxI)
+- [Weight Loss 101](https://thefitness.wiki/weight-loss-101)
+- [Community Campfire: Managing Hunger While Losing Weight](https://www.reddit.com/r/Fitness/comments/bazp0a/community_campfire_managing_hunger_while_losing/)

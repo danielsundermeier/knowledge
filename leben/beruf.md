@@ -55,3 +55,4 @@
 - [Core Idea: Don't Follow Your Passion](https://www.youtube.com/watch?v=sjiP6sDyN-E)
 - [The Most Important Piece of Career Advice You Probably Never Heard](https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/)
 - [The Common Lie Writers Tell You](https://www.youtube.com/watch?v=oH9sJrAVeC0)
+- [Here's Why You Want A Really Boring Job](https://www.youtube.com/watch?v=4hiVQf9MPzg)

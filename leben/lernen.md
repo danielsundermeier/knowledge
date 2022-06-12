@@ -114,6 +114,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Get Skilled](https://www.artofmanliness.com/skills/)
 - [Against 3X Speed](https://perell.com/essay/against-3x-speed/)
 - [Ask HN: Anyone here have good material for learning how to sketch from scratch?](https://news.ycombinator.com/item?id=30469036)
+- [Knowledge Is Not Understanding](https://moretothat.com/knowledge-is-not-understanding/)
 
 ## Spaced Repetition
 

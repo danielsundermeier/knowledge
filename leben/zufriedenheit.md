@@ -194,3 +194,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [How to Be Happy. Always.](https://tynan.com/how-to-be-happy-always/)
 - [The only metric of success that really matters is the one we ignore](https://qz.com/1570179/how-to-make-friends-build-a-community-and-create-the-life-you-want/)
 - [How to Maximize Dopamine & Motivation - Andrew Huberman](https://www.youtube.com/watch?v=ha1ZbJIW1f8)
+- [i traveled twice around the world searching for this elusive elixir they call "hookers & blow" only to end up back where I started: food, water, exercise, sun, security, relationships, gratitude, and purpose](https://twitter.com/weaponizedFOMO/status/1535774904272187392)

@@ -287,5 +287,6 @@ Wenn jeder Mensch, jede Firma / Abteilung, jeder Verein, jede Schule/Klasse jede
 - [Fermat’s Library](https://fermatslibrary.com/)
 - [The Case Against Teaching](https://learn.uakron.edu/ideal/cohorts/friday/case_against_teaching.pdf)
 - [OSFHome](https://osf.io/) - The place to share your research
+- [New funding effort will deploy a corps of scientist ‘scouts’ to spot innovative ideas](https://www.science.org/content/article/new-funding-effort-will-deploy-corps-scientist-scouts-spot-innovative-ideas)
 
 

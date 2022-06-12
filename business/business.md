@@ -205,6 +205,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [How Josh Comeau pulled off a $500.000 Course Launch](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000)
 - [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
 - [Grinding to $1,000,000 in revenue over 6 years](https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/)
+- [How I would start my next Startup in Germany without a GmbH](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 
 ## Links
 

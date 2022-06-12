@@ -209,6 +209,7 @@ Ich glaube Langeweile ist wichtig, um zu erkennen, was ich wirklich möchte und 
 ## Einstellung
 
 - [Mindset Shift to Deal with Overwhelm](https://zenhabits.net/mindset-overwhlem/)
+- [Use Story to Change Your Life](https://zenhabits.net/stories/)
 
 ## The Redemptive Story
 

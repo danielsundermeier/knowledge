@@ -4,9 +4,245 @@
 
 Täglich erholt ohne Wecker aufwachen
 
+## Start with why
+
+### Circadian Rhythm
+
+- 98% von DNS damit verbunden
+- Körper läuft auf Rhythmus
+- Ohne Licht entwickelt
+- Lebensstil passt nicht mehr zu Rhytmus
+- Menschen waren Beute und konnten nachts nicht herumlaufen
+
+### History of Light
+
+- Feuer hat kein Einfluss auf Zircadianer Rhythmus
+    + im sichtbaren Spektralbereich dominieren rote bis hin zu gelben Wellenlängen
+- Seit Erfindung der Glühbirne gibt es künstliches Licht, dass unseren Rhythmus durcheinander bringt
+- Bis dahin haben Menschen bis zu 10 Stunden / Nacht geschlafen
+- 20. Jahrhundert: 8 Stunden / Nacht
+- Heute > 6,7 Stunden / Nacht
+- Thomas Edison erfindet 1879 die Glühbirne
+    + Ab 1880 Verkauf
+    + 100W Glühbirne beeinflusst Melatonin Produktion
+        * Hemmt Produktion -> Wir werden nicht rechtzeitig müde
+- Fernseher in 1930er Jahren erfunden
+- 2010: Computer, Handy 
+    + Besonders Blaue Strahlung
+        * Beeinflusst Zircadianer Rhythmus stark
+
+### Sleep Deprevation
+
+- Nachtschicht Arbeiter
+    + Höheres Risiko Brustkrebs zu bekommen
+- Kann zu Depression führen
+    + Man erinnert sich leichter an negative Gedanken
+- Lernen wird schlechter
+
+### Vorteile von besserem Schlaf
+
+- Die gesündesten Menschen haben eine Verbindung von den guten Handlungen zu konkreten Auswirkungen, nicht nur langfristigen unkonkreten
+    + Gut schlafen -> besser fühlen
+    + Training -> besserer Tag
+    + Gute Ernährung -> direkter Vorteil
+    + Verbindung herstellen
+        * Wie habe ich mich nach X Stunden Schlaf gefühlt? (9h, 8h, 7h, ...)
+- Schlaf ist eine Notwendigkeit kein Luxus
+- Schlaf sollte die höchste Priorität haben
+    + zuerst geplant 
+    + nicht verhandelbar
+
+## Bestimmung wichtiger als Unterhaltung
+
+- Unterhaltung durch Handys oder Fernseher am Abend führt zu schlechterem Schlaf
+- Weniger Energie für die wichtigen Dinge
+- Erkennen, dass es die Unterhaltung nicht wert ist den Schlaf zu vernachlässigen
+- Es wird einfacher auf die Unterhaltung zu verzichten, wenn man die Verbindung herstellt
+    + Mein Leben ist wichtiger als Unterhaltung
+        * Ziele
+        * Bestimmung
+    + Grund haben Morgens aufzustehen
+    + Je wichtiger der Grund, desto einfach ist es Schlaf zu priorisieren
+- Schlaf ist Grundlage für glückliches, erfolgreiches Leben
+- Guter Morgen startet am Abend davor mit gutem Schlaf
+    + Für viele die produktivste Zeit des Tages
+    + Setzt Stimmung für Tag
+
+## Sleep Cryptonite
+
+- Kein Grund aufzustehen (Bestimmung, Ziele)
+- Wichtigkeit von Schlaf nicht erkennen
+- Monitore
+- Koffein
+- Alkohol
+    + Kein tiefer Schlaf möglich
+- Tabak
+- Späte große Mahlzeiten
+- Zu späte Trainingseinheit
+- Keine feste Zeiten
+- Ängste
+
+## Digitaler Sonnenuntergang
+
+- Wenn man einen Wecker braucht, um aufzustehen ist das ein Zeichen zu wenig zu schlafen
+- Wecker zum Schlafengehen stellen statt Aufwachen
+- 1-2h vor dem Schlafengehen
+    + Bei Sonnenuntergang 
+        * Im Sommer früher
+    + Keine elekronischen Geräte mehr nutzen
+    + Lampen ohne Blaues Licht nutzen
+        * Rotes Licht
+    + Blaulichtfilter
+    + Stimulation reduzieren
+- Kein Handy am Bett
+    + Einschlafen
+        * Tiefschlafphasen 
+            - werden eher erreicht
+            - länger
+    + Aufwachen
+        * Im Aktions-Modus, statt Reaktions-Modus
+        * Erst nach wichtigen Aufgaben zum Handy greifen
+    
+## Curfews
+
+- Digitaler Sonnenuntergang
+    + Zeit zum Schlafen gehen = Zeit zum Aufstehen - Schlafenszeit - Zeit zum Einschlafen
+    + Digitaler Sonnenuntergang = Zeit zum Schlafengehen - 1-2h
+- Koffein
+    + Bis spätestens 14 Uhr 
+    + Halbwertszeit: 5-8 Stunden
+    + Gibt keine Energie, sondern verschleiert die Müdigkeit
+- Alkohol
+    + hilft nicht beim Shchlafen
+    + 3h vor Schlafengehen
+- Große Mahlzeit
+    + Anstrengend für Körper
+    + Keien Erholung im Schlaf
+    + 3h vor Schlafengehen
+- Training
+    + 4h vor Schlafengehen
+    + hebt Körpertemperatur an
+        * schlechterer Schlaf
+    + 12h Stimmungsboost durch Training
+        * so früh wie möglich trainieren
+- Arbeit
+    + Nicht bis kurz vor Schlafengehen arbeiten
+    + Puffer erstellen
+    + Shutdown Ritual
+    
+## Schlafzimmer
+
+- Kühl
+    + 16-18 Grad Celsius
+    + Wenig anziehen
+    + Körpertemperatur soll sinken
+- Dunkel
+    + Blackout Vorhänge
+    + Schlafmaske
+    + Keine leuchtenden Wecker
+- Entspannend
+    + Im Bett nur schlafen
+    + Kein TV im Schlafzimmer
+
+## Ausschalter für den Verstand
+
+- Hauptgrund nicht einzuschlafen
+    + Ängste
+    + Stress
+    + Aufregung
+- Ausschalter
+    + Meditation
+        * Morgens meditieren führt zu besserem Schlaf
+        * Trainiert 
+    + Kein Grübeln & innerer Kritiker
+        * tagsüber üben
+        * akzeptieren, wenn man es nicht ändern kann
+    + Atmemübungen
+        * Vor Entspannung Atemmuster trainieren
+            - Verbindung von Muster zu Entspannung
+            - Vor
+                + Meditieren
+                + Schladen
+                + Entspannen
+            - 6-2-8
+                + 6 Sekunden einatmen
+                + 2 Sekunden halten
+                + 8 Sekunden ausatmen
+                + Länger aus- als einatmen aktiviert parasympathisches Nervensystem
+
+## Abendrituale
+
+- Herunterfahren nach Arbeit und vor Schlaf
+    + Pufferzone
+- Jeden Abend die gleichen Rituale, die zu gutem Schlaf führen
+    + herausfinden, was das ist
+- Rituale
+    + Digitaler Sonnennutergang
+    + Spaziergang
+    + Lesen
+    + Dehnen
+    + Warme Dusche / Bad
+        * Senkt Körpertemperatur im kühlen Schlafzimmer
+    + Atmenmuster zur Entspannung
+- Beständigkeit
+    + jeden Tag, auch am Wochenende
+
+## Erholung
+
+- Menschen einziges Tier, dass keinen mehrphasiger Schlaf hat
+- sechste Stunde des Tages (Mittag) für Erholung
+    + seit industrielle Revolution nicht mehr vorhanden
+    + Siesta
+- Nickerchen tun uns gut
+    + ab 6 Minuten
+    + bis 90 Minuten
+- Verbessern Kreativität und Stimmung
+- Nicht zu nah an Schlafenszeit (Mittags)
+
+### Active Rest Wave
+
+- Pausen einlegen
+- Maximal 90 Minuten schwere Arbeit
+- Phasen sollten sich abwechseln
+- 100% Aktivität, 100% Erholen
+    + Nicht im Internet surfen
+- Pausen wirkklich zum Erholen nutzen
+    + passive Erholung: Schlaf
+    + aktive Erholung
+        * Atmen
+        * Meditation
+        * Zeit mit Freunden / Familie
+        * Beten
+        * Dankbarkeit
+- Schlafschuld 
+    + Nickerchen
+    + Eher schlafen gehen
+        * statt länger schlafen
+    
+## Ziel
+
+- +1 Stunde mehr Schlaf / Nacht    
+    + Was ist mir am Wichtigsten (3 wichtigste Dinge)
+    + Was lenkt mich davon ab?
+    + Entscheidung statt Opfer
+
+## Gear
+
+- Nightshift (Handy, Tablet)
+- Blaulichtfilter
+- Lampen ohne Blaues Licht
+- Temperaturregler
+- Leichter Schlafanzug
+- Blackout Vorhänge
+- Magnesium, beruhigt
+- Wecker zum Schlafengehen
+- Luftreiniger
+- Ausschalter im Kopf
+
 ## Adenosin
 
 - Wird mehr, je länger wir wach sind
+    + Wird produziert, wenn das Gehirn arbeitet
 - Produziert "Schlaf-Hunger"
 - Müdigkeit entsteht durch Aufbau von Adenosin
 - Koffein blockiert Adenosin Rezeptoren -> wach
@@ -100,6 +336,7 @@ Täglich erholt ohne Wecker aufwachen
         * So schnell wie möglich nach dem Aufwachen
         * Licht in die Augen bekommen
         * Sonnenaufgang
+        * Keinen Blaulichtfilter nutzen
         * Alternativen
             - Sonnenlicht Simulator
             - Blaues Licht

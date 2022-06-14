@@ -103,10 +103,10 @@ Täglich erholt ohne Wecker aufwachen
         * Im Aktions-Modus, statt Reaktions-Modus
         * Erst nach wichtigen Aufgaben zum Handy greifen
     
-## Curfews
+## Sperrzeiten
 
 - Digitaler Sonnenuntergang
-    + Zeit zum Schlafen gehen = Zeit zum Aufstehen - Schlafenszeit - Zeit zum Einschlafen
+    + Zeit zum Schlafen gehen = Zeit zum Aufstehen - Schlafenszeit - (Zeit zum Einschlafen + Puffer)
     + Digitaler Sonnenuntergang = Zeit zum Schlafengehen - 1-2h
 - Koffein
     + Bis spätestens 14 Uhr 
@@ -128,7 +128,7 @@ Täglich erholt ohne Wecker aufwachen
 - Arbeit
     + Nicht bis kurz vor Schlafengehen arbeiten
     + Puffer erstellen
-    + Shutdown Ritual
+    + Ritual zum Herunterfahren
     
 ## Schlafzimmer
 
@@ -290,7 +290,7 @@ Täglich erholt ohne Wecker aufwachen
     + jede Zelle hat eine innere Uhr
     + chemische Reaktionen aufeinander abstimmen
     + Jede Zelle im Körper braucht Lichtinformationen, genau wie Sauerstoff und Glukose
-    + Licht kann nur durch die Zellen in den Augen aufgenommen werden
+    + Licht kann nur durch die [Fotosensitive Ganglienzellen](https://de.wikipedia.org/wiki/Fotosensitive_Ganglienzelle) in den Augen aufgenommen werden
 
 ### Synchronisierung
 
@@ -304,7 +304,7 @@ Täglich erholt ohne Wecker aufwachen
     + Gleichmäßiger, normaler Rhytmus
     + Zur selben Zeit aufwachen
     + 2-3 Tage, bis sich die Systeme anpassen
-- Zellen in der Retina haben direkte Verbindung zu innerem Zeitgeber
+- Fotosensitive Ganglienzellen in der Retina haben direkte Verbindung zu innerem Zeitgeber
     + Im unteren Bereich des Auges -> reagieren auf Licht über uns -> Sonne
 - Braucht bestimmte Menge und Qualität von Licht -> Sonnenlicht, am besten wenn die Sonne tief am Himmel steht (Sonnenaufgang)
     + Künstliches Licht reicht nicht aus
@@ -315,6 +315,7 @@ Täglich erholt ohne Wecker aufwachen
         * Mit dauert 100 - 1.000 mal länger
         * Effekt durch Fenster ist 50x geringer
     + Sonnenlicht: 10.000 - 50.000 lux
+        * 1 lux = Beleuchtung von 1m2 aus 1m Entfernung einer Kerze
         * Light Meter App -> Misst Helligkeit
     + 2 - 10 Minuten
     * Retina ist morgens nicht so empfindlich und braucht mehr Licht, um die innere Uhr zu stellen
@@ -358,7 +359,7 @@ Täglich erholt ohne Wecker aufwachen
     + Unterdrückt die Nachteile bei der Lichtaufnahme später am selben Abend (Melanin Produktion)
 - Künstliches Licht
     + vermeiden
-    + Kerzenlicht, Lagerfeuer aktivieren Zellen nicht
+    + Kerzenlicht, (Lager-) Feuer, Mondlicht haben keinen Einfluss auf Zircadianen Rhythmus
     + Lampen am Abend (flach, gedimmt) unter Augenhöhe aufstellen
     + Abends Blaulichtfilter nutzen 
     + Negative Einflüsse
@@ -418,6 +419,17 @@ Täglich erholt ohne Wecker aufwachen
 - [This Book Completely Changed How I Sleep](https://www.youtube.com/watch?v=rIVVPXkGRZo)
 - [HOW to get more quality sleep](https://www.youtube.com/watch?v=q9q3hfsPYpM)
 - [13 tactical tips to improve your sleep](https://twitter.com/MCovBrown/status/1446854566645878787)
+
+## Videos
+
+- [Master Your Sleep & Be More Alert When Awake](https://www.youtube.com/watch?v=nm1TxQj9IsQ)
+- [Using Science to Optimize Sleep, Learning & Metabolism](https://www.youtube.com/watch?v=nwSkFq4tyC0)
+- [Find Your Temperature Minimum to Defeat Jetlag, Shift Work & Sleeplessness](https://www.youtube.com/watch?v=NAATB55oxeQ)
+- [Understanding and Using Dreams to Learn and to Forget](https://www.youtube.com/watch?v=FFwA0QFmpQ4)
+
+## Bücher
+
+
 
 ## Tracker
 

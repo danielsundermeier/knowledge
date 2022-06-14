@@ -27,6 +27,130 @@ Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewus
 3. Immer nur eine Gewohnheit gleichzeitig ändern
 4. Klein anfangen
 
+## Willenskraft
+
+- Korreliert 2x mehr mit Erfolg als IQ
+    + Willenkraft stärken ist guter Weg erfolgreich zu werden
+- Endlich, Ermüdet
+    + Wie ein Muskel oder eine Batterie
+- Zum Aufbauen neuer Gewohnheiten nutzen
+- Entscheidungen so selten wie möglich treffen
+- Willenskraft steigern
+    + Essen, Bewegung und Schlafen steigert Willenskraft
+    + Meditation ist Training für das Gehirn
+    + Tiefe Atmung 
+        * 4 Sekunden einatmen
+        * 6 Sekunden ausatmen
+    + Entscheidung vorwegnehmen & Klare Regeln
+    + Selbstmitgefühl
+
+## Grundlagen
+
+- Gewohnheiten für die Grundlagen etablieren
+
+### Allgemein
+
+- Ernährung
+- Bewegung
+- Schlaf
+- Mentales Training
+    + Dankbarkeit
+    + Meditation
+
+### Speziell
+
+- Wichtig für Erfolg in Beruf / Hobbys
+
+## Grundpfeiler
+
+- Wichtigste Gewohnheit, die den größten Einfluss auf das Leben hat
+- Was hätte den größten Einfluss auf unser Leben?
+    + Größter Einfluss
+    + Höchste Begeisterung
+    + Komplette Hingabe
+        * Es ist leicher sich 100% an etwas zu halten als zu 98%
+
+## Kryptonit
+
+- Negative Gewohnheiten stoppen
+- Stop Doing List
+
+## Grund haben
+
+- Warum ist es mir wichtig Gewohnheiten zu etablieren / zu stoppen?
+    + Mit einem guten Grund ist es einfacher
+- Wie würde sich mein Leben ändern?
+- Welche Vorteile hätte ich direkt?
+    + Verbindung von Gewohnheit zu direktem Vorteil herstellen
+
+## Täglich ausführen
+
+- Gewohnheit jeden Tag ausführen
+    + Einfacher sich daran zu halten -> Klare Regel
+- Keinen Tag ausfallen lassen
+    + Wenn man es ausfallen lässt, Gewohnheit am nächsten Tag zur höchsten Priorität machen
+    + besonders nicht zwei Tage in Folge
+        * Selbstmord für Gewohnheit
+- Gewohnheitstracker nutzen
+    + Gut sichtbarer Kalender
+    + Händisch abhaken (z.B. große rote Kreuze)
+    + Gamification
+    + Strähne nicht brechen
+
+## Auslöser
+
+- Startet eine Geowhnheit
+    + Wahrnehmen (sehen, riechen, hören, ...)
+    + Aktion (Nach Hause kommen, aufstehen, ...)
+    + Uhrzeit
+- Gute Auslöser offensichtlich
+    + Sportkleidung rauslegen
+    + Arbeit für nächsten Tag vorbereiten
+- Schlechte Auslöser entfernen
+    + Ungesunde Lebensmittel
+    + Fernbedienung auf neben Sofa
+
+## Einfach halten
+
+- Tägliche Gewohnheiten müssen einfach sein
+    + Wirklich immer ausführbar
+    + Zu leicht, um zu scheitern
+    + Wir wollen es lebenslang machen
+    + Langsam steigern
+    + An den meisten Tagen macht man mehr
+    + Beispiele
+        * 1 Liegestütz
+        * 50 Wörter schreiben
+        * 1 Minute meditieren
+        * 1 Seite lesen
+- Einfacher weiterzumachen
+    + "Trägheit der Masse"
+    + Anfangen ist das Schwerste
+- Beständigkeit wichtiger als Leistung
+
+## Prozess genießen
+    
+- Man braucht Geduld, um eine Gewohnheit zu etablieren
+    + Zeit?
+    + Am Anfang ist es ungewohnt und unerträglich
+    + Im Laufe der Zeit wird es besser und es ist nur noch unangehm
+    + Wenn die Gewohnheit etabliert ist, ist man unaufhaltsam
+        * Es ist schwer es nicht zu tun
+        * Positive Auswirkungen sind klar mit Gewohnheit verknüpft
+
+## Einstellung
+
+> "Whether You Think You Can, or Think You Can't - You're Right"
+
+- Einstellung hat einen großen Einfluss auf das Leben
+    + Wenn man nicht glaube sein Leben zu ändern, kann man es auch nicht
+    + Glaube etwas ändern zu können führt zu Verhalten, das es ändert
+        * Man gibt nicht beim kleinsten Problem auf
+        * Jede Gewohnheit ist veränderbar
+- Rückschläge als Möglichkeiten zu Verbesserung sehen
+    + Wir verbessern uns oder wir lernen
+- Durchhaltevermögen
+
 ## Notizen
 
 - Es ist leicher sich 100% an etwas zu halten als zu 98%.
@@ -38,14 +162,6 @@ Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewus
 - Ablauf: Was? Wo? Wie?
 - Was tue ich bei Problemen ([Implementation Intentions](https://de.wikipedia.org/wiki/Implementation_Intentions))
     + Wenn A, dann B
-
-## Auslöser
-
-Etwas, das die Gewohnheit auslöst:
-
-- Etwas wahrnehmen (sehen, riechen, hören, ...)
-- Aktion (Nach Hause kommen, aufstehen, ...)
-- Uhrzeit
 
 ## Aktion
 

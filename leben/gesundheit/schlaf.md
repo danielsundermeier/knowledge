@@ -4,17 +4,10 @@
 
 Täglich erholt ohne Wecker aufwachen
 
-## Start with why
+## Grund Aufzustehen
 
-### Circadian Rhythm
 
-- 98% von DNS damit verbunden
-- Körper läuft auf Rhythmus
-- Ohne Licht entwickelt
-- Lebensstil passt nicht mehr zu Rhytmus
-- Menschen waren Beute und konnten nachts nicht herumlaufen
-
-### History of Light
+### Geschichte von künstlichem Licht
 
 - Feuer hat kein Einfluss auf Zircadianer Rhythmus
     + im sichtbaren Spektralbereich dominieren rote bis hin zu gelben Wellenlängen
@@ -31,7 +24,7 @@ Täglich erholt ohne Wecker aufwachen
     + Besonders Blaue Strahlung
         * Beeinflusst Zircadianer Rhythmus stark
 
-### Sleep Deprevation
+### Zu wenig Schlaf
 
 - Nachtschicht Arbeiter
     + Höheres Risiko Brustkrebs zu bekommen
@@ -52,7 +45,7 @@ Täglich erholt ohne Wecker aufwachen
     + zuerst geplant 
     + nicht verhandelbar
 
-## Bestimmung wichtiger als Unterhaltung
+## Bestimmung > Unterhaltung
 
 - Unterhaltung durch Handys oder Fernseher am Abend führt zu schlechterem Schlaf
 - Weniger Energie für die wichtigen Dinge
@@ -68,7 +61,7 @@ Täglich erholt ohne Wecker aufwachen
     + Für viele die produktivste Zeit des Tages
     + Setzt Stimmung für Tag
 
-## Sleep Cryptonite
+## Kryptonit
 
 - Kein Grund aufzustehen (Bestimmung, Ziele)
 - Wichtigkeit von Schlaf nicht erkennen
@@ -226,7 +219,7 @@ Täglich erholt ohne Wecker aufwachen
     + Was lenkt mich davon ab?
     + Entscheidung statt Opfer
 
-## Gear
+## Ausrüstung
 
 - Nightshift (Handy, Tablet)
 - Blaulichtfilter
@@ -258,8 +251,13 @@ Täglich erholt ohne Wecker aufwachen
 
 ## Zircadianer Rhythmus
 
+
 > "Der zirkadiane Rhythmus ist die Fähigkeit eines Organismus, physiologische Vorgänge auf eine Periodenlänge von etwa 24 Stunden zu synchronisieren. Der wichtigste zirkadiane Rhythmus ist der Schlaf-Wach-Rhythmus." - [Zirkadianer Rhythmus](https://flexikon.doccheck.com/de/Zirkadianer_Rhythmus)
 
+- 98% von DNS damit verbunden
+- Ohne künstliches Licht entwickelt
+- Lebensstil passt nicht mehr zu Rhytmus
+- Menschen waren Beute und konnten nachts nicht herumlaufen
 - Für Schlaf-Wach-Rhythmus verantwortlich
 - Ist etwas länger als 24h
 - Wird von Licht, besonders Sonnenlicht, synchronisiert

@@ -417,6 +417,7 @@ Täglich erholt ohne Wecker aufwachen
 - [This Book Completely Changed How I Sleep](https://www.youtube.com/watch?v=rIVVPXkGRZo)
 - [HOW to get more quality sleep](https://www.youtube.com/watch?v=q9q3hfsPYpM)
 - [13 tactical tips to improve your sleep](https://twitter.com/MCovBrown/status/1446854566645878787)
+- [Toolkit for Sleep](https://hubermanlab.com/toolkit-for-sleep/)
 
 ## Videos
 

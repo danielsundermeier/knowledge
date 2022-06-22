@@ -165,6 +165,55 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 
 - [This Graph Changed My Life](https://www.youtube.com/watch?v=HdJwHx-QofA)
 
+## The Science of Wellbeing
+
+### Genießen
+
+- Fähigkeit etwas wirklich zu genießen, während es passiert
+- Verbessert unsere Stimmung
+    + Verhindert [hedonistische Adaptation](https://de.wikipedia.org/wiki/Hedonistische_Tretm%C3%BChle), indem es uns an das Gute im Leben erinnert
+    + Verhindert wirre Gedanken, indem wir im Moment bleiben
+    + Vergrößert Dankbarkeit, während wir sie erleben
+- Warum macht mich dieser Moment gerade glücklich?
+- Aufschreiben, was wir genossen haben
+
+### Dankbarkeit
+
+- Verbessert Stimmung
+- Reduziert Stress 
+- Stärkt Immunsystem
+- Verringert Blutdruck
+- Stärkere soziale Verbindungen
+- Dankbarkeitstagebuch führen
+    + Dankbarkeit wirklich erfahren, während des Aufschreibens
+
+### Misconceptions about Happiness
+
+#### G.I. Joe Fallacy
+
+- Etwas zu wissen ist nicht genug, um unser Verhalten zu ändern
+
+#### Geld
+
+- Hat kaum eine Korrelation mit Zufriedenheit (0,125), wenn man seine Grundbedürfnisse gedeckt hat
+- Wir denken, dass wir ein besseres Leben haben, wenn wir mehr verdienen, es ist aber nicht so
+
+#### Sonstiges
+
+- Dinge, Liebe, perfekter Körper, gute Noten
+- Dinge zu wollen macht uns unglücklicher
+- perfekter Körper
+    + Menschen, die zu sehr auf ihren Körper achten sind unglücklicher
+    + Nach Schönheits OP sind sie noch unglücklicher
+
+### Why our expectations are so bad
+
+### What stuff rreally increases Happiness
+
+### Strategies to reset your expectations
+
+### Putting strategies into practice
+
 ## Links
 
 - [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)
@@ -195,3 +244,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [The only metric of success that really matters is the one we ignore](https://qz.com/1570179/how-to-make-friends-build-a-community-and-create-the-life-you-want/)
 - [How to Maximize Dopamine & Motivation - Andrew Huberman](https://www.youtube.com/watch?v=ha1ZbJIW1f8)
 - [i traveled twice around the world searching for this elusive elixir they call "hookers & blow" only to end up back where I started: food, water, exercise, sun, security, relationships, gratitude, and purpose](https://twitter.com/weaponizedFOMO/status/1535774904272187392)
+- [How to Find Balance in the Age of Indulgence - Dr. Anna Lembke](https://www.youtube.com/watch?v=aEfkx3DsXjs)

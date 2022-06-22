@@ -65,6 +65,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Drawabox Lesson 0, Part 1: What is Drawabox?](https://www.youtube.com/watch?v=2gujrl5NU8M&list=PLA7yj0dxiUGv7k8ohEt15EtMz9PTckNXw)
 - [Buttondown](https://buttondown.email/) - The easiest way to launch your newsletter.
 - [listmonk](https://listmonk.app/) - Self-hosted newsletter and mailing list manager
+- [How to Build an Audience](https://www.youtube.com/watch?v=U7vsdIjCSzY)
 
 ## Wert
 

@@ -62,6 +62,8 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 > "But I think of just two years ago, when I could barely survive what now has become routine, and remind myself that there is nothing more important than simply showing up and doing the work, every single day." - [Lessons from the Sea](https://www.collaborativefund.com/blog/lessons-from-the-sea)
 
+> "The success formula: solve your own problems and freely share the solutions." - [Navalism](https://twitter.com/NavalismHQ/status/1539192654264782849)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

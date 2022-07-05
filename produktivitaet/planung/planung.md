@@ -4,6 +4,15 @@
 | --- | ----- | ----- | ---- |
 | Ausführbare Aufgaben für nächsten Tag planen | Aufgaben aus Projekten erstellen | Projekte für den Monat planen | Ziele für das Jahr festlegen
 
+- Planung und ausführen trennen
+- Tag vorbereiten und Entscheidungen vorziehen, damit ich immer weiß, was ich machen möchte
+    + Auf das tun konzentrieren können
+    + Am besten mittags, wenn ich nocht nicht müde bin
+- Konkrete Schritte aufschreiben
+- In den Kalender eintragen
+- Beim Planen den Weg vorgeben, Ziele ssetzen und dann täglich mit Gewohnheiten ausführen
+- Wichtigste Aufgabe als erstes ausführen
+
 ## Links
 
 - [This Productivity System Will Save Your Life](https://www.youtube.com/watch?v=8n2vL2I__WY&feature=share)

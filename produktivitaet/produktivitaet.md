@@ -112,23 +112,6 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 
 - [Flow](https://de.wikipedia.org/wiki/Flow_(Psychologie))
 
-## Prokrastination
-
-- Herausfinden, warum ich nicht motiviert bin
-    + Ich weiß nicht, wie ich anfangen soll
-    + Ich habe keine Lösung für das Problem
-    + Es ist langweilig
-- Klarheit schaffen
-- Immer wenn ich etwas herausschiebe, 2 Liegestütz machen
-- Nicht tun/Langweilen -> Irgendwann fange ich an
-- Wenn ich keine Lösung habe, spazieren gehen/duschen/... -> Ablenken (den Kopf entspannen), um eine Lösung zu finden: focus mode -> diffuse mode
-- Künstliche Deadlines erzeugen; Arbeit dauert immer so lange, wie man Zeit hat 
-- Unangenehmes mit Angenehmen verbinden
-
-- [5 Schritte um weniger aufzuschieben, sich besser zu fokusieren und produktiver zu sein](https://www.youtube.com/watch?v=N60bMFqkcpU)
-
-> "The only thing that works is to start the work." - [Solo developer, what's your recipe to start working?](https://news.ycombinator.com/item?id=26747318)
-
 ### Links
 
 - [How to Stop Procrastinating](https://www.youtube.com/watch?v=km4pOGd_lHw)

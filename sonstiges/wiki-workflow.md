@@ -34,3 +34,4 @@
 - [Hack Your Life With A Private Wiki Notebook](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems)
 - [Growing the Evergreens](https://maggieappleton.com/evergreens)
 - [The Commonplace Book](https://thedeepdish.org/digital-commonplace-book/)
+- [Beginner's Guide: The First 30 Days Using a Notes App](https://www.youtube.com/watch?v=tOS53fSDqVw)

@@ -104,3 +104,5 @@ Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im 
 - [3 Huge Nutrition Mistakes](https://www.youtube.com/watch?v=u2gy92DDvxI)
 - [Weight Loss 101](https://thefitness.wiki/weight-loss-101)
 - [Community Campfire: Managing Hunger While Losing Weight](https://www.reddit.com/r/Fitness/comments/bazp0a/community_campfire_managing_hunger_while_losing/)
+- [How to Lose Weight (Without Dieting)](https://www.nerdfitness.com/blog/how-to-lose-weight-without-dieting-5-rules-of-weight-loss/)
+

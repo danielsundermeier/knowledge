@@ -435,3 +435,4 @@ Täglich erholt ohne Wecker aufwachen
 - [Oura Ring](https://ouraring.com/)
 - [Sleep Cycle](https://www.sleepcycle.com/)
 - [EightPod](https://www.eightsleep.com/eight-pod-sleep-cool/)
+- [Sleep analyzer](https://www.withings.com/de/de/sleep-analyzer)

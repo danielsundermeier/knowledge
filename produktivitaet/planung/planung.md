@@ -25,3 +25,4 @@
 - [Prioritisation Part 1/2 - Finding Goals](https://www.neelnanda.io/blog/prioritisation)
 - [ORGANIZE TOMORROW TODAY by Jason Selk & Tom Bartow | Core Message](https://www.youtube.com/watch?v=yRLEr69qPd4)
 - [Core Idea: Time Management](https://www.youtube.com/watch?v=dOQpZlZuySE)
+- [Want to get in shape? Think in days and years, not weeks and months](https://www.youtube.com/watch?v=ieY_8ZL0v78)

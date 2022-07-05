@@ -213,4 +213,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Einsamkeit überwinden: Der lange Weg zu tieferen Beziehungen](https://www.healthyhabits.de/einsamkeit-ueberwinden-der-lange-weg-zu-tieferen-beziehungen/)
 - [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/05/be-yourself/)
 - [Twitter Guide](https://docs.google.com/document/d/18ozu7cTz3Wa1TryuNS8n5hhAenXad_RtoBm0E5d4mTQ/edit)
+- [You Can’t Change People](https://nielsbohrmann.com/you-cant-change-people/)
 

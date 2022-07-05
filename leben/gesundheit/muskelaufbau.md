@@ -97,3 +97,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [How Much Muscle Can You Gain In 30 Days?](https://www.youtube.com/watch?v=Rvz0RUPDzrI)
 - [Training Volume Landmarks for Muscle Growth](https://rpstrength.com/training-volume-landmarks-muscle-growth/)
 - [The Hypertrophy Training Guide Central Hub](https://rpstrength.com/hypertrophy-training-guide-central-hub/)
+- [The Ultimate Guide to Building Muscle Fast](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength/)
+

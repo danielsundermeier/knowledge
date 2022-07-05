@@ -20,11 +20,70 @@ Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 
 ## Perma
 
-- Positive Emotion
-- Engagement
-- Relationships
-- Meaning
-- Accomplishment
+### Positive Emotion
+### Engagement
+
+#### Stärken
+
+##### Weisheit und Wissen
+
+kognitive Stärken, die den Erwerb und den Gebrauch von Wissen beinhalten
+
+- Kreativität: Neue und effektive Wege finden, Dinge zu tun
+- Neugier: Interesse an der Umwelt haben
+- Urteilsvermögen und Aufgeschlossenheit: Dinge durchdenken und von allen Seiten betrachten
+- Liebe zum Lernen: Neue Techniken erlernen und Wissen aneignen
+- Weitsicht: In der Lage sein, guten Rat zu geben
+
+##### Mut
+
+Emotionale Stärken, die mittels der Ausübung von Willensleistung dabei helfen, interne und externe Barrieren zur Erreichung eines Zieles zu überwinden
+
+- Tapferkeit (Mut): Sich nicht Bedrohung oder Schmerz beugen, sondern Herausforderungen annehmen
+- Ausdauer (Hartnäckigkeit, Beharrlichkeit, Fleiss): Beenden, was begonnen wurde
+- Ehrlichkeit (Integrität): Die Wahrheit sagen und sich natürlich verhalten
+- Tatendrang (Vitalität): Der Welt mit Begeisterung und Energie begegnen
+
+##### Menschlichkeit
+
+Interpersonale Stärken, die liebevolle menschliche Interaktionen ermöglichen
+
+- Fähigkeit zu lieben und geliebt zu werden: Menschliche Nähe herstellen und schätzen können
+- Freundlichkeit (Grosszügigkeit): Gefallen tun und gute Taten vollbringen
+- Soziale Intelligenz (soziale Kompetenz): Sich der eigenen Motive und Gefühle und denen anderer bewusst sein
+
+##### Gerechtigkeit
+
+Stärken, die das Gemeinwesen fördern
+
+- Teamwork (Bürgerverantwortung, Teamfähigkeit): Gut als Mitglied eines Teams arbeiten
+- Fairness: Alle Menschen nach dem Prinzip der Gleichheit und Gerechtigkeit behandeln
+- Führungsvermögen: Gruppenaktivitäten organisieren und ermöglichen
+
+##### Mässigung
+
+Stärken, die Exzessen entgegenwirken
+
+- Vergebungsbereitschaft und Gnade: Denen vergeben, die einem Unrecht getan haben
+- Bescheidenheit und Demut: Das Erreichte für sich sprechen lassen
+- Vorsicht (Besonnenheit, Umsicht): Nichts tun oder sagen, was später bereut werden könnte
+- Selbstregulation: Regulieren, was man tut und fühlt
+
+##### Transzendenz
+
+Stärken, die uns einer höheren Macht näherbringen und Sinn stiften
+
+- Sinn für das Schöne und Exzellenz: Schönheit in allen Lebensbereichen schätzen
+- Dankbarkeit: Sich der guten Dinge bewusst sein und sie zu schätzen wissen
+- Hoffnung (Optimismus): Das Beste erwarten und daran arbeiten, es zu erreichen
+- Humor: Lachen und Humor schätzen und Leute gerne zum Lachen bringen
+- Religiosität und Spiritualität: Kohärente Überzeugungen von einem höheren Sinn des Lebens haben
+
+[Charakter](http://www.positive-psychologie.ch/?page_id=27)
+
+### Relationships
+### Meaning
+### Accomplishment
 
 [PERMA Theory of Well-Being](https://ppc.sas.upenn.edu/learn-more/perma-theory-well-being-and-perma-workshops)
 

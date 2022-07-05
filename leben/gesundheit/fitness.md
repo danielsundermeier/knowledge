@@ -70,6 +70,11 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [The 10 Home Gym Essentials According to Coop](https://www.youtube.com/watch?v=QFq6Dg_0dbU)
 - [The 10 Biggest Home Gym Mistakes I See...](https://www.youtube.com/watch?v=dOjKpPLQZJ4)
 
+## Übungen
+
+- [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
+- [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)
@@ -86,4 +91,5 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [What Are Reasonable Fitness Expectations?](https://www.youtube.com/watch?v=ZoleN7y5ZHI)
 - [HYBRID CALISTHENICS ROUTINE](https://www.hybridcalisthenics.com/routine)
 - [What are the most interesting things you've learned on your fitness journey?](https://qr.ae/pvHJ9B)
+- [My Foolproof Calisthenics Template](https://www.youtube.com/watch?v=UFFf3QVaU9Y)
 

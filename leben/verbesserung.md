@@ -60,6 +60,29 @@ Indem ich bestimmte Dinge tue verändert sich mein Gehirn ([Neuronale Plastizit�
 
 Ich kann diese Veränderungen sogar vererben.
 
+## Rückschläge
+
+- Gehören dazu
+    + Ziel ist sie zu minimieren nicht zu eleminieren
+- Mitgefühl haben
+    + Nicht selbst runterziehen oder kritisieren
+    + Es als Chance zum Lernen sehen
+- Nicht ausarten lassen
+    + "Heute ist eh gelaufen"
+- Nicht das Verpasste auf morgen schieben
+    + Verpasstes nachholen
+    + Morgen mehr trianieren, weniger essen, länger arbeiten, ...
+    + Zu viel für einen Tag, nicht nachhaltig, mehr Wiederstand
+    + Macht alles nur noch schlimmer
+- Zukünftiges Ich priorisieren
+    + heute mehr machen, damit ich morgen Spielraum habe
+    + Leben für das zukünftige Ich leichter machen
+- Klein anfangen
+    + Um einfacher wieder reinzukommen
+    + Dynamik aufbauen
+    + Nicht die Maximalziele als Anforderung setzen
+
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

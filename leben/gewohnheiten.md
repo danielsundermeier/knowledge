@@ -448,3 +448,4 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - [The Science of Making & Breaking Habits | Huberman Lab Podcast #53](https://www.youtube.com/watch?v=Wcs2PFz5q6g)
 - [Psychology of Habit](https://dornsife.usc.edu/assets/sites/545/docs/Wendy_Wood_Research_Articles/wood.runger.2016.pdf)
 - [Build or Break Habits Using Science-Based Tools](https://hubermanlab.com/build-or-break-habits-using-science-based-tools/)
+- [Trying Huberman’s 21-Day Habit Building System](https://medium.com/@jessiezhuwen/trying-hubermans-21-day-habit-building-system-63ac654bf19b)

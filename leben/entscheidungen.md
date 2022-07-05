@@ -115,5 +115,5 @@ Jeden Tag wiegen, um festzustellen, ob die Ernährung und das Training funktioni
 - [A thread on thinking more clearly](https://twitter.com/Julian/status/1378439257879162880)
 - [Ok. So, You Can’t Decide.](https://randsinrepose.com/archives/ok-so-you-cant-decide/)
 - [Will I Settle Down? The Third Option](https://tynan.com/thirdoption/)
-
+- [The 100% Rule That Will Change Your Life](https://www.youtube.com/watch?v=-rfLejtqwjc)
 

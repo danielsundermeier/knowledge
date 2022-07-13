@@ -304,3 +304,6 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [How to Maximize Dopamine & Motivation - Andrew Huberman](https://www.youtube.com/watch?v=ha1ZbJIW1f8)
 - [i traveled twice around the world searching for this elusive elixir they call "hookers & blow" only to end up back where I started: food, water, exercise, sun, security, relationships, gratitude, and purpose](https://twitter.com/weaponizedFOMO/status/1535774904272187392)
 - [How to Find Balance in the Age of Indulgence - Dr. Anna Lembke](https://www.youtube.com/watch?v=aEfkx3DsXjs)
+- [If you had to shoot for 10% month over month increase in your personal happiness for as many months as possible, what would be your strategy?](https://twitter.com/nickcammarata/status/1543560881543548928)
+- [Wealth vs. Getting Wealthier](https://www.collaborativefund.com/blog/wealth-vs-getting-wealthier/)
+

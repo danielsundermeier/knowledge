@@ -27,6 +27,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Weaving a Non-Dual Civilisation — Part 3: Returning to Life](https://medium.com/the-phoenix-project/weaving-a-non-dual-civilisation-part-3-returning-to-life-3c2e7626faa6)
 - [Pantopia](https://www.goodreads.com/book/show/59436370-pantopia)
 - [Aufbruch nach Honua: Utopischer Roman](https://www.goodreads.com/book/show/60637696-aufbruch-nach-honua)
+- [the terrapunk manifesto](https://nasjaq.substack.com/p/the-terrapunk-manifesto)
 
 ### Dystopien
 

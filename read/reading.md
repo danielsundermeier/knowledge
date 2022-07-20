@@ -1,13 +1,6 @@
 # Reading
 
-[Lifestyles](https://www.collaborativefund.com/blog/lifestyles/)
+[Mo’ Money Mo’ Problems](https://www.cspicenter.com/p/mo-money-mo-problems)
 
-> "I have no idea how to find the perfect balance between internal and external benchmarks. But I know there’s a strong social pull toward external measures – chasing a path someone else set, whether you enjoy it or not. Social media makes it ten times more powerful. But I also know there’s a strong natural desire for internal measures – being independent, following your quirky habits, and doing what you want, when you want, with whom you want. That’s what people actually want."
+> "A truly enlightened state would use the same scientific method it is funding to analyze and improve its own efforts over time."
 
-[Wealth vs. Getting Wealthier](https://www.collaborativefund.com/blog/wealth-vs-getting-wealthier/)
-
-> "What feels great is being on an upward path. That’s when dopamine takes over. That’s when you can extrapolate it and assume it goes on forever, and compare yourself to where you were before, and feel like nothing can stop you."
-
-[Don't Read History for Lessons](https://commoncog.com/blog/dont-read-history-for-lessons/)
-
-> "The goal of reading from history, then, is to expand the set of prototypes in your head."

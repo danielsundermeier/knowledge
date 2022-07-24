@@ -215,4 +215,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Twitter Guide](https://docs.google.com/document/d/18ozu7cTz3Wa1TryuNS8n5hhAenXad_RtoBm0E5d4mTQ/edit)
 - [You Can’t Change People](https://nielsbohrmann.com/you-cant-change-people/)
 - [This Is How To Have Emotionally Intelligent Relationships](https://bakadesuyo.com/2022/07/schema/)
+- [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 

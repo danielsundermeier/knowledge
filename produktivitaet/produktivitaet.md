@@ -95,6 +95,7 @@ Vorraussetzungen:
 - [The Truth About Infinite Motivation](https://www.youtube.com/watch?v=uFAlRKjexSg)
 - [How to Unlock Your Motivation](https://www.youtube.com/watch?v=RfL0H9IiU9s)
 - ["Motivation is a byproduct of action, not the catalyst for it."](https://twitter.com/adamwathan/status/1520153298023636993)
+- [How I Make Work Fun](https://www.youtube.com/watch?v=ELavuz3btaE)
 
 ## Flow
 

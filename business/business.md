@@ -207,6 +207,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html)
 - [Grinding to $1,000,000 in revenue over 6 years](https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/)
 - [How I would start my next Startup in Germany without a GmbH](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
+- [Here are the 14 steps of my strange journey](https://twitter.com/thejustinwelsh/status/1453029782631895043)
 
 ## Links
 
@@ -264,6 +265,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [How The Pandora Papers Actually Work](https://www.youtube.com/watch?v=0uLhh5GSxsQ)
 - [Your First Business Should Be A Spreadsheet](https://endler.dev/2021/first-business/)
 - [The Arc of the Practical Creator](https://moretothat.com/the-arc-of-the-practical-creator/)
+- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
 
 ### Blogs
 

@@ -75,4 +75,5 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)
 - [Attainable Excellence](https://tynan.com/excellence/)
 - [Big Skills](https://www.collaborativefund.com/blog/skills/)
+- [The Power of Failing Well](https://www.collaborativefund.com/blog/the-power-of-failing-well/)
 

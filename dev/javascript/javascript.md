@@ -19,6 +19,10 @@
 
 - [How to Use TypeScript – Beginner-Friendly TS Tutorial](https://www.freecodecamp.org/news/an-introduction-to-typescript/)
 
+## Vue
+
+- [VueUse](https://vueuse.org) - Collection of Vue Composition Utilities
+
 ## Links
 
 - [How to Switch from jQuery to Vanilla JavaScript](https://www.freecodecamp.org/news/bootstrap-5-vanilla-js-tutorial/)

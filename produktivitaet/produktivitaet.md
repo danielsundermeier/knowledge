@@ -174,6 +174,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [50+ Productivity Tips to Take Your Success to the Next Level](https://www.theemotionmachine.com/50-productivity-tips-to-take-your-success-to-the-next-level/)
 - [How do I learn how to work hard?](https://qr.ae/pvsfFf)
 - [What To Do When You Have Too Much To Do](https://nielsbohrmann.com/too-much-to-do/)
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/)
 
 ### Blogs
 

@@ -30,3 +30,4 @@ nano /usr/local/etc/php/7.4/php.ini
 - [PHP The Right Way](https://phptherightway.com/)
 - [Human readable number formatting in PHP](https://www.amitmerchant.com/human-readable-number-formatting-in-php/)
 - [PHP Code Quality Tools](https://getparthenon.com/blog/php-code-quality-tools/)
+- [PHP Developer roadmap](https://github.com/thecodeholic/php-developer-roadmap)

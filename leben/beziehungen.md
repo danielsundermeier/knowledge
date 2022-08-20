@@ -216,4 +216,5 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [You Can’t Change People](https://nielsbohrmann.com/you-cant-change-people/)
 - [This Is How To Have Emotionally Intelligent Relationships](https://bakadesuyo.com/2022/07/schema/)
 - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
+- [Freundschaft vertiefen: 25 Fragen, die uns einander näher bringen](https://www.stern.de/gesundheit/freundschaft-vertiefen--mit-25-fragen--die-uns-einander-naeher-bringen-32602012.html)
 

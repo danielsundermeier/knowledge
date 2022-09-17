@@ -22,11 +22,11 @@ Die Module sind aufgebaut wie ein Skilltree in einem Rollenspiel. Es gibt eine H
 
 Am Ende jedes Moduls gibt es eine Prüfung. Diese Prüfung muss zu mindestens 90% bestanden werden ([Mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)), um das Modul abzuschließen. Dabei hat man so viele Versuche, bis das Modul bestanden ist. Es ist ähnlich zu einem Helpdesk. Man reicht die Aufgaben immer wieder ein, bis sie bestanden wurde. Die Lehrer geben den Schülern Hinweise und helfen bei der Lösung.
 
-Das Lernen selbst sollte projektbasiert sein. Man muss das Gelernte anwenden um es wirklich zu verstehen. Die Schüler sind sehr viel motiverter (intrinsische Motivation), weil es einen Grund gibt und sie sich ihren Weg (teilweise) selbst ausgesucht haben. Sie wissen also warum sie etwas lernen und sie möchten das Projekt weiterbringen. Man ist auch leichter bereit dafür ungeliebte Dinge zu tun, schließlich gibt es ein höheres Ziel.
+Das Lernen selbst sollte projektbasiert sein. Man muss das Gelernte anwenden um es wirklich zu verstehen. Die Schüler sind sehr viel motivierter (intrinsische Motivation), weil es einen Grund gibt und sie sich ihren Weg (teilweise) selbst ausgesucht haben. Sie wissen also warum sie etwas lernen und sie möchten das Projekt weiterbringen. Man ist auch leichter bereit dafür ungeliebte Dinge zu tun, schließlich gibt es ein höheres Ziel.
 
 Ich habe so programmieren gelernt. Ich habe viele Serien geguckt und immer vergessen, welche die nächste Folge ist. Daraufhin habe ich mir eine Datenbank programmiert, die ich immer weiter aufgebaut habe. Immer wenn ich eine neue Idee hatte, habe ich mir selbst beigebracht wie ich es umsetzen kann. Ich habe viel gelernt, viel freiwillige Arbeit in die Homepage gesteckt und hatte Spaß dabei. So stelle ich mir die Schule vor.
 
-Der Tagesablauf selbst soll auch auf den Kopf gestellt werden. Es gibt Videos, Texte, Tutorials und Podcasts, die die Grundlagen vermitteln (z.B. Khan Accademy). Die Grundlagen lernt man nach der Schule zuhause alleine oder in der Gruppe. In der Schule arbeitet man an den Aufgaben und Projekten. Dort sind Lehrer (oder ältere Schüler), die die Schüler unterstüzen können. Man lernt am Besten, wenn man es anderen erklärt ([The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)).
+Der Tagesablauf selbst soll auch auf den Kopf gestellt werden. Es gibt Videos, Texte, Tutorials und Podcasts, die die Grundlagen vermitteln (z.B. Khan Accademy). Die Grundlagen lernt man nach der Schule zuhause alleine oder in der Gruppe. In der Schule arbeitet man an den Aufgaben und Projekten. Dort sind Lehrer (oder ältere Schüler), die die Schüler unterstützen können. Man lernt am Besten, wenn man es anderen erklärt ([The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/feynman-technique/)).
 
 Die Schüler sollen ein Mitspracherecht in ihrer Ausbildung haben und ihren Interessen folgen können.
 
@@ -48,7 +48,7 @@ Es könnte auch sehr große Projekte geben, die die Schüler die ganze Schullauf
 
 ### Leben
 
-Zusätzlich sollte die Schule Kinder und Jugendliche auf das Leben vorbereiten. Dinge wie Gesundheit, Finanzen, Beziehungen und vieles mehr sollte den Kindern beigerbacht werden. Sie sollen selbstständig sein und wissen, wie sie Probleme lösen und sich ihr Leben aufbauen können.
+Zusätzlich sollte die Schule Kinder und Jugendliche auf das Leben vorbereiten. Dinge wie Gesundheit, Finanzen, Beziehungen und vieles mehr sollte den Kindern beigebracht werden. Sie sollen selbstständig sein und wissen, wie sie Probleme lösen und sich ihr Leben aufbauen können.
 
 Aktuell muss sich jeder diese Dinge selbst beibringen. Viele der Themen wirken aber nicht sehr interessant (Steuern, gesunde Ernährung), sind aber sehr wichtig für ein gutes Leben. Wenn man die Grundlagen in der Schule lernen würde, hätte man zumindest einen Überblick und kann bessere Entscheidungen treffen.
 
@@ -81,7 +81,7 @@ Es kann sich zu einem Lebensmittelpunkt im Dorf, wie früher die Kirche oder die
 - Lehrer und Experten unterstützen Schüler bei Projekten 
 - Praktika und Mentoren
 - Bewertung von Projekten durch Ticketsystem, Ziel: [Bestehen](https://en.wikipedia.org/wiki/Mastery_learning)
-- "Meisterstück" zum Abchluss der Schule / Schuljahr / Schulabschnitt / Modul
+- "Meisterstück" zum Abschluss der Schule / Schuljahr / Schulabschnitt / Modul
     + Handwerk
     + Kunstwerk
     + Software
@@ -121,7 +121,7 @@ Ich halte es für einen großen Fehler an der Bildung, Ausbildung oder Forschung
 
 ## Fächer
 
-Zusätzlich zu den normalen Fächern solen Schüler auf das Leben vorbereitet werden.
+Zusätzlich zu den normalen Fächern sollen Schüler auf das Leben vorbereitet werden.
 
 Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie müssen wissen was sie zufrieden macht, was sie stresst und was sie nicht wollen. So kann man ein zufriedenes Leben erreicht.  
 
@@ -148,9 +148,9 @@ Menschen sollte beigebracht werden herauszufinden was sie wirklich wollen. Sie m
 ## Lernmaterialien
 
 - Staat produziert Open Source Fachbücher 
-    + sehr detailiert
+    + sehr detailliert
     + aktuell
-    + Anfoderung zum Bestehen von Modul
+    + Anforderung zum Bestehen von Modul
     + 1 Buch pro Modul?
 - Aus den Fachbüchern werden weitere offizielle Medien zum Lernen erstellt
     + Videos
@@ -170,16 +170,16 @@ Den Beruf des Lehrers in Teilaufgaben aufteilen, Lehrer können sich spezialisie
 
 ## Start
 
-- Khan Accademy als Vorlage
+- Khan Academy als Vorlage
 - Ziel ist eine Schule aufzubauen (online/offline)
 
 - Nachhilfe
     + 1:1 Nachhilfe
-    + Videos zum Lernen bei Youtube 7 Khan Accademy zusammenstellen
+    + Videos zum Lernen bei YouTube 7 Khan Accademy zusammenstellen
     + Studenten und Schüler geben Nachhilfe?
     + Lehren ist sehr gut zum Lernen
 - Aufbaukurse
-    + Betimmtes Thema
+    + Bestimmtes Thema
     + Ergänzend zu Schule/Studium
     + Online 
     + Mehrere Schüler/Studenten

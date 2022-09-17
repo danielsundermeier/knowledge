@@ -2,14 +2,14 @@
 
 Ziel: Das Leben aller Menschen verbessern
 
-- Große Ziele ausgeben und finanzieren (Mondlandung, Manhatten Projekt)
+- Große Ziele ausgeben und finanzieren (Mondlandung, Manhattan Projekt)
     + Energiewende
     + Klimawandel lösen
     + Post Scarcity erreichen
     + Weltraum besiedeln
-    + [UN Sustainability Development Golas](https://sdgs.un.org/goals)
+    + [UN Sustainability Development Goals](https://sdgs.un.org/goals)
 - Lösungen erarbeiten / [Probleme lösen](../probleme_loesen.md)
-- Langristige Planung / Entscheidungen
+- Langfristige Planung / Entscheidungen
 - Stadt und Region als wichtigste Einheit
 - Entscheidungen auf der Ebene, wo sie relevant sind
     + lokal
@@ -64,15 +64,15 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
 
 ### Regionen
 
-- Welt in 1000 Regionen ähnlicher größe (2-10 Millionen Einwohner) einteilen
+- Welt in 1000 Regionen ähnlicher Größe (2-10 Millionen Einwohner) einteilen
    + maximale 
     + natürliche Grenzen z.B. Berge, Seen
     + wie eine Nation heute
     
 ### Städte
 
-- Städte und Dörfer gleichmäßg in der Region verteilen
-    + Ökonomische und ökoligische Vorteile
+- Städte und Dörfer gleichmäßig in der Region verteilen
+    + Ökonomische und ökologische Vorteile
     + Größe
         * 1x 1.000.000 Einwohner
         * 10x 100.000 Einwohner
@@ -96,7 +96,7 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
 ### Regierungsbezirke
 
 - 5000-10000 Personen
-    + Direkter Kontakt von Politok zu Bevölkerung
+    + Direkter Kontakt von Politik zu Bevölkerung
 - Entscheidungen
     + Landnutzung
     + Wohnen
@@ -126,7 +126,7 @@ Abläufe sollten so effizient wie möglich gestaltet werden.
         + Energie nutzen, um mehr private Energie zu produzieren
         + Besserer Lebensstil
         + Besondere Interessen / Hobbys
-    - Keine Zinsen / Dividenen
+    - Keine Zinsen / Dividenden
         + Nutzen, speichern oder verlieren
     - Energie bündeln, um größere Projekte umzusetzen
         + Mehr Energie produzieren
@@ -157,7 +157,7 @@ Alles elektronisch verwalten können
 
 ## Reflektieren
 
-Es sollte eine Abteilung geben, die sich koninuierlich Gedanken macht, wie man den demokratischen Prozess verbessert.
+Es sollte eine Abteilung geben, die sich kontinuierlich Gedanken macht, wie man den demokratischen Prozess verbessert.
 
 ## Parteien
 

@@ -17,7 +17,7 @@
     + Staat
         * X € pro Monat bis Mindestbetrag / Alter erreicht
         * einmalige Einzahlung bei Geburt
-    + mindest % von Bruttogehalt, bis Mindesbetrag erreicht, danach freiwillig
+    + mindest % von Bruttogehalt, bis Mindestbetrag erreicht, danach freiwillig
     + freiwillige Einzahlungen immer möglich
 - Auszahlung
     + Nur Dividenden auszahlen, wenn kein Einkommen (Ersatz für Arbeitslosenversicherung)

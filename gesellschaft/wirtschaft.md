@@ -44,7 +44,7 @@ Ich bin der Meinung, dass man bestimmte Bereiche, wie Gesundheit und Versicherun
 
 Unternehmen sollen einen positiven Einfluss auf das Leben haben. Gewinn sollte nicht das einzige Ziel sein. 
 
-Alle Beteiligten (Stakeholder) sollen profieren, nicht nur die Shareholder.
+Alle Beteiligten (Stakeholder) sollen profitieren, nicht nur die Shareholder.
 
 - Angestellte
 - Eigentümer

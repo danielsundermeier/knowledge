@@ -4,7 +4,7 @@ Das Projekt muss sich selbst finanzieren können und darf nicht auf Spenden etc.
 
 Es kann eine Stiftung oder eine gemeinnützige Firma gegründet werden, die das Land kauft, verwaltet und verpachtet. Die Einnahmen können zum Ausbau und Anbieten von Dienstleistungen (Bildung, Medizin, Transport, Forschung, ...) genutzt werden.
 
-Ich glaube Stadpläne aus dem Mittelalter oder von Altstädten sind ein gutes Vorbild. Sie sind nach menschlichem Maßstab gebaut und entsprechen "Walkable Cities". Die Kirche wird durch ein Gemeinschaftsgebäude mit Versammlungsräumen, etc. ersetzt und die Stadtmauer wird zu einem Naturgürtel. Um die Stadt herum sind Felder, (Obst) Wiesen und Wälder.
+Ich glaube Stadtpläne aus dem Mittelalter oder von Altstädten sind ein gutes Vorbild. Sie sind nach menschlichem Maßstab gebaut und entsprechen "Walkable Cities". Die Kirche wird durch ein Gemeinschaftsgebäude mit Versammlungsräumen, etc. ersetzt und die Stadtmauer wird zu einem Naturgürtel. Um die Stadt herum sind Felder, (Obst) Wiesen und Wälder.
 
 ![](http://www.astrolehrbuch.de/Bilder/zittau1647.jpg)
 
@@ -20,7 +20,7 @@ Das Land sollte folgende Vorraussetzungen erfüllen:
 - Möglichkeit Gebäude zu bauen
 - Ackerfläche günstig an Landwirt verpachten
 
-### Vorraussetztungen zum Verpachten
+### Voraussetzungen zum Verpachten
 
 - Permakultur & Regenerative Landwirtschaft betreiben
 - Produkte lokal verkaufen
@@ -56,7 +56,7 @@ In Form eines Nahrungsmittel Abos?
 
 Die ersten Produkte sollten leicht zu produzieren und verkaufen sein, um schnell einen Gewinn zu erzielen, mit dem der weitere Ausbau der Landwirtschaft & der Umgebung (Waldgarten, Weiden, ...) finanziert werden kann.
 
-Beipiele:
+Beispiele:
 - Eier
 - Gemüse
 - Hühnerfleisch
@@ -107,7 +107,7 @@ So stelle ich mir die [Landschaft](./landschaft.md) vor.
 ## Landwirtschaft weiter ausbauen
 
 - (Mobile) Produktionsstätten
-- Produktionsmittel zwischen Landwirtschaften teilen (z.B. Machinen, Ressourcen)
+- Produktionsmittel zwischen Landwirtschaften teilen (z.B. Maschinen, Ressourcen)
 - Neue Produktionsstätten errichten
     + Genossenschaften bestehend aus Landwirten, die Inputs liefern
     + Schlachterei
@@ -119,7 +119,7 @@ So stelle ich mir die [Landschaft](./landschaft.md) vor.
 
 ### Produktion
 
-Die Produktion soll weiter ausgebaut werden, um immer mehr Bedürnisse der Bewohner lokal zu decken
+Die Produktion soll weiter ausgebaut werden, um immer mehr Bedürfnisse der Bewohner lokal zu decken
 
 - Brot
 - Käse

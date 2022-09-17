@@ -217,4 +217,7 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [This Is How To Have Emotionally Intelligent Relationships](https://bakadesuyo.com/2022/07/schema/)
 - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 - [Freundschaft vertiefen: 25 Fragen, die uns einander näher bringen](https://www.stern.de/gesundheit/freundschaft-vertiefen--mit-25-fragen--die-uns-einander-naeher-bringen-32602012.html)
+- [I wanted to talk to women, I ended talking to everyone and it freed me...](https://www.youtube.com/watch?v=0lKRM76uFeI)
+- [Getting comfortable with my desires transformed my relationship with women...])(https://www.youtube.com/watch?v=bZAgGiDf2lo)
+
 

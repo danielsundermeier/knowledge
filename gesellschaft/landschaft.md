@@ -96,14 +96,14 @@ Beispiele:
 
 In jedem Gebäude sollte ein Raum mit Küche und Tischen sein, um gemeinsam essen zu können.
 
-Jeder aus der Nachbarschaft kann in jeden Gemeinschaftsraum gehen. Dadurch kann man Räume für spezielle Interessen nutzen (z.B. Musikraum). Dinge können geteilt werden. Das regt zum Ausprobieren von vielen verschiedenen Hobbies an. Man trifft leichter Gleichgesinnte, weil alle, die sich für Musik interessieren, in den Musikraum kommen. Es könnten so sehr teure Dinge (z.B. Aufnahmestudio, 3D-Drucker, ...) zur Verfügung gestellt werden.
+Jeder aus der Nachbarschaft kann in jeden Gemeinschaftsraum gehen. Dadurch kann man Räume für spezielle Interessen nutzen (z.B. Musikraum). Dinge können geteilt werden. Das regt zum Ausprobieren von vielen verschiedenen Hobbys an. Man trifft leichter Gleichgesinnte, weil alle, die sich für Musik interessieren, in den Musikraum kommen. Es könnten so sehr teure Dinge (z.B. Aufnahmestudio, 3D-Drucker, ...) zur Verfügung gestellt werden.
 
 Die Abrechnung könnte über die Nutzung oder pauschal erfolgen.
 
 ### Öffentliche Plätze
 
 - Die Wege im Waldgarten und den Weiden werden der Öffentlichkeit zur Verfügung gestellt
-- Außerem gibt es dort öffentliche Plätze
+- Außerdem gibt es dort öffentliche Plätze
     + Spielplätze
     + Fitnessgeräte
     + Grillplätze

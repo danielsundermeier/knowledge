@@ -319,3 +319,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
 - [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 - [DKB Show](https://dkb.show/) - Insights from historical figures
+- [Big Beliefs](https://www.collaborativefund.com/blog/big-beliefs/)

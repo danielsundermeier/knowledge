@@ -142,3 +142,4 @@ PBNKDEFF011
 - [Morgan Housel | How To Become Wealthy, Stay Wealthy & Be Happy](https://www.youtube.com/watch?v=YJe0sfEYCrg)
 - [STOP Chasing Money -- Chase WEALTH](https://www.youtube.com/watch?v=7Hdu4DlnLIk)
 - [Buy. Borrow. Die. | How The Rich Stay Rich](https://www.youtube.com/watch?v=4_XFqwN9zLU)
+- [You Suck at Investing.](https://www.youtube.com/watch?v=SbUkmysgXFs)

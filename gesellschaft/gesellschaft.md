@@ -116,8 +116,8 @@ Das Ziel sollte daher sein Menschen zu helfen ihre Ziele zu erkennen und sie bei
 
 ## Broken Window Theory
 
-Wenn etwas heruntergekommen ist, ist die wahrscheinlichkeit höher, dass es weiter verkommt.
-Wenn etwas gefpegt wird, bleibt es auch eher so.
+Wenn etwas heruntergekommen ist, ist die Wahrscheinlichkeit höher, dass es weiter verkommt.
+Wenn etwas gepflegt wird, bleibt es auch eher so.
 
 ## Links
 

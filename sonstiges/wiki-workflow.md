@@ -28,6 +28,7 @@
 - [Second Brain](https://github.com/KasperZutterman/Second-Brain#readme) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 
 ## Links
+
 - [Bookstack](https://www.bookstackapp.com/)
 - [Audience-First Products](https://www.perell.com/blog/audience-first-products)
 - [How can we build an extension of your mind?](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
@@ -35,3 +36,4 @@
 - [Growing the Evergreens](https://maggieappleton.com/evergreens)
 - [The Commonplace Book](https://thedeepdish.org/digital-commonplace-book/)
 - [Beginner's Guide: The First 30 Days Using a Notes App](https://www.youtube.com/watch?v=tOS53fSDqVw)
+- [Foam](https://github.com/foambubble/foam/) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.

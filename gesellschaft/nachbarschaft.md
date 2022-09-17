@@ -47,7 +47,7 @@ Im Optimalfall sind am Ende alle Nachbarschaften verbunden. Das führt zu folgen
     + Gemeinschaftsräume
     + Sportplatz
 
-## Ernergieversorgung
+## Energieversorgung
 
 Überbauen der regenerativen Energieversorgung, um konstante Versorgung zu ermöglichen.
 

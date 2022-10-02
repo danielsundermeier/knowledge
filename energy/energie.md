@@ -190,5 +190,5 @@ all feel good about
 - [Eine Milliarde Maschinen](https://1e9.community/t/eine-milliarde-maschinen-ein-us-wissenschaftler-will-einfach-alles-elektrisch-machen/9988)
 - [Who is the real problem when it comes to climate change?](https://noahpinion.substack.com/p/who-is-the-real-problem-when-it-comes)
 - [Want to learn more about how to electrify your home?](https://surveys.signforgood.com/rewiring-america-electrify-everything)
-
+- [All poverty is energy poverty](https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty)
 

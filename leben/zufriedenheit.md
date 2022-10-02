@@ -309,3 +309,4 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [I Did Everything Right, Why Am I Still Sad?](https://www.youtube.com/watch?v=8biBQ18wApY)
 - [How To Spend Money to Buy Happiness](https://www.youtube.com/watch?v=wsT2bBo4XT8)
 - [Glücks-Übungen](https://psychologie-des-gluecks.de/interventionen/) - Interventionen & Übungen der Positiven Psychologie im Überblick
+- [The Better Good Life: An Essay on Personal Sustainability](https://experiencelife.lifetime.life/article/the-better-good-life-an-essay-on-personal-sustainability/)

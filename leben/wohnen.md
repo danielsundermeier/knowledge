@@ -162,6 +162,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [A review of Arcologies](https://daryanenergyblog.wordpress.com/2017/07/23/a-review-of-arcologies/amp/)
 - [The Joys of a Walkable Neighborhood](https://www.getrichslowly.org/walking/)
 - [Berlin’s Transformation Is Wunderbar: a San Francisco Transplant’s View](https://sf.streetsblog.org/2021/12/06/berlins-transformation-is-wunderbar-a-san-francisco-transplants-view/)
+- [Germany's pioneer 'edible city' on the Rhine](https://www.dw.com/en/germanys-pioneer-edible-city-on-the-rhine/a-61928579)
 
 ## Links
 

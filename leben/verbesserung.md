@@ -92,5 +92,4 @@ Ich kann diese Veränderungen sogar vererben.
 - [Mediocrity by "areas of improvement"](https://headrush.typepad.com/creating_passionate_users/2006/02/mediocrity_by_a.html)
 - [Life's an RPG And You Messed Up Your Build](https://www.youtube.com/watch?v=JgkYRyqloVA)
 - [Becoming a magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
-- [Lessons From the Badass Muscular Neurobiologist](https://www.mrmoneymustache.com/2022/09/30/lessons-from-the-badass-muscular-neurobiologist/)
 

@@ -310,3 +310,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [How To Spend Money to Buy Happiness](https://www.youtube.com/watch?v=wsT2bBo4XT8)
 - [Glücks-Übungen](https://psychologie-des-gluecks.de/interventionen/) - Interventionen & Übungen der Positiven Psychologie im Überblick
 - [The Better Good Life: An Essay on Personal Sustainability](https://experiencelife.lifetime.life/article/the-better-good-life-an-essay-on-personal-sustainability/)
+- [Lessons from the Bhagavad Gita](https://dkb.show/post/lessons-from-the-bhagavad-gita)
+- [Lessons From the Badass Muscular Neurobiologist](https://www.mrmoneymustache.com/2022/09/30/lessons-from-the-badass-muscular-neurobiologist/)

@@ -320,3 +320,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 - [DKB Show](https://dkb.show/) - Insights from historical figures
 - [Big Beliefs](https://www.collaborativefund.com/blog/big-beliefs/)
+- [You’re probably more normal, in many ways, than you think: rules and breaking rules](https://theredquest.wordpress.com/2022/10/03/youre-probably-more-normal-in-many-ways-than-you-think-rules-and-breaking-rules/)

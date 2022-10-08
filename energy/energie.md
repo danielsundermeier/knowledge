@@ -56,6 +56,7 @@ Ist es wirklich so einfach?
 - [HPS](https://www.homepowersolutions.de/)
 - [Hydrogen Home Storage. Could this be a game changer?](https://www.youtube.com/watch?v=0_bTjcjqN6c)
 - [Energy Storage Breakthrough - Solid Hydrogen Explained](https://www.youtube.com/watch?v=U7CCq4oBgw4)
+- [I come bringing good news about hydrogen](https://noahpinion.substack.com/p/i-come-bringing-good-news-about-hydrogen)
 
 ## Transport
 

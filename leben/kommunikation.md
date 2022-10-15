@@ -29,3 +29,4 @@
 - [Wie du richtig zuhörst und weise wir(k)st](https://www.healthyhabits.de/zuhoeren-weise/)
 - [This Is How To Get People To Change](https://bakadesuyo.com/2022/05/get-people-to-change/)
 - [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
+- [Great Questions](https://storycorps.org/participate/great-questions/)

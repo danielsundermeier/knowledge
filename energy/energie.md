@@ -155,6 +155,10 @@ wind turbines.
         * Wasser für Wärmepumpe (shared ground loop)
         
 - Kann man die Wärme von Kühlschränken, Kühltruhen, Klimaanlagen, Abwasser (in der Wärmepumpe) nutzen?
+
+## Übertragung
+
+- [Satellite power grid would beam energy around the globe just like data](https://newatlas.com/energy/emrod-space-solar-wireless-energy)
         
 ### Links
 

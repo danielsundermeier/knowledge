@@ -43,3 +43,19 @@
 [What can I do today to simplify my day?](https://qr.ae/pvZaOA)
 
 > "If you ask for it clearly, you either get what you want or get a clear answer. A clear answer saves you from the energy expended in thrash, confusion, guesswork, wondering, speculating, overwhelm, disappointment, resentment and rage."
+
+[Expectations (Five Short Stories)](https://collabfund.com/blog/five-short-stories/)
+
+> "Most mental upside comes from the thrill of anticipation – actual experiences tend to fall flat, and your mind quickly moves on to anticipating the next event. That’s how dopamine works."
+
+> "If walking on the moon left astronauts underwhelmed, what does it say about our own earthly goals and expectations?"
+
+[Five Lessons from History](https://collabfund.com/blog/five-lessons-from-history/)
+
+> "Long-term success in any endeavor requires two tasks: Getting something, and keeping it. Getting rich and staying rich. Getting market share and keeping market share."
+
+> "The irony is that growth – if you can stick around – is a more powerful force, because it compounds. But setbacks capture greater attention because they happen suddenly."
+
+[Travel won't save you](https://dkb.show/post/seneca-on-travel)
+
+> "The only safe harbor in the storms of life is to refuse to be bothered about what the future will bring, and to stand ready and confident, preparing to take whatever life throws at you without flinching."

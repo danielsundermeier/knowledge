@@ -53,6 +53,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Clay to stay](https://www.ibo.at/forschung/referenzprojekte/data/clay-to-stay) - Ausweitung der Lehmanwendung im Bausektor durch Aufbau eines Prüfnetzwerks
 - [Geoship](https://geoship.is/) - Build the future of home
 - [How to design a house to last for 1000 years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
+- [BEST STREAMER HOUSE in LATVIA](https://www.youtube.com/watch?v=ALfXM_ZIq0c)
 
 ## Strohballenhaus
 

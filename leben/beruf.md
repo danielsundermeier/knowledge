@@ -57,3 +57,4 @@
 - [The Common Lie Writers Tell You](https://www.youtube.com/watch?v=oH9sJrAVeC0)
 - [Here's Why You Want A Really Boring Job](https://www.youtube.com/watch?v=4hiVQf9MPzg)
 - [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)
+- [Einen Monat 25 STUNDEN pro Woche arbeiten - das macht es mit dir | Selbstexperiment](https://www.youtube.com/watch?v=FvEMaDX7m70)

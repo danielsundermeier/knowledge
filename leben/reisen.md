@@ -13,3 +13,4 @@
 - [What are the best travel hacks?](https://qr.ae/pGjbLX)
 - [Interrail](https://www.bahn.de/angebot/international/interrail) - Die Bahn-Flatrate für Europa
 - [Mio Palma](https://mio-palma.de/)
+- [Living Vehicle](https://www.livingvehicle.com/home-v2) - Luxury Unplugged

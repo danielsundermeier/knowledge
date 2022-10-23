@@ -79,6 +79,7 @@ Gefühlskompass
 ## Erwartungen
 
 - [The Expectation Effect: How Your Mindset Can Change Your World](https://www.goodreads.com/book/show/57771229-the-expectation-effect)
+- [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/10/expectations)
 
 ## Notizen
 

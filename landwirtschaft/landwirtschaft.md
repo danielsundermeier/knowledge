@@ -35,6 +35,7 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - [Gabe Brown](http://brownsranch.us/soil-health/)
 - [Parc Carreg](https://www.parccarreg.com/) - Organic Duck Eggs
 - [Wakelyns](https://wakelyns.co.uk/) - Organic farming on one of the longest-established and most diverse Agroforestry sites
+- [Whole Systems Design](https://www.wholesystemsdesign.com/) - We build whole human habitats. 
 
 ## Circular Agriculture
 
@@ -64,9 +65,12 @@ Mehr Daten auf Produkt:
 
 -> Wettbewerbsvorteil für lokale Produzenten
 
+### 
+
 ## Projekte
 
 - [FederWaldHof](https://federwaldhof.de)
+- [Tiny Farms](https://www.tinyfarms.de/)
 
 ## Cellular Agriculture
 

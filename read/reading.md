@@ -59,3 +59,41 @@
 [Travel won't save you](https://dkb.show/post/seneca-on-travel)
 
 > "The only safe harbor in the storms of life is to refuse to be bothered about what the future will bring, and to stand ready and confident, preparing to take whatever life throws at you without flinching."
+
+[The *Secret* Way To An Awesome Life](https://bakadesuyo.com/2022/10/secrets/)
+
+> "if your go-to way of dealing with issues is bottling them up, you’re gonna have problems. Not talking about your difficulties is correlated with health issues and lower life satisfaction."
+
+[Little Rules About Big Things](https://collabfund.com/blog/little-rules-about-big-things/)
+
+> "Most financial mistakes come when you try to force things to happen faster than is required. Compounding doesn’t like when you try to use a cheat code."
+
+> "Housing is often a liability masquerading as a safe asset."
+
+> "Emotions can override any level of intelligence."
+
+> "No one is thinking about you as much as you are."
+
+> "Most problems are more complicated than they look but most solutions should be simpler than they are."
+
+> "Good ideas are easy to write, bad ideas are hard. Difficulty is a quality signal, and writer’s block usually indicates more about your ideas than your writing."
+
+> "More people wake up every morning wanting to solve problems than wake up looking to cause harm. But people who cause harm get the most attention. So slow progress amid a drumbeat of bad news is the normal state of affairs."
+
+[Known Costs, Unknowable Benefits](https://blog.nateliason.com/p/known-costs-unknowable-benefits)
+
+> "Men often get this backward, thinking they need to figure out their life on their own before committing to someone because having a partner or family will be some sort of distraction or loss of productivity. But nothing gives you better clarity of purpose or motivation than having others you’re building a life for besides yourself."
+
+[The Perfect Work Routine](https://blog.nateliason.com/p/perfect-work-routine)
+
+> "Their Daily Ritual, to whatever extent it was truly daily or truly a ritual, was likely an emergent phenomenon. They did not read tons of productivity books and then pick the routine that seemed best to them, as many of us feel compelled to do. They worked, and over time, their ideal routine for sustained output emerged. They started walking and reinforced the paths with concrete as they went."
+
+> "In pursuit of the ideal work style, I think the best we can do is start with as green a quad as possible, then let the paths carve themselves over time. As we see what routines and styles are most resonant, we can reinforce them through technology, routine, or simply remembering what works well for us."
+
+[We're Much Weaker than We Think](https://blog.nateliason.com/p/weaker)
+
+> "Humans are capable of magnificent feats of strength and endurance if we prioritize developing them. We need to raise our standards much higher and not get seduced by the myth that very fit people are weirdos. They’re the healthy ones."
+
+[Eternal Problems of the Human Mind](https://blog.nateliason.com/p/eternal-problems)
+
+> "On the surface, our problems feel special and unique. Who could possibly understand what you’re going through? But dig a little deeper, and there are as few core human problems as there are master plotlines."

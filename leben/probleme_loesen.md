@@ -85,3 +85,4 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [A Few Notes on Problem Solving](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 - [Inversion: The Crucial Thinking Skill Nobody Ever Taught You](https://jamesclear.com/inversion)
+- [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)

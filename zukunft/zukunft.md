@@ -29,6 +29,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [Aufbruch nach Honua: Utopischer Roman](https://www.goodreads.com/book/show/60637696-aufbruch-nach-honua)
 - [the terrapunk manifesto](https://nasjaq.substack.com/p/the-terrapunk-manifesto)
 - [Transpolitica](https://transpolitica.org/)
+- [The Great Simplification](https://www.youtube.com/watch?v=-xr9rIQxwj4)
 
 ### Dystopien
 

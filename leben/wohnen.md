@@ -72,6 +72,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Citizen Spring](https://citizenspring.earth/)
 - [Introducing Praxis](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future.
 - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
+- [Why Superblocks Are Peak Urbanism](https://www.youtube.com/watch?v=CLjqGwo5QaA)
 
 ### Beispiele
 
@@ -154,6 +155,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [The Housing Crisis is the Everything Crisis](https://www.youtube.com/watch?v=4ZxzBcxB7Zc)
 - [Transit Oriented Development, Explained](https://www.youtube.com/watch?v=RYsqWIGyRVk)
 - [How to build neighborhoods we actually like](https://www.youtube.com/watch?v=y_oZVVS2nVk)
+- [Why Barcelona Looks Weird](https://www.youtube.com/watch?v=vjb4xRywiO8)
 
 ## Artikel
 

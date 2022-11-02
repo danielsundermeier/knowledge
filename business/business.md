@@ -66,6 +66,7 @@ Es sollte viele kleine Teams geben, die sich mit bestimmten Themen beschäftigen
 - [Buttondown](https://buttondown.email/) - The easiest way to launch your newsletter.
 - [listmonk](https://listmonk.app/) - Self-hosted newsletter and mailing list manager
 - [How to Build an Audience](https://www.youtube.com/watch?v=U7vsdIjCSzY)
+- [Your Startup Is a Movement](https://sacks.substack.com/p/your-startup-is-a-movement)
 
 ## Wert
 

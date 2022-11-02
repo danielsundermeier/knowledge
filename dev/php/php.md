@@ -22,10 +22,14 @@ nano /usr/local/etc/php/7.4/php.ini
 
 - [Unit testing tips by examples in PHP](https://github.com/sarven/unit-testing-tips)
 
+## Upgrade
+
+- [Upgrade to PHP 8.1 with Homebrew on Mac](https://stitcher.io/blog/php-81-upgrade-mac)
+- [Upgrade to PHP 8.2 with Homebrew on Mac](https://stitcher.io/blog/php-82-upgrade-mac)
+
 ## Links
 
 - [Object Oriented Done Right](https://front-line-php.com/object-oriented)
-- [Upgrade to PHP 8.1 with Homebrew on Mac](https://stitcher.io/blog/php-81-upgrade-mac)
 - [shivammathur/php](https://github.com/shivammathur/homebrew-php)
 - [PHP The Right Way](https://phptherightway.com/)
 - [Human readable number formatting in PHP](https://www.amitmerchant.com/human-readable-number-formatting-in-php/)

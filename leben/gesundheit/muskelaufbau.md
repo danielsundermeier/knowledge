@@ -98,4 +98,6 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [Training Volume Landmarks for Muscle Growth](https://rpstrength.com/training-volume-landmarks-muscle-growth/)
 - [The Hypertrophy Training Guide Central Hub](https://rpstrength.com/hypertrophy-training-guide-central-hub/)
 - [The Ultimate Guide to Building Muscle Fast](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength/)
+- [The Complete Strength Training Guide](https://www.strongerbyscience.com/complete-strength-training-guide/)
+- [How To Build Your First 5 kg of Muscle | Detailed Guide](https://www.youtube.com/watch?v=OlbTpxdnMCI)
 

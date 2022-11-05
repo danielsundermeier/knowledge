@@ -156,6 +156,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Transit Oriented Development, Explained](https://www.youtube.com/watch?v=RYsqWIGyRVk)
 - [How to build neighborhoods we actually like](https://www.youtube.com/watch?v=y_oZVVS2nVk)
 - [Why Barcelona Looks Weird](https://www.youtube.com/watch?v=vjb4xRywiO8)
+- [The Non-capitalist Solution to the Housing Crisis](https://www.youtube.com/watch?v=sKudSeqHSJk)
 
 ## Artikel
 

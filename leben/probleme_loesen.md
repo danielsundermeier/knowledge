@@ -86,3 +86,5 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 - [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 - [Inversion: The Crucial Thinking Skill Nobody Ever Taught You](https://jamesclear.com/inversion)
 - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+- [The Most Direct Solution to Any Problem](https://stevepavlina.com/blog/2008/03/the-most-direct-solution-to-any-problem/)
+

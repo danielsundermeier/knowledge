@@ -33,4 +33,4 @@ conditions:
 - [Demo Frontend](https://demo.home-assistant.io/#/lovelace/0)
 - [No more light switches](https://smarthome.university/automations/no-more-light-switches/)
 - [Home Assistant Amber](https://www.crowdsupply.com/nabu-casa/home-assistant-amber) - Hardware für Home Assistant
-
+- [f.lux, but for your house](https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/)

@@ -126,6 +126,8 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 
 - [Udacity](https://www.udacity.com)
 - [Wikiversity](https://en.wikiversity.org)
+- [Professor Dave Explains](https://www.youtube.com/c/ProfessorDaveExplains)
+- [Limnology](https://limnology.co/)
 
 ## Beispiele
 

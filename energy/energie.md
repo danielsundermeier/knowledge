@@ -122,6 +122,7 @@ wind turbines.
 ### Links
 
 - [Why You’re Wrong About Nuclear Power](https://www.youtube.com/watch?v=J3znG6_vla0)
+- [The Truth About Nuclear Energy](https://www.youtube.com/watch?v=glM80kRWbes)
 
 ## Optical rectenna (Nantenna)
 
@@ -196,4 +197,5 @@ all feel good about
 - [Who is the real problem when it comes to climate change?](https://noahpinion.substack.com/p/who-is-the-real-problem-when-it-comes)
 - [Want to learn more about how to electrify your home?](https://surveys.signforgood.com/rewiring-america-electrify-everything)
 - [All poverty is energy poverty](https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty)
+- [G&R History of Energy](https://www.youtube.com/watch?v=Jz75yScqPpQ)
 

@@ -22,6 +22,7 @@
 - [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes?utm_source=tldrnewsletter)
 - [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+- [Idiot proof git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html)
 
 ## Renaming (casesensitive)
 

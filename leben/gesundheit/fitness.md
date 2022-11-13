@@ -93,4 +93,5 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [What are the most interesting things you've learned on your fitness journey?](https://qr.ae/pvHJ9B)
 - [My Foolproof Calisthenics Template](https://www.youtube.com/watch?v=UFFf3QVaU9Y)
 - [Stop Chasing Progressions](https://www.youtube.com/watch?v=lofbl5_wTWk)
+- [Discovering Joy Through Embodied Exercise](https://selfrenewal.substack.com/p/discovering-joy-through-embodied) - An intentional path to cultivate intrinsic motivation
 

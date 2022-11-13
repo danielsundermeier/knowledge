@@ -313,4 +313,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [Lessons from the Bhagavad Gita](https://dkb.show/post/lessons-from-the-bhagavad-gita)
 - [Lessons From the Badass Muscular Neurobiologist](https://www.mrmoneymustache.com/2022/09/30/lessons-from-the-badass-muscular-neurobiologist/)
 - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
+- [De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness)
 

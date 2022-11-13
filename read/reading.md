@@ -25,3 +25,33 @@
 [The Most Direct Solution to Any Problem ](https://stevepavlina.com/blog/2008/03/the-most-direct-solution-to-any-problem/)
 
 > "There are many seemingly challenging problems that have very simple, direct solutions. The real challenge is how to become the kind of person who can implement the most direct solutions instead of having to take a circuitous path to compensate for laziness or timidity."
+
+> "If you really desire something badly enough, why on earth would you resist the most direct path to it? Doesn’t that imply you don’t really want it? Or maybe you don’t want to become the kind of person who’d be able to get it."
+
+[If You're Scared of Competition, the World Will Eat You Alive](https://jasonpargin.substack.com/p/if-youre-scared-of-competition-the)
+
+> "If you're not achieving what you want in life, stop blaming the system and start honestly comparing yourself to the people you are competing with. How do you measure up to the successful ones? To the failures? What do you need to change about yourself?"
+
+> "There is nothing more valuable than the ability to frankly (and even harshly) assess what you bring to the table and how it benefits the people you want to spend your life with."
+
+[Historisch gesehen: Alles im grünen Bereich](https://www.finanzwesir.com/blog/aufstieg-fall-nationen)
+
+> "Die erste Generation schafft Vermögen, die zweite verwaltet Vermögen, die dritte studiert Kunstgeschichte, und die vierte verkommt vollends."
+
+[Freizeit, die keinen Spaß mehr macht](https://www.deutschlandfunkkultur.de/langeweile-stress-apathie-lustlosigkeit-100.html)
+
+> "Was hilft? Schlicht gesagt: Raus ins eigene Leben! Alle Sinne nutzen und schärfen! Rein in lebendige, reale Wagnisse! Fünf Bereiche ermöglichen die höchsten Flow-Erlebnisse: Kunst und Spiel, körperliches Auspowern und Sinnesgenuss, denn die Verkümmerung der Sinne ist eine der wichtigsten Ursachen für Langeweile."
+
+> "Als Drittes das Lesen, das heißt, die Eigenproduktion von inneren Fantasien sowie erarbeitete Sachkompetenz durch Vertiefung, durch Konzentration. Als Fünftes: Altruistisches Handeln, denn die Umsetzung von Empathie vertreibt Lebensüberdruss, verlebendigt uns selbst!"
+
+[De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness)
+
+> "Atomization turns an integrated day of socializing, eating, exercising, and working into discrete hurried chunks of trying to move from one thing to another, wondering why we never seem to have time for everything."
+
+> "Integrated living is more satisfying than atomic living."
+
+> "The more creatively we can integrate the various parts of life that matter to us, the more satisfied we’ll be in our day to day."
+
+[Committed & Unattached: A Powerful Way to Work](https://zenhabits.net/committed-unattached/)
+
+> "What would it be like to wake up every day, giving your full commitment to the things you care most about, but not letting yourself crumble every time something doesn’t turn out as you’d hoped? If you fall short of a milestone, you recommit yourself and keep going?"

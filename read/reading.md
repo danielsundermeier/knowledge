@@ -1,57 +1,5 @@
 # Reading
 
-[How to Get Started When You Just Can’t Get Started](https://www.raptitude.com/2022/08/how-to-get-started-when-you-just-cant-get-started/)
+[You're Not Struggling Alone](https://blog.nateliason.com/p/not-alone)
 
-> "Instead of telling yourself to “get started,” which is precisely what you don’t know how to do, you can just focus on breaking the task’s outer seal, which is what makes it so smooth and difficult to grip. In other words, you can crack the egg, so that it no longer appears to the mind as an opaque, unified object with no obvious way in."
-
-[We Should Be Measuring Well-Being Catalysis, Not (trying and largely failing to measure) Economic Productivity](https://bengoertzel.substack.com/p/we-should-be-measuring-well-being)
-
-> "And this could lead to a different direction for economic policy than what’s currently dominant in most major nations. What if the government were to direct a certain percentage of collective resources specifically toward products and services found to increase well-being, and away from those found to decrease well-being?"
-
-[Don’t Surround Yourself With Smarter People](https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/)
-
-> "In other words, don’t surround yourself with smarter people. Surround yourself with differently free people."
-
-[Notes on Wilderness Survival from the Show ALONE](https://chrisguillebeau.com/alone-show-notes/)
-
-> "What a great idea! All you have to do is what’s in front of you right now. If you can make it one more day, and then tomorrow you do it again, and then you keep going—well, that’s endurance."
-
-[The Rut Principle](https://www.raptitude.com/2022/06/the-rut-principle/)
-
-> "This extended sort of lapse is what you could call a rut. The initial trouble was just a bump or a pothole – a jarring and unpleasant spot, but not a problem if you just focus on staying on the road until you’re past it. Instead, I veered into the soft ditch, the wheels sunk in, and soon I couldn’t seem to get back onto the road under my own power. I felt like I had to wait until conditions allowed me to get the wheels back onto the pavement, which means plodding along in the mud until the rut shallows out again on its own."
-
-> "We can call this the Rut Principle – when you’re in a rut, there is a natural tendency to do the things that keep you in the rut, and to avoid or delay things that get you out of the rut. Ruts are what happen when you’ve become your own antagonist."
-
-[The Most Direct Solution to Any Problem ](https://stevepavlina.com/blog/2008/03/the-most-direct-solution-to-any-problem/)
-
-> "There are many seemingly challenging problems that have very simple, direct solutions. The real challenge is how to become the kind of person who can implement the most direct solutions instead of having to take a circuitous path to compensate for laziness or timidity."
-
-> "If you really desire something badly enough, why on earth would you resist the most direct path to it? Doesn’t that imply you don’t really want it? Or maybe you don’t want to become the kind of person who’d be able to get it."
-
-[If You're Scared of Competition, the World Will Eat You Alive](https://jasonpargin.substack.com/p/if-youre-scared-of-competition-the)
-
-> "If you're not achieving what you want in life, stop blaming the system and start honestly comparing yourself to the people you are competing with. How do you measure up to the successful ones? To the failures? What do you need to change about yourself?"
-
-> "There is nothing more valuable than the ability to frankly (and even harshly) assess what you bring to the table and how it benefits the people you want to spend your life with."
-
-[Historisch gesehen: Alles im grünen Bereich](https://www.finanzwesir.com/blog/aufstieg-fall-nationen)
-
-> "Die erste Generation schafft Vermögen, die zweite verwaltet Vermögen, die dritte studiert Kunstgeschichte, und die vierte verkommt vollends."
-
-[Freizeit, die keinen Spaß mehr macht](https://www.deutschlandfunkkultur.de/langeweile-stress-apathie-lustlosigkeit-100.html)
-
-> "Was hilft? Schlicht gesagt: Raus ins eigene Leben! Alle Sinne nutzen und schärfen! Rein in lebendige, reale Wagnisse! Fünf Bereiche ermöglichen die höchsten Flow-Erlebnisse: Kunst und Spiel, körperliches Auspowern und Sinnesgenuss, denn die Verkümmerung der Sinne ist eine der wichtigsten Ursachen für Langeweile."
-
-> "Als Drittes das Lesen, das heißt, die Eigenproduktion von inneren Fantasien sowie erarbeitete Sachkompetenz durch Vertiefung, durch Konzentration. Als Fünftes: Altruistisches Handeln, denn die Umsetzung von Empathie vertreibt Lebensüberdruss, verlebendigt uns selbst!"
-
-[De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness)
-
-> "Atomization turns an integrated day of socializing, eating, exercising, and working into discrete hurried chunks of trying to move from one thing to another, wondering why we never seem to have time for everything."
-
-> "Integrated living is more satisfying than atomic living."
-
-> "The more creatively we can integrate the various parts of life that matter to us, the more satisfied we’ll be in our day to day."
-
-[Committed & Unattached: A Powerful Way to Work](https://zenhabits.net/committed-unattached/)
-
-> "What would it be like to wake up every day, giving your full commitment to the things you care most about, but not letting yourself crumble every time something doesn’t turn out as you’d hoped? If you fall short of a milestone, you recommit yourself and keep going?"
+> "If you have anyone you envy, look up to, or aspire towards, don’t fall into the trap of thinking they have it all figured out. That they’re completely happy with their work. That they think they’re good. They’re struggling with the same thoughts you are. Maybe they’re even more tortured by it. There’s always some bigger fish to compare yourself with."

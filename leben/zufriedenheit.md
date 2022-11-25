@@ -314,4 +314,7 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [Lessons From the Badass Muscular Neurobiologist](https://www.mrmoneymustache.com/2022/09/30/lessons-from-the-badass-muscular-neurobiologist/)
 - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 - [De-Atomization is the Secret to Happiness](https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness)
+- [If you have a safe place to live, food on the table and someone that loves you, you have it all. Easy to forget.](https://twitter.com/NWischoff/status/1591889687861403649)
+- [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)
+- [How to Be Happier Without Really Trying](https://bakadesuyo.com/2022/11/epicurus/)
 

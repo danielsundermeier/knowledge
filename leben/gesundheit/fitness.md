@@ -57,6 +57,7 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 ## Mobilität
 
 - [10 MIN PERFECT MOBILITY ROUTINE](https://www.youtube.com/watch?v=Igzmhbghcd4&list=PLoEDCSPXpKWKScAx2NkxPTq--r3MgHLgz&index=2)
+- [Fix Bad Posture in 22 Days](https://www.youtube.com/watch?v=XxSgdX7lX6E)
 
 ## Ausrüstung
 

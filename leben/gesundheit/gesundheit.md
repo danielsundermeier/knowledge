@@ -33,6 +33,7 @@ Zeit in der Natur verbringen
 
 - [4-7-8 Breathing](https://breathing.m15y.com/)
 - [The MISSING LINK to HEALTH, FITNESS and LIFELONG GAINS](https://www.youtube.com/watch?v=pSCe0tLwfYk)
+- [Box Breathing Technique](https://lassebomh.github.io/box-breathing/)
 
 ## Meditation
 

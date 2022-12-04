@@ -63,4 +63,4 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 - [I am 25 and I have no idea what I want to do in life. Any suggestion on how to find my direction?](https://qr.ae/pGSuLG)
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/hunter-s-thompson-to-hume-logan/)
 - [The Purpose Series](https://www.woujo.com/blog/2019/12/5/the-purpose-series-part-1-of-3-purpose-anxiety-fear-the-unknown-and-the-purposeless-epidemic-in-modern-society)
-
+- [Death](https://www.youtube.com/watch?v=iMe_YY3In-g)

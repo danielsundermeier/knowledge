@@ -12,7 +12,8 @@
 - [Setup Your Local Environment for Open Source Package Contributions](https://laravel-news.com/setup-your-local-environment-for-open-source-package-contributions)
 - [Max Stoiber - I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - [Open Source Ideas](https://github.com/open-source-ideas/open-source-ideas#readme)
-- - [Tip for open source maintainers: you can often convert questions about your library into documentation. It usually goes like this: 1. Someone opens an issue/asks a question. 2. I address this by updating the docs. 3. Link the update to the person, ask them for feedback. Also works for internal projects.](https://twitter.com/elias_era/status/1481933779186900997)
+- [Tip for open source maintainers: you can often convert questions about your library into documentation. It usually goes like this: 1. Someone opens an issue/asks a question. 2. I address this by updating the docs. 3. Link the update to the person, ask them for feedback. Also works for internal projects.](https://twitter.com/elias_era/status/1481933779186900997)
+- [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful)
 
 ## Contributing
 

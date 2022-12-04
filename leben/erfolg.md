@@ -78,3 +78,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [The Power of Failing Well](https://www.collaborativefund.com/blog/the-power-of-failing-well/)
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
 - [A Complete Guide to Getting What You Want](https://www.raptitude.com/2018/06/getting-what-you-want/)
+- [Where Does Ambition Come From?](https://life-longlearner.com/where-does-ambition-come-from/)

@@ -15,6 +15,8 @@
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 - [How to Search for Files from the Linux Command Line](https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/)
 - [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs)
+- [Improve Your Cybersecurity Command Line Skills](https://www.freecodecamp.org/news/improve-you-cybersecurity-command-line-skills-bandit-overthewire-game-walkthrough/)
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Snippets
 

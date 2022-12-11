@@ -317,4 +317,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [If you have a safe place to live, food on the table and someone that loves you, you have it all. Easy to forget.](https://twitter.com/NWischoff/status/1591889687861403649)
 - [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)
 - [How to Be Happier Without Really Trying](https://bakadesuyo.com/2022/11/epicurus/)
+- [Ich habe aufgehört, immer glücklich sein zu wollen](https://www.refinery29.com/de-de/streben-nach-glueck-zufriedenheit-aufgeben)
 

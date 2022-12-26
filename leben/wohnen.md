@@ -54,6 +54,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Geoship](https://geoship.is/) - Build the future of home
 - [How to design a house to last for 1000 years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
 - [BEST STREAMER HOUSE in LATVIA](https://www.youtube.com/watch?v=ALfXM_ZIq0c)
+- [THE LIFEHAUS PROJECT](https://www.lifehausproject.com/)
 
 ## Strohballenhaus
 
@@ -199,3 +200,5 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Jakarta’s Transit Miracle](https://infiniteblock.substack.com/p/jakartas-transit-miracle)
 - [Ein Ding der Möglichkeit](https://eindingdermoeglichkeit.com/) - Experimentierfeld für Co-kreation und Zeitgeist.
 - [Transform Your City](https://transformyour.city/) - better streets everywhere
+- [Oodi](https://www.oodihelsinki.fi/en/) - Helsinki Central Library
+

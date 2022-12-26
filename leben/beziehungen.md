@@ -221,3 +221,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [Getting comfortable with my desires transformed my relationship with women...])(https://www.youtube.com/watch?v=bZAgGiDf2lo)
 - [Day Game aka Cold Approach for Newbies](https://redpilldad.blog/2020/12/15/day-game-aka-cold-approach-for-newbies/)
 - [How to Pick Your Life Partner – Part 2](https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html)
+- [I Miss it All](https://longreads.com/2021/07/22/i-miss-it-all-devin-kelly/) - Against the commodification of community.

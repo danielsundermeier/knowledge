@@ -143,3 +143,5 @@ PBNKDEFF011
 - [STOP Chasing Money -- Chase WEALTH](https://www.youtube.com/watch?v=7Hdu4DlnLIk)
 - [Buy. Borrow. Die. | How The Rich Stay Rich](https://www.youtube.com/watch?v=4_XFqwN9zLU)
 - [You Suck at Investing.](https://www.youtube.com/watch?v=SbUkmysgXFs)
+- [The 2.7% Rule for Retirement Spending](https://www.youtube.com/watch?v=1FwgCRIS0Wg)
+

@@ -68,4 +68,5 @@ Zusammenfassung auf www.blinkist.de anhören
 - [How to read research paper, textbook, long text content?](https://news.ycombinator.com/item?id=29851336)
 - [How to NEVER get confused about Nutrition again!](https://www.youtube.com/watch?v=uc-fDfdHrls)
 - [Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/)
+- [Everything I Knew About Reading Was Wrong](https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc)
 

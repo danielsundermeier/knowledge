@@ -111,6 +111,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [One year of sales](https://nts.strzibny.name/one-year-of-sales/)
 - [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak)
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)
+- [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
 
 ## Inspiration
 

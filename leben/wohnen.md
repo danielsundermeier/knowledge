@@ -74,6 +74,7 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [Introducing Praxis](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) - Building the city-cryptostate to realize a more vital future.
 - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 - [Why Superblocks Are Peak Urbanism](https://www.youtube.com/watch?v=CLjqGwo5QaA)
+- [Third Place Living: Die Stadt als Wohnlandschaft](https://www.zukunftsinstitut.de/artikel/third-place-living-die-stadt-als-wohnlandschaft/) - In hochmobilen und hochvernetzten Zeiten entwickelt sich die Wohnung immer mehr zum Baustein im individuellen Small World Network
 
 ### Beispiele
 

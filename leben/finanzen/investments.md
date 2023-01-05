@@ -66,3 +66,5 @@ Wie ein Kasino oder Wetten. Ich lasse die Finger davon.
 - [Speculation: A Game You Can’t Win](https://moretothat.com/speculation/)
 - [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
 - [I Collect Cashflows](https://thereformedbroker.com/2021/10/05/i-collect-cashflows/)
+- [How to Love the Bear Market](https://tynan.com/bear/)
+

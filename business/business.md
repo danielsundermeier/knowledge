@@ -267,6 +267,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Your First Business Should Be A Spreadsheet](https://endler.dev/2021/first-business/)
 - [The Arc of the Practical Creator](https://moretothat.com/the-arc-of-the-practical-creator/)
 - [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
+- [My Youtube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
 
 ### Blogs
 

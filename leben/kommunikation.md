@@ -35,3 +35,4 @@
 - [Ask HN: How do I learn to communicate effectively?](https://news.ycombinator.com/item?id=33091972)
 - [Great Questions](https://storycorps.org/participate/great-questions/)
 - [How to Have a Good Conversation](https://www.youtube.com/watch?v=H6n3iNh4XLI)
+- [Conversation Skills Essentials](https://tynan.com/letstalk/)

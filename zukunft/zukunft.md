@@ -30,6 +30,7 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [the terrapunk manifesto](https://nasjaq.substack.com/p/the-terrapunk-manifesto)
 - [Transpolitica](https://transpolitica.org/)
 - [The Great Simplification](https://www.youtube.com/watch?v=-xr9rIQxwj4)
+- [Infothek für Realutopien](https://realutopien.info/) - Inspiration für Transformation
 
 ### Dystopien
 
@@ -58,3 +59,5 @@ Wir brauchen eine Zukunftsvision, wie wir gut leben und den Klimawandel rückgä
 - [What the smartest people do on the weekend is what everyone else will do during the week in ten years](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years)
 - [The Great Disruption - Rethinking Energy, Transportation, Food & Agriculture](https://www.youtube.com/watch?v=Kj96nxtHdTU)
 - [Our Visions of the Future Determine Our Society Today](https://palladiummag.com/2020/05/11/our-visions-of-the-future-determine-our-society-today/?utm_source=pocket_mylist)
+- [Reinventing Society](https://www.realutopien.de/) - Wir bauen mit dir an der Welt von morgen
+

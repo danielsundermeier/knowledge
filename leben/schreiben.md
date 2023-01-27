@@ -112,6 +112,7 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak)
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)
 - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
+- [GPT-3 Is the Best Journal I’ve Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 
 ## Inspiration
 

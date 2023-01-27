@@ -322,3 +322,5 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [Big Beliefs](https://www.collaborativefund.com/blog/big-beliefs/)
 - [You’re probably more normal, in many ways, than you think: rules and breaking rules](https://theredquest.wordpress.com/2022/10/03/youre-probably-more-normal-in-many-ways-than-you-think-rules-and-breaking-rules/)
 - [What is something philosophical you didn’t fully comprehend until you were older?](https://www.reddit.com/r/AskOldPeople/comments/ypqnjv/comment/ivkbqmq/)
+- [Four Thousand Weeks](https://leebyron.com/4000/)
+- [42 CHEAT CODES I WISH I KNEW AT 22](https://qr.ae/prFpCO)

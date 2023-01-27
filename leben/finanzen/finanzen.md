@@ -133,6 +133,7 @@ PBNKDEFF011
 - [Investor Math and Statistics](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
 - [How to DEPROGRAM being poor...in 22 min](https://www.youtube.com/watch?v=9ySuYdJ0H4s)
 - [The Rich And The Wealthy](https://www.collaborativefund.com/blog/the-rich-and-the-wealthy/)
+- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money)
 
 ## Videos
 

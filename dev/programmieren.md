@@ -136,4 +136,5 @@ video course](https://mailcoach.app/videos)
 - [Software Paper Cuts](https://matthewbischoff.com/software-paper-cuts/)
 - [Rubber Duck Debugging](https://www.freecodecamp.org/news/rubber-duck-debugging/)
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+- [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
 

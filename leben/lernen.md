@@ -117,6 +117,7 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [Knowledge Is Not Understanding](https://moretothat.com/knowledge-is-not-understanding/)
 - [How to learn to draw — and why you should.](https://www.youtube.com/watch?v=fR07wJJIBwI)
 - [Teaching the science of learning](https://europepmc.org/article/MED/29399621)
+- [ Ask HN: What is your system for learning new things?](https://news.ycombinator.com/item?id=34771415)
 
 ## Spaced Repetition
 

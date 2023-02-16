@@ -177,6 +177,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/)
 - [The Perfect Work Routine](https://blog.nateliason.com/p/perfect-work-routine)
 - [Permission to Slow Down](https://blog.nateliason.com/p/slow)
+- [The Right Now List](https://www.raptitude.com/2023/01/the-right-now-list/)
 
 ### Blogs
 

@@ -113,6 +113,8 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)
 - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
 - [GPT-3 Is the Best Journal I’ve Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
+- [Story Structure 104: The Juicy Details](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details)
+- [It's Not Supposed to Be Easy.](https://www.youngmoney.co/p/not-supposed-easy)
 
 ## Inspiration
 

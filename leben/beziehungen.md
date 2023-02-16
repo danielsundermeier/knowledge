@@ -223,4 +223,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [How to Pick Your Life Partner – Part 2](https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html)
 - [I Miss it All](https://longreads.com/2021/07/22/i-miss-it-all-devin-kelly/) - Against the commodification of community.
 - [Sex Tips For Geeks](http://www.catb.org/esr/writings/sextips/) - Hackers don't have to be helpless chum in the dating-game shark pool.
-
+- [The radical idea that people aren't stupid](https://experimentalhistory.substack.com/p/the-radical-idea-that-people-arent)

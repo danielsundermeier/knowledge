@@ -30,6 +30,7 @@
 ### Urban Farming
 
 - [infarm](https://www.infarm.com/)
+- [Fruit Walls: Urban Farming in the 1600s](https://www.lowtechmagazine.com/2015/12/fruit-walls-urban-farming.html)
 
 ## Bücher
 

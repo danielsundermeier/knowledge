@@ -318,4 +318,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)
 - [How to Be Happier Without Really Trying](https://bakadesuyo.com/2022/11/epicurus/)
 - [Ich habe aufgehört, immer glücklich sein zu wollen](https://www.refinery29.com/de-de/streben-nach-glueck-zufriedenheit-aufgeben)
+- [A Dozen Ways to Live Real Good](https://inthewilderless.substack.com/p/a-dozen-ways-to-live-real-good-pt)
 

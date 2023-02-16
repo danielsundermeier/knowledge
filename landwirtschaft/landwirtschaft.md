@@ -86,3 +86,5 @@ Mehr Daten auf Produkt:
 - [Healthy Soil is the Real Key to Feeding the World](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
 - [Rural America is Gearing Up For a Generation of Change](https://austinvernon.site/blog/ruralfuture.html)
 - [Relay Cropping of Soybean into Winter Wheat](https://www.osciaresearch.org/current-projects/relay-cropping-soybean-into-winter-wheat/)
+- [Regenerative Agriculture](https://regeneration.org/nexus/regenerative-agriculture)
+- [Regenerative Agriculture 101](https://www.csuchico.edu/regenerativeagriculture/ra101-section/index.shtml)

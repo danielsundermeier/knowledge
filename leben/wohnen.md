@@ -112,6 +112,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Hanfdämmung](https://www.haus.de/bauen/hanfdaemmung)
 - [Gablok](https://gablok.be/de/) - Blocksystem zum Selberbauen 
 - [Hempcrete](https://en.wikipedia.org/wiki/Hempcrete)
+- [Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
 
 ## Wohnfläche
 
@@ -126,6 +127,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 ## Licht
 
 - [On Light](https://paulskallas.substack.com/p/on-light-part-2)
+- [The solar envelope: how to heat and cool cities without fossil fuels](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html)
 
 ## Pflanzen
 
@@ -202,4 +204,5 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Ein Ding der Möglichkeit](https://eindingdermoeglichkeit.com/) - Experimentierfeld für Co-kreation und Zeitgeist.
 - [Transform Your City](https://transformyour.city/) - better streets everywhere
 - [Oodi](https://www.oodihelsinki.fi/en/) - Helsinki Central Library
+- [How to Live Near Your Friends](https://prigoose.substack.com/p/how-to-live-near-your-friends)
 

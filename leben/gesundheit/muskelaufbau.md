@@ -100,4 +100,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [The Ultimate Guide to Building Muscle Fast](https://www.nerdfitness.com/blog/the-beginners-guide-to-building-muscle-and-strength/)
 - [The Complete Strength Training Guide](https://www.strongerbyscience.com/complete-strength-training-guide/)
 - [How To Build Your First 5 kg of Muscle | Detailed Guide](https://www.youtube.com/watch?v=OlbTpxdnMCI)
+- [Optimal program design 2.0](https://mennohenselmans.com/optimal-program-design/)
 

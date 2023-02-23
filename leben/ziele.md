@@ -73,4 +73,5 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - [The Slight Edge – How to Achieve Anything](https://kyil-extra.com/slight-edge/)
 - [A letter from my 80 year old self](https://accidentallyretired.com/personal-growth/a-letter-from-my-80-year-old-self/1283)
 - [How to know what you really want](https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire)
+- [living in alignment](https://mindmine.substack.com/p/living-in-alignment)
 

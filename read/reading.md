@@ -1,20 +1,2 @@
 # Reading
 
-[This Is The Most Fun Way To Make Your Life Awesome](https://bakadesuyo.com/2023/02/find-your-passion)
-
-> "Problem is, that doesn’t work. Thinking often just leads to more thinking. The only way to get real answers here is not to introspect but to experiment. To try stuff."
-
-[Focusing on Physical Performance](https://thelonggame.xyz/p/the-long-game-142-focusing-on-physical)
-
-> "I find that focusing on physical performance provides almost all the benefits of extreme tracking while minimizing the obsession and feeling of having this whole “health burden.”"
-
-> "These people devote a lot of time and effort to their passion, and it’s understandable because, on top of making you healthier and fitter, these pursuits are fulfilling and usually the source of a community around you."
-
-[on competing constructively](https://mindmine.substack.com/p/on-competing-constructively)
-
-> "This is the purpose of competition: to put you in an environment that pushes you to be better than you would be performing alone."
-
-> "Aiming for greatness is realizing that your success won’t come from taking the success of another away, but from organically generating greatness within yourself."
-
-> "You always want to be in the highest performing group you can be in."
-

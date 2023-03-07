@@ -178,6 +178,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [The Perfect Work Routine](https://blog.nateliason.com/p/perfect-work-routine)
 - [Permission to Slow Down](https://blog.nateliason.com/p/slow)
 - [The Right Now List](https://www.raptitude.com/2023/01/the-right-now-list/)
+- [Larry June’s Slow Productivity](https://calnewport.com/larry-junes-slow-productivity/)
 
 ### Blogs
 

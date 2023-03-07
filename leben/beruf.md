@@ -58,3 +58,5 @@
 - [Here's Why You Want A Really Boring Job](https://www.youtube.com/watch?v=4hiVQf9MPzg)
 - [The Forty-Year Programmer](https://codefol.io/posts/the-forty-year-programmer/)
 - [Einen Monat 25 STUNDEN pro Woche arbeiten - das macht es mit dir | Selbstexperiment](https://www.youtube.com/watch?v=FvEMaDX7m70)
+- [The Absurdity of Income Tax](https://treeofwoe.substack.com/p/the-absurdity-of-income-tax)
+- [A Guide for Young People: What to Do With Your Life](https://zenhabits.net/career/)

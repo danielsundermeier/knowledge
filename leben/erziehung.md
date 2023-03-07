@@ -85,3 +85,5 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 - [little-kiddo-learning](https://github.com/obensource/little-kiddo-learning) - Introducing Kiddos to a Big World of Awesomeness
 - [Dadditude](https://www.dadditude.app/) - The Happy Dad App
 - [This Is How To Be An Emotionally Intelligent Parent](https://www.bakadesuyo.com/2022/03/parenting/)
+- [Childhoods of exceptional people](https://escapingflatland.substack.com/p/childhoods)
+

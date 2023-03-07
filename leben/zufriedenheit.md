@@ -319,4 +319,6 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [How to Be Happier Without Really Trying](https://bakadesuyo.com/2022/11/epicurus/)
 - [Ich habe aufgehört, immer glücklich sein zu wollen](https://www.refinery29.com/de-de/streben-nach-glueck-zufriedenheit-aufgeben)
 - [A Dozen Ways to Live Real Good](https://inthewilderless.substack.com/p/a-dozen-ways-to-live-real-good-pt)
+- [Happy Thoughts: Here are the things proven to make you happier](https://bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/)
+- [getting in/out of a funk](https://mindmine.substack.com/p/getting-inout-of-a-funk)
 

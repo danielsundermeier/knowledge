@@ -324,3 +324,5 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What is something philosophical you didn’t fully comprehend until you were older?](https://www.reddit.com/r/AskOldPeople/comments/ypqnjv/comment/ivkbqmq/)
 - [Four Thousand Weeks](https://leebyron.com/4000/)
 - [42 CHEAT CODES I WISH I KNEW AT 22](https://qr.ae/prFpCO)
+- [40 Lessons from 30 Years](https://blog.nateliason.com/p/40-lessons-from-30-years)
+- [lifehacks](https://guzey.com/lifehacks/)

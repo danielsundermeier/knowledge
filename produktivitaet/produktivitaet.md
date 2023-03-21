@@ -179,6 +179,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Permission to Slow Down](https://blog.nateliason.com/p/slow)
 - [The Right Now List](https://www.raptitude.com/2023/01/the-right-now-list/)
 - [Larry June’s Slow Productivity](https://calnewport.com/larry-junes-slow-productivity/)
+- [In 1911, a genius revealed a forgotten science of how to be 50x more productive without working more hours](https://medium.com/accelerated-intelligence/in-1911-an-influential-expert-revealed-a-forgotten-science-of-how-to-be-50x-more-productive-8828f86eb1c9)
 
 ### Blogs
 

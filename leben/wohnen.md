@@ -205,4 +205,5 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Transform Your City](https://transformyour.city/) - better streets everywhere
 - [Oodi](https://www.oodihelsinki.fi/en/) - Helsinki Central Library
 - [How to Live Near Your Friends](https://prigoose.substack.com/p/how-to-live-near-your-friends)
-
+- [How to turn your Neighborhood into a Village](https://www.youtube.com/watch?v=VoYZlyBHyQM)
+- [This Town Did The Impossible](https://www.youtube.com/watch?v=XfonhlM6I7w)

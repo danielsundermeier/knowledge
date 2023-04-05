@@ -84,6 +84,13 @@ trait Unguarded
 
 - [Handy RegEx Constraints in Laravel Routes](https://pineco.de/handy-regex-constraints-in-laravel-routes/)
 
+### Batch
+
+- BatchController
+    + POST: index_route/batch
+    + PUT: index_route/batch
+    + DELTE: index_route/batch
+
 ## NULL Object Pattern
 
 ### Relationships

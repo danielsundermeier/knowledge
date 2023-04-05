@@ -11,6 +11,8 @@
 - [TextQL](https://github.com/dinedal/textql) - Allows you to easily execute SQL against structured text like CSV or TSV
 - [arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use
 - [SQL Style Guide](https://www.sqlstyle.guide/)
+- [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [How to read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 
 ## SQL Syntax and PDO Operations
 

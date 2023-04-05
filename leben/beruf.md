@@ -60,3 +60,5 @@
 - [Einen Monat 25 STUNDEN pro Woche arbeiten - das macht es mit dir | Selbstexperiment](https://www.youtube.com/watch?v=FvEMaDX7m70)
 - [The Absurdity of Income Tax](https://treeofwoe.substack.com/p/the-absurdity-of-income-tax)
 - [A Guide for Young People: What to Do With Your Life](https://zenhabits.net/career/)
+- [How I Got Fired From My Dream Job -- And What I Learned](https://www.andrewlynch.net/blog/how-i-got-fired-from-my-dream-job-and-what-i-learned)
+

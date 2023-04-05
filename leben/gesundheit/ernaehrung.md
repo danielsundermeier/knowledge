@@ -337,6 +337,7 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 - [The Smartest Way To Use Protein To Build Muscle](https://www.youtube.com/watch?v=Pok0Jg2JAkE)
 - [Cracking The Bread Code](https://github.com/hendricius/the-bread-code)
 - [Solein](https://solarfoods.com/solein/) - protein so pure, its literally born out of thin air
+- [How To Get Lean & STAY Lean Forever (Using Science)](https://www.youtube.com/watch?v=roHQ3F7d9YQ)
 
 ## Zitate
 

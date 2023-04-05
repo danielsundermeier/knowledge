@@ -10,9 +10,9 @@ Die [Landschaft](./landschaft.md) sollte von der Natur, besonders Wäldern, und 
 
 ## Werte
 
-| Gut | Schlecht |
+| Gut | Schlecht |
 | --- | -------- |
-| Zufriedenheit | Materialismus |
+| Zufriedenheit | Materialismus |
 | Gesundheit |Egoismus |
 | Gemeinschaft | |
 | Persönliche Entwicklung | |

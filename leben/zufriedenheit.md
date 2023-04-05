@@ -322,4 +322,5 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 - [Happy Thoughts: Here are the things proven to make you happier](https://bakadesuyo.com/2012/08/here-are-the-things-that-are-proven-to-make-y/)
 - [getting in/out of a funk](https://mindmine.substack.com/p/getting-inout-of-a-funk)
 - [The Levers That Money Can’t Pull](https://moretothat.com/the-levers-that-money-cant-pull/)
+- [What are the most common habits of unhappy people?](https://qr.ae/prlvwp)
 

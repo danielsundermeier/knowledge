@@ -65,4 +65,5 @@ Ich habe weder Laufen noch Schwimmen besonders gerne gemacht. Als ich aber beide
 - [The Purpose Series](https://www.woujo.com/blog/2019/12/5/the-purpose-series-part-1-of-3-purpose-anxiety-fear-the-unknown-and-the-purposeless-epidemic-in-modern-society)
 - [Death](https://www.youtube.com/watch?v=iMe_YY3In-g)
 - [This Is The Most Fun Way To Make Your Life Awesome](https://bakadesuyo.com/2023/02/find-your-passion/)
+- [Why Finding Purpose Is SO HARD Today](https://www.youtube.com/watch?v=NuHEY7CjjTI)
 

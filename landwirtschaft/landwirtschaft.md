@@ -50,6 +50,8 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 
 - [Wie Agroforstwirtschaft die Umwelt schützt](https://www.youtube.com/watch?v=UGx-X-b9c2Y)
 - [The Incredible Benefits of Agroforestry on Small Farms](https://www.youtube.com/watch?v=iO0ycMkr8lo)
+- [Baumfeldwirtschaft](https://baumfeldwirtschaft.de/)
+- [Forest Farmers](https://forestfarmers.de/)
 
 ## Weide
 
@@ -71,6 +73,8 @@ Mehr Daten auf Produkt:
 
 - [FederWaldHof](https://federwaldhof.de)
 - [Tiny Farms](https://www.tinyfarms.de/)
+- [Hof Lebensberg](https://www.hoflebensberg.de/)
+- [Solidarische Landwirtschaft Mindener Land e.V.](https://solawi-minden.de/)
 
 ## Cellular Agriculture
 
@@ -88,3 +92,4 @@ Mehr Daten auf Produkt:
 - [Relay Cropping of Soybean into Winter Wheat](https://www.osciaresearch.org/current-projects/relay-cropping-soybean-into-winter-wheat/)
 - [Regenerative Agriculture](https://regeneration.org/nexus/regenerative-agriculture)
 - [Regenerative Agriculture 101](https://www.csuchico.edu/regenerativeagriculture/ra101-section/index.shtml)
+

@@ -103,4 +103,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [Optimal program design 2.0](https://mennohenselmans.com/optimal-program-design/)
 - [How I Keep Getting Bigger](https://www.youtube.com/watch?v=kiDT5jY3KY)
 - [The SIMPLE BASICS that get you 95% of the gains... (training, diet, supps)](https://www.youtube.com/watch?v=PzwvX8FwiaA)
+- [7 “STUPID” Lessons I Learned To GAIN 25+ Lbs of MASS (So Can You Bro)](https://www.youtube.com/watch?v=ga8rQ_tEXqg)
 

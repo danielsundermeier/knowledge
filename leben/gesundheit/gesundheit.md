@@ -79,6 +79,7 @@ Zeit in der Natur verbringen
 - [Die ultimative Anleitung für eine richtige Haltung](https://www.ergotopia.de/infografiken/die-richtige-haltung)
 - [The Peckham Experiment](https://en.wikipedia.org/wiki/The_Peckham_Experiment) - was an experiment designed to determine whether people as a whole would, given the opportunity, take a vested interest in their own health and fitness and expend effort to maintain it.
 - [The Longevity Guide](https://thelongevity.guide/) - A guide to living healthier, longer.
+- [The Best Deal in the World Right Now](https://www.raptitude.com/2023/04/the-best-deal-in-the-world-right-now/)
 
 ## Videos
 

@@ -224,3 +224,4 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 - [I Miss it All](https://longreads.com/2021/07/22/i-miss-it-all-devin-kelly/) - Against the commodification of community.
 - [Sex Tips For Geeks](http://www.catb.org/esr/writings/sextips/) - Hackers don't have to be helpless chum in the dating-game shark pool.
 - [The radical idea that people aren't stupid](https://experimentalhistory.substack.com/p/the-radical-idea-that-people-arent)
+- [I think the main advice is don't put women on a pedestal. Woman are just as horrible and awful as men. No better, no worse, it's hard to sift through the damaged ones to find a good one, same thing women face.](https://www.reddit.com/r/AskMen/comments/12am6ij/what_cautionary_advice_about_women_would_you_give/)

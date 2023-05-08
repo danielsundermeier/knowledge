@@ -191,6 +191,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 ### Produkte
 
 - [Marvin](https://amazingmarvin.com/pricing) - Fokus auf User und großartiges Produkt (Pricing Questions)
+- [HEY](https://www.hey.com/) - Email’s new heyday
 
 ### Launch
 

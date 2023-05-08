@@ -55,6 +55,9 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [How to design a house to last for 1000 years](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for)
 - [BEST STREAMER HOUSE in LATVIA](https://www.youtube.com/watch?v=ALfXM_ZIq0c)
 - [THE LIFEHAUS PROJECT](https://www.lifehausproject.com/)
+- [Habitat 67](https://www.habitat67.com/en/)
+- [2226](https://www.2226.eu/das-manifest/)
+- [One Moment Boardinghouse](https://www.one-moment-boardinghouse.de/)
 
 ## Strohballenhaus
 
@@ -75,10 +78,12 @@ Außerdem kann man das Holz für eine Renovierung direkt auf dem Grundstück anp
 - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 - [Why Superblocks Are Peak Urbanism](https://www.youtube.com/watch?v=CLjqGwo5QaA)
 - [Third Place Living: Die Stadt als Wohnlandschaft](https://www.zukunftsinstitut.de/artikel/third-place-living-die-stadt-als-wohnlandschaft/) - In hochmobilen und hochvernetzten Zeiten entwickelt sich die Wohnung immer mehr zum Baustein im individuellen Small World Network
+- [Die Frida](https://die-frieda.org/)
 
 ### Beispiele
 
 - [Welcome to Culdesac Tempe](https://culdesac.com/)
+- [Blackwood Groves](https://blackwoodgroves.com/)
 
 ## Menschlicher Maßstab
 
@@ -113,6 +118,7 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Gablok](https://gablok.be/de/) - Blocksystem zum Selberbauen 
 - [Hempcrete](https://en.wikipedia.org/wiki/Hempcrete)
 - [Insulation: first the body, then the home](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html)
+- [aerogel-it](https://www.aerogel-it.de/)
 
 ## Wohnfläche
 
@@ -207,3 +213,4 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [How to Live Near Your Friends](https://prigoose.substack.com/p/how-to-live-near-your-friends)
 - [How to turn your Neighborhood into a Village](https://www.youtube.com/watch?v=VoYZlyBHyQM)
 - [This Town Did The Impossible](https://www.youtube.com/watch?v=XfonhlM6I7w)
+- [Less Cars, More Money: My Visit to the City of the Future](https://www.mrmoneymustache.com/2023/04/07/car-free-cities/)

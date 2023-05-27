@@ -124,6 +124,7 @@ wind turbines.
 - [Why You’re Wrong About Nuclear Power](https://www.youtube.com/watch?v=J3znG6_vla0)
 - [The Truth About Nuclear Energy](https://www.youtube.com/watch?v=glM80kRWbes)
 - [Everything I believed about nuclear waste was wrong](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong)
+- [Offshore nuclear power plants](https://whatisnuclear.com/offshore-nuclear-plants.html) - Net, offshore nuclear plants produced in a shipyard offer rare combination of improved safety and improved cost.
 
 ## Optical rectenna (Nantenna)
 

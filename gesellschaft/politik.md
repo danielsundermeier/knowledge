@@ -242,6 +242,7 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt d
     + Norwegen
         * 22% Gewerbesteuer
         * 56% Spezialsteuer
+        * Forschung und Entwicklung können abgesetzt werden
     + Gewinne komplett in Staatsfond investieren
     + Limit für Ausgaben aus Staatsfond (höchstens Gewinne entnehmen, besser weniger, ~3%)
 - Keine Förderungen für Abbau
@@ -254,6 +255,7 @@ Der Markt ist sehr gut darin Lösungen zu finden. Die Politik sollte den Markt d
 - [Nichterneuerbarer Rohstoff](https://de.wikipedia.org/wiki/Nichterneuerbarer_Rohstoff) - "Nicht-erneuerbare Rohstoffe sind Rohstoffe, bei denen die Geschwindigkeit ihres Verbrauchs die Geschwindigkeit ihrer Regeneration übersteigt. Gegensatz sind die nachwachsenden Rohstoffe."
 - [Why Oil Doesn’t Corrupt Norway](https://www.youtube.com/watch?v=zu8ClwrTpbA)
 - [Dutch disease](https://en.wikipedia.org/wiki/Dutch_disease) - "In economics, the Dutch disease is the apparent causal relationship between the increase in the economic development of a specific sector (for example natural resources) and a decline in other sectors (like the manufacturing sector or agriculture)." 
+- [Norway's Sovereign Wealth Fund](https://progressandpoverty.substack.com/p/norways-sovereign-wealth-fund)
 
 ### Nachwachsende Rohstoffe
 

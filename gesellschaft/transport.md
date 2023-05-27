@@ -23,3 +23,4 @@
 ## Links
 
 - [The Simple Solution to Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE)
+- [Land Value Capture Mechanism: The Case of the Hong Kong Mass Transit Railway](https://www.unescap.org/sites/default/files/Case%204-%20Land%20Value%20-%20Hong-Kong%20MTR.pdf)

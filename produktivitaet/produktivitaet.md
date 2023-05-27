@@ -205,5 +205,5 @@ for anyone who is interested in time management and productivity
 - [How He Earned $15,000,000 In 12 Months](https://www.youtube.com/watch?v=w47sY1sCWco)
 - [They Call Him The Most Productive Man Alive](https://www.youtube.com/watch?v=vja6gTmwGf0)
 - [Dr. K, How Do I Focus?](https://www.youtube.com/watch?v=BZPRX9X5V5I)
-- [The "Perfect Diet" Myth](https://www.youtube.com/watch?v=DKYXI6pDQSo)
+- [What Hunter-Gatherers Can Teach Us About The Frustrations Of Modern Work](https://www.youtube.com/watch?v=2_FlZIr3kXs)
 

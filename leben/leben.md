@@ -327,3 +327,4 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [40 Lessons from 30 Years](https://blog.nateliason.com/p/40-lessons-from-30-years)
 - [lifehacks](https://guzey.com/lifehacks/)
 - [Is there anyone who has understood late what happiness really is? How did you find out?](https://qr.ae/pypeKN)
+- [How to have a FULFILLING LIFE: the importance of vision and want](https://www.youtube.com/watch?v=apQWNWtcPnA)

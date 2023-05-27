@@ -36,6 +36,7 @@ Die Produktion soll auch in der Nähe der Anwohner stattfinden. Das minimiert Tr
 - [Parc Carreg](https://www.parccarreg.com/) - Organic Duck Eggs
 - [Wakelyns](https://wakelyns.co.uk/) - Organic farming on one of the longest-established and most diverse Agroforestry sites
 - [Whole Systems Design](https://www.wholesystemsdesign.com/) - We build whole human habitats. 
+- [Planting Justice](https://plantingjustice.org/)
 
 ## Circular Agriculture
 

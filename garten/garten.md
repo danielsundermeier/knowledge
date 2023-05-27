@@ -97,3 +97,4 @@ Ich habe Wein vor meinen Fenstern her gezogen. Seit dem ist es im Sommer deutlic
 - [Plants for a Future](https://pfaf.org/user/plantsearch.aspx)
 - [Deutsches Obst und Gemüse](https://deutsches-obst-und-gemuese.de/?s=&category_id_0=403&category_id_1=403&type=post&last_category_id=403)
 - [Waldgarten in der Permakultur](https://permakultur-konkret.ch/umsetzung-uebersicht/permakultur-elemente/gartenformen/)
+- [Warum Sie Pflasterfugen nicht säubern, sondern bepflanzen sollten](https://www.geo.de/natur/unkraut-aus-fugen-entfernen-war-gestern--mit-5-pflanzen-werden-sie-zum-hingucker-33462646.html?utm_source=pocket-newtab-global-de-DE)

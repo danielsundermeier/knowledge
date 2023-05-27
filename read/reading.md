@@ -1,2 +1,45 @@
 # Reading
 
+[find novelty through commitment](https://mindmine.substack.com/p/commitment)
+
+> "By avoiding commitment, we end up in a state of self-avoidance."
+
+> "By never choosing, we indulge ourselves in the idea that we are saving ourselves for the “best thing,” or that we’re better off with simply pursuing optionality forever."
+
+> "when you commit to something, you feel safe. And when you feel safe, you explore. And when you explore, you discover new things (novelty!). That novelty then leads to self-expansion."
+
+> "the purpose of novelty is to find something we can commit to."
+
+[becoming yourself is a process of reduction](https://mindmine.substack.com/p/becoming)
+
+> "I didn’t want to be who I truly was because I didn’t want to “just be a writer”, or “just be an artist”, or just be anything. I wanted to be everything, so I did everything. And in the process, I fractured my power."
+
+> "Like: order the thing you actually want in the restaurant. Do the type of exercise you actually like. Keep the habits that serve you, discard the ones you think you “should” do but don’t actually resonate with."
+
+> "I’m learning in my own time that true power comes from choice, from reduction—from focus. That to become more, we need to do less."
+
+[Enough](https://www.whitenoise.email/p/enough)
+
+> "This is a real problem as it is an incontrovertible fact that you will never be happy if you are always looking for something else. This nomadic path is no more than a vicious, careening, never-ending cycle. As they say, comparison is the thief of joy."
+
+> "We latch onto these superficial things — the promotion earned, the exam aced, the trophy won — looking outwards for peace that can only come from within."
+
+[The Long Game 153: Health Isn't Just Biomarkers, Lean Startups, Trying to Organize Everything](https://thelonggame.xyz/p/the-long-game-153-health-isnt-just)
+
+> "The reason extreme routines are so popular is because they seemingly remove the need to think for yourself and understand what “optimal” truly means in your individual context."
+
+[You Can Be Successful Without Being Insufferable](https://www.youngmoney.co/p/can-successful-without-insufferable)
+
+> "You know what’s actually impressive? Learning a musical instrument, fostering deep relationships, traveling somewhere new, picking up a new language, mastering a martial art, and/or developing a decent sense of humor, all while leading a lucrative career."
+
+[How can you live a more fulfilling and authentic life and be more in the present?](https://qr.ae/pyrU0d)
+
+> "What you will discover is that if you let go of your expectations and surrender to what already is, you start to feel present, fulfilled, and happy for absolutely no reason."
+
+[Norway's Sovereign Wealth Fund](https://progressandpoverty.substack.com/p/norways-sovereign-wealth-fund)
+
+> "Georgist land and resource policy is basically a way of saying: if you wish to take the bounties of nature for your own private use, you must compensate the people for what you take."
+
+> "Instead of privatizing the resource rents provided by access to oil, companies make their returns off of the extraction and transportation of the oil, incentivizing them to develop the most efficient technologies and processes rather than simply collecting the resource rents."
+
+> "Exploration and development is subsidized by the Norwegian government in order to maximize the amount of resource rents that can be taxed by the state, while also promoting a highly competitive environment free of the corruption and stagnation that afflicts state-controlled oil companies."

@@ -143,6 +143,7 @@ wind turbines.
 - Schwarzes Loch
 - [Dieses norddeutsche Rechenzentrum läuft mit Windkraft und wärmt eine Algenfarm](https://1e9.community/t/dieses-norddeutsche-rechenzentrum-laeuft-mit-windkraft-und-waermt-eine-algenfarm/9962)
 - [Organic Rankine Cycle (ORC)](https://en.wikipedia.org/wiki/Organic_Rankine_cycle) - "The Organic Rankine Cycle (ORC) is named for its use of an organic, high molecular mass fluid with a liquid-vapor phase change, or boiling point, occurring at a lower temperature than the water-steam phase change. The fluid allows Rankine cycle heat recovery from lower temperature sources such as biomass combustion, industrial waste heat, geothermal heat, solar ponds etc. The low-temperature heat is converted into useful work, that can itself be converted into electricity."
+- [So gewinnen Forschende aus Luftfeuchtigkeit Strom](https://www.geo.de/wissen/forschung-und-technik/so-gewinnen-forschende-aus-luftfeuchtigkeit-strom-33500274.html?utm_source=pocket-newtab-global-de-DE)
 
 ## Wärme
 

@@ -81,6 +81,10 @@ Gefühlskompass
 - [The Expectation Effect: How Your Mindset Can Change Your World](https://www.goodreads.com/book/show/57771229-the-expectation-effect)
 - [The Lazy Way To An Awesome Life](https://bakadesuyo.com/2022/10/expectations)
 
+## Überforderung
+
+- [If You're Feeling Overwhelmed Watch This](https://www.youtube.com/watch?v=7VfSCQnGfk4)
+
 ## Notizen
 
 - Say what you mean. Mean what you say.
@@ -104,4 +108,5 @@ Gefühlskompass
 - [Mental Wealth](https://jjbeshara.com/2020/06/04/mental-wealth/)
 - [Medito](https://meditofoundation.org/)
 - [How I Attained Persistent Self-Love, or, I Demand Deep Okayness For Everyone](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love)
+- [How do you distinguish between what you think you want and what your inner self actually desires?](https://qr.ae/pyYHgQ)
 

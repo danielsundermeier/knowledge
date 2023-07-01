@@ -80,7 +80,9 @@ Die Steuer sollte an alle Menschen ausgezahlt werden.
 
 ### Links
 
-[Georgism](https://en.wikipedia.org/wiki/Georgism)
+- [Georgism](https://en.wikipedia.org/wiki/Georgism)
+- [Your Book Review: Progress And Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)
+- [How I Used EVE Online to Predict the Great Recession](https://www.gamedeveloper.com/design/how-i-used-eve-online-to-predict-the-great-recession)
 
 ## Universität
 

@@ -1,5 +1,19 @@
 # Beruf
 
+Ein guter Job ist selten und wertvoll. Alle wollen ihren Traumjob finden. Das bedeutet es gibt viel Nachfrage und nur wenig Angebot.
+
+Ich brauche daher etwas seltenes und wertvolles, um den Traumjob zu bekommen. 
+
+Ich mache mich wertvoll, indem ich Fähigkeiten erlerne, ein Netzwerk aufbaue und Erfahrungen sammle (= Karriere Kapital).
+
+Ich kann am Anfang meiner Karriere nicht erwarten direkt den Traumjob zu ergattern. Ich muss erst etwas dafür tun.
+
+Es ist nicht so wichtig in welchem Bereich ich arbeite. Besonders am Anfang arbeite ich, um zu lernen und mir Karriere Kapital aufzubauen.
+
+Das kann ich dann investieren und so zu einem besseren Job kommen.
+
+Auf den perfekten Job zu hoffen und auf Anhieb meine Bestimmung zu finden ist unrealistisch.
+
 ## Stufen
 
 0. Herausfinden was ich möchte
@@ -63,3 +77,6 @@
 - [How I Got Fired From My Dream Job -- And What I Learned](https://www.andrewlynch.net/blog/how-i-got-fired-from-my-dream-job-and-what-i-learned)
 - [A forty-year career.](https://lethain.com/forty-year-career/)
 
+## Bücher
+
+[So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)

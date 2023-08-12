@@ -60,7 +60,7 @@ Lösungen aus anderen Bereichen für meinen konkreten Fall anpassen.
 
 ### Die Lösung sabotieren
 
-Versuchen herauszufinden, was die Nachteile der meiner favorisierten Lösung sind.
+Versuchen herauszufinden, was die Nachteile meiner favorisierten Lösung sind.
 Was muss passieren, damit eine andere Lösung die beste Lösung ist?
 
 ### Objektive Ansicht

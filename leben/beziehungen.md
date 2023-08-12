@@ -16,7 +16,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - Attraktives Leben aufbauen -> Menschen wollen daran teilhaben
 - Wenn ich etwas möchte, muss ich danach fragen.
 
-- Andere Menschen können nicht meine Gedanken lesen. Ich muss Ihnen mitteilen was mir gefällt und was nicht.
+- Andere Menschen können meine Gedanken nicht lesen. Ich muss Ihnen mitteilen was mir gefällt und was nicht.
 - Frauen lieben Blumen! - [Flowers make a nice gift](https://www.echevarria.io/blog/flowers-make-a-nice-gift/index.html)
 - Wenn man ein schweres Gespräch aufschiebt, wird es schwerer
 - Man ändert die Ansicht von jemand anderem nicht während eines Gesprächs. Das passiert erst, wenn der Gegenüber über die Argumente nachdenkt
@@ -73,7 +73,7 @@ bedeuten: Erzähl mir etwas interessantes über dich, über das wir reden könne
 
 Anstatt ich bin aus X, mehr erzählen: Ich bin in X Geboren, habe dort studiert und bin dann zum Y nach Z gezogen.
 
--> viele mögliche Gesprächsthemen in die ersten Antwort integrieren
+-> viele mögliche Gesprächsthemen in die erste Antwort integrieren
 
 - Mögliche Gesprächsthemen anbieten (dich mich interessieren), auf die der Gesprächspartner eingehen kann.
 - Fragen aussführlich beantworten (Nicht nur "Ja" oder "Nein", sondern Ja, und ...) und weitere Themen mit einbeziehen.

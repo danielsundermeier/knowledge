@@ -80,3 +80,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [A Complete Guide to Getting What You Want](https://www.raptitude.com/2018/06/getting-what-you-want/)
 - [Where Does Ambition Come From?](https://life-longlearner.com/where-does-ambition-come-from/)
 - [on competing constructively](https://mindmine.substack.com/p/on-competing-constructively)
+- [How to Do Great Work](http://paulgraham.com/greatwork.html)

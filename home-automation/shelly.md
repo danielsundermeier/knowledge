@@ -8,8 +8,8 @@
 
 - L von Steckdose zu Schalter
 - L von Schalter zu Shelly L
-- L von Schlater zu Shelly SW
-- N von Steckdoese zu Shelly
+- L von Schalter zu Shelly SW
+- N von Steckdose zu Shelly
 - Lichtkabel an I/O von Shelly
 
 ### Anschlussshemen

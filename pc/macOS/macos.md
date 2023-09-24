@@ -59,6 +59,13 @@ brew services restart --all
 
 ### MariaDB
 
+Nach dem Installieren
+```bash
+mariadb
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
+```
+[Install MariaDB with brew on macOS and fix the “access denied” issue](https://gist.github.com/nickcernis/1c2a1c98a0660d4798d55b1999d52b4c)
+
 Wenn mysql nach
 ```
 brew upgrade

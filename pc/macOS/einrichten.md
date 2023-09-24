@@ -1,0 +1,4 @@
+# Einrichten
+
+- Brewfile runterladen
+- 

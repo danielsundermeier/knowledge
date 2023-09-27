@@ -18,3 +18,25 @@ Replace: \1, \2
 
 - [Text Pastry](https://github.com/duydao/Text-Pastry)
 - [AFileIcon](https://github.com/SublimeText/AFileIcon/)
+- [Colorsublime](https://packagecontrol.io/packages/Colorsublime)
+- [ProjectManager](https://packagecontrol.io/packages/ProjectManager)
+- [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview)
+- [WordingStatus](https://packagecontrol.io/packages/WordingStatus)
+- [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+- [Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+
+## Settings
+
+```json
+{
+	"close_windows_when_empty": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Colorsublime - Themes/LAZY.tmTheme",
+	"font_size": 12,
+	"show_encodung": true,
+	"word_wrap": false,
+}
+```

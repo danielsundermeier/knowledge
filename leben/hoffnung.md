@@ -9,11 +9,21 @@ Wir brauchen etwas, dass wir erreichen wollen.
 
 Wenn wir Hoffnung aufbauen wollen, müssen wir die Fähigkeit uns unsere Zukunft vorzustellen entwickeln. Sie ist die die Grundlegende Fähigkeit für die Hoffnung.
 
-Was begeistert ich? Welche großartige Zukunft baust Du auf?
+Die glücklichsten Menschen haben Projekte. Sei es einen Garten anzulegen, die Erziehung der Kinder oder eine Rakete zum Mars zu starten.
+
+Was begeistert dich? Welche großartige Zukunft baust Du auf?
 
 ## Handlungsfähigkeit
 
-Wir brauche den Glauben, dass wir unsere Ziele erreichen können
+Wir brauche den Glauben, dass wir unsere Ziele erreichen können. Es ist unsere Selbstwirksamkeit.
+
+In einer Studie mit Ratten hat sie ein Wissenschftler so lange schwimmen lassen bis sie ertrunken sind. Sie haben 15 Minuten durchgehalten.
+
+Eine zweite Gruppe von Ratten hat er kurz vor den 15 Minuten aus dem Waser geholt, abgetrocknet und sich erholen lassen, bevor er sie wieder in das Becken gesetzt hat.
+
+Nachdem sie gerettet wurden sind die Ratten 60 Stunden geschwommen.
+
+Der Wissenschaftler führt es auf die Hoffnung zurück wieder gerettet zu werden.
 
 ## Pläne
 
@@ -25,7 +35,9 @@ Wir brauchen mehr als einen Weg, um unser Ziel zu erreichen und müssen flexibel
 
 Kein Plan wird ohne Probleme funktionieren.
 
-## Wann und Wo
+Kein Plan überlebt den Kontakt mit dem Feind.
+
+Wenn Plan A nicht funktioniert, können wir unsere Erfahrungen und die Lektionen in Plan B integrieren und es weiter versuchen.
 
 Wir erreichen unsere Ziele leichter, wenn wir festlegen wann und wo wir unsere Aufgaben erledigen. Am besten tragen wir es uns in den Kalender ein. So haben wir keine Ausreden und reduzieren den Widerstand zu starten.
 

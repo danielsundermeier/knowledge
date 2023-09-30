@@ -2,6 +2,8 @@
 
 [Gewohnheiten](https://de.wikipedia.org/wiki/Gewohnheit) sind die Automatisierung von Handlungen, ohne bewusst darüber nachzudenken. Ich mache die Dinge einfach.
 
+Sie sind der Grundpfeiler meines Lebensstils. Auf ihnen baut alles andere auf.
+
 Ich glaube je weniger Entscheidungen ich jeden Tag treffen muss, desto mehr Kapazitäten habe ich Probleme zu lösen und neue Ideen zu generieren. Genau dafür sind Gwohnheiten, meine feste [Struktur](./struktur.md) und das [Aufschreiben](./schreiben.md) von allem.
 
 Ich nutze sie, um meine [Ziele](./ziele.md) zu erreichen. Dafür überlege ich mir, was ich tun muss, um mein Ziel zu erreichen und versuche eine Gewohnheit daraus zu machen.
@@ -16,6 +18,8 @@ Irgendwann ist es normal das "Gute" zu tun und ich denke nicht mehr darüber nac
 
 Ich habe volle Kontrolle über meinen Tag, weil die Grundlagen durch meine Gewohnheiten "automatisch" erledigt werden und ich mir keine Gedanken darüber machen muss.
 
+Wir alle haben gute und schlechte Tage. Wenn wir herausfinden, was wir tun, um einen guten Tag zu haben, sollten wir daraus Gewohnheiten machen. So können wir alle Tage verbessern.
+
 ## Ziel
 
 Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewusster erleben kann.
@@ -26,23 +30,6 @@ Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewus
 2. Tägliche / Regelmäßige Handlung zum Erreichen von Ziel
 3. Immer nur eine Gewohnheit gleichzeitig ändern
 4. Klein anfangen
-
-## Willenskraft
-
-- Korreliert 2x mehr mit Erfolg als IQ
-    + Willenkraft stärken ist guter Weg erfolgreich zu werden
-- Endlich, Ermüdet
-    + Wie ein Muskel oder eine Batterie
-- Zum Aufbauen neuer Gewohnheiten nutzen
-- Entscheidungen so selten wie möglich treffen
-- Willenskraft steigern
-    + Essen, Bewegung und Schlafen steigert Willenskraft
-    + Meditation ist Training für das Gehirn
-    + Tiefe Atmung 
-        * 4 Sekunden einatmen
-        * 6 Sekunden ausatmen
-    + Entscheidung vorwegnehmen & Klare Regeln
-    + Selbstmitgefühl
 
 ## Grundlagen
 

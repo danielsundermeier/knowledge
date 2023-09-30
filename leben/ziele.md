@@ -27,6 +27,51 @@ Ich kann Dinge vermeiden, die Menschen getan haben, dessen Leben ich nicht anspr
 
 So kann ich mir das Beste aus den Leben meiner Mitmenschen heraussuchen und in mein Leben integrieren.
 
+## WOOP
+
+- Whish
+- Outcome
+- Obstacles
+- Plan
+
+### Whish
+
+Was wollen wir erreichen?
+
+Wenn alles möglich wäre, was möchtest Du erreichen?
+
+Was ist dein bedeutenstes Ziel?
+
+Alles verläuft perfekt. Was hast Du erreicht?
+
+### Outcome
+
+Vorstellen aller Vorteile, die uns dieses Ziel bringt, wenn wir es erreicht haben.
+
+Es ist wichtig wirklich begeistert zu sein.
+
+### Obstacles
+
+Mit welchen Hindernisse können wir rechnen? Was steht uns im Weg?
+
+Es wird zu Problemen kommen und nicht alles reibungslos verlaufen.
+
+Je realistischer unsere Pläne, umso besser können wir uns vorbereiten.
+
+### Plan
+
+Das Herzstück eines Plan sind die Implementations-Intentionen.
+
+Wenn X passiert machen wir Y. So können wir uns auf Rückschläge vorberieten. Wir nehmen uns im Vorfeld vor, was wir tun werden, wenn etwas passiert.
+
+Es ist ein Algorithmus für das Leben. Wir programmieren unsere Reaktionen.
+
+Nachdem ich aufgestanden bin, dehne ich mich.
+
+Vor dem Schlafengehen nutze ich keine elektronischen Geräte mehr.
+
+Es sind die Trigger und Routinen einer Gewohnheit.
+
 ## Ziele erreichen
 
 Jeden Tag (regelmäßig) etwas tun, dass mich dem Ziel näher bringt

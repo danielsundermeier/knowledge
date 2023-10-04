@@ -164,6 +164,10 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 
 - [Peter Kaufman on the Multi-Disciplinary Approach to Thinking](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking)
 
+## Perpektive
+
+Niemand ist 100% korrekt. Jede Perspektive trägt einen Teil der Wahrheit in sich. Wenn wir uns das nächste Mal 100% im Recht sehen, können wir einen Schritt zurücktreten und versuchen die Perspektive des anderen nachzuvollziehen.
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

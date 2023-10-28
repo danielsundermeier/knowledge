@@ -13,3 +13,4 @@ The automation designed based on a few specific principles:
 
 - [Creating Processes and Automating Everything](https://seanwes.com/podcast/499-build-a-profitable-agency-part-4-creating-processes-and-automating-everything/)
 - [Do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) - Schritte in Programm schreiben und auf Feedback warten
+- [Wanted: High Performers for the Last Job You’ll Ever Have](https://every.to/chain-of-thought/wanted-high-performers-for-the-last-job-you-ll-ever-have)

@@ -14,6 +14,10 @@ Erholung und Aktivität ergänzen sich gegenseitig. Sie sind zwei Seiten der sel
 - Yoga
 - Kreatives Hobby
 
+## Default Mode Network
+
+Ist eine Gruppe von Hirnregionen, die beim Nichtstun aktiv werden. Es ermöglicht das reizunabhängige Denken. Beispiel dafür sind das Tagträumen oder Zukunftspläne schmieden.
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

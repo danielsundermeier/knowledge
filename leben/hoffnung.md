@@ -41,6 +41,14 @@ Wenn Plan A nicht funktioniert, können wir unsere Erfahrungen und die Lektionen
 
 Wir erreichen unsere Ziele leichter, wenn wir festlegen wann und wo wir unsere Aufgaben erledigen. Am besten tragen wir es uns in den Kalender ein. So haben wir keine Ausreden und reduzieren den Widerstand zu starten.
 
+## Optimusmus
+
+Optimusmus können wir, genau wie Hilflosigkeit, lernen.
+
+- Bestängigkeit: Optimisten gehen davon aus, dass Probleme vorübergehen und etwas Gutes bleibt.
+- Verbreitung: Optimisten wissen, dass immer nur ein spezifischer Bereich von einem Poblem betroffen ist und nicht ihr ganzes Leben.
+- Personifizierung: Optimisten sehen auch äußere Einflüsse, die zu einem Fehler geführt haben können und geben sich nicht allein die Schuld.
+
 ## Bücher
 
 - [The Psychology of Hope](https://www.goodreads.com/book/show/870952.The_Psychology_of_Hope)

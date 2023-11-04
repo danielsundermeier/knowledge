@@ -8,6 +8,13 @@
 - Muskelaufbau: 8-12 Wiederholungen 3 Sätze 
 - Kraft Aufbau: 3-5 Wiederholungen, 5 Sätze
 - Alle 6-8 Wochen zwischen Muskelaufbau und Kraftaufbau wechseln
+- 75% des Jahres (9 Monate) Muskelaufbau/Kalorienüberschuss 
+    + 3 Monate Kaloriendefizit
+    + 1 Monat Erhalt, neues Gleichgewicht finden
+    + 8 Monate Kalorienüberschuss
+- Ziel
+    + 0,25 - 1 kg Zunahme pro Monat, Je erfahrener, umso geringer die Zunahme
+    + Möglichst wenig Fett aufbauen, deshlab nur geringer Kalorienüberschuss
 
 Das Wichtigste beim Muskelaufbau ist, Progessive Overload. Es bedeutet sich kontinuierlich zu steigern. Nur so werden die Muskeln zum Wachsen angeregt.
 

@@ -22,6 +22,13 @@
 - [Brewfiles](https://brewfile.info/)
 - [BrewMyMac](https://brewmymac.sh/)
 
+
+### Installieren
+
+```
+brew bundle install $USER/code/danielsundermeier/dotfiles/Brewfile
+```
+
 ### Update
 
 ```

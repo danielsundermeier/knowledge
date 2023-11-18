@@ -32,6 +32,15 @@ Der Körper passt sich dem Defizit an und verbraucht weniger Energie. Deshalb mu
 Nachdem ich genug abgenommen habe, erhöhe ich die Kalorien langsam um 50 - 100 kcal / Tag pro Woche, damit sich mein Körper langsam daran gewöhnen kann.
 Ansonsten kann es passieren schnell wieder Fett aufzubauen, weil der Körper im Defizit war.
 
+## Prioritäten
+
+1. Energiebilanz
+2. Protein
+3. Kohlenhydrate & Fette
+4. Mahlzeitenfrequenz & Lebensmittelauswahl
+5. Flüssigkeit
+6. Supplemente
+
 ## Vorbereiten
 
 - Grundumsatz herausfinden: [Kalorienrechner](https://fitness-experts.de/kalorienrechner)
@@ -169,6 +178,10 @@ Statt uns zu bestrafen, können wir uns fragen, was wir beim nächsten Mal besse
 - Hunger passt sich an Essenszeiten an
 - Keine Snacks
 - Vor und nach dem Training Mahlzeit mit Protein und Kohlenhydrate; Fett hat keinen Vorteil für das Training
+
+## Bücher
+
+- [Fettverlust Fibel](https://www.goodreads.com/book/show/195749365-die-fettverlust-fibel)
 
 ## Links
 

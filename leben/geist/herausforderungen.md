@@ -31,6 +31,7 @@ Wir haben immer die Wahl, wie wir auf Situationen reagieren. Nur weil unser Vers
 
 ## Bücher
 
+- [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)
 - [The Obstacle Is the Way](https://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way)
 
 ## Links

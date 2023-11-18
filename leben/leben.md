@@ -5,7 +5,8 @@ Ich möchte dich dazu bringen über dein eigenes Leben nachzudenken und herauszu
 
 ## Ziel
 
-Meine beste Version werden.
+- Glücklich sein
+- Meine beste Version werden
 
 ## Zusammenfassung
 
@@ -46,19 +47,19 @@ Meine Gesundheit und Finanzen kann ich so gestalten, wie ich es mir vorstelle. D
 - In allen Lebensbereichen besser als der Durchschnitt werden (7/10 Punkten) -> Durch Kombination aller Lebensbereiche in Spitzenposition
 
 - Zum glücklich sein ist entscheidend was ich jeden Tag tue, nicht das was ich hin und wieder mache
-- Nicht für das Wochenende oder den Urlaub leben
+- Nicht für den Feierabend das Wochenende den Urlaub oder die Rente leben
 - Aufschreiben was mir gefällt und was mir nicht gefällt
-- Mehr von dem tun was mir gefällt
-- Weniger von dem tun was mir nicht gefällt
+    + Mehr von dem tun was mir gefällt
+    + Weniger von dem tun was mir nicht gefällt
 - Einen Teil der Zeit nutzen neue Dinge auszuprobieren
 - Feedback einholen
     + Fragebogen als Geburtstagsgeschenk ausfüllen lassen ([Having an accurate self-image](https://www.neelnanda.io/blog/26-accurate-self-image))
 
-Anstatt einer Sache 100 % der Zeit zu widmen, kann ich 20 % meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
-Es besagt dass man 80 % der Ergebnisse mit 20 % des Einsatzes erreichen kann
+Anstatt einer Sache 100% der Zeit zu widmen, kann ich 20% meiner Zeit fünf verschiedenen Dingen widmen. 80/20 Verteilung, Pareto Verteilung oder Power Law
+Es besagt dass man 80% der Ergebnisse mit 20% des Einsatzes erreichen kann
 - [Jordan Peterson - Eine ausgezeichnete Karriere oder ein ausgeglichenes Leben?](https://www.youtube.com/watch?v=cSFSlZwneO4)
 
-Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um Lösungen zu finden. Deshalb ist es wichtig seine Gedanken aufzuschreiben.
+Es ist wichtig seine Probleme aus einer anderen Perspektive zu betrachten, um Lösungen zu finden. Deshalb ist es wichtig seine Gedanken aufzuschreiben und sie zu teilen.
 - [Life Is a Video Game—Here Are the Cheat Codes](https://markmanson.net/life-cheat-codes)
 
 [18 years old Tolstoy's Rules For Life](https://www.reddit.com/r/JordanPeterson/comments/gxx8hf/18_years_old_tolstoys_rules_for_life/)
@@ -76,7 +77,7 @@ Das Leben einfach gestalten, herausfinden, was funktioniert und darauf fokussier
 
 - Menschen brauchen Herausforderungen und sind nicht für das sorgenlose Leben gemacht.
 - Decide, don't slide: Bewusste Entscheidungen treffen und getroffene Entscheidungen regemäßig hinterfragen
-- Win oder Learn: Aus Fehlern lernen und besser werden
+- Win or Learn: Aus Fehlern lernen und besser werden
 - Auf wenige Dinge (ca. 5) fokusieren und sie lange (ca. 10 Jahre) verbessern -> [Erfolg](./erfolg.md)
     + Training
     + Ernährung
@@ -179,7 +180,7 @@ Sich selbst nach jeder Aufgabe Feedback geben:
 ## Zeit
 
 - Wir sehen Zeit als Währung oder Besitz
-- Wir haben Angst nichts zu tun und füllen unsere Zeit mir Ablenkungen
+- Wir haben Angst nichts zu tun und füllen unsere Zeit mit Ablenkungen
 - Wir haben Angst, dass uns eine längere Pause die Möglichkeit gibt zu erkennen, dass unsere Leben nicht so bedeutend und erfüllend sind, wie wir es gerne hätten
 
 [The Wonderbox](https://www.goodreads.com/book/show/13380059-the-wonderbox)
@@ -225,8 +226,8 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [What 10 things should I do every day to become smarter?](https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1)
 - [What are 5 habits that can improve my life?](https://www.quora.com/What-are-5-habits-that-can-improve-my-life/answer/Dylan-Woon-1)
 - [Andrew Ferebee](https://www.quora.com/profile/Andrew-Ferebee)
-- [Same As It Ever Was](https://www.collaborativefund.com/blog/same-as-it-ever-was/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
-- [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Pet erson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
+- [Same As It Ever Was](https://www.collaborativefund.com/blog/same-as-it-ever-was)
+- [How To STOP Wasting Time And Procrastinating Your Life Away - Jordan Peterson](https://www.youtube.com/watch?v=6szWZmpYm2c&feature=share)
 - [Specialization is For Insects](https://thedeepdish.org/specialisation-is-for-insects/)
 - [Rules](https://github.com/nikitavoloboev/knowledge/blob/ee97d6d2e96d10ce2514cd708a182ead36724967/focusing/rules.md)
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)

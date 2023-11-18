@@ -135,4 +135,5 @@ Wenn etwas gepflegt wird, bleibt es auch eher so.
 - [How your personal finance decisions affect society](https://thewokesalaryman.com/2021/12/07/how-your-personal-finance-decisions-affect-society/)
 - [Common Unity](https://www.commonunityproject.org.nz/) - Together, we grow our own solutions
 - [The Perfect Country](https://www.youtube.com/watch?v=shanIOl7MyE)
+- [StriveTogether](https://www.strivetogether.org/)
 

@@ -16,6 +16,10 @@
     + 0,25 - 1 kg Zunahme pro Monat, Je erfahrener, umso geringer die Zunahme
     + Möglichst wenig Fett aufbauen, deshlab nur geringer Kalorienüberschuss
 
+Muskeln sind für den Körper ein Luxus. Sie verbrauchen viel Energie. Es wird nur so viel Muskelmasse beibehalten, wie unbedingt nötig ist. Sobald wir sie nicht mehr nutzen, werden sie wieder abgebaut.
+
+Wir müssen unserem Körper daher durch Trainingsreize zeigen, dass wir mehr Muskelmasse brauchen.
+
 Das Wichtigste beim Muskelaufbau ist, Progessive Overload. Es bedeutet sich kontinuierlich zu steigern. Nur so werden die Muskeln zum Wachsen angeregt.
 
 Durch das Wechseln von Maximalkraft (3-5 Wiederholungen) zu Hypertrophie (8-12 Wiederholungen) werden mehr Muskelfasern aktiviert bzw. Muskelfasern zum Wachstum angeregt.

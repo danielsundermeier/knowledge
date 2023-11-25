@@ -41,7 +41,7 @@ Wenn Plan A nicht funktioniert, können wir unsere Erfahrungen und die Lektionen
 
 Wir erreichen unsere Ziele leichter, wenn wir festlegen wann und wo wir unsere Aufgaben erledigen. Am besten tragen wir es uns in den Kalender ein. So haben wir keine Ausreden und reduzieren den Widerstand zu starten.
 
-## Optimusmus
+## Optimismus
 
 Optimusmus können wir, genau wie Hilflosigkeit, lernen.
 

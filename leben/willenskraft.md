@@ -1,5 +1,9 @@
 # Willenskraft
 
+- Funktioniert langfristig nicht
+- Besonders wenn ich müde, hungrig oder wütend bin
+- Automatisierte Systeme ausdenken ([Gewohnheiten](./gewohnheiten.md))
+
 - Korreliert 2x mehr mit Erfolg als IQ
     + Willenkraft stärken ist guter Weg erfolgreich zu werden
 - Endlich, Ermüdet

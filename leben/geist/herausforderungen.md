@@ -10,6 +10,8 @@ Es gibt keinen Punkt im Leben, an dem wir keine Probleme mehr haben.
 
 Wichtig ist uns ihnen zu stellen. Wenn wir weglaufen, wirkt es umso großer. Je länger wir es aufschieben unso schlimmer wirkt es auf uns.
 
+Wir können uns vorstellen, dass es ein Test von den stoischen Göttern/dem Universum/dem Leben/... ist.
+
 ## Wahrnehmung (Perception)
 
 > "For there is nothing either good or bad, but thinking makes it so." - Shakespeare
@@ -32,6 +34,7 @@ Wir haben immer die Wahl, wie wir auf Situationen reagieren. Nur weil unser Vers
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)
+- [The Undefeated Mind](https://www.goodreads.com/book/show/16092850-the-undefeated-mind)
 - [The Obstacle Is the Way](https://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way)
 
 ## Links

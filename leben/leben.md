@@ -153,30 +153,6 @@ Oft wird das Leben von Jägern und Sammlern verherlicht und als optimal für Men
 - Targets
 - Actions
 
-## Willenskraft
-
-- Funktioniert langfristig nicht
-- Besonders wenn ich müde, hungrig oder wütend bin
-- Automatisierte Systeme ausdenken ([Gewohnheiten](./gewohnheiten.md))
-
-## Selbstbewusstsein
-
-- Nervosität als Begeisterung interpretieren.
-
-### Feedback
-
-Sich selbst nach jeder Aufgabe Feedback geben:
-
-- Great: Selbst loben, wenn es gut war
-- OK
-- Needs Work: Wenn etwas schlecht lief
-
-### Links
-
-- [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)
-- [The Only Way to Be Truly Confident in Yourself](https://markmanson.net/how-to-be-confident)
-- [What Do Strangers Think Of You?](https://www.youtube.com/watch?v=jg-O7f_1Ngc)
-
 ## Zeit
 
 - Wir sehen Zeit als Währung oder Besitz

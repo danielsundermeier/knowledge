@@ -28,6 +28,16 @@ Wir können uns fragen, was wir für eine Person sein müssen, um unsere Ziele z
 
 > We are what we repeatedly do… therefore excellence is not an act, but a habit. - Will Durant
 
+Ich glaube, dass es sehr wichig ist ein Ideal zu haben zu dem wir aufsehen können. Zu wissen, was uns wichtig ist und wofür wir stehen wollen.
+
+Es gibt uns ein Ziel, dass wir ansteuern können. Ohne dieses Ziel sind wir orientierungslos und schaffen es nicht so konsequent unsere Werte auch zu leben.
+
+Ich glaube es ist wichitg erstmal irgendwo anzufangen. Es ist immer leichter etwas bestehendes anzupassen und es immer weiter zu optimerien, als beim erstem Mal die perfekte Lösung zu finden.
+
+Wir können uns für die erstbeste Identität entscheiden, die uns einfällt und sie dann durch unsere Erfahrungen immer weiter zu verfeienern.
+
+> In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing. - Theodore Roosevelt
+
 ## Glaubenssätze
 
 Manchmal halten wir uns auch mit einer Identität zurück. Wir glauben etwas nicht zu können und probieren es nicht aus.

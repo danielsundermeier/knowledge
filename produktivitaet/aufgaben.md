@@ -5,16 +5,16 @@
 - GTD Capture [GTD 101](http://www.asianefficiency.com/task-management/gtd-intro/)
 - [Five Steps](https://gettingthingsdone.com/what-is-gtd/)
 - [GTP with Habitica](https://habitica.fandom.com/wiki/GTD_with_Habitica)
-- Ich möchte jeder Zeit alle Aufgaben aus Habitica direkt ausführen können.
+- Ich möchte jeder Zeit alle Aufgaben aus Apple Notes direkt ausführen können.
 
 ```
 Langeweile?
--> Älteste Aufgabe in Habitica ausführen!
+-> Älteste Aufgabe in Apple Notes ausführen!
 ```
 
-| Planen | Ausführen |
+| Planen | Ausführen |
 | ------ | --------- |
-| OneNote | Habitica |
+| OneNote | Apple Notes |
 | Dopamin | Here & Now |
 
 ## Eingang
@@ -78,9 +78,9 @@ Mittelfristig in [LifeOS](https://github.com/LifeOS-HQ/lifeos)
 - Beendete Projekte
 - aktuell nicht in Bearbeitung
 
-### Habitica
+### Apple Notes
 
-[Habitica](https://habitica.com)
+Ich nutze [Habitica](https://habitica.com) nur noch als Habit Tracker. Ich habe gemerkt, dass es mir Apple Notes einfacher für mich ist meine Aufgaben zu planen und in kleinere Schritte aufzuteilen.
 
 #### Aufgaben
 
@@ -88,7 +88,7 @@ Mittelfristig in [LifeOS](https://github.com/LifeOS-HQ/lifeos)
 - Einzelne Schritte in Checklisten (1 bis max 5)
 - Fälligkeiten zur Tagesplanung
 
-#### Tags
+#### Ordner
 
 - gruppieren einzelner Aufgaben
 - Pro Aufgabe nur ein Tag

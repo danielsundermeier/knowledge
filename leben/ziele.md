@@ -27,50 +27,29 @@ Ich kann Dinge vermeiden, die Menschen getan haben, dessen Leben ich nicht anspr
 
 So kann ich mir das Beste aus den Leben meiner Mitmenschen heraussuchen und in mein Leben integrieren.
 
-## WOOP
+### Mit dem Ende beginnen
 
-- Whish
-- Outcome
-- Obstacles
-- Plan
+Wir können unsere eigene Grabrede schreiben und so mit dem Ende unseres Lebens anfangen. 
 
-### Whish
+Vor dort aus können wir uns zurückarbeiten.
 
-Was wollen wir erreichen?
+Wir können uns 10, 5, 1 Jahresziele setzen. Diese brechen wir dann in Monate, Wochen und Tage herunter.
 
-Wenn alles möglich wäre, was möchtest Du erreichen?
+Am Ende haben wir ein System, dass wir täglich ausführen können, um unsere Lebensvision zu erreichen.
 
-Was ist dein bedeutenstes Ziel?
+Was kann ich heute tun, um meinem Ziel näher zu kommen?
 
-Alles verläuft perfekt. Was hast Du erreicht?
+### Lebensbereiche
 
-### Outcome
+Wir können unser Leben in unterschiedliche Bereiche einteilen.
 
-Vorstellen aller Vorteile, die uns dieses Ziel bringt, wenn wir es erreicht haben.
+Anschließend stellen wir grafisch dar, wie viel Zeit wir aktuell mit jedem Lebensbereich verbringen. Wir können dazu Formen, bei denen die größe für die Zeit steht, aufmalen.
 
-Es ist wichtig wirklich begeistert zu sein.
+Im nächsten Schritt zeichnen wir unsere Wunschvorstellugn auf.
 
-### Obstacles
+Wir können und dann Ziele pro Bereich überlegen, um zu der neuen Aufteilung zu kommen.
 
-Mit welchen Hindernisse können wir rechnen? Was steht uns im Weg?
-
-Es wird zu Problemen kommen und nicht alles reibungslos verlaufen.
-
-Je realistischer unsere Pläne, umso besser können wir uns vorbereiten.
-
-### Plan
-
-Das Herzstück eines Plan sind die Implementations-Intentionen.
-
-Wenn X passiert machen wir Y. So können wir uns auf Rückschläge vorberieten. Wir nehmen uns im Vorfeld vor, was wir tun werden, wenn etwas passiert.
-
-Es ist ein Algorithmus für das Leben. Wir programmieren unsere Reaktionen.
-
-Nachdem ich aufgestanden bin, dehne ich mich.
-
-Vor dem Schlafengehen nutze ich keine elektronischen Geräte mehr.
-
-Es sind die Trigger und Routinen einer Gewohnheit.
+Wir können unsere Lebensbereiche einen nach dem anderen durchgehen und eine neue positive Gewohnheit etwablieren und eine negative eleminieren. So kommen wir unserem Ziel immer näher.
 
 ## Ziele erreichen
 

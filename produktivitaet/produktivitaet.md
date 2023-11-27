@@ -65,38 +65,7 @@ Nach [Manual Work is a Bug #Four Phases](https://queue.acm.org/detail.cfm?id=319
 - Nächster Schritt in Projekt pro Abschnitt
 - Nächster Schritt ganzes Projekt in Habitica erstellen
 
-- Wenn ich ein Projekt pausiere, den Nächsten Schritt aufschreiben -> Ich weiß direkt was zu tun ist, wenn ich weitermachen möchte
-
-## Motivation
-
-Um motiviert zu sein muss ich
-- Wissen wo ich stehe
-- ein Ziel haben
-- Wissen, wie ich dieses Ziel erreichen kann
-- Kopf frei haben; Wenige Prioritäten / Aufgaben zur selben Zeit
-
-Motivation kommt, nachdem ich angefange etwas zu tun.
-
-### Extrinsisch
-
-Ziele aufgrund von externen Faktoren (z.B. Geld, Preise, gute Noten) erreichen
-
-### Intrinsisch
-
-Ziele ihretwegen erreichen
-
-Vorraussetzungen:
-- Selbstbestimmt (Ziel selbst festgelegt)
-- verbesserte Kompetenz (etwas Neues lernen, Besser werden)
-
-### Links
-
-- [Building intrinsic motivation](https://nesslabs.com/intrinsic-motivation-3)
-- [The Truth About Infinite Motivation](https://www.youtube.com/watch?v=uFAlRKjexSg)
-- [How to Unlock Your Motivation](https://www.youtube.com/watch?v=RfL0H9IiU9s)
-- ["Motivation is a byproduct of action, not the catalyst for it."](https://twitter.com/adamwathan/status/1520153298023636993)
-- [How I Make Work Fun](https://www.youtube.com/watch?v=ELavuz3btaE)
-- [For low motivation days](https://www.zeptonaut.com/posts/for-low-motivation-days/)
+- Nachdem ich eine Aufgabe beendet habe, den nächsten Schritt aufschreiben -> Ich weiß direkt wie es weitergeht.
 
 ## Flow
 

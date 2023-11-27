@@ -18,12 +18,12 @@ Shortcut: ctrl + M
 - Abschnitte erstellen
 - ggf. Aufgaben erstellen
 
-#### Filter nach Aufgaben  
+#### Filter nach Aufgaben
 
 1. Auf Lupe links neben Notizbüchern klicken
 2. Nach "Aufgaben" suchen
 
-- Offene Aufgaben als Aufgabe in Habitica anlegen
+- Offene Aufgaben als Aufgabe in Apple Notes anlegen
 - konkrete Schritte zur Ausführung als Checkliste erstelen
 - Aufgaben in OneNote abhaken
 
@@ -35,14 +35,14 @@ Shortcut: ctrl + M
 - Notizen in Projekte einsortieren
 - Aufgaben erstellen
     + OneNote
-    + Habitica
-        * Bei mehreren Aufgaben nur die aktuelle in Habitica mit Checkliste: "Nachfolger anlegen"
+    + Apple Notes
+        * Bei mehreren Aufgaben nur die aktuelle in Apple Notes mit Checkliste: "Nachfolger anlegen"
 - konkrete Schritte zur Ausführung als Checkliste erstellen
 
 ### Wissenssammlung
 
 - Commits der letzte Woche durchgehen
-- committen, was noch offen ist
+- Committen, was noch offen ist
 
 ## Ziele
 
@@ -53,7 +53,4 @@ Shortcut: ctrl + M
 
 - Tagebucheinträge durchgehen
 - Lebensbereiche bewerten
-
-## Blinkist
-
-- "Diese Woche neu" durchgehen und interessantes zu "Meine Titel" hinzufügen
+- Wochenbericht schreiben

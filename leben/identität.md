@@ -38,6 +38,8 @@ Wir können uns für die erstbeste Identität entscheiden, die uns einfällt und
 
 > In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing. - Theodore Roosevelt
 
+Wenn wir uns nicht so gut fühlen, können wur uns fragen "Now what needs to be done?" und es dann tun, unabhängig davon, wie wir uns fühlen.
+
 ## Glaubenssätze
 
 Manchmal halten wir uns auch mit einer Identität zurück. Wir glauben etwas nicht zu können und probieren es nicht aus.

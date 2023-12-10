@@ -40,6 +40,16 @@ Wir können uns für die erstbeste Identität entscheiden, die uns einfällt und
 
 Wenn wir uns nicht so gut fühlen, können wur uns fragen "Now what needs to be done?" und es dann tun, unabhängig davon, wie wir uns fühlen.
 
+Das Alter Ego von Superman ist Clark Kent und nicht andersherum. Viele verwechseln es. Wir verbinden mit einem Alter Ego Superkräft und epische Schlachten. Das können wir uns zuu Nutze machen, indem wir uns selbst eine oder mehrere Identitäten zurechtlegen.
+
+Eine für jeden Bereich, die unser Ideal darstellt zu dem wir streben können.
+
+In einer Studie wurde Kindern die Aufage gestellt eine Box zu öffnen, die nicht geöffnet werden konnte. Die Kinder, die sich als Batman verkleidet haben, haben es am längsten versucht und sind am ruhigsten geblieben. 
+
+Die Studie zeigt den Einfluss unserer Identität auf unser Verhalten.
+
+In einer anderen Studie wurden Studenten einem Sehtest unterzogen. Die, die dazu ermutigt wurden Air Force Piloten zu spielen, haben besser abgeschnitten.
+
 ## Glaubenssätze
 
 Manchmal halten wir uns auch mit einer Identität zurück. Wir glauben etwas nicht zu können und probieren es nicht aus.
@@ -72,6 +82,54 @@ Dann müssen wir uns selbst beweisen, dass wir diese Person sind.
 - Klavierspielen -> Musiker
 - Menschen ermutigen -> Anführer
 
+> It might be helpful to think of your old personality as being on vacation for two weeks, so you have an opportunity to act like a different person. It is important, however, that you play out your new role twenty-four hours a day, even when you’re alone. The As If principle will cause you to feel like a new person, and the new you will soon become part of your actual identity. - Richard Wiseman
+
+## Selbstgespräch
+
+Wie wir selbst mit uns reden hat großen Einfluss darauf, wie wir uns verhalten. Es gibt 5 Level von Selbstgesprächen.
+
+### Level 1 Negative Akzeptanz
+
+- Ich kann nicht
+- Ich könnte das nie
+- Ich habe nicht mehr die Energie wie früher
+
+Leider ist das die verbreiteste Form von Selbstgesprächen
+
+### Level 2 Anerkennung und Veränderungsbedarf
+
+- Ich sollte
+- Ich muss
+
+Erkennt das Problem, bietet aber keine Lösung an
+
+### Level 3 Entscheidung zur Veränderung
+
+- Ich höre auf mit
+- Ich mache nie
+
+Hier wird es interessant. Wir programmieren unser Unterbewusstsein mit neuen Regeln.
+
+### Level 4 Das bessere Du
+
+- Ich bin ein Gewinner
+- Ich glaube an mich
+- Ich mag mich
+
+Es inspiriert und ermutigt uns. Hier sollten wir die meiste Zeit verbringen.
+
+> "I do not fear problems. I solve them. I do not ignore problems, I confront them. I do not avoid problems, I conquer them!" - Shad Helmstetter
+
+### Level 5 Universelle Bestätigung
+
+Dies ist das Selbstgespräch der alten Mystiker, die die Einheit mit Gott/dem Universum erfahren haben.
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)
+
+## Bücher
+
+- [The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+- [The Alter Ego Effect](https://www.goodreads.com/book/show/40139225-the-alter-ego-effect)
+- [What to Say When You Talk to Yourself](https://www.goodreads.com/book/show/321982.What_to_Say_When_You_Talk_to_Yourself)

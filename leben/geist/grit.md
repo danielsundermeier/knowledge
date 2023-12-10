@@ -28,3 +28,7 @@ Es reicht nicht wenn sich alles nur um uns dreht. Für nachhaltigen Grit sollten
 Wir brauchen Hoffnung, weil wir unweigerlich auf Probleme stoßen werden.
 
 Wir müssen eine bessere Zukunft sehen und daran glauben, dass wir sie erschaffen können, wenn wir den nötigen Einsatz bringen.
+
+## Bücher
+
+- [Grit](https://www.goodreads.com/book/show/27213329-grit)

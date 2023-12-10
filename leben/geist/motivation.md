@@ -123,3 +123,7 @@ Es sind die Trigger und Routinen einer Gewohnheit.
 - [How I Make Work Fun](https://www.youtube.com/watch?v=ELavuz3btaE)
 - [For low motivation days](https://www.zeptonaut.com/posts/for-low-motivation-days/)
 - [Motivation / Aufschieben](https://www.mit-kindern-lernen.ch/ich-selbst/motivation/186-warum-wir-aufschieben)
+
+## Bücher
+
+- [The Procrastination Equation](https://www.goodreads.com/book/show/9514605-the-procrastination-equation)

@@ -81,3 +81,8 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 - [Where Does Ambition Come From?](https://life-longlearner.com/where-does-ambition-come-from/)
 - [on competing constructively](https://mindmine.substack.com/p/on-competing-constructively)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
+
+## Bücher
+
+- [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
+- [Raise Your Game](https://www.goodreads.com/book/show/40776006-raise-your-game)

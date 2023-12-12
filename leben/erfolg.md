@@ -64,6 +64,8 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 > "The success formula: solve your own problems and freely share the solutions." - [Navalism](https://twitter.com/NavalismHQ/status/1539192654264782849)
 
+> "John, chopping wood and carrying water is the price of admission for the opportunity to reach sustained excellence. Like the roots of a bamboo tree, it is a long and arduous process of invisible growth, where you are building the foundation that is necessary to sustain success. For many years it might feel as if nothing is happening, but you must trust the process and continue to chop wood and carry water, day in day out, regardless of what is happening around you. There will be distractions. There will be people who tell you that you are stupid or crazy for doing it. There will be people who try and lure you off the path with quick fixes and get rich quick schemes. But you must be wise and stay the path, and continue to build your foundation by chopping wood and carrying water every day. Greatness isn’t sexy John, it is the dirty, hard work that is often very boring. You have a bright future. Stay the path, and never forget --" - [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
@@ -86,3 +88,4 @@ Es ist okay Fehler zu machen, solange ich daraus lerne.
 
 - [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 - [Raise Your Game](https://www.goodreads.com/book/show/40776006-raise-your-game)
+- [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)

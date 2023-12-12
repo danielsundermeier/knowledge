@@ -4,9 +4,11 @@ Dankbarkeit kann unser Leben um 25% glücklicher machen.
 
 In einer Studie haben die Teilnehmer 10 Wochen lang jede Woche 5 Dinge aufgeschrieben, für die sie dankbar sind.
 
-Es ist unmöglich Dankbarkeit und negative Emotionen zur selben Zeit zu fühlen.
+Es ist unmöglich Dankbarkeit und negative Emotionen zur selben Zeit zu fühlen (Emotionale Inkompatibilität).
 
 Sobald wir negative Gedanken bemerken, können wir uns umschauen und Dankbarkeit für die Dinge um uns herum empfinden. Wir fühlen uns dadurch besser.
+
+> "if you want to sleep more soundly, count blessings, not sheep." - Robert A. Emmons
 
 Wir können Dinge und Menschen, die wir für selbstverständlich nehmen, als uns gewährt betrachten.
 
@@ -21,6 +23,14 @@ Ein chinesisches Sprichwort besagt, dass wir uns an diejenigen erinnern sollten,
 Wir können denen, die vor uns gekommen sind, dankbar sein, für alles was sie ermöglicht und uns hinterlassen haben.
 
 Wir können dann das selbe für die Menschen, die nach uns kommen, tun. Wir können die Welt ein bisschen besser machen.
+
+Es ist leichter dankbar zu sein, wenn alles gut läuft. Dabei kann uns die Dankbarkeit auch in schlechten Phasen helfen. Dazu sollten wir in den guten üben, damit es auch in den schlechten klappt.
+
+Es ist auch gut zu wissen, dass wir in herausfordernden Zeiten dazu neigen am meisten zu wachsen.
+
+> "the most important learning lessons... were tragedies, deaths, and trauma… which forced change in the life-outlook of the person and consequently in everything that he did." - Abraham Maslow
+
+Der beste Weg Dankbarkeit zu praktizieren ist mit einem Dankbarkeits Tagebuch. Indem wir jeden Tag aufschreiben wofür wir dankbar sind, lernen wir mehr darauf zu achten. Wir können dazu jeweils 5 Dinge aufschrieiben für die wir dankbar sind. Es sollten aber nicht immer die gleichen sein.
 
 ## Bücher
 

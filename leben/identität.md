@@ -16,6 +16,8 @@ Identität -> Verhalten -> Gefühle
 
 Wenn wir uns klar darüber sind, wer wir sein wollen, bestimmt diese Identität, was wir tun, nicht unsere Gefühle.
 
+> "A human being always acts and feels and performs in accordance with what he imagines to be true about himself and his environment." - Maxwell Maltz
+
 Anstatt nur Sport zu treiben werden wir zu einem Sportler. Sportler trainieren regelmäßig und achten auf ihre Ernährung. 
 
 Anstatt nur zu schreiben werden wir zu einem Autor. Autoren schreiben jeden Tag.
@@ -87,6 +89,8 @@ Dann müssen wir uns selbst beweisen, dass wir diese Person sind.
 ## Selbstgespräch
 
 Wie wir selbst mit uns reden hat großen Einfluss darauf, wie wir uns verhalten. Es gibt 5 Level von Selbstgesprächen.
+
+Wenn wir uns einreden, das wir etwas tun müssen, erzwugt das einen inneren Widerstand. Wenn wir dagegen erkennen, dass wir etwas tun wollen, entsteht eine wohltuendere innere Energie.
 
 ### Level 1 Negative Akzeptanz
 

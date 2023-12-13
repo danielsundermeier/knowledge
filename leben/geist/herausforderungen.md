@@ -12,6 +12,8 @@ Wichtig ist uns ihnen zu stellen. Wenn wir weglaufen, wirkt es umso großer. Je 
 
 Wir können uns vorstellen, dass es ein Test von den stoischen Göttern/dem Universum/dem Leben/... ist.
 
+Scheitern ist ein Ereignis, keine Identität
+
 ## Wahrnehmung (Perception)
 
 > "For there is nothing either good or bad, but thinking makes it so." - Shakespeare

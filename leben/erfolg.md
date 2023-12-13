@@ -4,6 +4,20 @@ Ich glaube, dass jeder alles erreichen kann, wenn man bereit ist die erforderlic
 
 Es ist okay Fehler zu machen, solange ich daraus lerne.
 
+Es ist wichitig, wie wir Erfolg definieren. Der Gründer der Band Megadeth hat sich nach großen Erfolgen immer noch als Versager gefühlt, weil seine Definition von Erfolg war besser zu sein als die Band aus der er geworfen wurde, Metallica.
+
+Menschen auf dem Sterbebett beschreiben meist drei Dinge, die wirklich von bedeutung waren:
+
+- Wer sie als Person wurden
+- Welchen Einfluss sie auf andere hatten
+- Ob sie das Leben führten, von dem sie wussten, dass sie es führen sollten
+
+> "Our greatest fear in life should not be of failure, but of succeeding at things in life that don’t really matter." - Francis Chan
+
+Jeden Tag gehen Menschen aus der Tür und glauben, dass alles anders wird, wenn sie einfach mehr erreichen, mehr gewinnen oder mehr Geld verdienen können. Aber wenn die Leistung diese Lücke noch nicht gefüllt hat, wie kann sie in Zukunft durch mehr erreicht werden? Wie durstige Menschen, die Salzwasser trinken, wecken Erfolge nur den Wunsch, mehr zu erreichen, und entziehen uns der wahren Zufriedenheit und Erfüllung.
+
+> "Find your uniqueness and exploit it in the service of others." - Joshua Medcalf
+
 ## 1. Gesundheit
 
 - [Schlaf](./gesundheit/schlaf.md)

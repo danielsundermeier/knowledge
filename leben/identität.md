@@ -54,6 +54,8 @@ In einer anderen Studie wurden Studenten einem Sehtest unterzogen. Die, die dazu
 
 ## Glaubenssätze
 
+Wenn Elefanten kurz nach ihrer Geburt mit einem Seil an einen Baum gebunden werden, von dem sie sich nicht befreien können, geben sie irgendwann auf. Auch wenn sie ausgewachsen sind und das Seil leicht zerreißen könnten versuchen sie es nicht mehr.
+
 Manchmal halten wir uns auch mit einer Identität zurück. Wir glauben etwas nicht zu können und probieren es nicht aus.
 
 Wir erstellen Glaubenssätze aufgrund unserer Erfahrungen. Wir müssen dann nicht immer wieder die selben Fehler machen und Entscheidungen treffen.
@@ -63,6 +65,8 @@ Das Gehirn kann so eine Menge Energie sparen.
 Leider hören wir irgendwann auf diese zu hinterfragen. Vielleicht sind sie veraltet oder nicht mehr korrekt. 
 
 Vielleicht habe sich auch unsere Prioritäten verändert und sie dienen uns nicht mehr.
+
+Wir können uns immer wieder fragen welche Aussagen uns zurückhalten und versuchen die Seile zu zerreißen, in dem wir uns fragen, wer uns das gesagt hat.
 
 Mit einer neuen Identität können wir diese Glaubenssätze durchbrechen und neue formen, die uns bekräfigen.
 

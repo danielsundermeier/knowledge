@@ -52,6 +52,18 @@ Die Studie zeigt den Einfluss unserer Identität auf unser Verhalten.
 
 In einer anderen Studie wurden Studenten einem Sehtest unterzogen. Die, die dazu ermutigt wurden Air Force Piloten zu spielen, haben besser abgeschnitten.
 
+## Pygmalion-Effekt
+
+Manche Menschen ändern ihre Persönlichkeit nach einer Schönheutsoperation, andere bleiben gleich. Es kommt also nicht darauf an, wie wir aussehen, sondern, wie wir uns selbst sehen.
+
+Dieses Phänomen wird als Pygmalion-Effekt bezeichnet. Psychologieprofessor Robert Rosenthal konnte so zeigen, dass unsere Überzeugungen und Selbstbilder nicht nur uns selbst, sondern auch andere beeinflussen können.
+
+In der Studie wurde ein Intelligenztest durchgeführt, der Schüler identifizieren konnte, die sich im Laufe des Jahres deutlich verbessern werden. Die Lehrer und Schüler wussten aber nicht, dass die Spätzünder zufällig ausgewählt wurden. Die Schüler haben sich aber trotzdem signifikant verbessert. Die Erwartungen auf die SChüler hatten einen erheblichen Einfluss auf die Leistung der Schüler.
+
+Wir verhalten uns den Erwartungen anderer entsprechend. Wenn sie denken, dass wir intelligent sind, ermutigt es uns selbstbewusster aufzutreten und uns mehr zu beteiligen. Durch die guten Noten wird unser Selbstbild gestärkt.
+
+Andersherum funktioniert es aber auch. Wenn uns andere für dumm halten, halten wir uns zurück und bekommen das entsprechende Ergebnis. Es sind sich selbsterfüllende Prophezeihungen.
+
 ## Glaubenssätze
 
 Wenn Elefanten kurz nach ihrer Geburt mit einem Seil an einen Baum gebunden werden, von dem sie sich nicht befreien können, geben sie irgendwann auf. Auch wenn sie ausgewachsen sind und das Seil leicht zerreißen könnten versuchen sie es nicht mehr.
@@ -61,6 +73,8 @@ Manchmal halten wir uns auch mit einer Identität zurück. Wir glauben etwas nic
 Wir erstellen Glaubenssätze aufgrund unserer Erfahrungen. Wir müssen dann nicht immer wieder die selben Fehler machen und Entscheidungen treffen.
 
 Das Gehirn kann so eine Menge Energie sparen.
+
+Sie wirken wie Filter durch die wir die Realität wahrnehmen.
 
 Leider hören wir irgendwann auf diese zu hinterfragen. Vielleicht sind sie veraltet oder nicht mehr korrekt. 
 

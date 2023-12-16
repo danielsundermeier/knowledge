@@ -14,6 +14,18 @@ Wir können uns vorstellen, dass es ein Test von den stoischen Göttern/dem Univ
 
 Scheitern ist ein Ereignis, keine Identität
 
+Wenn wir glauben, dass alles, was passiert, in unserem besten Interesse ist, werden alle Herausforderungen und Umstände zu einer Raffinerie, die unseren Charakter und unsere Fähigkeiten formt und in uns die Fähigkeit entwickelt, die Welt zu verändern.
+
+## Kompass
+
+Wir können Hindernisse als Zeichen sehen, dass wir auf dem richitgen Weg sind. Sie bedeuten, dass wir wachsen und etwas lernen können.
+
+- Es ist schwer
+- Ich habe keine Lust dazu
+- Alle anderen haben mehr Zeit als ich
+- Ich habe nicht das Gefühl, dass das einen Unterschied macht
+- Fast niemand sonst macht das
+
 ## Wahrnehmung (Perception)
 
 > "For there is nothing either good or bad, but thinking makes it so." - Shakespeare

@@ -13,6 +13,19 @@ Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins 
 - Der erste Entwurf muss nicht gut sein
 - Editieren ist einfacher als zu kreieren
 
+## Starten
+
+- Künstliche Fristen
+- Pakt mit einem Verbündeten schließen
+- Belohnungen
+- Schwierigste Aufgabe zuerst
+- Ablenkungen eleminieren
+- Aufgaben in kleinere aufteilen
+- Grund für Aufgabe finden
+- Momentum aufbauen
+- Widerstand so gering wie möglich
+- Nur 5 Minuten vornehmen
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

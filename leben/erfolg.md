@@ -18,6 +18,8 @@ Jeden Tag gehen Menschen aus der Tür und glauben, dass alles anders wird, wenn 
 
 > "Find your uniqueness and exploit it in the service of others." - Joshua Medcalf
 
+Wir erreichen den Erfolg mit kleinen stetigen Verbesserungen über einen langen Zeitraum. 
+
 ## 1. Gesundheit
 
 - [Schlaf](./gesundheit/schlaf.md)

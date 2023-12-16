@@ -14,6 +14,13 @@ Anführer müssen authentisch sein. Sie müssen der Autor ihres Lebens sein. Nur
 - Wagemut
 - Neugier
 
+## Vertrauen
+
+- Konstanz
+- Kongruenz
+- Zuverlässigkeit
+- Integrität
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

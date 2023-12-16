@@ -18,3 +18,5 @@
         * 6 Sekunden ausatmen
     + Entscheidung vorwegnehmen & Klare Regeln
     + Selbstmitgefühl
+
+Es ist schwierig einer Versuchung zu widerstehen. Es ist einfacher nicht in Versuchung zu kommen. Wenn wir etwas nicht essen wollen, sollten wir es nicht kaufen. Es ist schwieriger auf Süßigkeiten zu verzichten, wenn wir wissen, dass wir welche im Haus haben.

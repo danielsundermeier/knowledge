@@ -95,6 +95,10 @@ Sie sind alle von äußeren Faktoren, die man oft nicht beeinflussen kann, abhä
 Vieles beruht auch auf Neid. Aber um neidisch auf jemanden zu sein, muss ich das ganze Leben der Person in Betracht ziehen, nicht nur das Positive.
 Wenn jemand sehr viel erreicht hat, wird er auch sehr viel dafür geopfert haben. Um der Beste in etwas zu werden, kann ich mich auf nichts anderes konzentrieren als die eine Sache. Darunter werden andere Teile meines Lebens leiden.
 
+Durch die hedonistische Adaptation gewöhnen wir uns an alles und brauchen immer mehr, um uns glücklich zu fühlen. Es ist wie eine Sucht.
+
+Wir können auch sehen, dass sich viele immer noch innerlich leer fühlen, obwohl sie alles erreicht haben. Profisportler und Schauspieler sind dafür ein Beispiel.
+
 ### Geld
 
 Geld ist sehr wichtig, sollte aber als Werkzeug genutzt werden, um sein Leben zu verbessern nicht als Ziel an sich.  

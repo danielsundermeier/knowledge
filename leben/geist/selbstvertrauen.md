@@ -23,9 +23,14 @@ Sich selbst nach jeder Aufgabe Feedback geben:
 
 - Nicht mit anderen vergleichen
     + Es ist leicht andere zu finden, die besser in etwas sind als wir
+    + Es geht um wert (Er ist besser als ich)
+        * Angst, was die anderen denken, behindert unser Potenzial
 - Für andere freuen
     + Sie zeigen uns, was möglich ist
-- Keine Schadenfreude, wen andere Fehler machen
+- Keine Schadenfreude, wenn andere Fehler machen
+- Lieber darauf konzentrieren besser zu werden
+
+Wenn wir uns nicht mehr mit anderen vergleichen, können wir uns voll auf uns selbst und unsere Entwicklung konzentrieren. Wir brauchen uns keine Sorgen mehr darüber zu machen, was die anderen denken.
 
 ## Links
 

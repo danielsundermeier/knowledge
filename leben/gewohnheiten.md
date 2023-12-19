@@ -138,6 +138,12 @@ Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewus
     + Wir verbessern uns oder wir lernen
 - Durchhaltevermögen
 
+## Phasen
+
+1. Unerträglich
+2. Unbequem
+3. Nicht zu stoppen
+
 ## Notizen
 
 - 70% unseres Verhaltens besteht aus Gewohnheiten

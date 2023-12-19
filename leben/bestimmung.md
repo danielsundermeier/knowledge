@@ -62,6 +62,13 @@ Das Meistern einer Tätigkeit ist eine Belohnung in sich selbst.
 - [What is a Talent Stack?](https://www.sloww.co/talent-stack/)
 - [Talent Stack](https://www.scottadamssays.com/2016/12/27/the-kristina-talent-stack/) 
 
+## 100 Fragen
+
+- In 60 Minuten 100 Fragen aufschreiben
+- Kategorisieren und Sortieren
+
+Die Fragen, die uns am wichtigesten sind, können uns aufschluss darüber geben, was wir mit unserem Leben anfangen wollen.
+
 ## Links
 
 - [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)

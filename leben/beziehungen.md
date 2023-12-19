@@ -168,6 +168,14 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 
 Niemand ist 100% korrekt. Jede Perspektive trägt einen Teil der Wahrheit in sich. Wenn wir uns das nächste Mal 100% im Recht sehen, können wir einen Schritt zurücktreten und versuchen die Perspektive des anderen nachzuvollziehen.
 
+## Ermutigung
+
+Aristotle sagte uns, dass das ultimative Ziel darin besteht, ein Eudaimon zu sein. Wir erreichen dies, indem wir tugendhaft leben, sodass wir konsequenter die beste Version von uns selbst zum Ausdruck bringen können.
+
+Mut ist die wichtigste Tugend, um das zu erreichen.
+
+Wenn Mut das Wichtigste ist, was wir für uns selbst tun können, um unser eudaimonisches Potenzial zu verwirklichen, wäre es dann nicht das Liebevollste, was wir tun können, wenn wir anderen Mut machen, ihr eudaimonisches Potenzial zu verwirklichen?
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
@@ -229,3 +237,7 @@ Niemand ist 100% korrekt. Jede Perspektive trägt einen Teil der Wahrheit in sic
 - [Sex Tips For Geeks](http://www.catb.org/esr/writings/sextips/) - Hackers don't have to be helpless chum in the dating-game shark pool.
 - [The radical idea that people aren't stupid](https://experimentalhistory.substack.com/p/the-radical-idea-that-people-arent)
 - [I think the main advice is don't put women on a pedestal. Woman are just as horrible and awful as men. No better, no worse, it's hard to sift through the damaged ones to find a good one, same thing women face.](https://www.reddit.com/r/AskMen/comments/12am6ij/what_cautionary_advice_about_women_would_you_give/)
+
+## Bücher
+
+- [Happy Together](https://www.goodreads.com/book/show/34972485-happy-together)

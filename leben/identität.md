@@ -84,6 +84,12 @@ Wir können uns immer wieder fragen welche Aussagen uns zurückhalten und versuc
 
 Mit einer neuen Identität können wir diese Glaubenssätze durchbrechen und neue formen, die uns bekräfigen.
 
+Wenn wir etwas nicht machen wollen, können wir uns fragen, worauf wir uns konzentrieren, wie wir mit uns reden und wie unsere Körpersprache aussieht. Wir können es dann mit etwas vergleichen, das wir gerne machen. So finden wir heraus, warum wir uns drücken.
+
+Durch das Aufschreiben wird uns bewusst, wie wir uns verhalten und können es ändern.
+
+Wir haben Kontrolle über unsere Aufmerksamkeit, Körpersprache und Selbstgespräche und können so unsere Einstellung ändern.
+
 ## Identität ändern
 
 Wir können unsere Identität und damit unsere Glaubenssätze in zwei Schritten ändern.

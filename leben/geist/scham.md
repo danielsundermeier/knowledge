@@ -92,6 +92,16 @@ Wir sollten die Ursache der Ängste beheben, anstatt Strategien zu suchen, um si
 
 Liebe und Zugehörigkeit sind die stärksten Formen der Verbundenheit. Um sie aber voll und ganz erleben zu können, mussen wir davon überzeugt sein sie zu verdienen und das hat mit unserem Selbstwert zu tun.
 
+### Täter oder Opfer
+
+Menschen werden in zwei Gruppen eingeteilt. Gewinner oder Verlierer. Die beiden Gruppen schließen sich gegenseitig aus.
+
+Wer diese Weltsicht vertritt, glaubt, dass man entweder ein Looser ist, der ausgenutzt wird oder ein Täter, der Angst hat zum Opfer gemacht zu werden und deshalb nie seine Verletzlichkeit zeigt.
+
+Es kommt von dem Denken, dass jemand verlieren muss, damit jemand anderes gewinnen kann.
+
+Wir können dem entgehen, indem wir den Erfolg anders definieren. Ein Leben ohne menschliche Verbundenheit hat nichts mit einem Sieg zu tun.
+
 ## Schamresilienz
 
 1. Erkennen, dass wir uns schämen und die Auslöser verstehen

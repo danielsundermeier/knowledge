@@ -277,6 +277,14 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 
 ### Putting strategies into practice
 
+## The pursuit of Happiness
+
+Als die Verfassung von America geschrieben wurde hat das Wort "Pursuit" so viel wie "Praktizieren" bedeutet. 
+
+Zufriedenheit war also nciht etwas hinter dem wir herjagen, sondern was wir jeden Tag praktizieren sollten.
+
+Das gelingt uns, indem wir kleine Optimierungen integrieren und ein wenig mehr in Integrität mit unserem höchsten Selbst leben. Wir arbeiten an unserem Glück, so wie ein Meister an seinem Handwerk gearbeitet hat.
+
 ## Links
 
 - [How to be miserable for the rest of your life](https://www.youtube.com/watch?v=W9qsxhhNUoU)

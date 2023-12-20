@@ -26,6 +26,20 @@ Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins 
 - Widerstand so gering wie möglich
 - Nur 5 Minuten vornehmen
 
+## Quantität schlägt Qualität
+
+In jedem Bereich produzieren selbst die bedeutendsten Schöpfer in der Regel eine große Menge an Werken, die technisch einwandfrei sind, von Experten und Publikum jedoch als unauffällig angesehen werden.
+
+Die 50 besten klassischen Musikstücke
+
+- Mozart: 6 / 600
+- Beethoven: 5 / 650
+- Bach: 3 / 1000
+
+In einer Studie wurden Stundenten in zwei Gruppen eingeteilt. Eine wurde nach der produzierten Menge bewertet, die andere nach der Qualität. Die Gruppe, die nach der Menge bewertet wurde, hatte auch die bessere Qualität. Sie haben aus der Erfahrung gelernt und sind besser geworden.
+
+> "Whether you’re generating or evaluating new ideas the best you can do is measure success on the kind of yardstick that batters use in baseball. As Randy Komisar puts it, ‘If I’m hitting .300, I’m a genius. That’s because the future cannot be predicted. The sooner you learn it, the sooner you can be good at it." - Adam Grant
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

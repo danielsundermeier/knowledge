@@ -4,6 +4,8 @@ Verantwortung abgeben, Menschen unterstützen
 
 Anführer müssen authentisch sein. Sie müssen der Autor ihres Lebens sein. Nur so können sie eine richtungsweisende Vision aufbauen und andere davon überzeugen.
 
+Wir alle sind Anführer, als Eltern, Vorgesetzte, Trainer, ... . Wir beeinflussen uns alle gegenseitig. Wir führen auf jeden Fall uns selbst.
+
 ## Eigenschaften
 
 - Richtungsweisende Vision
@@ -20,6 +22,20 @@ Anführer müssen authentisch sein. Sie müssen der Autor ihres Lebens sein. Nur
 - Kongruenz
 - Zuverlässigkeit
 - Integrität
+
+## Träume
+
+Wenn wir Menschen nach ihren Träumen fragen, können wir ihnen die Verknüpfung zwischen den aktuellen Aufgaben und ihrem Traum zeigen. Wir können die Aufgaben auch dahingehend anpassen.
+
+So können wir sie dabei unterstützen ihren Traum zu erreichen. 
+
+Wir können Fähigkeiten, wie ein Growth Mindset und Grit, aber auch vieles andere, in allen möglichen Situationen lernen. 
+
+Wir profitieren langfristig davon. So können wir auch aus scheinbar negativen Ereignissen und Aufgaben etwas lernen und wachsen.
+
+Wenn sie wissen, dass wir wirklich an ihnen interessiert sind und ihnen helfen wollen ihre Ziele zu erreichen, sind sie engagierter, mutiger und leidenschaftlicher bei der Arbeit.
+
+Es geht nicht um kurzfritigen Erfolg, sondern um den Charakter, den wir entwickeln. Mit jeder Entscheidung beeinflussen wir zu welcher Art von Person wir werden.
 
 ## Bücher
 

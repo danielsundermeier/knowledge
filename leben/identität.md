@@ -152,6 +152,16 @@ Es inspiriert und ermutigt uns. Hier sollten wir die meiste Zeit verbringen.
 
 Dies ist das Selbstgespräch der alten Mystiker, die die Einheit mit Gott/dem Universum erfahren haben.
 
+## Spiritualität
+
+Wir sollten und nicht zu sehr mit dem identifizieren, was wir tun. 
+
+Wer sind wir, wenn wir es nicht mehr machen können?
+
+Wert Wert ergibt sich aus dem, was wir bin, nicht aus dem, was wir tun.
+
+Wir brauchen etwas, das uns nicht weggenommen werden kann. Da kommt die Spiritualität ins Spiel.
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

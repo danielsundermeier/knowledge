@@ -55,6 +55,16 @@ am Anfang mit den wichtigsten Punkten und Erkenntnissen mit Links zu Kapiteln
 - Punkte aus bestehenden Artikel vertiefen
 - Was habe ich neues gelernt?
 
+## Expressives Schreiben
+
+Durch das expressive Schreiben, können wir Gedanken und Gefühle zu belastenden Ereignissen verarbeiten, indem wir darüber schreiben. Es hilf nachweislich beim überwinden zu Traumata. und fördert das körperliche und seelische Wohlbefinden.
+
+Wir können an einem ruhigen Ort für 15-20 Minuten alles aufschrieben, was uns in den Sinn kommt. Wir müssen weder auf Struktur noch uaf Grammatik oder andere Regeln achten. Wir wollen nicht mir dem schreiben aufzuhören, bis die Zeit um ist. Wenn wir nicht weiterwissen können, können wir schreiben, dass uns nichts mehr einfällt.
+
+Ich mache etwas ähnliches auf meinem Spaziergang. Ich versuche alle meine Gedanken ins Tagebuch zu diktieren. Für mich funktinoeirt das diktieren besser als das Schreiben, weil ich so schneler bin. Beim Schreiben bin ich oft nicht schnell genug. Außerdem fällt es mir leichter zusammenhangslose Gedanken zu ditkieren, als sie aufzuschreiben. Danach fühle ich mich in der Regel leichter. 
+
+Zuhause kann ich es mir dann nachmal durchlesen und reflektieren. Das mache ich aktuell aber nur, wenn ich einen Text zu einem Thema diktiert habe, nicht mit dem Tagebuch.
+
 ## Links
 
 - [The Ultimate Guide to Writing Online](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)

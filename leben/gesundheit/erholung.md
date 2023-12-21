@@ -22,7 +22,7 @@ Ist eine Gruppe von Hirnregionen, die beim Nichtstun aktiv werden. Es ermöglich
 
 Wir brauchen regelmäßige Pausen zur Erholung, um unsere Energiespeicher wieder aufzufüllen.
 
-- alle 60-90 Minuten (Ultradiane Rhythmik)
+- Alle 60-90 Minuten -> 7-20 Mimnuten Erholung (Ultradiane Rhythmik)
 - Jeden Tag 7-9 Stunden Schlafen (Circadiane Rhythmik)
 - Jedes Jahr ein paar Wochen
 

@@ -10,6 +10,10 @@ Je schlechter der Tag ist, desto wichtiger ist es mich an meine Struktur zu halt
 
 Durch die Struktur (Stundenplan) weiß ich immer, was ich tun möchte und erstelle mir mein Traumleben "automatisch".
 
+Diese Struktur gibt mir einen Rhythmus für den Tag vor. 
+
+"Work + Rest = Rhythms = Creative Genius" - Brian Johnson
+
 ## Ist
 
 Wie verbinge ich aktuell meinen Tag?

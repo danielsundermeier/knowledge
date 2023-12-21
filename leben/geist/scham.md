@@ -98,9 +98,32 @@ Menschen werden in zwei Gruppen eingeteilt. Gewinner oder Verlierer. Die beiden 
 
 Wer diese Weltsicht vertritt, glaubt, dass man entweder ein Looser ist, der ausgenutzt wird oder ein Täter, der Angst hat zum Opfer gemacht zu werden und deshalb nie seine Verletzlichkeit zeigt.
 
-Es kommt von dem Denken, dass jemand verlieren muss, damit jemand anderes gewinnen kann.
+Es kommt von dem Denken, dass jemand verlieren muss, damit jemand anderes gewinnen kann. Sie wird von Furch und Mangeldenken geschürt.
 
 Wir können dem entgehen, indem wir den Erfolg anders definieren. Ein Leben ohne menschliche Verbundenheit hat nichts mit einem Sieg zu tun.
+
+## Übermäßige Offenheit und die Flutlichtstrategie
+
+Diese Strategie beruht darauf alles zu teilen. Wir wollen den eigenen Schmerz lindern und die Teue und Toleranz einer Beziehung testen.
+
+Wir versuchen möglichst schnell Nähe herzustellen, indem wir uns zu früh öffnen. Das hat aber in der Regel den gegenteiligen Effekt.
+
+Fragen um festzustellen, wie es mir der Verbundenheit steht:
+
+- Ist Vertrauen da?
+- Ist gegenseitiges Einfühlungsvermögen da?
+- Erzählen wir und gegenseitig auch Vertrauliches?
+- Können wir um das Bitten, was wir brauchen?
+
+Bevor wir etwas teilen können wir uns folgende Fragen stellen:
+
+- Warum teile ich das mit?
+- Auf welches Ergebnis hoffe ich?
+- Welche Emotionen empfinde ich?
+- Stimmen meine Absichten mit meinen Werten überein?
+- Könnte es ein Ergebins, eine Reaktion oder das Ausbleiben einer Reaktion geben, das oder die meine Gefühle verletzt?
+- Steht die Offenheit im Dienste der Verbundenheit?
+- Bitte ich die Menschen in meinem Leben aufrichtig um das, was ich brauche?
 
 ## Schamresilienz
 

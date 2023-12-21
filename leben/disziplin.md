@@ -1,5 +1,7 @@
 # Disziplin
 
+> "We are by nature flawed and inconstant creatures. We can’t even keep from snacking between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at." - Atul Gawande
+
 ## Structural
 
 Wir wollen unsere Routinen und Gewohnheiten so gestalten, dass sie uns dabei unterstützen als unser bestes Selbst aufzutreten.

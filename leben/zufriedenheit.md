@@ -18,6 +18,8 @@ Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 - Glücklich sein: Nichts wollen, nichts bewerten, den Moment genießen
 - Immer das Positive in allen Situationen sehen
 
+Niemand ist immer glücklich!
+
 ## Perma
 
 ### Positive Emotion
@@ -279,7 +281,7 @@ So baue ich ein gutes Verhältnis zu mir selbst auf und bin mit mir im Reinen.
 
 ## The pursuit of Happiness
 
-Als die Verfassung von America geschrieben wurde hat das Wort "Pursuit" so viel wie "Praktizieren" bedeutet. 
+Als die Verfassung von Amerika geschrieben wurde hat das Wort "Pursuit" so viel wie "Praktizieren" bedeutet. 
 
 Zufriedenheit war also nciht etwas hinter dem wir herjagen, sondern was wir jeden Tag praktizieren sollten.
 

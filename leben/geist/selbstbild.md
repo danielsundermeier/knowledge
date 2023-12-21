@@ -14,7 +14,7 @@ Mit einer festen Denkweise steht unser Selbstwertgefühl bei allem, was wir tun,
 
 ## Growth Mindset
 
-- Fähigkeiten und Talente können entwickett werden
+- Fähigkeiten und Talente können entwicket werden
 - Das Potenzial eines Menschen ist unvorhersehbar
 - Aus Fehlern und Rückschlägen lernen
 - Talente sind nur der Ausgangspunkt für unsere Entwicklung

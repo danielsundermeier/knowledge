@@ -6,6 +6,10 @@ Ich habe immer Schwierigkeiten anzufangen. Wenn ich es dann tue, ist es nicht so
 
 Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins Fitnessstudio gefahren zu sein, egal wie müde, lustlos ich war oder was ich mir sonst eingeredet habe, um es nicht zu tun.
 
+Um etwas zu schaffen, brauchen wir auf der einen Seite eine Vision oder ein Ziel. Auf der anderen Seite müssen wir aber auch unsere aktuelle Situation realistisch einschätzen. Diese Spannung zwischen Ist und Soll-Zustand können wir als Antrieb nutzen, um unsere Ziele zu erreichen.
+
+Wir können es uns als Gummiband vorstellen. Wenn die Spannung zu groß ist, reißt es, wenn sie zu schwach ist, passiert nichts. Wir brauchen eine Balance.
+
 ## Meine Lösung
 
 - Sehr kleines Ziel setzen
@@ -25,6 +29,14 @@ Ich habe es auch noch nie bereut es getan zu haben. Ich bin immer froh doch ins 
 - Momentum aufbauen
 - Widerstand so gering wie möglich
 - Nur 5 Minuten vornehmen
+
+## Kleine Schritte
+
+Der Weg unsere Ziele zu erreichen sind kleine Schritte, die wir jeden Tag gehen. Die scheinbar überflüssigen Grundlagen führen über eine lange Zeit zu erstaunlichen Ergebinssen.
+
+Wenn wir weglaufen wollen, können wir uns fragen, was wir wollen und dann den nächsten kleinen Schritt in die Richtung machen.
+
+Wir wissen so gut wie immer, was wir als nächstes tun müssen. Das Problem ist, dass wir dieses innere Leitsystem oft ignorieren.
 
 ## Quantität schlägt Qualität
 
@@ -47,6 +59,8 @@ In einer Studie wurden Stundenten in zwei Gruppen eingeteilt. Eine wurde nach de
 > "Do you feel lost? Try creating. Could be code, companies, art, people. Creation brings meaning because it's what we were made to do." - [Alex MacCaw](https://twitter.com/maccaw/status/1398325800705855492)
 
 > "You put in the reps by regularly publishing, then once there’s a topic that you want to dive deep into, you invest the time and energy necessary to create something long-lasting" - [Make Classics, Not Content](https://moretothat.com/make-classics-not-content/)
+
+> "Your life is a kind of laboratory where you’re constantly experimenting with your own higher knowing, always increasing your capacity to design the life you choose. Human beings must create; it’s hardwired. The question is, are you consciously creating or only sleepwalking through your human life?" - David Emerald
 
 ## Links
 

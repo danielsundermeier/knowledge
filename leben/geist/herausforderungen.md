@@ -12,9 +12,15 @@ Wichtig ist uns ihnen zu stellen. Wenn wir weglaufen, wirkt es umso großer. Je 
 
 Wir können uns vorstellen, dass es ein Test von den stoischen Göttern/dem Universum/dem Leben/... ist.
 
+Oder wir begrüßen ads Hinderniss, indem wir "Bring It On", Perfekt", "Gut", "Roger that", oder etwas ähnliches sagen und uns dann daran machen eine Lösung zu finden.
+
+Wir wollen auf die Herausforderungen zugehen, anstatt sie zu meiden. Durch unsere Einstellung zu dem Problem ändert sich unsere Physiologie.
+
 Scheitern ist ein Ereignis, keine Identität
 
 Wenn wir glauben, dass alles, was passiert, in unserem besten Interesse ist, werden alle Herausforderungen und Umstände zu einer Raffinerie, die unseren Charakter und unsere Fähigkeiten formt und in uns die Fähigkeit entwickelt, die Welt zu verändern.
+
+Je schwieriger das Leben wird, umso wichtiger ist unser Protokoll. Es hilft uns das Hinderniss zu überwinden und stärker daraus hervorzugehen.
 
 ## Kompass
 

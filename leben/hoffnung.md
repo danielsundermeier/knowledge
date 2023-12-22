@@ -49,6 +49,18 @@ Optimusmus können wir, genau wie Hilflosigkeit, lernen.
 - Verbreitung: Optimisten wissen, dass immer nur ein spezifischer Bereich von einem Poblem betroffen ist und nicht ihr ganzes Leben.
 - Personifizierung: Optimisten sehen auch äußere Einflüsse, die zu einem Fehler geführt haben können und geben sich nicht allein die Schuld.
 
+## Die Kraft des Glaubens
+
+In einer Studie hat ein Wissenschaftler Ratten in ein Wasserbecken gesetzt. Obwohl Ratten gute Schwimmer sind, haben sie nach 15 Minuten aufgegeben.
+
+In der nächsten Runde haben die Wissenschaftler die Ratten, kurz bevor sie ertrunken wären, aus dem Wasser geholt, abgetrocknet und sich etwas erholen lassen. 
+
+Als sie danach wieder in das Becken gesetzt wurden, sind sie im Durchschnitt 60 Stunden geschwommen. 
+
+Sie haben erlebt, dass sie gerettet zu werden und haben die Hoffnung gehabt, dass es wieder passieren kann.
+
+Diese Hoffnung hat ihnen neue Kraft und Energie gegeben.
+
 ## Bücher
 
 - [The Psychology of Hope](https://www.goodreads.com/book/show/870952.The_Psychology_of_Hope)

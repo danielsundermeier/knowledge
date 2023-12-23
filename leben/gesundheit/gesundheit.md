@@ -64,6 +64,18 @@ Zeit in der Natur verbringen
 - [Levels](https://www.levelshealth.com/) - Levels tracks your blood glucose in real time, so you can maximize your diet and exercise.
 - [‘Smart toilet’ monitors for signs of disease](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)
 
+## Waist to Height Ratio (WHtR)
+
+Nach neuesten Forschungen hat der WHtR die größte Aussagekraft, was die Gesundheitsgefährdung durch Übergewicht angeht.
+
+WHtR = Bauchumfang in cm / Körpergröße in cm
+
+- Für unter 40-Jährige ist ein Wert über 0,5 kritisch.
+- Bei den 40-50-Jährigen verschiebt sich der Grenzwert von 0,5 um 0,01 pro Lebensjahr nach oben, z. B. 40 Jahre bis 0,5; 41 Jahre bis 0,51; 42 Jahre bis 0,52 usw.
+- Bei über 50-Jährigen sollte der Wert 0,6 nicht überschreiten.
+
+Messe am besten morgens mit leerem Magen direkt auf der Haut. Führe im Stehen ein Maßband an der dicksten Stelle des Bauches waagerecht um Deinen Körper (meist knapp oberhalb des Bauchnabels).
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

@@ -14,6 +14,8 @@ In einer Studie wurden die Probanden dazu aufgefordert eine spontane Rede vor Ri
 
 Mut ist nicht die Abwesenheit von Angst. Mut ist die Bereitschaft, trotz der Angst zu handeln.
 
+Angst vor einem Namen oder einer Bezeichnung stärkt die Angst vor der Sache selbst. Wir sollten immer alles beim Namen nennen.
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

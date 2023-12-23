@@ -1,5 +1,14 @@
 # Lesen
 
+Durch das Lesen können wir von den Erfahrungen von anderen profitieren. Wir müssen nicht die gleichen Fehler wiederholen.
+
+Wir finden alte Lösungen für neue Probleme.
+
+Der Autor kann zu unserem Mentor werden. Ein Buch ist ein guter Weg mir jemandem Zeit zu verbringen, den wir persönlich nicht treffen können.
+
+Wenn wir jeden Tag 30 Minuten lesen, kommen wir in einem Jahr auf fast 200 Stunden. Wir können so 40 Bücher lesen.
+
+
 ## Ziel
 
 Wissensschatz aufbauen

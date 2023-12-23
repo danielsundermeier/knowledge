@@ -75,6 +75,22 @@ Wenn wir uns auf den Prozess konzentrieren, stellen sich die Ergebnisse von selb
 
 Bei Zielen geht es darum, etwas zu erreichen, während es bei einer Mission darum geht, wer man wird.
 
+## Staub
+
+Eine unserer größten Herausforderungen besteht darin, zu denken, dass etwas außerhalb von uns dazu führen kann, dass wir uns auf eine bestimmte Weise fühlen.
+
+Wir wollen, wie ein Bogenschütze, ein klares Ziel haben und unser Bestes geben, um es zu treffen. Mit dem Loslassen des Pfeils, lassen wir auch gleichzeitig unsere Bindung an die Ergebnisse los.
+
+Wir haben alles getan, was wir können und können nicht mehr beeinflussen, ob der Pfeil das Ziel auch trifft.
+
+Um das zu schaffen, könenn wir uns unsere Erfolge ausmalen. Wir können uns vorstellen, dass wir es geschafft haben. 
+
+Dann stellen wir uns vor, dass wir in einem alten verlassenen Haus stehen. Es ist bedeckt mit einer dicken Schicht Staub.
+
+Wir nehmen eine Hand voll von dem Staub und werfen es auf die vorherige Vorstellung.
+
+So übernehmen wir die Kontrolle und stellen klar, dass wir der ultimative Schiedsrichter über alles sind, was zählt.
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

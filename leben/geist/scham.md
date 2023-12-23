@@ -102,7 +102,7 @@ Es kommt von dem Denken, dass jemand verlieren muss, damit jemand anderes gewinn
 
 Wir können dem entgehen, indem wir den Erfolg anders definieren. Ein Leben ohne menschliche Verbundenheit hat nichts mit einem Sieg zu tun.
 
-## Übermäßige Offenheit und die Flutlichtstrategie
+### Übermäßige Offenheit und die Flutlichtstrategie
 
 Diese Strategie beruht darauf alles zu teilen. Wir wollen den eigenen Schmerz lindern und die Teue und Toleranz einer Beziehung testen.
 
@@ -124,6 +124,40 @@ Bevor wir etwas teilen können wir uns folgende Fragen stellen:
 - Könnte es ein Ergebins, eine Reaktion oder das Ausbleiben einer Reaktion geben, das oder die meine Gefühle verletzt?
 - Steht die Offenheit im Dienste der Verbundenheit?
 - Bitte ich die Menschen in meinem Leben aufrichtig um das, was ich brauche?
+
+Wir können Absichten klären, Grenzen setzen und Verbundenheit kultivieren, um diese Strategie zu umgehen.
+
+### Im Zickzack laufen
+
+Wir wenden viel mehr Energie dafür auf, uns vor der Verletzlichkeit zu drücken, als uns direkt mit ihr auseinanderzusetzen.
+
+Wir verstecken uns, spielen etwas vor, vermeiden, verschleppen, lügen und weisen anderen die Schuld zu.
+
+Wir drücken uns vor der eigentlichen Aufgabe, was viel aufwändiger ist, als es zu tun. Wir erschöpfen uns und rennen hin und her, um etwas zu vermeiden. Das ist keine gute Art zu Leben
+
+Die negativen Gefühle werden dabei auch immer stärker, je länger wir warten.
+
+Wir können uns das Laufen im Zickzack sparen und den direkten Weg einschlagen. Dafür müssen wir aufmerksam sein und feststellen, wann wir etwas vermeiden wollen und es dann trotzdem tun.
+
+### Zynismus, Kritik, Coolness und Grausamkeit
+
+Wenn wir uns verletzlich zeigen und Großes wagen, müssen wir mit Kritik rechnen. 
+
+Es schützt nicht nur vor Verletzlichkeit, sondern kann auch als Waffe gegen die Menschen eingesetzt werden, die sich verletztlich zeigen.
+
+Wenn wir andere sehen, die sich etwas trauen, ist es als ob wir einen Spiegel vorgehalten bekommen. 
+
+Wir wollen nicht daran erinnert werden und reagieren dann mit Ablehnung und Kritik.
+
+Eine Alternative Einstellung ist, dass wir uns zu cool geben, um uns dafür zu interessieren. 
+
+Wenn uns die Meinung von anderen Menschen nicht mehr interessiert, verlieren wir die Fähigkeit eine Verbundung mit anderen herzustellen. Wenn wir uns von anderen definieren lassen, verlieren wir die Bereitschaft verletzlich zu sein.
+
+Es ist ein Drahtseilakt. Wir müssen immer wieder versuchen eine Balance zu finden.
+
+Wir sind auf Feedback von anderen angewiesen. Wir sollten aber nur die Kritik von Menschen annehmen, die auch in der Arena stehen und nicht von denen, die nur als Zuschauer dabei sind.
+
+Wir können einen Zusammenhang zwischen unserer Angriffslust und unserem eigenen Selbstwert herstellen.
 
 ## Schamresilienz
 

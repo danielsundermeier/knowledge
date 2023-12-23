@@ -163,6 +163,8 @@ Oft wird das Leben von Jägern und Sammlern verherlicht und als optimal für Men
 
 > "There is more to life than increasing its speed" - Ghandi
 
+> "It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested." - Seneca
+
 ## Supernormal stimulus
 
 Es gibt von Menschen erzeugte Dinge, die stärker auf mich wirken als natürliche. Dadruch werde ich weniger empfindlich für natürliche Reize.

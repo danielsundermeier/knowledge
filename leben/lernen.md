@@ -1,5 +1,7 @@
 # Lernen
 
+Wir lernen indem wir etwas tun.
+
 ## 3 Steps to Becoming Great at Anything
 
 1. Grundlagen lernen (80/20 Prinzip)

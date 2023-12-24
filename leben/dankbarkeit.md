@@ -32,6 +32,12 @@ Es ist auch gut zu wissen, dass wir in herausfordernden Zeiten dazu neigen am me
 
 Der beste Weg Dankbarkeit zu praktizieren ist mit einem Dankbarkeits Tagebuch. Indem wir jeden Tag aufschreiben wofür wir dankbar sind, lernen wir mehr darauf zu achten. Wir können dazu jeweils 5 Dinge aufschrieiben für die wir dankbar sind. Es sollten aber nicht immer die gleichen sein.
 
+## Emotionale Inkompatibilität
+
+Wir können nicht gleichzeitig negative und positive Emotionen empfinden. Wir können uns nicht gleichzeitig entspannt und gestresst fühlen.
+
+Wenn wir Groll gegen unser Leben oder jemanden darin verspüren, können wir dieses Gefühl verdrängen, indem wir uns auf all die Dinge konzentrieren, für die wir dankbar sind.
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

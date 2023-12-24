@@ -8,6 +8,7 @@ Der Autor kann zu unserem Mentor werden. Ein Buch ist ein guter Weg mir jemandem
 
 Wenn wir jeden Tag 30 Minuten lesen, kommen wir in einem Jahr auf fast 200 Stunden. Wir können so 40 Bücher lesen.
 
+"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you." - Jim Mattis
 
 ## Ziel
 

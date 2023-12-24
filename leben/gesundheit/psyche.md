@@ -7,6 +7,8 @@
     + spotify
     + [Das Meditieren beginnen](https://open.spotify.com/episode/1Cojh3ByBDQiHiRj6siyMI?si=oSXg9MiMTc2NYR0zGeYJ5A&nd=1)
 ![](meditieren.jpeg)
+
+Wir können damit beginnen morgens und abends jeweils 1% von unserem Tag zu meditieren. Das sind jeweils 15 Minunten.
     
 ### Effekte
 
@@ -33,7 +35,7 @@
 
 ### Links
 
-- [](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+- [Your attention didn’t collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 
 ## Sonnenschein
 

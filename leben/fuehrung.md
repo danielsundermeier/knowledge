@@ -43,3 +43,4 @@ Es geht nicht um kurzfritigen Erfolg, sondern um den Charakter, den wir entwicke
 - [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
 - [On Becoming a Leader](https://www.goodreads.com/book/show/171921.On_Becoming_a_Leader)
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)
+- [Call Sign Chaos](https://www.goodreads.com/book/show/46037714-call-sign-chaos)

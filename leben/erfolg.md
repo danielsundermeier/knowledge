@@ -20,6 +20,8 @@ Jeden Tag gehen Menschen aus der Tür und glauben, dass alles anders wird, wenn 
 
 Wir erreichen den Erfolg mit kleinen stetigen Verbesserungen über einen langen Zeitraum. 
 
+> "If we wanted it as bad as we say we do, our lives would look very different because we would make radically different choices every day." - Jamie Gilbert
+
 ## 1. Gesundheit
 
 - [Schlaf](./gesundheit/schlaf.md)
@@ -115,3 +117,4 @@ Wir können nicht alles, haben, das wollen wir in der Regel auch nicht. Wir kön
 - [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 - [Raise Your Game](https://www.goodreads.com/book/show/40776006-raise-your-game)
 - [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)
+- [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)

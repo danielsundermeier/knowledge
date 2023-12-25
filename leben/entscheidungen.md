@@ -1,5 +1,9 @@
 # Entscheidungen
 
+Ich möchte proaktiv handeln. Das bedeutet ich möchte in der Lage sein, bewusst zu entscheiden, wie ich auf eine bestimmte Situation reagiere.
+
+Ich möchte nicht wir der Pawlowsche Hund gedankenlos auf einen bestimmten Reiz in meinem Leben reagieren.
+
 - Entscheidungen möglichst einmalig treffen und dann so lange ausführen, bis es nicht mehr funktioniert
     * Ernährungsplan
     * Trainingsplan

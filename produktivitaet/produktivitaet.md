@@ -96,6 +96,36 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [On Solitude](https://eriktorenberg.substack.com/p/on-solitude)
 - [what mindless scrolling does to you](https://www.youtube.com/watch?v=WEQTrW9NP68)
 
+## Eisenhower-Matrix
+
+Wir können unsere Aufgaben in eine von vier Quadranten einteilen.
+
+### Quadrant 1
+
+Wichtig, dringend
+
+Notfälle
+
+### Quadrant 2
+
+Wichitg, nicht dringend
+
+Hier wollen wir so viel Zeit wie möglich verbingen.
+
+Es sind die Aufgaben, die uns langfritig weiter bringen und die anderen leichter oder überflüssig machen.
+
+### Quadrant 3
+
+Nicht wichitg, dringend
+
+Unterbrechungen, Shallow Work
+
+### Quadrant 4
+
+Nicht wichtig, nicht dringend
+
+Ablenkungen
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

@@ -1,5 +1,9 @@
 # Planung
 
+Wir sind besser darin Projekte in unserem Beruf zu planen, als herhauszufinden, wie wir leben wollen.
+
+Wir verbringen viel Zeit damit, unseren Urlaub zu planen, um der Angst vor dem Alltagstrott zu entfliehen. Was wäre wenn wir diese Zeit stattdessen damit verbringen würden, unser ideales Leben zu planen, damit wir nicht so verzweifelt in den Urlaub flüchten müssten.
+
 | [Tag](./tag) | [Woche](./woche) | [Monat](./monat) | [Jahr](./jahr) |
 | --- | ----- | ----- | ---- |
 | Ausführbare Aufgaben für nächsten Tag planen | Aufgaben aus Projekten erstellen | Projekte für den Monat planen | Ziele für das Jahr festlegen

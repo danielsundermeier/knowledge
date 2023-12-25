@@ -2,6 +2,8 @@
 
 Erholung und Aktivität ergänzen sich gegenseitig. Sie sind zwei Seiten der selben Medaille.
 
+Wir müssen immer wieder die "Säge schärfen", um unserer größtes Kapital bewahren und steigern können - uns selbst. Dafür sollten wir uns erholen und Spaß haben. 
+
 ## Aktivitäten
 
 Die wahren Stressabbaumittel fördern stimmungsaufhellende Gehirnchemikalien wie Serotonin und GABA sowie das Wohlfühlhormon Oxytocin. Sie helfen auch dabei, die Stressreaktion des Gehirns abzuschalten, Stresshormone im Körper zu reduzieren und die heilende Entspannungsreaktion auszulösen. Da sie nicht so aufregend sind wie die Dopamin-Freisetzer, neigen wir dazu, zu unterschätzen, wie gut sie uns fühlen lassen.

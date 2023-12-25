@@ -36,6 +36,7 @@ Netzwerk aus Menschen, die das Leben bereichern, aufbauen
 - "Ich mache X, willst Du mit?"; Besser "Wir machen X, willst Du mit?" -> Andere machen schon mit (Social Proof)
 - Interesse am Leben / Ideen von anderen zeigen und darüber sprechen
 - Auf die andere Person fokussieren
+- Win-Win Situationen schaffen
 
 > The major reason why people are uninterested in your conversation is because you yourself are less enthusiastic. When you yourself become enthusiastic in your talk, other people will become more interested in your talk. So get enthusiastic whenever you say something. - How I raised myself from failure to success
 
@@ -175,6 +176,10 @@ Aristotle sagte uns, dass das ultimative Ziel darin besteht, ein Eudaimon zu sei
 Mut ist die wichtigste Tugend, um das zu erreichen.
 
 Wenn Mut das Wichtigste ist, was wir für uns selbst tun können, um unser eudaimonisches Potenzial zu verwirklichen, wäre es dann nicht das Liebevollste, was wir tun können, wenn wir anderen Mut machen, ihr eudaimonisches Potenzial zu verwirklichen?
+
+## Verstehen
+
+Wir sollten sicherstellen, dass wir die Perspektive der anderen Person verstehen und nicht nur darauf achten, dass wir verstanden werden.
 
 ## Links
 

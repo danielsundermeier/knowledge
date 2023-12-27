@@ -52,6 +52,8 @@ Die Studie zeigt den Einfluss unserer Identität auf unser Verhalten.
 
 In einer anderen Studie wurden Studenten einem Sehtest unterzogen. Die, die dazu ermutigt wurden Air Force Piloten zu spielen, haben besser abgeschnitten.
 
+> "Choose for yourself a moral hero, whose life, conversation, and expressive face all please you, then picture him to yourself at all times as your protector, and as your ethical pattern. We all need someone whose example can regulate our characters." - Seneca
+
 ## Pygmalion-Effekt
 
 Manche Menschen ändern ihre Persönlichkeit nach einer Schönheutsoperation, andere bleiben gleich. Es kommt also nicht darauf an, wie wir aussehen, sondern, wie wir uns selbst sehen.

@@ -91,6 +91,18 @@ Wir nehmen eine Hand voll von dem Staub und werfen es auf die vorherige Vorstell
 
 So übernehmen wir die Kontrolle und stellen klar, dass wir der ultimative Schiedsrichter über alles sind, was zählt.
 
+## Build your own home
+
+Alles was wir tun prägt unsere Persönlichkeit. Es werden ständig neue Verknüpfungen in unserem Gehirn gebildet. Je öfter wir etwas machen, umso leichter fällt es uns.
+
+Wenn wir also immer unser bestes geben, wird dieses Verhalten zu unserem Standard und ein Teil unserer Persönlichkeit.
+
+Alles, was uns passiert ist in unserem besten Interesse und eine Möglichkeit zu lernen und wachsen.
+
+Es geht immer nur darum, wer wir werden. Kurzfristige Ziele sind nicht so entscheidend, auch wenn es in dem Moment nicht so wirkt.
+
+Wir bauen immer an unserem eigenen Haus.
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

@@ -2,6 +2,8 @@
 
 Wir lernen indem wir etwas tun.
 
+Lernen und Wachstum geht damit einher, dass wir unsere Komfortzone verlassen müssen. Ein gewisses Maß an Unbehangen gehört dazu. Es ist normal und gehört zum Prozess.
+
 ## 3 Steps to Becoming Great at Anything
 
 1. Grundlagen lernen (80/20 Prinzip)
@@ -54,6 +56,43 @@ Ich versuche bei den meisten Projekten neue Dinge auzuprobieren. Selbst wenn es 
 - [The Beginner’s Guide to Deliberate Practice](https://jamesclear.com/beginners-guide-deliberate-practice)
 - [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/2021/04/deliberate-practice-guide/)
 - [The science of deliberate practice](https://nesslabs.com/deliberate-practice)
+
+## Feedback
+
+Wir brauchen eine Rückmeldung und wollen wissen, wo wir stehen und wie wir uns entwicklen können.
+
+### Blickwinkel der Stärke
+
+Wenn wir uns angucken, was wir am besten können und gleichzeitig das, was wir am dringensten ändern wollen, werden wir oft feststellen, dass beides im Kern verschieden ausgeprägte Grade des selben Verhaltens sind.
+
+In unseren Fehlern und Begrenzungen verbregen sich auch unsere Stärken.
+
+Wir können kontrollsüchtig und detailversessen sein oder es als Verantwotlichkeit, Verlässligkeit und eine Vorliebe für qualitativ gute Arbeit.
+
+Wenn wir sie aus dem Blickwinkel der Stärke sehen, sind wir eher dazu bereit uns kritisch zu hinterfragen und Verhaltensweisen zu ändern.
+
+Wir können zum Beispiel drei Stärken und eine Wachstumschance nennen, wenn wir jemandem Feedback geben.
+
+### Konstruktives Feedback Checkliste
+
+- Bereit nebeneinander zu sitzen statt gegenüber
+- Problem gemeinsam anschauen zu können
+- Zuhören, Fragen stellen und akzeptieren den Sachverhalt vielleicht nicht komplett verstanden zu haben
+- Anerkennung für die Arbeit, statt mit den Fehlern auseinanderzusetzen
+- Stärken erkennen und wissen, wie sie zum meistern der Herausforderung eingesetzt werden können
+- In die Pflicht nehmen ohne zu beschämen oder beschuldigen
+- Gewillt Verantwortung zu übernehmen
+- Aufrichtig für die Bemühungen danken, statt Fehler zu kritisieren
+- Wachstumschancen durch Lösen der Herausforderung
+- Verletzlichkeit und Offenheit vorleben, die wir erwarten
+
+> "Danke für ihre Arbeit. Mit diesem hier leisten Sie einen wichtigen Beitrag. Jenes dort steht Ihrem Wachstum im Wege und ich glaube zusammen bekommen wir das hin. Welche Fortschritte möchten Sie selbst machen? Welche Rolle spiele ich Ihrer Meinung nach bei dem Problem? Was kann ich anders machen, um Sie zu unterstützen?" - Brene Brown
+
+Wenn wir nicht offen sind, um Feedback zu geben, können wir uns Hilfe bei einem Kollegen holen, der uns einen Ratschlag geben kann.
+
+Wenn wir nicht bereit sind Feedback zu empfangen, werden wir auch nie gut darin sein, es zu geben.
+
+Feedback zu geben und darum zu bitten hat mit Lernen und Wachstum zu tun. Zu verstehen, wer wir sind und wie wir auf die Menschen in unserer Umgebung reagieren ist die Grundlage für diesen Prozess.
 
 ## Links
 

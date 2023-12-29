@@ -20,6 +20,8 @@ Wenn wir mit unserem Körper zufrieden sind, kritisieren wir andere nicht für i
 
 Kinder fangen immer früher an andere zu kritisieren. Wir können aus diesem Teufelskreis nur entkommen, indem wir uns gegenseitig unterstützen, statt uns zu kritisieren. Anstatt die Augen zu verdrehen, können wir Solidarität mit einem Lächeln zeigen.
 
+Scham wird von oben nach unten weitergegeben. Wenn wir beschämt werden, lassen wir es an anderen aus.
+
 ## Masken
 
 Wir tragen Masken, um uns gegen das Unbehagen der Verletzlichkeit zu schützen. Wir wollen so den Mangel, den wir empfinden, überdecken.
@@ -158,6 +160,14 @@ Es ist ein Drahtseilakt. Wir müssen immer wieder versuchen eine Balance zu find
 Wir sind auf Feedback von anderen angewiesen. Wir sollten aber nur die Kritik von Menschen annehmen, die auch in der Arena stehen und nicht von denen, die nur als Zuschauer dabei sind.
 
 Wir können einen Zusammenhang zwischen unserer Angriffslust und unserem eigenen Selbstwert herstellen.
+
+## Scham erkennnen
+
+- Schuldzuweisungen
+- Üble Nachrede
+- Günstlingswirtschaft
+- Anprangerungen
+- Schikane
 
 ## Schamresilienz
 

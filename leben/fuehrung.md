@@ -6,6 +6,12 @@ Anführer müssen authentisch sein. Sie müssen der Autor ihres Lebens sein. Nur
 
 Wir alle sind Anführer, als Eltern, Vorgesetzte, Trainer, ... . Wir beeinflussen uns alle gegenseitig. Wir führen auf jeden Fall uns selbst.
 
+Es ist wichtig, dass wir den Mut zur Unbequemlichkeit kultivieren und die Menschen in unserer Umgebung lehren, Unbehagen als Teil des Wachstumsprozesses zu akzeptieren.
+
+Wir sollten uns wirklich für die Menschen, die wir führen, interessieren. Wir sollten ihnen Feedback zu ihren Beträgen und Stärken geben, aber auch Wachstumschancen aufzeigen. Wir sollten ihnen Vertrauen entgegebringen und sie dazu ermuigen Großes zu wagen.
+
+Wenn Menschen nicht das Gefühl haben wertgeschätzt zu werden, verlieren sie das Interesse und hören auf sich zu engagieren.
+
 ## Eigenschaften
 
 - Richtungsweisende Vision

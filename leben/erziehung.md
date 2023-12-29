@@ -1,5 +1,7 @@
 # Erziehung
 
+Wer wir sind und wie wir uns verhalten haben einen wesenetlich größeren Einfluss auf die Entwicklung unserer Kinder, als das was wir über Erziehung diskutieren.
+
 - Kindern zeigen, wie sie selbst Antworten finden
 - Frage von Kind -> Antwort: Was ist deine Lösung / Antwort?
 - Neugierde / Wissensdurst fördern
@@ -13,6 +15,19 @@
     + Bibliothek
     + YouTube
 - Möglichkeit bieten vieles auszuprobieren
+
+## Ziele
+
+- sich von einer Position des natürlichen Selbstwertgefühls her auf das Leben einlassen
+- mit ihren wunden Punkten und Unvollkommenheiten offen umgehen
+- ein tiefes Gefühl von Liebe udn Mitgefühl für sich und andere haben
+- harte Arbeit, Durchhaltevermögen und sngemessenen Respekt wertschätzen
+- Authentizitätund Zugehörigkeitim Inneren empfinden, statt es im Äußeren zu suchen
+- Die Courage zu haben, unvollkommen, verletztlich und kreativ zu sein
+- sich nicht davor fürchten, beschämt oder weniger gemocht zu werden, weil sie anders sind als andere oder mit den eigenen Problemen kämpfen
+- ihren Weg mutig und mit einer guten Portion Resilienz durch unsere sich rasch verändernde Welt machen
+
+nach "Verletzlichkeit macht stark" von Brene Brown
 
 ## Finanzen
 

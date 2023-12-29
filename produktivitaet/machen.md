@@ -10,6 +10,8 @@ Um etwas zu schaffen, brauchen wir auf der einen Seite eine Vision oder ein Ziel
 
 Wir können es uns als Gummiband vorstellen. Wenn die Spannung zu groß ist, reißt es, wenn sie zu schwach ist, passiert nichts. Wir brauchen eine Balance.
 
+> "At the end of your life, you won’t remember the thoughts or intentions you had. You’ll remember the actions you took. You’ll judge yourself by how you showed up, by what you did, what you said, how you acted, and whether you performed in a way you knew you could in any of the stages of life." - Todd Herman
+
 ## Meine Lösung
 
 - Sehr kleines Ziel setzen

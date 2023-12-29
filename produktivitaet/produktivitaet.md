@@ -126,6 +126,52 @@ Nicht wichtig, nicht dringend
 
 Ablenkungen
 
+## Zeigarnik-Effekt
+
+Wir erinnern uns an nicht erledigte Aufgaben besser als an abgeschlossene.
+
+Eien angefangene Aufgabe baut eine Spannung auf, welche die kognitive Zugänglichkeit der relevanten Inhalte verbessert. Diese Spannung wird dann mit dem Abschluss der Aufgabe abgebaut. Bei Unterbrechung kommt es zu einer Verhinderung dieses Spannungsabbaus. Durch die fortlaufende Spannung ist der Inhalt leichter verfügbar und man erinnert sich leichter daran.
+
+[Zeigarnik-Effekt](https://de.wikipedia.org/wiki/Zeigarnik-Effekt)
+
+## 80/20 oder Pareto Prinzip
+
+Vilfredo Pareto hat 1897 das 80/20 Prinzip zuerst bei der Verteilung des Einkommens und des Bodens bemerkt und es dann überall entdeckt.
+
+- 20% der Kriminellen sind für 80 % der Kriminalität verantwortlich
+- 20% der Autofahrer sind für 80 % der Unfälle verantwortlich
+- 20% der verheirateten Personen sind für 80 % der Scheidungen verantwortlich
+- 20% Ihres Teppichs sind wahrscheinlich 80 % der Abnutzung ausgesetzt
+- Auf 20% der Straßen entfallen 80 % des Verkehrs
+- 20% der Produktmängel sind für 80 % der Probleme verantwortlich
+- 20% der Kunden erwirtschaften in der Regel 80 % des Gewinns
+- 20% der Kleidung in Ihrem Kleiderschrank werden 80 % der Zeit getragen
+- 20% der Biertrinker trinken 80 % des Bieres
+
+Wie können es uns zu nutzen machen, indem wir die wichtigen 20% unserer Tätigkeiten identifizieren und uns darauf konzentrieren.
+
+> "80/20 thinking requires, and with practice enables, us to spot the few really important things that are happening and ignore the mass of unimportant things. It teaches us to see the wood for the trees." - Richard Koch
+
+> "Everything you want should be yours: the type of work you want; the relationships you need; the social, mental, and aesthetic stimulation that will make you happy and fulfilled; the money you require for the lifestyle that is appropriate to you; and any requirement that you may (or may not) have for achievement or service to others. If you don’t aim for it all, you’ll never get it all. To aim for it requires that you know what you want." - Richard Koch
+
+Um das zu bekomen, was wir wollen, müssen wir wissen, was wir wolllen. Wie sieht unser Traumleben aus und was tun wir? Nur wenn wir das wissen, können wir danach streben.
+
+> "Pursue those few things where you are amazingly better than others and that you enjoy the most." - Richard Koch
+
+Wir sollten voll auf unsere Stärken setzen und uns nicht unsere Schwächen konzentrieren, um in allem Mittelmaß zu sein. Wir wollen in etwas wirklich gut sein. Im beten Fall etwas, das uns leichter fällt als anderen und woran wir Freude haben. 
+
+20% unserer Beziehungen sind für 80% des Vergnügens verantwortlich. Wir können unsere Top 20 Beziehungen auflisten und dann 100 Punkte vergeben, um herauszufinden, wer zu den 20% gehört.
+
+Dann können wir wieder 100 Punkte vergeben, um darzustellen wie viel Zeit wir mit wem verbringen. Richard Koch empfielt Qualität über Quantität zu setzen und uns auf die Beziehungen zu konzentrieren, die für das größte Vergngen verantwortlich sind.
+
+Wir können deutlich schneller lesen, wenn wir nur den Schluss, die Einleitung und ein paar Interessante Kapitel lesen. Er empfiehlt ein Buch nur zum Vergnügen komplett zu lesen.
+
+Wir können das Prinzip auch auf unsere Enährung anwenden. Wenn wir die entscheidenen Sachen richitg machen, reicht es. Wir können aufhören Zucker zu trinken, größtenteils unverarbeitete Lebensmittel verwenden und viel Gemüse essen.
+
+Entdecke, wofür Du dich am meisten begeistern kannst und konzentriere deine Energie darauf, wie Du der Welt dienen könntest, indem Du deine Gaben mit dieser Begeisterung teilst.
+
+[The 80/20 Principle](https://www.goodreads.com/book/show/181206.The_80_20_Principle)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

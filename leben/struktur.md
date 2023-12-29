@@ -65,6 +65,14 @@ Ich schaffe nicht immer alles. Das Leben kommt dazwischen. Die Struktur dient al
 - Weniger Dinge tun (1 Big Thing)
 - Zuerst tun, was mir wichtig ist
 
+## Arbeit
+
+### Shutdown Complete
+
+Feste Routine, um den Arbeitstag zu beenden und abschalten zu können.
+
+[Drastically Reduce Stress with a Work Shutdown Ritual](https://calnewport.com/drastically-reduce-stress-with-a-work-shutdown-ritual/)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

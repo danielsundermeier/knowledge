@@ -46,6 +46,8 @@ Das Alter Ego von Superman ist Clark Kent und nicht andersherum. Viele verwechse
 
 Eine für jeden Bereich, die unser Ideal darstellt zu dem wir streben können.
 
+> "Your Alter Ego is really about defining how you want to show up, defining the Superpowers, and borrowing the characteristics of an existing person, character, superhero, animal, or whatever to help Activate your Heroic Self" - Todd Herman
+
 In einer Studie wurde Kindern die Aufage gestellt eine Box zu öffnen, die nicht geöffnet werden konnte. Die Kinder, die sich als Batman verkleidet haben, haben es am längsten versucht und sind am ruhigsten geblieben. 
 
 Die Studie zeigt den Einfluss unserer Identität auf unser Verhalten.

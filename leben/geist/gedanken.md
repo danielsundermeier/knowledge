@@ -50,6 +50,70 @@ Wir können aus dem Labyrinth entkommen, wenn wir der Perosn, über die wir uns 
 
 Wir können uns entweder vorstellen, dass wir ihnen Liebe senden, wie ein Glücksbärchen oder der Person ein glückliches und zufriedenes Leben wünschen.
 
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
+## Part X
+
+In unserem Kopf findet ein ewiger Kampf, zwischen unserer besten Version und der nicht so tolle Version von uns, statt. 
+
+Phil Stutz nennt den Teil von uns, der uns zum Aufgeben bringen möchte und uns konstant mir negativen Gedanken bombardiert, Part X.
+
+Part X erzählt uns konstant, dass alles unmöglich ist, was wir versuchen zu erreichen.
+
+Der erste Schritt, um etwas dagegen zu tun, ist Part X zu erkennen. Dazu können wir ihn immer benennen, sobald wir ihm bemerken.
+
+Der beste Weg mit Part X umzugehen ist die kleinen positiven Dinge sehr gut zu machen und aufzuhören die kleinen negativen Dinge zu tun.
+
+Auch wenn wir den Zusammenhang vielleicht nicht erkennen, ist Selbstbeherrschung das, was wahres Vertrauen schafft.
+
+Wenn wir keine Selbstbeherrschung haben und uns von jedem unserer Impulse mitreißen lassen, wissen wir nie, wann unser Leben aus den Fugen geraten wird.
+
+Wenn wir nicht die Selbstbeherrschung haben, das zu tun, was wir für wichtig halten, wissen wir nie, ob wir unsere großen Träume tatsächlich verwirklichen werden.
+
+### Tücken
+
+1. Selbstbefriedigung
+2. Lethargie
+3. Demoralisierung
+4. Verletzte Gefühle
+
+#### Selbstbefriedigung
+
+Part X bringt uns dazu unseren Impulsen zu folgen
+
+- Alkohol, Drogen
+- Überessen
+- Im Internet surfen
+- Social Media
+- Zu lange aufbleiben
+- Shopping
+- Glücksspiel
+- Computerspiele, TV
+
+Wir werden dadurch abhängig von sofortiger Befriedigung. Wir sind dann nicht mehr in der Lage die Rückschläge, Hindernisse und harte Arbeit zu ertragen, um etwas zu erreichen. Wir tauschen unser langfristiges Potenzial gegen kurzfristiges Vergnügen.
+
+#### Lethargie
+
+Part X überzeugt uns davon, dass wir nicht die nötige Energie haben um den Anforderungen des Lebens gerecht zu werden.
+
+Das Leben zieht an uns vorbei.
+
+#### Demoralisierung
+
+Part X verwandelt Entmutigung in Hoffnungslosigkeit und bringt uns so dazu die Dinge aufztugeben, die wir wirklich wollen.
+
+Hin und wieder enttäuscht zu werden ist normal, Part X demoralisiert uns aber und brignt uns dazu komplett aufzugeben.
+
+#### Verletze Gefühle
+
+Part X hält uns davon ab verletzte Gefühle loszulassen und weiterzumachen. 
+
+Das Leben ist voll von unerwarteten Verletzungen. Wenn wir nicht darüber hinwegkommen, hören wir auf uns selbst herauszufordern. 
+
+Unser Leben versinkt in Selbstmitleid und Selbstgerechtigkeit.
+
+[Coming Alive](https://www.goodreads.com/book/show/18166862-coming-alive)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

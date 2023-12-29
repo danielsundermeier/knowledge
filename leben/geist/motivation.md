@@ -15,6 +15,10 @@ Um motiviert zu sein muss ich
 - Wissen, wie ich dieses Ziel erreichen kann
 - Kopf frei haben; Wenige Prioritäten / Aufgaben zur selben Zeit
 
+Glückseligkeit ist ist eien starke Emption und guter Treibstoff für die Motivation.
+
+> "Your bliss can guide you to that transcendent mystery, because bliss is the welling up of the energy of the transcendent wisdom within you. So when the bliss cuts off, you know that you’ve cut off the welling up; try to find it again." Joseph Campbell
+
 ## Extrinsisch
 
 Ziele aufgrund von externen Faktoren (z.B. Geld, Preise, gute Noten) erreichen

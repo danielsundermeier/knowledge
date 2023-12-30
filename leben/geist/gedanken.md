@@ -92,6 +92,17 @@ Part X bringt uns dazu unseren Impulsen zu folgen
 
 Wir werden dadurch abhängig von sofortiger Befriedigung. Wir sind dann nicht mehr in der Lage die Rückschläge, Hindernisse und harte Arbeit zu ertragen, um etwas zu erreichen. Wir tauschen unser langfristiges Potenzial gegen kurzfristiges Vergnügen.
 
+##### Black Sun
+
+Um den Impulsen nicht nachzugeben haben die Autoren das Tool "The Back Sun" entwickelt.
+
+Wir sollen es anwenden, sobald wir in Versuchung sind oder an unser Laster denken.
+
+1. Entbehrung nicht das zu bekommen, was wir wollen, so intensiv wie möglich spüren
+2. Der tiefen Leere in uns stellen und ruhig bleiben
+3. Vorstellen, dass eine schwarze Sonne aus der Leere aufteigt, bis wir ihre Wärme und grenzenlose Energie spüren
+4. Aufmerksamkeit auf die Welt richten und spüren, wie die Energie der schwarzen Sonne aus uns strömt und zu einem puren, weißen Licht unendlichem Gebens wird
+
 #### Lethargie
 
 Part X überzeugt uns davon, dass wir nicht die nötige Energie haben um den Anforderungen des Lebens gerecht zu werden.

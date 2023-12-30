@@ -1,5 +1,75 @@
 # Mastery
 
+Warum sind manche Menschen so unglaubloch gut in was sie tun? 
+
+## Die Gabe
+
+Diese Menschen haben eine Gabe. Sie haben ihre Fähigkeiten durch spezielles Training, das Veränderungen im Gehirn und im Körper vorantreibt erlangt.
+
+Wir alle haben die Gabe, unser Gehirn und unseren Körper auf wirklich phänomenale Weise formen zu können. Die Experten unter uns, die das scheinbar Unmögliche schaffen, haben diese Gabe einfach am meisten ausgenutzt.
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## Training
+
+Einfach immer wieder das gleiche wiederholen führt nicht zu Exzellenz.
+
+Ein Beispiel dafür ist das Fahren mit dem Auto. Wir denken vielleicht, dass wir ein besserer Fahrer werden je mehr Erfahrung wir haben. Das stimmt so aber nicht. Dinge immer wieder zu machen führt nicht zu Anpassungsfähigkeit und Verbesserungen.
+
+Wir müssen dabei zielstrebig und überlegt vorgehen.
+
+Zielstrebiges Training hat ein klares Ziel. Das Ziel brechen wir in kleine Mini-Ziele herunter. Mit kleinen Schritten nähern wir uns dann dem Ziel.
+
+Das Training muss auch konzentriert sein. Wenn wir Spaß haben oder nur die Bewegungen durchgehen, ist es kein zielstrebiges Training.
+
+Wir müssen aus unserer Komfortzone gehen, dürfen es aber nicht übertreiben.
+
+Dazu brauchen wir sofortiges Feedback, um unsere Fehler zu bemerken und soe korrigieren zu können.
+
+> "With deliberate practice, however, the goal is not just to reach your potential but to build it, to make things possible that were not possible before. This requires challenging homeostasis—getting out of your comfort zone—and forcing your brain or your body to adapt. But once you do this, learning is no longer just a way of fulfilling some genetic destiny; it becomes a way of taking control of your destiny and shaping your potential in ways that you choose." - Anders Ericsson
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## Homöostase und Anpassungsfähiglkeit
+
+Homöostase ist die Tendenz eines Systems, das zu tun, was es tun muss, um die Stabilität aufrechtzuerhalten.
+
+Das Aufregende daran ist, dass unser Körper, wenn wir unserer Komfortzone verlassen, mit einer Überkompensation reagiert, um ein neues, höheres Maß an Homöostase zu schaffen.
+
+> "This is the general pattern for how physical activity creates changes in the body: when a body system—certain muscles, the cardiovascular system, or something else—is stressed to the point that homeostasis can no longer be maintained, the body responds with changes that are intended to reestablish homeostasis." - Anders Ericsson
+
+Unser Potenzial ist unbekannt und nicht erkennbar. Wir können den nächsten Schritt zu unserer Leistungsfähigkeit machen, indem wir unsere Komfortzone verlassen und die Kraft der Anpasungsfähigkei nutzen.
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## Mentale Repräsentationen
+
+Unsere mentalen Repräsentationen entwickeln sich mit jeder Übungseinheit ein wenig weiter und es fällt uns leichter neue Informationen aufzunehmen.
+
+Wir können es uns wie ein Spinnennetz vorstellen. Zuerst gibt es nur vereinzelte Fäden. Sie werden aber immer stärker vernetzt. Ideen werden klarer und machen mehr Sinn.
+
+> "The more you study a subject, the more detailed your mental representations of it become, and the better you get at assimilating new information." - Anders Ericsson
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## 10.000-Stunden-Regel
+
+Malcolm Gladwell hat die Idee der 10.000-Stunden-Regel popular gemacht. Sie besagt, dass jeder Spitzenleistung auf einem Gebiet erbrignen kann, wenn man 10.000 Stunden dafür trainert hat.
+
+Es gibt keine klare grenze an Stunden, ab der man zur Weltspitze gehört. Der Weg ist aber gezieltes Training und einen klareren Weg zu dem Ziel zu haben.
+
+> "This is the basic blueprint for getting better in any pursuit: get as close to deliberate practice as you can. If you’re in a field where deliberate practice is an option, you should take that option. If not, apply the principles of deliberate practice as much as possible. In practice this often boils down to purposeful practice with a few extra steps: first, identify the expert performers, then figure out what makes them so good, then come up with training techniques that allow you to do it, too." - Anders Ericsson
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## Homo Exercens
+
+Der Trainierende Mensch.
+
+> "And I would argue that we humans are most human when we’re improving ourselves. We, unlike any other animal, can consciously change ourselves, to improve ourselves in ways we choose. This distinguishes us from every other species alive today and, as far as we know, from every other species that has ever lived." - Anders Ericsson
+
+[Peak](https://www.goodreads.com/book/show/26312997-peak)
+
 ## Dilettant, Besessener und Hacker
 
 > "We all aspire to mastery, but the path is always long and sometimes rocky, and it promises no quick pay off. So we look for other paths, each of which attracts a different person." - George Leonard 
@@ -60,3 +130,4 @@ Aktivität führt zu mehr Aktivität, genau wie Inaktivität zu mehr Inaktivitä
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)
 - [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+- [Peak](https://www.goodreads.com/book/show/26312997-peak)

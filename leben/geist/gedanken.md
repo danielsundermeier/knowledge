@@ -105,9 +105,17 @@ Wir sollen es anwenden, sobald wir in Versuchung sind oder an unser Laster denke
 
 #### Lethargie
 
-Part X überzeugt uns davon, dass wir nicht die nötige Energie haben um den Anforderungen des Lebens gerecht zu werden.
+Part X überzeugt uns davon, dass wir nicht die nötige Energie haben um den Anforderungen des Lebens gerecht zu werden. Wir ziehen uns immer weiter zurück, wodruch wir immer weniger Energie haben.
 
-Das Leben zieht an uns vorbei.
+Das Leben zieht an uns vorbei. Wir fühlen uns aber zu schlapp, um etwas daran zu ändern.
+
+Wir bekommen Energie, wenn wir uns mit dem Leben beschäftigen und uns engagieren. Dafür brauchen wir aber genug Energie, um das zu schaffen.
+
+Mit dem Tool "The Vortex", können wir an dienötige Energie kommen, um uns in den Energiekreislauf "einzukaufen".
+
+1. 12 Sonnen über unserem Kopf vorstellen und sie um Hilfe bitten, dadurch fangen sie an sich zu drehen, wodurch ein Wirbel entsteht
+2. Dem Körper erlauben eins mit dem Wirbel zu werden und uns von ihm hochziehen zu lassen
+3. Wenn wir durch den Kreis der Sonnen getragen wurden, spüren wir, wie wir zu einem Giganten mit unendlicher Enegie werden 
 
 #### Demoralisierung
 

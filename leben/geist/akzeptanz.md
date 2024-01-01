@@ -26,6 +26,104 @@ Wir können uns auf den aktuellen Moment konzentrieren. Wenn es uns gelingt, uns
 
 > "My formula for success was very simple—do whatever is put in front of you with all your heart and soul without regard for personal results. Do the work as though it was given to you by the universe itself, because it was." - Michael Singer
 
+> "The only time we suffer is when we believe a thought that argues with what is. When the mind is perfectly clear, what is is what we want." - Byron Katie
+
+## Streite nicht mit der Realität
+
+> "I realized that it’s insane to oppose it. When I argue with reality, I lose—but only 100% of the time." - Byron Katie
+
+Wir können nicht ändern, was passiert, warum sollten wir uns darüber ärgern? Wir akzeptieren es und handeln entsprechend.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Angelegenheiten
+
+Es gibt nur drei unterschiedliche Angelegenheiten
+
+1. Meine
+2. Deine
+3. Gottes
+
+Wir fühlen uns gestresst, wenn wir uns in die Angelegenheiten von anderen einmischen.
+
+Wir können weder das Wetter, unseren Partner oder Chef kontrollieren.
+
+Wir leiden, weil wir darüber nachdenken, wie sich andere verhalten sollten.
+
+Wir können uns aber mit unseren eigenen Angelegenheiten beschäftigen und entscheiden, wie wir auf die Angelegenheiten von anderen reagieren.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Mitfühlender Wecker
+
+> "It is easy to be swept away by some overwhelming feeling, so it’s helpful to remember that any stressful feeling is like a compassionate alarm clock that says, ‘You’re caught in the dream.'" - Byron Katie
+
+Oft stresst uns unser Stress zusätzlich. Wir können ihn aber als wertvollen Hinweis betrachten und etwas darauf lernen.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Flusen auf der Linse eines Projektors
+
+> As you inquire into issues and turn judgments around, you come to see that every perceived problem appearing ‘out there’ is really nothing more than a misperception within your own thinking." - Byron Katie
+
+Wir versuchen den Fleck auf der Leinwadn zu entfernen, dabei sind die Flusen auf der Linse des Projektors.
+
+Die Probleme auf die wir stoßen, sind in der Regel Spiegel, die uns auf eine Aufgabe in uns hinweisen. Es zeigt uns etwas, das wir noch nicht verarbeitet haben.
+
+Sie zeigen uns, dass unsere Annahmen über die Realität nicht richtig sind.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## The Work
+
+Wenn uns etwas nervt, können wir es aufschreiben. Anschließend stellen wir uns vier Fragen zu der Aussage:
+
+1. Ist das wirklich wahr?
+2. Kannst du absolut sicher sein, dass es wahr ist?
+3. Wie reagierst du oder was passiert mit dir, wenn du diesen Gedanken tatsächlich glaubst?
+4. Wer wärst du und wie fühlst du dich ohne diesen Gedanken?
+
+Anschließend drehen wir die Aussage um.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Sollte
+
+> "If I think that someone else is causing my problem, I’m insane." - Byron Katie
+
+Ein großer Teil unserer Probleme liegt in unserer Erwartung, dass andere etwas tun sollten oder etwas nicht passieren sollte.
+
+Wir können die vier Fragen durchgehen oder uns direkt fragen, wer wir wären, wenn wir die Lügen nicht glauben würden.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Zustimmung
+
+Wir verschwenden sehr viel Zeit und Energie darüber nachzudenken, was andere wohl von uns halten.
+
+> "I am totally independent of the good or bad opinion of others." - Deepak Chopra
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Den Abwasch machen
+
+> "We never receive more than we can handle, and there is always just one thing to do." - Byron Katie
+
+In jedem Moment haben wir normalerweise eine Ahnung davon, was getan werden muss. Sei es, dass wir den Abwasch machen, einen Anruf tätigen, die Wäsche abholen oder die nächste Seite unseres Romans schreiben. Es gibt immer etwas für uns zu tun.
+
+Tun einfach das, wozu deine innere Stimme dich anleitet.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
+## Nichts geht schief
+
+> "Until you can see everything in the world as your friend, your work is not done." - Byron Katie
+
+Alles, was uns heute passiert ist in unserem besten Interesse und eine Gelegenheit etwas zu lernen und zu wachsen.
+
+[Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
+- [Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)

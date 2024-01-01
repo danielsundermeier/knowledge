@@ -121,7 +121,41 @@ Mit dem Tool "The Vortex", können wir an dienötige Energie kommen, um uns in d
 
 Part X verwandelt Entmutigung in Hoffnungslosigkeit und bringt uns so dazu die Dinge aufztugeben, die wir wirklich wollen.
 
-Hin und wieder enttäuscht zu werden ist normal, Part X demoralisiert uns aber und brignt uns dazu komplett aufzugeben.
+Hin und wieder enttäuscht zu werden ist normal, Part X demoralisiert uns aber und bringt uns dazu komplett aufzugeben.
+
+Er redet uns ein, dass wir glücklich sein können, wenn wir etwas erreicht haben, nur um uns dann scheitern zu sehen. 
+
+Entweder laufen wir unser Leben lang hinter dieser Sache her oder wir bekommen es und stellen fest, dass es nicht die Lösung ist.
+
+In beiden Fällen sind wir unglücklich und das raubt uns unsere Hoffnung.
+
+Wir existieren zwar, sind aber nicht wirklich lebendig.
+
+Uns fehlt der Antrieb, das zu tun, was uns wieder auf die Beine bringt:
+
+1. Sport
+2. Soziale Kontakte
+3. Hobbies
+
+Unsere emotionale Verantwortung liegt darin uns selbst in einem positiven Zustand zu halten und nicht von äußeren Faktoren abhängig zu sein.
+
+In diesem Zustand kommt das Tool "The Mother" in Spiel.
+
+Die Mutter der Archetyp für der Liebe und Hoffnug.
+
+1. Negative Gedanken in toxische Substanz verwandeln, um Abstand zu bekommen
+2. Mutter vorstellen und ihr die toxische Substanz übergeben
+3. Mutter strahlt aus ihren Augen unendliches Selbstvertrauen auf uns und gibt uns dadurch Hoffnung und den Glauben, dass alles möglich ist
+
+Wir sollten es direkt anwenden, sobald negative Gefühle auftauchen.
+
+Wir müssen aber noch die falschen Hoffnungen loslassen. Wenn wir unsere Stimmung mit Fantasien heben, geben wir unsere emotionale Verantwortung wieder ab. 
+
+Die Realität holt uns irgendwann wieder krachend auf den Boden der Tatsachen zurück und nimmt uns dadurch die Hoffnung. Das Spiel beginnt wieder von vorne.
+
+Wir können das Tool "The Mother" auch nutzen, wenn wir übermütig werden.
+
+Das können wir tun, indem wir die (zu) positiven Gedanken auch in eine Substanz verwandeln und sie der Mutter geben.
 
 #### Verletze Gefühle
 
@@ -129,7 +163,31 @@ Part X hält uns davon ab verletzte Gefühle loszulassen und weiterzumachen.
 
 Das Leben ist voll von unerwarteten Verletzungen. Wenn wir nicht darüber hinwegkommen, hören wir auf uns selbst herauszufordern. 
 
-Unser Leben versinkt in Selbstmitleid und Selbstgerechtigkeit.
+Sie entstehen durch Worte, Kritik oder Zurückweisung. 
+
+Im Gegensatz zu körperlichen Verletzungen, können wir mentale nicht sehen und kehren sie deshalb unter den Tisch.
+
+Die Verlertzungen heilen auch nicht automatisch. Wir müssen etwas dafür tun. Sonst sammeln wir immer mehr davon an und unser Leben versinkt in Selbstmitleid und Selbstgerechtigkeit.
+
+Wir geraten in die Opferrolle und denken, dass wir nichts für unsere Situation können. Wir erwarten, dass die Welt fair ist. Wir erwarten von anderen, dass sie sich loyal, verpflichtet und respektvoll verhalten.
+
+Obwohl die anderen das eventuell anders sehen, erwarten wir "richtig" behandelt zu werden.
+
+Part X überzeugt uns davon, dass wir besonders sind und im Zentrum des Universums stehen. Alles dreht sich um uns und wir können bestimmen, wie sich andere uns gegenüber verhalten.
+
+Wenn diese Blase zerbricht, weil wir nicht entsprechend behandelt wurden, finden wir in der Opferrolle eine neue Möglichkeit etwas besonderes zu sein.
+
+Wir sammeln Verletzungen und spielen sie immer wieder in unserem Kopf durch.
+
+Das dauernde abspielen alter Verletzungen ist wie der Versuch einen gebrochenen Arm zu heilen, indem er immer wieder gebrochen wird.
+
+Das Tool "The Tower" hilft uns die Verletzungen zu überstehen und sie als Gelegenheiten zum Wachstum zu sehen
+
+1. Die verletzenden Gefühle verstärken und uns sterben lassen.
+2. Wir liegen in einem Turm und hären eine Stimme hören "Only the dead survive". Dadurch füllt sich unser Herz mit Licht.
+3. Angetrieben vom Licht aus unserem Herzen steigen wir den Turm hinauf und verlassen ihn in einen blauen Himmel. Unser Körper fühlt sich komplett neu an.
+
+Es hilft uns dabei eine neue Version von uns zu erschaffen. Vorher haben wir den Schmerz mit der Endgültigkeit des Todes betrachtet. Danach wird er zu einem Portal zu einem grenzenlosen Leben.
 
 [Coming Alive](https://www.goodreads.com/book/show/18166862-coming-alive)
 

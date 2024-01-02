@@ -61,6 +61,20 @@ Sie haben erlebt, dass sie gerettet zu werden und haben die Hoffnung gehabt, das
 
 Diese Hoffnung hat ihnen neue Kraft und Energie gegeben.
 
+## Zeitreise
+
+Wir können uns vorstellen in die Zukunft zu reisen und unser Zukunfts-Ich in 5 Jahren zu treffen.
+
+Es hat alles funktionert, was wir uns vorgenommen haben.
+
+Unser Zukunfts-Ich lebt in Integrität mit unseren tiefsten Werten und gedeiht in jedem Bereich des Lebens.
+
+Wir haben eine Minute Zeit, um uns zu unterhalten. 
+
+Was rät uns unser Zukunfts-Ich? Was sollten wir tun?
+
+Schreib es auf und dann tu es.
+
 ## Bücher
 
 - [The Psychology of Hope](https://www.goodreads.com/book/show/870952.The_Psychology_of_Hope)

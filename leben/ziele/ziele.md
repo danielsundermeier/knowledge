@@ -87,6 +87,114 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - Obstacle
 - Plan -> [Gewohnheiten](./gewohnheiten.md)
 
+## 21 Schritte
+
+### Entfesseln Sie ihr Potenzial
+
+Unser Potenzial ist grenzenlos. 
+
+Was würdst Du tun, wenn Du wüssten, dass Du nicht scheitern könntest?
+
+### Nehmen Sie ihr Leben in die Hand
+
+Wir werden keinen Erfolg haben, wenn wir uns nur beschweren. Wir müssen Verantwortung für unser Leben übernehmen, Lösungen finden und aktiv werden.
+
+### Gestalten Sie ihre Zukunft
+
+Wenn es keine Grenzen geben würde, was würdest Du tun, sein oder haben? Trau dich zu träumen und dann mach es Wirklichkeit.
+
+### Werden Sie sich Ihrer Werte bewusst
+
+Erfolgreiche Menschen haben sich die Zeit genommen, sich selbst kennenzulernen und danach zu streben, in Integrität mit ihren tiefsten Werten zu leben.
+
+Wir beginnen großartig zu werden, wenn wir beginnen, auf unsere innere Stimmen zu hören und absolut darauf zu vertrauen, dass wir bei jedem Schritt des Weges von einer höheren Macht geführt werden.
+
+Im Einklang mit unseren wahren Werten zu leben, ist der Königsweg zu Selbstvertrauen, Selbstachtung und persönlichem Stolz
+
+### Analysieren Sie Ihre Überzeugungen
+
+Unsere Glaubenssätze und unser Selbstbild haben einen großen Einfluss auf den Verlauf unseres Lebens.
+
+### Bestimmen Sie Ihre wahren Ziele
+
+Was wollen wir wirklich?
+
+Wir brauchen ein klares Ziel auf das wir unsere Energie konzentrieren können.
+
+### Bestimmen Sie Ihren grundlegenen konkreten Lebenszweck
+
+Mit welchem Ziel kann ich einen großen Teil meiner anderen Ziele erreichen?
+
+Was möchte ich wirklich mit meinem Leben anfangen?
+
+Wir sollten uns diese Frage immer wieder stellen.
+
+> "Determine the price you will have to pay in additional work, time, and commitment to achieve your goal, and then get busy paying that price." - Brian Tracy
+
+### Fangen Sie vorne an
+
+Wir müssen ehrlich sein und wissen, wo wir gerade stehen. Von dort können wir dann beginnen.
+
+### Setzen Sie sich finanzielle Ziele und erreichen Sie sie
+
+### Werden Sie zum Experten
+
+Wir können zu den besten 10% in unserem Gebiet gehören.
+
+### Optimieren sie Ihr Familienleben und Ihre persönlichen Beziehungen
+
+### Tun Sie alles für ihre Gesundheit und Ihr Wohlbefinden
+
+### Messen Sie Ihren Erfolg
+
+Wir wollen unsere Fortschritte zu unserem Ziel messen und feiern.
+
+### Räumen Sie Hindernisse aus dem Weg
+
+Wir müssen mit Hindernissen und Rückschlägen rechnen. Wir sollten sehr gut darin werden, sie zu lösen.
+
+### Pflegen Sie die richtigen Kontakte
+
+Wir werden zu dem Durchschnitt von den 5 Personen in unserer Nähe.
+
+### Entwicklen Sie einen Aktionsplan
+
+Wir müssen wissen, was wir tun müssen, um unser Ziel zu erreichen. 
+
+### Organisieren Sie Ihre Zeit
+
+Wir wollen wissen, was jetzt wichitg ist udn es tun. Wir wollen Ablenkungen vermeiden.
+
+### Überprüfen Sie täglich Ihre Ziele
+
+Wir wollen täglich unsere Ziele durchgehen und so immer fester daran glauben, dass wir sie erreichen können.
+
+### Visualisieren Sie Ihre Ziele auf Schritt und Tritt
+
+Wir wollen uns immer wieder in Erinnerung rufen, was wir wollen und warum.
+
+### Aktivieren Sie ihr Unterbewusstsein
+
+Wir können eine Technik nutzen, die er "Mindstorm" nennt.
+
+Dazu schreiben wir unser Ziel oder das Problem als Frage. Darunter schreiben wir 20 Antworten auf die Frage.
+
+Jede Antwort sollte als Affirmation geschrieben werden: persönlich, in der Gegenwart und positiv. 
+
+### Halten Sie durch, bis Sie Erfolg haben
+
+Hier ist wichtig, dass wir an uns selbst glauben und uns dazu verpflichten niemals aufzugeben.
+
+Die wichtigeste Eigenschaft für den Erfolg ist Disziplin. Wir müssen unsere Aufgaben unabhängig davon erfüllen, wie wir uns fühlen.
+
+Wir müssen auch weitermachen, wenn der Enthusiasmus mit der wir den Entschluss getroffen haben, verflogen ist.
+
+[Goals!](https://www.goodreads.com/book/show/113935.Goals_)
+
+## Bücher
+
+- [Goals!](https://www.goodreads.com/book/show/113935.Goals_)
+
 ## Links
 
 - [Why You Need to Make a Life Plan](https://www.lifehack.org/articles/lifestyle/why-you-need-to-make-a-life-plan.html)

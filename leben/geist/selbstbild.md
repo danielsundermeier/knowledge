@@ -2,7 +2,7 @@
 
 > "For twenty years, my research has shown that the view you adopt for yourself profoundly affects the way you lead your life. It can determine whether you become the person you want to be and whether you accomplish the things you value. How does this happen? How can a simple belief have the power to transform your psychology and, as a result, your life?" - Carol Dweck
 
-## Fixed Mindset
+## Statisches Selbstbild
 
 - Fähigkeiten und Talente sind unveränderbar und bei der Geburt festgelegt
 - Vermeidet Fehler und Risken
@@ -12,7 +12,7 @@ Mit einer festen Denkweise steht unser Selbstwertgefühl bei allem, was wir tun,
 
 -> Sich selbst bestätigen
 
-## Growth Mindset
+## Dynamisches
 
 - Fähigkeiten und Talente können entwicket werden
 - Das Potenzial eines Menschen ist unvorhersehbar
@@ -31,7 +31,7 @@ Es ist unmöglich unser Potenzial zu kennen und einzuschätzen, was mit jahrelan
 
 ## Lieben, was wir tun
 
-Viele Menschen mit einem growth mindset lieben, was sie tun. Sie haben oft nicht mal geplant an die Spitze zu kommen. Ironischerweise haben sie das erreicht, was Menschen mit einem fixed mindset wollen, als Nebenprodukt ihrer Begeisterung für das, was sie tun.
+Viele Menschen mit einem dynamsichen Selbstbild lieben, was sie tun. Sie haben oft nicht mal geplant an die Spitze zu kommen. Ironischerweise haben sie das erreicht, was Menschen mit einem fixed mindset wollen, als Nebenprodukt ihrer Begeisterung für das, was sie tun.
 
 Ihre Einstellung erlaubt es ihnen unabhängig vom Ergebnis wertzuschätzen, was sie tun.
 
@@ -59,12 +59,36 @@ Wenn wir uns unseren Herausfoderungen stellen ist es hilfreich einen konkreten P
 
 Das führt zu einer hohen Wahrscheinlichkeit es tatsächlich zu machen, was die Chancen auf Erfolg erhöht.
 
-## Einstellung zum Growth Mindset verändern
+## Dynamsichen Selbstbild entwicklen
 
-1. Das fixierte Mindset akzeptieren
-2. Trigger-Punkte bewusst machen
-3. Dem fixierten Mindset einen Namen geben
-4. Das Growth Mindset entwickeln
+1. Wir müssen akzeptieren, dass jeder von uns beide Selbstbilder hat
+
+2. Wodurch wird das statische Selbstbild geweckt?
+
+- Scheitern?
+- Kritik?
+- Termine?
+- Meinungsverschiedenheiten?
+
+3. Verstehen, was das statische Selbstbild mit uns anstellt
+
+- Wer ist dieses Ich?
+- Wie heißt es?
+- Welche Gefühle und Gedanken weckt es?
+- Zu welchen Handlungen stiftet es uns an?
+- Wie wirkt es sich auf die Menschen in unserer Umgebung aus?
+
+4. Statisches Ich erziehen und einladen das dynamische Selbstbild mitzugehen
+
+Wir können uns dafür täglich fragen welche Chancen sich heute bieten, um etwas zu lernen und zu wachsen.
+
+Wann, wo und wie werde ich den Plan umsetzen?
+
+Was muss ich tun, um das Erreichte beizubehalten und weiterzuwachsen?
+
+5. Im Idealfall lernen wir, auch anderen auf ihrem Weg zu helfen
+
+[Mindset](https://www.goodreads.com/book/show/40745.Mindset)
 
 ## Rollen
 
@@ -117,6 +141,8 @@ Alles, was uns im Leben passiert, kann unserem Wachstum dienen. Der Herausforder
 Der Mentor hilft dem Schöpfer seine Vision umzusetzen und zu finden. Sie glauben daran, dass der Schöpfer in der Lage ist sein Ziel zu erreichen und ermutigen ihn.
 
 Er behandelt alle als Schöpfer und geht davon aus, dass alle dazu in der Lage sind sich selbst zu helfen.
+
+[The Power of TED](https://www.goodreads.com/book/show/6327715-the-power-of-ted)
 
 ## Prinzipien
 

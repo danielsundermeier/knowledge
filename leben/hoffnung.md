@@ -1,7 +1,7 @@
 # Hoffnung
 
-1. Die Zunkunft wird besser als unsere Gegenwart
-2. Wir haben die Macht das zu erreichen
+1. Unsere Zunkunft wird besser als unsere Gegenwart
+2. Wir haben die Fähigkeiten das zu erreichen
 
 ## Ziele
 
@@ -74,6 +74,53 @@ Wir haben eine Minute Zeit, um uns zu unterhalten.
 Was rät uns unser Zukunfts-Ich? Was sollten wir tun?
 
 Schreib es auf und dann tu es.
+
+## Tagträumen
+
+Es gibt drei Arten, wie wir uns unsere Zukunft vorstellen können.
+
+### Fantasieren
+
+Alles ist perfekt und es gibt keine Probleme.
+
+### Sorgen
+
+Alles ist schlecht und nichts funktioniert
+
+### Hoffen
+
+Eine Kombination der beiden anderen Arten. Eine realistische Vorstellung der Zukunft. Wir freuen uns auf eine spannende Zukunft, erknennen aber auch, dass es Rückschläge und Hindernisse geben wird.
+
+[Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
+
+## Visionen
+
+Uns eine bessere Zukunft vorstellen zu können, ist die grundlegende Fähigkeit, um Hoffnung zu haben.
+
+Wir sollten diese Fähigkeit trainieren und entwickeln, indem wir uns immer wieder unsere Zukunft vorstellen.
+
+[Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
+
+
+## Odysseus-Verträge
+
+Die Sirenen haben ihren Gesang an jede Person angepasst, damit sie das Lied hören, was für sie am bedeutensten ist.
+
+Wir sollten herausfinden, wie die Sirenen uns verführen.
+
+Adam Grant schlägt vor 12 verschiedene zu finden, damit wir uns wirklich anstrengen müssen. Da es zum Ende schwieriger wird, haben wir den Eindruck, dass es nicht so schlimm ist.
+
+Das Gegenteil ist bei Dankbarkeit der Fall. Dort sollten wir nur drei Dinge aufschreiben, damit wir den Eindruck haben, dass es einfach war.
+
+Nachdem wir unsere Schwächen gefunden haben, sollten wir vorab festlegen, was wur tun, wenn wir die Sirenen singen hören.
+
+Eine gute Möglichkeit dazu sind Implementation Intentions.
+
+Wenn ..., dann ... . 
+
+Wenn ich die Sirenen von ____________ singen höre, mache ich ____________.
+
+[Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
 
 ## Bücher
 

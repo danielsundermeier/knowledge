@@ -87,6 +87,14 @@ So mache ich die größten Fortschritte und arbeite nicht an den kleinen Dingen,
 - Obstacle
 - Plan -> [Gewohnheiten](./gewohnheiten.md)
 
+## Wo und Wann
+
+Wenn wir uns einen Ort und eine Zeit für eine Aufgabe überlegen ist es doppel so wahrscheinlich, dass wir die Aufgabe tatsächlich ausführen, als wenn wir es nicht vorher festlegen.
+
+Das schöne an Systemen/Gewohnheiten ist, dass wir dauerhaft wissen, wann und wo wir etwas ausführen wollen. 
+
+[Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
+
 ## 21 Schritte
 
 ### Entfesseln Sie ihr Potenzial

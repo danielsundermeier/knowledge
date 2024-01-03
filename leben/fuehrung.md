@@ -43,6 +43,18 @@ Wenn sie wissen, dass wir wirklich an ihnen interessiert sind und ihnen helfen w
 
 Es geht nicht um kurzfritigen Erfolg, sondern um den Charakter, den wir entwickeln. Mit jeder Entscheidung beeinflussen wir zu welcher Art von Person wir werden.
 
+## Hoffnung
+
+In einer Studie wurden Angestellte gefragt, wie sehr ihre Vorgesetzen sie inspirieren.
+
+Nur 1% der Mitarbeiter von Führungskräften, denen es nicht gelungen ist Hoffnung zu verbreiten, waren in ihrem Beruf engagiert.
+
+Bei den Mitarbeitern der anderen Führungskräfte waren es 69%.
+
+Sie punkten mit einem hohen Maß an Engagement und Begeisterung für ihre Arbeit.
+
+[Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

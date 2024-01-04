@@ -123,6 +123,18 @@ Alles, was uns heute passiert ist in unserem besten Interesse und eine Gelegenhe
 
 [Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
 
+## Was ist die Gelegenheit
+
+Wenn wir auf ein Hindernis stoßen können wir dankbar sein, dass es uns nicht schlimmer geht und dann das gute in der Situation suchen. Was können wir daraus lernen.
+
+Es ist ein zweistufiger Prozess, den wir bei jeder Gelegenehit üben können.
+
+Wir können auch mit "Perfekt" oder "Gut" auf jede Situation reagieren und dann handeln.
+
+Alles ist neutral, erst unser Denken gibt eine Wertung ab. So können wir es leichter akzeptieren.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

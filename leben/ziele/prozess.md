@@ -103,6 +103,18 @@ Es geht immer nur darum, wer wir werden. Kurzfristige Ziele sind nicht so entsch
 
 Wir bauen immer an unserem eigenen Haus.
 
+## Anstrengung und Einstellung
+
+> "The only things in life you completely control are your actions and your thoughts." - Darrin Donnelly
+
+Wir sollten uns nur auf die Dinge konzentrieren, die wir beeinflussen können. Das sind unsere Handlungen und unsere Einstellung.
+
+Das ist auch die oberste Regel im Stoizismus. 
+
+Wenn wir uns über etwas Sorgen machen, können wir uns fragen, ob wir Einfluss darauf haben oder nicht. Wenn die Antwort "Nein" ist, sollten wir uns direkt auf etwas konzentrieren, das wir ändern können.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

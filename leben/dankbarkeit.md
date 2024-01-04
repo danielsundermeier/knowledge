@@ -38,6 +38,14 @@ Wir können nicht gleichzeitig negative und positive Emotionen empfinden. Wir k�
 
 Wenn wir Groll gegen unser Leben oder jemanden darin verspüren, können wir dieses Gefühl verdrängen, indem wir uns auf all die Dinge konzentrieren, für die wir dankbar sind.
 
+## Entscheide dich dafür, dankbar zu sein
+
+Wir müssen nicht darauf warten etwas zu erreichen, um dankbar zu sein. Wir können uns dazu entscheiden es jetzt zu sein. Wir fühlen uns dadurch besser und sehen das positive in der Welt.
+
+Wenn wir uns besser fühlen, bringen wir bessere Leistung.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

@@ -152,6 +152,24 @@ Sie geben uns in schwierigen Zeiten Halt und wir können uns an ihnen Orientiere
 
 Unsere Prinzipien können unser bestes Ich zum vorschein bringen. Unsere Ziel und Umstände können sich ändern. Wir können unseren Prinzipien aber treu bleiben.
 
+## Selbstbild-Sollwert
+
+> "You can’t consistently perform in a way that is inconsistent with your self-image. This means you can’t outperform your self-image—at least, not for very long. In the long run, whatever you believe about yourself becomes reality" - Darrin Donnelly
+
+Wir werden niemals unser Selbstbild übertreffen.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Hören Sie nicht auf sich selbst – sprechen Sie mit sich selbst
+
+> "the point of self-talk isn’t to deceive yourself, the point is to direct yourself" - Darrin Donnelly
+
+Wir sollten uns sagen, was als nächstes passieren soll, anstatt darüber nachzudenken, was bereits passiert ist.
+
+Das, worauf wir uns am meisten konzentriert, kommt meist auch zustande. Wir wollen durch unser Selbstgespräch unseren Fokus auf die Gedanken, Handlungen und Ergebnisse lenken, die wir wollen, und nicht auf das, was wir nicht wollen
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

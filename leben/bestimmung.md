@@ -69,6 +69,54 @@ Das Meistern einer Tätigkeit ist eine Belohnung in sich selbst.
 
 Die Fragen, die uns am wichtigesten sind, können uns aufschluss darüber geben, was wir mit unserem Leben anfangen wollen.
 
+## Erfahrungen
+
+Unsere Fantasien und Ziele sind nur Vermutungen oder Annahmen.
+
+Wenn wir uns vorstellen ein Resultat zu erreichen, stellen wir uns die Erfahrung vor, die wir dadurch haben wollen.
+
+Es geht um ein Gefühl und eine Erfarhung und nicht um ein konkretes Ziel.
+
+Wenn wir uns einen Ziel verschreiben, ohne zu wissen welche Erfahrungen wir machen wollen, können wir uns immer noch leer fühlen, wenn wir das Ziel erreichen.
+
+Ohne bewusst zu wissen welche Erfahrungen wir machen wollen, kreieren wir wahrscheinlich eine Version von Erfolg, die sich bedeutungslos anfühlt.
+
+Wir würden uns dann immmer noch unzufrieden fühlen, obwohl wir alle unsere (vermeintlichen) Ziele erreicht haben.
+
+Wir wollen uns frei und lebendig fühlen, gebliebt werden und mit uns im Reinen sein.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Wofür spielen wir wirklich?
+
+Um das herauszufinden, können wir alle unsere Ziele auf die linke Seite auf einem Blatt Papier schreiben. 
+
+Auf die rechte Seite schreiben wir dann das Gefühl, was wir uns davon versprechen.
+
+| Ergebnisse | Gefühle |
+| ---------- | ------- |
+| 10.000.000 € | Entspannt, frei |
+| Unternehmer | stolz, zufrieden |
+| Mehr Zeit mit Kindern | geliebt |
+
+Die Gefühle können in der Regel in vier Bereiche eingeteilt werden:
+
+1. Freiheit
+2. Lebendigkeit
+3. Frieden
+4. Liebe
+
+Wenn wir herausgefunden haben, welche Erfahrungen wir machen wollen, können wir uns gezielt fragen, wie wir sie jetzt schon erleben können.
+
+- Was würde es mir heute ermöglichen, mehr Freiheit zu erfahren?
+- Was würde es mir heute ermöglichen, mehr Lebendigkeit zu erfahren?
+- Was würde es mir heute ermöglichen, mehr Frieden zu erfahren?
+- Was würde es mir heute ermöglichen, mehr Liebe zu erfahren?
+
+Wir können so unser Leben genießen und gleichzeitig die Zukunft aufbauen, die wir uns erträumen.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
 ## Links
 
 - [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)

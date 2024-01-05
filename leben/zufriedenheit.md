@@ -6,6 +6,8 @@ Nichts, was sich wirklich lohnt, ist einfach zu bekommen. Die Schwierigkeit es z
 
 Indem ich Dinge produziere anstatt nur zu konsumieren bin ich zufriedener. Besonders, wenn es schwierig war etwas zu tun.
 
+> "I am convinced that the hedonistic definition of happiness is false, for real happiness necessarily implies difficulties." - Abraham Maslow
+
 Ich glaube etwas Leiden gehört zu einem guten Leben dazu. Dadurch habe ich den Antrieb mein Leben zu verbessern und etwas zu tun. Entscheidend ist, dass ich es mir selbst aussuche. Es ist wichtig herauszufinden, wofür ich bereit bin Opfer zu bringen.
 
 > “human beings need three basic things in order to be content: they need to feel competent at what they do; they need to feel authentic in their lives; and they need to feel connected to others. These values are considered "intrinsic" to human happiness and far outweigh "extrinsic" values such as beauty, money and status.” - [Tribe: On Homecoming and Belonging](https://www.goodreads.com/book/show/40940205-tribe)
@@ -19,6 +21,36 @@ Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 - Immer das Positive in allen Situationen sehen
 
 Niemand ist immer glücklich!
+
+## Aufblühen
+
+Aufblühen bedeutet in der Positiven Psychologie ein erfülltes Leben zu führen. Wir erreichen es, indem wir unsere Stärken zum Wohle anderer einsetzen.
+
+Die Griechen haben es Eudaimonia bezeichnet und es wurde durch Arete erreicht.
+
+In Asien ist es De durch Wu-Wei
+
+Abraham Maslow hat es als Eupsychian bezeichnet.
+
+Es ist also immer wieder ein ähnliches Konzept. Um ein erfülltes Leben zu führen sollten wir versuchen zu unserer besten Version zu werden.
+
+Wir haben jeden Moment die Wahl, ob wir ihr näher kommen oder uns von ihr entfernen.
+
+Je näher wir diesem Ideal an jedem TAg gekommen sind, umso zufriedener fühlen wir uns. 
+
+In dem Abstand zwischen dem, was wir gemacht haben könnten und dem, was wir gemacht haben, is Platz für Reue, Ärger und Unzufriedenheit. Wir wollen ihn also so klein wie möglich halten.
+
+## Selbstverwirklichung
+
+> "What a man can be, he must be." - Abraham Maslow
+
+Wir müssen zu dem werden, der wir sein können. Wir haben ein Bedürfnis nach Selbstverwirklichung. Irgendwann ist es so wichtig wie die Luft zu atmen.
+
+Brian Johnson spricht deshalb von Soul Oxygen.
+
+Wir haben alle eine Aufgabe zu erfüllen und können nicht davor weglaufen.
+
+[Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)
 
 ## Perma
 
@@ -286,6 +318,10 @@ Als die Verfassung von Amerika geschrieben wurde hat das Wort "Pursuit" so viel 
 Zufriedenheit war also nciht etwas hinter dem wir herjagen, sondern was wir jeden Tag praktizieren sollten.
 
 Das gelingt uns, indem wir kleine Optimierungen integrieren und ein wenig mehr in Integrität mit unserem höchsten Selbst leben. Wir arbeiten an unserem Glück, so wie ein Meister an seinem Handwerk gearbeitet hat.
+
+## Bücher
+
+- [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)
 
 ## Links
 

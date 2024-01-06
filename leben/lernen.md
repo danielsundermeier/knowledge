@@ -94,6 +94,18 @@ Wenn wir nicht bereit sind Feedback zu empfangen, werden wir auch nie gut darin 
 
 Feedback zu geben und darum zu bitten hat mit Lernen und Wachstum zu tun. Zu verstehen, wer wir sind und wie wir auf die Menschen in unserer Umgebung reagieren ist die Grundlage für diesen Prozess.
 
+### Lernen und Tun
+
+Etwas zu lernen und etwas zu Tun sind unterschiedliche Dinge.
+
+Nur weil es unangenehm ist etwas zu lernen, heißt es nicht, dass es auch unangenehm bleibt, wenn wir es können.
+
+Fahrradfahren zu lernen ist unangenehm, Fahrradfahren zu können nicht.
+
+Es wird besser, wenn wir durch den Lernprozess sind.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
 ## Links
 
 - [Taschenhirn](https://www.taschenhirn.de/)

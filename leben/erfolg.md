@@ -94,6 +94,12 @@ Wir wollen nicht im ungebindet im Glecihgewicht sein, wir wollen uns zufrieden f
 
 Wir können nicht alles, haben, das wollen wir in der Regel auch nicht. Wir können uns sehr zufrieden fühlen, wenn wir herausfinden, was wir wirklich wollen.
 
+## 0,300 Trefferquote
+
+Im Baseball wird kommen wir in die Hall of Fame, wenn wir eine Trefferquote von 0,3 haben. Es ist unglaublich gut. Mit 3/10 Treffern gehören wir zu den Besten.
+
+Wenn wir also das nächste mal einen Fehler machen, können wir uns an die Baseballer erinnern und nicht so hart zu uns sein. Fehler gehören dazu und wir können aus ihnen lernen.
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

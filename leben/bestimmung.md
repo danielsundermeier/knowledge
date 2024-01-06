@@ -117,6 +117,85 @@ Wir können so unser Leben genießen und gleichzeitig die Zukunft aufbauen, die 
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Prioritäten
+
+> "When we don't know what's important, eveything seems important." - Tripp Lanier
+
+## Widerstand
+
+Wenn wir unser Gefühl für Freiheit, Lebendigkeit, Frieden oder Liebe erweitern wollen, müssen wir aus unserer Komfortzone ausbrechen. Das bedeutet wir werden auf Unbehagen, Risiko und Fehler stoßen.
+
+### Competing commitment
+
+Wir fühlen uns zu unserem aktuellen Lebensstil verpflichtet. Deshalb fällt es uns schwer uns für etwas anderes zu entscheiden.
+
+Wir haben das Gefühl, dass die neue Entscheidung unsere Sicherheit, Komfort oder Akzeptanz gefährdet. Das sind aber Ängste aus der Vergangenheit. Sie halten uns in einem Zustand, in dem wir uns ausgelaugt, isoliert, gefangen, überfordert oder gelangweilt fühlen.
+
+Wir sind also unserem Überleben verpflichtet. Dr. Lisa Laskow Lahey nennt es "konkurrierendes Engagement" (competing commitment).
+
+Wir müssen uns also diesen Ängsten stellen.
+
+### Unbehagen
+
+Wenn wir das Unbehagen spüren, denken wir, dass etwas falsch läuft und wir versuchen herauszufinden, was das ist. Anstatt etwas zu tun, versuchen wir den perfekten Plan zu finden, der sich nicht unangenhem anfühlt. Wir kommen nicht ins handeln.
+
+Es kommt von unsere Glauben, dass Unbehagen unnatürlich ist. Dabei erleben wir es beim Sport ständig. Wenn wir uns steigern wollen, wird es ungemütlich.
+
+Das Gleiche gilt auch für den Rest unseres Lebens. Oft sind es dort nur nicht unsere Muskeln, sondern unsere Emotionen die sich unangenehm anfühlen
+
+Es ist der Widersatnd, der uns anzeigt, dass wir aus unserer Komfortzone gegangen sind.
+
+Wir können einen optimalen Punkt für uns finden, an dem das Unbehagen auszuhalten ist, wir aber gleichzeitig Fortschritte machen. Wir müssen uns nicht mal fragen woher der Widerstand kommt. Wir können uns stattdessen fragen, was der nächste Schritt ist und ihn machen.o
+
+### Alles wird auseinanderfallen
+
+Wir haben große Pläne und reden uns ein dafür alles andere aufgeben zu müssen.
+
+Wir müssen nichts dramatischen oder rücksichtslosen tun. In der Regel ist der nächste Schritt klein und banal.
+
+Wir reden uns ein einen riesigen Drachen erschlagen zu müssen. Normalerweise ist es aber nur eine ungemütliche Unterhaltung, Anruf oder Aufgabe.
+
+Wenn wir denken, dass wir erst unseren Job kündigen oder eine Menge Geld auf dem Konto haben müssen, um zu starten, können wir uns vorstellen, dass wir schon an dem Punkt sind und uns fragen, was wir dann tun würden.
+
+Was wir wahrscheinlich sehen werden ist, dass wir die Bedingungen nicht erfüllen müssen, sondern wir heute schon damit anfangen können.
+
+### Nicht der Richitge Zeitpunkt
+
+Wir haben das Gefühl, dass wir nicht bereit sind. Wir waren auf die Motivation, das Selbstvertrauen und die Erfahrung, um anzufangen. 
+
+Diese Gefühle entstehen aber est, wenn wir etwas tun.
+
+### Keine Zeit/Geld/Kraft
+
+Wir reden uns ein, dass wir nicht genug Ressourcen haben, um unseren Traum unzusetzen.
+
+Wenn wir es aber wirklich wollen, finden wir einen Weg.
+
+Was ist in unsere Situation möglich? Wer kann helfen?
+
+### Ich weiß nicht, was ich tun soll
+
+Die Aussage sollte eher lauten: "Ich weiß nicht, was ich tun soll, dass nicht furcheinflößend oder risikoreich oder mich nicht blöd aussehen lässt.".
+
+Wir machen uns etwas vor, wenn wir denken, dass das Sammlen von Informationen so viel bringt, wie etwas auszuprobieren.
+
+Wir lernen aus unseren Erfahrungen. Versuch und Irrtum sind der Weg zum Erfolg.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Authentisches Selbst
+
+> "Within our core self is an indelible blueprint of unrivaled individuality—the singular being that each of us exists to express." - Michael Bernard Beckwith
+
+Niemand kann für uns einspringen. Wir sollten daher unsere inneren Stimme vertrauen und auf sie hören.
+
+- [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
+
+## Bücher
+
+- [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+- [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
+
 ## Links
 
 - [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)

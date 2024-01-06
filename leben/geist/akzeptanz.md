@@ -123,7 +123,7 @@ Alles, was uns heute passiert ist in unserem besten Interesse und eine Gelegenhe
 
 [Loving What Is](https://www.goodreads.com/book/show/9762.Loving_What_Is)
 
-## Was ist die Gelegenheit
+## Was ist die Gelegenheit?
 
 Wenn wir auf ein Hindernis stoßen können wir dankbar sein, dass es uns nicht schlimmer geht und dann das gute in der Situation suchen. Was können wir daraus lernen.
 

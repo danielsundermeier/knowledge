@@ -150,7 +150,7 @@ Ich plane meine Tage am Abend davor.
 
 Ich gebe mir aber immer die Option stattdessen Nichts zu tun und mich aufs Sofa zu legen.
 
-Wenn ich mich dafür entscheide gibt es nur eins von zwei Ergebnissen:
+Wenn ich mich dafür entscheide, gibt es nur eins von zwei Ergebnissen:
 
 1. Ich bin wirklich erschöpft oder müde und brauche die Erholung
 2. Ich entscheide mich recht schnell doch die Aufgabe zu machen, weil es besser ist irgendetwas zu tun, als nur rumzusitzen

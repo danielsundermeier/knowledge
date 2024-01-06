@@ -1,6 +1,8 @@
 # Mastery
 
-Warum sind manche Menschen so unglaubloch gut in was sie tun? 
+Warum sind manche Menschen so unglaublich gut in was sie tun? 
+
+> "We fail to realize that mastery is not about perfection. It’s about a process, a journey. The master is the one who stays on the path day after day, year after year. The master is the one who is willing to try, and fail, and try again, for as long as he or she lives." - George Leonard
 
 ## Die Gabe
 
@@ -74,6 +76,8 @@ Der Trainierende Mensch.
 
 > "We all aspire to mastery, but the path is always long and sometimes rocky, and it promises no quick pay off. So we look for other paths, each of which attracts a different person." - George Leonard 
 
+Es gibt neben dem Pfad der Mastery noch drei weitere.
+
 ### Dilletant
 
 Wir vertiefen und eine Zeit lang wirklich in etwas und lieben die schnellen Ergebnisse, aber sobald sie ausbleiben und die Dinge nicht so funktioneren,  wie wir uns das vorstellen, verlieren wir die Lust und beschäftigen uns mit etwas Neuem und Aufregendem.
@@ -86,6 +90,12 @@ Wir wollen immer in allem von Anfang an gut sein und immer mehr Gas geben, ohne 
 
 Sobald wir herausgefunden haben, wie etwas funktionert, reicht es uns und wir bleiben auf dem Plateau.
 
+## Fleiß
+
+> "How do you best move toward mastery? To put it simply, you practice diligently, but you practice primarily for the sake of the practice itself." - George Leonard
+
+Auf dem Weg zur Meisterschaft geht es jedoch nicht um das Hochgefühl, das wir nach einem Motivationsseminar oder am Anfang verspüren. Es geht darum, immer wieder aufzutauchen und zu üben. Wir meistern etwas, indem wir fleißig, geduldig und beharrlich an die Sache herangehen.
+
 ## Plateaus
 
 Auf dem Pfad zur Exzellenz werden wir Plateaus haben. Nach einem großen Fortschritt scheint es einfach nicht weiterzugehen. Wenn wir aber weiter dem Prozess folgen, werden wir uns wieder verbessern.
@@ -97,6 +107,8 @@ Es sind tausende Stunden von sorgfältigem und gezieltem Training nötig, um wir
 In den meisten Filmen, Geschichten und auf Social Media gibt es einen Durchbruch nach dem anderen. Die langen Zeiten in denen nichts passiert, werden nicht gezeigt. 
 
 Das erweckt den Eindruck, dass etwas mit uns nicht stimmt, wenn es nicht stetig weiter geht. Wir suchen dann nach einem Trick, der uns schneller ans Ziel bringt.
+
+Auf einem PLateau haben wir die Chance die in der subtilere Freude schwelgen zu können unser bestes zu geben.
 
 > "Goals and contingencies, as I’ve said, are important. But they exist in the future and the past, beyond the pale of the sensory realm. Practice, the path of mastery, exists only in the present. You can see it, hear it, smell it, feel it. To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplishment, then serenely to accept the new plateau that waits just beyond them. To love the plateau is to love what is most essential and enduring in your life." - George Leonard
 

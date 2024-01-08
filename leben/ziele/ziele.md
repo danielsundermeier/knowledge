@@ -199,6 +199,30 @@ Wir müssen auch weitermachen, wenn der Enthusiasmus mit der wir den Entschluss 
 
 [Goals!](https://www.goodreads.com/book/show/113935.Goals_)
 
+## Die Verzögerung
+
+Es gibt immer eine Verzögerung zwischen Ursache und Wirkung. Je größer unser Ziel ist, umso länger die Verzögerung.
+
+Die einzigen Dinge, die uns weitermachen lassen sind:
+
+1. Selbstvertrauen
+2. Verlockungen zu widerstehen
+3. täglicher, fleißiger, dringender Fortschritt
+
+[Die Empty](https://www.goodreads.com/book/show/16158560-die-empty)
+
+## Schritt, Sprint und Dehnung
+
+Es gibt drei Arten von Zielen:
+
+1. Schritt: sehr kurz, oft täglich
+2. Sprint: 1-2 Wochen
+3. Dehnung: Langfristige Ziele
+
+Sie bauen aufeinander auf. um unser langfristiges Ziel zu erreichen, haben wir mehrere Sprint-Ziele, die wiederum aus Schritt-Zielen bestehen.
+
+[Die Empty](https://www.goodreads.com/book/show/16158560-die-empty)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -121,68 +121,6 @@ Wir können so unser Leben genießen und gleichzeitig die Zukunft aufbauen, die 
 
 > "When we don't know what's important, eveything seems important." - Tripp Lanier
 
-## Widerstand
-
-Wenn wir unser Gefühl für Freiheit, Lebendigkeit, Frieden oder Liebe erweitern wollen, müssen wir aus unserer Komfortzone ausbrechen. Das bedeutet wir werden auf Unbehagen, Risiko und Fehler stoßen.
-
-### Competing commitment
-
-Wir fühlen uns zu unserem aktuellen Lebensstil verpflichtet. Deshalb fällt es uns schwer uns für etwas anderes zu entscheiden.
-
-Wir haben das Gefühl, dass die neue Entscheidung unsere Sicherheit, Komfort oder Akzeptanz gefährdet. Das sind aber Ängste aus der Vergangenheit. Sie halten uns in einem Zustand, in dem wir uns ausgelaugt, isoliert, gefangen, überfordert oder gelangweilt fühlen.
-
-Wir sind also unserem Überleben verpflichtet. Dr. Lisa Laskow Lahey nennt es "konkurrierendes Engagement" (competing commitment).
-
-Wir müssen uns also diesen Ängsten stellen.
-
-### Unbehagen
-
-Wenn wir das Unbehagen spüren, denken wir, dass etwas falsch läuft und wir versuchen herauszufinden, was das ist. Anstatt etwas zu tun, versuchen wir den perfekten Plan zu finden, der sich nicht unangenhem anfühlt. Wir kommen nicht ins handeln.
-
-Es kommt von unsere Glauben, dass Unbehagen unnatürlich ist. Dabei erleben wir es beim Sport ständig. Wenn wir uns steigern wollen, wird es ungemütlich.
-
-Das Gleiche gilt auch für den Rest unseres Lebens. Oft sind es dort nur nicht unsere Muskeln, sondern unsere Emotionen die sich unangenehm anfühlen
-
-Es ist der Widersatnd, der uns anzeigt, dass wir aus unserer Komfortzone gegangen sind.
-
-Wir können einen optimalen Punkt für uns finden, an dem das Unbehagen auszuhalten ist, wir aber gleichzeitig Fortschritte machen. Wir müssen uns nicht mal fragen woher der Widerstand kommt. Wir können uns stattdessen fragen, was der nächste Schritt ist und ihn machen.o
-
-### Alles wird auseinanderfallen
-
-Wir haben große Pläne und reden uns ein dafür alles andere aufgeben zu müssen.
-
-Wir müssen nichts dramatischen oder rücksichtslosen tun. In der Regel ist der nächste Schritt klein und banal.
-
-Wir reden uns ein einen riesigen Drachen erschlagen zu müssen. Normalerweise ist es aber nur eine ungemütliche Unterhaltung, Anruf oder Aufgabe.
-
-Wenn wir denken, dass wir erst unseren Job kündigen oder eine Menge Geld auf dem Konto haben müssen, um zu starten, können wir uns vorstellen, dass wir schon an dem Punkt sind und uns fragen, was wir dann tun würden.
-
-Was wir wahrscheinlich sehen werden ist, dass wir die Bedingungen nicht erfüllen müssen, sondern wir heute schon damit anfangen können.
-
-### Nicht der Richitge Zeitpunkt
-
-Wir haben das Gefühl, dass wir nicht bereit sind. Wir waren auf die Motivation, das Selbstvertrauen und die Erfahrung, um anzufangen. 
-
-Diese Gefühle entstehen aber est, wenn wir etwas tun.
-
-### Keine Zeit/Geld/Kraft
-
-Wir reden uns ein, dass wir nicht genug Ressourcen haben, um unseren Traum unzusetzen.
-
-Wenn wir es aber wirklich wollen, finden wir einen Weg.
-
-Was ist in unsere Situation möglich? Wer kann helfen?
-
-### Ich weiß nicht, was ich tun soll
-
-Die Aussage sollte eher lauten: "Ich weiß nicht, was ich tun soll, dass nicht furcheinflößend oder risikoreich oder mich nicht blöd aussehen lässt.".
-
-Wir machen uns etwas vor, wenn wir denken, dass das Sammlen von Informationen so viel bringt, wie etwas auszuprobieren.
-
-Wir lernen aus unseren Erfahrungen. Versuch und Irrtum sind der Weg zum Erfolg.
-
-[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
-
 ## Authentisches Selbst
 
 > "Within our core self is an indelible blueprint of unrivaled individuality—the singular being that each of us exists to express." - Michael Bernard Beckwith
@@ -190,6 +128,80 @@ Wir lernen aus unseren Erfahrungen. Versuch und Irrtum sind der Weg zum Erfolg.
 Niemand kann für uns einspringen. Wir sollten daher unsere inneren Stimme vertrauen und auf sie hören.
 
 - [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
+
+## Innere Autorität
+
+Als Säugling konnten wir nur schreien, wenn wir uns unwohl gefühlt haben. Unser Eltern mussten dann herausfinden, was wir wollten. Wir hatten keine Autorität. Wir konnten uns nur beschweren und jemand anderes hat sich gekümmert.
+
+Wenn wir erwachsen werden, sollten wir diese Rolle selbst übernehemn. Wir sollten aufhören uns zu beschweren und jemand anderes für unser Glück verantwortlich zu machen.
+
+1. Herausfinden, was wir wollen
+2. Verantwortung übernehmen und uns selbst darum kümmern
+
+Obwohl das schwer ist, ist es keine Belastung, sondern gibt uns Kraft.
+
+Erwachsen zu werden beudeutet unser eigener Verbündeter zu werden. Wir hören mit dem Beschweren auf und übernehmen die volle Verantwortung für unsere Erfahrungen.
+
+Wir geben anderen nicht die Schuld, sondern arbeiten mit ihnen an Lösungen.
+
+- Wir stellen uns unseren Herausforderungen und laufen nicht vor ihnen davon
+- Wir können uns beim Beschweren und Meckern ertappen und uns fragen, was wir wollen
+- Wir können uns den Raum und die Erlaubnis geben unsere Wünsche gegenüber uns selbst auszudrücken, ohne auszuflippen oder sie zu bewerten
+- Wir können lernen unsere negativen Gefühle als Informationen zu betachten, um herauszufinden, was wir wollen
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Offenlegung
+
+Wir haben Angst, dass wenn wir zugeben, wenn auch nur uns selbst, was wir wirklich wollen, dass alles außer Kontrolle gerät.
+
+Wir denken direkt an das schlimmste Szenario.
+
+Uns selbst die Eerlaubnis zu geben herauszufinden, was wir wollen gibt uns inneren Frieden. Wir können das Verlangen erstmal einfach sein lassen. Wir werden dann feststellen, dass es gar nicht so rücksichtslos und schlimm ist, wie befürchtet.
+
+Für den Angang können wir einfach festhalten, dass wir gerade in diesem Moment etwas wollen. Es kann sich morgen schon wieder ändern. Wir können es wie einen normalen Gedanken sehen.
+
+Dafür kann ein Tagebuch sehr hilfreich sein.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Verantwortung übernehmen
+
+Wir müssen uns nicht mit den Optionen zufredengeben, die auf dem Menu des Leben stehen. Wir können unsere eigenen erschaffen. Wir könne so leben, als würden wir den Koch persönlich kennen.
+
+- Wenn uns unsere Ausbildung nicht gefällt, können wir unseren eigenen Lehrplan entwickeln
+- Wir können uns um neue Aufgaben in unserem Beruf bemühen
+- Wir können Alternativen vorschlagen, wenn es in der Beziehung langweilig wird
+
+Wir können lernen Verantwortung zu übernehmen, wie alle anderen Fähigkeiten auch. Wir können klein anfangen und ein Spiel daraus machen.
+
+- In einem Restaurant nach Lebensmittel für den Einkauf fragen
+- Die eigenen Gebühren verdoppel
+- Hotels und Fluggesellschaften nach kostenlosen Upgrades fragen
+- Fremde Menschen fragen, ob sie gemeinsam ein Selfie machen wollen
+
+Nachdem wir unsere Ängste konfrontiert haben und mutig nach dem fragen, was wir wollen, lernen wir drei Dinge
+
+### Meistens ist die Antwort "Ja"
+
+- Die meisten helfen gerne, weil es auch ihren Tag interessanter gestaltet.
+- Es ist inspirierend mit Menschen zu interagieren, die wissen, was sie wollen.
+
+Das Reaktionen sind augenöffnent, weil wir oft niemandem zum Last fallen wollen.
+
+### Energiegeladen
+
+Wir fühlen und energiegeladen, weil wir aus Erfahrung lernen, dass die Welt anders ist, als unsere Ängste und glauben lassen wollen
+
+Wir erkennen, dass es mehr Möglichkeiten als Begrenzungen gibt.
+
+### Trainig
+
+Wir trainieren uns selbst die Spannung und die unangenehmen Gefühle auszuhalten, wenn wir am Rande unserer Komfortzone sind.
+
+Wenn wir jeden Tag ein "Nein" hören, werden wir überrascht sein, wie stark wir werden.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
 ## Bücher
 

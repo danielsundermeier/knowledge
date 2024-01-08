@@ -94,11 +94,21 @@ Wir wollen nicht im ungebindet im Glecihgewicht sein, wir wollen uns zufrieden f
 
 Wir können nicht alles, haben, das wollen wir in der Regel auch nicht. Wir können uns sehr zufrieden fühlen, wenn wir herausfinden, was wir wirklich wollen.
 
-## 0,300 Trefferquote
+## Optionen erweitern
 
-Im Baseball wird kommen wir in die Hall of Fame, wenn wir eine Trefferquote von 0,3 haben. Es ist unglaublich gut. Mit 3/10 Treffern gehören wir zu den Besten.
+Oft spielen wir, um nicht zu verlieren. Wir schränken uns und unsere Optionen damit ein.
 
-Wenn wir also das nächste mal einen Fehler machen, können wir uns an die Baseballer erinnern und nicht so hart zu uns sein. Fehler gehören dazu und wir können aus ihnen lernen.
+Wir konzentrieren uns nur auf die Dinge, von denen wir denken, dass wir sie sicher erreichen können. Wir denken zu klein.
+
+Wir wollen uns also immer wieder daran erinnern, dass wir viel mehr erreichen können, wenn wir das Unbehagen aushalten können.
+
+Wir konzentrieren uns dann aud die Dinge, die wirklich wichtig sind. Wir tolerieren nicht mehr alles und sprechen aus, was wir denken.
+
+Wir arbeiten an den Dingen, die wir wollen, anstatt davon auszugehen, dass wir sie nicht haben können.
+
+Wir lernen unsere Bedürfnisse wirklich zu befriedigen.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
 ## Links
 
@@ -124,3 +134,4 @@ Wenn wir also das nächste mal einen Fehler machen, können wir uns an die Baseb
 - [Raise Your Game](https://www.goodreads.com/book/show/40776006-raise-your-game)
 - [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)

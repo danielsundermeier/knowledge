@@ -12,7 +12,7 @@ Mit einer festen Denkweise steht unser Selbstwertgefühl bei allem, was wir tun,
 
 -> Sich selbst bestätigen
 
-## Dynamisches
+## Dynamisches Selbstbild
 
 - Fähigkeiten und Talente können entwicket werden
 - Das Potenzial eines Menschen ist unvorhersehbar
@@ -169,6 +169,36 @@ Wir sollten uns sagen, was als nächstes passieren soll, anstatt darüber nachzu
 Das, worauf wir uns am meisten konzentriert, kommt meist auch zustande. Wir wollen durch unser Selbstgespräch unseren Fokus auf die Gedanken, Handlungen und Ergebnisse lenken, die wir wollen, und nicht auf das, was wir nicht wollen
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Über die Erfolge sprechen
+
+> "Do you really want to know? Do you want to know how I got nines? That will not help you. You don’t want to know how I got two nines. What you should be asking is how I got fifty-eight tens. Besides, I can’t remember how I got the nines. I do not reinforce bad shots by remembering them." - Lanny Bassham
+
+Die besten Quaterbacks haben das schlchteste Erinnerungsvermögen. Sie vergessen ihre Fehler direkt wieder. Dadurch lassen sie sich nicht davon beeinflussen.
+
+Wenn wir uns nur an unsere Erfolge erinnern, steigern wir die Chance sie zu wiederholen.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Proben
+
+> "You can imagine far more than you currently can achieve. If you consistently rehearse what you want to achieve, what you imagine can become reality." - Lanny Bassham
+
+Wir können uns wieder uns wieder ausmalen, wie wir unsere Erfolge erzielen. Wichtig ist dabei, dass wir uns den Prozess vorstellen, nicht das Ergebnis. Wir wollen uns genau vorstellen, was wir tun.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Prägung
+
+Unser Selbstbild hält uns in unserer Komfortzone und bestimmt unsere Leistungsfähigkeit. Es fällt uns schwer aus ihr auszubrechen.
+
+Wir können unser Selbstbild aber durch Prägungen ändern und somit auch unsere Leistung.
+
+Wir müssen damit aufhören die schlechten Dinge zu verstärken und stattdessen die Guten feiern.
+
+Unser aktuelles Selbstbild wurde über viele Jahre geprägt. Deshlab brauchen wir tonnenweise positive Prägungen, um etwas zu verändern.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
 ## Bücher
 

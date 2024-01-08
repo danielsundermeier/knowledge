@@ -115,6 +115,14 @@ Wenn wir uns über etwas Sorgen machen, können wir uns fragen, ob wir Einfluss 
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
 
+## Habe ich gewonnen?
+
+Der Golfer Ben Crane hat sich so sehr auf den Prozess konzentriert, dass er nicht gemerkt hat, dass er das Turnier gewonnen hat. Erst als seine Frau auf ihn zugelaufen kam, hat er etwas gemerkt. Er hat sie gefragt: "Habe ich gewonnen?"
+
+Das zeigt uns, dass wir uns so sehr auf den Prozess konzentrieren können, dass wir nicht mal merken, wenn wir mit dem nächsten Schlag $1.000.000 gewinnen könnten.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

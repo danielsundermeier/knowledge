@@ -1,0 +1,22 @@
+# Gefühle
+
+## Warnsignal
+
+Manchmal verlieren wir uns in den Ergebnissen und hören nicht auch unsere Gefühle. Wir sind so sehr auf die Menge an Geld, das Gewicht oder Dinge, die wir kaufen wollen, finxiert, dass wir die Erfahrungen vergessen.
+
+Wenn wir über den Seitenstreifen fahren ist das laut und unangenehm. Es ist absichtlich so, damit wir merken, dass wir von der Straße abkommen.
+
+Die gleiche Funktion haben unsere Gefühle. Wenn wir uns gelangweilt, gefangen, ausgelaugt, isoliert oder gestresst fühlen, sind das Warnzeichen, dass etwas nicht stimmt.
+
+Wir sollten sie nicht betäuben oder uns ablenken. Es sind wertvolle Informationen, dass etwas nicht stimmt.
+
+Stattdessen sollten wir in uns gehen und herausfinden, was nicht stimmt. Wir können die Gefühle aushalten.
+
+- Wenn ich mich gefangen fühle, was würde mich heute freier fühlen lassen?
+- Wenn ich mich ausgelaugt fühle, was würde mich heute lebendiger fühlen lassen?
+- Wenn ich mich einsam fühle, was würde mich heute verbindener und geliebter fühlen lassen?
+- Wenn ich mich gelangweilt oder gestresst fühle, was würde mich heute ausgeglichener fühlen lassen?
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Bücher

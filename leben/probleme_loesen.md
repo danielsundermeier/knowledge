@@ -1,3 +1,4 @@
+
 # Probleme lösen
 
 Wenn ich auf Anhieb keine gute Lösung für ein Problem finde, werde ich es erstmal zurückstellen und weiter drüber nachdenken. Meistens fällt mir eine gute Lösung ein, wenn ich über das Problem geschlafen habe, wenn ich mich vorher intensiv damit befasst habe.
@@ -63,6 +64,26 @@ Bevor ich etwas mache, möchte ich es im Detail aufschreiben. Dadurch werden mir
 ## Tools
 
 - [untools](https://untools.co/)
+
+## Beschweren löst keine Probleme
+
+Egal wie sehr wir uns beschweren, es wird das Problem nicht lösen.
+
+Wenn wir uns dabei erwischen, können wir uns fragen:
+
+"Wenn ich XYZ nicht mag, was möchte ich stattdessen?"
+
+Das bringt uns dazu in einen anderen Modus zu wechslen. Wir übernehmen Verantwortung.
+
+Wir können die Frage weiter spezifizieren, damit die Antwort klarer wird:
+
+- Was würde ich wollen, wenn ich wüsste, dass es einfach und spaßig ist?
+- Was würde ich wollen, wenn ich wüsste, dass ich weder Geld, Zeit oder Energie verschwenden würde?
+- Was würde ich wollen, wenn ich wüsste, dass niemand verletzt oder verägert sein würde?
+- Was würde ich wollen, wenn ich wüsste, dass niemand mich für verrückt hält?
+- Was würde ich wollen, wenn ich nicht so viel Angst hätte es zu vermasseln?
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
 ## Zitate
 

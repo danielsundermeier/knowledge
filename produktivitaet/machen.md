@@ -54,6 +54,24 @@ In einer Studie wurden Stundenten in zwei Gruppen eingeteilt. Eine wurde nach de
 
 > "Whether you’re generating or evaluating new ideas the best you can do is measure success on the kind of yardstick that batters use in baseball. As Randy Komisar puts it, ‘If I’m hitting .300, I’m a genius. That’s because the future cannot be predicted. The sooner you learn it, the sooner you can be good at it." - Adam Grant
 
+## Heute ist der Tag
+
+Wir können uns vorstellen, dass uns ein Reporter verfolgt und unsere Tätigkeiten dokumentiert. Er schreibt dann ein Buch über unser Leben basierend auf diesem Tag.
+
+Was wüdren wir anders machen, wenn wir wüssten, dass morgen dieser Tag ist?
+
+Wir würden wahrscheinlich versuchen alles so gut wie möglich zu machen. Wir würden uns auf das konzentrieren, was wichtig ist und uns vorbildlich verhalten.
+
+Wie schneidet unser tatsächliches Verhalten dagegen ab?
+
+Warum verhalten wir uns nicht imemr so?
+
+Wir selbst beobachten jeden unserer Schritte und erfassen unser Verhalten. Jede unserer Entscheidungen prägt unsere Persönlichkeit.
+
+Wie sieht unser idealer Tag aus?
+
+[Die Empty](https://www.goodreads.com/book/show/16158560-die-empty)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

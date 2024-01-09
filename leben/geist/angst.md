@@ -47,7 +47,29 @@ Anschließend finden wir heraus, was wir befürchten, indem wir sie in dem Satz 
 
 Auch hier können wir wieder so viele Punkte aufführen, wie uns einfallen.
 
+Wenn wir damit fertig sind, gehen wir die Antworten durch
 
+- Was ist wahr?
+- Was sind Annahmen?
+- Was ist sehr unwahrscheinlich?
+
+Wir gehen oft davon aus, dass das schlimmste Szenario sofort eintreten wird, wenn wir eine Entscheidugn treffen.
+
+Oft vergessen wir, dass dafür sehrviele Dinge schief gehen müssen und wir immer die Möglichkeit haben einzugreifen.
+
+> "Ok. I'm scared. I'm going to do some breating. I'm going to go for a walk. I'going to talk to. a friend. And then I'm going to figure out how to respond powerfully" - Tripp Lanier
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Game Over
+
+Wir denken oft, dass vieles in unserem Leben final ist. Wir haben nur diese eine Chance. Wenn das nicht klappt heißt es game over.
+
+Wenn wir denken, dass wir nur einen Versuch haben, gehen wir die wichtigsten Bereiche unseres Lebens mit einer starren und engstirnigen Denkweise an.
+
+Wenn wir in diese Falle tappen, haben wir vergessen, dass wir nicht hinter dem Ergebnis, sondern der Erfahrung her sind.
+
+Sobald wir erkennen, dass es nicht um das Ergebnis geht, öffnen sich uns viele neue Pfade, um unser Ziel zu erreichen.
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 

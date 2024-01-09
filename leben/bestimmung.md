@@ -195,7 +195,7 @@ Wir fühlen und energiegeladen, weil wir aus Erfahrung lernen, dass die Welt and
 
 Wir erkennen, dass es mehr Möglichkeiten als Begrenzungen gibt.
 
-### Trainig
+### Training
 
 Wir trainieren uns selbst die Spannung und die unangenehmen Gefühle auszuhalten, wenn wir am Rande unserer Komfortzone sind.
 

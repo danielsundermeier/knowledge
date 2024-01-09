@@ -72,6 +72,24 @@ Wie sieht unser idealer Tag aus?
 
 [Die Empty](https://www.goodreads.com/book/show/16158560-die-empty)
 
+## Spaß
+
+Was würde das spaßig machen?
+
+Die Frage können wir uns bei allem stellen, dass uns gefangen, gelangweilt, überwältigt oder gestresst fühlen lässt.
+
+Nur weil etwas für eine Person auf eine bestimmte Art funktioniert hat, muss es nicht für uns funktioneren. 
+
+Wir setzen uns selbst Grenzen, weil wir denken, dass Dinge auf eine gewissen Art erledigt werden müssen. Das ist aber nicht der Fall.
+
+Wir können uns für jede Situation die Erlaubmis erteilen so viele ausgefallene Ideen wie möglich aufschreiben. 
+
+Wir sollten mindestens 20 Ideen pro Situation aufschreiben, um unseren Ideen-Muskel zu traineiren und eine davon umsetzen. 
+
+Es hilft uns aus unserem Trott auszubrechen. Wir merken dadurch, wie gut es tun kann verspielt zu sein.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

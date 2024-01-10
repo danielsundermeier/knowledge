@@ -90,6 +90,14 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 
 - [Programming for kids](https://github.com/jackdoe/programming-for-kids)
 
+## Weise Erziehung
+
+Weise Eltern sind warmherzig und fordernd. Sie haben hohe Standards, unterstützen ihre Kinder aber auch.
+
+Das Wichtigeste ist aber, was wir unseren Kindern vorleben.
+
+[Grit](https://www.goodreads.com/book/show/27213329-grit)
+
 ## Links
 
 - [Is the Western way of raising kids weird?](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children)

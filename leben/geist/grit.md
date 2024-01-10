@@ -4,16 +4,22 @@ Grit = Begeisterung + Ausdauer
 
 Angela Dukworth hat herausgefunden, dass eine Kombination aus Begeisterung und langfristigem Durchhaltevermögen über den Erfolg entscheidet.
 
-Erfolg = Fähigkeiten * Einsatz
 Fähigkeiten = Talent * Einsatz
+Erfolg = Fähigkeiten * Einsatz
 
 Einsatz zählt doppelt.
+
+Mastery = Erfolg * Einsatz
+
+Der Grit Wert, der mit 10 einfachen Fragen herausgefunden werden kann, hat vorrausgesagt, wer die ersten harten Wochen der Aufnahme in West Point übersteht.
 
 ## Passion
 
 Wir müssen uns zu etwas hingezogen fühlen. Ansonsten fällt es uns schwer den erforderlichen Einsatz zu zeigen.
 
 Wir brauchen aber "Kompass Leidenschaft". Sie muss uns über Jahrzehnte begleiten und darf nicht so schnell verpuffen wie ein Feuerwerk.
+
+Menschen mit Grit laufen nicht vielen unterschiedlichen Zielen hinter, sondern haben ein Ziel, dass über allem steht.
 
 ## Practice
 

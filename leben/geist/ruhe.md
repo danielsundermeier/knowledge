@@ -34,6 +34,16 @@ So können wir sehr viel erreichen und gleichzeitig nicht ausbrennen.
 
 [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)
 
+## Digitale Sabbaticals
+
+Die meisten von uns machen eine Pause von Technologie und Unterhaltung, um konzentriert zu arbeiten.
+
+Was wir aber eigentlich wollen ist eine Pause von der konzentrierten Arbeit, um Technologien zu nutzen.
+
+> "Don’t take breaks from distraction. Instead take breaks from focus." - Cal Newport
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

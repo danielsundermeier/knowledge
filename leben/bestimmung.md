@@ -1,5 +1,7 @@
 # Bestimmung
 
+> "No one can tell you what is right for you except for yourself. So start telling yourself what to do. If you blunder for ten years while thinking for yourself, that is rich treasure when compared with living these ten years under the mental domination of another. The only true, honest and enriching authority is the internal authority of your own Supermind." - Vernon Howard
+
 ## Ziel
 
 Herausfinden, was ich mit meinem Leben machen möchte

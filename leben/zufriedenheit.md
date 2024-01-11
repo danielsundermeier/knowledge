@@ -22,6 +22,8 @@ Ich habe es selbst in der Hand mein Traumleben zu erschaffen!
 
 Niemand ist immer glücklich!
 
+> "Paradise on earth is to work all day alone in anticipation of an evening in interesting company." - Ian McEwan
+
 ## Aufblühen
 
 Aufblühen bedeutet in der Positiven Psychologie ein erfülltes Leben zu führen. Wir erreichen es, indem wir unsere Stärken zum Wohle anderer einsetzen.
@@ -318,6 +320,40 @@ Als die Verfassung von Amerika geschrieben wurde hat das Wort "Pursuit" so viel 
 Zufriedenheit war also nciht etwas hinter dem wir herjagen, sondern was wir jeden Tag praktizieren sollten.
 
 Das gelingt uns, indem wir kleine Optimierungen integrieren und ein wenig mehr in Integrität mit unserem höchsten Selbst leben. Wir arbeiten an unserem Glück, so wie ein Meister an seinem Handwerk gearbeitet hat.
+
+## Ich, Wir, Alle Dartscheibe
+
+Am Anfang unseres Lebens liegt unser Fokus auf uns selbst. Wir wollen unabhängig sein und unsere Identität aufzubauen. Das motiviert uns eine Zeit lang - bis es das irgendwann nicht mehr tut.
+
+Wir erweitern unseren Kreis dann etwas und gehen vom Ich zum Wir. Wir bauen mit jemand anderem ein Leben auf und gründen vielleicht eine Familie. Das führt zu Zufriedenheit, weil wir und um die Menschen kümmern, die wir lieben.
+
+Irgendwann verliert aber auch das seinen Reiz. Wir versuchen es immer weiter, wir können aber nicht herausfinden, was fehlt.
+
+Es ist dann an der Zeit uns für etwas einzusetzen, das größer als Ich und Wir ist. Es kann Religion, Spiritualität oder eine Gemeinschaft sein.
+
+Unser Drang andere zufriedenstellen zu wollen, kann diesen Weg aber blockieren.
+
+Die Antwort auf alle unsere Ausreden ist: Geh einfach und hilf jemandem.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Sinn finden
+
+Viele von uns haben große Ideen, wie wir die Welt verbessern können. Die wahre Erfüllung finden wir aber dort, wo wir anderen in die Augen schauen können und sehen, dass wir einen Unterschied machen.
+
+Es ist dort, wo wir den Menschen direkt helfen können, die vor ähnlichen Herausforderungen stehen, vor denen wir selbst gestanden haben.
+
+Wir finden die tiefste Zufriedenheit und Motivation indem wir einer Version von uns selbst aus der Vergangenheit helfen.
+
+Wenn wir uns in jemandem wiedererkennen und die Person unterstützen.
+
+> "Simply making it a daily pratice to do one thing that's considerate for a stranger opens us up for great reward - especially if we let go of any expectation the we'll be celebrated in return." - Tripp Lanier
+
+In einem Wort: Liebe.
+
+Wir wollen eine Verbindungen zu anderen.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
 ## Bücher
 

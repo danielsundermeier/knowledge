@@ -55,6 +55,36 @@ Sie punkten mit einem hohen Maß an Engagement und Begeisterung für ihre Arbeit
 
 [Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
 
+## Inneres Arbeitsleben
+
+> "The secret is creating the conditions for great inner work life—the conditions that foster positive emotions, strong internal motivation, and favorable perceptions of colleagues and the work itself. Great inner work life is about the work, not the accoutrements. It starts with giving people something meaningful to accomplish, like Google’s mission ‘to organize the world’s information and make it universally accessible and useful.’ It requires giving clear goals, autonomy, help, and resources—what people need to make real progress in their daily work." - Teresa Amabile & Steven Kramer
+
+Es gibt drei Faktoren für ein gutes inneres Arbeitsleben.
+
+1. Fortsschritts-Prinzip
+2. Katalysatoren
+3. Nährstoffe
+
+Das Fortschrittsprinzip ist dabei am wichtigsten.
+
+### Fortschrittsprinzip
+
+Kleine Erfolge bei wichtigen Dingen. Das bloße Ankreuzen von Kästchen bei Dingen, die Sie nicht inspirieren, wird nicht zu dem von uns angestrebten Anstieg des Wohlbefindens führen. 
+
+Durchbrüche, Vorwärtsbewegung. Zielerreichung.
+
+Wir wollen konstanten Fortschritt spüren und fühlen uns dadurch motivierter weiterzumachen.
+
+### Katalysatoren
+
+Katalysatoren helfen einer Person, an einem Projekt zu arbeiten – Dinge wie das Setzen klarer Ziele, genügend Ressourcen, Autonomie und dergleichen.
+
+### Nährstoffe
+
+Nährstoffe sind die zwischenmenschlichen Faktoren, zu denen Respekt, Ermutigung und andere Arten emotionaler Unterstützung gehören.
+
+[The Progress Principle](https://www.goodreads.com/book/show/11721498-the-progress-principle)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

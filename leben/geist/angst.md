@@ -73,6 +73,18 @@ Sobald wir erkennen, dass es nicht um das Ergebnis geht, öffnen sich uns viele 
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Anerkennung
+
+Wir haben Angst davor, was andere über uns denken. Wir wollen anerkannt und geschätzt werden.
+
+Wir können aber viel freier leben, wenn wir uns davon befreien. Wenn wir nicht auf die Anerkennung von anderen angewiesen sind.
+
+> "I let go of any hope that I'll be recognized or appreciated or elevated above other due to anything I do today" - Tripp Lanier
+
+Es schließt den Gedanken, dass wir etwas zu beweisen haben, kurz. Das führt dazu, dass wir Entscheidungen für uns treffen können.
+
+[This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

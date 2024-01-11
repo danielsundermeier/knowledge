@@ -114,6 +114,22 @@ Vor dem Schlafengehen nutze ich keine elektronischen Geräte mehr.
 
 Es sind die Trigger und Routinen einer Gewohnheit.
 
+## Fortschrittsprinzip
+
+> "Our research inside companies revealed that the best way to motivate people, day in and day out, is by facilitating progress—even small wins." - Teresa Amabile & Steven Kramer
+
+Kleine Erfolge sind der Schlüssel zur Motivation. Wir können uns selbst kleine Meilesteine setzen und große Ziele in viele kleine Schritte aufteilen. So haben wir den ganzen Tag über immer wieder etwas zu feiern.
+
+Es müssen aber Fortschritte bei Dingen sein, die uns etwas bedeuten.
+
+Wir setzen dadurch eine Fortsschrittsschleife in Gang.
+
+Das Fortschrittsprinzip verstärkt das innere Arbeitsleben. Das führt zu weiterem Fortschritt. Es ist eine positive Rückkopplungsschleife. 
+
+Um diese Energie zu nutzen, müssen wir dafür sorgen, dass wir konstante Fortschritte erzielen können.
+
+[The Progress Principle](https://www.goodreads.com/book/show/11721498-the-progress-principle)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

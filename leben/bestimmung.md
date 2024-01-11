@@ -169,7 +169,7 @@ Dafür kann ein Tagebuch sehr hilfreich sein.
 
 ## Verantwortung übernehmen
 
-Wir müssen uns nicht mit den Optionen zufredengeben, die auf dem Menu des Leben stehen. Wir können unsere eigenen erschaffen. Wir könne so leben, als würden wir den Koch persönlich kennen.
+Wir müssen uns nicht mit den Optionen zufriedengeben, die auf dem Menu des Leben stehen. Wir können unsere eigenen erschaffen. Wir könne so leben, als würden wir den Koch persönlich kennen.
 
 - Wenn uns unsere Ausbildung nicht gefällt, können wir unseren eigenen Lehrplan entwickeln
 - Wir können uns um neue Aufgaben in unserem Beruf bemühen

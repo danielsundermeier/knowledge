@@ -2,6 +2,8 @@
 
 > "No one can tell you what is right for you except for yourself. So start telling yourself what to do. If you blunder for ten years while thinking for yourself, that is rich treasure when compared with living these ten years under the mental domination of another. The only true, honest and enriching authority is the internal authority of your own Supermind." - Vernon Howard
 
+> "Purpose is a stable and generalized intention to accomplish something both meaningful to the self and of consequence to the world beyond the self." - William Damon
+
 ## Ziel
 
 Herausfinden, was ich mit meinem Leben machen möchte
@@ -205,10 +207,51 @@ Wenn wir jeden Tag ein "Nein" hören, werden wir überrascht sein, wie stark wir
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Edler Zweck
+
+Wir müssen für unsere Bestimmung nicht unbedingt mit Drachen kämpfen. Wir müssen nicht die Welt retten. Edle Zwecke können auch in den alltäglichen Dingen gefunden werden.
+
+- Eltern, die ich Kind großziehen
+- Ein Lehrer, der einem Schüler etwas beibringen
+- Ein Arzt, der Patienten heilt
+
+[Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+
+## Edle Zwecke pflegen
+
+Wie kultivieren wir edle Ziele in unserem Leben?
+
+Der erste Schrit ist zu wissen, warim wir einen Zweck haben sollten. Er gibt unserem Leben einen Sinn und trägt maßgeblich zu einem erfüllten Leben bei.
+
+Der Autor gibt noch neune weitere Tipps
+
+- Es ist nie zu früh, ein Leben mit Sinn zu beginnen – und es ist nie zu spät
+- Obwohl der Zweck überall ist, lässt er sich am leichtesten an vertrauten Orten finden
+- Nach Mentoren umschauen, die edles Verhalten und im Dienste guter Zwcke sind
+- Unterstützung von Gleichgesinnten
+- Auf Ernüchterungen gefasst sein
+- Bodenständig bleiben
+- Sicherstellen, dass der Zweck edel bleibt, indem wir nicht nur die Ziele im Auge behalten, sondern auch die Mittel, wie wir sie erreichen
+- Zweck feiern und dankbar für ihn sein
+- Junge Menschen für den Zweck begeistern
+
+[Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+
+## Bestimmungs-Formel
+
+Wir alle haben einen indiwiduellen Zweck. Er besteht aus drei Bereichen
+
+1. Unseren Fähigkeiten
+2. Bedarf der Welt an den Diensten, die unsere Fähigkeiten bieten
+3. Freude der Gemeinschaft zu dienen
+
+[Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 - [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
+- [Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
 
 ## Links
 

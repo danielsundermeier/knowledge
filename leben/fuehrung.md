@@ -61,7 +61,7 @@ Sie punkten mit einem hohen Maß an Engagement und Begeisterung für ihre Arbeit
 
 Es gibt drei Faktoren für ein gutes inneres Arbeitsleben.
 
-1. Fortsschritts-Prinzip
+1. Fortsschrittsprinzip
 2. Katalysatoren
 3. Nährstoffe
 
@@ -79,9 +79,30 @@ Wir wollen konstanten Fortschritt spüren und fühlen uns dadurch motivierter we
 
 Katalysatoren helfen einer Person, an einem Projekt zu arbeiten – Dinge wie das Setzen klarer Ziele, genügend Ressourcen, Autonomie und dergleichen.
 
+Es gibt 7 Katalysatoren
+
+1. Klare Ziele setzen
+2. Autonomie ermöglichen
+3. Bereitstellung von Ressourcen
+4. Genügend Zeit – aber nicht zu viel
+5. Hilfe bei der Arbeit
+6. Aus Problemen und Erfolgen lernen
+7. Ideen fließen lassen
+
 ### Nährstoffe
 
 Nährstoffe sind die zwischenmenschlichen Faktoren, zu denen Respekt, Ermutigung und andere Arten emotionaler Unterstützung gehören.
+
+Es gibt 4 Nährstoffe
+
+1. Respekt
+2. Ermutigung
+3. Emotionale Unterstützung
+4. Zugehörigkeit
+
+## Fortschrittscheckliste
+
+Die Autoren empfehlen eine Checkliste am Abend durchzugehen, um unsere Erfolge zu feiern und aus unseren Rückschlägen zu lernen.
 
 [The Progress Principle](https://www.goodreads.com/book/show/11721498-the-progress-principle)
 

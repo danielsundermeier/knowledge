@@ -355,6 +355,18 @@ Wir wollen eine Verbindungen zu anderen.
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Was wahres Glück bringt
+
+> "The paradox is that hard and often thankless effort in service of a noble purpose, with little thought of personal gain, is a surer path to happiness than the eager pursuit of happiness for its own sake. Self-indulgence simply does not work. We end up feeling empty and resentful and not at all indulged, because we have failed to satisfy our truest and deepest desires: the universal yearning for a life with meaning." - William Damon
+
+Wir denken, dass all die glänzenden Dinge, die uns das Leben entgegenwirft, uns glücklich machen werden – der Strandkörper + das riesige Haus + unsere Gesichter auf den Titelseiten jeder Zeitschrift.
+
+Aber leider bringen uns diese extrinsischen Erfolgsindikatoren einfach kein nachhaltiges Glück.
+
+Wie uns Viktor Frankl sagt: Streben Sie nicht nach Glück; Verpflichten Sie sich lieber zu etwas, das größer ist als Sie selbst, und lassen Sie zu, dass das Glück hinter Ihnen herjagt.
+
+[Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

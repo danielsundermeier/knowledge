@@ -82,6 +82,18 @@ Ich kann diese Veränderungen sogar vererben.
     + Dynamik aufbauen
     + Nicht die Maximalziele als Anforderung setzen
 
+## Die 5% Lösung
+
+Wir können und nicht über nacht verändern oder auf Anhieb alles lösen.
+
+Wenn wir aber in kleineren Schirtten denken, fallen uns leichter Lösungen ein.
+
+- Wenn ich 5% mehr Verantwortung für mein Leben übernehem würde...
+- Wenn ich ein 5% besserer Elternteil wäre...
+
+Wir können alles 5% besser machen. Aber etwas komplett zu verändern wirkt beängstigend.
+
+[Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
 
 ## Links
 

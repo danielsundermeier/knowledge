@@ -110,6 +110,46 @@ Wir lernen unsere Bedürfnisse wirklich zu befriedigen.
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Selbstbewusstsein
+
+Die wichtigste Fähigkeit, die wir haben müssen, um erfolgreich zu sein ist Selbstbewusstsein.
+
+Das beinhaltet zu wissen:
+
+- Wer wir sind
+- Was wir können
+- Was wir nicht können
+- Woher unser Wert kommt
+- Wo wir uns verbessern sollten
+
+Wir müssen wissen, wo unsere Stärken liegen und wie wir sie nutzen können.
+
+Es ist wichtig unser Ist-Zustand zu kennen, um uns auf den Weg zu der Person machen zu können, die wir sein wollen.
+
+[Raise Your Game](https://www.goodreads.com/book/show/40776006)
+
+## Konzentration auf Stärken
+
+> "find the one thing you do better than anyone else and continue to pour into that" - Alan Stein Jr.
+
+Wir brauchen Selbstbewusstsein, um unsere Stärken zu kennen. Dann sollten wir uns voll auf sie konzentrieren.
+
+So können wir uns unbezahlbar machen: Wir machen etwas, was niemand sonst kann. Spezialisierung ist der Weg zum Erfolg.
+
+Wenn wir unsere Stärken einsetzen, sind wir viel engagierter.
+
+Wenn wir nicht die Gelegenheit dazu haben, fühlen wir uns verschwendet und ziehen uns zurück.
+
+[Raise Your Game](https://www.goodreads.com/book/show/40776006)
+
+## Die steuerbaren Dinge kontrollieren
+
+Wir können nur unsere Leistung und Einstellung komplett kontrollieren. Wir sollten uns darauf konzentrieren. Alles andere ist Verschwendung von Energie und Zeit.
+
+Wir haben keine Kontrolle über andere Menschen und nur bedingt über Ergebnisse. Uns darüber aufzuregen oder zu beschweren bringt uns nicht weiter.
+
+[Raise Your Game](https://www.goodreads.com/book/show/40776006)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
@@ -135,3 +175,4 @@ Wir lernen unsere Bedürfnisse wirklich zu befriedigen.
 - [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+- [Raise Your Game](https://www.goodreads.com/book/show/40776006)

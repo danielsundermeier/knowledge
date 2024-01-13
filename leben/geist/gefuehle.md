@@ -19,4 +19,10 @@ Stattdessen sollten wir in uns gehen und herausfinden, was nicht stimmt. Wir kö
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Emotional voll engagiert sein
+
+Um uns emotional voll und ganz zu engagieren, müssen wir in der Lage sein, Gegensätze zu wahren und das volle Spektrum unserer Emotionen auszuleben. Tatsächlich ist die Fähigkeit, widersprüchliche Gefühle zu hegen, ein Zeichen für einen gesunden Menschen.
+
+[The Power of Full Engagement](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)
+
 ## Bücher

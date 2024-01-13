@@ -4,6 +4,8 @@ Warum sind manche Menschen so unglaublich gut in was sie tun?
 
 > "We fail to realize that mastery is not about perfection. It’s about a process, a journey. The master is the one who stays on the path day after day, year after year. The master is the one who is willing to try, and fail, and try again, for as long as he or she lives." - George Leonard
 
+> "The world wakes up from something so much better than it needs to be. That’s when the flash of astonishment goes up and down our spine." - Steve Chandler
+
 ## Die Gabe
 
 Diese Menschen haben eine Gabe. Sie haben ihre Fähigkeiten durch spezielles Training, das Veränderungen im Gehirn und im Körper vorantreibt erlangt.

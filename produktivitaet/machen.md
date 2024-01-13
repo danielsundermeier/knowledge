@@ -90,6 +90,16 @@ Es hilft uns aus unserem Trott auszubrechen. Wir merken dadurch, wie gut es tun 
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Arambhashura
+
+Das Phänomen, mit enormer Begeisterung anzufangen und dann kurz darauf aufzugeben, ist ein so alltäglicher Teil der Menschheit, dass sie vor Tausenden von Jahren tatsächlich ein Sanskrit-Word dafür erfunden haben.
+
+Arambhashura = Am Anfang ein Held sein.
+
+Gerade bei den Neujahrsvorsätzen kommt es zum Tragen. Wir nehmen uns fest vor etwas zu ändern und im Februar haben wir sie schon wieder vergessen.
+
+[The Second Mountain](https://www.goodreads.com/book/show/40642458-the-second-mountain)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

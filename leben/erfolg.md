@@ -150,6 +150,22 @@ Wir haben keine Kontrolle über andere Menschen und nur bedingt über Ergebnisse
 
 [Raise Your Game](https://www.goodreads.com/book/show/40776006)
 
+## Systeme sind perfekt
+
+Jedes System ist perfekt. Jedes System liefert uns genau die Ergebnisse, die wir von diesem System erwarten sollten. Wenn wir also bessere Ergebnisse erzielen möchten, ist die Lösung erschreckend (und verblüffend) einfach: Wir erstellen ein besseres System, das uns die gewünschten Ergebnisse liefert.
+
+[Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
+
+## Experimente scheitern nie
+
+> "Experiments never fail because when you are experimenting you are just as eager to find out what doesn’t work as what does. Whatever you find out helps you grow. There is no failure in that." - Steve Chandler
+
+Wir sollten experimentieren! Dann sehen wir, was tatsächlich funktioniert und was nicht. Es sind alles neutrale Daten. Wir testen, lernen, wachsen.
+
+Wir müssen auch aufhören, unser Gehirn einfach nur mit neuen Informationen zu füllen. Wir müssen die Ideen auf unser Leben anwenden und uns dabei transformieren.
+
+[Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

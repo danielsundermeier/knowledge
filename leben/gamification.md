@@ -14,6 +14,18 @@
 
 -> Gamificatition für das Leben umsetzen
 
+## Zuckerbrot und Peitsche
+
+Es ist viel besser ein Spiel aus unseren Aufgaben zu machen und Spaß daran zu haben, als uns slebst zu bestrafen.
+
+Ein Delfintrainer belohnt das Tier mit einem kleinen Fisch, wenn er durch den Reifen springt. Dadurch wird es zu einem Spiel und dem Delfin gefällt es.
+
+Es würde nichts bringen den Delfin dafür zu bestrafen, wenn er nicht durch den Reifen springt.
+
+Wie können wir den heutgen Tag zu einem Spiel machen?
+
+[Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
+
 ## Bücher
 
 - [Actionable Gamification](https://www.goodreads.com/book/show/25416321-actionable-gamification)

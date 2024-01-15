@@ -31,6 +31,8 @@ Irgendwann passiert das gewünschte Verhalten "automatisch". Dann kann ich mich 
 
 Wichtig ist, dass ich alle meine [Gewohnheiten](./gewohnheiten.md) weiter umsetzte, auch wenn ich mich gerade nicht aktiv damit befasse, damit ich mindestens auf dem erreichten Stand bleibe.
 
+> "What if my job as a coach isn’t so much to force or coerce performance as it is to create situations where players develop the confidence to set their talents free and pursue their potential to its full extent? What if my job as a coach is really to prove to these kids how good they already are, how good they could possibly become, and that they are truly capable of high-level performance?" - Pete Carroll
+
 ## Vorgehen
 
 Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas Gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.
@@ -94,6 +96,22 @@ Wenn wir aber in kleineren Schirtten denken, fallen uns leichter Lösungen ein.
 Wir können alles 5% besser machen. Aber etwas komplett zu verändern wirkt beängstigend.
 
 [Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
+
+## Für immer gewinnen
+
+> "At the base of the Win Forever pyramid, the foundation is the philosophy. I collected all of the things that I believed were important in my life and in football and from that I derived the philosophy for Win Forever. What Win Forever means to me is aspiring to be the best you can be, or as I like to refer to it, “maximizing your potential.” But Winning Forever is not about the final score; it’s about competing and striving to be the best. If you are in this pursuit, then you’re already winning."
+
+Es geht nicht um das Ergebns, sondern darum, dass wir immer unser bestes geben und jede Gelegenheit nutzen, um unserem Potenzial näher zu kommen.
+
+[Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
+
+## Übung ist alles
+
+Coach Wooden hat sich nicht auf das Gewinnen von Meisterschaften konzentriert, sondern nur darauf das heutige Training zu meistern. Wenn wir genug üben, kann das Spiel kommen.
+
+> "When I was teaching basketball, I urged my players to try their hardest to improve on that very day, to make that practice a masterpiece." - John Wooden
+
+[Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 
 ## Links
 

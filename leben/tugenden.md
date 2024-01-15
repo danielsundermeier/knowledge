@@ -43,6 +43,14 @@ Aristotle hat das schon vor 2.500 Jahren erkannt und es als die Goldene Mitte be
 
 [The Power of Character Strengths](https://www.goodreads.com/book/show/44526819-the-power-of-character-strengths)
 
+## Die einzigen, die es tun
+
+> "The best performers, whether athletes, entertainers, or anybody else trying to do anything well, are the ones who aren’t trying to win by playing someone else’s game. Each person is made up of a unique combination of strengths, weaknesses, abilities, and talents, and any one of us can only truly maximize our potential in the context of that individual makeup. That’s why it doesn’t make sense to think about competition in the context of any one opponent: If you are really in a Win Forever mind-set, the only comparison that matters is yourself. Your goal should be to maximize your potential and your performance as a permanent way of being, rather than just in terms of individual victories."
+
+Wir wolllen nicht gewinnen, indem wir das Spiel von jemand anderem spielen. Wir wollen einzigartig sein in dem, was wir tun.
+
+[Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

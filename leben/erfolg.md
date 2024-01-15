@@ -84,6 +84,8 @@ Wir erreichen den Erfolg mit kleinen stetigen Verbesserungen über einen langen 
 
 > "John, chopping wood and carrying water is the price of admission for the opportunity to reach sustained excellence. Like the roots of a bamboo tree, it is a long and arduous process of invisible growth, where you are building the foundation that is necessary to sustain success. For many years it might feel as if nothing is happening, but you must trust the process and continue to chop wood and carry water, day in day out, regardless of what is happening around you. There will be distractions. There will be people who tell you that you are stupid or crazy for doing it. There will be people who try and lure you off the path with quick fixes and get rich quick schemes. But you must be wise and stay the path, and continue to build your foundation by chopping wood and carrying water every day. Greatness isn’t sexy John, it is the dirty, hard work that is often very boring. You have a bright future. Stay the path, and never forget --" - [Chop Wood Carry Water](https://www.goodreads.com/book/show/28405277-chop-wood-carry-water)
 
+> "The process of self-discovery that was necessary to formulate my vision, and the power of having a philosophy has given me a confidence I didn’t have before. One of the keys to success lies in knowing and believing in yourself. When you are confident and you trust in who you are, you can perform to the best of your ability, and that is exactly what I plan to do. Whether you are coaching the USC Trojans or the Seattle Seahawks, working at your job or running a household, all you should ever strive for is to be the best you can be . . . and that is the essence of what it means to Win Forever." - Pete Carroll
+
 ## Aus dem Gleichgewicht
 
 Wenn wir der beste in etwas werden wollen, müssen wir uns voll darauf konzentrieren, zumindest für eine Zeit. 
@@ -165,6 +167,18 @@ Wir sollten experimentieren! Dann sehen wir, was tatsächlich funktioniert und w
 Wir müssen auch aufhören, unser Gehirn einfach nur mit neuen Informationen zu füllen. Wir müssen die Ideen auf unser Leben anwenden und uns dabei transformieren.
 
 [Crazy Good](https://www.goodreads.com/book/show/27036684-crazy-good)
+
+## Unsere eigene Erfolgsphilosophie
+
+John Wooden, der erfolgreichste Trainer des 20. Jahrhunderts, war 16 Jahre Trainer bei UCLA, bis er seinen ersten Titel gewonnen hat. Davor hat er schon einige Jahre mehr als Trainer gearbeitet.
+
+In unserer Gesellschaft des statischen Selbstbildes denken wir, dass wir entweder zum Erfolg geboren sind oder nicht. Das ist aber nie so. Erfolg braucht seine Zeit.
+
+Es hat lange gedauert, aber als er seine eigene Erfolgsphilosophie gefunden hat, war er nicht mehr aufzuhalten und hat 10/12 Meisterschaften gewonnen.
+
+Das Gleiche trifft auch auf uns zu. Wir müssen herausfinden, wie wir Erfolg haben können und was es für uns bedeutet. Dann sind auch wir nicht mehr aufzuhalten.
+
+[Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 
 ## Links
 

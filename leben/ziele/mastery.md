@@ -6,6 +6,8 @@ Warum sind manche Menschen so unglaublich gut in was sie tun?
 
 > "The world wakes up from something so much better than it needs to be. That’s when the flash of astonishment goes up and down our spine." - Steve Chandler
 
+> "There is one single thread binding my way together… the way of the Master consists in doing one’s best… that is all." - Confucius
+
 ## Die Gabe
 
 Diese Menschen haben eine Gabe. Sie haben ihre Fähigkeiten durch spezielles Training, das Veränderungen im Gehirn und im Körper vorantreibt erlangt.

@@ -181,6 +181,18 @@ Wenn Mut das Wichtigste ist, was wir für uns selbst tun können, um unser eudai
 
 Wir sollten sicherstellen, dass wir die Perspektive der anderen Person verstehen und nicht nur darauf achten, dass wir verstanden werden.
 
+## Anerkennung von Verdiensten
+
+> "The Master said, (the good man) does not grieve that other people do not recognize his merits. His only anxiety is lest he should fail to recognize theirs." - Confucius
+
+## Reaktionen auf andere Menschen
+
+Wenn wir jemanden sehen, der etwas gutes tut oder darstellt, können wir uns für ihn freuen und darüber nachdenken, wie wir lernen können ihm ebenbürtig zu sein.
+
+Wenn wir jemanden sehen, der etwas negatives tut oder darstellt können wir ihm Mitgefühl schicken, unsere eigene Unvollkomenheit akzeptieren und es als Anlass nehmen uns erneut dazu zu verpflichten mit den höchsten Werten zu leben.
+
+[The Analects of Confucius](https://www.goodreads.com/book/show/11353178-the-analects-of-confucius)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

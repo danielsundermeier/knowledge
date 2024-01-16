@@ -166,6 +166,14 @@ Wert Wert ergibt sich aus dem, was wir bin, nicht aus dem, was wir tun.
 
 Wir brauchen etwas, das uns nicht weggenommen werden kann. Da kommt die Spiritualität ins Spiel.
 
+## Zustände vs. Merkmale
+
+Es ist recht einfach in einem Zustand zu sein, indem wir uns mit unserem besten Selbst verbunden fühlen. Oft verlässt uns dieser Zustand aber auch schnell wieder.
+
+Wir wollen diesen Zustand aber kultivieren und zu einem Merkmal machen. Das geht aber nur mit harter Arbeit über einen langen Zeitraum.
+
+Ken Wilber
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

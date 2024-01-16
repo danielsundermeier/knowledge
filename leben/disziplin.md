@@ -18,7 +18,7 @@ Wir können uns dafür entscheiden uns eine bessere Reaktion zu überlegen.
 
 ## Expansive
 
-Wir haben jeden Moment die Möglichkeit einen Schritt in Richtung Wachstum zu gehen und einen Schritt zurück in die Sicherheit zu machen.
+Wir haben jeden Moment die Möglichkeit einen Schritt in Richtung Wachstum zu gehen oder einen Schritt zurück in die Sicherheit zu machen.
 
 Je öfter wir uns für das Wachstum entscheiden, umso besser fühlen wir uns.
 

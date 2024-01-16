@@ -430,6 +430,16 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - Bewusst tun, nicht automatisch, um zu merken, dass ich es nicht tun möchte
     + Beispiel: Bewusst rauchen -> Man stellt fest, dass es nicht gut schmeckt ([A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4))
 
+## B = MAT
+
+Verhalten = Motivation + Fähigkeit + Auslöser
+
+Auslöser können zum Beispiel Mitteilungen auf unserem Handy sein. 
+
+Wir können uns folgende Frage stellen, wenn wir einem Auslöser begegnen: Dient mir dieser Auslöser, oder diene ich ihm?
+
+[Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

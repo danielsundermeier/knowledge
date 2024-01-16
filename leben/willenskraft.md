@@ -20,3 +20,11 @@
     + Selbstmitgefühl
 
 Es ist schwierig einer Versuchung zu widerstehen. Es ist einfacher nicht in Versuchung zu kommen. Wenn wir etwas nicht essen wollen, sollten wir es nicht kaufen. Es ist schwieriger auf Süßigkeiten zu verzichten, wenn wir wissen, dass wir welche im Haus haben.
+
+## Endlich?
+
+Wenn wir glauben, dass unsere Willenskraft endlich ist, schneiden wir bei Tests nach einer anstrengenden Aufgabe schlechter ab.
+
+Wenn wir aber stattdessen daran glauben, dass uns Herausforderungen mit Energie versorgen schneiden wir besser ab, nachdem wir etwas schwieriges gemacht haben.
+
+[Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

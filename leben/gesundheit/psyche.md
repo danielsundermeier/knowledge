@@ -26,16 +26,6 @@ Wir können damit beginnen morgens und abends jeweils 1% von unserem Tag zu medi
 
 - [Meditation: 12 wissenschaftlich bewiesene Vorteile](https://www.brainperform.de/meditation-vorteile/)
 - [Wie Achtsamkeit wirkt](https://www.spektrum.de/news/meditation-wie-achtsamkeit-wirkt/1940368#Echobox=1640676407)
-    
-## Aufmerksamkeit
-
-- Dinge bewusst machen
-- Keine Ablenkungen
-- Im Moment sein und wahrnehmen
-
-### Links
-
-- [Your attention didn’t collapse. It was stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 
 ## Sonnenschein
 

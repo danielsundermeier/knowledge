@@ -32,6 +32,16 @@ Sich selbst nach jeder Aufgabe Feedback geben:
 
 Wenn wir uns nicht mehr mit anderen vergleichen, können wir uns voll auf uns selbst und unsere Entwicklung konzentrieren. Wir brauchen uns keine Sorgen mehr darüber zu machen, was die anderen denken.
 
+## Euthymia
+
+Seneca spricht in seinen klassischen Essays über Euthymia. Er sagt uns, dass es bei der Euthymia darum geht, sich selbst zu kennen und den Mut zu haben, seinen eigenen authentischen Weg zu gehen.
+
+Es ist ein griechisches Wort, dass mit Seelenruhe übersetzt werden kann.
+
+Es ist das Gefühl, das wir haben, wenn wir uns selbst wirklich vertrauen. Wenn wir wissen, dass wir auf dem richtigen Weg sind und in der Lage sind, uns nicht mehr mit allen anderen zu vergleichen und nicht mehr alle fünf Sekunden über uns selbst nachzudenken.
+
+Um das zu erreichen müssen wir wissen, warum wir tun, was wir tun. Nur dann wissen wir, was Erfolg wirklich für uns bedeutet. Wir lassen und nicht mehr ablenken oder blenden. Wir haben unseren Weg gefunden.
+
 ## Links
 
 - [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)

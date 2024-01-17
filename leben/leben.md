@@ -197,6 +197,16 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 - [This Is The Most Fun Way To Make Your Life Awesome](https://www.bakadesuyo.com/2021/06/life-awesome/)
 - [The Redemptive Self: Stories Americans Live by](https://www.goodreads.com/book/show/766251.The_Redemptive_Self)
 
+## Natur der Realität
+
+- Das Leben beinhaltet Schmerz und Widrigkeiten.
+- Die Zukunft ist ungewiss.
+- Erfolge jeglicher Art erfordern Disziplin.
+- Du bist nichts Besonderes. Ganz gleich, was Sie getan haben, Sie können diesen Aspekten des Lebens nicht aus dem Weg gehen.
+- Das wird sich nie ändern.
+
+[Lessons for Living](https://www.goodreads.com/book/show/161625454-lessons-for-living)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

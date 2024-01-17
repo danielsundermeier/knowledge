@@ -100,6 +100,16 @@ Gerade bei den Neujahrsvorsätzen kommt es zum Tragen. Wir nehmen uns fest vor e
 
 [The Second Mountain](https://www.goodreads.com/book/show/40642458-the-second-mountain)
 
+## Handlungsgesetzt
+
+> "If wisdom is out there, then the only way we can gain it is by taking action. The will is more intelligent than the process of thinking. Let’s say we’re planning to open a doughnut shop. We could spend hundreds of hours debating what percentage of the doughnuts should be chocolate and what percentage should be vanilla. If we take the action of opening the shop, we will learn more about how many of each flavor to make in one day than we could in a year of abstract thinking. The world of doughnut eaters will give us the information we need. To act in the face of the unknown brings up a primal fear in most of us. You can overcome this fear if you learn to look at action in a new way." - Phil Stutz
+
+- Geschwindigkeit: Unser Selbstvertrauen schwindet, je länger wir mit dem Handeln warten
+- Dichte: Dynamische Menschen treffen deutlich mehr Entscheidungen
+- Nächtlicher Rückblick: JEden Abend aufschreiben, was wir heute geschafft haben und was wir für morgen planen
+
+[Lessons for Living](https://www.goodreads.com/book/show/161625454-lessons-for-living)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

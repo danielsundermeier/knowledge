@@ -113,17 +113,17 @@ Es fühlt sich gut an über seine Interessen / Überzeugungen / Ideen zu reden u
     + loben
     + Geschenke
 
-## Liebe
+## 6 Arten der Liebe
 
-Es gibt 6 Arten der Liebe:
-- Eros, or sexual passion
-- Philia, or deep friendship
-- Agape, or love for everyone
-- Pragma, or longstanding love
-- Philautia, or love of the self
-- Ludus, or playful love
+- Eros: Die Leidenschaftliche Liebe
+- Philia: Die Freundschaftliche Liebe
+- Storge: Die Familiäre Liebe
+- Agape: Die Selbstlose Liebe
+- Pragma: Die Beständige Liebe
+- Philautia: Die Selbstliebe
 
-All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) ist sehr unwahrscheinlich. Stattdessen kann man sie auf unterschieldiche Menschen verteilen:
+All diese Arten der Liebe in nur einer Person zu finden (dem perfekten Partner) ist sehr unwahrscheinlich. Stattdessen können wir sie auf unterschieldiche Menschen verteilen:
+
 - Fester Partner
 - Familie
 - Freunde & Bekannte

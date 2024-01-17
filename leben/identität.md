@@ -174,6 +174,12 @@ Wir wollen diesen Zustand aber kultivieren und zu einem Merkmal machen. Das geht
 
 Ken Wilber
 
+## Vorbilder
+
+Wir können uns Vorbilder suchen, die die Werte verkörpern, die wir leben wollen. Wir können uns einen oder mehrere, tote oder lebendige Vorbilder für jeden Lebensbereich suchen.
+
+Bei jeder Stuation können wir und dann fragen, wie sie wohl reagiert hätten.
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

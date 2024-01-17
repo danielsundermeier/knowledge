@@ -150,6 +150,10 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - Autark
 - Platz ist verfügbar
 
+## Finanzierung
+
+- [NRW.Bank](https://www.nrwbank.de/de/privatpersonen/mietwohnraum-schaffen/)
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

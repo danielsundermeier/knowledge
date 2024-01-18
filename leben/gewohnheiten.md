@@ -20,6 +20,8 @@ Ich habe volle Kontrolle über meinen Tag, weil die Grundlagen durch meine Gewoh
 
 Wir alle haben gute und schlechte Tage. Wenn wir herausfinden, was wir tun, um einen guten Tag zu haben, sollten wir daraus Gewohnheiten machen. So können wir alle Tage verbessern.
 
+> "When extraordinary efforts become commonplace, extraordinary results follow." - Mark Divine
+
 ## Ziel
 
 Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewusster erleben kann.

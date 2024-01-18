@@ -180,6 +180,8 @@ Wir können uns Vorbilder suchen, die die Werte verkörpern, die wir leben wolle
 
 Bei jeder Stuation können wir und dann fragen, wie sie wohl reagiert hätten.
 
+Genau wie wir Eigenschaften an uns nicht mögen, die uns bei anderen aufregen, schlummern die Eigenschaften, die wir bei anderen bewundern in uns.
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

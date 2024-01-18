@@ -86,6 +86,19 @@ Gefühlskompass
 
 [How to Quiet Your Mind](http://thinksimplenow.com/clarity/how-to-quiet-your-mind/)
 
+## DIRECT your mind
+
+Wenn wir gelernt haben negative Gedanken zu identifizieren, wollen wir sie ändern.
+
+- Detect: Alles, was nicht dem Ziel dient, erschöpft unsere Energie und wir müssen uns darum kümmern
+- Interdict: Wenn wir einen nagativen oder nutzlosen Gedanken entdecken verbieten wir ihn mit einem "Nein" oder "Stop"
+- Redirect: Wir ersetzen ihn dann durch etwas Nützliches
+- Energize: Wir verfestigen diesen Gedanken mit unserem ganzen Wesen, z.B. Power Posen
+- Communicate: Positive Selbstgespräche
+- Train: Die DIRECT Methode täglich trainieren, wie den Körper
+
+[The Way of the SEAL](https://www.goodreads.com/book/show/17465530-the-way-of-the-seal)
+
 ## Links
 
 - [How the ‘Magic: The Gathering’ Color Wheel Explains Humanity](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)

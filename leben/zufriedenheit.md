@@ -24,6 +24,8 @@ Niemand ist immer glücklich!
 
 > "Paradise on earth is to work all day alone in anticipation of an evening in interesting company." - Ian McEwan
 
+> "Psychologist Tim Kasser shows in his research that time affluence is a consistent predictor of well-being, whereas material affluence is not. Time affluence is the feeling that one has sufficient time to pursue activities that are personally meaningful, to reflect, to engage in leisure." - Tal Ben-Shahar
+
 ## Aufblühen
 
 Aufblühen bedeutet in der Positiven Psychologie ein erfülltes Leben zu führen. Wir erreichen es, indem wir unsere Stärken zum Wohle anderer einsetzen.
@@ -366,6 +368,41 @@ Aber leider bringen uns diese extrinsischen Erfolgsindikatoren einfach kein nach
 Wie uns Viktor Frankl sagt: Streben Sie nicht nach Glück; Verpflichten Sie sich lieber zu etwas, das größer ist als Sie selbst, und lassen Sie zu, dass das Glück hinter Ihnen herjagt.
 
 [Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+
+## Archetypen
+
+- Rat Race Archetype: Das Problem hierbei ist, dass wir uns immer vorwärts drängen, selten Freude an dem haben, was wir tun, und scheinbar nicht verstehen können, warum wir selten dauerhaft glücklich sind.
+- Hedonism Archetype: Keine Ziele, keine langfristige Planung. Einfach das tun, was sich im Moment gut anfühlt. Dieser Lebensstil führt zu Langeweile und Sinnlosigkeit.
+- Nihilism Archetype: Diese Gruppe konzentriert sich auf vergangene Misserfolge beim Erleben von Glück und hat praktisch aufgegeben und das übernommen, was Martin Seligman „erlernte Hilflosigkeit“ nennt.
+- Happiness Archetype: Hier wird uns klar, dass es sich nicht um eine Entweder-Oder-Gleichung handelt. Wie Ben-Shahar sagt: „Beim Glück geht es nicht darum, den Gipfel des Berges zu erreichen, noch geht es darum, ziellos um den Berg herumzuklettern; Glück ist die Erfahrung, dem Gipfel entgegenzusteigen.
+
+[Happier](https://www.goodreads.com/book/show/302971.Happier)
+
+## Die ultimative Währung
+
+> "A human being, like a business, makes profits and suffers losses. For a human being, however, the ultimate currency is not money, nor is it any external measure, such as fame, fortune, or power. The ultimate currency for a human being is happiness." - Tal Ben-Shahar
+
+Wenn wir das verstehen, wird uns bewusster, dass all die anderen Dinge (Reichtum, Prestige, gute Beziehungen usw.) nur Mittel zum Zweck sind. Wir können unser Leben so strukturieren, dass wir glücklich sind.
+
+[Happier](https://www.goodreads.com/book/show/302971.Happier)
+
+## Rituale
+
+Wir sollten feste Rituale für Dinge haben, die uns glücklich machen.
+
+Wir sollten auch feste Ritale haben die Dinge nicht zu tun, die uns unglücklich machen. Zum Beispiel eine tägliche internetfreie Zeit.
+
+Wie bei allen Veränderungen sollten darauf achten, dass wir nicht zu viele gleichzeitig angehen sollten. Immer eins nach dem anderen.
+
+[Happier](https://www.goodreads.com/book/show/302971.Happier)
+
+## 110 Jahre altes Ich
+
+Wir können uns vorstellen als 110-jähriger in einer Zeitmaschine zu unserem jetzigen Ich zu reisen.
+
+Was würden wir uns selbst raten? Was würden wir sagen, wenn wir uns treffen?
+
+[Happier](https://www.goodreads.com/book/show/302971.Happier)
 
 ## Bücher
 

@@ -223,6 +223,18 @@ Sie bauen aufeinander auf. um unser langfristiges Ziel zu erreichen, haben wir m
 
 [Die Empty](https://www.goodreads.com/book/show/16158560-die-empty)
 
+## Front-sight Focus
+
+Wir sollten immer nur genau ein Ziel haben und es erreichen. Erst dann machen wir mit dem nächsten weiter. Nur so können wir unsere ganze Aufmerksamkeit auf eine Sache lenken. 
+
+Genauso machen es die Navi Seals auch. Immer ein Ziel nach dem anderen. Sie sind durch ihr Training nur so schnell darin, dass es aussieht, als würden sie mehrere Dinge gleichzeitig machen.
+
+Wir entscheiden, was jetzt wichtig ist und machen es.
+
+Je schwieriger es wird, umso kleiner sollten unsere Ziele werden. Diese Mikroziele sollten auf das Erreichen unseres Ziels oder eines verfeinerten Teilbereichs unserer Gesamtmission ausgerichtet sein.
+
+[The Way of the SEAL](https://www.goodreads.com/book/show/17465530-the-way-of-the-seal)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

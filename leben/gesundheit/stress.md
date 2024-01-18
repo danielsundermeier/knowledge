@@ -22,6 +22,14 @@ In einer Studie in der der Hälfte der Teilnehmer gesagt wurde, dass sie sich sa
 
 [The Upside of Stress ](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)
 
+## Zonen
+
+- Komfortzone: zu wenig Stress
+- Panikzone: zu viel Stress
+- Dehnungszone: Genau richitg viel Stress
+
+[Happier](https://www.goodreads.com/book/show/302971.Happier)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

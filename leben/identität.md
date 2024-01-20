@@ -178,7 +178,7 @@ Ken Wilber
 
 Wir können uns Vorbilder suchen, die die Werte verkörpern, die wir leben wollen. Wir können uns einen oder mehrere, tote oder lebendige Vorbilder für jeden Lebensbereich suchen.
 
-Bei jeder Stuation können wir und dann fragen, wie sie wohl reagiert hätten.
+Bei jeder Stuation können wir uns dann fragen, wie sie wohl reagiert hätten.
 
 Genau wie wir Eigenschaften an uns nicht mögen, die uns bei anderen aufregen, schlummern die Eigenschaften, die wir bei anderen bewundern in uns.
 

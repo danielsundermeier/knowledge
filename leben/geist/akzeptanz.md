@@ -28,6 +28,8 @@ Wir können uns auf den aktuellen Moment konzentrieren. Wenn es uns gelingt, uns
 
 > "The only time we suffer is when we believe a thought that argues with what is. When the mind is perfectly clear, what is is what we want." - Byron Katie
 
+> "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life." - Epictetus
+
 ## Streite nicht mit der Realität
 
 > "I realized that it’s insane to oppose it. When I argue with reality, I lose—but only 100% of the time." - Byron Katie

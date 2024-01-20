@@ -247,6 +247,12 @@ Wir alle haben einen indiwiduellen Zweck. Er besteht aus drei Bereichen
 
 [Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
 
+## Schattenkarriere
+
+Wenn wir Angst vor unserer wahren Bestimmung haben, folgen wir einer Schattenkarriere. Wir beschäftigen uns zwar mit dem Thema und arbeiten in dem Bereich, trauen uns aber nicht den nöächsten Schritt zu gehen.
+
+[Turning Pro](https://www.goodreads.com/book/show/14912777-turning-pro)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

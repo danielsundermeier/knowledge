@@ -98,7 +98,7 @@ Arambhashura = Am Anfang ein Held sein.
 
 Gerade bei den Neujahrsvorsätzen kommt es zum Tragen. Wir nehmen uns fest vor etwas zu ändern und im Februar haben wir sie schon wieder vergessen.
 
-[The Second Mountain](https://www.goodreads.com/book/show/40642458-the-second-mountain)
+[The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
 
 ## Handlungsgesetzt
 

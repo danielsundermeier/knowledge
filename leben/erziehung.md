@@ -86,6 +86,38 @@ Sie lernen dadurch Verantwortung zu übernehmen, mit anderen zusammenzuarbeiten 
 - Haus bauen / erweitern
 - Unternehmen gründen (in sicherem Umfeld)
 
+## Mit Enttäuschungen umgehen
+
+> "How we deal with the big disappointments in life depends a great deal on how the people who loved us helped us deal with smaller disappointments when we were little."
+
+Es ist besonders als Eltern wichtig, wie wir mit Enttäuschungen umgehen, weil unsere Kinder durch uns lernen, wie sie damit umgehen können.
+
+Wir wollen ein dynamisches Selbstbild vermitteln und uns unseren Herausforderungen mit Freude stellen.
+
+[Many Ways to Say I Love You](https://www.goodreads.com/book/show/376136.Many_Ways_to_Say_I_Love_You)
+
+## Eltern wachsen Stück für Stück
+
+Eltern erblühen nicht direkt bei der Geburt ihres ersten Kindes, sondern wachsen gemeinsam mit ihren Kindern in ihre Rolle hinein.
+
+Es ist verfürerisch zu denken, dass die kleinen Dinge keine Auswirklungen haben und nur gr0ße Schritte etwas bringen. Aber die meisten wichtigen Dinge im Leben entwicklen sich langsam.
+
+[Many Ways to Say I Love You](https://www.goodreads.com/book/show/376136.Many_Ways_to_Say_I_Love_You)
+
+## Grenzen setzen
+
+Es ist wichtig, dass wir unseren Kindern Grenzen setzen. Kinder brauchen sie und bekommen dadurch Sicherheit.
+
+[Many Ways to Say I Love You](https://www.goodreads.com/book/show/376136.Many_Ways_to_Say_I_Love_You)
+
+## Entschuldigung
+
+Eltern machen auch mal Fehler und benhemen sich ihren Kindern gegenüber nicht optimal. Es ist sehr lehrreich für die Kinder, wenn sich die Eltern nach einem Missgeschick dafür entschuldigen und einen FEhler eingestehen.
+
+Wir können auch ergänzen, was wir hätten besser machen können. So wird aus unserem Fehler nicht und eine Möglichkeit die Beziehung zu unseren Kindern zu reparieren, sondern auch noch eine Chance aus diesen Situationen etwas zu lernen.
+
+[Many Ways to Say I Love You](https://www.goodreads.com/book/show/376136.Many_Ways_to_Say_I_Love_You)
+
 ## Programmieren
 
 - [Programming for kids](https://github.com/jackdoe/programming-for-kids)

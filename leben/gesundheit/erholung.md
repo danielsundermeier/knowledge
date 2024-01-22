@@ -132,6 +132,12 @@ Sie haben dadurch immer wieder kleine Phasen der Erholung und sind am Ende des S
 
 [The Power of Full Engagement](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)
 
+## Auszeit
+
+Michael Jordan war während seiner 2-Minuten-Pausen auf der Bank immer völlig gelassen, obwohl er dringend gebraucht wurde. Er hatte dadurch eine der schnellsten Erholungszeiten.
+
+[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

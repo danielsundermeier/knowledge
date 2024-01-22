@@ -106,6 +106,28 @@ Es wird besser, wenn wir durch den Lernprozess sind.
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Drei Partner
+
+Wir können uns drei Partner suchen, die uns beim Lernen helfen.
+
+- Trainer: Mit mehr Erfahrung, der uns trainieren kann
+- Trainingspartner: Auf unserem Level mit dem wir uns messen können
+- Schüler: Ein paar Schritte hinter uns, dem wir das Gelernte weitergeben können
+
+## Zwei Arten zu Lernen
+
+Unser Selbstbild ist entscheidend, wie wir etwas lernen.
+
+Mit einem statischen Selbstbild, denken wir, dass unsere Fähigkeiten in Stein gemeißelt sind. Wir versuchen Fehler zu vermeiden und machen nur das, worin wir gut sind.
+
+Wenn wir aber ein dynamisches Selbstbild haben, glauben wir durch Einsatz besser werden zu können und aus Fehlern zu lernen.
+
+[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
+## Bücher
+
+- [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
 ## Links
 
 - [Taschenhirn](https://www.taschenhirn.de/)

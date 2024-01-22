@@ -169,6 +169,10 @@ Hunde machen das extrem gut. Sie freuen sich unglaublich, wenn ihre Kontaktperso
 
 Niemand ist 100% korrekt. Jede Perspektive trägt einen Teil der Wahrheit in sich. Wenn wir uns das nächste Mal 100% im Recht sehen, können wir einen Schritt zurücktreten und versuchen die Perspektive des anderen nachzuvollziehen.
 
+Es gibt eine Fabel in der Blinde von unterschiedlichen Seiten auf einen Elefanten zugehen. Der eine brührt den Fuß uns sagt, dass es sich wie ein Baum anfühlt, der andere hat den Rüssel in der Hand und glaube eine Schlange in der Hand zu halten.
+
+Jeder hat eine andere Perspektive und hat auf seine Art recht, aber keiner liegt wirklich richtig.
+
 ## Ermutigung
 
 Aristotle sagte uns, dass das ultimative Ziel darin besteht, ein Eudaimon zu sein. Wir erreichen dies, indem wir tugendhaft leben, sodass wir konsequenter die beste Version von uns selbst zum Ausdruck bringen können.
@@ -192,6 +196,22 @@ Wenn wir jemanden sehen, der etwas gutes tut oder darstellt, können wir uns fü
 Wenn wir jemanden sehen, der etwas negatives tut oder darstellt können wir ihm Mitgefühl schicken, unsere eigene Unvollkomenheit akzeptieren und es als Anlass nehmen uns erneut dazu zu verpflichten mit den höchsten Werten zu leben.
 
 [The Analects of Confucius](https://www.goodreads.com/book/show/11353178-the-analects-of-confucius)
+
+## Es allen Recht machen
+
+In einer Fabel wollen ein Vater und sein Sohn einen Esel verkaufen. Dazu müssen sie ein paar Dörfer weiter reisen.
+
+Im ersten Dorf reitet der Sohn auf dem Esel und der Vater geht nebenher. Der Vater hört die Bewohner sagen, dass der kräftige Junge den alten Mann laufen lässt.
+
+Daraufhin wechseln sie die Positionen. Im nächsten Dorf beschweren sich die Bewohner, dass der arme junge laufen muss, während der Erwachsene auf dem Esel reitet.
+
+Im dritten Dorf reiten beide auf dem Esel. Die Bewohner finden es unzumutbar zu zweit auf dem Tier zu reiten.
+
+Schließlich tragen der Junge und sein Vater den Esel. Aber auch dafür werden sie kritisiert.
+
+Die Moral der Geschichte ist, dass wir es niemals allen Recht machen können.
+
+[Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
 
 ## Links
 

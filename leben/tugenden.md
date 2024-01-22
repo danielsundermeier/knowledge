@@ -51,6 +51,12 @@ Wir wolllen nicht gewinnen, indem wir das Spiel von jemand anderem spielen. Wir 
 
 [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 
+## Einzigartige Veranlagung
+
+> "I believe that one of the most critical factors in the transition to becoming a conscious high performer is the degree to which your relationship to your pursuit stays in harmony with your unique disposition. There will inevitably be times when we need to try new ideas, release our current knowledge to take in new information—but it is critical to integrate this new information in a manner that does not violate who we are."
+
+[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

@@ -24,5 +24,25 @@ Wenn wir also das nächste mal einen Fehler machen, können wir uns an die Baseb
 
 [Originals](https://www.goodreads.com/book/show/25614523-originals)
 
+## Abwärtsspirale
+
+Meistens ist es nicht der erste Fehler, der uns aus der Bahn wirf, sondern die Abwärtsspirale, die Dadurch entsteht. Wir machen weitere Fehler, weil wir nicht mehr so konzentriert bei der Sache sind.
+
+Es ist wichtig, dass wir lernen auch an schlechten Tagen unsere Leistung bringen können.
+
+Wir müssen wissen, dass wir Fehler machen werden und sie einfach zur Kenntnis nehmen, wenn sie passieren und tief durchatmen. Dann machen wir weiter.
+
+[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
+## Bereitschaft zu Scheitern
+
+Michael Jordan hat die meisten Punkte in der letzen Minute gemacht, um sein Team zum Sieg zu führen. Er hat sich aber auch die meisten Würfe in dieser Situation in der Geschichte der NBA verworfen.
+
+Was ihn zum Größten machte, war nicht Perfektion, sondern die Bereitschaft, es immer wieder zu versuchen.
+
+Wir müssen bereit sein, zu scheitern – und zwar oft –, wenn wir wachsen wollen. Wir müssen diese Verluste als Investitionen in die nächste Stufe unseres Wachstums betrachten.
+
+[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+
 ## Bücher
 

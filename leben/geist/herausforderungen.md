@@ -102,6 +102,16 @@ Wir alle spüren Druck. Wir müssen uns davon nicht überwältigt fühlen. Es is
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Percussus Resurgo
+
+Die Aussage bedeutet "Niedergeschlagen. Ich stehe wieder auf."
+
+Es geht nicht darum wie oft wir hinfallen, sondern wie oft wir wieder aufstehen.
+
+Wenn wir immer wieder aufstehen, können wir alles schaffen. Wir lernen aus unseren Fehlern und wachsen an den Herausforderungen.
+
+[Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
+
 ## Wahrnehmung (Perception)
 
 > "For there is nothing either good or bad, but thinking makes it so." - Shakespeare

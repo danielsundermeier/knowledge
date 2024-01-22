@@ -123,6 +123,32 @@ Das zeigt uns, dass wir uns so sehr auf den Prozess konzentrieren können, dass 
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Carpe Momentum
+
+> "My expressed view to them is that sport is simple; people are complicated. Many of them tend to think that there must be more to the game than executing a task successfully. In terms of behavior, there is not." - H.A. Dorfman
+
+Wenn wir uns nur auf die Ausführung konzentrieren und alles andere ausblenden, auch das Ergebnis, macht uns das vieles leichter.
+
+Carpe Momentum fängt sowohl die Notwendigkeit ein, sich auf den Moment zu konzentrieren, als auch die Tatsache, dass wir dabei Momentum erzeugen. Damit laufen die Dinge meist nach unseren Wünschen.
+
+[Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
+
+## Ausführung -> Ergebnis -> Reaktion
+
+Wir haben nur Einfluss auf unseren Ausführung und auch unsere Reaktion auf das Ergebnis.
+
+Wenn wir unsere Aufgabe so gut wie möglich ausgeführt haben, sollten wir uns auf die nächste Ausführung konzentrieren, nicht das Ergebnis.
+
+Unsere Reaktion auf ein negatives Ergebnis sollte wie folgt aussehen, damit wir davon profitieren und lernen können:
+
+- Was habe ich versucht?
+- Was ist schief gelaufen?
+- Was möchte ich das nächste Mal tun?
+
+Das Ergebnis können wir zwar beeinflussen, aber nicht kontrollieren.
+
+[Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

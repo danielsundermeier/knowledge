@@ -110,6 +110,16 @@ Gerade bei den Neujahrsvorsätzen kommt es zum Tragen. Wir nehmen uns fest vor e
 
 [Lessons for Living](https://www.goodreads.com/book/show/161625454-lessons-for-living)
 
+## Eifer
+
+Es ist der Motor des Großartigen.
+
+Wenn wir sehen wollen, wie weit wir damit kommen können, muss der Eifer begründet und konsequent in die richtige Richtung gelenkt werden.
+
+Das wilde Vollblut ist schön anzusehen, wenn es wild herumläuft. Aber wir werden kein Rennen gewinnen, bis wir diese rohe Energie gebündelt haben.
+
+[Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

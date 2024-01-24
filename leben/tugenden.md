@@ -57,6 +57,14 @@ Wir wolllen nicht gewinnen, indem wir das Spiel von jemand anderem spielen. Wir 
 
 [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
 
+## Tugend erwerben
+
+> "Moral virtues, like crafts, are acquired by practice and habituation." - Aristotle
+
+Um Tugenden zu erwerben, müssen wir sie praktizieren und üben.
+
+[Leadership](https://www.goodreads.com/book/show/38657386-leadership)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

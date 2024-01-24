@@ -44,5 +44,15 @@ Wir müssen bereit sein, zu scheitern – und zwar oft –, wenn wir wachsen wol
 
 [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
 
+## Goats and G.O.A.T.s
+
+Wir müssen das Risiko eingehen zu Scheitern um zu den besten zu gehören.
+
+Russell Wilson hat den Super Bowl gewonnen. Im nächsten Jahr stand er wieder im Finale und hat im entscheidenden Moment eine Interception geworfen.
+
+Er hat diesen Moment aber genutzt, um besser zu werden.
+
+[It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
+
 ## Bücher
 

@@ -270,6 +270,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [The Arc of the Practical Creator](https://moretothat.com/the-arc-of-the-practical-creator/)
 - [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
 - [My Youtube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
+- [How I Choose What to Work On](https://tynan.com/workonwhat/)
 
 ### Blogs
 

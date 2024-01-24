@@ -113,3 +113,4 @@ Die Autoren empfehlen eine Checkliste am Abend durchzugehen, um unsere Erfolge z
 - [On Becoming a Leader](https://www.goodreads.com/book/show/171921.On_Becoming_a_Leader)
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)
 - [Call Sign Chaos](https://www.goodreads.com/book/show/46037714-call-sign-chaos)
+- [Leadership](https://www.goodreads.com/book/show/38657386-leadership)

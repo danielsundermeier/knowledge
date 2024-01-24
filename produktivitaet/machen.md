@@ -120,6 +120,16 @@ Das wilde Vollblut ist schön anzusehen, wenn es wild herumläuft. Aber wir werd
 
 [Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
 
+## Linen im Sand
+
+> "The next time life presents you with a challenge, don’t simply assume everything will work out. Don’t tell yourself you can’t do it. Just evaluate the situation. Figure out what you can accomplish right now. Then draw your line. When you cross that line, draw another one. And keep going." - Trevor Moawad
+
+US Navy SEAL Marcus Luttrell wurde angeschossen und schwer verletzt. Er musste 7 Meilen bis zur nächsten Stadt kriechen. Er hat mit einem Stein eine Line in den Sand gezogen und sie überwunden. Dann hat er die nächste Linie gezogen und sich so die ganze Strecke fortbewegt.
+
+Wir sollten herausfinden, was wir jetzt erreichen können und es machen. Dann suchen wir uns das Nächste.
+
+[It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

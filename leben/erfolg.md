@@ -206,3 +206,4 @@ Das Gleiche trifft auch auf uns zu. Wir müssen herausfinden, wie wir Erfolg hab
 - [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 - [Raise Your Game](https://www.goodreads.com/book/show/40776006)
+- [It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)

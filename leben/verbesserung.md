@@ -113,6 +113,18 @@ Coach Wooden hat sich nicht auf das Gewinnen von Meisterschaften konzentriert, s
 
 [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 
+## Die Illusion der Wahl
+
+> "Making bad choices is the lifeblood of average. It feeds it. It consumes it. It protects it. Choice is a competitor—as much as any tangible opponent you or any team will face. In fact, it’s the ultimate competitor. It taunts you. It will lie to you." - Trevor Moawad
+
+Wir denken, dass uns eine Reihe von Möglichkeiten zur Verfügung stehen. 
+
+Wenn es uns ernst ist, unser Potenzial auszuschöpfen, Großes zu erreichen und unsere eigene Version des Super Bowls zu gewinnen, dann gibt es einfach keine Wahl. 
+
+Von Augenblick zu Augenblick müssen wir in Richtung Wachstum voranschreiten und unser Bestes geben.
+
+[It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

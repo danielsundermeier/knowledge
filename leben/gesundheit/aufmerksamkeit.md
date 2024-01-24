@@ -28,6 +28,14 @@ Wenn wir die unangenhmen Emotionen aushalten können, lassen wir uns auch nicht 
 
 [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)
 
+## Das Gesetz der Substitution
+
+Unser Geist kann sich nur auf eine Sache konzentrieren. Der Schlüssel zum „Ausblenden“ der Außengeräusche liegt also nicht darin, zu versuchen, die Außengeräusche „ausblenden“ zu wollen. 
+
+Es geht darum, die Lautstärke unseres eigenen konzentrierten Denkens so zu erhöhen, dass unser Geist die äußeren Ablenkungen nicht einmal bemerkt.
+
+[It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

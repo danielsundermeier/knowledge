@@ -137,6 +137,14 @@ Alles ist neutral, erst unser Denken gibt eine Wertung ab. So können wir es lei
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
 
+## Neutrales Denken
+
+> "Neutral thinking is a high-performance strategy that emphasizes judgment-free thinking, especially in crises and pressure situations." - Trevor Moawad
+
+> "Neutral thinking shuns all attempts at illusion or outright self-delusion, which are often the foundation of other motivational systems. Neutral thinking strips away the bull and the biases, both external and internal." - Trevor Moawad
+
+
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

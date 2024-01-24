@@ -126,7 +126,7 @@ Das wilde Vollblut ist schön anzusehen, wenn es wild herumläuft. Aber wir werd
 
 US Navy SEAL Marcus Luttrell wurde angeschossen und schwer verletzt. Er musste 7 Meilen bis zur nächsten Stadt kriechen. Er hat mit einem Stein eine Line in den Sand gezogen und sie überwunden. Dann hat er die nächste Linie gezogen und sich so die ganze Strecke fortbewegt.
 
-Wir sollten herausfinden, was wir jetzt erreichen können und es machen. Dann suchen wir uns das Nächste.
+Wir sollten herausfinden, was wir jetzt erreichen können und es machen. Dann suchen wir uns das nächste.
 
 [It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
 

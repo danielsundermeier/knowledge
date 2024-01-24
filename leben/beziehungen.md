@@ -87,6 +87,7 @@ Anstatt ich bin aus X, mehr erzählen: Ich bin in X Geboren, habe dort studiert 
 - [HOW TO TALK TO ANYONE by Leil Lowndes | Core Message](https://www.youtube.com/watch?v=huj-lwH2aC8)
 - [Why (and How) You Should Join Twitter Right Now](https://guzey.com/twitter/)
 - [making friends on the internet](https://jon.bo/posts/making-friends-online/)
+- [How to transform your social life](https://bitsofwonder.substack.com/p/how-to-make-a-lot-of-friends)
 
 ## Polarisieren
 

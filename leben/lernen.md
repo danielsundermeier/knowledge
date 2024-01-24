@@ -124,6 +124,18 @@ Wenn wir aber ein dynamisches Selbstbild haben, glauben wir durch Einsatz besser
 
 [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
 
+## Myelin
+
+Myelin ist eine isolierende Schicht um die Axone, die Nervenzellen verbinden. Es erlaubt die schnelle Weiterleitung von elektrischen Signalen und unterstützt die Integrität und Funktion dieser Zellen.
+
+Je besser Nervenzellen isoliert sind, umso besser können sie Signale weiterleiten und umso besser können wir die damit verbundenen Tätigkeiten ausführen.
+
+Indem wir uns intensiv auf eine bestimmte Fähigkeit konzentrieren, zwingen wir die relavanten Nervenzellen, immer wieder isoliert zu feuern. 
+
+Diese wiederholte Verwendung bringt die Oligodendrozyten dazu Myelinschichten um die Neuronen in den Schaltkreisen zu wickeln, wodurch die Fähigkeit effektiv gefestigt wird.
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)

@@ -172,6 +172,32 @@ Entdecke, wofür Du dich am meisten begeistern kannst und konzentriere deine Ene
 
 [The 80/20 Principle](https://www.goodreads.com/book/show/181206.The_80_20_Principle)
 
+## Deep Work
+
+> "Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate." - Cal Newport
+
+Tiefgründige Arbeit und ablenkungsfreie Konzentration bringt unsere kognitiven Fähigkeiten bis an ihre Grenzen, schafft neuen Wert, verbessert unsere Fähigkeiten und die Ergebnisse dieser Art von Arbeit sind schwer zu reproduzieren.
+
+Konzentriertes Arbeiten wird gleichzeitig seltener und wertvoller.
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
+## Shallow Work
+
+> "Shallow Work: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tends to not create much new value in the world and are easy to replicate." - Cal Newport
+
+Es ist Arbeit um beschäftigt zu wirken, aber nicht wirklich etwas zu schaffen, wie E-Mails beantworten oder Meetings.
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
+## Aufmerksamkeits-Rückstand
+
+Wenn wir von einer Aufgabe zu einer anderen wechseln folgt unsere Aufmerksamkeit nicht direkt. Sie bleibt nocht etwas an der alten Aufgabe hängen. Wenn wir immer wieder hin und her wechseln, wirkt sich das negativ auf unsere Produktivität aus.
+
+Es ist besser eine Aufgabe nach der anderen zu bearbeiten.
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

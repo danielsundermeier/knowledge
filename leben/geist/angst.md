@@ -85,6 +85,14 @@ Es schließt den Gedanken, dass wir etwas zu beweisen haben, kurz. Das führt da
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Der Angst ins Gesicht schauen
+
+> "My mother once tried to frighten me with an appalling story of a ghost in a dark chamber. I went there immediately, and expressed my disappointment at having missed the ghost. Mother never told me another horror tale." - Paramahansa Yogananda
+
+Wenn wir bereit sind, angesichts der Angst zu handeln und erkennen, dass die Stressfaktoren in unserem Leben keine Bedrohung für unser Wohlbefinden darstellen, sondern eine Gelegenheit, unsere Philosophie in die Praxis umzusetzen und antifragiles Selbstvertrauen aufzubauen, ändern wir unsere zugrunde liegende Physiologie von einer "Bedrohungsreaktion" zu einer "Challenge-Response".
+
+[Living Fearlessly](https://www.goodreads.com/book/show/35316.Living_Fearlessly_Self_Realization_Fellowship_)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

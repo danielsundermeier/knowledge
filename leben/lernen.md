@@ -136,6 +136,18 @@ Diese wiederholte Verwendung bringt die Oligodendrozyten dazu Myelinschichten um
 
 [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 
+## Umgebung zum Lernen schaffen
+
+Wir können Wissen nicht wie einen Impfstoff mit einer Spritze vermitteln. Wir müssen das wissen freiwillig aufnehmen.
+
+Um das zu schaffen, ist es wichtig eine Umgebung zu kreieren, die dem Lernen förderlich ist.
+
+1. Wirklich das beste für die Schüler im Sinn haben
+2. Ermutigung Fragen zu stellen
+3. Kein Zeitdruck etwas zu verstehen
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)

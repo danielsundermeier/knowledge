@@ -46,6 +46,22 @@ Wenn wir uns besser fühlen, bringen wir bessere Leistung.
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
 
+## Danke
+
+> "life could be vastly improved if we could count our blessings as self-actualizing people can and do, and if we could retain their constant sense of good fortune and gratitude for it." - Abraham Maslow
+
+Wenn wir versucht sind, uns über den Verkehr zu beschweren, können wir an die Genialität und die harte Arbeit, die in die Entwicklung der ersten Autos geflossen sind, und an die Arbeit, die in den Bau unseres Autos und der Straße, auf der Sie fahren, geflossen ist, denken.
+
+Dankbarkeit macht das Leben sehr viel angenehmer.
+
+Uns an das zu gewöhnen, was wir haben, ist ein großer Faktor für unsere Unzufriedenheit.
+
+Selbst der reichste König hatte noch vor wenigen Jahrhunderten nicht einmal die Hälfte der materiellen Freuden und den Luxus, die wir genießen!
+
+Wir müssen es nur zu schätzen wissen.
+
+[Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

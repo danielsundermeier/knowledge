@@ -442,6 +442,14 @@ Wir können uns folgende Frage stellen, wenn wir einem Auslöser begegnen: Dient
 
 [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)
 
+## Klare Linen
+
+Wir brauchen klare Linen, um zu wissen, wann wir sie übertreten haben.
+
+Wenn wir ganz klar formulieren, was wir machen oder nicht machen wollen, haben wir nicht jedes Mal eine Diskussion mit uns selbst, ob heute eine ausnahme ist.
+
+Wir werden trotzdem hin und wieder scheitern. Dann wissen wir aber, dass wir gescheitert sind und können uns überlegen, wie wir es beim nächsten Mal besser machen.
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

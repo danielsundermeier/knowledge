@@ -2,6 +2,8 @@
 
 Fehler zu machen ist menschlich. Es sagt nichts über unseren Wert aus, wenn wir welche machen.
 
+> "It seems that the necessary thing to do is not to fear mistakes, to plunge in, to do the best that one can, hoping to learn enough from blunders to correct them eventually." - Abraham Maslow
+
 ## Notwendige Fehlbarkeit
 
 Wir sind nicht allwissend oder allmächtig. Manche Dinge sind außerhalb von dem, was wir zu leisten im Stande sind.
@@ -53,6 +55,16 @@ Russell Wilson hat den Super Bowl gewonnen. Im nächsten Jahr stand er wieder im
 Er hat diesen Moment aber genutzt, um besser zu werden.
 
 [It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
+
+## Verloren?
+
+Es gehört dazu als Kämpfer in der UFC ausgenockt zu werden. Sie verlieren und lernen daraus.
+
+Das Gleiche können wir uns zu eigen machen. Fehler zu machen gehört zum Leben dazu. Wir können es als wertvolle Daten sehen, die uns besser machen.
+
+Es geht darum in der Arena zu sein und Risiken einzugehen. Nur so können wir Erfahrungen sammeln und daraus lernen.
+
+[Verletzlichkeit macht stark](https://www.goodreads.com/book/show/55320403-verletzlichkeit-macht-stark)
 
 ## Bücher
 

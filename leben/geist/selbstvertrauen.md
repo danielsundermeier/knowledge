@@ -1,5 +1,7 @@
 # Selbstvertrauen
 
+> "Wholehearted living is about engaging in our lives from a place of worthiness. It means cultivating the courage, compassion, and connection to wake up in the morning and think, No matter what gets done and how much is left undone, I am enough. It’s going to bed at night thinking, Yes, I am imperfect and vulnerable and sometimes afraid, but that doesn’t change the truth that I am also brave and worthy of love and belonging." - Brene Brown
+
 - Das tun, was wir uns vornehmen
 - Muss verdient werden, wie alle Arten von Vertrauen
 - Nervosität als Begeisterung interpretieren -> I'm excited

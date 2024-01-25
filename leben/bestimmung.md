@@ -253,11 +253,34 @@ Wenn wir Angst vor unserer wahren Bestimmung haben, folgen wir einer Schattenkar
 
 [Turning Pro](https://www.goodreads.com/book/show/14912777-turning-pro)
 
+## Der Selbstverwirklicher
+
+> "Musicians must make music, artists must paint, poets must write if they are to be ultimately at peace with themselves. What human beings can be, they must be." - Abraham Maslow
+
+Maslow glaubte, dass das Bedürfnis zu wachsen, unser Potenzial auszuschöpfen und sich selbst zu verwirklichen, ein absolut grundlegendes Bedürfnis sei.
+
+In dem Maße, in dem wir uns um unsere grundlegenderen Bedürfnisse gekümmert haben und dieses Bedürfnis nach Selbstverwirklichung nicht befriedigen, werden wir mit Angst, Bedauern und Ernüchterung leben.
+
+[Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
+
+## Fragen
+
+- Wenn Ihr Erfolg absolut garantiert wäre, was würden Sie wagen?
+- Was begeistert Sie am meisten?
+- was sind deine größten Stärken?
+- Wie kann man dafür bezahlt werden, das zu tun, was man liebt?
+- Wann fühlst du dich am lebendigsten? Welche Umstände? Um welche Leute herum?
+- Was waren Ihre 5 größten Erfolge in den letzten 5 Jahren? Ihre 5 größten Erfolge in den nächsten 5 Jahren? Die nächsten 25 Jahre?
+- Wie können Sie Ihre Gaben am besten mit der Welt teilen? 
+- Was würden Sie tun, wenn Sie keine Angst hätten?
+- Welche anderen Fragen sollten Sie sich stellen?!?
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 - [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
 - [Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
+- [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
 ## Links
 

@@ -125,6 +125,16 @@ Von Augenblick zu Augenblick müssen wir in Richtung Wachstum voranschreiten und
 
 [It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
 
+## Wachstum oder Sicherheit?
+
+Wir haben in jedem Moment die Wahl zu wachsen oder einen Schritt zurück in die Sicherheit zu gehen.
+
+Je größer der Unterschied zwischen der Person, die wir hätten sein können und die wir tatsächlich waren, umso schlechter fühlen wir uns.
+
+Die Sicherheit wirkt auf den ersten Blick verlockender. Sie hat aber einen Preis. Wir bezahlen ihn mit Unzufriedenheit und Reue.
+
+[Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

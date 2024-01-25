@@ -18,6 +18,14 @@ Alle Erfahrungen gleichgewichtig wahrnehmen und nicht die Negativen zu ignoriere
 
 Wir achten darauf, wann wir uns schämen und kehren dazu zurück, das erste und zweite Prinzip des Selbstmitgefühls zu praktizieren.
 
+## Niemand ist perfekt
+
+> "There are no perfect human beings!" - Abraham Maslow
+
+Es passiert etwas Magisches, wenn wir aufhören, so zu tun, als wären wir perfekt oder müssten es sein. Die Fassaden können fallen und wir können eine echte Interaktion mit jemandem haben.
+
+[Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
+
 ## Bücher
 
 - [Self-Compassion](https://www.goodreads.com/book/show/10127008-self-compassion)

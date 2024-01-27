@@ -132,13 +132,13 @@ Wir sollten herausfinden, was wir jetzt erreichen können und es machen. Dann su
 
 ## Zuschauer auf der Tribüne
 
-In der Rede von Roosevelt "Der Mann in der Arena", geht es darumm, dass nicht der Kritiker zählt, sondern derjenige, der in der Arena steht, für etwas kämpft und sich bemüht.
+In der Rede von Roosevelt "Der Mann in der Arena", geht es darumm, dass nicht der Kritiker zählt, sondern derjenige, der in der Arena steht, der für etwas kämpft und sich bemüht.
 
 Die Menschen, die uns lieben, stehen neben uns in der Arena und sind für uns da unabhängig davon, ob wir gewinnen oder verlieren.
 
-Die Menschen, die in ihrem Leben nichts Großes wagen und nicht die Kämpfe in ihrer eigenen Arena austraagen, sind unsere größten Kritiker. 
+Die Menschen, die in ihrem Leben nichts Großes wagen und nicht die Kämpfe in ihrer eigenen Arena austragen, sind unsere größten Kritiker. 
 
-Diejenigen, die selsbt auf ihrer eigenen Heldenreise sind, wissen wie schwer es ist und kritisieren andere bei ihrer Reise nicht.
+Diejenigen, die selbst auf ihrer eigenen Heldenreise sind, wissen wie schwer es ist und kritisieren andere bei ihrer Reise nicht.
 
 Wenn wir uns dabei erwischen, wie wir andere dafür kritisieren etwas Großes zu wagen, sollten wir uns fragen, ob wir selbst engagiert genug sind.
 

@@ -1,32 +1,5 @@
 # Psyche
 
-## Meditation
-
-- Mit geschlossenen Augen auf die Atmung konzentrieren
-- Geführte Meditation
-    + spotify
-    + [Das Meditieren beginnen](https://open.spotify.com/episode/1Cojh3ByBDQiHiRj6siyMI?si=oSXg9MiMTc2NYR0zGeYJ5A&nd=1)
-![](meditieren.jpeg)
-
-Wir können damit beginnen morgens und abends jeweils 1% von unserem Tag zu meditieren. Das sind jeweils 15 Minunten.
-    
-### Effekte
-
-- Stressreduktion
-- Verbesserung der kognitiven Fähigkeiten
-- Verbesserter Schlaf
-- Steigert das Glücksempfinden
-- Fördert die emotionale Gesundheit
-- Verbessert die Selbstwahrnehmung
-- Verlängert die Aufmerksamkeitsspanne
-- Besseres Gedächtnis
-- Kann den Blutdruck senken
-
-#### Links
-
-- [Meditation: 12 wissenschaftlich bewiesene Vorteile](https://www.brainperform.de/meditation-vorteile/)
-- [Wie Achtsamkeit wirkt](https://www.spektrum.de/news/meditation-wie-achtsamkeit-wirkt/1940368#Echobox=1640676407)
-
 ## Sonnenschein
 
 - Jeden Tag mindestens 30 Minuten draußen verbringen -> Vitamin D

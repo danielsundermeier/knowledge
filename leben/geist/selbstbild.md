@@ -200,8 +200,33 @@ Unser aktuelles Selbstbild wurde über viele Jahre geprägt. Deshlab brauchen wi
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Präsenz
+
+> "Presence emerges when we feel personally powerful, which allows us to be acutely attuned to our most sincere selves. In this psychological state, we are able to maintain presence even in the very stressful situations that typically make us feel distracted and powerless." - Amy Cuddy
+
+Präsenz ist der Zusantd, in dem wir auf unsere wahren Gedanken, Gefühle, Werte und Potenziale eingestimmt sind und diese bequem ausdrücken können.
+
+Es ist aber kein permanenter Zustand, sondern kann sich jedem Moment ändern. Ziel ist ihn immer öfter zu erreichen.
+
+[Presence](https://www.goodreads.com/book/show/25066556-presence)
+
+## Selbstbestätigung
+
+Wenn Menschen einem Stresstest ausgesetzt werden, steigt ihr Cortisolspiegel. 
+
+Wenn sie aber über eine Tugend nachdenken, die für sie sehr wichtig ist und aufschreiben, warum diese für sie wichtig ist, können sie diesen Stresstest ohne die typischen Cortisolspitzen bestehen.
+
+Wenn wir im Einklang mit unseren Werten leben, sind wir stärker.
+
+Um herauszufinden, welche Tugenden das für uns sind, können wir uns selbst fragen, welche drei Wörter uns am besten beschreiben.
+
+Für die Tugend, die uns am besten beschreibt, notieren wir uns warum sie so wichtig für uns ist und wann wir sie das letzte mal demonstirert haben.
+
+[Presence](https://www.goodreads.com/book/show/25066556-presence)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)
 - [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
 - [The Power of TED](https://www.goodreads.com/book/show/6327715-the-power-of-ted)
+- [Presence](https://www.goodreads.com/book/show/25066556-presence)

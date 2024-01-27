@@ -98,6 +98,7 @@ Pflichten und Ziele automatisieren, damit ich die wichtigen Dinge im Leben bewus
 - Schlechte Auslöser entfernen
     + Ungesunde Lebensmittel
     + Fernbedienung auf neben Sofa
+- Aktionen sind bessere Auslöser als Menschen oder Umgebnug
 
 ## Einfach halten
 
@@ -393,6 +394,10 @@ Beispiele:
 
 ## Belohnung
 
+Wir sollen uns selbst direkt nach dem Verhalten feiern und so belohnen. Wir sollen es auf eine Art und Weise machen, die uns etwas bedeutet.
+
+Wir können uns sagen, dass wir es gut gemacht haben oder uns selbst abklatschen. Wichtig ist, dass wir eine positive Emotion auslösen.
+
 Im besten Fall verstärkt die Belohnung die Gewohnheit indem die Belohnung besser wird, je länger ich die Gewohnheit ausführe.
 
 Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
@@ -432,13 +437,16 @@ Nicht mit Dingen belohnen, die dem Ziel wiedersprechen.
 - Bewusst tun, nicht automatisch, um zu merken, dass ich es nicht tun möchte
     + Beispiel: Bewusst rauchen -> Man stellt fest, dass es nicht gut schmeckt ([A simple way to break a bad habit | Judson Brewer](https://www.youtube.com/watch?v=-moW9jvvMr4))
 
-## B = MAT
+## B = MAP
 
 Verhalten = Motivation + Fähigkeit + Auslöser
 
 Auslöser können zum Beispiel Mitteilungen auf unserem Handy sein. 
 
 Wir können uns folgende Frage stellen, wenn wir einem Auslöser begegnen: Dient mir dieser Auslöser, oder diene ich ihm?
+
+![](https://behaviormodel.org/wp-content/uploads/2020/08/Fogg-Behavior-Model.jpg)
+[Fogg Behavior Model](https://behaviormodel.org/)
 
 [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)
 
@@ -450,6 +458,40 @@ Wenn wir ganz klar formulieren, was wir machen oder nicht machen wollen, haben w
 
 Wir werden trotzdem hin und wieder scheitern. Dann wissen wir aber, dass wir gescheitert sind und können uns überlegen, wie wir es beim nächsten Mal besser machen.
 
+## Die Anatomie winziger Gewohnheiten
+
+1. Anker: Existierende Routine oder ein Ereignis
+2. Neues Verhalten: Extrem einfache Version des neuen Verhaltens, z.B. 2 Liegestütz, 1 Minute meditieren
+3. Uns dafür feiern: Etwas tun, was zu positiven Gefühlen führt, z.B. "Das habe ich gut gemacht", uns selbst abklatschen
+
+[Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
+
+## Verhaltensdesignprozess
+
+Schritt 1: Was möchten wir erreichen?
+Schritt 2: Was können wir tun, um dieses Ziel zu erreichen?
+Schritt 3: Was können wir konkret tun?
+Schritt 4: Sehr klein starten
+Schritt 5: Guten Trigger finden
+Schritt 6: Erfolge feiern -> Hacken des Belohnungszentrums unseres Gehirns
+Schritt 7: Fehlerbehebung, Iteration und Erweiterung
+
+[Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
+
+## Feiern
+
+Direkt nach dem Verhalten sollten wir uns selbst dafür feiern.
+
+Wir sollten uns über legen, was wir tun, wenn etwas großartiges passiert und das nach dem Verhalten machen.
+
+Wir können uns selbst abklatschen oder uns loben. 
+
+Wir bekommen dadurch einen Schuß Dopamin, dass unser Belohnungszentrum aktiviert.
+
+Dadurch prägen wir uns das Verhalten besser ein und wollen es wiederholen.
+
+[Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)
@@ -458,6 +500,12 @@ Wir werden trotzdem hin und wieder scheitern. Dann wissen wir aber, dass wir ges
 ![](https://www.kittybabylove.com/wp-content/uploads/2020/04/Free-Printable-Habit-Tracker-Template-1024x691.jpg)
 
 [Habit Tracker](https://www.kittybabylove.com/wp-content/uploads/2020/04/Free-Printable-Habit-Tracker-Template-1024x691.jpg)
+
+## Bücher
+
+- [Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
+- [Superhuman by Habit](https://www.goodreads.com/book/show/23206969-superhuman-by-habit)
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 
 ## Links
 - [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)

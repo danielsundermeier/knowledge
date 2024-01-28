@@ -184,7 +184,7 @@ Wenn wir uns nur an unsere Erfolge erinnern, steigern wir die Chance sie zu wied
 
 > "You can imagine far more than you currently can achieve. If you consistently rehearse what you want to achieve, what you imagine can become reality." - Lanny Bassham
 
-Wir können uns wieder uns wieder ausmalen, wie wir unsere Erfolge erzielen. Wichtig ist dabei, dass wir uns den Prozess vorstellen, nicht das Ergebnis. Wir wollen uns genau vorstellen, was wir tun.
+Wir können uns wieder und wieder ausmalen, wie wir unsere Erfolge erzielen. Wichtig ist dabei, dass wir uns den Prozess vorstellen, nicht das Ergebnis. Wir wollen uns genau vorstellen, was wir tun.
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
@@ -221,6 +221,24 @@ Wenn wir im Einklang mit unseren Werten leben, sind wir stärker.
 Um herauszufinden, welche Tugenden das für uns sind, können wir uns selbst fragen, welche drei Wörter uns am besten beschreiben.
 
 Für die Tugend, die uns am besten beschreibt, notieren wir uns warum sie so wichtig für uns ist und wann wir sie das letzte mal demonstirert haben.
+
+[Presence](https://www.goodreads.com/book/show/25066556-presence)
+
+## Priming
+
+Indem wir uns gute/schleche Momente in Erinnerung rufen, uns die Rolle als Chef/Angestellter zugewiesen oder und Begriffe, die mit Kraft/Schwäche verknüpft sind vorgeführt werden, können uns Wissenschaftler in unterschiedliche Stimmungen ersetzen.
+
+Je nach unserer Stimmung gehen wir Herausforderungen anders an, weil wir sie entweder als Gefahr oder als Möglichkeit betrachten.
+
+Wenn wir in einen negativen Zustand versetzt werden, schneiden wir bei praktisch jedem erdenklichen Test deutlich schlechter an als andere, die in einen positven Zusatnd versetzt wurden.
+
+Wir versetzen uns selbst den ganzen Tag über ind verschiedene Stimmungen. Wir können unseren Zustand also mit den richtigen Techniken beeinflussen.
+
+Wir sollten uns immer wieder an unsere schönsten Momente erinnern, wenn wir mehr davon schaffen möchten.
+
+Wenn wir unseren Körper ausladend und kraftvoll halten, fühlen wir uns auch tatsächlich kraftvoller.
+
+Wenn wir unser Handy benutzen sind wir oft vorgebeugt und machen uns klein. Dadurch rauben wir uns selbst die Kraft.
 
 [Presence](https://www.goodreads.com/book/show/25066556-presence)
 

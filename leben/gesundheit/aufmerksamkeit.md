@@ -36,6 +36,16 @@ Es geht darum, die Lautstärke unseres eigenen konzentrierten Denkens so zu erh�
 
 [It Takes What It Takes](https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes)
 
+## iPhone Effekt
+
+Wenn ein Handy auf dem Tisch liegt, sind wir deutlich abgelenkter. Es muss nicht mal eingeschaltet oder unser eigenes sein.
+
+Wir sollten also unser Handy in der Tasche lassen, wenn wir jemandem unsere Aufmerksakeit schenken wollen.
+
+Am besten lassen wir es in einem anderen Raum im "Nicht Stören"-Modus.
+
+[Are You Fully Charged?](https://www.goodreads.com/book/show/23493818-are-you-fully-charged)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

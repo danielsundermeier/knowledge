@@ -93,6 +93,14 @@ Wenn wir bereit sind, angesichts der Angst zu handeln und erkennen, dass die Str
 
 [Living Fearlessly](https://www.goodreads.com/book/show/35316.Living_Fearlessly_Self_Realization_Fellowship_)
 
+## Angst vergeht nicht
+
+Henry Ford musste sich vor jedem öffentlichen Auftritt übergeben, auch noch mit 75 Jahren. Er hat aber einfach aufgeräumt und ist auf die Bühne gegangen.
+
+Der Amateur glaubt, dass wir die Angst erst überwinden müssen bevor wir anfangen können. Der Profi weiß, dass wir die Angst nicht loswerden und wir einfach anfangen müssen.
+
+[The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

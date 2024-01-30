@@ -214,6 +214,18 @@ Die Moral der Geschichte ist, dass wir es niemals allen Recht machen können.
 
 [Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
 
+## Kritisieren
+
+> "If you find yourself criticizing other people, you’re probably doing it out of Resistance. When we see others beginning to live their authentic lives, it drives us crazy if we have not lived out our own. Individuals who are realized in their own lives almost never criticize others. If they speak at all, it is to offer encouragement." - Steven Pressfield
+
+Wenn wir mit uns und unserem Leben zufrieden sind, kritisieren wir andere nicht. Wir ermutigen sie.
+
+Nur wenn wir neidisch sind, weil wir uns nicht trauen unser Leben so zu führen, wie wir das gerne würden, fangen wir an zu nörgeln.
+
+Wir sollten das auch bedenken, wenn andere uns kritisieren.
+
+[The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

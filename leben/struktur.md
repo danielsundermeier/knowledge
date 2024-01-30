@@ -14,6 +14,8 @@ Diese Struktur gibt mir einen Rhythmus für den Tag vor.
 
 "Work + Rest = Rhythms = Creative Genius" - Brian Johnson
 
+> "Maugham reckoned another deeper truth: that by performing the mundane act of sitting down and starting to work, he set in motion a mysterious but infallible sequence of events that would produce inspiration, as surely as if the goddess had synchronized her watch with his." - Steven Pressfield
+
 ## Ist
 
 Wie verbinge ich aktuell meinen Tag?

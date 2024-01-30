@@ -12,6 +12,8 @@ Wir können es uns als Gummiband vorstellen. Wenn die Spannung zu groß ist, rei
 
 > "At the end of your life, you won’t remember the thoughts or intentions you had. You’ll remember the actions you took. You’ll judge yourself by how you showed up, by what you did, what you said, how you acted, and whether you performed in a way you knew you could in any of the stages of life." - Todd Herman
 
+> "The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had the guts." - Steven Pressfield
+
 ## Meine Lösung
 
 - Sehr kleines Ziel setzen

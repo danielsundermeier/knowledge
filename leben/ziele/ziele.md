@@ -235,6 +235,21 @@ Je schwieriger es wird, umso kleiner sollten unsere Ziele werden. Diese Mikrozie
 
 [The Way of the SEAL](https://www.goodreads.com/book/show/17465530-the-way-of-the-seal)
 
+## The Mental Management Goal Setting System
+
+1. Determine a goal worth trading your life for.
+2. Decide when you want it.
+3. List the pay-value. (Warum ist es wichtig für mich?)
+4. Honestly evaluate the obstacles in your way.
+5. What is your plan to get your goal?
+6. Evaluate the plan before you proceed.
+7. Schedule your plan.
+8. Start Now.
+9. Prior to reaching your goal always set a new one to take it's place.
+10. Hold on to the end or trade up.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

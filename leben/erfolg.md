@@ -190,6 +190,14 @@ Das Ziel ist, diesen Zustand immer öfter und auf Kommando erreichen zu können.
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Arbeit und die Nebenprdukte
+
+> "The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and allows rewards to come or not come, whatever they like." - Steven Pressfield
+
+Wir definieren was Erfolg für uns bedeutet. Für John Wooden war es der Seelenfrieden, weil es wusste, dass er sein bestes gegeben hat. Alles andere ist ein Nebenprodukt.
+
+[The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

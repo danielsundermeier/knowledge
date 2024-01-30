@@ -142,6 +142,14 @@ Wenn wir unsere Stärken einsetzen, bekommen wir mehr Energie zurück als wir ve
 
 Aktivität führt zu mehr Aktivität, genau wie Inaktivität zu mehr Inaktivität führt.
 
+## Wahre Liebe
+
+Die lateinische Wurzel vom Wort Amateur bedeutet "zu lieben". Die gewöhnliche Interpretation ist, dass wir etwas aus Liebe tun und der Profi des Geldes wegen.
+
+Wir können es aber auch anders sehen. Der Amateur liebt es nicht genug. Wenn es so wäre, würde er es nicht als Hobby betreiben. Der Profi liebt es so sehr, dass er ihm sein Leben widmet.
+
+[The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

@@ -21,6 +21,34 @@
 - [Whenever you compose an email, put your ask in the first sentence. Do you want information from them? Do you want them to do something for you? Put it in the first sentence. Then put the explanation and details in the rest of the email.](https://news.ycombinator.com/item?id=23064974)
 - [The ONLY Two Laws for Writing Any Email](https://www.linkedin.com/pulse/only-two-laws-writing-any-email-henry-taylor/)
 
+## Vorstellungen bewirken
+
+Es ist nicht so entscheidend, was wir sagen, sondern welche Vorstellungen wir bei uns und anderen auslösen.
+
+Wenn wir hören, dass wir bloß nicht scheitern sollen, denken wir an das Scheitern.
+
+> "I always give myself commands in a positive way. I remind myself that what others are picturing as a result of hearing me speak, is crusial to proper understanding" - Lanny Bassham
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Positive Verhersage
+
+Wir können Menschen für ihre gute Arbeit lobben bevor sie sie getan haben. 
+
+Das führt häufig dazu, dass sie auch entsprechend ausgeführt wird.
+
+Jeder hört gerne ein Kompliment und wir profitieren auch davon.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Lob
+
+Wenn wir gutes Verhalten loben, wird es wiederholt. Das gilt auch für unser eigenes Verhalten.
+
+Wenn das Loben zu unserer Gewohnheit wird, sind wir bald von kompetenten Menschen umgeben, die gerne mit uns arbeiten wollen.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
 ## Links
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)

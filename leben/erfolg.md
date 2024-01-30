@@ -180,6 +180,16 @@ Das Gleiche trifft auch auf uns zu. Wir müssen herausfinden, wie wir Erfolg hab
 
 [Win Forever](https://www.goodreads.com/book/show/8594535-win-forever)
 
+## Gleichgewicht der Kräfte
+
+Wenn wir unser bestes geben fühlt es sich nicht schwierig an. Es ist der Punkt an dem unser Bewusstsein, Unterbewusstsein und unser Selbstbild im Gleichgewicht sind und zusammenarbeiten.
+
+Wir handeln ruhig, effizient und scheinbar mühelos.
+
+Das Ziel ist, diesen Zustand immer öfter und auf Kommando erreichen zu können.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

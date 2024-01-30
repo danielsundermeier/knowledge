@@ -2,6 +2,16 @@
 
 > "For twenty years, my research has shown that the view you adopt for yourself profoundly affects the way you lead your life. It can determine whether you become the person you want to be and whether you accomplish the things you value. How does this happen? How can a simple belief have the power to transform your psychology and, as a result, your life?" - Carol Dweck
 
+Unser Selbstbild lässt uns handeln "wie wir sind". Es ist die Summe unserer Gewohnheiten und Einstellungen. Unsere Leistungsfähigkeit enspricht immer unserem Selbstbild.
+
+Alles, an das wir denken oder tun, wird gespeichert und beeinflusst unser Selbstbild.
+
+Es bewegt uns dazu das zu tun, was sich unser Bewusstsein vorstellt.
+
+Wir können unser Selbstbild ändern, indem wir unsere Prägungen verändern.
+
+Wir erhöhen die Wahrscheinlichkeit das etwas passiert, je öfter wir daran denken, darüber reden oder schreiben.
+
 ## Statisches Selbstbild
 
 - Fähigkeiten und Talente sind unveränderbar und bei der Geburt festgelegt

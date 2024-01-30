@@ -23,3 +23,11 @@ Ich habe es noch nie bereut zum Training gegangen zu sein, egal wie sehr ich mic
 Im Schlechtesten Fall sind wir froh, dass wir es überstanden haben. In der Regel ist es aber besser. Wir gehen gestärkt aus der Erfahrung hervor. Vielleicht wollen wir es sogar direkt nochmal machen.
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
+
+## Selbstbild
+
+Unser Selbstbild bestimmt unsere Komfortzone. Wenn wir unter unseren Ansprüchen liegen, gibt es uns Kraft. Wenn wir darüber liegen, bremst es uns aus.
+
+Wir können immer nur das leisten, was unser Selbstbild zulässt.
+
+[With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)

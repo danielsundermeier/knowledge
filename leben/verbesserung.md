@@ -33,6 +33,8 @@ Wichtig ist, dass ich alle meine [Gewohnheiten](./gewohnheiten.md) weiter umsetz
 
 > "What if my job as a coach isn’t so much to force or coerce performance as it is to create situations where players develop the confidence to set their talents free and pursue their potential to its full extent? What if my job as a coach is really to prove to these kids how good they already are, how good they could possibly become, and that they are truly capable of high-level performance?" - Pete Carroll
 
+> "NOTHING IS GOING TO CHANGE UNLESS YOU CHANGE YOURSELF FIRST" - Lanny Bassham
+
 ## Vorgehen
 
 Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas Gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.

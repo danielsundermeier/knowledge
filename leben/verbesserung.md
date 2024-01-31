@@ -137,6 +137,18 @@ Die Sicherheit wirkt auf den ersten Blick verlockender. Sie hat aber einen Preis
 
 [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
+## Wir können andere nicht ändern
+
+Anstatt unsere Energie darauf zu verwenden andere ändern zu wollen, sollten wir sie nutzen, um besser zu werden und als strahlendes Beispiel voranzugehen.
+
+Wir sollten uns auf uns selbst konznetrieren, es ist das einzige, was wir kontrollieren können.
+
+Wenn wir uns merklich zum besseren verändert haben, werden es die anderen bemerken und manche, nicht alle, werden uns nach Ratschlägen fragen.
+
+So können wir andere zum besseren beeinflussen
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

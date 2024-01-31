@@ -106,6 +106,12 @@ Ein Stolperdraht richtet meinen Fokus auf das Problem.
 Beispiel:
 Jeden Tag wiegen, um festzustellen, ob die Ernährung und das Training funktionieren.
 
+## Werde ich stolz auf mich sein?
+
+Egal, was wir gerade durchmachen, wir können uns fragen, wie wir mit der Situation so umgehen können, dass wir in fünf Jahren darauf zurückblicken können und stolz darauf sind, wie wir gehandelt haben.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

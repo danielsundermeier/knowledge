@@ -44,6 +44,16 @@ Es ist das Gefühl, das wir haben, wenn wir uns selbst wirklich vertrauen. Wenn 
 
 Um das zu erreichen müssen wir wissen, warum wir tun, was wir tun. Nur dann wissen wir, was Erfolg wirklich für uns bedeutet. Wir lassen und nicht mehr ablenken oder blenden. Wir haben unseren Weg gefunden.
 
+## Selbstwirksamkeitsmaschine
+
+Mini Gewohnheiten sind eine gute Wahl, um unser Selbstvertrauen aufzubauen. Wir brauchen keins, um anzufangen.
+
+Die Ziele sind so leicht, dass wir sie auf jeden Fall erreichen können. Dadruch erschaffen wir eine Aufwärtsspirale und bauen dabei Selbstvertrauen auf.
+
+Wir machen, was wir uns vorgenommen haben und lernen so uns selbst zu vertrauen.
+
+[Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
+
 ## Links
 
 - [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)

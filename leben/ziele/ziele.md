@@ -250,6 +250,12 @@ Je schwieriger es wird, umso kleiner sollten unsere Ziele werden. Diese Mikrozie
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Gewinnen vs Verlieren
+
+Wenn wir uns ein großes Ziel gesetzt haben, wie zum Beispiel 50kg abzunehmen, fühlen wir uns so lange wie ein Verlierer, bis wir das Ziel erreicht haben, selbst wenn wir schon 10kg abgenommen haben.
+
+Ein besserer Ansatz ist ein System aus Minigewohnheiten zu etablieren. So gewinnen wir jedes Mal, wenn wir es ausführen. Das motiviert uns und wir fühlen uns gut.
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

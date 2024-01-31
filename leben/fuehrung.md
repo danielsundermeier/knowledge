@@ -106,6 +106,20 @@ Die Autoren empfehlen eine Checkliste am Abend durchzugehen, um unsere Erfolge z
 
 [The Progress Principle](https://www.goodreads.com/book/show/11721498-the-progress-principle)
 
+## Grenzen
+
+Anstatt auf Zuckerbrot und Peitsche zu setzen, sollten wir Standards und Grenzen für unser Team setzen und sie auch durchsetzen.
+
+Belohnungen und Bestrafungen funktionieren nur kurzfristig. Es sind extrinsische Motivatoren. 
+
+Wer sich nicht daran hält, kann heute nicht mitmachen. Wichtig ist aber, dass wir nicht urteilen und es am nächsten Tag weitergehen kann, als wäre nicht passiert.
+
+John Wooden hat einmal seinen Starspieler nicht mit dem Bus fahren lassen, weil er nicht rasiert war. Er hat den Bart gelobt, der Spieler musste ihn aber trotzdem reasieren, weil es zu den Regeln gehört. Zusätzlich musste er einen Weg finden zum Spiel zu kommen.
+
+Er hat dadurch gezeigt, was passiert, wenn man Grenzen überschreitet und sich nicht an die Regeln hält. Es gibt auch keine Ausnahmen und sie gelten für alle.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

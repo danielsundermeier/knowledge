@@ -198,6 +198,17 @@ Es ist besser eine Aufgabe nach der anderen zu bearbeiten.
 
 [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 
+## Die 4 Disziplinen der Ausführung
+
+1. Konzentrieren Sie sich auf das äußerst Wichtige.
+2. Handeln Sie nach Leitmaßnahmen.
+3. Führen Sie eine überzeugende Scorecard.
+4. Schaffen Sie einen Rhythmus der Verantwortlichkeit.
+
+## Der Wirbelwind
+
+Es wird immer eine Menge dringender Dinge geben, die unsere Aufmerksamkeit erfordern. Das müssen wir wissen. Und dann müssen wir sicherstellen, dass wir den wirklich wichtigen Dingen Priorität einräumen, die uns helfen, unsere wichtigsten Ziele zu erreichen.
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber
@@ -208,6 +219,11 @@ Es ist besser eine Aufgabe nach der anderen zu bearbeiten.
 - https://www.nateliason.com/blog/productive
 
 > "Do the hard work, especially when you don't feel like it."
+
+## Bücher
+
+- [Deep Work]
+- [The 4 Disciplines of Execution](https://www.goodreads.com/book/show/13260184-the-4-disciplines-of-execution)
 
 ## Links
 

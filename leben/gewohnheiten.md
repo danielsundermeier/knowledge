@@ -492,6 +492,26 @@ Dadurch prägen wir uns das Verhalten besser ein und wollen es wiederholen.
 
 [Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
 
+## Zu klein, um zu scheitern
+
+Mini Gewohnheiten sollten so klein sein, dass es schwieriger ist sie nicht zu tun.
+
+Wenn wir 15 (oder 30 oder 60) Minuten meditieren müssen, um zu gewinnen, ist an manchen Tagen eine Menge Motivation und/oder Willenskraft erforderlich, was zu einem Gefühl des Versagens führt. Dadurch geben wir auf und die der erhofften Gewohnheit wird nicht etabliert.
+
+Wenn wir aber nur eine Minute oder einen Atemzug meditieren müssen, um von einem Sieg zu sprechen, brauchen wir nicht viel Motivation oder Willenskraft, um dies zu erreichen.
+
+Und das führt zu einem Gefühl des Gewinnens. Zusätzlich starten wir eine Dynamik, bei der wir wahrscheinlich "Bonuswiederholungen" machen.
+
+[Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
+
+## Trägheitsgesetz
+
+Wenn wir und vorstellen ein mehr als 30-minütiges anstrengendes Training oder eine ebenso anstrengende Meditationssitzung zu machen, obwohl wir uns nicht danach fühlen, werden wir wahscheinlich eine Ausrede finden es nicht zu tun.
+
+Wenn wir aber ein Miniziel haben, werden unsere Abwehrkräfte geschwächt und Sie machen leichter den ersten und schwierigsten kleinen Schritt. Dadurch schaffen wir uns Schwung, der uns wahrscheinlich am Laufen hält.
+
+[Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)
@@ -506,6 +526,7 @@ Dadurch prägen wir uns das Verhalten besser ein und wollen es wiederholen.
 - [Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)
 - [Superhuman by Habit](https://www.goodreads.com/book/show/23206969-superhuman-by-habit)
 - [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+- [Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
 
 ## Links
 - [How to hack habits](https://twitter.com/justinkan/status/1352040558198329344)

@@ -146,6 +146,14 @@ Wenn wir uns dabei erwischen, wie wir andere dafür kritisieren etwas Großes zu
 
 [Verletzlichkeit macht stark](https://www.goodreads.com/book/show/55320403-verletzlichkeit-macht-stark)
 
+## Ready, Fire, Aim
+
+> "What we do moves us forward and gives us more information about how to proceed. The doing itself becomes the teacher and guide." - Patricia Ryan Madson
+
+Sobald wir etwas tun, können wir lernen. Wenn wir immer nur denken, planen, grübeln und uns vorbereiten, verpassen wir diese Chance und das Leben zieht an uns vorbei.
+
+[Improv Wisdom](https://www.goodreads.com/book/show/182052.Improv_Wisdom)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)
@@ -155,6 +163,10 @@ Wenn wir uns dabei erwischen, wie wir andere dafür kritisieren etwas Großes zu
 > "You put in the reps by regularly publishing, then once there’s a topic that you want to dive deep into, you invest the time and energy necessary to create something long-lasting" - [Make Classics, Not Content](https://moretothat.com/make-classics-not-content/)
 
 > "Your life is a kind of laboratory where you’re constantly experimenting with your own higher knowing, always increasing your capacity to design the life you choose. Human beings must create; it’s hardwired. The question is, are you consciously creating or only sleepwalking through your human life?" - David Emerald
+
+## Bücher
+
+- [Improv Wisdom](https://www.goodreads.com/book/show/182052.Improv_Wisdom)
 
 ## Links
 

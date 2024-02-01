@@ -252,6 +252,18 @@ Wenn wir unser Handy benutzen sind wir oft vorgebeugt und machen uns klein. Dadu
 
 [Presence](https://www.goodreads.com/book/show/25066556-presence)
 
+## Videos
+
+Wir sollten uns nur Videos von gelungenen Vorstellungen ansehen. Sie prägen unser Selbstbild.
+
+Wir können uns täglich Videos unserer Highlights oder von Menschen, die wir bewundern anschauen. Es hilft und dabei besser zu werden.
+
+Wenn wir und immer wieder negative Beispiele anschauen, übernehmen wir sie. Wir prägen unser Selbstbild druch das, was wir und anschauen, worüber wir reden und denken.
+
+Es hilft aber uns selbst zu filmen, um zu sehen, wie wir etwas tun. Wir sollten es uns aber nicht immer weider angucken.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

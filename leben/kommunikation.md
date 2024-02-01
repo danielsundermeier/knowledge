@@ -49,6 +49,31 @@ Wenn das Loben zu unserer Gewohnheit wird, sind wir bald von kompetenten Mensche
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
 
+## Komplimente
+
+Wir sollten nie eine Gelegenheit für ein konkretes und aufrichtiges Kompliment versäumen.
+
+Wir wissen nie, wer es gerade gebrauchen kann. Besonders, wenn wir denken, dass die Menschen es nicht brauchen.
+
+Manchmal ist es die Person, von der wir es am wenigsten erwarten, die ein konkretes und aufrichtiges Kompliment braucht.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
+## Fragen
+
+Wonach wir fragen zeigt, was wir wertschätzen. Wir wollen nicht nach einem Ergebnis fragen, sondern ein dynamisches Selbstbild fördern.
+
+- Was hast Du heute gut gemacht?
+- Erzähl mir etwas von einem Moment in dem du dich sehr selbstbewusst gefühlt hast.
+- Worauf freust Du dich in deinem Leben gerade am meisten?
+- Was ist einer deiner aktuell größten Herausforderungen?
+- Was hast Du heute gelernt?
+- Woran können wir heute arbeiten und etwas neues lernen?
+- Aus welchem Fehler hast Du am meisten gelernt?
+- Was hast Du dir vorgenommen und tatsächlich auch gemacht?
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Links
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)

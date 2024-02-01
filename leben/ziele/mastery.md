@@ -8,6 +8,8 @@ Warum sind manche Menschen so unglaublich gut in was sie tun?
 
 > "There is one single thread binding my way together… the way of the Master consists in doing one’s best… that is all." - Confucius
 
+> "Everyone wants to be great, until it's time to do what greatness requires" - Joshua Medcalf & Jamie Gilbert
+
 ## Die Gabe
 
 Diese Menschen haben eine Gabe. Sie haben ihre Fähigkeiten durch spezielles Training, das Veränderungen im Gehirn und im Körper vorantreibt erlangt.

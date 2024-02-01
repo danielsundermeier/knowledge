@@ -145,7 +145,7 @@ Wir sollten uns auf uns selbst konznetrieren, es ist das einzige, was wir kontro
 
 Wenn wir uns merklich zum besseren verändert haben, werden es die anderen bemerken und manche, nicht alle, werden uns nach Ratschlägen fragen.
 
-So können wir andere zum besseren beeinflussen
+So können wir andere positiv beeinflussen, was zu einer Veränderung führen kann.
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 

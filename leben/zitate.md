@@ -77,3 +77,5 @@ Applied to today, a reminder that how you live each day really does matter. It c
 > "To get what you want, deserve what you want. Trust, success, and admiration are earned." - [The Munger Operating System](https://fs.blog/2016/04/munger-operating-system/)
 
 > "Ultimately, your life will be measured by what you gave, not what you received. Don’t hold out on the rest of us—we need you to contribute. Spend your life building a body of work you will be proud of. Engage today with urgency and diligence. Plant seeds every day that will yield a harvest later. Tomorrow is only an unfulfilled wish, so live and work as if today is all you have. If you do, you will be able to lay your head down each night satisfied with your work, and in the end, you will die empty of regret, but full of satisfaction for a life well lived." - Todd Henry
+
+> "I want to be able to get diagnosed with terminal cancer and it not change a thing about the way I live." - Joshua Medcalf

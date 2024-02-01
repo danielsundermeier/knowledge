@@ -120,6 +120,26 @@ Er hat dadurch gezeigt, was passiert, wenn man Grenzen überschreitet und sich n
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Körpersprache
+
+Unsere Emotionen spiegeln sich auf unserem Gesicht, aber auch in unserer Körperhaltung.
+
+Andere Menschen können so lesen, wie wir uns fühlen.
+
+Wir können versuchen unter allen Umstanden einen positiven und ermutigenden Gesichtsausdruck zu haben und so die Menschen, die wir führen, Sicherheit zu vermitteln.
+
+Wir können es vor dem Spiegel üben, indem wir uns mit geschlossenen Augen eine negative Sitaution vorstellen und dann unsere Aufgane öffnen.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
+## Grundlagen
+
+1. Integrität: Absolute Ehrlichkeit. Keine kleinen (oder großen) Übertreibungen, keine Notlügen. Die Wahrheit.
+2. Authentizität. Sei du selbst. Nicht vorgeben jemand zu sein, der wir nicht sind.
+3. Disziplin. Wir tun, was getan werden muss, ob uns danach ist oder nicht.
+
+[The 21 Irrefutable Laws of Leadership](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)
@@ -128,3 +148,4 @@ Er hat dadurch gezeigt, was passiert, wenn man Grenzen überschreitet und sich n
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)
 - [Call Sign Chaos](https://www.goodreads.com/book/show/46037714-call-sign-chaos)
 - [Leadership](https://www.goodreads.com/book/show/38657386-leadership)
+- [The 21 Irrefutable Laws of Leadership](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)

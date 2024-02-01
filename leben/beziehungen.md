@@ -226,6 +226,26 @@ Wir sollten das auch bedenken, wenn andere uns kritisieren.
 
 [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
 
+## Verzweiflung
+
+Oft sind wir verzweifelt auf der Suche nach der richtigen Person oder wollen unbedingt etwas verkaufen. Wir setzen die Welt in Bewegung und machen große Versprechungen, um an unser Ziel zu kommen.
+
+Das kommt aber oft auch beim Anderen an und sie entscheiden sich dagegen.
+
+Stattdessen sollten wir ehrlich, offen und transparent sein.
+
+Wir können sagen, wenn unser Angebot nicht die optimale Lösung ist und Empfehlungen für ein besseres machen.
+
+Das macht deutlich mehr Eindruck und wir müssen uns nicht verstellen.
+
+Wir sollten aufhören Menschen anzubetteln unserer Sache zu folgen und uns stattdessen darauf konzentrieren coole Dinge zu tun.
+
+Wir sollten uns mit den wichitgen Aufgaben beschätigen und an unseren Wert glauben.
+
+Wir können dadurch Menschen anziehen, von denen wir nicht mal im Traum gedacht haben in unser Team zu kommen.
+
+[Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

@@ -1,5 +1,7 @@
 # Gefühle
 
+> "Our behavior is controllable in a way that our feelings are not. There is a very special satisfaction for the Artist of Living who works within life’s limits to produce a fine self-portrait. The more control we develop over our actions, the more chance we have of producing a self we can be proud of." - David K. Reynolds
+
 ## Warnsignal
 
 Manchmal verlieren wir uns in den Ergebnissen und hören nicht auch unsere Gefühle. Wir sind so sehr auf die Menge an Geld, das Gewicht oder Dinge, die wir kaufen wollen, finxiert, dass wir die Erfahrungen vergessen.
@@ -35,6 +37,33 @@ Der erste Schritt ist uns zu erlauben, dass Gefühl zu haben, ohne ihm Widerstan
 
 [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)
 
+## Selbstbeherschung
+
+> "The mature human being goes about doing what needs to be done regardless of whether that person feels great or terrible. Knowing that you are the kind of person with that kind of self-control brings all the satisfaction and confidence you will ever need. Even on days when the satisfaction and confidence just aren’t there, you can get the job done anyway." - David K. Reynolds
+
+Wenn wir nur etwas tun, wenn wir uns danach fühlen, wird nicht viel passieren. Wir sollten unabhängig von unseren Gefühlen handeln können und das tun, was wir uns vorgenommen haben.
+
+[Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
+
+## Gefühle werden durch unser Verhalten beeinflusst
+
+Wir könnnen unsere Gefühle nicht direkt kontrollieren. Sie kommen und gehen und wir können es nicht verhindern. Sie sind wie Wolken am Himmel. Wir sollten uns damit abpfinden und das akzeptieren.
+
+Jedes Gefühl, wie unangenehm es auch sein mag, hat aber seinen Nutzen. Es weißt auf einen Bereich in unserem Leben hin, der einer Anpassung bedarf.
+
+Das Gefühl zu ignorieren oder sich darüber aufzuregen, ist ein bisschen so, als ob wir uns darüber aufregen, dass der Feueralarm ausgelöst wird, weil es brennt.
+
+Wenn wir aufhören würden, uns an unsere negativen Gefühle zu erinnern und jedem, dem wir begegnen, unsere schmerzhaften Geschichten noch einmal zu erzählen, würden diese Gefühle verblassen. 
+
+Wir könnnen unsere Gefühle durch unser Verhalten beeinflussen. Wenn wir uns nicht gut fühlen und trotzdem (oder gerade deshalb) unsere Routine durchziehen, fühlen wir uns danach besser. 
+
+Gefühle folgen unserem Verhalten!
+
+Dafür könnne wir unsere Tage so gestalten, dass wir die Dinge auf jeden Fall tun, durch die wir uns besser fühlen. 
+
+[Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)
+- [Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)

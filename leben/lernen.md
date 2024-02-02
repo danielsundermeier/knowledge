@@ -148,9 +148,18 @@ Um das zu schaffen, ist es wichtig eine Umgebung zu kreieren, die dem Lernen fö
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## ELI5
+
+Wenn wir etwas wirklich verstehen wollen, können wir es jemand anderem erklären, als wäre er fünf Jahre alt.
+
+Wir erkennen so, was wir selsbt noch nicht ganz verstanden haben und müssen wirklich einfache Erlärungen finden.
+
+[A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+- [A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
 ## Links
 

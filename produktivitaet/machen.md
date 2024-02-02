@@ -154,6 +154,16 @@ Sobald wir etwas tun, können wir lernen. Wenn wir immer nur denken, planen, gr�
 
 [Improv Wisdom](https://www.goodreads.com/book/show/182052.Improv_Wisdom)
 
+## Now what needs to be done?
+
+> "Now what needs to be done?" - David K. Reynolds
+
+Wenn es jemals ein Allheilmittel gab, um optimal zu leben und ein hohes Maß an Glück aufrechtzuerhalten, dann könnte diese Frage im Mittelpunkt stehen.
+
+Egal wie wir uns fühlen oder was gerade in unserem Leben passiert. Wir können uns diese Frage stellen und es ausführen. Dann stellen wir uns die Frage erneut.
+
+[Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

@@ -209,6 +209,15 @@ Es ist besser eine Aufgabe nach der anderen zu bearbeiten.
 
 Es wird immer eine Menge dringender Dinge geben, die unsere Aufmerksamkeit erfordern. Das müssen wir wissen. Und dann müssen wir sicherstellen, dass wir den wirklich wichtigen Dingen Priorität einräumen, die uns helfen, unsere wichtigsten Ziele zu erreichen.
 
+## Deep Work Style
+
+1. Einsiedler: Alleine und von allem abgeschlossen nur konzentriert arbeiten
+2. Bimodal: Eine Hälfte konzentrierte Arbeit, die andere sehr engagiert im Leben
+3. Rhythmisch: Eine bestimmte Zeit des Tages für konzentriertes Arbeiten reservieren
+4. Journalistisch: Deep Work in zufälligen Abständen, wenn es gerade passt
+
+[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber
@@ -222,7 +231,7 @@ Es wird immer eine Menge dringender Dinge geben, die unsere Aufmerksamkeit erfor
 
 ## Bücher
 
-- [Deep Work]
+- [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 - [The 4 Disciplines of Execution](https://www.goodreads.com/book/show/13260184-the-4-disciplines-of-execution)
 
 ## Links

@@ -198,6 +198,10 @@ Die Dinge von ihrem Blickwinkel betrachten.
 
 - [Introducing Colossus](https://joincolossus.com/blog/posts/introducing-colossus)
 
+### Büros
+
+- [Officelovin](https://www.officelovin.com/)
+
 ## Journey
 
 - [Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business](Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business)

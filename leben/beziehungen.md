@@ -246,6 +246,23 @@ Wir können dadurch Menschen anziehen, von denen wir nicht mal im Traum gedacht 
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Liebe ist Verbindung
+
+> "To put it in a nutshell, love is the momentary upwelling of three tightly interwoven events: first, a sharing of one or more positive emotions between you and another; second, a synchrony between your and the other person’s biochemistry and behaviors; and third, a reflected motive to invest in each other’s well-being that brings mutual care." - Barbara Fredrickson
+
+Wir finden Liebe kleinen Momenten, in denen wir wirklich präsent sind und eine positive Erfahrung mit jemandem teilen. Wenn das passiert, synchronisieren sich unser Gehirn und unser Körper auf wirklich erstaunliche Weise. Wenn Sie etwas gegenseitige Fürsorge für das Wohlergehen der anderen einbringen, entsteht eine positive Resonanz – auch bekannt als Liebe.
+
+> "Put simply, your body was designed for love, and to benefit from loving." - Barbara Fredrickson
+
+Wir sollten Gelegenheite uns mit anderen zu verbinden wahrnehmen. Es tut uns und unserem Körper gut. 
+
+Die Absicht, mehr Mikromomente liebevoller Verbindung zu suchen und zu schaffen, kann ein weiteres Instrument zur Steigerung unsere Gesundheit und Wohlbefindens sein.
+
+[Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)
+
+
+
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
@@ -311,3 +328,4 @@ Wir können dadurch Menschen anziehen, von denen wir nicht mal im Traum gedacht 
 ## Bücher
 
 - [Happy Together](https://www.goodreads.com/book/show/34972485-happy-together)
+- [Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)

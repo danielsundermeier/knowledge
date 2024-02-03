@@ -191,6 +191,18 @@ Es hilft uns dabei eine neue Version von uns zu erschaffen. Vorher haben wir den
 
 [Coming Alive](https://www.goodreads.com/book/show/18166862-coming-alive)
 
+## Den Kanal wechseln
+
+Wenn uns negative Gedanken durch den Kopf gehen, können wir sie durch positive Erinnerungen ersetzen. Es ist wie beim Fernsehprogramm. Wenn wir etwas nicht mögen, schalten wir um.
+
+Wir sollten uns ein Arsenal an positiven Erinnerungen schaffen, auf die wir zurückgreifen können.
+
+Wir können genauso in positiven Erinnerungen schwelgen, wie in negativen.
+
+Worüber wir am meisten nachdenken dominiert unseren geistigen und emotionalen Zustand.
+
+[The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

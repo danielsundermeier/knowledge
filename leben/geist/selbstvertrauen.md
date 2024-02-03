@@ -6,6 +6,8 @@
 - Muss verdient werden, wie alle Arten von Vertrauen
 - Nervosität als Begeisterung interpretieren -> I'm excited
 
+> "Arrogance requires advertising. Confidence speaks for itself" - Mike Krzyzewski
+
 ## Quellen
 
 - Eigene Erfolgserlebnisse
@@ -53,6 +55,10 @@ Die Ziele sind so leicht, dass wir sie auf jeden Fall erreichen können. Dadruch
 Wir machen, was wir uns vorgenommen haben und lernen so uns selbst zu vertrauen.
 
 [Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
+
+## Bücher
+
+- [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)
 
 ## Links
 

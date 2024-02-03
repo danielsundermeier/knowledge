@@ -4,6 +4,14 @@ Fehler zu machen ist menschlich. Es sagt nichts über unseren Wert aus, wenn wir
 
 > "It seems that the necessary thing to do is not to fear mistakes, to plunge in, to do the best that one can, hoping to learn enough from blunders to correct them eventually." - Abraham Maslow
 
+Wir sollten Fehler als Lektionen sehen und uns zeigen, wie wir etwas besser machen können. Wir sollten versuchen sie mit Abstand zu betrachten und uns vorstellen, was wir beim nächsten Mal anders machen können.
+
+Wenn wir die Fehler wieder und wieder in unserem Kopf abspielen, prägen wir sie uns ein und die Emotionen kommen immer wieder auf.
+
+Es sind aber nur Daten, die wir für unser Wachstum verwenden können. Nur wenn wir etwas Neues ausprobieren und unser bestes geben, werden wir stärker und können uns verbessern.
+
+Dabei passieren Fehler, durch die wir lernen sie in Zukunft zu vermeiden.
+
 ## Notwendige Fehlbarkeit
 
 Wir sind nicht allwissend oder allmächtig. Manche Dinge sind außerhalb von dem, was wir zu leisten im Stande sind.
@@ -20,7 +28,7 @@ Wenn wir nur einen Bruchteil dessen, was wir bereits wissen, konsequenter anwend
 
 ## 0,300 Trefferquote
 
-Im Baseball wird kommen wir in die Hall of Fame, wenn wir eine Trefferquote von 0,3 haben. Es ist unglaublich gut. Mit 3/10 Treffern gehören wir zu den Besten.
+Im Baseball kommen wir in die Hall of Fame, wenn wir eine Trefferquote von 0,3 haben. Es ist unglaublich gut. Mit 3/10 Treffern gehören wir zu den Besten.
 
 Wenn wir also das nächste mal einen Fehler machen, können wir uns an die Baseballer erinnern und nicht so hart zu uns sein. Fehler gehören dazu und wir können aus ihnen lernen.
 

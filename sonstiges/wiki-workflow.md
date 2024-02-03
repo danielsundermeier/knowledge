@@ -37,3 +37,4 @@
 - [The Commonplace Book](https://thedeepdish.org/digital-commonplace-book/)
 - [Beginner's Guide: The First 30 Days Using a Notes App](https://www.youtube.com/watch?v=tOS53fSDqVw)
 - [Foam](https://github.com/foambubble/foam/) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
+- [How to Build a Paper Research Wiki](https://calnewport.com/how-to-build-a-paper-research-wiki/)

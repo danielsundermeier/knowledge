@@ -18,6 +18,11 @@
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 - [The Light and Dark Side of the API Economy](https://www.swyx.io/api-economy/)
 - [Learn API Doc](https://idratherbewriting.com/learnapidoc/)
+- [Nordic APIs](https://nordicapis.com/)
+
+## Newsletter
+
+- [API Developer Weekly](https://us2.campaign-archive.com/home/?u=5005148108dfbac726f74e31e&id=239e48d26e)
 
 ### Tests
 

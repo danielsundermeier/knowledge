@@ -404,6 +404,14 @@ Was würden wir uns selbst raten? Was würden wir sagen, wenn wir uns treffen?
 
 [Happier](https://www.goodreads.com/book/show/302971.Happier)
 
+## Vergnügen und Sinn
+
+Sigmund Freud machte die Psychoanalyse populär, indem er vertrat, dass das Verlangen nach Vergnügen menschliches Verhalten motiviert.
+
+Viktor Frankl hat ihm widersprochen. Er hat gesagt, dass der Mensch ein Verlangen nach einem Sinn hat. Nur wenn der nicht gegeben ist, lenken wir uns mit dem Vergnügen ab.
+
+[Hero on a Mission](https://www.goodreads.com/book/show/57468174-hero-on-a-mission)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

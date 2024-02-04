@@ -258,10 +258,9 @@ Wir sollten Gelegenheite uns mit anderen zu verbinden wahrnehmen. Es tut uns und
 
 Die Absicht, mehr Mikromomente liebevoller Verbindung zu suchen und zu schaffen, kann ein weiteres Instrument zur Steigerung unsere Gesundheit und Wohlbefindens sein.
 
+Mit der Meditation der liebenden Güte können wir unser Mitgefühl stärken und unseren Kokon der Selbstabsorption verlassen.
+
 [Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)
-
-
-
 
 ## Links
 

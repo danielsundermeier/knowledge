@@ -263,6 +263,20 @@ In dem Maße, in dem wir uns um unsere grundlegenderen Bedürfnisse gekümmert h
 
 [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
+## Lebensvision
+
+Um herauszufinden, was wir mit unserem Leben anfangen wollen, können wir unsere Grabrede schreiben. So wird uns klar, wofür wir in Erinnerung bleiben wollen. Es werden aber in der Regel nicht die Erfolge sein, sondern unser Charkter, der im Vordergrund steht.
+
+Dazu können wir unsere Pläne für 1, 5 und 10 Jahre aufschreiben.
+
+Diese Texte lesen wir uns dann täglich durch, um uns in Erinnerung zu rufen, was uns wichtig ist und was wir erreichen wollen.
+
+[Hero on a Mission](https://www.goodreads.com/book/show/57468174-hero-on-a-mission)
+
+Wir sollten einfach anfangen und uns nicht zu viele Gedanken machen. Wichtig ist einen ersten (schlechten) Entwurf zu haben, mit dem wir weitermachen können.
+
+Wenn wir uns unsere Vision und die Pläne täglich durchlesen, bekommen wir immer neue Ideen und können die Pläne editieren. So kommen wir unserer wahren Lebensvision immer näher und finden heraus, was wir wollen und was uns wichtig ist.
+
 ## Fragen
 
 - Wenn Ihr Erfolg absolut garantiert wäre, was würden Sie wagen?
@@ -281,6 +295,7 @@ In dem Maße, in dem wir uns um unsere grundlegenderen Bedürfnisse gekümmert h
 - [Life Visioning](https://www.goodreads.com/book/show/12712901-life-visioning)
 - [Noble Purpose](https://www.goodreads.com/book/show/638314.Noble_Purpose)
 - [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
+- [Hero on a Mission](https://www.goodreads.com/book/show/57468174-hero-on-a-mission)
 
 ## Links
 

@@ -412,6 +412,28 @@ Viktor Frankl hat ihm widersprochen. Er hat gesagt, dass der Mensch ein Verlange
 
 [Hero on a Mission](https://www.goodreads.com/book/show/57468174-hero-on-a-mission)
 
+## Was ist am wichtigsten?
+
+Sinnvolle Arebit und bedeutende Beziehungen sind wichtiger als Geld. 
+
+Geld hat keinen eigenen Wert. Sein Wert bemisst sich, was wir damit kaufen können und es kann nichts kaufen, was wichtiger als eine gute Beziehung ist.
+
+Wir sollten also Beziehungen und sinnvolle Arbeit zu unserem Ziel machen. Dadurch können wir aufblühen und Eudaimonia erreichen.
+
+[Principles](https://www.goodreads.com/book/show/34536488-principles)
+
+## Bewegung macht glücklich
+
+> "Anything that keeps you moving and increases your heart rate is enough to trigger nature’s reward for not giving up. There’s no objective measure of performance you must achieve, no pace or distance you need to reach, that determines whether you experience an exercise-induced euphoria. You just have to do something that is moderately difficult for you and stick with it for at least twenty minutes." - Kelly McGonigal
+
+Wennn wir uns bewegen, sind wir glücklicher und wenn wir gezwungen sind unseren aktiven Lebensstil aufzugeben, schwindet auch unsere Zufriedenheit.
+
+Der durchschnittliche Hadza ist (mäßig bis stark) mehrere Stunden am Tag aktiv, während der durchschnittliche Amerikaner zehn Minuten pro Tag aktiv ist.
+
+Die durchschnittliche tägliche Schrittzahl unter der Angst- und Depressionsgefühle hervorgerufen und die Lebenszufriedenheit verringert wird, beträgt 5.649. Der typische Amerikaner macht 4.774 Schritte pro Tag. Weltweit liegt der Durchschnitt bei 4.961
+
+[The Joy of Movement](https://www.goodreads.com/book/show/44780556-the-joy-of-movement)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

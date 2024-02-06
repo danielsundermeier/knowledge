@@ -85,6 +85,16 @@ Wir können die Frage weiter spezifizieren, damit die Antwort klarer wird:
 
 [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)
 
+## Ray Dalios 5 Schritte Prozess
+
+1. Klare Ziele setzen
+2. Probleme identifizieren, die im Weg stehen
+3. Ursache der Probleme diagnostizieren
+4. Pläne schmieden, um sie zu überwinden
+5. Pläne umsetzten
+
+[Principles](https://www.goodreads.com/book/show/34536488-principles)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

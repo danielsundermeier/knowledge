@@ -143,8 +143,6 @@ Alles ist neutral, erst unser Denken gibt eine Wertung ab. So können wir es lei
 
 > "Neutral thinking shuns all attempts at illusion or outright self-delusion, which are often the foundation of other motivational systems. Neutral thinking strips away the bull and the biases, both external and internal." - Trevor Moawad
 
-
-
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

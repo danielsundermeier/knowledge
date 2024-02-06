@@ -74,5 +74,23 @@ Es geht darum in der Arena zu sein und Risiken einzugehen. Nur so können wir Er
 
 [Verletzlichkeit macht stark](https://www.goodreads.com/book/show/55320403-verletzlichkeit-macht-stark)
 
+## Gut scheitern
+
+> "I believe that the key to success lies in knowing how to both strive for a lot and fail well. By failing well, I mean being able to experience painful failures that provide big learnings without failing badly enough to get knocked out of the game." - Ray Dalio
+
+Ray Dalio hat sich große Ziele gesetzt, ist gescheitert, hat etwas daraus gelernt und sich noch größere Ziele gesetzt und das ganz Spiel von vorne begonnen. Wichtig für ihn war gut zu scheitern. Er wollte etwas aus seinen Fehlern lernen, aber nie so große Fehler machen, dass es ihn aus dem Spiel genommen hätte.
+
+Diese Schleifen vom Ziel zum Scheitern, zum Lernen, zur Verbesserung und zu noch kühneren Zielen stellen eine dynamische Entwicklung dar, die laut Dalio den Sinn und Zweck des Lebens ausmacht.
+
+[Principles](https://www.goodreads.com/book/show/34536488-principles)
+
+## Mistake Learner’s high
+
+So wie ein Läufer durch den Schmerz zum Runners High kommt, können wir ein Mistake Learners High erleben, wenn wir uns unseren Fehlern und Rückschläge stellen und aus ihnen lernen.
+
+Wenn wir lernen, dass wir durch Fehler besser werden, können wir das positive in ihnen sehen.
+
+[Principles](https://www.goodreads.com/book/show/34536488-principles)
+
 ## Bücher
 

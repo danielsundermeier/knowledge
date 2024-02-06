@@ -76,6 +76,14 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
 - [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
 
+## Hoffnungsmoleküle
+
+Bewegung ist unsere einzige Möglichkeit mit der Welt zu interagieren. Deshalb hat unsere Biologie so viele Möglichkeiten uns für Bewegung zu belohnen.
+
+Durch die Belohnung ermutigt uns unser Gehirn und unser Körper am Leben teilzunehmen. Unsere Muskeln geben uns Hoffnung, unser Gehirn produziert Vergnüngen und unsere gesamte Physiologie passt sich an, um uns die Energie, den Sinn und Mut weiterzumachen zu geben.
+
+[The Joy of Movement](https://www.goodreads.com/book/show/44780556-the-joy-of-movement)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

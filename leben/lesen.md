@@ -32,6 +32,8 @@ Zusammenfassung auf www.blinkist.de anhören
 - blau: Zusammenfassung
 - orange: Ausführbare Aktion
 
+[Kindle Notizen und Markierungen](https://lesen.amazon.de/notebook)
+
 ### Wie kann ich das Gelesene anwenden?
 
 - Nach einem Kapitel / Seite

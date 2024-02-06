@@ -140,6 +140,14 @@ Wir können es vor dem Spiegel üben, indem wir uns mit geschlossenen Augen eine
 
 [The 21 Irrefutable Laws of Leadership](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
 
+## Immer Anführer
+
+> "As a leader, you must always appear to be in command, even on those days when you struggle with the pressures of the job. You must be confident. You must be decisive. You must smile. You must laugh. You must engage with your employees and be thankful for their work. You must have the look of a person in charge. You must instill in your men and women a sense of pride that their leaders can handle any problem." - William H. McRaven
+
+Wir müssen immer als gutes Beispeil vorangehen, auch an Tagen an denen wir uns nicht so gut fühlen. Wir müssen Entscheidungen treffen, auch wenn wir uns nicht sicher sind.
+
+[The Wisdom of the Bullfrog](https://www.goodreads.com/book/show/61918819-the-wisdom-of-the-bullfrog)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)
@@ -149,3 +157,4 @@ Wir können es vor dem Spiegel üben, indem wir uns mit geschlossenen Augen eine
 - [Call Sign Chaos](https://www.goodreads.com/book/show/46037714-call-sign-chaos)
 - [Leadership](https://www.goodreads.com/book/show/38657386-leadership)
 - [The 21 Irrefutable Laws of Leadership](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
+- [The Wisdom of the Bullfrog](https://www.goodreads.com/book/show/61918819-the-wisdom-of-the-bullfrog)

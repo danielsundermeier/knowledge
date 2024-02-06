@@ -16,3 +16,4 @@
 - [Living Vehicle](https://www.livingvehicle.com/home-v2) - Luxury Unplugged
 - [The Earth Awaits](https://www.theearthawaits.com/)
 - [Die falschen Versprechen des Reisens](https://www.deutschlandfunk.de/die-falschen-versprechen-des-reisens-100.html)
+- [Join the crew](https://join-the-crew.com/de/)

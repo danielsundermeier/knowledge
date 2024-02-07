@@ -149,6 +149,20 @@ So können wir andere positiv beeinflussen, was zu einer Veränderung führen ka
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Kleine Schritte
+
+In einer Studie wurden Hausbesitzer gefragt, ob ein kleines Schild mit der Aufschrift "Seien Sie ein sicherer Fahrer" in einem ihrer Fenster aufgestellt werden darf. Die meisten haben dem zugestimmt.
+
+Nach zwei Wochen wurden andere Hausbesitzer gefragt, ob eine Plakatwand mit dem selben Text in ihrem Garten aufstelaufgestellt werden darf. Ihnen wurden Fotos gezeigt, auf denen ihr Haus dadurch in den Schatten gestellte wurde.
+
+83% der Hausbewohner haben sich geweigert.
+
+Aus der ersten Gruppe, die zuvor das Schild im Fenster stehen hatten, haben 76% der Werbetafel zugestimmmt.
+
+Der erste kleine Schritt machte den größeren viermal wahrscheinlicher. 
+
+[One Small Step Can Change Your Life](https://www.goodreads.com/book/show/266621.One_Small_Step_Can_Change_Your_Life)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

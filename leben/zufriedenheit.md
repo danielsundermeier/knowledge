@@ -434,6 +434,14 @@ Die durchschnittliche tägliche Schrittzahl unter der Angst- und Depressionsgef�
 
 [The Joy of Movement](https://www.goodreads.com/book/show/44780556-the-joy-of-movement)
 
+## Geld und Zufriedenheit
+
+> "If you look to others for fulfillment, you will never truly be fulfilled. If your happiness depends on money, you will never be happy with yourself. Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." Lao Tzu
+
+Der Schlüssel zum Glück liegt nicht in der Veränderung unserer genetischen Ausstattung und nicht in der Veränderung unserer Umstände (z. B. im Streben nach Reichtum, Attraktivität oder besseren Kollegen), sondern in unseren täglichen, bewussten Aktivitäten.
+
+[The Tao te Ching](https://www.goodreads.com/book/show/19277381-the-tao-te-ching-of-lao-tzu)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

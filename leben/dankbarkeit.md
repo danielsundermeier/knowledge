@@ -62,6 +62,18 @@ Wir müssen es nur zu schätzen wissen.
 
 [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
+## Demut
+
+Demütig zu sein bedeutet zu erkennen, dass der eigene Intellekt, die körperliche Stärke und der eigene Reichtum im Vergleich zur Weite, Komplexität, dem Reichtum, der Macht und der Erhabenheit des Universums verblassen. 
+
+Wenn wir unseren Platz im Universum anerkennen, ist es viel wahrscheinlicher, dass wir erkennen, dass unsere Unterschiede unendlich gering sind. 
+
+Es ist viel wahrscheinlicher, dass wir erkennen, dass unser Verständnis gleichermaßen angespannt ist und dass unsere Fähigkeit, selbst die kleinsten Herausforderungen zu meistern, ähnlich schwierig ist. 
+
+Demut entsteht aus Respekt. Respekt vor dem, was wir nicht wissen. Respekt vor dem, was wir nicht ohne weiteres sehen können. Aber durch diese bescheidene Einstellung zum Leben schätzen wir die Schönheit, die uns umgibt, eher.
+
+[The Hero Code](https://www.goodreads.com/book/show/54817547-the-hero-code)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

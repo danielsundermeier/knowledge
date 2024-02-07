@@ -264,9 +264,63 @@ Es hilft aber uns selbst zu filmen, um zu sehen, wie wir etwas tun. Wir sollten 
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Negative Gedanken übertönen
+
+Immer wenn wir an etwas negatives dneken, können wir es mit etwas positivem überschreiben.
+
+Wir können und immer wieder Dinge sagen, wie:
+
+- Ich schaffe das
+- Ich kann das
+- Ich fühle mich großartig
+- Ich liebe mein Leben
+
+Wir können es in unserem Körper spüren, wenn wir unser Gehirn mit positiven Assagen füttern. Je öfter wir es tun, umso leichter ist es in einer positiven Stimmung zu sein.
+
+Es ist leicht uns gut zu fühlen, wenn alles läuft. Es braucht aber Disziplin, wenn Dinge schiefgehen.
+
+Das Ziel ist nicht uns selbst zu täuschen, sondern uns zu lenken.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Selbstbild lenken
+
+Wir sollten uns erzählen, wie wir uns fühlen wollen, nicht wie wir uns gerade fühlen.
+
+Wir sollten und sagen, was wir wollen und nicht darüber grübeln, was passiert ist.
+
+Worauf wir uns konzentrieren scheint Wirklichkeit zu werden. Wir sollten uns also auf die Gedanken, Handlungen und Ergebnisse konzentrieren, die wir wollen.
+
+> "Don't listen to yourself, talk to yourself" - Darrin Donnelly
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Mentaler Kampf
+
+In unserem Kopf herscht ein mentaler Kampf zwischen der positiven und negativen Stimme. Wir müssen eine aktive Rolle darin übernehmen und so kontrollieren, welche Seite gewinnt.
+
+Immer, wenn die negative Stimme etwas sagt, sollten wir es nicht passiv akzeptieren, sondern ihr widersprechen und mit positiven und ermutigenden Aussagen überstimmen.
+
+Wir müssen uns aber darüber bewusst sein, dass die negative Stimme nie verstummen wird. Wir werden aber besser darin sie zu erkennen und es wird leichter uns gut zuzureden, auch in schwierigen Momenten.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Kontrolle der Inhalte
+
+Es ist entscheidend, wie wir unseren Geist nähren und was für Inhalte wir aufnehmen.
+
+Wir sollten alles negative, einschränkende und deprimierende vermeiden und uns stattdessen auf positives konzentrieren.
+
+Wenn wir uns mit allem negativen, was in der Welt bombardieren lassen, fangen wir an sie in einem negativen Licht zu sehen. Wir fühlen uns gestresst und besorgt.
+
+Wir trainieren unseren Geist nach schlechten Nachrichten zu suchen und das ist, was wir zu sehen bekommen.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)
 - [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
 - [The Power of TED](https://www.goodreads.com/book/show/6327715-the-power-of-ted)
 - [Presence](https://www.goodreads.com/book/show/25066556-presence)
+- [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)

@@ -131,6 +131,40 @@ Wir haben immer die Wahl, wie wir auf Situationen reagieren. Nur weil unser Vers
 
 ## Will
 
+## Vom Problem zur Lösung
+
+Wenn wir vor einem Problem stehen können wir zuerst anerkennen, dass es uns schlimmer hätte treffen können und dankbar dafür sein. 
+
+Es hilft auch, wenn wir uns umgucken und die Dinge in unserem direkten Umfeld aufzählen, für die wir dankbar sein können.
+
+Durch Dankbarkeit kommen wir in einen positiveren geistigen Zustand und können klarer denken.
+
+Im zweiten Schritt können wir die Chance finden, die sich durch die Herausforderung ergibt. Wir können immer etwas lernen. Oft gibt es weitere positive Möglichkeiten.
+
+Wir wollen uns nur auf das konzentrieren, was wir kontrollieren können. Das ist unsere Einstellung und die Mühe, die wir uns geben.
+
+Anstatt an das Problem, sollten wir über eine Lösung nachdenken. So übernehmen wir Verantwortung und geben uns einen Weg voran.
+
+Wenn wir uns auf die Dinge außerhalb unserer Kontrolle konzentrieren, fühlen wir uns hilflos und aufgewühlt. Unsere Einstellung ändert sich dadurch zum negativen.
+
+Das beeinträchtigt unsere Fähigkeit eine gute Lösung zu finden.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
+## Glaube
+
+Da wir das Unkontrollierbare eh nicht beeinflussen können, können wir auch daran glauben, dass es für uns passiert.
+
+Der Erwartungswert daran zu glauben, das etwas Unkontrollierbares für uns passiert, ist besser.
+
+Durch den Glauben daran fängt unser Geist an nach etwas Gutem in jeder Situation zu suchen.
+
+Die Alternative ist uns zu sorgen und in Panik zu geraten.
+
+Wir können nur gewinnen.
+
+[The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

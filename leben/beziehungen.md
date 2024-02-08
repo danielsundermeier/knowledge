@@ -262,6 +262,40 @@ Mit der Meditation der liebenden Güte können wir unser Mitgefühl stärken und
 
 [Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)
 
+## Kritisieren, verurteilen oder beschweren Sie sich nicht
+
+Wir sollten andere nicht kritisieren, verurteilen oder uns bechweren.
+
+Anstatt Menschen zu verurteilen, versuchen wir, sie zu verstehen. Versuchen wir herauszufinden, warum sie tun, was sie tun. Das ist viel gewinnbringender und faszinierender als Kritik; und es erzeugt Sympathie, Toleranz und Freundlichkeit.
+
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+## Lächeln
+
+Es ist der einfachst eWeg einen guten ersten Eindruck zu machen.
+
+Wenn uns nicht danach zu mute ist, sollten wir es trotzdem machen. Dadurch fühlen wir uns besser und können wirklich lächeln.
+
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+## Die Goldene Regel
+
+> "You want the approval of those with whom you come in contact. You want recognition of your true worth. You want a feeling that you are important in your little world. You don’t want to listen to cheap, insincere flattery, but you do crave sincere appreciation. You want your friends and associates to be, as Charles Schwab put it, ‘hearty in approbation and lavish in their praise.’ All of us want that." - Dale Carnegie
+
+Behandle andere so, wie du es von anderen erwarten würdest.
+
+Das ist die ultimative Formelt für gute Beziehungen. 
+
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+## Ehrliche und aufrichtige Wertschätzung
+
+Wir können es zu einem Spiel zu machen, bei jedem, den wir treffen, großartige Qualitäten zu erkennen. Dann teilen wir sie mit ihnen.
+
+Jeder freut sich über ehrliche und aufrichtige Wertschätzung.
+
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

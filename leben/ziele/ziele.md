@@ -256,6 +256,14 @@ Wenn wir uns ein großes Ziel gesetzt haben, wie zum Beispiel 50kg abzunehmen, f
 
 Ein besserer Ansatz ist ein System aus Minigewohnheiten zu etablieren. So gewinnen wir jedes Mal, wenn wir es ausführen. Das motiviert uns und wir fühlen uns gut.
 
+## One Evolution at a Time
+
+Wenn wir uns überfordert fühlen und nicht sicher sind, ob wir weitermachen können, müssen wir unseren „Ereignishorizont“ auf die direkt vor uns liegende Aufgabe reduzieren.
+
+Während "Hell Week" in der Ausbildung zum Navi Seal ist echt wichtig, dass wir uns nur auf die nächste Aufgabe konzentrieren. Das ist auszuhalten. Viele, die aufgegeben haben, haben sich nicht mit der aktuellen Aufgabe beschäftigt, sondern nur eine enslose Reihe von Problemen gesehen und so die Hoffnung verloren.
+
+[Sea Stories](https://www.goodreads.com/book/show/41717478-sea-stories)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

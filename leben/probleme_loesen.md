@@ -95,6 +95,16 @@ Wir können die Frage weiter spezifizieren, damit die Antwort klarer wird:
 
 [Principles](https://www.goodreads.com/book/show/34536488-principles)
 
+## Conjungere Ad Solvendum
+
+> "Connection facilitates creativity in all domains. When people truly listen to one another, something reliably magical happens: seemingly irremediable confusions do become clear flowing streams. This is true in a marriage, a friendship, or a professional collaboration." - Michael Gelb
+
+Wenn wir uns die Zeit nehmen einander kennenzulernen bevor wir versuchen ein Problem zu lösen, fällt es uns leichter einander zu verstehen.
+
+Wir hören den anderen wirklich zu und sind präsent.
+
+[The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

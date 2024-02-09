@@ -164,6 +164,16 @@ Egal wie wir uns fühlen oder was gerade in unserem Leben passiert. Wir können 
 
 [Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
 
+## Schwung
+
+Ein ruhendes Objekt bleibt in Ruhe und ein bewegtes Objekt bleibt mit der gleichen Geschwindigkeit und in der gleichen Richtung in Bewegung, es sei denn, es wirkt eine äußere Kraft auf ihn ein.
+
+Wenn wir erstmal angefangen haben, ist es leichter weiterzumachen. Hier kommen wieder kleine Schritte und Mini Gewohnheiten ins Spiel.
+
+Wenn wir uns nur eine kleine Aufgabe zum Anfang stellen, ist es leichter loszulesen. Wenn wir erst in Bewegung sind, können wir auch weitermachen.
+
+[The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

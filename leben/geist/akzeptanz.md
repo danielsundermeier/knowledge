@@ -143,6 +143,24 @@ Alles ist neutral, erst unser Denken gibt eine Wertung ab. So können wir es lei
 
 > "Neutral thinking shuns all attempts at illusion or outright self-delusion, which are often the foundation of other motivational systems. Neutral thinking strips away the bull and the biases, both external and internal." - Trevor Moawad
 
+## Morita-Therapie
+
+Die Morita-Therapie basiert auf dem zentralen Thema, dass unsere Gedanken und Gefühle nicht unserer direkten Kontrolle unterliegen. Sie ähneln vielmehr vorbeiziehenden Wolken am Himmel unseres Geistes.
+
+Manchmal tauchen seltsame Gedanken auf. Das ist einfach so.
+
+Wir erkennen die Tatsache an, dass wir nicht direkt für jeden einzelnen Gedanken verantwortlich sind, der in unserem Kopf auftaucht, und akzeptieren sie.
+
+Und dann, was sehr wichtig ist, konzentrieren wir uns auf das, worüber wir tatsächlich die Kontrolle haben: unser Verhalten. Dadurch können wir unsere Gefühle beeinflussen.
+
+Ein weiteres wichtiges Element in der Therapie ist zu erkennen was wir beeinflussen können und was nicht. 
+
+Dafür können wir ein Blatt Papier in zwei Spalten einteilen und die einzelnen Punkte in die entsprechende Spalte eintragen.
+
+Wir haben danach eine Liste mit Dingen, mit denen wir uns beschäftigen können.
+
+[The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

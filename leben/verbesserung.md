@@ -163,6 +163,16 @@ Der erste kleine Schritt machte den größeren viermal wahrscheinlicher.
 
 [One Small Step Can Change Your Life](https://www.goodreads.com/book/show/266621.One_Small_Step_Can_Change_Your_Life)
 
+## Kaizen
+
+Wir wollen alles immer sofort und haben nicht die Geduld lange auf etwas zu warten. Veränderung braucht aber seine Zeit. Wir sollten auch nicht zu viel auf einmal ändern.
+
+Eine viel bessere Strategie besteht darin, schrittweise Änderung vorzunehmen. 
+
+In Japan ist dies als Kaizen bekannt. Das Wort bedeutet wörtlich "Verbesserung", bezieht sich aber im Allgemeinen auf den Prozess kleiner, beständiger Veränderungen im Laufe der Zeit. Diese Art der ständigen und kontinuierlichen Verbesserung führt zu riesigen Ergebnissen.
+
+[The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

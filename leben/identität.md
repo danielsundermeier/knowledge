@@ -58,7 +58,7 @@ In einer anderen Studie wurden Studenten einem Sehtest unterzogen. Die, die dazu
 
 ## Pygmalion-Effekt
 
-Manche Menschen ändern ihre Persönlichkeit nach einer Schönheutsoperation, andere bleiben gleich. Es kommt also nicht darauf an, wie wir aussehen, sondern, wie wir uns selbst sehen.
+Manche Menschen ändern ihre Persönlichkeit nach einer Schönheitsoperation, andere bleiben gleich. Es kommt also nicht darauf an, wie wir aussehen, sondern, wie wir uns selbst sehen.
 
 Dieses Phänomen wird als Pygmalion-Effekt bezeichnet. Psychologieprofessor Robert Rosenthal konnte so zeigen, dass unsere Überzeugungen und Selbstbilder nicht nur uns selbst, sondern auch andere beeinflussen können.
 

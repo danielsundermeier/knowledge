@@ -101,6 +101,18 @@ Der Amateur glaubt, dass wir die Angst erst überwinden müssen bevor wir anfang
 
 [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
 
+## Arten der Angst
+
+- Was andere über uns denken
+- Veränderung
+- Falsche Entscheidungen
+- Etwas besseres verpassen
+- Nicht gut genug sein
+- Das Scheitern dauerhaft ist
+- Drohende Rückschläge
+
+[Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

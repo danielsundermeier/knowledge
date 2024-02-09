@@ -112,6 +112,14 @@ Egal, was wir gerade durchmachen, wir können uns fragen, wie wir mit der Situat
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Wellen in die Welt senden
+
+Wenn wir unentschlossen sind, sollten wir handeln. Nur so bekommen wir neue Informationen und sammeln Erfahrungen. Wir können dann daraus lernen und eine bessere Entscheidung treffen.
+
+Wir müssen trotz Unsicherheit handeln und Entscheidungen treffen. Wenn wir es nicht tun, zieht unser Leben an uns vorbei.
+
+[The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

@@ -46,6 +46,14 @@ Am besten lassen wir es in einem anderen Raum im "Nicht Stören"-Modus.
 
 [Are You Fully Charged?](https://www.goodreads.com/book/show/23493818-are-you-fully-charged)
 
+## ADD: Addiction to Digital Devices
+
+Die Abhängigkeit von Geräten verstärkt sich immer weiter und ist vergleichbar mit Drogen. Es stimmuliert die gleichen Gehirnregionen, wie alle anderen Abhägigkeiten.
+
+das Aufmerksamkeitsdefizitsyndrom wird durch unsere sucht nach digitalen Geräten schlimmer.
+
+[The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

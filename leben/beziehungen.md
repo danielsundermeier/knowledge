@@ -296,6 +296,14 @@ Jeder freut sich über ehrliche und aufrichtige Wertschätzung.
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
+## Freundlichkeit
+
+Eine der einfachsten Möglichkeiten, die Kunst der Verbindung zu praktizieren, besteht darin, nach Möglichkeiten zu suchen, im täglichen Leben absichtliche, bewusste Verbundenheit und Freundlichkeit zu zeigen.
+
+Lächeln und Augenkontakt herstellen, eine Tür aufhalten, jemandem mit dem Gepäck helfen, sind alles Möglichkeiten jemand anderem etwas gutes zu tun. Wir selbst werden dadurch auch mit einem guten Gefühl belohnt.
+
+[The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

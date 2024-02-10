@@ -113,6 +113,14 @@ Der Amateur glaubt, dass wir die Angst erst überwinden müssen bevor wir anfang
 
 [Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
 
+## Angst vs Zweifel
+
+Angst ist eine normale, gesunde Emotion. Es erzeugt Vorsicht und Vorsicht und hilft uns, am Leben zu bleiben. Angst ist wie Schmerz für jeden unangenehm, aber das Unbehagen ist ein Alarm, der unsere Aufmerksamkeit auf ein Problem lenkt, mit dem wir konfrontiert sind.
+
+Die Frage ist, ob wir uns unseren Ängsten stellen oder ob wir daran zweifeln, das zu überwinden, was auf uns zukommt.
+
+[Winning](https://www.goodreads.com/book/show/56769353-winning)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

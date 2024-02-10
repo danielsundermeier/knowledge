@@ -198,6 +198,26 @@ Wir definieren was Erfolg für uns bedeutet. Für John Wooden war es der Seelenf
 
 [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
 
+## Nimm die Hand runter
+
+> "Weakness, laziness, frustration, negativity, anxiety. Every single morning you get to decide whether to give those things a vote." - Tim S. Grover
+
+Wir haben eine endlose Debatte in unserem Kopf. Engel gegen Teufel, Gut gegen Böse, unser bestes Selbst gegen unseren inneren Schweinehund.
+
+Wir entscheiden wer die Oberhand gewinnt. Die Qualität unseres Lebens wird dadurch bestimmt, welcher Stimme wir am häufigsten zustimmen.
+
+Wir können unserer weinerlichen kleinen Stimme sagen, dass sie ihre Hand nicht heben darf. Sie darf heute nicht mit Abstimmen.
+
+[Winning](https://www.goodreads.com/book/show/56769353-winning)
+
+## Nein
+
+Wenn wir Erfolg haben wollen, müssen wir lernen "Nein" zu sagen. Wir müssen Prioritäten setzen und uns voll darauf konzentrieren.
+
+Wir können dafür eine Nein-Liste machen. Wir schreiben alles auf, was wir nicht machen wollen und uns von unseren Zielen ablenkt.
+
+[Winning](https://www.goodreads.com/book/show/56769353-winning)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

@@ -46,3 +46,19 @@ Unser Unterbewusstsein kann sich mit mehreren Dingen gleichzeitig beschäftigen 
 Wir sollten ihm vertrauen, wenn wir an einem Wettkampf teilnehmen.
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Retikuläres Aktivierungssystem (RAS)
+
+Es fungiert als Filter, der die 400 Millionen Sinneseindrücke verarbeitet, die in unserem Hirn ankommen. 
+
+99.99% dieser Informationen werden jedoch als unwichtig erachtet und automatisch aussortiert. Sie gelangen deshalb nicht in unser Bewusstsein.
+
+Unser Hirn sucht konstant nach Informationen, welche bereits mit unseren Überzeugungen und Glaubenssätzen übereinstimmen.
+
+Wenn wir uns ein Auto kaufen wollen, sehen wir es plötzlich überall.
+
+Wenn wir die Welt als einen gefährlichen Ort einschätzen, werden wir überall Beweise dafür finden. 
+
+Nehmen wir aber an, dass die Welt eine schöne, reichhaltige, liebevolle und eine insgesamt positive Erfahrung ist. Wie werden wir sie dann wohl wahrnehmen?
+
+Wenn wir ein klares Ziel definieren, wird das RAS die Dinge für uns herausfiltern, die wichtig sind um das Ziel auch zu erreichen.

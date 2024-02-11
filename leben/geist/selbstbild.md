@@ -317,6 +317,26 @@ Wir trainieren unseren Geist nach schlechten Nachrichten zu suchen und das ist, 
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
 
+## Wenn wir unseren Glauben ändern, ändern wir alles
+
+Menschen, die eine glaubten operiert worden zu sein, haben die gleichen positiven Ergebisse, wie die mit der Operation gezeigt.
+
+Kinder, die unter schrecklichen Reaktionen auf Giftefeu litten, wurden die Augen verbunden und ihnen gesagt, dass sie von Giftefeu berührt werden, auch wenn das nicht der Fall ist, haben starke Reaktionen gezeigt. 
+
+Wenn man ihnen aber sagt, dass sie von etwas Harmlosem berührt werden, sie aber tatsächlich mit Giftefeu berührt, passiert nichts.
+
+[Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
+
+## Nicht können
+
+Wenn wir sagen, dass wir etwas nicht können, meinen wir meistens, dass wir es nicht wollen. 
+
+Wir sind nicht bereit den Preis zu zahlen, der nötig wäre. Zu sagen, dass wir etwas nicht wollen macht uns nicht zu einem schlechten Menschen oder faul, sondern ehrlich.
+
+Wenn wir uns das eingestehen, fällt es uns leichter Prioritäten zu setzen.
+
+[Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

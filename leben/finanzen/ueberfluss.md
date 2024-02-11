@@ -32,22 +32,6 @@ Ist das Gegenteil von Entropie. Albert Szent-Györgyi, Nobelpreisträger für Bi
 
 Um Wohlstand zu erreichen, müssen wir die Kontrolle über unseren Geist übernehmen.
 
-## Retikuläres Aktivierungssystem (RAS)
-
-Es fungiert als Filter, der die 400 Millionen Sinneseindrücke verarbeitet, die in unserem Hirn ankommen. 
-
-99.99% dieser Informationen werden jedoch als unwichtig erachtet und automatisch aussortiert. Sie gelangen deshalb nicht in unser Bewusstsein.
-
-Unser Hirn sucht konstant nach Informationen, welche bereits mit unseren Überzeugungen und Glaubenssätzen übereinstimmen.
-
-Wenn wir uns ein Auto kaufen wollen, sehen wir es plötzlich überall.
-
-Wenn wir die Welt als einen gefährlichen Ort einschätzen, werden wir überall Beweise dafür finden. 
-
-Nehmen wir aber an, dass die Welt eine schöne, reichhaltige, liebevolle und eine insgesamt positive Erfahrung ist. Wie werden wir sie dann wohl wahrnehmen?
-
-Wenn wir ein klares Ziel definieren, wird das RAS die Dinge für uns herausfiltern, die wichtig sind um das Ziel auch zu erreichen.
-
 ## Sein
 
 Es geht immer nur darum, zu welcher Art von Person wir werden.

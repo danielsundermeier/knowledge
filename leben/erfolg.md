@@ -218,6 +218,14 @@ Wir können dafür eine Nein-Liste machen. Wir schreiben alles auf, was wir nich
 
 [Winning](https://www.goodreads.com/book/show/56769353-winning)
 
+## 42%
+
+Die Wahrscheinlichkeit, dass wir unsere Ziele erreichen, ist um 42% höher, wenn wir sie aufschreiben.
+
+Wir sollten sie aber einfach nur in ein Tagebuch schreiben und sie vergessen. Wir sollten sie uns oft ansehen. Täglich ist ideal. So behalten wir Ihre oberste Priorität im Auge.
+
+[Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

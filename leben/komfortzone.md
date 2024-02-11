@@ -31,3 +31,13 @@ Unser Selbstbild bestimmt unsere Komfortzone. Wenn wir unter unseren Ansprüchen
 Wir können immer nur das leisten, was unser Selbstbild zulässt.
 
 [With Winning in Mind](https://www.goodreads.com/book/show/208926.With_Winning_in_Mind)
+
+## Wachstumszone
+
+Alles, wovon wir träumen, befindet sich in der Wachstumszone (auch bekannt als Unbehaglichkeitszone). Wenn wir uns in der Wachstumszone befinden, ist Folgendes garantiert: wir werden uns verletzlich und unsicher fühlen, aber um zu wachsen, müssen wir (zumindest vorübergehend) unser Bedürfnis nach Komfort und Sicherheit loslassen. Wir müssen lernen, Wachstum und Lernen über alles andere zu stellen.
+
+In der Wachstumszone erwerben wir neue Fähigkeiten und Fertigkeiten. Hier erwerben Sie Stärke, Fachwissen und erzielen neue Ergebnisse. Wenn wir lange genug in der Wachstumszone bleiben, wird sie zu unserer neuen Komfortzone.
+
+Fast alles, was wir brauchen, um unseren Traum Wirklichkeit werden zu lassen, erfordert neue Fähigkeiten, Erfahrungen und Verständnis. Wir müssen Dinge tun, die wir noch nie zuvor getan haben. Es ist nicht einfach, anzufangen, bevor wir bereit sind, aber wenn wir etwas ändern möchten, ist es erforderlich.
+
+[Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)

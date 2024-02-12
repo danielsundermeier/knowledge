@@ -203,6 +203,59 @@ Worüber wir am meisten nachdenken dominiert unseren geistigen und emotionalen Z
 
 [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)
 
+## LIE
+
+Negative Gedanken belügen uns (LIE).
+
+Pessimisten denken, dass negative Ereignisse permanent sind, sie ihr ganzes Leben betreffen und nehmen sie persönlich. Durch diese Einstellung fühlen wir uns hilflos und schlüpfen in die Opferrolle.
+
+- Limited: Fehler sind auf den aktuellen Moment beschränkt und nicht permanent
+- Isolated: Sie betreffen nur einen bestimmten Bereich, statt unser ganzes Leben
+- External: Ein Fehler hat nichts mit unserem Selbstwert zu tun
+
+Wir können optimistischer damit umgehen, wenn wir uns daran erinnern, dass sie eine Lüge (LIE) sind und uns dann genau erklären wieso. Dadurch können wir die Herausforderungen angehen und überwinden. Wir übernehmen die Kontrolle über unser Leben.
+
+- Erkennen: Aufmerksam beobachten, was wir denken
+- Argumentieren: Lügen entlarven
+- Ersetzen: Negative durch positive Gedanken ersetzen
+
+[Relentless Optimism](https://www.goodreads.com/book/show/35879237-relentless-optimism)
+
+## Gedankengraben (Mind Moat)
+
+Wir sind vom Pessimismus umgeben und brauchen einen Schutz für unseren Optimismus.
+
+1. Alles Negative aus unserem persönlichen Umfeld entfernen, was geht
+2. Negativtät, die wir nicht entfernen können richitg verwalten
+
+### Entfernen
+
+Wenn wir von negativen Gedanken umgeben sind, werden auch unsere Gedanken negativ. Wir sehen eine verzehrte Sicht der Realität, weil in den Nachrichten oft die negativen Extreme dargestellt werden.
+
+In der Welt gibt es mehr Dinge für die wir dankbar sein können, als vor denen wir uns fürchten müssen.
+
+- Nachrichten
+- Social Media
+- Bücher
+- Filme / Serien
+- Musik
+
+Statt der negativen Geschichten, sollten wir unseren Kopf mit positiven und inspirierenden füllen.
+
+Wir können auch weniger Zeit mit Pessimisten verbringen und uns lieber mit Optimisten umgeben.
+
+### Verwalten
+
+Wir sollten die Quelle betrachten und uns fragen, warum wir auf die Person hören sollten.
+
+Negative Personen sind meistens erfolglos, unglücklich, unangenehm, gleichgültig und leistungsschwach. 
+
+Wir können uns immer wieder daran erinnern nur auf die Personen zu hören, auf die wir hören sollten. Das sind die Menschen, die wir bewundern und zu denen wir aufsehen.
+
+Wir können uns die Frage stellen, ob wir die Person bewundern mit der wir uns unterhalten und die negativen Aussagen blocken, wenn es nicht der Fall ist.
+
+[Relentless Optimism](https://www.goodreads.com/book/show/35879237-relentless-optimism)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

@@ -4,7 +4,7 @@
 
 > "I stood there for a second, watching her work her magic. Finally, I asked, ‘Hey, Mom, how do you know how to do so many different things that you’ve never done before, without anyone showing you how to do it?’ She put down her screwdriver, turned to me, and said, ‘Don’t be silly, Ree. Nothing is life is that complicated. You can do whatever you set your mind to if you just roll up your sleeves, get in there, and do it. Everything is figureoutable.’" - Marie Forleo
 
-Wir können für alles eine Lösung finden. 
+Wir können für alles eine Lösung finden.
 
 [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable) 
 

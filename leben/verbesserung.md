@@ -223,6 +223,24 @@ Wir erreichen das durch einen unermüdlichen Antrieb und konsequenter Anstrengun
 
 [Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
 
+## Permanent Beta
+
+Softwareunternehmen behalten die "Beta"-Kennzeichnung ihrer Software oft noch eine Zeit lang nach der offiziellen Markteinführung bei, um zu betonen, dass das Produkt noch nicht fertig und für die nächste Reihe von Verbesserungen bereit ist.
+
+Wir können auch unser Leben in einer permanenten Beta-Version sehen. Es gibt immer noch etwas zu verbessern und zu lernen.
+
+Es bedeutet ein lebenslanges Engagement für kontinuierliches persönliches Wachstum. Es ist eine Geisteshaltung voller Optimismus, denn sie feiert die Tatsache, dass wir die Macht haben, uns selbst und die Welt um uns herum zu verbessern.
+
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
+
+## Das Glaubwürdig Mögliche
+
+In jedem Moment gibt es eine Version von uns, die nur ein bisschen besser ist als die, die wir gerade zum Ausdruck bringen. Wir sollten sie verkörpern.
+
+Wenn wir die vielen Momente addieren, entsteht daraus etwas Unglaubliches.
+
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

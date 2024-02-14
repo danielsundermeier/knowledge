@@ -120,6 +120,16 @@ Wir müssen trotz Unsicherheit handeln und Entscheidungen treffen. Wenn wir es n
 
 [The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
 
+## Uns selbst Recht geben
+
+Peyton Manning hat sich aus mehreren Teams für die Denver Broncos enschieden.
+
+Er hat sich nicht gefragt, ob er die richtige Entscheidung getroffen hatte, sondern machte sich daran, mit harter Arbeit sicherzustellen, dass es die richtige Entscheidung war.
+
+Er hat sein Schicksal dadurch selbst in die Hand genommen, anstatt es von Kräften außerhalb seiner Kontrolle bestimmten zu lassen.
+
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

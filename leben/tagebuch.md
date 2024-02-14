@@ -36,6 +36,18 @@ Tagebuch schreiben ist für mich mittlerweile eine Art Therapie geworden. Es hil
 
 Ich produziere so die Geschichte meines Lebens. Das ist bestimmt sehr schön, wenn ich alt bin.
 
+## Die Kraft eines Tagebuchs
+
+Es gibt keine Zauberformel, wie die erstaunliche Vielfalt der Schwerpunkte renommierter Tagebuchschreiber beweist. Untersuchungen legen jedoch nahe, dass es besonders nützlich sein kann, über Folgendes nachzudenken und darüber zu schreiben:
+
+- Fortschritte, selbst wenn es nur kleine sind, bei der Arbeit, die uns am Herzen liegt
+- Jeder oder irgendetwas, das unseren Fortschritt unterstützt oder behindert hat
+- Ziele und Pläne, insbesondere ein Plan, um morgen Fortschritte zu machen
+- Probleme oder "To-Dos", die uns Stress bereiten könnten
+- Alles, was uns Freude oder Vergnügen bereitet hat, auch wenn es nur einen Moment dauerte
+
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
+
 ## Tools
 
 Ich nutze OneNote auch für mein Tagebuch. Ich erstelle ein Notizbuch pro Jahr einen Abschnitt pro Monat und eine Seite pro Tag. Ich habe mir eine Vorlage erstellt, damit ich immer direkt anfangen kann zu schreiben.

@@ -121,6 +121,18 @@ Die Frage ist, ob wir uns unseren Ängsten stellen oder ob wir daran zweifeln, d
 
 [Winning](https://www.goodreads.com/book/show/56769353-winning)
 
+## Jerry Seinfelds erster Auftritt
+
+Jerry Seinfeld hat bei seinem ersten Auftritt kaum ein Wort herausbekommen und wollte so schnell wie möglich wieder von der Bühne verschwinden.
+
+Er ist danach trotzdem zu dem bestbezahlten Komiker seiner Zeit geworden, indem er sich seiner Angst immer wieder gestellt hat.
+
+Wir müssen uns mit unseren Ängsten auseinandersetzen und uns daran erinnern, dass Studien immer wieder zeigen, dass wir im Rückblick auf unser Leben am häufigsten nicht die Risiken bereuen, die wir eingegangen sind, sondern die, die wir nicht eingegangen sind. 
+
+Das Bedauern über Untätigkeit übersteigt das Bedauern über Handeln um fast zwei zu eins.
+
+[Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

@@ -226,6 +226,14 @@ Wir sollten sie aber einfach nur in ein Tagebuch schreiben und sie vergessen. Wi
 
 [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
 
+## Das ultimative Aufgabe
+
+Die ultimative heldenhafte Aufgabe? Der Held wird zum Führer. 
+
+Es ist an der Zeit, die besten und heldenhafteste Version von uns selbst zu werden, damit wir anderen dabei helfen können, dasselbe zu tun. So verändern wir die Welt.
+
+[Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

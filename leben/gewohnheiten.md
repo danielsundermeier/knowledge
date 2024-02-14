@@ -512,6 +512,18 @@ Wenn wir aber ein Miniziel haben, werden unsere Abwehrkräfte geschwächt und Si
 
 [Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
 
+## Antike Intelligenz
+
+Vor über 500 Millionen Jahren entwickelten sich die Basalganglien. Dieser Teil unseres Gehirns, hilft und dabei, sich wiederholende Verhaltensweisen auf Autopilot zu stellen.
+
+Wir können sie so ähnlich programmieren, wie künstliche Intelligenz. Wir nutzen dafür Implentations Intentionen. Wenn X, dann Y.
+
+Zuerst identifizieren wir die Verhaltensweisen, die uns gut tun und dann fangen wir mit dem Programmieren an.
+
+So können wir einen Algorithmus nach dem anderen automatisieren und unser Leben immer weiter optimieren.
+
+[Principles](https://www.goodreads.com/book/show/34536488-principles)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

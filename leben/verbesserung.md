@@ -173,6 +173,56 @@ In Japan ist dies als Kaizen bekannt. Das Wort bedeutet wörtlich "Verbesserung"
 
 [The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
 
+## Heldenreise
+
+Wir alle müssen uns unseren Drachen stellen, sie auf die eine oder andere Weise töten und die Höhle der Dunkelheit in uns erobern, in der unsere Ängste und Wahnvorstellungen leben, bevor wir mit hart erkämpfter Einsicht, Weisheit und Selbsterkenntnis nach Hause zurückkehren. 
+
+Erst nach einer solchen schmerzhaften und gefährlichen Konfrontation werden wir der Welt wirklich etwas bieten und einen Beitrag leisten können.
+
+Dies ist kein einmaliger Prozess. Es ist etwas, das niemals aufhört. Wir sind wie ein Phönix, der aus der Asche des Drachens aufersteht, den wir erlegt haben. 
+
+Wir erheben uns aber nicht vollständig und komplett verwirklicht aus der Asche.
+
+Wir müssen uns ständig weiterentwicklen.
+
+> "Hell is not punishment, it’s training." - Shunryu Suzuki
+
+[Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
+
+## Das Meisterwerk befreien
+
+Michelangelo hat seine Statuen aus dem Stein befreit.
+
+Das ist der Prozess, den wir alle durchlaufen, um uns freizuschalten. 
+
+Wir entfernen das Fremde, die Schichten unserer Konditionierungen und Abwehrmechanismen und die Art und Weise, wie wir unserem wahren Wesen untreu geworden sind, bis wir das Authentische in uns finden – eine Authentizität, die immer da ist und darauf wartet, offenbart zu werden.
+
+Wir treten gegen unser bisher bestes Ich an. Der Gegner ist zweitrangig.
+
+Es ist notwendig, dass wir uns an das Unbehagen gewöhnen. 
+
+Die eine Seite der Medaille ist Freiheit und Potenzial, die andere Unsicherheit und Angst.
+
+Ohne Kampf wachsen wir nicht. Ohne etwas, wogegen wir uns wehren können, werden wir nicht stärker. 
+
+Dabei kommt es nicht nur auf die körperliche Stärke an. Dasselbe gilt für emotionale Belastbarkeit und Weisheit. 
+
+Nichts ist etwas wert, wenn es einfach und mühelos ist. Es bedeutet nichts, wenn wir nicht mit Schweiß und Blut dafür bezahlen.
+
+[Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
+
+## No Days Off
+
+Spitzenleistung bedeutet, dass wir die ultimative Bestleistung erreicht haben. Das ist aber nie der Fall. 
+
+Unsere "Spitzen" immer höher werden, je konstanter wir "reine" Leistung erbringen.
+
+Wir erreichen das durch einen unermüdlichen Antrieb und konsequenter Anstrengung mit vollem Einsatz und harter Arbeit.
+
+> "If you deliberately plan on being less than you are capable of being, then I warn you that you’ll be unhappy for the rest of your life." - Abraham Maslow
+
+[Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

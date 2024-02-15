@@ -67,6 +67,16 @@ Wir können uns diese Frage auch immer wieder stellen. Wir nutzen unsere Stärke
 
 [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
 
+## Anker
+
+Um ein Boot an der gleichen Stelle zu halten, nutzen wir einen Anker. 
+
+Etwas ähnkiches machen wir auch in der Meditation. Wir suchen uns etwas, auf das wir uns konzentrieren können und zu dem wir zurückkommen, wenn unsere Gedanken abschweifen.
+
+Unser Atem ist dafür die beste Wahl. 
+
+[Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
+
 ## Bücher
 
 - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)

@@ -304,6 +304,16 @@ Lächeln und Augenkontakt herstellen, eine Tür aufhalten, jemandem mit dem Gep�
 
 [The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
 
+## Feierliche Liebe
+
+Feierliche Liebe ist, wenn wir die Großartigkeit eines anderen sehen und es mit ihm feiern.
+
+Wir können es jederzeit machen. Sobald wir jemanden sehen, der sich freut, können wir es innerlich feiern und uns für die Person freuen.
+
+Barbara Frederickson bezeichnet es als den großzügigen Cousin der Dankbarkeit.
+
+[Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

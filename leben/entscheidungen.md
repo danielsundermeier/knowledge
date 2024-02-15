@@ -124,7 +124,7 @@ Wir müssen trotz Unsicherheit handeln und Entscheidungen treffen. Wenn wir es n
 
 Peyton Manning hat sich aus mehreren Teams für die Denver Broncos enschieden.
 
-Er hat sich nicht gefragt, ob er die richtige Entscheidung getroffen hatte, sondern machte sich daran, mit harter Arbeit sicherzustellen, dass es die richtige Entscheidung war.
+sobald er sich entschieden hatte, hat er sich nicht gefragt, ob er die richtige Entscheidung getroffen hatte, sondern machte sich daran, mit harter Arbeit sicherzustellen, dass es die richtige Entscheidung war.
 
 Er hat sein Schicksal dadurch selbst in die Hand genommen, anstatt es von Kräften außerhalb seiner Kontrolle bestimmten zu lassen.
 

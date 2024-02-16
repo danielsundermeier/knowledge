@@ -130,6 +130,16 @@ Um diese Energie zu nutzen, müssen wir dafür sorgen, dass wir konstante Fortsc
 
 [The Progress Principle](https://www.goodreads.com/book/show/11721498-the-progress-principle)
 
+## Selbstbestimmungstheorie
+
+Selbstbestimmungstheorie erklärt, warum uns manche Dinge motivieren und andere nicht.
+
+Autonomie: das Gefühl, dass wir die Kontrolle über unseren Tag haben und dass unsere Handlungen wichtig sind
+Kompetenz: das Gefühl, dass wir in dem, was wur tun, gut ist
+Verbundenheit: das Gefühl der Verbundenheit mit anderen Menschen
+
+[So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

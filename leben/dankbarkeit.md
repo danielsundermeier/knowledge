@@ -32,6 +32,8 @@ Es ist auch gut zu wissen, dass wir in herausfordernden Zeiten dazu neigen am me
 
 Der beste Weg Dankbarkeit zu praktizieren ist mit einem Dankbarkeits Tagebuch. Indem wir jeden Tag aufschreiben wofür wir dankbar sind, lernen wir mehr darauf zu achten. Wir können dazu jeweils 5 Dinge aufschrieiben für die wir dankbar sind. Es sollten aber nicht immer die gleichen sein.
 
+> "Choose to be grateful right now. By choosing to be grateful, you’ll feel better about yourself and the world around you. And when you feel better, you play better. Doesn’t matter what it is you’re playing—golf, some other sport, running a business, tackling some task—when you feel good about yourself, you perform better. Countless psychological studies have proven this." - Darrin Donnelly
+
 ## Emotionale Inkompatibilität
 
 Wir können nicht gleichzeitig negative und positive Emotionen empfinden. Wir können uns nicht gleichzeitig entspannt und gestresst fühlen.

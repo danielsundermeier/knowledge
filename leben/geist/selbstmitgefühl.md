@@ -26,6 +26,11 @@ Es passiert etwas Magisches, wenn wir aufhören, so zu tun, als wären wir perfe
 
 [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
+
 ## Bücher
 
 - [Self-Compassion](https://www.goodreads.com/book/show/10127008-self-compassion)
+
+## Links
+
+- [Self-Compassion Scale](https://self-compassion.org/self-compassion-scales-for-researchers/)

@@ -52,6 +52,28 @@ Auf den perfekten Job zu hoffen und auf Anhieb meine Bestimmung zu finden ist un
 
 - [To make a career change, first answer this question](https://mindy.substack.com/p/to-make-a-career-change-first-answer)
 
+## Handwerker vs. Leidenschaft
+
+> "Whereas the craftsman mindset focuses on what you can offer the world, the passion mindset focuses on what the world can offer you. This mindset is how most people approach their working lives." - Cal Newport
+
+Die handwerkliche Einstellung bietet Klarheit, während die leidenschaftliche Einstellung einen Sumpf zweideutiger und unbeantwortbarer Fragen bietet. 
+
+Die handwerkliche Einstellung hat etwas Befreiendes: Sie fordert uns auf, egozentrische Bedenken darüber, ob unser Job genau richtig ist, hinter uns zu lassen und stattdessen etwas zu tun und uns darauf konzentrieren, wirklich verdammt gut zu werden. 
+
+Niemand schuldet uns eine großartige Karriere. Wir müssen sie uns verdienen – und der Prozess wird nicht einfach sein.
+
+[So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+
+## Karrierekapital
+
+Indem wir gezielt danach streben, so gut zu werden, dass sie uns nicht ignorieren können, sammeln wir seltene und wertvolle Fähigkeiten an. 
+
+Es ist dieses Karrierekapital, das wir über Jahre sorgfältiger, bewusster Praxis angesammelt haben und das wir nutzen, um unsere ideale Arbeit zu schaffen.
+
+Wir können es investieren, um unsere Arbeitsbedingungen zu verbessern und unsere Arbeit an unseren Lebensstil anzupassen.
+
+[So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+
 ## Links
 
 - [Our new guide to doing good with your career](https://80000hours.org/key-ideas/)

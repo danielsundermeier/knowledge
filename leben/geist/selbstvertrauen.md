@@ -56,6 +56,42 @@ Wir machen, was wir uns vorgenommen haben und lernen so uns selbst zu vertrauen.
 
 [Mini Habits](https://www.goodreads.com/book/show/20567918-mini-habits)
 
+## Handlungsfähigkeit
+
+Vereinfacht ausgedrückt ist Handlungsfähigkeit das, was Menschen schon immer als das Gefühl bezeichnet haben, die Kontrolle über ihr Leben zu haben. Damit sind Menschen in der Lage, auf eine Weise zu leben, die ihre Interessen, Werte und inneren Motivationen widerspiegelt.
+
+Bei der Handlungsfähigkeit geht es darum, aktiv statt passiv zu sein, effektiv auf unmittelbare Situationen zu reagieren und effektiv für die Zukunft zu planen. 
+
+Wenn wir zu überfordert sind, verlieren wir unsere Handlungsfähigkeit.
+
+Wir können unsere Umstände nicht mehr einschätzen, über die Herausforderungen und Chancen, mit denen wir konfrontiert sind, nicht mehr nachdenken. 
+
+[The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
+
+## Angst reduzieren
+
+Diejenigen, die die meiste Zeit selbstbewusster waren – das heißt, sie hatten das Gefühl, mehr Kontrolle über ihr Leben zu haben und sich mit ihrem Gefühl der Handlungsfähigkeit verbunden zu fühlen –, berichteten von weniger Angst und Überforderung, selbst wenn sie sich in äußerst herausfordernden Drucksituationen befanden.
+
+Selbstvertrauen wehrt Ängste und Momente der Überforderung ab.
+
+Auf diese Weise lassen wir das stärkere Gefühl von Macht/Selbstvertrauen/Handlungsfähigkeit die Stressfaktoren in die richtige Perspektive rücken, anstatt in erster Linie zu versuchen, die Stresssymptome zu lindern.
+
+Man könnte fragen: "Wie gehe ich mit Angst um?"" Und wir könnten antworten: "Wenn Sie ein höheres Maß an Entscheidungsfreiheit hätten, würden Sie nicht so viel Angst verspüren."
+
+[The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
+
+## Die 7 Prinzipien für den Aufbau von Handlungsfähigkeit
+
+- Reize kontrollieren: Wenn wir die Anzahl der Ablenkungen in unserer unmittelbaren Umgebung reduzieren, können wir besser entscheiden, wohin unsere Aufmerksamkeit gelenkt wird, verbessern unsere Konzentration, fördern das kreative Denken und machen uns weniger anfällig für impulsive Handlungen und schlecht durchdachte Entscheidungen
+- Selektiv assoziieren: Wenn wir uns mit gesunden, einfühlsamen, aufgeschlossenen, aufrichtigen und unterstützenden Menschen umgeben, heben wir unsere Stimmung, steigern unsere Motivation und verbessern unsere allgemeine Gesundheit und unser Wohlbefinden.
+- Bewegung. Die Konzentration auf Bewegung sowie auf die Ernährung und Ruhe, die notwendig sind, um aktiv und im Gleichgewicht zu bleiben, steigert die geistige und körperliche Stärke und Ausdauer – wesentliche Bausteine für alle Körper- und Geistesfunktionen.
+- Positionieren Sie sich als Lernender: Durch aktives Hinterfragen, Zuhören und Lernen im Alltag erlangen wir ein tieferes Verständnis für die Welt um uns herum und können so unser Wissen und unsere Fähigkeiten kontinuierlich erweitern.
+- Verwalten unserer Emotionen und Überzeugungen: Die Kultivierung eines größeren Selbstbewusstseins hilft uns, starke Gefühle und Überzeugungen zu erkennen und in Ordnung zu bringen, die uns in die Irre führen könnten, und ermöglicht es uns, mit größerem Selbstvertrauen durch das Leben zu navigieren.
+- Überprüfen unserer Intuition: Zu lernen, auf unsere Intuition zuzugreifen und sicherzustellen, dass wir sie mit Bedacht und nicht impulsiv nutzen, ist eine wertvolle Orientierungshilfe auf dem Weg durch Herausforderungen.
+- Überlegen, dann handeln: Die Verwendung eines definierten Beratungsprozesses ermöglicht es uns, Optionen auf kontemplative, inklusive und rationale Weise zu identifizieren und abzuwägen, bevor wir wichtige Entscheidungen treffen, und versetzt uns in die Lage, positive, klare und entschlossene Maßnahmen zu ergreifen.
+
+[The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

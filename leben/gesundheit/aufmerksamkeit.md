@@ -54,6 +54,16 @@ das Aufmerksamkeitsdefizitsyndrom wird durch unsere sucht nach digitalen Geräte
 
 [The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
 
+## Folgen von Ablenkung
+
+Eine Studie im Journal of the Association for Consumer Research ergab, dass es umso mehr wie mentales Kryptonit wirkt, je näher wir an unserem (ausgeschalteten) Smartphone sind. Wenn wir es einfach irgendwo in unserer Nähe aufbewahren, werden wir abgelenkt und es kann unsere Denkfähigkeit beeinträchtigen. 
+
+Je mehr Zeit Menschen auf Facebook verbrachten, desto schlechter fühlten sie sich und desto unzufriedener waren sie mit ihrem Leben, so Forscher der University of Michigan in einem Artikel für PLOS ONE aus dem Jahr 2013.
+
+Laut Forschern in Proceedings of the National Academy of Sciences of United States berichteten Menschen, die die Berichterstattung über den Bombenanschlag auf den Boston-Marathon 2013 verfolgten, zwei bis vier Wochen nach der Tragödie über einen höheren akuten Stress als Menschen, die die Bombenanschläge erlebt haben.
+
+[The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

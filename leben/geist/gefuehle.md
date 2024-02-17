@@ -63,6 +63,16 @@ Dafür könnne wir unsere Tage so gestalten, dass wir die Dinge auf jeden Fall t
 
 [Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
 
+## Emotionen spiegeln
+
+Wir sind dazu veranlagt, die Stimmungen anderer – einschließlich Sorgen, Ängste und Traurigkeit – zu reproduzieren, indem wir uns einfach im selben Raum aufhalten. Die positiven Emotionen anderer lassen sich genauso leicht reproduzieren.
+
+Andere Untersuchungen zeigen, dass sich Stimmungen wie eine soziale Ansteckung zwischen Netzwerken von Menschen verbreiten können.
+
+Mit jedem glücklichen Freund in unserem sozialen Netzwerk steigt unsere eigene Chance, glücklich zu sein, um 9%. Mit jedem unglücklichen Freund sinkt unsere Chance, glücklich zu sein, um 7%.
+
+[The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

@@ -161,6 +161,12 @@ Wir haben danach eine Liste mit Dingen, mit denen wir uns beschäftigen können.
 
 [The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
 
+## Good
+
+Wenn es schlecht läuft, sollten wir uns nicht aus der Fassung bringen, uns nicht erschrecken oder frustrieren lassen. Stattdessen schauen wir uns die HErausforderung an und sagen uns "Good".
+
+[Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

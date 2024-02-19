@@ -84,6 +84,16 @@ Durch die Belohnung ermutigt uns unser Gehirn und unser Körper am Leben teilzun
 
 [The Joy of Movement](https://www.goodreads.com/book/show/44780556-the-joy-of-movement)
 
+## Training für unser Gehirn
+
+Bewegung ist nicht nur für unser Herz und unsere Taille, sondern auch für unser Gehirn gut. Insbesondere für die Schaltkreise, die uns depressiv halten. 
+
+Fast alles, was eine Depression verursacht, kann durch Bewegung bekämpft werden.
+
+Darüber hinaus erhöhen all diese Effekte die Wahrscheinlichkeit, dass wir uns auf andere Aktivitäten und Denkprozesse einlassen, die ebenfalls den Verlauf einer Depression umkehren.
+
+[The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

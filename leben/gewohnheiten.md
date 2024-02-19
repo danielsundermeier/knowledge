@@ -524,6 +524,20 @@ So können wir einen Algorithmus nach dem anderen automatisieren und unser Leben
 
 [Principles](https://www.goodreads.com/book/show/34536488-principles)
 
+## Schlüsselmoment
+
+Der Schlüssel zur Veränderung liegt in dem Moment, in dem wir feststellen, dass wir unsere beabsichtigte Gewohnheit nicht umgesetzt haben. 
+
+Dieser besondere Moment ist eine Gelegenheit für den präfrontalen Kortex, sich an unser Ziel zu erinnern und es erneut zu versuchen. 
+
+Wir werden wahrscheinlich viele Ausrutscher haben, aber wenn wir nach einem Ausrutscher aufgeben, haben wr nur unser Striatum darauf trainiert, aufzugeben. 
+
+Wir werden wahrscheinlich eine kleine Stimme in unserem Kopf hören, die uns auffordert, aufzugeben, aber je mehr wir auf diese Stimme hören, desto mehr wird sie zur Gewohnheit und desto schwieriger wird es, Widerstand zu leisten. 
+
+Jedes Mal, wenn wir an unseren Zielen festhalten, wird die Stimme leiser.
+
+[The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

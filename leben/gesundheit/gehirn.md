@@ -5,6 +5,8 @@ Wir haben zwei Denkmodi:
 1. Schnell
 2. Langsam
 
+> "The brain changes its activity based on what the body is doing." - Alex Korb
+
 ## Bewusstsein
 
 Unser Bewusstsein beinhaltet unsere Gedanken und unsere Vorstellung. 

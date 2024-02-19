@@ -35,6 +35,8 @@ Wichtig ist, dass ich alle meine [Gewohnheiten](./gewohnheiten.md) weiter umsetz
 
 > "NOTHING IS GOING TO CHANGE UNLESS YOU CHANGE YOURSELF FIRST" - Lanny Bassham
 
+> "It turns out that positive life changes actually cause positive neural changes—in the brain’s electrical activity, its chemical composition, even its ability to produce new neurons. These brain changes alter the tuning of your brain’s circuitry and lead to further positive life changes." - Alex Korb
+
 ## Vorgehen
 
 Anstatt nur alles Schlechte aus meinem Leben zu entfernen, versuche ich zuerst etwas Gutes hinzuzufügen und dadurch das Schlechte zu verdrängen.

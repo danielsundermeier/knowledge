@@ -130,6 +130,24 @@ Er hat sein Schicksal dadurch selbst in die Hand genommen, anstatt es von Kräft
 
 [Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
 
+## Ziele setzen, Entscheidungen treffen
+
+Wenn unsere Stimmung sinkt und wir uns gestresster, ängstlicher und deprimierter fühlen, fällt es uns schwerer, Ziele zu setzen und Entscheidungen zu treffen.
+
+Die Lösung dafür ist Entscheidungen zu treffen, egal wie klein.
+
+Gut genug ist ausreichend. Sorgen werden oft dadurch ausgelöst, dass wir die perfekte Wahl treffen möchten oder versuchen, alles zu maximieren.
+
+Wenn wir das tun, gewinnen wir das Gefühl der Handlungsfähigkeit zurück, das für unser Wohlbefinden so wichtig ist. 
+
+Unentschlossenheit ist Teil der Abwärtsspirale, weil sie das Gefühl verstärkt, keine Kontrolle zu haben.
+
+Wenn unser präfrontaler Kortex viele potenzielle Szenarien durchlaufen muss, erhöht sich das Risiko, Angst oder Sorgen auszulösen. 
+
+Wenn wir uns für einen Weg entscheiden, reduzieren wir die Anzahl der Variablen, die der präfrontale Kortex optimieren muss.
+
+[The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

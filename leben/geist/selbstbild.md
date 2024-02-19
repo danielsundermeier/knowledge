@@ -337,6 +337,18 @@ Wenn wir uns das eingestehen, fällt es uns leichter Prioritäten zu setzen.
 
 [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable)
 
+## Kritisches Bewusstein
+
+Indem wir die Botschaften und Erwartungen, die an uns gerichtet werden, kritisch hinterfragen, können wir sie einer Realitätsprüfung unterziehen.
+
+- Ist das was ich sehe real? Sind diese Bilder das reale Leben oder eine Fantasie?
+- Speigeln diese Bilder ein gesundes mit dem Herzen verbundenes Leben wider oder degradieren sie mein Leben, meinen Körper, meine Familie und meine Beziehungen zu Objekten und Waren?
+- Wer profitiert davon, dass ich diese Bilder sehe und mich schlecht in Bezug auf mich selbst fühle? (Geld und/oder Kontrolle)
+
+Wir erkennen, dass wir nicht alleine sind und dass wir normal sind.
+
+[Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

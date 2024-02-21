@@ -234,6 +234,16 @@ Es ist an der Zeit, die besten und heldenhafteste Version von uns selbst zu werd
 
 [Unlocked](https://www.goodreads.com/book/show/61896658-unlocked)
 
+## Großes erreichen
+
+Du kannst Großes erreichen. Egal, wo wir uns gerade im Leben befinden, es gibt etwas, in dem wir einzigartig und unglaublich sein können. 
+
+Aber bevor wir unglaublich sein können, müssen wir glauben, dass wir es schaffen können. Das ist der erste Schritt. 
+
+Der nächste Schritt ist etwas schwieriger; wir müssen entscheiden, worin wir großartig sein wollen.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

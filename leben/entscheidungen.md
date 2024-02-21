@@ -148,6 +148,22 @@ Wenn wir uns für einen Weg entscheiden, reduzieren wir die Anzahl der Variablen
 
 [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
 
+## Vision
+
+Eine Entscheidung ist die Verbindung zwischen dem Wunsch, dass etwas geschieht, und dem Zustandekommen von etwas. 
+
+Unsere Vision bleibt eine Fantasie, bis wir uns entscheiden, sie in die Realität umzusetzen. 
+
+Ohne eine Entscheidung ist unsere Vision ein Wunschtraum. Es ist Wunschdenken. 
+
+So leben die meisten Menschen ihr ganzes Leben lang und hoffen, dass etwas passiert, entscheiden sich aber nie dafür, es geschehen zu lassen. 
+
+Ihre Ziele lassen sich besser als Wünsche beschreiben. Ihre Visionen sind Halluzinationen. Wir können anders sein, indem wir die Entscheidung treffen, unseren Zweck zu erfüllen. 
+
+Wenn wir diese Entscheidung treffen, erhöhen wir automatisch unsere Erwartungen. Wir werden die ganze Bandbreite unserer geistigen Kräfte zur Geltung bringen.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

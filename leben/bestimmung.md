@@ -289,6 +289,78 @@ Wenn wir uns unsere Vision und die Pläne täglich durchlesen, bekommen wir imme
 - Was würden Sie tun, wenn Sie keine Angst hätten?
 - Welche anderen Fragen sollten Sie sich stellen?!?
 
+## Schwarzes Loch
+
+Stellen dir vor, dein Lebenszweck wäre so mächtig wie ein Schwarzes Loch. 
+
+Mit einer so starken Kraft würde absolut alles in unserem Leben davon angezogen werden. Nichts würde entkommen. 
+
+Jeder Gedanke, jede Handlung – unsere gesamte Identität – würde darin aufgesaugt. Und als Folge davon würden wir unser Wesen, unseren Besitz und unsere Lebensweise völlig verändern.
+
+Die Bestimmung unseres ultimativen Lebenszwecks ist die schwierigste Entscheidung, die wir jemals treffen werden, weshalb sich so wenige Menschen aktiv dafür entscheiden. 
+
+Stattdessen überlassen die meisten Menschen dem Leben diese wichtige Entscheidung. 
+
+Diese Menschen verschwenden ihr Leben mit einem endlosen Strom winziger, bedeutungsloser Entscheidungen, die keine große Veränderung hervorrufen und keine wirkliche Wirkung hinterlassen. 
+
+Sie verwenden ihre ganze Zeit und Ressourcen darauf, alltägliche Brände zu löschen und sich auf kurzfristige Ziele zu konzentrieren.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
+## Schaf oder Stratege
+
+Schafe sind die ultimativen Taktiker. 
+
+Sie reagieren nur auf zwei Dinge: auf Stöcke, die hinter ihnen geschlagen werden, und auf Karotten, die ihnen vorgehalten werden. 
+
+Deshalb ist es so einfach, Schafe zu scheren. 
+
+Ihre Herdenmentalität und ihr Mangel an Voraussicht machen es sehr einfach, sie auf einem schmalen Pfad zu treiben, bis sie stecken bleiben. Gefangen in ihrer eigenen taktischen Natur. 
+
+Aber Schafe sind nicht die einzigen Tiere, die an Gruppendenken und Kurzsichtigkeit hängen bleiben. Es passiert auch Menschen.
+
+Wenn wir unser Leben in der Herde und ohne weitsichtige Vision leben – wie Schafe statt Strategen –, landen wir in der Falle. 
+
+Das Gefühl, in einer Situation gefangen oder an die eigenen Umstände gebunden zu sein, ist eines der schlimmsten Gefühle der Welt. 
+
+Es kann sich anfühlen, als würde man langsam verrotten, während alle anderen vorankommen. 
+
+Die gute Nachricht ist, dass es nie zu spät ist, wie ein Stratege zu denken, ganz gleich, wie weit wir bereits in den taktischen Kaninchenbau vorgedrungen sind. 
+
+Ein Stratege ist jemand, der das Ende von Anfang an sieht und unabhängig von den Erwartungen anderer Menschen handelt. 
+
+Ein Stratege ist jemand, der seinen Lebenszweck ausarbeitet und rückwärts arbeitet, um diesen Zweck zu erfüllen.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
+## Ikigai
+
+In [The Blue Zones](https://www.goodreads.com/book/show/2213117.The_Blue_Zones) beschreibt Dan Buettner Regionen der Welt, in denen Menschen im Alter von über 100 Jahren üblicherweise ein aktives Leben führen. 
+
+Buettner spricht über eine bestimmte Blaue Zone im nördlichen Teil der Hauptinsel Okinawa. Er nennt diesen Ort „Ground Zero“ für die weltweite Langlebigkeit, weil die Menschen in dieser Gegend die längste behinderungsfreie Lebenserwartung der Welt haben. 
+
+Diese Okinawaner leben gut sieben Jahre länger als der durchschnittliche Amerikaner. Sie haben außerdem ein Fünftel der Rate an Dickdarm- und Brustkrebs und ein Sechstel der Rate an Herz-Kreislauf-Erkrankungen. 
+
+In der okinawanischen Sprache gibt es kein Wort für "Ruhestand". Stattdessen gibt es ein Wort, nach dem die Okinawaner ihr Leben leben: Ikigai. Grob übersetzt bedeutet es "der Grund, aus dem man morgens aufwacht". 
+
+Ob es darum geht, mit 102 Karate zu unterrichten oder mit 104 angeln zu lernen, die Okinawaner haben einen starken Sinn für Zielstrebigkeit. Buettner glaubt, dass das der Grund dafür ist, dass sie oft so lange leben.
+
+Unser Zweck – Ihr Ikigai – ist Treibstoff für unseren inneren Motor. Es ist das, was uns die Richtung vorgibt und uns voranbringt. Je mehr Sinn wir in unser Leben einbringen, desto heller wird unser innerer Funke brennen, desto länger werden wir leben und desto produktiver werden wir zu Lebzeiten sein.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
+## Singularität
+
+In der Physik ist eine Singularität ein Punkt unendlicher Dichte und verschwindend kleinem Volumen. Im Zentrum von Schwarzen Löchern gibt es Singularitäten. 
+
+Dabei handelt es sich um Regionen des Weltraums, deren Gravitationsfeld so intensiv ist, dass keine Materie oder Strahlung entweichen kann. 
+
+Ebenso ist die Anziehungskraft unseres Ziels in Kombination mit unsern Kernprioritäten so stark und massiv, dass sich nichts, was wir tun, seinem Einfluss entziehen kann.
+
+Jeder Gedanke, den wir haben, jede Entscheidung, die wir treffen, und jede Handlung, die wir unternehmen, wird von dieser Kraft angetrieben.
+
+[Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

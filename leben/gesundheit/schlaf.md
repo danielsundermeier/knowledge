@@ -405,6 +405,56 @@ Täglich erholt ohne Wecker aufwachen
 - Keine schweren Mahzeiten vor dem Schlafengehen
 - Ohne Wecker aufwachen (eher ins Bett gehen)
 
+## Schlafmangel erkennen
+
+Wir leiden unter Schlafmangel, wenn wir unseren persönlichen Schlafbedarf nicht decken, der bei den meisten Erwachsenen zwischen 7,5 und 9 Stunden pro Nacht liegt. 
+
+Wir sollten uns den ganzen Tag über energiegeladen, hellwach und wachsam fühlen, ohne dass die Aufmerksamkeit am Mittag deutlich nachlässt. 
+
+Der Begriff Schlafmangel trifft auf alle zu, die Schwierigkeiten beim Ein- oder Durchschlafen haben, zu früh aufstehen und/oder eine schlechte Schlafqualität haben.
+
+[Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
+
+## Gründe für Schlafmangel
+
+- Alkohol oder Koffein nach 14 Uhr
+- Tabak
+- Anstrengende sportliche Betätigung innerhalb von drei Stunden vor dem Schlafengehen
+- Eine schwere Mahlzeit innerhalb von drei Stunden vor dem Schlafengehen
+- Eine schlechte Schlafzimmerumgebung
+- Stress
+
+[Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
+
+## Optimaler Schlaf
+
+- Persönlichen Schlafquotienten (oder PSQ) bestimmen und ihn jede Nacht treffen
+- Jede Nacht zur gleichen Zeit ins Bett gehen und ganz natürlich zur gleichen Zeit aufwachen, auch am Wochenende
+- Benötigte Schlafmenge in einem zusammenhängenden Block holen
+- Verlorenen Schlaf so schnell wie möglich nachholen
+
+[Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
+
+## Nucleus suprachiasmaticus
+
+Ist unsere biologische Uhr. Studien zeigen, dass dieser Zeitplan eindeutig vom Licht bestimmt wird.
+
+Diese innere Uhr passt sich durch einen Prozess namens "Entrainment" an das Licht an, was bedeutet, dass sie durch seine Anwesenheit langsam in Synchronisation gebracht wird.
+
+[Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
+
+## Schlafroutine
+
+Eine Routine vor dem Schlafengehen ist der Schlüssel zu einem guten Schlaf.
+
+Um die Nacht gut durchschlafen zu können, muss sich unser Körper auf die lange Zeit der Inaktivität vorbereiten. 
+
+Es braucht einen Puffer zwischen dem Stress des Tages und der Nachtruhe. Wir müssen in der Stunde vor dem Schlafengehen Ruhe und Frieden finden. 
+
+Der allerletzte Teil dieses Rituals sollte darin bestehen, zwischen die Laken zu schlüpfen und die Augen zu schließen.
+
+[Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
+
 ## Notizen
 
 - Schlaf regeneriert unsere Fähigkeit konzentriert, wachsam, emotional stabil zu sein
@@ -428,7 +478,8 @@ Täglich erholt ohne Wecker aufwachen
 
 ## Bücher
 
-
+- [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+- [Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
 
 ## Tracker
 

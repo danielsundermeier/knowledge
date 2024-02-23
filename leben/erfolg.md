@@ -244,6 +244,18 @@ Der nächste Schritt ist etwas schwieriger; wir müssen entscheiden, worin wir g
 
 [Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
 
+## Groß denken. Erfolg. Wiederholen.
+
+Es gibt eine Geschichte über Sir Edmund Hillary, den ersten Menschen, der den Mount Everest bestieg. Als er zurück ins Basislager kam, wurde er von Reportern empfangen, die ihn fragten, wie die Aussicht oben auf der Welt sei. 
+
+Er sagte, es sei unglaublich, denn während er dort oben war, sah er einen anderen Berg im Himalaya-Gebirge, den er noch nicht bestiegen hatte, und er dachte bereits über die Route nach, die er als nächstes nehmen würde, um diesen Gipfel zu besteigen.
+
+Wenn Sie den Berggipfel erreichen, eröffnet sich Ihnen eine völlig neue Perspektive auf den Rest der Welt, auf den Rest Ihres Lebens. 
+
+Sie sehen neue Herausforderungen, die zuvor außer Sichtweite waren, und Sie sehen alte Herausforderungen auf neue Weise. Mit diesem großen Sieg, den Sie jetzt erringen können, sind sie alle bezwingbar.
+
+[Be Useful](https://www.goodreads.com/book/show/125063314-be-useful)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

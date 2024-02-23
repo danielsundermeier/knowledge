@@ -174,6 +174,32 @@ Wenn wir uns nur eine kleine Aufgabe zum Anfang stellen, ist es leichter loszule
 
 [The Art of Taking Action](https://www.goodreads.com/book/show/24504151-the-art-of-taking-action)
 
+## Arbeite dir den Hintern ab
+
+Wenn es eine unvermeidliche Wahrheit auf dieser Welt gibt, dann ist es, dass es keinen Ersatz für die Arbeit gibt. 
+
+Es gibt keine Abkürzung, keinen Wachstums-Hack und keine Zauberpille, mit der Sie die harte Arbeit umgehen können, um Ihre Arbeit gut zu machen, etwas zu gewinnen, das Ihnen wichtig ist, oder Ihre Träume wahr werden zu lassen. 
+
+Menschen haben versucht, Abkürzungen zu nehmen oder Schritte in diesem Prozess zu überspringen, solange harte Arbeit hart ist. Letztendlich fallen diese Leute entweder zurück oder bleiben in unserem Staub zurück, denn nur, wenn man sich den Hintern aufreißt, funktioniert es zu 100 Prozent, um 100 Prozent der Dinge zu erreichen, die es wert sind, erreicht zu werden.
+
+[Be Useful](https://www.goodreads.com/book/show/125063314-be-useful)
+
+## Mach etwas dagegen
+
+Ich habe eine Regel: Beschweren Sie sich nicht über eine Situation, es sei denn, Sie sind bereit, etwas zu tun, um sie zu verbessern. Wenn Sie ein Problem sehen und nicht mit einer möglichen Lösung an den Tisch kommen, möchte ich nicht, dass Sie sich darüber beschweren, wie schlimm es ist. Es kann nicht so schlimm sein, wenn es Sie nicht motiviert hat, zu versuchen, das Problem zu beheben.
+
+Und wann genau hat es jemals jemanden gebracht, sich zu beschweren, um seine Ziele zu erreichen? 
+
+Sie arbeiten daran, einen Traum wahr werden zu lassen, Sie jammern ihn nicht in die Tat um. 
+
+Darüber hinaus sind Probleme und Widrigkeiten ein normaler Teil der Reise eines jeden Menschen. 
+
+Was auch immer Ihre Vision ist, es wird Schwierigkeiten geben. Harte Zeiten. Dinge, die dich nerven. Man muss lernen, mit diesen Momenten umzugehen. Man muss gut darin sein, den Gang zu wechseln und das Positive in den Dingen zu finden. 
+
+Sie müssen wissen, wie Sie das erlittene Scheitern neu interpretieren und die Risiken, die Sie eingehen, verstehen. Sich Problemen zu stellen, anstatt sich darüber zu beschweren, gibt Ihnen die Möglichkeit, all diese Fähigkeiten zu üben.
+
+[Be Useful](https://www.goodreads.com/book/show/125063314-be-useful)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

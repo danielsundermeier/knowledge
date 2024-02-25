@@ -243,6 +243,24 @@ Wenn wir die vielen Momente addieren, entsteht daraus etwas Unglaubliches.
 
 [Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
 
+## Brennstoff für das Feuer
+
+Alles, was auf uns zukommt, ist ein potenzielles Werkzeug zur Selbstentwicklung und zur Verbesserung der Welt. Aber es hängt von uns ab, ob diese Dinge als Werkzeuge funktionieren und gut eingesetzt werden.
+
+Für einen weisen und starken Menschen ist alles nur Treibstoff für das innere Feuer. Für die Stoiker ist es also nicht richtig, dass wir nach Vergnügen streben oder vor Schmerz davonlaufen, sondern vielmehr mit Bedacht unsere Fähigkeit entwickeln und beides gut zu nutzen, wenn es in unser Leben kommt. 
+
+Wie eine starke Flamme wachsen und gedeihen wir aus dem, was auch immer uns begegnet.
+
+[Stoicism for Dummies](https://www.goodreads.com/book/show/159273374-stoicism-for-dummies)
+
+## Der Domino-Effekt
+
+Ein Dominostein kann einen anderen Dominostein umwerfen, der 50 % größer ist als er.
+
+Wir wollen unsere Reihe von Dominosteinen für die eine Sache aufreihen und unsere ganze Energie darauf konzentrieren, den nächsten umzuwerfen – in dem Wissen, dass wir dadurch eine Menge Schwung erzeugen, der uns dabei hilft, immer größere Dominosteine umzuwerfen!
+
+[The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

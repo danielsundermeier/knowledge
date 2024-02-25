@@ -264,6 +264,16 @@ Während "Hell Week" in der Ausbildung zum Navi Seal ist echt wichtig, dass wir 
 
 [Sea Stories](https://www.goodreads.com/book/show/41717478-sea-stories)
 
+## Zielsetzung auf das Jetzt
+
+Indem Sie den Filter "Zielsetzung im Jetzt" durchdenken, legen Sie ein zukünftiges Ziel fest und gehen dann methodisch auf das ein, was Sie jetzt tun sollten. 
+
+Es kann ein wenig wie eine russische Matroschka-Puppe sein, da Ihr eines Ding "im Moment" in Ihrem einem Ding von heute verschachtelt ist, das diese Woche in Ihrem einem Ding verschachtelt ist, das in diesem Monat in Ihrem einem Ding verschachtelt ist.
+
+So kann sich aus einer kleinen Sache wirklich etwas Großes entwickeln.
+
+[The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

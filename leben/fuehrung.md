@@ -148,6 +148,39 @@ Wir müssen immer als gutes Beispeil vorangehen, auch an Tagen an denen wir uns 
 
 [The Wisdom of the Bullfrog](https://www.goodreads.com/book/show/61918819-the-wisdom-of-the-bullfrog)
 
+## Die 11 wesentlichen Führungswechsel
+
+- Vom Solisten zum Dirigenten – Die Fokusverschiebung
+- Ziele zum Wachstum – Der Wandel in der persönlichen Entwicklung
+- Vorteile zum Preis – Die Kostenverschiebung
+- Menschen erfreuen zu Menschen herausfordern – der Beziehungswandel
+- Aufrechterhaltung zum Erschaffen - Die Überfluss-Verschiebung
+- Vom Leiterklettern zum Leiterbau – Der Fortpflanzungswandel
+- Führung zur Verbindung – Der Kommunikationswandel
+- Von Teameinheitlichkeit zu Teamvielfalt – der Wandel zur Verbesserung
+- Positionelle Autorität zu moralischer Autorität – Die Einflussverschiebung
+- Von ausgebildeten Führungskräften zu transformativen Führungskräften – The Impact Shift
+- Von der Karriere zur Berufung – Der Leidenschaftswandel
+
+[Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
+
+## Moralische Autorität
+
+Unter moralischer Autorität versteht man die Anerkennung des Führungseinflusses einer Person basierend auf ihrer Persönlichkeit und nicht auf der Position, die sie innehat. Dies wird durch ein authentisches, vertrauensbildendes Leben erreicht und wird durch erfolgreiche Führungsbemühungen gestützt. Es wird durch eine lebenslange Beständigkeit verdient. Führungskräfte können danach streben, durch ihre Lebensweise moralische Autorität zu erlangen, aber nur andere können ihnen moralische Autorität verleihen.
+
+Moralische Autorität ist wirklich die höchste Form des Führungseinflusses, und viele Menschen sind sich dessen bewusst. Es kommt davon, dass man gute Werte besitzt. Es schafft einen Mehrwert für andere. Es inspiriert Menschen. Es hilft der Führungskraft, aus den richtigen Gründen die richtigen Entscheidungen zu treffen. Es markiert ein Leben voller Worte und Taten, die aufeinander abgestimmt sind. Wir wissen, wann wir in der Gegenwart von jemandem sind, der moralische Autorität besitzt, und wir wollen ihm folgen!
+
+[Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
+
+## The CARE Loop
+
+- Connect
+- Achieve: Teams existieren aus einem Grund: um Ergebnisse zu erzielen
+- Respect
+- Empower
+
+[Unstoppable Teams](https://www.goodreads.com/book/show/39320163-unstoppable-teams)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

@@ -156,6 +156,18 @@ Wir erkennen so, was wir selsbt noch nicht ganz verstanden haben und müssen wir
 
 [A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
+# Mehrschichtiges Lernen
+
+Kleine Verbesserungen im Laufe der Zeit machen einen großen Unterschied. Wissen gibt uns eine Ebene des Lernens, die mit jeder hinzugefügten Ebene zunimmt, bis sie sich in Weisheit verwandelt.
+
+Lernen ist nicht so sehr wie ein Zug, der von einem Bahnhof zum nächsten fährt, sodass wir einen Ort verlassen und an einen anderen weiterfahren. 
+
+Stattdessen ähnelt unser Wachstum dem eines Baumes. Während wir lernen und wachsen, fügen wir neue Ringe des Verständnisses hinzu, ohne die älteren aufzugeben. 
+
+Wir nutzen die Vergangenheit, um uns zu stärken und etwas Neues schaffen.
+
+[Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)

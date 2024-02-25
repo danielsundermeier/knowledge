@@ -256,6 +256,16 @@ Sie sehen neue Herausforderungen, die zuvor außer Sichtweite waren, und Sie seh
 
 [Be Useful](https://www.goodreads.com/book/show/125063314-be-useful)
 
+## Zusammengesetzte Kraft der Konsistenz
+
+Ripken bestritt 2.632 Spiele in Folge, was bei weitem der Rekord in der Major League Baseball ist. Nur ein anderer Spieler überschritt die 2.000-Marke: Lou Gehrig mit 2.160.
+
+Wie selten diese Art von Konstanz ist, wird deutlich, wenn man bedenkt, dass nur fünf andere Spieler in der Geschichte der Major League jemals mehr als tausend Spiele in Folge bestritten haben. Vielleicht wurde das Spiel, in dem Ripken Gehrigs Rekord übertraf, deshalb zum denkwürdigsten in der MLB-Geschichte gewählt.
+
+Ripken sagte schnell, dass sein Erfolg nicht darauf zurückzuführen sei, dass er talentierter sei als alle anderen. Er zeigte sich, arbeitete hart, spielte verletzt und gab sein Bestes – jeden Tag sechzehn Jahre lang. Er war der Inbegriff von Beständigkeit.
+
+[Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

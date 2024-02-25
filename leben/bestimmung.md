@@ -4,6 +4,8 @@
 
 > "Purpose is a stable and generalized intention to accomplish something both meaningful to the self and of consequence to the world beyond the self." - William Damon
 
+> "Don’t ask what the world needs. Ask what makes you come alive and go do it. Because what the world needs is people who have come alive." - Howard Thurman
+
 ## Ziel
 
 Herausfinden, was ich mit meinem Leben machen möchte
@@ -360,6 +362,16 @@ Ebenso ist die Anziehungskraft unseres Ziels in Kombination mit unsern Kernprior
 Jeder Gedanke, den wir haben, jede Entscheidung, die wir treffen, und jede Handlung, die wir unternehmen, wird von dieser Kraft angetrieben.
 
 [Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
+
+## Nörgler und Flüsterer
+
+Wir haben zwei Stimmen in uns: den Nörgler in unserem Kopf und den Flüsterer in unserem Herzen. 
+
+Wir müssen lernen, die Lautstärke dieses Nörglers herunterzudrehen, der uns ständig alle Gründe erzählt, warum wir aufgeben sollten usw. 
+
+Je mehr wir dem Flüsterer Aufmerksamkeit schenken, desto mehr ermutigt er uns dabei zu bleiben und uns von unserer besten Seite zu zeigen – vor allem, wenn wir am wenigsten Lust dazu haben.
+
+[Unstoppable Teams](https://www.goodreads.com/book/show/39320163-unstoppable-teams)
 
 ## Bücher
 

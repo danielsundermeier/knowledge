@@ -218,6 +218,34 @@ Es wird immer eine Menge dringender Dinge geben, die unsere Aufmerksamkeit erfor
 
 [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 
+## Extremer Pareto
+
+Pareto geht nicht weit genug. Sie sollen das Pareto-Prinzip auf die Spitze treiben. Die 80/20-Regel ist das erste, aber nicht das letzte Wort zum Erfolg. Was Pareto begonnen hat, müssen Sie zu Ende bringen. Erfolg erfordert, dass Sie das 80/20-Prinzip befolgen, aber Sie müssen dabei nicht aufhören.
+
+Sie können tatsächlich 20 Prozent der 20 Prozent der 20 Prozent nehmen und so lange weitermachen, bis Sie zum Wichtigsten kommen! Egal um welche Aufgabe, Mission oder welches Ziel es sich handelt. Groß oder klein. Beginnen Sie mit einer so großen Liste, wie Sie möchten, aber entwickeln Sie die Einstellung, dass Sie sich von dort aus auf die wenigen kritischen Punkte vorarbeiten und nicht aufhören, bis Sie mit dem Wesentlichen fertig sind. Der Imperativ EINS. Die eine Sache.
+
+[The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
+
+## Die Fokussierungsfrage
+
+Die meisten Menschen kennen das chinesische Sprichwort: "Eine Reise von tausend Meilen muss mit einem einzigen Schritt beginnen." 
+
+Sie verstehen einfach nie, dass, wenn das wahr ist, mit dem falschen ersten Schritt eine Reise beginnt, die bis zu zweitausend Meilen von ihrem Ziel entfernt enden könnte. Die Fokussierungsfrage hilft dabei, dass Ihr erster Schritt kein Fehltritt wird.
+
+Was kann ich tun, damit alles andere einfacher oder unnötig wird?
+
+[The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
+
+## Zeitblöcke
+
+Die meisten Leute denken, dass es nie genug Zeit gibt, um erfolgreich zu sein, aber es gibt Zeit, in dem man sie blockt. Zeitblöcke ist eine sehr ergebnisorientierte Art, Zeit zu betrachten und zu nutzen. Auf diese Weise stellen wir sicher, dass das, was getan werden muss, auch erledigt wird.
+
+Zeitblöcke nutzt Ihre Energie und konzentriert sie auf Ihre wichtigste Arbeit.
+
+Wenn eine Aktivität unverhältnismäßige Ergebnisse liefert, müssen Sie dieser einen Aktivität unverhältnismäßig viel Zeit widmen.
+
+[The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

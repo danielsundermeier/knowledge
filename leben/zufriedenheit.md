@@ -442,6 +442,62 @@ Der Schlüssel zum Glück liegt nicht in der Veränderung unserer genetischen Au
 
 [The Tao te Ching](https://www.goodreads.com/book/show/19277381-the-tao-te-ching-of-lao-tzu)
 
+## Areté
+
+Der philosophisch sehr wichtige Begriff Areté, der von griechischen Philosophen allgemein verwendet wurde, um den idealen Höhepunkt menschlicher Exzellenz zu bezeichnen, wird oft auch als Hinweis auf ein Höchstmaß an Fähigkeit oder sogar eine überlegene Potenzial für richtiges Handeln beschrieben. 
+
+Es soll Exzellenz in allen Dingen beinhalten, die im Wesentlichen menschlich sind, vom Moralischen und Intellektuellen bis hin zum Physischen. Der Begriff umfasst das gesamte Spektrum an Qualitäten, von denen man annimmt, dass sie die höchste Form menschlichen Potenzials und Erfolgs ermöglichen.
+
+Der gesamte Sinn des Stoizismus lässt sich in einem einzigen Wort zusammenfassen: Areté.
+
+[Stoicism for Dummies](https://www.goodreads.com/book/show/159273374-stoicism-for-dummies)
+
+## Geld, Ruhm & Macht
+
+Die Reichen und Berühmten mussten nicht bis jetzt warten, um die Diskrepanz zwischen Reichtum, Berühmtheit, Status oder Macht und dem tiefen Ziel des Glücks zu entdecken. Ersteres zu verfolgen, um Letzteres zu erreichen, ist ein Fehler, der seit langem verstanden wird.
+
+Wir jagen weiterhin den falschen Dingen nach und hoffen, dass sie funktionieren, auch wenn klar wird, dass dies nicht der Fall ist. Die Stoiker wollten uns von diesem falschen Weg abbringen und auf den richtigen Weg der Tugend bringen.
+
+[Stoicism for Dummies](https://www.goodreads.com/book/show/159273374-stoicism-for-dummies)
+
+## Hedonische Anpassung
+
+Wir Menschen sind zu einem großen Teil deshalb unglücklich, weil wir unersättlich sind. Nachdem wir hart gearbeitet haben, um das zu bekommen, was wir wollen, verlieren wir regelmäßig das Interesse am Objekt unserer Begierde. Anstatt uns zufrieden zu fühlen, fühlen wir uns ein wenig gelangweilt, und als Reaktion auf diese Langeweile entwickeln wir neue, noch größere Wünsche.
+
+Die Psychologen Shane Frederick und George Loewenstein haben dieses Phänomen untersucht und ihm einen Namen gegeben: hedonische Anpassung. 
+
+Um den Anpassungsprozess zu veranschaulichen, verweisen sie auf Studien an Lottogewinnern. Ein Gewinn im Lotto ermöglicht es einem normalerweise, das Leben seiner Träume zu leben. Es stellt sich jedoch heraus, dass die Lottogewinner nach einer anfänglichen Hochstimmung am Ende genauso glücklich sind wie zuvor. Sie fangen an, ihren neuen Ferrari und ihre Villa als selbstverständlich zu betrachten, so wie sie zuvor ihren verrosteten Pick-up und die enge Wohnung als selbstverständlich betrachteten.
+
+Die Stoiker glaubten, eine Antwort auf diese Frage zu haben. Sie empfahlen uns, Zeit damit zu verbringen, uns vorzustellen, dass wir die Dinge verloren haben, die wir wertschätzen – dass unsere Frau uns verlassen hat, unser Auto gestohlen wurde oder wir unseren Job verloren haben. Wenn wir das tun, dachten die Stoiker, werden wir unsere Frau, unser Auto und unseren Job mehr wertschätzen, als wir es sonst tun würden. Diese Technik – nennen wir sie negative Visualisierung – wurde von den Stoikern mindestens bereits bei Chrysippus angewendet. Ich denke, es ist die wertvollste Technik im psychologischen Werkzeugkasten der Stoiker.
+
+Alternativ können wir eine historische Recherche durchführen, um herauszufinden, wie unsere Vorfahren lebten. Wir werden schnell feststellen, dass wir in einer Welt leben, die für sie eine Traumwelt gewesen wäre – dass wir dazu neigen, Dinge als selbstverständlich hinzunehmen, ohne die unsere Vorfahren leben mussten, darunter Antibiotika, Klimaanlage, Toilettenpapier, Mobiltelefone, Fernseher, Fenster, Brillen und frisches Obst im Januar. Wenn wir zu dieser Erkenntnis kommen, können wir aufatmen, dass wir nicht unsere Vorfahren sind, so wie unsere Nachkommen vermutlich eines Tages aufatmen werden, dass sie nicht wir sind!
+
+[A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+
+## Unbeständigkeit
+
+Indem wir über die Vergänglichkeit von allem auf der Welt nachdenken, müssen wir erkennen, dass jedes Mal, wenn wir etwas tun, das letzte Mal sein könnte, dass wir es tun, und diese Erkenntnis kann den Dingen, die wir tun, eine Bedeutung und Intensität verleihen, die sonst fehlen würde. 
+
+Wir werden nicht länger durch unser Leben schlafwandeln. Mir ist klar, dass manche Menschen es deprimierend oder sogar krankhaft finden werden, über Vergänglichkeit nachzudenken. 
+
+Dennoch bin ich davon überzeugt, dass wir nur dann wirklich lebendig sein können, wenn wir es uns zur Aufgabe machen, solche Gedanken regelmäßig zu hegen.
+
+[A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+
+## Unsere wichtigste Wahl
+
+Unsere wichtigste Entscheidung im Leben besteht laut Epictetus darin, ob wir uns mit Dingen beschäftigen, die äußerlich oder innerlich sind. 
+
+Die meisten Menschen entscheiden sich für Ersteres, weil sie glauben, dass Schaden und Nutzen von außen kommen. L
+
+aut Epictetus wird ein Philosoph – womit er jemanden meint, der ein Verständnis der stoischen Philosophie hat – genau das Gegenteil tun. 
+
+Er wird darauf achten, dass jeder Nutzen und Schaden von ihm selbst kommt. 
+
+Insbesondere wird er die Belohnungen, die die Außenwelt zu bieten hat, aufgeben, um Gelasseheit, Freiheit und Ruhe zu erlangen.
+
+[A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

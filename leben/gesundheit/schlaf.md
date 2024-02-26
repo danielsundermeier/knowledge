@@ -455,6 +455,38 @@ Der allerletzte Teil dieses Rituals sollte darin bestehen, zwischen die Laken zu
 
 [Sleep for Success](https://www.goodreads.com/book/show/9480007-sleep-for-success)
 
+## Nickerchen
+
+Menschen sind die einigen Tiere, die versuchen ihren Schlaf in nur einer Sitzung zu bekommen. Alle anderen sind mehrphasig. Das heißt, dass sie mehrere Phasen zum Schlafen haben.
+
+Die meiste Zeit unserer Geschichte galt die Ruhe am Tag als ebenso notwendiger Bestandteil der menschlichen Existenz wie das Schlafen in der Nacht.
+
+[Take a Nap! Change Your Life](https://www.goodreads.com/book/show/22164077-take-a-nap-change-your-life)
+
+## Müdigkeit
+
+Vor Thomas Edisons Glühbirne bekamen unsere Urgroßeltern in einer durchschnittlichen Nacht unter der Woche bis zu zehn Stunden Ruhe. 
+
+Heute sind wir froh, am Wochenende acht Stunden Zeit zu haben. Die tatsächliche Schlafdauer unter der Woche ist im Durchschnitt auf besorgniserregende 6,7 Stunden geschrumpft. 
+
+51 Prozent der Arbeitskräfte berichten, dass Schläfrigkeit am Arbeitsplatz das Arbeitsvolumen beeinträchtigt, das sie leisten können. 
+
+Jeder fünfte Erwachsene ist an einigen Tagen in der Woche so schläfrig, dass er seine täglichen Aktivitäten beeinträchtigt, während weitere 20 Prozent an einigen Tagen im Monat von Beeinträchtigungen berichten.
+
+[Take a Nap! Change Your Life](https://www.goodreads.com/book/show/22164077-take-a-nap-change-your-life)
+
+## Nickerchen vs. Schlaf
+
+Leider wird in vielen Informationsquellen zur Schlafhygiene dazu geraten, auf ein Nickerchen zu verzichten, wenn man nachts Probleme mit dem Schlafen hat. 
+
+Es gibt nicht nur keinerlei Beweise, die diesen Rat stützen, sondern viele der Daten aus der Schlafforschung belegen auch das genaue Gegenteil. 
+
+In Studien in allen Altersgruppen wurde nachgewiesen, dass die nächtliche Schlafdauer durch den Mittagsschlaf nicht beeinflusst wird. 
+
+Tatsächlich deuten Studien darauf hin, dass ein Nickerchen in einer Reihe von Fällen tatsächlich die Fähigkeit verbessert, nachts zu schlafen.
+
+[Take a Nap! Change Your Life](https://www.goodreads.com/book/show/22164077-take-a-nap-change-your-life)
+
 ## Notizen
 
 - Schlaf regeneriert unsere Fähigkeit konzentriert, wachsam, emotional stabil zu sein

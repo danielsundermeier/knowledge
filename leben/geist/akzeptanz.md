@@ -167,6 +167,42 @@ Wenn es schlecht läuft, sollten wir uns nicht aus der Fassung bringen, uns nich
 
 [Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom)
 
+## Gleichmut
+
+Wir können den Großteil dessen, was in unserem Leben geschieht, nicht kontrollieren. 
+
+Wir können auf Dutzende verschiedene Arten träumen, Standards und Ziele setzen und unser Denken und Handeln anpassen. 
+
+Wir können die Ergebnisse trotz aller Bemühungen nicht kontrollieren. Für viele Menschen ist die natürliche Reaktion Enttäuschung, Frustration, Verzweiflung und Wut. Niemand ist zu der einen oder anderen Zeit vor diesen Gefühlen gefeit. 
+
+Aber was wäre, wenn Sie Ihr Bewusstsein für andere Möglichkeiten zur Konditionierung Ihres Gehirns und Ihrer Reaktion auf äußere Kräfte und Ergebnisse schärfen könnten? Was wäre, wenn Sie sich von Rückschlägen nicht negativ beeinflussen lassen würden? Was wäre, wenn Sie schlechte Ergebnisse überwinden und einen positiven und rationalen Geisteszustand erreichen würden, der für diese Rückschläge unempfindlich ist? 
+
+Das ist die Essenz des Gleichmuts.
+
+[The Power of One More](https://www.goodreads.com/book/show/60698178-the-power-of-one-more)
+
+## Nichts persönlich nehmen
+
+Was auch immer um dich herum passiert, nimm es nicht persönlich. 
+
+Nichts, was andere Leute tun, geschieht wegen dir. Es liegt an ihnen selbst.
+
+[The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
+
+## Machen Sie keine Annahmen
+
+Wir neigen dazu, über alles Annahmen zu treffen. Das Problem bei Annahmen besteht darin, dass wir glauben, dass sie die Wahrheit sind.
+
+Wir machen Annahmen darüber, was andere tun oder denken – wir nehmen es persönlich –, dann geben wir ihnen die Schuld und reagieren, indem wir mit unserem Wort emotionales Gift aussenden. 
+
+Deshalb beschwören wir Probleme, wenn wir Annahmen treffen. Wir gehen von Annahmen aus, verstehen sie falsch, nehmen sie persönlich und erschaffen am Ende umsonst ein großes Drama.
+
+Der Weg, sich davon abzuhalten, Annahmen zu treffen, besteht darin, Fragen zu stellen. 
+
+Stellen Sie sicher, dass die Kommunikation klar ist. Wenn Sie es nicht verstehen, fragen Sie nach. Haben Sie den Mut, Fragen zu stellen, bis Sie so klar wie möglich sind.
+
+[The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

@@ -8,6 +8,16 @@ Wir können für alles eine Lösung finden.
 
 [Everything is Figureoutable](https://www.goodreads.com/book/show/43706482-everything-is-figureoutable) 
 
+## Gib immer dein bestes
+
+Geben Sie unter allen Umständen immer Ihr Bestes, nicht mehr und nicht weniger. 
+
+Aber denken Sie daran, dass Ihr Bestes nie von einem Moment auf den anderen gleich sein wird. 
+
+Alles ist lebendig und verändert sich ständig, daher wird Ihr Bestes manchmal von hoher Qualität sein, und manchmal wird es nicht so gut sein.
+
+[The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

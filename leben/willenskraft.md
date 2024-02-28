@@ -47,7 +47,7 @@ Um eine stabile Selbstkontrolle zu bewahren, ist es besser, Lebensmittel mit ein
 
 ## Selbstkontrolle
 
-Die Ausübung von Selbstbeherrschung in einem Bereich schien alle Lebensbereiche zu verbessern. 
+Die Ausübung von Selbstbeherrschung in einem Bereich scheint alle Lebensbereiche zu verbessern. 
 
 Sie rauchten weniger Zigaretten und tranken weniger Alkohol. Sie hielten ihre Häuser sauberer. Sie spülten das Geschirr ab, anstatt es in der Spüle aufzustapeln, und wuschen ihre Wäsche häufiger. 
 

@@ -74,6 +74,16 @@ Wonach wir fragen zeigt, was wir wertschätzen. Wir wollen nicht nach einem Erge
 
 [Transformational Leadership](https://www.goodreads.com/book/show/35967256-transformational-leadership)
 
+## Tadellos
+
+Wenn wir tadellos sind, verwenden wir unser Wort nicht gegen uns selbst und geben uns Schuld oder Scham hin. 
+
+Wir verwenden unser Wort auch nicht gegen andere, um ihnen Vorwürfe zu machen, sie zu kritisieren oder zu klatschen. 
+
+Wir kommen auch unseren Verpflichtungen nach und gehen nur Verpflichtungen ein, die wir auch einhalten wollen.
+
+[The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
+
 ## Links
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)

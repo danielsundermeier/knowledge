@@ -26,6 +26,11 @@ Es passiert etwas Magisches, wenn wir aufhören, so zu tun, als wären wir perfe
 
 [Motivation and Personality](https://www.goodreads.com/book/show/1297177.Motivation_and_Personality)
 
+## Schuld auf Tibetisch
+
+Im Tibetischen gibt es kein Wort für "schuldig". Das Wort, das am nächsten kommt, ist "intelligentes Bedauern, das beschließt, die Dinge anders zu machen".
+
+[The Diamond Cutter](https://www.goodreads.com/book/show/18117604-the-diamond-cutter)
 
 ## Bücher
 

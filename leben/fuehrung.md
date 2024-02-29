@@ -181,6 +181,26 @@ Moralische Autorität ist wirklich die höchste Form des Führungseinflusses, un
 
 [Unstoppable Teams](https://www.goodreads.com/book/show/39320163-unstoppable-teams)
 
+## Die ultimative Lektion? Demonstration
+
+> "Vor allem habe ich versucht, in meinem Verhalten – auf und neben dem Spielfeld – jene Eigenschaften zu demonstrieren, die mir so am Herzen liegen, die Werte innerhalb der Pyramide. Ich glaube, dass es kein wirkungsvolleres Führungsinstrument gibt als Ihr persönliches Beispiel. In fast jeder Hinsicht wird das Team letztendlich zum Spiegelbild seines Anführers. Ich wollte, dass sich diese Reflexion in der Erfolgspyramide widerspiegelt. Ich habe versucht, es hauptsächlich durch mein eigenes Beispiel zu lehren." - John Wooden
+
+Wenn wir führen wollen, müssen wir als gutes Beispiel vorangehen.
+
+[Wooden on Leadership](https://www.goodreads.com/book/show/43535.Wooden_on_Leadership)
+
+## Reifung zum Höchsten im Inneren
+
+In einem Weinberg beginnt eine Traube zu reifen und sendet dabei eine Schwingung, ein Enzym, einen Duft oder ein Energiefeld aus, das von den anderen Trauben aufgenommen wird. 
+
+Diese eine Traube signalisiert den anderen Trauben, dass es Zeit ist, sich zu verändern, zu reifen. 
+
+Wenn Sie zu einem Menschen werden, der in seinen Worten und Gedanken nur das Höchste und Beste für sich selbst und andere in den Vordergrund stellt, signalisieren Sie allen um Sie herum allein durch Ihre Persönlichkeit, dass es Zeit für eine Veränderung ist. 
+
+Ohne es überhaupt zu versuchen, werden Sie das Bewusstsein Ihrer Mitmenschen schärfen.
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

@@ -498,6 +498,18 @@ Insbesondere wird er die Belohnungen, die die Außenwelt zu bieten hat, aufgeben
 
 [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 
+## Ein weiterer Tag im Paradies
+
+Auf die Frage, wie es ihnen geht, habe ich Menschen sarkastisch stöhnen hören: "Ein weiterer Tag im Paradies." 
+
+Ich beschloss, dies als meine eigene echte Antwort auf diese Frage zu übernehmen. Ich war nicht sarkastisch, sondern antwortete aufrichtig: "Es ist ein weiterer Tag im Paradies", als ich nach meinem Wohlbefinden gefragt wurde. 
+
+Anfangs war es unangenehm, aber mittlerweile ist es zur zweiten Natur geworden. Mir ist aufgefallen, dass dieser Kommentar andere zum Lächeln bringt und mich daran erinnert, dass ich in diesem Moment die Wahl habe, glücklich oder traurig zu sein; im Himmel oder in der Hölle sein.
+
+Sie haben die Wahl, welche Worte Sie verwenden, um das Leben, das Sie leben, zu gestalten. Wählen Sie mit Bedacht.
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

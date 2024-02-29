@@ -165,6 +165,22 @@ Wir können nur gewinnen.
 
 [The Mental Game](https://www.goodreads.com/book/show/123243795-the-mental-game)
 
+## Steinschleuder
+
+Was bestimmt, wie weit ein Stein aus einer Schleuder fliegt? 
+
+Die Antwort lautet: Wie weit wir das Band der Schleuder nach hinten gezogen haben. 
+
+Wenn Sie das Leben erfolgreicher Menschen studieren, werden Sie feststellen, dass ihr Erfolg oft nicht trotz ihrer Lebensherausforderungen, sondern wegen ihnen war. 
+
+Sie nahmen das, was ihnen widerfuhr, und nutzten es, um ihnen beim Wachsen zu helfen. 
+
+Sie hörten auf, jedem zu sagen, wie viel Unrecht ihnen widerfahren sei, und begannen, in ihren Herausforderungen den Segen zu suchen. 
+
+Und als sie suchten, fanden sie sie. Ihre Schleuder wurde weit zurückgezogen, aber dadurch stiegen sie noch weiter.
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

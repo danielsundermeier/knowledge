@@ -256,6 +256,18 @@ Wir können uns die Frage stellen, ob wir die Person bewundern mit der wir uns u
 
 [Relentless Optimism](https://www.goodreads.com/book/show/35879237-relentless-optimism)
 
+## Schließung der Beschwerdefabrik
+
+Nachdem Sie die Monate hinter sich haben, die es braucht, um ein beschwerdefreier Mensch zu werden, werden Sie feststellen, dass Sie sich verändert haben. 
+
+So wie der blinde Höhlenfisch über Generationen hinweg Dinge zurückgelassen hat, die nicht mehr benötigt wurden, werden Sie feststellen, dass Ihr Geist nicht mehr die Flut unglücklicher Gedanken produziert, mit der Sie früher gelebt haben. 
+
+Weil Sie sie nicht aussprechen, haben Sie kein Ventil für sie und die Beschwerdefabrik in Ihrem Kopf wird geschlossen. Sie haben den Hahn verschlossen und der Brunnen ist ausgetrocknet. 
+
+Durch die Änderung Ihrer Worte haben Sie Ihre Denkweise verändert. Es ist jetzt für Sie unbewusst geworden (Sie merken es nicht), kompetent zu sein (sich nicht zu beschweren). Und dadurch sind Sie ein anderer Mensch. Du bist ein glücklicherer Mensch.
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

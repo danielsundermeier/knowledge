@@ -200,6 +200,14 @@ Sie müssen wissen, wie Sie das erlittene Scheitern neu interpretieren und die R
 
 [Be Useful](https://www.goodreads.com/book/show/125063314-be-useful)
 
+## Unzufriedenheit führt zu Aktion
+
+Der erste Schritt zum Fortschritt ist Unzufriedenheit. Aber wenn wir in der Unzufriedenheit verharren, können wir nie zu besseren Aussichten schreiten.
+
+Die großen Führer der Vereinigten Staaten ließen zu, dass Unzufriedenheit sie zu großen Visionen trieb, und ihre Leidenschaft für diese Visionen inspirierte andere, ihnen zu folgen. Ihr unermüdlicher Fokus auf eine glänzende Zukunft ließ den kollektiven Herzschlag dieser Nation höher schlagen.
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

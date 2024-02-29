@@ -261,6 +261,14 @@ Wir wollen unsere Reihe von Dominosteinen für die eine Sache aufreihen und unse
 
 [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
 
+## Wir sind alle Selfmade
+
+Jeder von uns ist bereits dabei, ständig sein Leben zu erschaffen. Der Trick besteht darin, wirklich die Zügel in die Hand zu nehmen und das Pferd dahin zu lenken, wohin wir wollen, und nicht dorthin, wo wir es nicht wollen. 
+
+Dein Leben ist ein Film, der von dir geschrieben, inszeniert und produziert wurde und in dem du die Hauptrolle spielst! Wir sind alle selbstgemacht. Auf die Frage nach "self-made Millionären" witzelte Earl Nightingale, der Motivationsmeister und Philosoph des 20. Jahrhunderts: "Wir sind alle selbstgemacht, aber nur die Erfolgreichen werden es zugeben."
+
+[A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

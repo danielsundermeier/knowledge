@@ -18,6 +18,24 @@ Alles ist lebendig und verändert sich ständig, daher wird Ihr Bestes manchmal 
 
 [The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
 
+## Verliere nicht die Hoffnung
+
+Wenn Sie die Denkweise eines Gewinners haben wollen, gibt es eine Sache, die Sie auf keinen Fall tun können.
+
+Wir können die Hoffnung nicht verlieren.
+
+Sobald Sie die Hoffnung verlieren, verlieren Sie alle Gewinnchancen.
+
+Ihre Physiologie bestimmt viel mehr von Ihrer Psychologie, als Ihnen vielleicht bewusst ist. Wenn Sie sich hoffnungslos fühlen und die Welt ein wenig außer Kontrolle zu geraten scheint, ist es wichtig, dass Sie die kontrollierbaren Dinge unter Kontrolle haben und Ihre Energie durch die Beherrschung Ihrer Grundlagen (Ernährung, Bewegung, Schlaf) bündeln.
+
+Wissenschaft der Hoffnung
+
+1. Sie müssen ein inspirierendes Ziel/eine Vision für eine bessere Zukunft haben.
+2. Sie müssen daran glauben, dass Sie diese bessere Zukunft Wirklichkeit werden lassen können.
+3. Sie brauchen einen Plan, um es Wirklichkeit werden zu lassen.
+
+[Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

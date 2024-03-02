@@ -181,6 +181,30 @@ Und als sie suchten, fanden sie sie. Ihre Schleuder wurde weit zurückgezogen, a
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Weiterer Gang
+
+Wenn ich auf mein Leben zurückblicke, waren es die Hindernisse, die Unzulänglichkeiten und die Misserfolge, die mich zwangen, härter zu kämpfen, nach innen zu greifen und etwas wirklich Außergewöhnliches aus mir herauszuholen, von dem ich nicht einmal wusste, dass es existiert. Mein Scheitern war für mein Wachstum von entscheidender Bedeutung, denn jedes Mal, wenn ich scheiterte, wurde mir klar, dass es daran lag, dass ich nicht so hart gekämpft hatte, wie nur irgend möglich war.
+
+Beachten Sie, dass ich nicht gesagt habe: "mein Bestes." Es gibt viele Menschen, die sich so viel Mühe geben, wie sie können. Aber ihre Obergrenzen und Beschränkungen sind wahrgenommene Barrieren, die das, was sie erreichen können, einschränken. Wir wissen nicht, was wir wirklich tun können, bis wir den weitesten Punkt, an dem wir je waren, hinter uns gelassen haben und dorthin gelangen, wo wir noch nie zuvor gewesen sind. Es gibt einen Ort jenseits der bewussten Wahrnehmung dessen, was erreichbar ist, und dort entsteht echter Erfolg.
+
+Nach Jahren des Scheiterns habe ich gelernt, dass es irgendwo in mir einen anderen Gang gibt, und ich musste oft scheitern, um ihn zu finden. Ich begann zu glauben, dass ich mich so drastisch verändern könnte, dass du mich nicht einmal erkennen würdest, wenn ich mir genügend Zeit gäbe und einem intelligenten und disziplinierten Plan folge. Ich hatte gelernt, mich weiterzuentwickeln.
+
+[Evolution](https://www.goodreads.com/book/show/17570741-evolution)
+
+## 8 Liegestütz
+
+Als Muhammad Ali gefragt wurde, wie viele Liegestütz er schafft, hat er 8 oder 9 geantwortet.
+
+Als der Reporter sich wunderte, warum es nur so wenige sind, hat Ali gesagt, dass er erst anfängt zu zählen, wenn er nicht mehr kann.
+
+Das ist die Mentalität, die ich erlernen musste, und sie ist eines der wichtigsten Konzepte, die es im Hinblick auf das Training zu verstehen gilt.
+
+Es gibt Müdigkeit und Erschöpfung – der Punkt, an dem die meisten Menschen aufgeben. Das sind Barrieren, keine Haltepunkte. Du kannst aufhören und brav sein. Die andere Option sind Exzellenz und hervorragende Ergebnisse. Dies ist der Ort, an den sich nur wenige Menschen wagen.
+
+Die meisten sehen ein Hindernis und denken, dass der Weg zu Ende ist, anstatt zu erkennen, dass Hindernisse im Leben wirklich der Beginn des Erfolgs sind.
+
+[Evolution](https://www.goodreads.com/book/show/17570741-evolution)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

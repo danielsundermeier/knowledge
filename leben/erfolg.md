@@ -266,6 +266,23 @@ Ripken sagte schnell, dass sein Erfolg nicht darauf zurückzuführen sei, dass e
 
 [Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
 
+## Mentale Norbremse lösen
+
+- NOTBREMSE AN: Konzentrieren Sie sich auf den Sieg.
+- NOTBREMSE AUS: Konzentrieren Sie sich darauf, ihr bestes zu geben.
+
+Die meisten Sportler konzentrieren sich auf das Falsche, das Gewinnen. Das ist ein großer Fehler. 
+
+Warum? Weil Sie keine Kontrolle über den Sieg haben. 
+
+Sie haben die Kontrolle über Ihren Einsatz.
+
+"Voller Einsatz ist voller Sieg." - Ghandi
+
+Konzentrieren Sie sich auf den Einsatz, nicht auf das Ergebnis!
+
+[Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

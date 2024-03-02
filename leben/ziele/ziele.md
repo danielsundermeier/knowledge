@@ -274,6 +274,14 @@ So kann sich aus einer kleinen Sache wirklich etwas Großes entwickeln.
 
 [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
 
+## Wie man eine 4-Minuten-Meile läuft
+
+Bei meinem Ansatz geht es darum, vermeintliche Einschränkungen aufzubrechen, indem ich ein Ziel auf eine Art und Weise in kleinere Stücke zerlege, die leichter zu handhaben und damit unendlich viel machbarer sind.
+
+Gehen Sie es wie Bannister an, der sein rekordverdächtiges Meilentempo auf eine Art und Weise übte, wie es noch nie jemand versucht hatte. Er teilte die Meile in Viertel auf. Einmal lief er eine Viertelmeile in weniger als einer Minute, dann lief er zwei Viertelmeile in jeweils weniger als einer Minute. Als er schließlich in jeweils weniger als einer Minute vier Viertel hintereinander aneinanderreihen konnte, war er bereit, es der Welt zu zeigen und Geschichte zu schreiben.
+
+[Evolution](https://www.goodreads.com/book/show/17570741-evolution)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -314,6 +314,24 @@ Viele Menschen, deren Ernährung 60–70 Prozent oder mehr Kohlenhydrate enthäl
 
 [The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
 
+## Streng und dennoch flexibel
+
+Diese Art der Diät soll streng und dennoch flexibel sein. 
+
+Auch wenn das widersprüchlich erscheinen mag, macht es tatsächlich Sinn. 
+
+Um schlank und muskulös auszusehen, muss man sich gut ernähren. 
+
+Man muss konsequent sein und darf keine Ausreden finden. 
+
+Wenn ein Plan jedoch nicht flexibel ist, ist die Wahrscheinlichkeit groß, dass Sie ihn nicht langfristig durchhalten können. 
+
+Und da Beständigkeit die Grundlage für den Erfolg ist, benötigen Sie einen Plan, den Sie anpassen können. 
+
+Ganz zu schweigen davon, dass es viel einfacher ist, sich den Spielraum zu verschaffen, jede Woche eine Mahlzeit ohne Einschränkungen zu genießen, wenn man jeden Tag bei jeder Mahlzeit die vorgegebenen Ziele erreicht.
+
+[Evolution](https://www.goodreads.com/book/show/17570741-evolution)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

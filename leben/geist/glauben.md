@@ -25,3 +25,15 @@ Weiter wurde in der Geschichte über eine Studie berichtet, in der festgestellt 
 Der Geist hat eine starke Wirkung auf den Körper.
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
+
+## 3:59.4
+
+Jahrtausende lang konnte niemand – nicht ein einziger Mensch – die Vier-Minuten-Marke überschreiten. Aus diesem Grund postulierten Sportjournalisten und sogar Physiker, dass die menschliche Evolution bestimmte Grenzen habe und dass das Laufen einer Meile in weniger als vier Minuten eine dieser Einschränkungen sei.
+
+Dann veränderte Roger Bannister die Geschichte.
+
+Mit innovativen Laufstrategien, die sich auf weniger Laufen und intensivere, kürzere Trainingseinheiten konzentrierten, schaffte Bannister 1954 das "Unmögliche" und war der erste Mensch überhaupt, der die Meile in weniger als vier Minuten lief. Seine Zeit: 3:59,4.
+
+Aber die erstaunlichsten Dinge passierten, nachdem Bannister den Rekord gebrochen hatte. Nur 46 Tage später wurde sein Rekord gebrochen – und dann wurde er immer wieder gebrochen. Die Lektion ist wichtig und hat nichts mit Laufen oder der Vier-Minuten-Meile zu tun. Bannister hatte das eigentliche Problem gelöst, das die meisten Erfolge verhindert. Es ist ein dunkles Geheimnis, über das nur wenige Menschen jemals diskutieren oder es zugeben: Die meisten unserer Barrieren sind mentaler Natur. Und diese mentalen Barrieren können physische und emotionale Einschränkungen dessen bedeuten, was Sie in der Realität tatsächlich erreichen können.
+
+[Evolution](https://www.goodreads.com/book/show/17570741-evolution)

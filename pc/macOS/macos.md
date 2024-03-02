@@ -107,6 +107,13 @@ switchphp 7.4
 
 [Switching between PHP versions with Homebrew](https://dcblog.dev/switching-between-php-versions-with-homebrew)
 
+```
+brew unlink php && brew link php
+brew services restart --all
+composer global update
+valet start
+```
+
 ## Nix
 
 - [How I Start: Nix (2020)](https://christine.website/blog/how-i-start-nix-2020-03-08) ([Lobsters](https://lobste.rs/s/lktf6u/how_i_start_nix))

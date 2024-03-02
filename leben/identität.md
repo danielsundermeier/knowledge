@@ -182,6 +182,14 @@ Bei jeder Stuation können wir uns dann fragen, wie sie wohl reagiert hätten.
 
 Genau wie wir Eigenschaften an uns nicht mögen, die uns bei anderen aufregen, schlummern die Eigenschaften, die wir bei anderen bewundern in uns.
 
+## Tun Sie so, als ob
+
+Nur weil Sie sich auf eine bestimmte Weise fühlen, heißt das nicht, dass Sie auch so handeln müssen. Das heißt, auch wenn Sie Angst haben, können Sie dennoch selbstbewusst handeln.
+
+Man muss kein Champion sein, um sich wie einer zu benehmen. Tatsächlich gilt: Je früher Sie beginnen, sich wie ein Gewinner zu verhalten, desto besser.
+
+[Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

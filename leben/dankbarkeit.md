@@ -76,6 +76,26 @@ Demut entsteht aus Respekt. Respekt vor dem, was wir nicht wissen. Respekt vor d
 
 [The Hero Code](https://www.goodreads.com/book/show/54817547-the-hero-code)
 
+## Dankbarkeitstagebuch
+
+Eine der besten Möglichkeiten, Dankbarkeit zu kultivieren, besteht darin, eine tägliche Praxis zu etablieren, bei der Sie sich an die Gaben, Gnaden, Vorteile und guten Dinge erinnern, die Sie genießen. 
+
+Wenn wir dankbar sind, bestätigen wir, dass es in unserem Leben Quellen des Guten gibt. 
+
+Indem wir jeden Tag schreiben, vergrößern und erweitern wir diese Quellen des Guten. 
+
+Sich täglich Zeit zu nehmen, um sich an Momente der Dankbarkeit zu erinnern, die selbst mit alltäglichen oder gewöhnlichen Ereignissen, persönlichen Eigenschaften oder geschätzten Menschen, denen man begegnet, verbunden sind, hat das Potenzial, ein nachhaltiges Lebensthema der Dankbarkeit zu verweben, genauso wie es ein grundsätzlich bejahendes Leben nährt.
+
+[Gratitude Works!](https://www.goodreads.com/book/show/16234921-gratitude-works)
+
+## Leiden und Erlösung
+
+Ein weiteres Beispiel für das Phänomen "vom Schlechten zum Guten" liefert die Forschung zur Auseinandersetzung mit der eigenen Sterblichkeit. Diese aktuelle Studie ergab, dass der Gedanke an den eigenen Tod einen Menschen dankbarer für das Leben machen kann, das er oder sie hat.
+
+Mit der richtigen Neuausrichtung können wir für alles dankbar sein – auch für die schwierigsten Zeiten unseres Lebens – und gleichzeitig unsere aktuelle Realität noch mehr wertschätzen und uns, wenn wir gerade eine dunkle Phase durchmachen, daran erinnern, dass wir haben, was wir brauchen, um durchzuhalten und stärker zu werden, und dass wir eines Tages für unsere aktuellen Herausforderungen dankbar sein werden.
+
+[Gratitude Works!](https://www.goodreads.com/book/show/16234921-gratitude-works)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

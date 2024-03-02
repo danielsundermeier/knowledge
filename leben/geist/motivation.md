@@ -140,6 +140,22 @@ Verbundenheit: das Gefühl der Verbundenheit mit anderen Menschen
 
 [So Good They Can't Ignore You](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 
+## Goldene Mitte
+
+Viele Leute denken, wenn etwas gut ist, muss mehr besser sein.
+
+- Motiviert zu sein ist gut, zu motiviert zu sein ist nicht so gut. 
+- Sorge ist gut, aber zu viel Sorge ist schlecht. 
+- Den Morgen wichtig zu machen ist gut, aber den Morgen zu wichtig zu machen ist schlecht.
+
+Denken Sie daran: Manchmal ist weniger mehr. Weniger Spannung ermöglicht es Ihnen, intensiver zu sein.
+
+Gehen Sie mit allem in Ihrem Wesen aufs Ganze. Spielen Sie so, als wäre dies das letzte Spiel Ihres Lebens. Es ist erstaunlich, dass Sie bessere Leistungen erbringen, wenn Sie einfach nur spielen!
+
+Wenn Sportler etwas besonders gut machen wollen, erbringen sie schlechtere Leistungen. Jedes Mal, wenn Sie an einem Wettkampf teilnehmen, ist es wichtig. Es ist nie etwas Besonderes. Fangen Sie an, so zu denken. So denkt ein Gewinner!
+
+[Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

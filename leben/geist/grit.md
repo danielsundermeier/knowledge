@@ -69,6 +69,26 @@ Menschen die aufblühen stellen sich ihren Herausforderungen und wachsen daran.
 
 Sie mögen harte Arbeit genausowenig wie jeder andere, sie akzeptieren sie aber als Preis für ihren Erfolg.
 
+## 5 Schritte zu Beständigkeit
+
+Hier sind die fünf Schritte zur Beständigkeit. Wenn Sie sie nutzen, werden Sie nie scheitern. Sie könnten kurzfristig scheitern, aber nicht auf lange Sicht.
+
+Beständigkeit ist ein einfacher Prozess:
+
+1. Was ist der nächste Schritt?
+2. Was steht diesem Schritt im Wege?
+3. Entfernen oder ignorieren Sie das Hindernis.
+4. Mach den nächsten Schritt.
+5. Gehen Sie zurück zu Nr. 1.
+
+- Regel Nr. 1: K – A = 0 (Wissen ohne Aktion ist gleich Nichts). Es ist nutzlos, wenn Sie wissen, was zu tun ist, aber nicht tun, was Sie wissen.
+- Regel Nr. 2. Die Gewinner geben ihr Bestes. Verlierer halten sich zurück.
+- Regel Nr. 3. Es ist viel besser, alles zu geben und zu verlieren, als sich zurückzuhalten und zu gewinnen.
+- Regel Nr. 4. Lassen Sie sich von Schwierigkeiten begeistern. Seien Sie nicht frustriert – lassen Sie sich faszinieren!
+- Regel Nr. 5. Alles zu geben, kann nicht eine Sache von Zeit zu Zeit sein – es muss eine Sache für immer werden.
+
+[Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

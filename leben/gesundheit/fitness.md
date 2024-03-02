@@ -94,6 +94,34 @@ Darüber hinaus erhöhen all diese Effekte die Wahrscheinlichkeit, dass wir uns 
 
 [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
 
+## Geschenk vs. Pflicht
+
+Bewegung soll Spaß machen. Wenn es eine lästige Pflicht ist, stimmt wahrscheinlich etwas nicht: Ihr Training ist möglicherweise zu lang oder zu intensiv, oder Sie haben möglicherweise nicht den richtigen Trainingspartner. 
+
+Wenn es keinen Spaß macht, suchen Sie nach dem Grund und beheben Sie ihn. Spaß zu haben ist ein großer Vorteil von Bewegung, insbesondere wenn andere Dinge schwierig sind – wenn die Arbeit nicht so gut läuft, Sie persönlichen Stress haben oder es tiefster Winter ist.
+
+[The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
+
+## Maximale aerobe Funktion
+
+Sobald eine maximale aerobe Herzfrequenz gefunden wurde, verwenden Sie einen Bereich zwischen diesem Wert und 10 Schlägen darunter. Wenn Ihre maximale aerobe Herzfrequenz beispielsweise 155 beträgt, liegt Ihre aerobe Trainingszone bei 145–55 Schlägen pro Minute.
+
+Es ist wichtig zu beachten, dass Personen, die diese Formel zum ersten Mal anwenden, die Übung oft als zu einfach empfinden. Dies kann daran liegen, dass viele Menschen sehr intensiv trainieren und/oder sich überanstrengen. Manchmal finden Menschen, dass das Training nach dieser Formel zu einfach ist, weil sie nach dem Mythos „Kein Schmerz, kein Gewinn“ programmiert sind.
+
+Wenn sich Ihr aerobes System mit der Zeit verbessert, müssen Sie härter arbeiten, um die gleiche Herzfrequenz aufrechtzuerhalten. Im Moment sollten Sie verstehen, dass sich Ihr Trainingstempo ändern wird. Mit der Zeit wirst du schneller sein. Allerdings werden Sie Ihre Anstrengung als ungefähr gleich empfinden, da Sie immer noch mit der gleichen Herzfrequenz trainieren.
+
+[The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
+
+## Trainingstagebuch
+
+Das wichtigste Trainingsgerät wird normalerweise nicht als Ausrüstung angesehen: Ihr Trainingstagebuch. Es ist ein Gegenstand, der Ihnen helfen kann, besser zu trainieren, aber es ist eher ein mentaler als ein physischer Apparat. 
+
+Ein Tagebuch kann so formell sein wie ein spezielles Buch, in das Sie nach jedem Training schreiben, oder so informell wie Notizen in einem separaten Kalender. Wie auch immer Ihr Tagebuch aussieht, verwenden Sie es ausschließlich zur Aufzeichnung Ihrer Trainingseinheiten.
+
+Ihr Trainingstagebuch sollte (1) Ihre primären und sekundären Ziele, (2) Ihre grundlegenden Trainingsstrategien und (3) Ihre täglichen Trainingsaktivitäten enthalten.
+
+[The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

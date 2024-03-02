@@ -203,6 +203,72 @@ Stellen Sie sicher, dass die Kommunikation klar ist. Wenn Sie es nicht verstehen
 
 [The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
 
+## Wahre Hingabe
+
+Jedes einzelne Ding ist das Ergebnis von allem, was jemals in Zeit und Raum passiert ist. Du bist nicht der Handelnde; Du bist der Erlebende der Realität.
+
+Dies ist unsere erste Begegnung mit dem, was Hingabe und Akzeptanz wirklich bedeuten. Du gibst dich der Außenwelt nicht hin – du akzeptierst sie vollkommen. 
+
+Was Sie aufgeben, ist Ihr persönliches, erfundenes Urteil darüber. Wenn Sie gefragt würden, ob es für Sie in Ordnung sei, dass Saturn Ringe hat, würden Sie wahrscheinlich sehr verwirrt dreinschauen und sagen: "Was hat das mit mir zu tun? Das ist eine verrückte Frage." Die Wahrheit ist, dass alles so ist. 
+
+Es hat nichts mit Dir zu tun. Es hat mit den Kräften zu tun, die dafür gesorgt haben, dass es so ist, und diese Kräfte reichen Milliarden von Jahren zurück. 
+
+Die völlige Akzeptanz dieser Wahrheit bedeutet Hingabe. Sie müssen den Teil von Ihnen loslassen, der glaubt, er hätte das Recht, das Ergebnis von Milliarden Jahren an Interaktionen zu mögen oder nicht zu mögen. 
+
+Hingabe bedeutet, den Teil von dir loszulassen, der nicht die Wahrheit lebt.
+
+Ihnen wird eine einzigartige Show präsentiert, deren Entstehung Milliarden von Jahren gedauert hat – sie liegt direkt vor Ihnen und Sie beschweren sich darüber. Wir sind alle der Meinung, dass wir sehr gute Gründe haben, uns zu beschweren. Die Absicht dieser Reise, die wir gemeinsam unternehmen, besteht darin, diese Gründe, welche auch immer sie sein mögen, zu beseitigen.
+
+[Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
+
+## Perspektive
+
+Im interstellaren Raum gibt es so gut wie nichts als leeren Raum. So ist es zwischen allen Sternen, überall im Universum. 
+
+Wie wäre es für Sie, da draußen zu sein und nichts zu sehen? Denn das ist es, was 99,999 Prozent des Universums ausmacht. 
+
+Was man jeden Tag bekommt, ist ein Wunder! Es gibt Farben, Formen und Geräusche sowie all die erstaunlichen Erlebnisse, die Ihnen in jedem Augenblick geboten werden. 
+
+Doch du hast nur gesagt: "Nein, das ist nicht das, was ich will." Natürlich ist es nicht das, was du willst. Das ist nicht der Punkt. 
+
+Anstatt den Moment vor Ihnen mit den Vorlieben zu vergleichen, die Sie in Ihrem Kopf aufgebaut haben, warum vergleichen Sie ihn nicht mit nichts? Denn das ist es, was 99,999 Prozent des Universums ausmacht.
+
+[Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
+
+## Tief hängende Früchte
+
+Der beste Weg, gespeicherte Schmerzherde loszulassen, ist Übung. 
+
+Genauso wie man die Tonleitern übt, um Klavier zu lernen, oder eine Sportart ausübt, um darin gut zu werden, übt man das Loslassen, um zu lernen, wie man es macht. 
+
+Sie beginnen mit einfachen Dingen. Wir nennen diese niedrig hängenden Früchte. Es gibt jeden Tag viele Situationen, in denen Sie ohne jeden guten Grund innere Unruhe hervorrufen. 
+
+Es nützt überhaupt nichts, sich um das Auto vor einem zu kümmern. Es macht nur angespannt und verkrampft. Die Kosten-Nutzen-Analyse ergibt hundertprozentige Kosten und keinen Nutzen. 
+
+Es sollte einfach sein, diese Tendenz loszulassen, aber das ist nicht der Fall. Sie werden feststellen, dass Sie die Angewohnheit haben, darauf zu bestehen und zu fordern, dass die Dinge so sind, wie Sie es wollen, auch wenn es irrational ist. 
+
+Die Dinge sind so, wie sie sind, aufgrund der Einflüsse, die sie so gemacht haben. Sie werden das Wetter nicht ändern, indem Sie sich darüber beschweren. 
+
+Wenn Sie weise sind, werden Sie beginnen, Ihre Reaktionen auf die Realität zu ändern, anstatt mit der Realität zu kämpfen. Dadurch verändern Sie Ihre Beziehung zu sich selbst und zu allem anderen.
+
+[Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
+
+## Diene dem gegenwärtigen Moment
+
+Das höchste Leben, das Sie führen können, ist, wenn jeder einzelne Moment, der vor Ihnen liegt, besser dran ist, weil es so war. Diene dem gegenwärtigen Moment mit ganzem Herzen und ganzer Seele. Stellen Sie sich vor, wie die Welt wäre, wenn das jeder tun würde.
+
+Sobald Sie lernen, den reaktionären Lärm persönlicher Gedanken und Gefühle loszulassen, werden die Dinge klar. Sie werden wissen, wie Sie mit der Situation vor Ihnen umgehen können. 
+
+Wenn Sie bei Bewusstsein, präsent und aufmerksam sind, wissen Sie, was zu tun ist. 
+
+Wenn Ihr Motiv darin besteht, sich selbst loszulassen und den Moment vor Ihnen zu nutzen, verdienen Sie großen Respekt. 
+
+Wie würde es Ihnen gefallen, jemanden zu treffen, dessen gesamtes Motiv und Lebensziel darin besteht, zunächst seine persönlichen Blockaden loszulassen und dann sein Bestes zu geben, um dem zu dienen, was vor ihm liegt? 
+
+Sie können nichts falsch machen, weil ihr Motiv rein ist. Wenn das Motiv selbst rein und unpersönlich ist, wird es am Ende Licht verbreiten.
+
+[Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

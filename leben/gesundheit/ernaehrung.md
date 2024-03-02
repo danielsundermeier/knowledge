@@ -300,6 +300,20 @@ Der Hunger ist ein Zeichen, dass ich in einem Defizit bin und abnehme.
 
 - Geschmack verändert sich, wenn man auf gesunde Ernährung mit unverarbeiteten Lebensmitteln umstellt
 
+## Kohlenhydratunverträglichkeit
+
+Eines der häufigsten Probleme bei Menschen, denen es schwerfällt, Körperfett zu verbrennen, ist eine Kohlenhydratunverträglichkeit. 
+
+Dieser Zustand tritt bei Personen auf, die mehr kohlenhydrathaltige Lebensmittel – Brot, Müsli, Reis, Kartoffeln, Zucker und andere Süßigkeiten – zu sich nehmen, als ihr Körper richtig verstoffwechseln kann. 
+
+Dies führt dazu, dass zu viel Insulin produziert wird, ein Hormon, das von der Bauchspeicheldrüse ausgeschüttet wird. Zu viel Insulin kann die Fettverbrennung verhindern und dazu führen, dass Sie immer mehr Fett in Ihrem Körper einlagern. 
+
+Normalerweise werden etwa 40 Prozent der Kohlenhydrate, die Sie zu sich nehmen, in Fett umgewandelt und gespeichert. Bei vielen Menschen ist dieser Prozentsatz aufgrund eines Insulinüberschusses, einer Folge des zunehmenden Alters, einer genetischen Veranlagung oder von Stress viel höher. 
+
+Viele Menschen, deren Ernährung 60–70 Prozent oder mehr Kohlenhydrate enthält, können möglicherweise mehr Fett verbrennen und insgesamt gesünder leben, wenn sie ihre Kohlenhydrataufnahme auf ein erträglicheres Maß reduzieren.
+
+[The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

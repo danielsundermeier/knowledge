@@ -133,6 +133,28 @@ Das Bedauern über Untätigkeit übersteigt das Bedauern über Handeln um fast z
 
 [Maximize Your Potential](https://www.goodreads.com/book/show/17944645-maximize-your-potential)
 
+## Nähre den Glauben, verhungere die Angst
+
+Denken Sie an die Definition von Angst: Angst ist das starke, unangenehme Gefühl, das erwartet, dass etwas Schlimmes passiert. 
+
+Glaube ist das Gegenteil. Es ist das starke, angenehme Gefühl, das erwartet, dass etwas Gutes geschieht. 
+
+Diese beiden Emotionen sind in dir und konkurrieren miteinander. Die Emotion, die Sie am meisten nähren, wird gewinnen. Wie füttern unsere Emotionen mit Selbstgesprächen.
+
+[Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
+
+## Kritiker werden nie aufhören zu kritisieren
+
+Kritiker werden nie aufhören, Sie zu kritisieren, weil sie die Vorstellung nicht ertragen können, dass jemand, den sie kennen, ihren Traum verfolgt und Erfolg hat. 
+
+Es bringt sie dazu, sich selbst zu hinterfragen. Sie fragen sich, was sie hätten sein können, wenn sie das Risiko eingegangen wären und etwas anderes versucht hätten. Und sie hassen es, darüber nachzudenken.
+
+Es spielt keine Rolle, was andere über Sie denken. Es zählt nur, was du über dich denkst. 
+
+Nur Sie wissen, ob Sie Ihr persönliches Bestes geben und das Beste werden, was Sie sein können. Niemand sonst kann das wissen, deshalb sollte ihre Meinung für Sie keine Rolle spielen.
+
+[Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

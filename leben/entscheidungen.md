@@ -164,6 +164,24 @@ Wenn wir diese Entscheidung treffen, erhöhen wir automatisch unsere Erwartungen
 
 [Black Hole Focus](https://www.goodreads.com/book/show/21500669-black-hole-focus)
 
+## Angreifen und anpassen
+
+Wichtiger als die Entscheidung, die Sie treffen, ist Ihre Einstellung und Ihr Einsatz danach. 
+
+Das ist es, was Ihre Ergebnisse bestimmt. Die Person mit der aggressivsten Einstellung und dem unermüdlichsten Einsatz gewinnt normalerweise.
+
+Die meisten Probleme lassen sich schnell lösen, indem man sie einfach hart angeht und sich an das anpasst, was als nächstes passiert. 
+
+Wenn Probleme auftreten, lehnen Sie sich nicht zurück und hoffen Sie, dass sie verschwinden. 
+
+Greifen Sie Ihre Probleme mit Aggression an. Finden Sie aggressiv die Lösung. 
+
+Greife an und passe dich an alles an, was gerade passiert. 
+
+Die Person mit dieser Einstellung gewinnt normalerweise.
+
+[Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

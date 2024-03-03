@@ -283,6 +283,32 @@ Konzentrieren Sie sich auf den Einsatz, nicht auf das Ergebnis!
 
 [Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
 
+## 365 x 5: See you at the pool
+
+Setzen Sie Ihre Ziele hoch. Arbeiten Sie jeden Tag gewissenhaft daran, diese Ziele zu erreichen.
+
+Eines haben alle erfolgreichen Menschen gemeinsam: Sie machen es sich zur Gewohnheit, Dinge zu tun, die erfolglose Menschen nicht gerne tun.
+
+Fünf Jahre lang, von 1998 bis 2003, glaubten wir nicht an freie Tage. Ich hatte einen wegen eines Schneesturms, zwei weitere wegen der Entfernung der Weisheitszähne. Weihnachten? Wir sehen uns am Pool. Das Erntedankfest? Schwimmbad. Geburtstage? Schwimmbad. Sponsorenpflichten? Erarbeiten Sie sie während der Übungszeit.
+
+[No Limits](https://www.goodreads.com/book/show/5497240-no-limits)
+
+## W.I.N. = What’s Important Now?
+
+Wenn wir uns nicht gut fühlen, können wir oft nicht unser Bestes geben.
+
+Wenn wir es aber schaffen uns auf das wichtige zu konzentrieren, egal wie wir uns fühlen, können wir alles schaffen.
+
+[No Limits](https://www.goodreads.com/book/show/5497240-no-limits)
+
+## Zeit, Energie, Hingabe, Herz und Seele
+
+Nichts im Leben ist einfach. Sie können nicht eines Tages aufwachen, verkünden, dass Sie etwas tun werden, und erwarten, dass es ein Erfolg wird. Zumindest nicht konsequent. Man muss Zeit und Energie investieren und alles, was man zur Verfügung hat. Man muss es unbedingt wollen.
+
+Das ist der Punkt, den einige Leute, die sagen, dass sie etwas wollen, was auch immer das ist, vielleicht nicht ganz verstehen. Viele Schwimmer, mit denen ich trainiert habe, sagten, sie wollten etwas Großes erreichen, steckten aber nicht wirklich Zeit, Energie, Hingabe und Herzblut hinein.
+
+[No Limits](https://www.goodreads.com/book/show/5497240-no-limits)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

@@ -92,6 +92,20 @@ Man könnte fragen: "Wie gehe ich mit Angst um?"" Und wir könnten antworten: "W
 
 [The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
 
+## Selbstvertrauen vs. Arroganz
+
+Zu selbstbewusst sein kann man eigentlich nicht. Zu arrogant, ja. Aber nicht zu selbstbewusst.
+
+Selbstvertrauen ist die Überzeugung, dass Sie das Zeug dazu haben, jede Herausforderung, die auf Sie zukommt, zu meistern. 
+
+Arroganz ist der Glaube, dass du so wunderbar bist, dass nichts eine Herausforderung für dich sein wird. 
+
+Arrogante Menschen werden schnell entlarvt und machen angesichts von Widrigkeiten einen Rückzieher. 
+
+Selbstbewusste Menschen trotzen Widrigkeiten, weil sie wissen, dass sie es können.
+
+[Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

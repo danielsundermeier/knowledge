@@ -155,6 +155,24 @@ Nur Sie wissen, ob Sie Ihr persönliches Bestes geben und das Beste werden, was 
 
 [Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
 
+## Angst ist dein wahrer Gegner
+
+Es geht nur um Angst. 
+
+Wenn du die Angst vernichtest, gewinnst du. 
+
+Wenn Sie die Angst töten, haben Sie Ihr bestes Jahr aller Zeiten. 
+
+Wenn man die Angst tötet, trainiert man wie ein Verrückter. 
+
+Wenn man die Angst tötet, geht man kostenlos aufs College. 
+
+Wenn du die Angst vernichtest, stehst du auf dem Podium, wirst bezahlt und Fremde kommen auf dich zu und rufen dich beim Namen. 
+
+Wenn die Angst stirbt, beginnt man zu leben.
+
+[Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

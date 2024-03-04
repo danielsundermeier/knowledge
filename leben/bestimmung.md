@@ -373,6 +373,18 @@ Je mehr wir dem Flüsterer Aufmerksamkeit schenken, desto mehr ermutigt er uns d
 
 [Unstoppable Teams](https://www.goodreads.com/book/show/39320163-unstoppable-teams)
 
+## Dilige et quod vis fac
+
+Wenn du liebevoll und fleißig bist, kannst du tun und lassen, was du willst.
+
+Wenn Sie Angst haben und undiszipliniert sind, was die meisten von uns sind, können Sie nicht tun, was Sie wollen, weil Sie nicht die nötige Konzentration, Absicht und Energie aufrechterhalten können, um es durchzuziehen.
+
+Haben Sie etwas in Ihrem Leben, das Sie sich so sehr wünschen, dass Sie bereit sind, alles andere zu opfern, um es zu erreichen?
+
+Die Chancen stehen gut, dass fast jeder, den Sie kennen, sich selbst und seine Träume aufgegeben hat. Warum sollten sie also Ihre Träume fördern? Wenn Sie Erfolg haben, machen Sie es ihnen noch unangenehmer. Durchschnitt fördert Durchschnitt; Mittelmäßig bevorzugt Mittelmaß. Mitten in einem Wettbewerb wird es eine Zeit geben, in der Sie die Wahl haben, ob Sie teilnehmen oder nicht. Ich sage, du solltest gehen.
+
+[Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

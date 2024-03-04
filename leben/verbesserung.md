@@ -269,6 +269,28 @@ Dein Leben ist ein Film, der von dir geschrieben, inszeniert und produziert wurd
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Rebound-Tage
+
+Die besten und selbstbewusstesten Sportler berichten, dass sie im Laufe eines 30-Tage-Monats zwischen 3 und 6 schlechte Tage haben. Sie verstehen, dass ein schlechter Tag einfach dazu gehört. Die Fähigkeit, diese Leistungsschwankungen zu akzeptieren, ermöglicht es Sportlern, sich voll auf ihr Training einzulassen und ihre Ziele hochzuhalten.
+
+Wie Sie an einem guten Tag funktionieren, definiert nicht Ihren Charakter. Der wahre Test besteht darin, wie Sie sich an einem schlechten Tag verhalten.
+
+Nehmen Sie es sich jeden Tag aufs Neue vor, aus dem, was Sie haben, das Beste herauszuholen.
+
+Das Ziel ist nicht, perfekt zu sein. Es geht darum, Ihr Bestes zu geben und sich schnell von Misserfolgen zu erholen.
+
+[Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
+
+## Wettbewerb
+
+Der Wettbewerb verspricht, das Beste aus uns herauszuholen, und deshalb sollten wir danach streben.
+
+Große Konkurrenten werden von der Konkurrenz unterstützt, nicht gehemmt. Gegen die Besten anzutreten sollte uns inspirieren, antreiben und unsere Seelen in Flammen setzen. Wenn Sie lernen, mit und nicht gegen die Besten zu konkurrieren, können Sie das Beste aus Ihnen herausholen.
+
+Wer den Rückenwind der Konkurrenz nicht mitbekommt, tut dies, weil er gegeneinander konkurriert. Große Konkurrenten verstehen, was es bedeutet, miteinander zu konkurrieren.
+
+[Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

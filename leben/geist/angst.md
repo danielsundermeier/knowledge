@@ -173,6 +173,26 @@ Wenn die Angst stirbt, beginnt man zu leben.
 
 [Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
 
+## Die Angst überwinden
+
+Das Ermutigende daran ist, dass man jedes Mal, wenn man auf eine Situation stößt, auch wenn man sie zu diesem Zeitpunkt vielleicht für eine Unmöglichkeit hält und die Qualen der Verdammten durchlebt, wenn man sie erst einmal erlebt und durchlebt hat, für immer freier fühlt als du vorher warst. Wenn man das durchleben kann, kann man alles durchleben. 
+
+Du gewinnst Kraft, Mut und Selbstvertrauen durch jede Erfahrung, bei der du wirklich innehältst, um der Angst ins Gesicht zu sehen.
+
+Sie können sich sagen: "Ich habe diesen Horror erlebt. Ich kann das nächste nehmen, was kommt."
+
+Die Gefahr besteht darin, sich der Angst nicht zu stellen, sich nicht mit ihr auseinanderzusetzen. Wenn Sie irgendwo scheitern, wird Ihnen das Selbstvertrauen schaden. Sie müssen jedes Mal erfolgreich sein. Sie müssen das tun, was Sie Ihrer Meinung nach nicht tun können
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
+## Schüchternheit
+
+Rückblickend erkenne ich, wie ungewöhnlich schüchtern und schüchtern ich als Mädchen war. Solange ich mich von Schüchternheit und Schüchternheit beherrschen ließ, war ich halb gelähmt. Aber auch hier war Selbstdisziplin die große Hilfe. Ich musste lernen, Menschen gegenüberzutreten, und das konnte ich nicht, solange ich von Ängsten um mich selbst besessen war, was bei Schüchternheit die übliche Situation ist. Ich habe etwas Befreiendes gelernt. Wenn du dich selbst vergisst, ob du einen guten Eindruck auf andere machst oder nicht, was sie von dir denken, und stattdessen an sie denkst, wirst du nicht schüchtern sein.
+
+Tun Sie die Dinge, die Sie interessieren, und tun Sie sie mit ganzem Herzen. Machen Sie sich keine Sorgen darüber, ob die Leute Sie beobachten oder kritisieren. Die Chancen stehen gut, dass sie Ihnen keine Aufmerksamkeit schenken. Es ist Ihre Aufmerksamkeit für sich selbst, die so lächerlich ist. Aber man muss sich selbst so vollständig wie möglich außer Acht lassen. Wenn Sie beim ersten Mal scheitern, müssen Sie sich beim zweiten Mal einfach mehr anstrengen. Schließlich gibt es keinen wirklichen Grund, warum Sie scheitern sollten. Hör einfach auf, an dich selbst zu denken.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

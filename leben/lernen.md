@@ -156,7 +156,7 @@ Wir erkennen so, was wir selsbt noch nicht ganz verstanden haben und müssen wir
 
 [A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
-# Mehrschichtiges Lernen
+## Mehrschichtiges Lernen
 
 Kleine Verbesserungen im Laufe der Zeit machen einen großen Unterschied. Wissen gibt uns eine Ebene des Lernens, die mit jeder hinzugefügten Ebene zunimmt, bis sie sich in Weisheit verwandelt.
 
@@ -167,6 +167,16 @@ Stattdessen ähnelt unser Wachstum dem eines Baumes. Während wir lernen und wac
 Wir nutzen die Vergangenheit, um uns zu stärken und etwas Neues schaffen.
 
 [Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
+
+## Warum?
+
+Es gibt ein wunderbares Wort "Warum?", das Kinder verwenden. Alle Kinder. Wenn sie aufhören, es zu benutzen, liegt der Grund allzu oft darin, dass sich niemand die Mühe gemacht hat, ihnen zu antworten, niemand versucht hat, eine der wichtigsten Eigenschaften, die ein Mensch haben kann, am Leben zu erhalten: Interesse an der Welt um ihn herum. Niemand förderte und kultivierte den angeborenen Sinn des Kindes für die Abenteuer des Lebens.
+
+Eines der Dinge, von denen ich am stärksten überzeugt bin, ist, dass die Frage nach dem "Warum" jedes Kindes mit Bedacht – und mit Respekt – beantwortet werden sollte. Wenn Sie die Antwort nicht kennen, und das ist oft der Fall, nehmen Sie das Kind mit zu einer Quelle, um die Antwort zu finden. Dabei kann es sich um ein Wörterbuch oder eine Enzyklopädie handeln, für die er zu jung ist, um sie selbst zu nutzen, aber er wird das Gefühl gehabt haben, an der Suche nach der Antwort beteiligt zu sein.
+
+Nichts Lebendiges kann stillstehen, es geht vorwärts oder rückwärts. Das Leben ist nur solange interessant, wie es ein Wachstumsprozess ist; Oder anders ausgedrückt: Wir können nur so lange wachsen, wie wir interessiert sind.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
 ## Bücher
 

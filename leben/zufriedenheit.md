@@ -510,6 +510,18 @@ Sie haben die Wahl, welche Worte Sie verwenden, um das Leben, das Sie leben, zu 
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Glück ist ein Nebenprodukt
+
+Glück ist kein Ziel, es ist ein Nebenprodukt. 
+
+Paradoxerweise besteht der einzig sichere Weg, nicht glücklich zu sein, darin, bewusst eine Lebensweise zu entwerfen, in der man sich vollkommen und ausschließlich zufriedenstellen kann. 
+
+Nach kurzer Zeit, einer sehr kurzen Zeit, würde es wenig geben, was einem wirklich Spaß machen würde. 
+
+Denn was unser Interesse am Leben aufrechterhält und uns Vorfreude auf morgen weckt, ist, anderen Menschen Freude zu bereiten.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

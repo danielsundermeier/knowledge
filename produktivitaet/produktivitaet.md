@@ -246,6 +246,26 @@ Wenn eine Aktivität unverhältnismäßige Ergebnisse liefert, müssen Sie diese
 
 [The One Thing](https://www.goodreads.com/book/show/16256798-the-one-thing)
 
+## Elenor Roosevelts Zeitmanagement
+
+Wir haben alle Zeit, die es gibt. 
+
+Das Problem ist: Wie nutze ich es am besten? 
+
+Es gibt drei Möglichkeiten, wie ich dieses Problem lösen konnte: 
+
+Erstens, indem ich eine innere Ruhe erlangte, so dass ich ungestört von dem, was um mich herum passiert, arbeiten kann; 
+
+Zweitens, indem man sich auf die Sache konzentriert; 
+
+Drittens, indem ich einen Tagesablauf arrangiere, der bestimmte Aktivitäten bestimmten Stunden zuordnet, alles, was getan werden muss, im Voraus plant, aber gleichzeitig flexibel genug bleibt, um das Unerwartete zu berücksichtigen. 
+
+Es gibt noch einen vierten Punkt, der vielleicht eine erhebliche Rolle bei der Nutzung meiner Zeit spielt. 
+
+Ich versuche, einen allgemeinen Gesundheitszustand aufrechtzuerhalten, damit ich meine Energie immer dann optimal nutzen kann, wenn ich sie brauche.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

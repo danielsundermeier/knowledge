@@ -45,3 +45,15 @@ Universelle Erfahrungen wie Scham, Schuldgefühle und Verurteilung gehören zu e
 Wenn wir liebevoller und freundlicher zu uns selbst sind und Schamresilenz üben, können wir unsere Fehler umarmen und die eigentlichen Gaben: Mut, Mitgefühl und Verbundenheit empfangen.
 
 [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)
+
+## Kompromisse
+
+So wie alles Leben eine Anpassung und Neuanpassung ist, so muss jede Wahl bis zu einem gewissen Grad ein Kompromiss zwischen der Realität und einem Traum von Perfektion sein. 
+
+Wir müssen versuchen, die Realität so perfekt wie möglich zu machen, aber wir dürfen nicht das Unmögliche von ihr verlangen. 
+
+Es ist nur eine Annäherung, die jeder erreichen kann, aber je näher man versucht, sich ihr anzunähern, desto mehr wird man wachsen. 
+
+Wenn er an seinem Traum von der Perfektion festhält und danach strebt, wird er der Verwirklichung näher kommen, als wenn er die Realität ablehnt, weil sie keine Perfektion ist.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)

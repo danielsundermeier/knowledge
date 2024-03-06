@@ -205,6 +205,18 @@ Die meisten sehen ein Hindernis und denken, dass der Weg zu Ende ist, anstatt zu
 
 [Evolution](https://www.goodreads.com/book/show/17570741-evolution)
 
+## Abenteuer auf ganzer Linie
+
+Jedes Zeitalter, hat jemand gesagt, ist ein unentdecktes Land. 
+
+Wie Entdecker stoßen wir ständig ins Unbekannte vor, was das Leben zu einem Abenteuer macht. 
+
+Wie endlos und langweilig wäre diese Reise, wenn sie auf einer geraden Straße über eine flache Ebene verlaufen würde, wenn wir die ganze Strecke vorausschauen könnten, ohne Überraschungen, ohne den Reiz des Unerwarteten, ohne Herausforderung. 
+
+Ich wünsche mir von ganzem Herzen, dass jedes Kind so ein Gefühl für das Abenteuer des Lebens entwickeln könnte, dass jede Veränderung, jede Neuanpassung, jede Überraschung – ob gut oder schlecht –, die es mit sich bringt, als Teil der gesamten spannenden Erfahrung willkommen geheißen wird.
+
+[You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

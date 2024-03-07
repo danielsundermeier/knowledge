@@ -522,6 +522,22 @@ Denn was unser Interesse am Leben aufrechterhält und uns Vorfreude auf morgen w
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
+## Stoische Freude
+
+Für die Stoiker und andere griechische Philosophen unterschied sich wahres Glück, Eudaimonia, erheblich von unserer modernen Vorstellung von Glück. Für den modernen Menschen ist Glück ein vorübergehendes Gefühl, eine Stimmung oder ein vorübergehender emotionaler Zustand. Für die Griechen war Eudaimonia jedoch eine bleibende Exzellenz des Charakters – „ein dauerhafter, kontinuierlicher und relativ stabiler Geisteszustand“. Dieser große Unterschied zwischen modernen und antiken Ansichten hilft zu erklären, warum antike Philosophen das Glück so ernst nahmen.
+
+Für Seneca: „Nur ein ausgezeichneter Geist entwickelt wahre Ruhe.“ Das Ergebnis eines hervorragenden Charakters, der aus Tugend entsteht, ist „Beständigkeit der Freude.“ Wie Seneca an Lucile schreibt: „Wenn es einem weisen Menschen niemals an echter Freude mangelt.“ , Sie haben einen guten Grund, sich Weisheit zu wünschen. Aber diese Freude entspringt nur dem Bewusstsein der Tugenden. Um diese Freude zu erleben, braucht man Mut, Gerechtigkeit und Mäßigung.“
+
+Wir alle haben die Samen dieser Tugenden (und anderer Tugenden) in uns, aber damit sie vollständig erblühen können, müssen sie kultiviert werden. Wie ein Garten erfordert auch unser Charakter Pflege.
+
+Durch die Entwicklung eines stabilen Charakters auf der Grundlage gesunder Urteile findet eine bemerkenswerte Transformation der Persönlichkeit statt, die zu dauerhafter Freude führt.
+
+Seneca sagt uns, dass der fortgeschrittenste Stoiker manchmal kleine Störungen erleben wird. Wie jeder andere wird ein voll entwickelter stoischer Weiser normale menschliche Gefühle und instinktive Reaktionen teilen und durch unerwartete Ereignisse erschreckt werden. Aber diese Störungen werden vorübergehend sein, genau wie Wolken, die vor der Sonne schweben. Dank der Standhaftigkeit des Charakters des Stoikers wird er oder sie schnell „nach Hause zurückkehren“ und in einen Zustand innerer Harmonie, Freude und Ruhe gelangen.
+
+> “Joy is your goal, but you’re wandering off course! You think you’ll arrive there among riches and official accolades. That is to say, you seek joy surrounded by anxieties! You chase after these things as if they’ll bring happiness and pleasure when, in fact, they are sources of pain.” - Seneca
+
+[Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

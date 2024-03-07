@@ -54,3 +54,11 @@
 - Erste Stunde des Tages für mich selbst nutzen
     + Private Ziele
     + Am Ende des Tages zu müde / Es kommt etwas dazwischen
+
+## 5 Minuten Rampe
+
+An den Tagen an denen Tal Ben-Shahar keine Lust zum Schreiben hat, setzt er sich trotzdem hin und fängt für nur 5 Minuten an. Mehr nicht.
+
+Mit dieser einfachen, nicht einschüchternden, machbaren Mikroaktion erzeugen wir Schwung. 
+
+Und wie wir von Sir Isaac Newton gelernt haben, neigt ein bewegtes Objekt dazu, in Bewegung zu bleiben, und aus diesen 5 Minuten werden oft 50 Minuten Ihrer besten Arbeit – und das alles an einem Tag, an dem man sich nicht danach gefühlt hat udn die ganze Show zum Scheitern gebracht hätte.

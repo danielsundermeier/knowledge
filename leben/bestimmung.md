@@ -385,6 +385,16 @@ Die Chancen stehen gut, dass fast jeder, den Sie kennen, sich selbst und seine T
 
 [Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
 
+## Ein leitendes Ziel
+
+Ebenso wie ein Bogenschütze ein Ziel hat, sollten wir ein Gesamtziel im Leben haben. Wie er in einem denkwürdigen Satz feststellt: „Wenn jemand nicht weiß, welchen Hafen er ansteuert, ist kein Wind günstig.“ Mit anderen Worten: Ohne ein Ziel wird das Leben der Menschen vom Zufall bestimmt.
+
+Glücklicherweise, behauptet er, gäbe es einen Kompass, der uns sicher führt. Und dieser Leitfaden ist keine Religion, keine offenbarte Schrift oder irgendetwas Äußerliches, sondern unsere eigene Kraft des klaren Denkens: „Wann immer Sie wissen wollen, was Sie suchen oder vermeiden sollten, blicken Sie auf Ihr höchstes Gut, das Ziel Ihres gesamten Lebens.“ denn alles, was wir tun sollten, sollte damit im Einklang stehen.
+
+Während die Idee, dass „ein Mensch nach seinem höchsten Wohl leben sollte“, für unsere modernen Ohren etwas seltsam klingen mag, ergab sie für die römischen Stoiker durchaus Sinn. Sie wussten auch genau, was dieses höchste Gut für sie bedeutete: Es war immer das Streben nach einem ehrenhaften und rationalen Leben mit hervorragendem Charakter, indem man sein Leben an den vier Kardinaltugenden Weisheit, Mut, Mäßigung und Gerechtigkeit ausrichtete.
+
+[Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

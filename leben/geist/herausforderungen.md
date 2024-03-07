@@ -217,6 +217,18 @@ Ich wünsche mir von ganzem Herzen, dass jedes Kind so ein Gefühl für das Aben
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
+## Stoische Beharrlichkeit: Unbesiegbar werden
+
+Ausdauer war für den Stoizismus eine wesentliche menschliche Eigenschaft. Seneca schrieb: „Selbst nach einer schlechten Ernte sollte man oft erneut säen, denn was aufgrund der anhaltenden Kargheit durch schlechte Böden verloren ging, wurde durch die einjährige Fruchtbarkeit wieder gut gemacht.“ Ähnlich: „Nach einem Schiffbruch versuchen es Seeleute erneut mit dem Meer.“ … Wenn wir gezwungen wären, alles aufzugeben, was Ärger verursacht, würde das Leben selbst aufhören, sich vorwärts zu bewegen.“
+
+Die Stoiker glaubten, dass einem weisen Menschen, der Tugend besitzt, nichts Äußeres schaden kann, solange seine Tugend intakt bleibt. …
+
+Um die Beharrlichkeit zu veranschaulichen, verwendet Seneca das Beispiel eines Menschen bei den Olympischen Spielen, der einen Gegner durch bloße Geduld zermürbt. (Das lateinische Wort „Patient“ bedeutet „Ausdauer“.) In ähnlicher Weise erlangt der weise Mensch im Hinblick auf geistige Ausdauer durch langes Training die Geduld, jeden Angriff auf seinen Charakter abzuschwächen oder einfach zu ignorieren. Epictetus verwendet auch eine Analogie aus einem sportlichen Wettkampf. Er erklärt, dass selbst wenn man in einem sportlichen Kampf scheitern sollte, niemand einen daran hindern kann, wieder aufzustehen und den Kampf fortzusetzen. Selbst wenn Sie bei diesem bestimmten Spiel scheitern, können Sie weiter trainieren und erneut am Wettbewerb teilnehmen. Wenn Sie dann endlich den Sieg erringen sollten, wäre es, als hätten Sie nie aufgegeben. Manchmal ist allein die Fähigkeit, weiter Fortschritte zu machen, ein großer Sieg.
+
+Stoiker werden, wie alle anderen auch, Widrigkeiten und Unglück erleben. Was Stoiker unbesiegbar macht, ist, dass sie nicht aufgeben. Stoiker werden aus allen Umständen das Beste machen, selbst bei Misserfolg, Katastrophe oder finanziellen Schwierigkeiten. Wenn Stoiker zu Boden geworfen werden, stehen sie auf, schütteln sich ab, trainieren weiter und bewegen sich weiter vorwärts.
+
+[Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

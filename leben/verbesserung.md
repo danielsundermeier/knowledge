@@ -103,7 +103,7 @@ Wir können alles 5% besser machen. Aber etwas komplett zu verändern wirkt beä
 
 ## Für immer gewinnen
 
-> "At the base of the Win Forever pyramid, the foundation is the philosophy. I collected all of the things that I believed were important in my life and in football and from that I derived the philosophy for Win Forever. What Win Forever means to me is aspiring to be the best you can be, or as I like to refer to it, “maximizing your potential.” But Winning Forever is not about the final score; it’s about competing and striving to be the best. If you are in this pursuit, then you’re already winning."
+> "At the base of the Win Forever pyramid, the foundation is the philosophy. I collected all of the things that I believed were important in my life and in football and from that I derived the philosophy for Win Forever. What Win Forever means to me is aspiring to be the best you can be, or as I like to refer to it, "maximizing your potential.” But Winning Forever is not about the final score; it’s about competing and striving to be the best. If you are in this pursuit, then you’re already winning."
 
 Es geht nicht um das Ergebns, sondern darum, dass wir immer unser bestes geben und jede Gelegenheit nutzen, um unserem Potenzial näher zu kommen.
 
@@ -290,6 +290,16 @@ Große Konkurrenten werden von der Konkurrenz unterstützt, nicht gehemmt. Gegen
 Wer den Rückenwind der Konkurrenz nicht mitbekommt, tut dies, weil er gegeneinander konkurriert. Große Konkurrenten verstehen, was es bedeutet, miteinander zu konkurrieren.
 
 [Elite Minds](https://www.goodreads.com/book/show/18756719-elite-minds)
+
+## The Progressor
+
+Progressor ist eine Übersetzung des altgriechischen Begriffs für einen Schüler des Stoizismus, ein Prokoptōn oder "jemand, der Fortschritte macht". Da keiner der stoischen Philosophen behauptete, perfekt zu sein, sondern versuchte, jeden Tag durch die Verwendung von Selbstreflexion und verschiedene Übungen Fortschritte zu machen, waren alle stoischen Philosophen Fortschritter.
+
+Um als Mensch Fortschritte zu machen, müssen Sie am Ende erstens erkennen, dass Sie unvollkommen sind (oder Grund haben, sich zu verbessern) und zweitens den Wunsch haben, sich zu verbessern. Es ist kein Zufall, dass eines der am häufigsten verwendeten Wörter Senecas in seinen Briefen "Fortschritt" oder "Fortschreiten in Richtung Weisheit" ist. Und wie er zu dem Schluss kam: "Der größte Teil des Fortschritts besteht aus dem Wunsch, Fortschritte zu machen." Denn ohne diesen Wunsch ist der Fortschritt selbst unmöglich.
+
+Seltsamerweise ist eine Frage, die die Stoiker als Schule nie eingehend untersucht haben, die folgende: Was bringt jemanden überhaupt dazu, ein Fortschrittler zu werden? Auch wenn die genaue Antwort hierauf von Person zu Person unterschiedlich ausfällt, ist im Allgemeinen offensichtlich eine Art Weckruf, wie wir heute sagen, erforderlich. Es könnte sich um eine persönliche Krise, einen persönlichen Verlust, wiederholte Misserfolge oder einfach nur um die langsam wachsende Erkenntnis handeln, dass das Leben zu kostbar ist, um es für die falschen Güter zu verschwenden, die die Welt uns ständig zu verkaufen versucht. Alternativ könnte der Weckruf ein anhaltendes Gefühl des Unglücks oder der Depression sein – weil die wahren, inneren Bedürfnisse einer Person durch ihre aktuellen Überzeugungen oder ihren Lebensstil nicht befriedigt werden.
+
+[Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
 ## Links
 

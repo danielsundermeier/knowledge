@@ -65,6 +65,14 @@ Um Tugenden zu erwerben, müssen wir sie praktizieren und üben.
 
 [Leadership](https://www.goodreads.com/book/show/38657386-leadership)
 
+## Bösartige Massen vs. tugendhafte Freunde
+
+Mit einer Metapher aus der Medizin erklärt Seneca, dass wir uns mit den schlechten Eigenschaften anderer „anstecken“ können. Bei einer Seuche, so bemerkte er, können wir uns eine Krankheit einfangen, indem wir einfach „angeatmet“ werden. Deshalb müssen wir unsere Freunde mit großer Sorgfalt auswählen, basierend auf der Gesundheit ihres Charakters. „Bemühen Sie sich, die am wenigsten Infizierten zu bekämpfen“, schrieb er, denn „es ist der Beginn einer Krankheit, wenn man gesunde Dinge der Krankheit aussetzt.“
+
+Bezeichnenderweise erwähnt Seneca dies nicht nur einmal. Wie er in einem anderen Werk schreibt: „Wir übernehmen schlechte Gewohnheiten von denen um uns herum, und so wie manche Krankheiten durch körperlichen Kontakt übertragen werden, überträgt auch der Geist seine Krankheiten auf die Menschen in der Nähe.“ Beispielsweise kann ein gieriger Mensch seine Infizierten übertragen Charakter gegenüber seinen Nachbarn. Glücklicherweise gilt jedoch: „Mit Tugenden ist es dasselbe, nur umgekehrt.“ Während also Menschen mit fehlerhaften Charakteren ihre schlechten Gewohnheiten auf uns übertragen können, können Menschen mit guten Charakteren, die sich mit uns anfreunden, uns zu besseren Menschen machen
+
+[Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

@@ -106,6 +106,12 @@ Selbstbewusste Menschen trotzen Widrigkeiten, weil sie wissen, dass sie es könn
 
 [Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
 
+## Vertrauen schaffen
+
+… aber wenn ich anfangen würde, meine Versprechen zu brechen, könnte es zur Gewohnheit werden und ich würde meine Ziele nie erreichen. Das war ein Ethos, den ich schon seit langem im Leben umsetzte: Wenn ich jemals morgens aufstand und mir sagte, dass ich an diesem Tag 300 Liegestütze machen würde, stellte ich sicher, dass ich sie mit ganzem Herzen machte. Den Aufwand zu unterlassen hieße, eine Verpflichtung zu brechen, und das Brechen von Verpflichtungen führte zum Scheitern.
+
+[Beyond Possible](https://www.goodreads.com/book/show/53290051-beyond-possible)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

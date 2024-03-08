@@ -193,6 +193,18 @@ Tun Sie die Dinge, die Sie interessieren, und tun Sie sie mit ganzem Herzen. Mac
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
+## Angst geht mit Bedeutung einher
+
+Ich hatte eine komische Beziehung zur Angst.
+
+Die allgemeine Auffassung war, dass Gurkha-Soldaten nie Angst oder Angst verspürten, aber die Realität sah anders aus. Angst zu haben lag in der Natur des Menschen; Wir hatten nur herausgefunden, wie wir mit den schwächenden Auswirkungen umgehen sollten.
+
+Anstatt zuzulassen, dass negative Emotionen uns lähmen, verwandelten wir Angst in eine inspirierende Energie, einen Motivator. Bei anderen Gelegenheiten nutzte ich es als Erinnerung an die allgemeine Bedeutung der Hauptmission und den Wert, ruhig zu bleiben.
+
+„Ich habe Angst, weil das etwas bedeutet“, sagte ich mir.
+
+[Beyond Possible](https://www.goodreads.com/book/show/53290051-beyond-possible)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

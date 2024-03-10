@@ -208,6 +208,42 @@ Die großen Führer der Vereinigten Staaten ließen zu, dass Unzufriedenheit sie
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Warum wir Werkzeuge brauchen
+
+Eine Änderung Ihrer Einstellung wird Sie nicht vom Schreien abhalten, denn Einstellungen können das Verhalten nicht kontrollieren; sie sind nicht stark genug. Um das Verhalten zu kontrollieren, benötigen Sie ein bestimmtes Verfahren, das Sie zu einem bestimmten Zeitpunkt anwenden können, um ein bestimmtes Problem zu bekämpfen. Das ist ein Werkzeug.
+
+Der Punkt ist, dass ein Werkzeug – anders als eine Einstellungsanpassung – erfordert, dass Sie etwas tun. Es erfordert nicht nur Arbeit, es ist auch Arbeit, die Sie immer und immer wieder erledigen müssen – jedes Mal, wenn Sie frustriert sind. Eine neue Einstellung bedeutet nichts, wenn ihr nicht eine Verhaltensänderung folgt. Der sicherste Weg, Verhalten zu ändern, ist mit einem Werkzeug.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
+## Verbraucher vs. Schöpfer
+
+Der Verbraucher erwartet eine Belohnung für die geringste Anstrengung – oder besser: für gar keine Anstrengung. 
+
+Es geht ihm nur darum, was er von der Welt bekommt, nicht darum, was er ihr hinzufügen könnte. 
+
+Er lebt an der Oberfläche und springt von Ding zu Ding. Seine Energie verteilt sich wie Milch, die sich über eine Tischplatte ausbreitet. 
+
+Er hat keinen Einfluss auf die Welt; Wenn seine Zeit auf der Erde vorbei ist, ist es, als hätte er nie gelebt. 
+
+Der Schöpfer wird dieses Schicksal nicht akzeptieren. Bei allem, was er tut, hat er die Absicht, Einfluss auf die Welt zu nehmen. 
+
+Sein Kodex stellt dies sicher: Er akzeptiert die Welt nicht so, wie er sie vorfindet; Er bringt Dinge in die Welt, die noch nicht da sind. 
+
+Er folgt nicht der Herde; er legt seinen eigenen Kurs fest. 
+
+Er ignoriert die Reaktionen anderer. Er wehrt sich gegen oberflächliche Ablenkungen. 
+
+Er bleibt auf seine Ziele konzentriert, auch wenn er auf die unmittelbare Befriedigung verzichten muss. 
+
+Jeder kann nach diesem Kodex leben, aber nur sehr wenige von uns tun es. 
+
+Es bedeutet, Ihr Leben in den Dienst höherer Mächte zu stellen. Diese Kräfte können nicht an der Oberfläche des Lebens gefunden werden; Sie sind in seinen Tiefen zu finden. 
+
+Die Energie des Schöpfers muss den einzigartigen Fokus eines Bohrers haben, der durch Stein bohrt. So schwierig das auch ist, ein Schöpfer wird für seine Bemühungen um ein Vielfaches belohnt.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

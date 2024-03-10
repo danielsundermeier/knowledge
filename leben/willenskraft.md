@@ -139,6 +139,18 @@ Sie spielen Angriff statt Verteidigung
 
 [Willpower](https://www.goodreads.com/book/show/11104933-willpower)
 
+## Das wichtigste Werkzeug
+
+Nur sehr wenige Modelle menschlichen Wachstums akzeptieren dies, geschweige denn, dass sie Ihnen eine Möglichkeit bieten, Ihre Willenskraft zu stärken. 
+
+Stattdessen tun sie so, als sei es einfach, das eigene Leben zu ändern. Das ist es nicht. 
+
+Unser Ansatz ist das Gegenteil: Wir sagen Ihnen die Wahrheit darüber, wie schwierig es sein wird – und wir machen Sie stark genug, um sich der Herausforderung zu stellen. 
+
+Dies zu tun bedeutet, Ihre Willenskraft zu steigern – und genau das bewirkt das fünfte Werkzeug. In gewisser Weise ist es das wichtigste – das Tool, das sicherstellt, dass Sie die anderen Tools weiterhin verwenden. Es spielt keine Rolle, wie effektiv die anderen vier sind, wenn Sie sie nicht verwenden.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

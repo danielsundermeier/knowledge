@@ -538,6 +538,18 @@ Seneca sagt uns, dass der fortgeschrittenste Stoiker manchmal kleine Störungen 
 
 [Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
+## Weigere dich, ein begrenztes Leben zu führen
+
+Einige seltene Menschen weigern sich, ein begrenztes Leben zu führen. 
+
+Sie durchleben enorme Schmerzen – von Ablehnungen und Misserfolgen bis hin zu kürzeren Momenten der Verlegenheit und Angst. 
+
+Sie bewältigen auch die kleinen, lästigen Schmerzen, die für die persönliche Disziplin erforderlich sind, indem sie sich dazu zwingen, Dinge zu tun, von denen wir alle wissen, dass wir sie tun sollten, die wir aber nicht tun – wie zum Beispiel Sport treiben, sich richtig ernähren und organisiert bleiben. 
+
+Weil sie nichts meiden, können sie ihre höchsten Ziele verfolgen. Sie scheinen lebendiger zu sein als der Rest von uns.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

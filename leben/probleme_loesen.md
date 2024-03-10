@@ -105,6 +105,26 @@ Wir hören den anderen wirklich zu und sind präsent.
 
 [The Art of Connection](https://www.goodreads.com/book/show/34013764-the-art-of-connection)
 
+## Angeschlossen bleiben
+
+Stellen Sie sich Ihre Gedanken wie einen neu gekauften, hochmodernen Flachbildfernseher vor. 
+
+Man nimmt es eifrig aus der Verpackung, aber es lässt sich nicht anstellen. 
+
+Eine elektrische Verbindung hat sich gelöst; Es gibt keinen Kauf eines neuen Anschlusses, Sie müssen ihn aus eigener Kraft reparieren. 
+
+Schlimmer noch, die Verbindung wird sich immer wieder lösen – Sie müssen sie jeden Tag reparieren. 
+
+Aber die unterbrochene Verbindung in Ihrem Kopf betrifft nicht die elektrische Energie, sondern höhere Kräfte. 
+
+Und jedes Mal, wenn die Verbindung abbricht, taucht eines Ihrer persönlichen Probleme auf. 
+
+Die Tools reparieren die Verbindung – deshalb funktionieren sie. Aber die Verbindung hält nie; es wird wieder kaputt gehen. 
+
+Das macht den Umgang mit Werkzeugen zu einer Aufgabe ohne Ende.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

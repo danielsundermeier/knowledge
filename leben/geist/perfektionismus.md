@@ -57,3 +57,18 @@ Es ist nur eine Annäherung, die jeder erreichen kann, aber je näher man versuc
 Wenn er an seinem Traum von der Perfektion festhält und danach strebt, wird er der Verwirklichung näher kommen, als wenn er die Realität ablehnt, weil sie keine Perfektion ist.
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
+
+## Mit Freude in Arbeit sein
+
+Ich kann mit Sicherheit vorhersagen, dass Sie sich in genau demselben Boot wiederfinden werden. 
+
+Sie werden die Tools ausprobieren, lieben, was sie für Sie tun, und dennoch aufhören, sie zu verwenden. 
+
+Wie kann das so weit verbreitet sein? Die Antwort ist, dass unsere gesamte Kultur eine unwirkliche Vorstellung davon hat, was es bedeutet, ein Mensch zu sein. 
+
+Wir betrachten uns gerne als fertige Produkte – komplett aus uns selbst heraus. Sind wir aber nicht. Um ganz zu sein, müssen wir mit etwas verbunden bleiben, das über uns selbst hinausgeht. 
+
+Die dafür erforderliche ständige Anstrengung führt dazu, dass ein Mensch nie mehr als ein unfertiges Werk sein kann.
+
+[The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+

@@ -268,6 +268,22 @@ Durch die Änderung Ihrer Worte haben Sie Ihre Denkweise verändert. Es ist jetz
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Gedankenersatz
+
+Der Schlüssel zum Einsatz von Gedankenersatz im Sport besteht darin, herauszufinden, welcher Gedanke für die Leistung am hilfreichsten ist. 
+
+Wenn Sie festlegen, was Sie in einer bestimmten Situation erreichen möchten, und sich dann darauf konzentrieren, was nötig ist, um dieses Ziel zu erreichen, haben Sie eine viel bessere Chance, die Früchte zu ernten. 
+
+Dies gilt in jedem Umfeld – geschäftlich, sportlich oder sogar gesellschaftlich. 
+
+Denken Sie so oft wie möglich über den Weg zum Erfolg nach und nicht über die Hindernisse, die Ihnen im Weg stehen. 
+
+Sie müssen entscheiden, was Sie wollen, und dann Ihre Energie darauf verwenden, es zu erreichen. Warten Sie nicht darauf, dass das Glück Sie findet. Gehen Sie raus und schaffen Sie Ihr Glück.
+
+Die einzige zuverlässige Methode zur Überwindung von Selbstzweifeln und negativem Denken besteht darin, Ihrem Geist etwas anderes zur Verfügung zu stellen, das er verarbeiten kann.
+
+[10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

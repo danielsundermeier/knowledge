@@ -229,6 +229,23 @@ Stoiker werden, wie alle anderen auch, Widrigkeiten und Unglück erleben. Was St
 
 [Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
+## Zwei Regeln
+
+Immer wenn Sie mit Widrigkeiten konfrontiert sind, fragen Sie sich: „Was kann ich tun, um die Situation zu verbessern?“ Zwingen Sie sich, eine sachliche Antwort zu geben. („Ich weiß nicht“ ist keine hilfreiche Antwort.) 
+
+Sie brauchen keine Perfektion; Alles, was Sie brauchen, ist Verbesserung. Stellen Sie sich die Frage so lange, bis Ihr Problem kein Problem mehr darstellt. 
+
+Befolgen Sie zwei einfache Regeln, um den Erfolg sicherzustellen 
+
+- Regel Nummer eins: Geben Sie niemals auf
+- Regel Nummer zwei: Befolgen Sie Regel Nummer eins
+
+Sie und nur Sie entscheiden, wie erfolgreich Sie im Sport und im Leben sein werden. Wenn Sie sich dazu verpflichten, sich auf das zu konzentrieren, was Sie wollen, und unermüdlich daran zu arbeiten, es zu erreichen, haben Sie die Kontrolle. 
+
+Es beginnt mit Ihrem Glauben an sich selbst, dem Glauben, dass Sie alles erreichen können.
+
+[10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

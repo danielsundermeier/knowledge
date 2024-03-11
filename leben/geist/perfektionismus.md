@@ -72,3 +72,18 @@ Die dafür erforderliche ständige Anstrengung führt dazu, dass ein Mensch nie 
 
 [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
 
+## Verbesserung statt Perfektion
+
+Setzen Sie das +1-Konzept in die Tat um, um Gefühle zu vermeiden, die Ihren Geist mit unnötigem Stress belasten. Der beste Weg, einen Berg zu erklimmen, ist Schritt für Schritt.
+
+Eine schrittweise Verbesserung im Laufe der Zeit führt zu einem dynamischen und nachhaltigen Wachstum. 
+
+Ich habe beobachtet, dass sich der Fortschritt beschleunigt, wenn Einzelpersonen den Schwerpunkt auf Verbesserung statt Perfektion legen. 
+
+Wir sind oft verwirrt darüber, wie viel Arbeit nötig ist, um unsere Probleme vollständig zu lösen. 
+
+Wir werden gelähmt und können keine Maßnahmen zur Verbesserung ergreifen. 
+
+Sie müssen nicht zur Perfektion gelangen; Sie müssen die Dinge langsam aber sicher verbessern.
+
+[10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)

@@ -282,6 +282,18 @@ Gehen Sie es wie Bannister an, der sein rekordverdächtiges Meilentempo auf eine
 
 [Evolution](https://www.goodreads.com/book/show/17570741-evolution)
 
+## The 10-MT goal-setting program
+
+1. Prozess über Produkt. Konzentrieren Sie sich jeden Tag auf Ihre Prozessziele oder darauf, „was nötig ist“, um Ihre Produktziele zu erreichen.
+2. Keine Ausreden. Übernehmen Sie die volle Verantwortung für das Wachstum, indem Sie keine Ausreden für mangelnde Leistung anbieten.
+3. Gehen Sie an die Öffentlichkeit. Schreiben Sie Ihre Ziele auf und sagen Sie anderen, was sie sind, um Ihr Bewusstsein für Ihre Ziele und Ihre Verantwortung für das Erreichen dieser Ziele zu stärken.
+4. Halten Sie Ihre Ziele am Leben. Füllen Sie täglich Ihr Erfolgsprotokoll aus, um die Motivation und Ergebnisse in Trainings und Wettbewerben zu steigern.
+5. Sichtintegrität. Wählen Sie Ziele, die darauf abgestimmt sind, wer Sie sein möchten und wie Sie leben möchten.
+6. Persönliche Belohnungspräferenz. Verknüpfen Sie Ihre Ziele mit Belohnungen, um Motivation und Engagement zu steigern.
+7. MP100 + 20. Lassen Sie Ziele Ihre Arbeitsmoral verschönern und kontrollieren, indem Sie danach streben, 100 Prozent Ihrer Trainingspläne zu befolgen und weitere 20 Prozent Ihrer Energie darauf zu verwenden, die Konkurrenz zu übertreffen.
+
+[10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

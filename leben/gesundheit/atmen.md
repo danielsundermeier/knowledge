@@ -95,6 +95,22 @@ Wir können dafür medizinisches Klebeband oder Fixierpflaster benutzen.
 
 [DMT Breathing - 50s Breathholds](https://www.youtube.com/watch?v=fCD57zIPs-s)
 
+## 6 + 2 + 7 = Eine Zauberformel
+
+Ich habe versucht, die Zwerchfellatmung zu vereinfachen, indem ich einen guten zentrierenden Atemzug als einen Atemzug definiert habe, der fünfzehn Sekunden dauert. 
+
+Die Formel lautet 6-2-7: sechs Sekunden lang einatmen, zwei Sekunden lang anhalten und sieben Sekunden lang ausatmen. 
+
+Personen unter zwölf Jahren sollten versuchen, den zentrierenden Atem elf Sekunden lang zu halten (4-2-5). 
+
+Ich habe festgestellt, dass Spieler, die fünfzehn Sekunden lang tief einatmen, tatsächlich Luft in das Zwerchfell bekommen und die Herzfrequenz verlangsamt wird. 
+
+Meine persönlichen Erkenntnisse deuten darauf hin, dass es effektiver ist, sich Zeit für den zentrierenden Atem zu nehmen, als zu beobachten, wie man Luft in das Zwerchfell bekommt. 
+
+Es ist viel einfacher, bis fünfzehn zu zählen, als festzustellen, ob Luft in das Zwerchfell eingedrungen ist.
+
+[10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
+
 ## Bücher
 
 - [Breath](https://www.goodreads.com/book/show/48890486-breath)

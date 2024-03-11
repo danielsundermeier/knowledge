@@ -38,6 +38,12 @@ Das Erleben von Stress verbessert meine Gesundheit und Vitalität.
 Das Erleben von Stress erleichtert mein Lernen und Wachstum.
 Die Auswirkungen von Stress sind positiv und sollten genutzt werden.
 
+Dr. Crum hat einen dreistufigen Prozess zur Übernahme dieser Denkweise skizziert:
+
+1. Erkennen Sie den Stress, den Sie empfinden, an und nehmen Sie ihn wahr.
+2. Begrüßen Sie den Stress, denn er spiegelt Dinge wider, die Ihnen wichtig sind.
+3. Nutzen Sie die Stressreaktion, um die mit diesen Sorgen oder Werten verbundenen Ziele zu erreichen
+
 [The Upside of Stress ](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)
 
 ## Die Challenge-Response

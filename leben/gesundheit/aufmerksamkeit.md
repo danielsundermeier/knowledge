@@ -64,6 +64,24 @@ Laut Forschern in Proceedings of the National Academy of Sciences of United Stat
 
 [The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
 
+## Kleine Rituale
+
+Um unsere Praxis zu unterstützen, können wir einen Tagesplan erstellen, in dem wir jeden Tag oder jede Woche zu bestimmten Zeiten bestimmte Rituale durchführen.
+
+Die Gesten, die wir ausführen, müssen nicht großartig sein. Kleine Rituale können einen großen Unterschied machen.
+
+Wir können uns entscheiden, jeden Morgen beim Aufwachen drei langsame, tiefe Atemzüge zu machen. Dieser einfache Akt kann einen Kurs festlegen, um jeden Tag ruhig, zentriert und ganz im Moment zu beginnen.
+
+Wir können unsere Mahlzeiten auch achtsam einnehmen und jeden Bissen langsam und mit Wertschätzung genießen. Machen Sie täglich einen Spaziergang in der Natur und betrachten Sie alles, was in unser Blickfeld gelangt, mit Dankbarkeit und Verbundenheit. Nehmen Sie sich einen Moment Zeit, um das Gefühl unseres Herzschlags und die Bewegung des Blutes durch unsere Adern zu bestaunen, bevor wir schlafen.
+
+Der Zweck solcher Übungen liegt nicht unbedingt im Tun, genauso wie das Ziel der Meditation nicht das Meditieren ist. Der Zweck besteht darin, die Art und Weise weiterzuentwickeln, wie wir die Welt sehen, wenn wir nicht an diesen Handlungen beteiligt sind. Wir bauen die Muskulatur unserer Psyche auf, um uns besser darauf einstellen zu können. Genau darum geht es bei der Arbeit.
+
+Bewusstsein braucht ständige Auffrischung. Wenn es zur Gewohnheit wird, sogar zu einer guten Gewohnheit, muss es immer wieder neu erfunden werden.
+
+Bis du eines Tages bemerkst, dass du immer in der Praxis der Achtsamkeit bist, zu jeder Zeit und an allen Orten, und dass du dein Leben in einem Zustand ständiger Offenheit für das Empfangen lebst.
+
+[The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

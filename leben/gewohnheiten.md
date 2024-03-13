@@ -538,6 +538,22 @@ Jedes Mal, wenn wir an unseren Zielen festhalten, wird die Stimme leiser.
 
 [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral)
 
+## Schuhe binden
+
+Für diese Spitzensportler, die auf den Platz gehen und zeigen wollten, was sie können, muss es frustrierend gewesen sein, zum ersten Mal mit diesem legendären Trainer zum Training zu kommen und ihn sagen zu hören: „Heute werden wir lernen, unsere Schuhe zu binden.“ .
+
+Der Punkt, den Wooden anführte, war, dass die Schaffung effektiver Gewohnheiten bis ins kleinste Detail den Unterschied zwischen Gewinnen und Verlieren von Spielen ausmacht. Jede Angewohnheit mag klein erscheinen, aber in ihrer Summe haben sie einen exponentiellen Effekt auf die Leistung. Schon eine einzige Angewohnheit, egal in welchem Bereich, kann genügen, um sich von der Konkurrenz abzuheben.
+
+Wooden berücksichtigte jeden Aspekt des Spiels, bei dem ein Problem auftreten könnte, und schulte seine Spieler für jeden einzelnen Aspekt. Wiederholt. Bis sie zur Gewohnheit wurden.
+
+Das Ziel war eine tadellose Leistung. Wooden hat oft gesagt, dass die einzige Person, gegen die man jemals antritt, man selbst ist. Der Rest liegt außerhalb Ihrer Kontrolle.
+
+Diese Denkweise gilt auch für das kreative Leben. Sowohl für den Künstler als auch für den Sportler sind die Details wichtig, unabhängig davon, ob die Spieler ihre Bedeutung erkennen oder nicht.
+
+Gute Gewohnheiten schaffen gute Kunst. Die Art und Weise, wie wir etwas tun, ist die Art und Weise, wie wir alles tun. Behandeln Sie jede Entscheidung, die Sie treffen, jede Handlung, die Sie unternehmen, jedes Wort, das Sie sagen, mit geschickter Sorgfalt. Das Ziel besteht darin, Ihr Leben im Dienste der Kunst zu leben.
+
+[The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

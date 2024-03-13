@@ -246,6 +246,28 @@ Es beginnt mit Ihrem Glauben an sich selbst, dem Glauben, dass Sie alles erreich
 
 [10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
 
+## Du, der Held deiner Lebensgeschichte
+
+Erwägen Sie, sich von der Geschichte Ihres Lebens zu lösen, während sie geschieht.
+
+Das Manuskript des Romans, an dem Sie jahrelang gearbeitet haben, geht bei einem Brand verloren. Ihre Liebesbeziehung geht in die Brüche, als Sie dachten, dass alles gut läuft. Sie verlieren einen Job, der Ihnen wichtig ist. 
+
+So schwierig es auch erscheinen mag: Versuchen Sie, solche Ereignisse so zu erleben, als würden Sie einen Film ansehen. Sie beobachten eine dramatische Szene, in der der Protagonist vor einer scheinbar unüberwindbaren Herausforderung steht.
+
+Du bist es, aber du bist es nicht.
+
+Anstatt im Schmerz des Kummers, im Stress der Entlassung oder in der Trauer über den Verlust zu versinken, könnte die Reaktion, wenn man Distanziertheit übt, lauten: „Mit dieser Wendung in der Handlung habe ich nicht gerechnet.“ Ich frage mich, was als nächstes mit unserem Helden passieren wird.
+
+Es gibt immer eine nächste Szene, und diese nächste Szene kann von großer Schönheit und Erfüllung sein. Die schwierigen Zeiten waren die notwendigen Voraussetzungen, um diese neuen Möglichkeiten entstehen zu lassen.
+
+Das Ergebnis ist nicht das Ergebnis. Die Dunkelheit ist kein Endpunkt, ebenso wenig wie das Tageslicht. Sie leben in einem sich ständig weiterentwickelnden, sich gegenseitig bedingenden Kreislauf. Nichts ist gut oder schlecht. Sie existieren einfach.
+
+Diese Praxis – niemals davon auszugehen, dass einzelne Erfahrungen die ganze Geschichte sind – wird Sie in einem Leben voller Möglichkeiten und Gleichmut unterstützen. Wenn wir uns zwanghaft auf diese Ereignisse konzentrieren, können sie katastrophal erscheinen. Aber sie sind nur ein kleiner Aspekt eines größeren Lebens, und je weiter man zurückzoomt, desto kleiner wird jedes Erlebnis.
+
+Hineinzoomen und besessen sein. Herauszoomen und beobachten. Wir dürfen wählen.
+
+[The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

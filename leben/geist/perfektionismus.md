@@ -87,3 +87,22 @@ Wir werden gelähmt und können keine Maßnahmen zur Verbesserung ergreifen.
 Sie müssen nicht zur Perfektion gelangen; Sie müssen die Dinge langsam aber sicher verbessern.
 
 [10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
+
+## Kintsugi
+
+In der japanischen Töpferei gibt es eine Kunstform der Reparatur namens Kintsugi. 
+
+Wenn ein Stück Keramik zerbricht, versucht der Kunsthandwerker nicht, den ursprünglichen Zustand wiederherzustellen, sondern betont den Fehler, indem er den Riss mit Gold füllt. 
+
+Dies lenkt die Aufmerksamkeit auf schöne Weise auf die Stelle, an der die Arbeit gebrochen wurde, und erzeugt eine goldene Ader. 
+
+Anstatt dass der Fehler das Werk schmälert, wird er zum Mittelpunkt, zu einem Bereich sowohl physischer als auch ästhetischer Stärke. 
+
+Die Narbe erzählt auch die Geschichte des Stücks und zeichnet seine vergangenen Erfahrungen auf.
+
+Wir können dieselbe Technik auf unser Leben anwenden und unsere Unvollkommenheiten annehmen. 
+
+Welche Unsicherheiten wir auch haben, sie können als treibende Kraft in unserer Kreativität umgestaltet werden. Sie werden nur dann zu einem Hindernis, wenn sie uns daran hindern, das zu teilen, was uns am Herzen liegt.
+
+[The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
+

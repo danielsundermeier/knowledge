@@ -244,6 +244,30 @@ Die Energie des Schöpfers muss den einzigartigen Fokus eines Bohrers haben, der
 
 [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
 
+## Das kreative Rätsel des Lebens
+
+Wenn Sie in der Herstellungsphase auf Erfolgskurs sind, arbeiten Sie auf einen vollständigen ersten Entwurf hin. Behalten Sie den Schwung bei. Wenn Sie einen Abschnitt der Arbeit erreichen, der Ihnen Probleme bereitet, umgehen Sie ihn, anstatt sich von dieser Blockade aufhalten zu lassen. Auch wenn Ihr Instinkt vielleicht darin besteht, nacheinander zu erstellen, überspringen Sie den Abschnitt, in dem Sie nicht weiterkommen, schließen Sie die anderen Teile ab und kehren Sie dann zurück.
+
+Manchmal ergeben sich Lösungen für diese schwierigen Teile erst, wenn der Gesamtkontext klar geworden ist. 
+
+Eine Brücke lässt sich leichter bauen, wenn klar ist, was sich auf beiden Seiten befindet.
+
+Ein weiterer Vorteil besteht darin, dass es überwältigend sein kann, wenn Sie in einem Abschnitt in der Mitte stecken bleiben und wissen, dass Sie erst die Hälfte der Arbeit geschafft haben. 
+
+Wenn Sie den Rest des Entwurfs fertigstellen und zu dem übersprungenen Teil zurückkehren, scheint es leichter zu erreichen, wenn nur noch 5 oder 10 Prozent des Projekts fertigzustellen sind. 
+
+Wenn das Ende in Sicht ist, ist es einfacher, motiviert zu sein, fertig zu werden.
+
+Wenn Sie ein mittleres Puzzleteil in der Hand halten und auf eine leere Tischplatte starren, ist es schwierig zu bestimmen, wo es platziert werden soll. 
+
+Wenn das gesamte Puzzle bis auf dieses eine Teil vollständig ist, wissen Sie genau, wo es hingehört. 
+
+Das Gleiche gilt im Allgemeinen auch für die Kunst. 
+
+Je mehr von der Arbeit Sie sehen können, desto einfacher wird es, die letzten Details elegant und klar dort zu platzieren, wo sie hingehören.
+
+[The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

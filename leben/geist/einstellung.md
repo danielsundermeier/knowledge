@@ -36,6 +36,16 @@ Wissenschaft der Hoffnung
 
 [Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
 
+## Der Wille muss stärker sein als die Fähigkeit
+
+Champions werden nicht in Fitnessstudios gemacht. Champions entstehen aus etwas tief im Inneren – einem Wunsch, einem Traum und einer Vision. Sie müssen das Können und den Willen haben. Aber der Wille muss stärker sein als das Können.
+
+Als ich boxte, habe ich mir ein Ziel gesetzt, um zu zeigen, dass ich das tun kann, was andere Leute getan haben, und um mir selbst zu beweisen, dass alles möglich ist, wenn ich mir ein Ziel setze und dann daran arbeite, es zu erreichen. Wir erschaffen unsere eigenen Realitäten entsprechend unseren Gedanken und Überzeugungen. Die Kritiker, die mir sagten, was ich nicht konnte, wussten nicht so gut wie ich, wozu ich fähig war.
+
+Jeder gewinnt und jeder verliert hin und wieder. Wenn wir keinen Verlust erleiden, würden wir nie wissen, wozu wir fähig sind. Es ist wichtig, sich daran zu erinnern: Sie verlieren nicht wirklich, wenn Sie für das kämpfen, woran Sie glauben. Sie verlieren, wenn Sie nicht für das kämpfen, was Ihnen am Herzen liegt.
+
+[The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

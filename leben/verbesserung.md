@@ -301,6 +301,22 @@ Seltsamerweise ist eine Frage, die die Stoiker als Schule nie eingehend untersuc
 
 [Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
+## Ein Wettbewerb um die Liebe
+
+Ein hinduistischer Dichter sagte: „Der Wunsch zu lieben brachte mich auf die Erde, und den gleichen Wunsch, die Geliebte zu sehen, nehme ich mit in den Himmel.“
+
+Wäre es nicht eine schöne Welt, wenn nur 10 Prozent der Menschen, die an die Kraft der Liebe glauben, miteinander wetteifern würden, wer den meisten Menschen am meisten Gutes tun könnte? So viele von uns genießen die Teilnahme an Wettbewerben. Warum nicht einen Wettbewerb der Liebe veranstalten, anstatt einen, der zu Eifersucht und Neid führt? Wenn wir weiterhin so denken und leben, als ob wir nur verschiedenen Kulturen und Religionen angehören würden, mit unterschiedlichen Missionen und Zielen, werden wir immer in einem selbstzerstörerischen Wettbewerb miteinander stehen.
+
+Sobald wir erkennen, dass wir alle Mitglieder der Menschheit sind, werden wir im Geiste der Liebe konkurrieren wollen.
+
+In einem Wettbewerb der Liebe würden wir nicht gegeneinander, sondern miteinander antreten. Wir würden versuchen, den Sieg für die gesamte Menschheit zu erringen. Wenn ich ein schnellerer Läufer bin als Sie, wird es Ihnen vielleicht schlecht gehen, wenn ich Sie im Rennen überhole, aber wenn Sie wissen, dass wir beide im Rennen sind, um unsere Welt besser zu machen, werden Sie sich gut fühlen, wenn Sie wissen, dass wir alle auf ein gemeinsames Ziel zusteuern , eine gegenseitige Belohnung.
+
+In einem Wettbewerb der Liebe werden wir alle am Sieg teilhaben, egal wer zuerst kommt.
+
+Ein von Liebe erleuchtetes Herz ist kostbarer als alle Diamanten und das Gold der Welt.
+
+[The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

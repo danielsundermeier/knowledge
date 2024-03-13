@@ -205,6 +205,16 @@ Anstatt zuzulassen, dass negative Emotionen uns lähmen, verwandelten wir Angst 
 
 [Beyond Possible](https://www.goodreads.com/book/show/53290051-beyond-possible)
 
+## Bekämpfe die Angst
+
+Eine Zeit lang dachte ich ernsthaft daran, nicht zu den Olympischen Spielen nach Italien zu fahren, und dann dachte ich darüber nach, was mein Vater gesagt hatte: „Konfrontiere dich immer mit den Dingen, vor denen du Angst hast.“ Mir wurde klar, dass wir nur dann mutig sind, wenn wir etwas zu verlieren haben, und das tun wir immer noch versuchen. Ohne Angst können wir nicht mutig sein.
+
+Mir wurde klar, dass dies einer dieser wichtigen Momente war, in denen ich eine Wahl treffen musste. Es gibt kleine Entscheidungen, die wir jeden Tag treffen und die den Standard für den Rest unseres Lebens festlegen. Aber das kam mir nicht wie eine kleine Entscheidung vor, und ich wusste, dass sie einen großen Einfluss auf mein Leben haben würde. Wenn ich nicht in dieses Flugzeug gestiegen wäre, könnte ich die Goldmedaille nicht gewinnen. Wenn ich mich dieser Angst nicht gestellt und bei den Olympischen Spielen nicht die Goldmedaille gewonnen hätte, wäre ich vielleicht nicht Weltmeister im Schwergewicht geworden. Wenn ich zugelassen hätte, dass mir die Angst im Weg stand, hätte ich nie etwas Wichtiges in meinem Leben erreicht.
+
+Nachdem ich die Entscheidung getroffen hatte, machte ich mich bald auf den Weg nach Italien zu den Olympischen Spielen 1960.
+
+[The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

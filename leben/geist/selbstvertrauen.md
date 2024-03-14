@@ -112,6 +112,18 @@ Selbstbewusste Menschen trotzen Widrigkeiten, weil sie wissen, dass sie es könn
 
 [Beyond Possible](https://www.goodreads.com/book/show/53290051-beyond-possible)
 
+## Vertraue deinen Instinkten
+
+Im gesamten Buch geht es darum, nicht zu zögern, wenn Ihre Instinkte nicht mit dem übereinstimmen, was die Welt Ihnen sagt. Der Schlüssel zur Erschließung Ihres Potenzials liegt darin, Ihren größten Wettbewerbsvorteil zu nutzen. Du bist der Einzige, der die ganze Geschichte deines Lebens kennt. SIE sind das einzige Thema, für das es auf der Welt keinen größeren Experten geben wird. Und so werden Sie Ihren weiteren Weg natürlich vor allen anderen erkennen.
+
+Mit anderen Worten: Wenn Sie sich selbst nicht vertrauen, verpassen Sie die Chance, außergewöhnlich zu sein.
+
+Wie Ralph Waldo Emerson 1841 in seinem Aufsatz „Self-Reliance“ schrieb (ein Werk, zu dem ich immer wieder zurückgreife, um mich inspirieren zu lassen): „Ein Mann sollte lernen, den Lichtstrahl zu erkennen und zu beobachten, der von innen durch seinen Geist blitzt.“ mehr als der Glanz des Firmaments der Barden und Weisen. Dennoch verwirft er ohne Vorankündigung seinen Gedanken, weil es seiner ist.“
+
+Wenn Sie auf sich selbst hören, beginnen Sie, Ihre Zukunft zu finden.
+
+[Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

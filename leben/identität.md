@@ -190,6 +190,30 @@ Man muss kein Champion sein, um sich wie einer zu benehmen. Tatsächlich gilt: J
 
 [Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
 
+## Überwinde deine Dämonen
+
+Das geschriebene Wort ist noch kraftvoller. 
+
+In einer Studie erhielten Schüler aus Randgruppen, die über die für sie wichtigsten Werte schreiben – wie Selbstvertrauen, Kreativität, Empathie und Unabhängigkeit – bessere Noten als eine Kontrollgruppe. 
+
+In einer anderen Studie verloren die Probanten bei einer Diät, die über das schrieben, was sie im Leben am meisten schätzten – Beziehungen, Religion und Gesundheit – mehr Gewicht als diejenigen, die dies nicht taten. 
+
+Die Stärkung Ihrer Identität – die Bestätigung dessen, wofür Sie stehen und woran Sie glauben – macht es einfacher, sich zu behaupten, wenn Sie mit Herausforderungen von außen – und sogar von innen – konfrontiert werden.
+
+Wir alle müssen die Stimme in unserem Kopf trainieren, um unser größter Verbündeter zu sein, denn die wirkungsvollsten Gespräche, die Sie jemals im Leben führen werden, werden mit sich selbst geführt. 
+
+Allzu oft lassen wir uns von unseren Selbstgesprächen niedermachen, bevor die Welt überhaupt eine Chance bekommt. 
+
+Wer macht es Ihnen schwerer, Ihr Chef oder Sie selbst, weil Sie vorhersehen, was Ihr Chef Ihnen wegen eines vermeintlichen Mangels sagen wird? 
+
+Wir machen unsere Bemühungen zunichte und werden noch schlimmer als die Kritiker, die wir fürchten. Sie können das nicht tun und erwarten, dass Sie Erfolg haben. 
+
+Stattdessen müssen Sie sich selbst mit der gleichen Freundlichkeit behandeln, die Sie einem Freund entgegenbringen würden. 
+
+Wenn wir begreifen, dass die einzige Anerkennung, die im Leben zählt, unsere eigene ist, erkennen wir, dass wir die Macht haben, uns vor aller Verachtung und Lächerlichkeit von außen zu schützen.
+
+[Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

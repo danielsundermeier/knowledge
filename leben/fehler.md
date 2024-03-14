@@ -92,5 +92,25 @@ Wenn wir lernen, dass wir durch Fehler besser werden, können wir das positive i
 
 [Principles](https://www.goodreads.com/book/show/34536488-principles)
 
+## der Preis, der für das Aufsteigen zu zahlen ist
+
+Mit anderen Worten: Er lässt sich nicht von seinen Verlusten definieren. Er mag scheitern, aber das macht ihn nicht zum Versager. Das ist die wichtigste Eigenschaft, die ich bei Menschen sehe, die einen unerklärlichen Durchbruchserfolg hatten. 
+
+Die Leistungsträger lassen ihre Siege zu einem Teil ihrer Identität werden, um ihren Glauben an sich selbst zu stärken. 
+
+Der Unterschied zwischen Sieg und Niederlage besteht darin, die Verluste hinter sich zu lassen. Ziehen Sie auf jeden Fall Lehren daraus, aber wenn Sie den Kadaver des Scheiterns erst einmal auf sich genommen haben, begraben Sie ihn in der Wüste und kehren Sie nie wieder zurück, um Ihren Respekt zu erweisen. Es ist endgültig vorbei. 
+
+Jedes Mal, wenn diese Leistungsträger scheitern, erweitern sie einfach ihre Definition von Erfolg, um das Scheitern als Sprungbrett auf dem Weg zu berücksichtigen.
+
+Dave Chang sagt, dass Scheitern „der Preis für den Aufstieg ist“. 
+
+Wir wollen Homeruns schaffen, und wir wollen in dem, was wir tun, so gut sein, dass wir alles um uns herum zerstören – aber um das zu erreichen, müssen wir akzeptieren, dass ein Scheitern möglich ist, und es sogar fördern, denn das bedeutet, dass wir es sind große Schwünge machen.‘
+
+Es ist nicht so, dass wir Fehler ignorieren oder der Verantwortung aus dem Weg gehen. Das ist Wahnvorstellung, und ich behaupte nicht, dass irgendjemand Wahnvorstellungen haben sollte. 
+
+Sie müssen intellektuell neugierig auf Ihre Fehler sein, herausfinden, was schief gelaufen ist, und darüber nachdenken, wie Sie es beim nächsten Mal besser machen können. Sie können nicht zulassen, dass ein Scheitern Ihre Identität vereinnahmt.
+
+[Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
+
 ## Bücher
 

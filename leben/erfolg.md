@@ -309,6 +309,16 @@ Das ist der Punkt, den einige Leute, die sagen, dass sie etwas wollen, was auch 
 
 [No Limits](https://www.goodreads.com/book/show/5497240-no-limits)
 
+## Keine Exit-Strategie
+
+Das ist nicht nur meine Geschichte. Es ist jede Geschichte und es ist die gesamte Geschichte. Das Verbrennen der Boote als Erfolgsstrategie reicht bis ins Alte Testament zurück.
+
+Zuletzt, im Jahr 2022, wurde Woldymyr Selenskyj, der Komiker und spätere Präsident der Ukraine, von russischen Invasoren belagert, als ihm die Vereinigten Staaten einen Evakuierungsplan anboten. Die gesamte freie Welt war zu dem Schluss gekommen, dass die Ukraine keine Chance hatte, das volle Gewicht der russischen Armee zu überwinden, und dass Selenskyj seinen Untergang erleben würde, wenn er Kiew nicht bald verließ. Doch der ukrainische Präsident bewies, dass er sowohl Geschichte als auch Psychologie studiert, als er über den Äther das Angebot von US-Präsident Joe Biden ablehnte. „Ich brauche keine Mitfahrgelegenheit; „Ich brauche Waffen“, sagte er.
+
+Selenskyj signalisierte den russischen Gegnern – und der Welt –, dass er sich keinen Ausweg gegönnt hatte. Er hatte die Boote verbrannt und war bereit, sich bis zum Tod durchzukämpfen. Sein Widerstand erwies sich als ansteckend, und mit diesen einfachen Worten inspirierte er sein Land – und letztlich die gesamte NATO – zum Widerstand gegen die Invasion.
+
+[Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

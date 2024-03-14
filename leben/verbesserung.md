@@ -317,6 +317,24 @@ Ein von Liebe erleuchtetes Herz ist kostbarer als alle Diamanten und das Gold de
 
 [The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
 
+## Ein spannendes Gedankenexperiment
+
+Jedes Mal, wenn ich etwas Neues erreiche, suche ich sofort nach etwas, um auf diesem Erfolg aufzubauen – oft auf eine Weise, die vorher nicht unbedingt offensichtlich war. 
+
+Als ich anfing, in Unternehmen zu investieren, hatte ich plötzlich die Art von Erfahrung, die mich bei Shark Tank landen ließ. 
+
+Nachdem ich das Shark Tank-Gütesiegel erhalten hatte, konnte ich an der HBS unterrichten. 
+
+Nachdem ich an der HBS unterrichtet hatte, konnte ich ein Buch schreiben. 
+
+Was können Sie heute tun, was Sie gestern nicht tun konnten, was Sie näher an das bringt, was Sie morgen tun möchten? 
+
+Wenn Sie noch einen Puls haben, sollten Sie morgen immer noch etwas anderes tun wollen. Und jede neue Sache, die Sie im Leben erreichen, versetzt Sie in eine bessere Position, um den nächsten Meilenstein zu sichern.
+
+Ein spannendes und befreiendes Gedankenexperiment: Wenn Sie die Grenzen ignorieren und davon ausgehen würden, dass Sie alles tun könnten, was würden Sie dann mit Ihrem Leben anfangen?
+
+[Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

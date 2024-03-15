@@ -46,6 +46,30 @@ Jeder gewinnt und jeder verliert hin und wieder. Wenn wir keinen Verlust erleide
 
 [The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
 
+## Du gegen Dich
+
+Opfersein ist eine Geisteshaltung. Es ist eine Einstellung, die Sie dazu drängt, bestimmte Entscheidungen zu treffen oder auf eine bestimmte Art und Weise zu handeln. 
+
+In der Opferrolle passiert einem die Welt. Es ist, wenn Sie darauf angewiesen sind, dass die Welt Ihr Leben diktiert. Opfer sein bedeutet, dass man darauf wartet, dass die Welt einem die Werkzeuge an die Hand gibt, mit denen man vorankommen kann. 
+
+Es ist, wenn Sie die Kontrolle an jemanden oder etwas abgeben. 
+
+Hier ist die Sache: Wenn Sie der Welt die Macht überlassen, spielen Sie russisches Roulette mit Ihrem Leben. Sie wissen nicht, wo Sie landen werden, weil Sie das Auto nicht steuern. 
+
+Aber wenn Sie anfangen, die Kontrolle zu übernehmen, werden Sie feststellen, dass Sie die Macht haben, Ihre Einstellung zu ändern und ein Sieger auf Ihrem Weg zu werden.
+
+Hier ist das Coole: Wenn Sie die Opfermentalität ablegen und Verantwortung übernehmen, wenn Sie Verantwortung übernehmen, wenn Sie die Kontrolle übernehmen, sind Sie der Boss. 
+
+Sie sind der CEO Ihres Lebens. 
+
+Es gibt keinen Teil Ihres Lebens, der erfolglos bleibt, wenn Sie die Verantwortung übernehmen. 
+
+Die einzige Person, gegen die Sie arbeiten, sind Sie selbst. Es geht um dich gegen dich. 
+
+Sobald Sie erkennen, dass Sie die einzige Person sind, die Ihrem eigenen Fortschritt im Wege steht, können Sie das Muster ändern.
+
+[You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

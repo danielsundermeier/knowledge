@@ -92,7 +92,7 @@ Wenn wir lernen, dass wir durch Fehler besser werden, können wir das positive i
 
 [Principles](https://www.goodreads.com/book/show/34536488-principles)
 
-## der Preis, der für das Aufsteigen zu zahlen ist
+## Der Preis für das Aufsteigen
 
 Mit anderen Worten: Er lässt sich nicht von seinen Verlusten definieren. Er mag scheitern, aber das macht ihn nicht zum Versager. Das ist die wichtigste Eigenschaft, die ich bei Menschen sehe, die einen unerklärlichen Durchbruchserfolg hatten. 
 

@@ -319,6 +319,28 @@ Selenskyj signalisierte den russischen Gegnern – und der Welt –, dass er sic
 
 [Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
 
+## Der Guru am Strand
+
+Die Geschichte, die ich erzählt habe, ging ungefähr so: Ein Mann, der im Geschäft vorankommen will, geht zu einem Guru und sagt zu ihm: „Die Leute sagen, du kennst das Erfolgsgeheimnis.“ Was ist das Geheimnis, Guru?‘
+
+Der Guru sagt: „Wenn du das Geheimnis erfahren willst, triff mich morgen früh am Strand.“
+
+Am nächsten Morgen taucht der Mann im Anzug am Strand auf, um den Guru zu treffen. Der Guru fordert den Mann auf, ihm zum Wasser zu folgen. Der Mann sieht den Guru an, als wäre er verrückt, aber er tut es trotzdem. Wenn das Wasser brusthoch ist, drückt der Guru den Kopf des Mannes nach unten und hält ihn unter Wasser, bis er sich wehrt und mit den Armen wedelt. Schließlich lässt der Guru den Mann an die Oberfläche kommen. Als er endlich zu Atem kommt, fragt der Guru den Mann: „Als du unter Wasser warst, was wolltest du mehr als alles andere?“
+
+Der Mann antwortet ihm: „Atmen.“
+
+Der Guru nickt und sagt: „Jetzt kennen Sie das Geheimnis.“ Wenn Sie genauso erfolgreich sein wollen, wie Sie atmen wollen, werden Sie erfolgreich sein.“
+
+[You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
+
+## Seien Sie besessen
+
+Die Bibel sagt, dass der Mann, der fleißig arbeitet, vor Königen bestehen wird. Ganz einfach: Die Chancen, die man hat, wenn man exzellent ist, sind größer als die Chancen, die man hat, wenn man nur durchschnittlich ist. Die Art und Weise, wie Sie die Welt erleben, wenn Sie exzellent sind, unterscheidet sich erheblich von der Art und Weise, wie Sie sie erleben, wenn Sie mittelmäßig agieren.
+
+Seien Sie besessen davon, worin Sie sich auszeichnen möchten. Um exzellent zu sein, muss man wie Michael Jordan und Kobe Bryant sein – unersättlich, unbändig, verrückt. Die wirklich Exzellenten unter uns wissen, dass wir jeden Tag aufwachen und danach streben, besser zu sein als am Tag zuvor. Wir stehen jeden Tag mit dem Ziel auf, uns zu verbessern und Großes zu erreichen.
+
+[You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

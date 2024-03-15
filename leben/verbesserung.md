@@ -335,6 +335,26 @@ Ein spannendes und befreiendes Gedankenexperiment: Wenn Sie die Grenzen ignorier
 
 [Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
 
+## Von gut bis großartig
+
+Kobe Bryant sagte, wenn man großartig sein will, muss man davon besessen sein. Um von „gut“ zu „großartig“ zu gelangen, müssen Sie von dem besessen sein, worin Sie großartig sein wollen. 
+
+Wenn Sie es wollen, werden Sie sich nie mit dem Guten zufrieden geben. Sie werden sofort das Maß zwischen Güte und Größe erkennen und intuitiv über die bloße Güte hinaus auf die Ebene gelangen, die Sie anstreben. 
+
+Man muss bereit sein, auf Vorhersehbarkeit und Stabilität zu verzichten. Sie müssen mit dem Gefühl des Unbehagens einverstanden sein. 
+
+Sie müssen wie ein Athlet im Training sein. Sie bringen Ihren Geist und Körper an ihre Grenzen, um die nächste Wettbewerbsstufe zu erreichen. Sie müssen den Mut haben, über den Durchschnitt hinauszugehen. 
+
+Sie sind es sich selbst schuldig, diesen Mut aufzubringen und sich der Größe zuzuwenden.
+
+Wenn Sie das Gute für das Große opfern, müssen Sie den gegenwärtigen Moment im Auge behalten. 
+
+Bleiben Sie immer dort, wo Ihre Füße sind. Die beste Version von dir ist tatsächlich dort, wo deine Füße sind. 
+
+Aber wenn Sie sich nicht ständig weiterentwickeln, wachsen und verändern, werden Sie trotzdem für die Ewigkeit am selben Ort stehen. Wo Ihre Füße irgendwann sterben werden.
+
+[You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

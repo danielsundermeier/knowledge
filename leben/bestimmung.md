@@ -395,6 +395,18 @@ Während die Idee, dass „ein Mensch nach seinem höchsten Wohl leben sollte“
 
 [Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
+## Was willst du?
+
+Was willst du? Um zu bekommen, was Sie wollen, müssen Sie wissen, was Sie wollen. Wenn du nicht weißt, was du willst, nimmst du alles. Aber wenn Sie wissen, was Sie wollen, werden Sie sich nie mit weniger zufrieden geben. Sobald Sie wissen, was Sie wollen, sind Sie es sich selbst schuldig, jeden Tag aufzustehen und den Rest Ihres Lebens damit zu verbringen, es zu verfolgen.
+
+Fragen Sie sich: Was wünschen Sie sich von Ihrem Leben? Was wünschen Sie sich von Ihrer Ehe? Was wünschen Sie sich beruflich? Was wünschst du dir von deinen Freundschaften? Wie soll Ihr Leben aussehen? Sie sind die einzige Person, die für die Beantwortung dieser Fragen verantwortlich ist und die einzige Person, die dafür verantwortlich ist, das zu bekommen, was Sie wollen.
+
+Im Mittelpunkt von allem stehen Sie als Ihre Supermacht. Du bist deine Geschenke. Du bist dein Zweck. Du bist dein Warum. Der einzige Grund, warum eines dieser Dinge existiert, liegt an Ihnen. Deine Träume sind deine Träume. Niemand außer Ihnen wird Ihre Träume wahr werden lassen. Niemand sonst ist es dir schuldig, dich glücklich, erfüllt oder verwirklicht zu machen. Die einzige Person, die dir etwas schuldet, bist du.
+
+Für mich liegt in diesem Gedanken Trost. Es bedeutet, dass niemand anderes die Kontrolle über mein Leben hat. Niemand sonst kann für mein Glück verantwortlich gemacht werden. Niemand sonst ist dafür verantwortlich, meine Stabilität, meinen Erfolg oder meine spirituelle Erfüllung zu gewährleisten. Die einzige Person, die für all das die Verantwortung trägt, bin ich.
+
+[You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

@@ -349,6 +349,28 @@ Wir erkennen, dass wir nicht alleine sind und dass wir normal sind.
 
 [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)
 
+## Das Fundament der Resilienz: Dynamisches Selbstbild
+
+Laut Dweck glauben Menschen mit einem dynamischen Selbstbildes, dass ihre grundlegendsten Fähigkeiten durch Hingabe und harte Arbeit entwickelt werden können – Verstand und Talent sind nur der Ausgangspunkt. 
+
+Diese Sichtweise schafft die Liebe zum Lernen und eine Belastbarkeit, die für große Erfolge unerlässlich ist.
+
+Das dynamische und statische Selbstbild lassen sich weiter in fünf Kategorien unterteilen: Fähigkeiten, Herausforderungen, Aufwand, Feedback, Rückschläge.
+
+Wenn wir in einer festen Denkweise gefangen sind, glauben wir, dass unsere Fähigkeiten im Wesentlichen von Geburt an definiert werden. 
+
+- Herausforderungen sind unbedingt zu vermeiden. 
+- Feedback wird persönlich entgegengenommen und nicht als nützliche Daten betrachtet, aus denen man lernen kann. 
+- Rückschläge basieren auf externen Faktoren und führen zu Entmutigung.
+
+Eine wachstumsorientierte Denkweise ist die Grundlage für Resilienz. Mit einer wachstumsorientierten Denkweise wissen Sie, dass Fähigkeiten und Erfolg auf harter Arbeit und Hingabe beruhen und dass der Status quo nie ausreicht. 
+
+Menschen mit dieser Einstellung fühlen sich wohl, wenn sie sich unwohl fühlen. Transparentes Feedback wird nicht nur akzeptiert, sondern auch gewünscht, und Rückschläge sind nur ein weiterer Stein auf dem Weg, der den Antrieb zum Vorantreiben schürt.
+
+Eine wachstumsorientierte Denkweise ist unerlässlich, um den Schmerz und das Elend des SEAL-Trainings und die hohe Leistung bei jedem Unterfangen zu bewältigen. Es ist auch von entscheidender Bedeutung, um die Schrecken anzunehmen, die das Leben uns entgegenwirft, wenn wir es am wenigsten erwarten, und von entscheidender Bedeutung für Erfolge und die Beherrschung eines Schlachtfelds.
+
+[Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

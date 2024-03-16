@@ -407,6 +407,16 @@ Für mich liegt in diesem Gedanken Trost. Es bedeutet, dass niemand anderes die 
 
 [You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
 
+## Der ultimative Missionsplan
+
+Die zweite Gewohnheit, die Stephen Covey in seinem bahnbrechenden Buch „The 7 Habits of Highly Effective People“ behandelt, ist „Beginnen Sie mit dem Ende im Hinterkopf.“ Schließen Sie die Augen und denken Sie an jemanden, der Ihre Laudatio hält. Sprechen sie darüber, wie viel Geld Sie verdient haben? Ihre Berufsbezeichnungen? Wie groß war Ihr Haus? Wie viele Autos besaßen Sie? Dass du bei Fortnite ordentlich in den Arsch getreten hast? Dass Sie jedes Semester die Dekanatsliste erstellt haben? Dass Sie nicht nur einmal, nicht zweimal, sondern dreimal dafür gesorgt haben, dass ein cleverer Tweet viral ging? Dass du Tausende von Instagram-Followern hattest?
+
+Wenn Sie wie die meisten anständigen Menschen sind, ist das wahrscheinlich nicht das, was Sie sich vorstellen. Sie stellen sich wahrscheinlich vor, dass sie über Ihre Tugenden sprechen. Sie stellen sich wahrscheinlich einen vertrauenswürdigen Freund vor, der über Ihren Charakter und Ihre Beziehungen spricht. Was für ein Ehemann, Vater, Ehefrau, Mutter und Freund Sie waren. Wie hart Sie gearbeitet haben, um Ihren Kindern nicht nur ein gutes Leben, sondern auch Sinnhaftigkeit und einen moralischen Kompass zu ermöglichen. Wie Sie Ihrem Ehepartner immer noch kleine romantische Gesten machten, obwohl Sie schon seit Jahrzehnten verheiratet waren. Wie du deinen Kumpels das Hemd von deinem Rücken geben würdest. Sie stellen sich wahrscheinlich vor, dass er sowohl lustige als auch traurige Geschichten erzählt, die Ihre Integrität, Freundlichkeit und Neugier sowie die Wirkung, die Sie auf das Leben anderer hatten, hervorheben.
+
+Laut Covey muss man, bevor man ein gutes, sinnvolles Leben führen kann, wissen, wie es aussieht. Wenn wir wissen, wie wir möchten, dass die Menschen am Ende unseres Lebens über uns sprechen, können wir jetzt damit beginnen, Maßnahmen zu ergreifen, um dieses Szenario später Wirklichkeit werden zu lassen. Mit Blick auf das Ziel wissen wir, was wir Tag für Tag und Woche für Woche tun müssen, um dorthin zu gelangen. Wir wissen, wie wir unseren Missionsplan umsetzen.
+
+[Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

@@ -268,6 +268,39 @@ Hineinzoomen und besessen sein. Herauszoomen und beobachten. Wir dürfen wählen
 
 [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
 
+## Resilienz entwickeln
+
+Die Entwicklung von Resilienz hängt weitgehend von unserer Fähigkeit ab, die Erzählung in unseren Köpfen über die unvermeidlichen Herausforderungen, denen wir im Leben gegenüberstehen, zu ändern und neue Antworten auf diese wichtigen Fragen zu finden:
+
+- Was halte ich für wahre Widrigkeiten?
+- Wie lange schwelge ich in meinem Elend?
+- Sollen emotionale und körperliche Schmerzen vermieden oder akzeptiert werden?
+- Wie oft verweile ich bei Dingen, die außerhalb meiner Kontrolle liegen?
+- Wie schnell komme ich wieder auf die Beine?
+- Bin ich bereit, extreme Unannehmlichkeiten in Kauf zu nehmen, um mein außergewöhnliches Leben zu führen?
+
+Wir sind die Architekten unserer eigenen Überzeugungen, der Entscheidungen, die wir treffen, und der Ergebnisse, die diese Entscheidungen liefern. Wir sind uns dessen vielleicht nicht immer bewusst, aber wir haben einen relativ großen Einfluss darauf, wie sich unser Leben entwickelt. 
+
+Die geistig und körperlich härtesten Menschen, die ich kenne, praktizieren ständig die hohe Kunst, Resilienz aufzubauen – indem sie bewusst die Grenzen ihrer Komfortzone überschreiten, um ihren Leidenschaften und Anliegen nachzugehen, die größer sind als sie selbst. 
+
+Einfach ausgedrückt: Sie ziehen Widrigkeiten der Mittelmäßigkeit vor und drängen trotz der gegen sie stehenden Chancen weiter nach vorne.
+
+1. Herausforderung: Resiliente Menschen betrachten Schwierigkeiten als Herausforderung und nicht als lähmendes Ereignis. Sie betrachten ihre Misserfolge und Irrtümer als Lehren und Wachstumschancen. In unseren Worten nehmen sie das Saugen besser an als andere, weil sie sich hineinbeugen.
+2. Engagement: Resiliente Menschen engagieren sich für ihr Leben und ihre Ziele. Sie haben einen zwingenden Grund, morgens das Bett zu verlassen. Sie lassen sich nicht so leicht von „Chancen“ abschrecken oder ablenken, die nichts mit ihren gewünschten Ergebnissen zu tun haben.
+3. Kontrolle: Resiliente Menschen verbringen ihre Zeit und Energie damit, sich auf Situationen und Ereignisse zu konzentrieren, über die sie die Kontrolle haben. Und weil sie ihre Anstrengungen dort einsetzen, wo sie die größte Wirkung erzielen können, fühlen sie sich gestärkt und selbstbewusst.
+
+[Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
+
+## Schmerz ist ein Weg
+
+In diesem Moment wurde die Embrace the Suck-Philosophie geboren. Ich habe meiner Realität nicht nur nachgegeben, ich habe sie auch angenommen. Es war aufregend. Als ich neben meinen Brüdern in der Brandung lag und heftig zitterte, erinnerte ich mich daran, dass ich mich dafür entschieden hatte. Ich hatte alles geopfert – einen guten Job, eine schöne Wohnung, Zeit mit Freunden und der Familie – und musste die Grenzen meiner Komfortzone überschreiten, nur um in das Programm aufgenommen zu werden. Das war gezieltes Leiden. Es hatte eine Bedeutung. Es gab eine Vision. Ein Aufruf zum Dienen. Wenn ich mich nicht darauf einlassen würde, wäre alles verloren.
+
+Sie haben sich das Recht verdient, hier zu sein. Du hast noch einen langen Weg vor dir, also nimm es in Kauf und schaffe es.
+
+Diejenigen von uns, die sich diese Denkweise zu eigen machten, hatten Erfolg.
+
+[Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

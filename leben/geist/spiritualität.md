@@ -72,6 +72,16 @@ Es können verschiedene Personen zu unterschiedlichen Zeiten an Ihrem Tisch ersc
 
 [The Awakened Brain](https://www.goodreads.com/book/show/57901800-the-awakened-brain)
 
+## Verschiebung vom Ego zum Selbst
+
+Unsere Prioritäten ändern sich, wenn wir vom Ego zum Selbst wechseln. Unser Bewusstseinsfeld erweitert sich. Wir sehen uns nicht länger als isoliertes Element in einem zufälligen oder bedeutungslosen Universum. Stattdessen gewinnt unser Durchgang durch diese materielle Dimension an Bedeutung, auch wenn wir nicht artikulieren können, was diese Bedeutung erfordert, selbst wenn wir nicht artikulieren können, was diese Bedeutung ist. Wir fühlen uns als Teil eines größeren Kosmos, der sich grenzenlos in die Vergangenheit erstreckt und unendlich in die Zukunft projiziert.
+
+Wir werden uns unserer eigenen Gabe bewusst. Wir zweifeln nicht mehr daran, lehnen es ab oder verachten es nicht mehr. Möglicherweise fürchten wir immer noch die persönliche Auslöschung. Möglicherweise machen wir uns immer noch Sorgen um die Zukunft unserer Kinder und die Gesundheit unserer Gemeinschaft, unserer Nation und unseres Planeten. Aber wir kommen diesen Anliegen aus einem anderen Blickwinkel und mit einem anderen Gespür dafür, welche Art von Unterschied wir bewirken können und wie und warum, oder ob wir überhaupt versuchen wollen, etwas zu bewirken.
+
+Wir sind zu Künstlern geworden, nicht in dem kostbaren Sinne, dass wir uns auf eine vermeintlich überlegene Weise von anderen unterscheiden, sondern in dem Sinne, dass wir Diener einer Absicht sind, die von woanders herkommt, auch wenn wir nicht begreifen können, was diese Absicht ist oder woher sie kommt Vielleicht. Wir vertrauen dieser Absicht irgendwie, auch wenn wir nicht sagen können, warum.
+
+[Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
+
 ## Orte
 
 - [Benediktushof](https://www.benediktushof-holzkirchen.de) - Zentrum für Meditation und Achtsamkeit

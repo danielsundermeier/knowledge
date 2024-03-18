@@ -268,6 +268,40 @@ Je mehr von der Arbeit Sie sehen können, desto einfacher wird es, die letzten D
 
 [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
 
+## Widerstand
+
+Was ist Widerstand? Es ist unsere eigene Tendenz – Ihre und meine und die aller anderen –, dem Aufschub, dem Selbstzweifel, der Angst, der Ungeduld, der Selbstaufblähung, der Selbstverunglimpfung, der Ablenkung, der Faulheit, der Arroganz, der Selbstgefälligkeit und dem Perfektionismus nachzugeben. 
+
+Es ist unsere Unfähigkeit, uns zu konzentrieren, unsere Unfähigkeit, Widrigkeiten zu überstehen. 
+
+Es ist unsere Angst, unsere Arbeit zu Ende zu bringen und dem Urteil des Marktes auszusetzen. 
+
+Es ist die Angst vor dem Scheitern. Es ist Angst vor Erfolg. Angst vor Demütigung. Angst vor Armut. 
+
+Es ist unsere Unfähigkeit, Befriedigung aufzuschieben, Selbstdisziplin, Selbstbestätigung und Selbstverstärkung zu erlangen und zu handeln.
+
+[Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
+
+## Bin ich aufgetaucht?
+
+So dumm und offensichtlich es auch klingen mag, in dieser einfachen körperlichen Aktion steckt eine enorme Kraft.
+
+Wenn ich mich morgens zum Schreiben hinsetze, habe ich buchstäblich keine Erwartungen an die Arbeit des Tages. Mein einziges Ziel ist es, drei oder vier Stunden damit zu verbringen, mit den Fingern die Tasten zu drücken. Ich beurteile mich nicht nach Qualität. Ich übernehme keine Verantwortung für die Menge. Die einzigen Fragen, die ich stelle, sind: Bin ich aufgetaucht? Habe ich mein Bestes gegeben?
+
+Wenn ich das getan habe, dann habe ich meinen Hintern dorthin gebracht, wo mein Herz sein möchte. Mehr kann ich von mir nicht verlangen.
+
+[Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
+
+## Bis man sich verpflichtet hat...
+
+Bezüglich aller Initiativen (und Schöpfungen) gibt es eine elementare Wahrheit, deren Unkenntnis unzählige Ideen und großartige Pläne zunichte macht: dass in dem Moment, in dem man sich endgültig verpflichtet, auch die Vorsehung in Kraft tritt. 
+
+Aus der Entscheidung geht eine ganze Reihe von Ereignissen hervor, die zu seinen Gunsten alle möglichen unvorhergesehenen Vorfälle, Begegnungen und materielle Unterstützung hervorrufen, von denen sich kein Mensch hätte träumen lassen, dass sie auf ihn zukommen würden. 
+
+Ich habe großen Respekt vor einem von Goethes Versen erfahren: "Was auch immer Sie tun oder träumen können, beginnen Sie damit. Kühnheit hat Genie, Kraft und Magie in sich. Fangen Sie jetzt damit an."
+
+[Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

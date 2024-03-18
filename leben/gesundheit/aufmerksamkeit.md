@@ -82,6 +82,40 @@ Bis du eines Tages bemerkst, dass du immer in der Praxis der Achtsamkeit bist, z
 
 [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
 
+## Hyperfokus
+
+Wenn Sie sich auf eine etwas hyperfokussieren, erweitern Sie eine Aufgabe, ein Projekt oder ein anderes Aufmerksamkeitsobjekt, sodass es Ihren Aufmerksamkeitsraum vollständig ausfüllt.
+
+Sie gelangen in diesen Modus, indem Sie Ihre Aufmerksamkeit bewusst und zielgerichtet verwalten: indem Sie ein wichtiges Aufmerksamkeitsobjekt auswählen, Ablenkungen beseitigen, die bei der Arbeit unweigerlich entstehen, und sich dann auf nur eine Aufgabe konzentrieren. 
+
+Hyperfokus bedeutet viele Dinge gleichzeitig: Er ist bewusst, unabgelenkt und lässt sich schnell neu fokussieren, und er führt dazu, dass wir völlig in unsere Arbeit eintauchen. 
+
+Es macht uns auch ungemein glücklich. Erinnern Sie sich daran, wie energiegeladen Sie von Ihrer Arbeit waren, als Sie sich das letzte Mal in diesem Zustand befanden. 
+
+Bei Hyperfokus fühlen Sie sich vielleicht sogar entspannter, als Sie es normalerweise bei der Arbeit sind. 
+
+Wenn Sie zulassen, dass eine Aufgabe oder ein Projekt Ihren gesamten Aufmerksamkeitsbereich beansprucht, fühlen Sie sich in diesem Zustand nicht gestresst oder überfordert. 
+
+Ihr Aufmerksamkeitsraum wird nicht überfüllt und Ihre Arbeit fühlt sich nicht annähernd so chaotisch an. 
+
+Da Hyperfokus viel produktiver ist, können Sie etwas langsamer fahren und trotzdem in kurzer Zeit unglaublich viel erreichen.
+
+[Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
+
+## Hyperfokus + Streufokus
+
+Hyperfokus kann Ihnen dabei helfen, in relativ kurzer Zeit außerordentlich viel zu erledigen. 
+
+Mit Streufokus können Sie Ideen verbinden – was Ihnen hilft, verborgene Erkenntnisse zu entdecken, kreativer zu werden, für die Zukunft zu planen und sich auszuruhen. 
+
+Gemeinsam werden sie es Ihnen ermöglichen, zielgerichtet zu arbeiten und zu leben.
+
+Ihre Aufmerksamkeit ist das stärkste Werkzeug, das Ihnen zur Verfügung steht, um produktiver, kreativer und zielgerichteter zu leben und zu arbeiten. 
+
+Wenn Sie es gut verwalten, können Sie mehr Zeit und Energie auf Ihre zielgerichtetesten Aufgaben verwenden, häufiger mit Absicht arbeiten, sich über längere Zeiträume konzentrieren und weniger in unerwünschte Tagträume verfallen.
+
+[Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

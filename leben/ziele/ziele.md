@@ -294,6 +294,28 @@ Gehen Sie es wie Bannister an, der sein rekordverdächtiges Meilentempo auf eine
 
 [10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
 
+## Vage Absichten vs. Umsetzungsabsichten
+
+Einige Studenten legen eine vage Absicht fest, während andere das festlegen, was Gollwitzer eine „Umsetzungsabsicht“ nennt. Wie er den Begriff erklärt: 
+
+„Machen Sie einen sehr detaillierten Plan, wie Sie das erreichen möchten, was Sie erreichen möchten. Was ich in meiner Forschung behaupte, ist, dass Ziele Pläne brauchen, idealerweise Pläne, die beinhalten, wann, wo und welche Art von Maßnahmen zum Erreichen des Ziels ergriffen werden müssen.“ 
+
+Mit anderen Worten, wenn das vage Ziel eines Studenten darin besteht, „eine Wohnung in den Weihnachtsferien zu finden“ könnte seine Umsetzungsabsicht lauten: „Ich werde in den Wochen vor Weihnachten auf Craigslist nach Wohnungen suchen und drei Wohnungsvermietern E-Mails schicken.“
+
+Interessant wird es beim Vergleich der beiden Teilnehmergruppen von Gollwitzer und Brandstätter. Bemerkenswerte 62 Prozent der Studierenden, die sich eine konkrete Umsetzungsabsicht gesetzt hatten, setzten ihre Ziele auch um. 
+
+Die Gruppe, die keine Umsetzungsabsicht festlegte, schnitt viel schlechter ab und setzte ihre ursprüngliche Absicht ein Drittel so oft um – dürftige 22 Prozent der Zeit. 
+
+Dieser Effekt, den spätere Studien weiter bestätigten, war geradezu überwältigend. Das Festlegen spezifischer Absichten kann Ihre Erfolgsaussichten verdoppeln oder verdreifachen.
+
+Lassen Sie uns vor diesem Hintergrund meine drei vagen Absichten schnell in Umsetzungsabsichten umwandeln:
+
+- „Gehe ins Fitnessstudio“ wird zu „Plane und gehe in meiner Mittagspause ins Fitnessstudio.“
+- „Aufhören zu arbeiten, wenn ich nach Hause komme“ wird umformuliert als „Stellen Sie mein Arbeitstelefon auf den Flugmodus und meinen Arbeitslaptop in einen anderen Raum und bleiben Sie den ganzen Abend lang nicht verbunden.“
+- „Gehen Sie zu einer angemessenen Zeit ins Bett“ wird zu „Stellen Sie einen Schlafenszeitwecker auf 22:00 Uhr ein, und wenn er klingelt, beginnen Sie, sich zu entspannen.“
+
+[Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

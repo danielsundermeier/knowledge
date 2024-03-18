@@ -266,6 +266,34 @@ Ich versuche, einen allgemeinen Gesundheitszustand aufrechtzuerhalten, damit ich
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
+## Definition
+
+Nachdem ich jahrelang zu diesem Thema recherchiert habe, habe ich festgestellt, dass „Produktivität“ zu einem etwas überladenen Begriff geworden ist. Was damit normalerweise gemeint ist, ist ein Zustand, der sich kalt, korporativ und zu sehr auf Effizienz konzentriert anfühlt. 
+
+Ich bevorzuge eine andere (und freundlichere) Definition: Produktivität bedeutet, das zu erreichen, was wir beabsichtigen. 
+
+Wenn unser heutiger Plan darin besteht, dreitausend Wörter zu schreiben, eine Präsentation mit unserem Führungsteam zu rocken und unsere E-Mails zu lesen, und uns das alles gelingt, dann waren wir vollkommen produktiv. 
+
+Ebenso sind wir wieder vollkommen produktiv, wenn wir einen entspannten Tag verbringen und es schaffen, überhaupt nichts zu tun. 
+
+Beschäftigt zu sein macht uns nicht produktiv. Es spielt keine Rolle, wie beschäftigt wir sind, wenn diese Geschäftigkeit uns nicht dazu bringt, etwas Wichtiges zu erreichen. 
+
+Bei Produktivität geht es nicht darum, mehr in den Tag zu stecken, sondern in jedem Moment das Richtige zu tun.
+
+[Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
+
+## Produktivitätspotenzial erweitern
+
+Untersuchungen zeigen, dass sich der Aufmerksamkeitsraum proportional zu unserer mentalen Energie ausdehnt und zusammenzieht. 
+
+Ausreichend Schlaf kann beispielsweise den Aufmerksamkeitsbereich um bis zu 58 Prozent vergrößern, und häufige Pausen können den gleichen Effekt haben. 
+
+Dies wirkt sich auf die Produktivität aus: Wenn der Aufmerksamkeitsraum um etwa 60 Prozent größer ist, kann die Produktivität um genau so viel wachsen, insbesondere bei der Arbeit an einer anspruchsvollen Aufgabe. 
+
+Je ausgeruhter wir sind, desto produktiver werden wir.
+
+[Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

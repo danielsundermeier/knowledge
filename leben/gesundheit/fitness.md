@@ -142,4 +142,5 @@ Ihr Trainingstagebuch sollte (1) Ihre primären und sekundären Ziele, (2) Ihre 
 - [Stop Chasing Progressions](https://www.youtube.com/watch?v=lofbl5_wTWk)
 - [Discovering Joy Through Embodied Exercise](https://selfrenewal.substack.com/p/discovering-joy-through-embodied) - An intentional path to cultivate intrinsic motivation
 - [Andy Galpin, PhD](https://www.andygalpin.com/)
+- [modusX](https://modusx.de)
 

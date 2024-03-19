@@ -201,6 +201,34 @@ Ohne es überhaupt zu versuchen, werden Sie das Bewusstsein Ihrer Mitmenschen sc
 
 [A Complaint Free World](https://www.goodreads.com/book/show/1469401.A_Complaint_Free_World)
 
+## Ihr Job als Kommandant
+
+Als der Tag näher rückte, an dem ich das Kommando über die Tomcatters des Jagdgeschwaders (VF) 31 übernehmen sollte, begann ich die bevorstehende Bürde des Kommandos zu spüren – meine erste. Ich trank mit einem Kumpel ein Bier in der Bar des Naval Air Station Oceana Officers’ Club, dem Schauplatz vieler Junior-Spielereien, und ausnahmsweise meinte ich es todernst. Die Frage kam mir in den Sinn und ich fragte laut: „Warum ist Moral wichtig?“
+
+Scheint leicht zu beantworten, aber ich habe versucht herauszufinden, welchen Nutzen eine hohe Moral jenseits von „Alle sind glücklich“ haben würde. Ich meine, ich kann ihnen einfach befehlen, die Aufgabe zu erledigen, oder?
+
+Titel 10 des United States Code beschreibt die Rolle der US-Streitkräfte. In Kapitel 511, Absatz 5947, ist das Erfordernis eines vorbildlichen Verhaltens des befehlshabenden Offiziers gesetzlich verankert und besagt, dass alle befehlshabenden Offiziere verpflichtet sind, „die Moral, das körperliche Wohlbefinden und das allgemeine Wohlergehen der Offiziere zu fördern und zu schützen“. rekrutierte Personen unter ihrem Kommando oder ihrer Verantwortung.“
+
+[Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
+
+## Ermutigung
+
+Bei vielen Gelegenheiten habe ich mich über die Weiterentwicklung derjenigen, die ich betreut habe, mehr gefreut als jemals zuvor über meine eigenen Fortschritte. Es beginnt mit einer Denkweise. Entweder sieht man in den Menschen um einen herum Möglichkeiten für mehr, oder man sieht es nicht. Es ist meiner Erfahrung nach bedauerlich, dass viele Führungskräfte zuerst die Grenzen ihrer Mitarbeiter erkennen. Ihre Vision Ihrer Leute kann zu einer sich selbst erfüllenden Prophezeiung werden. Sie spiegeln einfach das wider, was Sie ihnen projizieren.
+
+Ich bin zu der Überzeugung gelangt, dass es zwei Arten von Menschen gibt: diejenigen, die in jeder Herausforderung eine Chance sehen, und diejenigen, die in jeder Möglichkeit eine Herausforderung sehen. Ich ermutige Sie, sich dafür zu entscheiden, neue Möglichkeiten für sich selbst zu erkennen. Erkennen Sie neue Möglichkeiten für Ihre Mitarbeiter und gewinnen Sie die Zuversicht, dass Sie Ihre Herausforderungen meistern können. Suchen Sie einen Mentor und versuchen Sie, ein Mentor zu sein. Befähigen Sie Menschen, neue Höhen zu erreichen.
+
+[Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
+
+## Führen Sie zum Sieg
+
+Führung braucht Zeit, um sie zu meistern. Es erfordert Engagement. Es erfordert Ausdauer. Ihr Führungserfolg wird letztendlich von der Stärke Ihrer täglichen Disziplinen abhängen. Wie sieht deine Morgenroutine aus? Stehst du auf und entscheidest du dich dafür, dankbar zu sein für das, was du hast und wo du bist? Verfügen Sie über eine Routine zur Einstellungsprüfung?
+
+Ich verabschiede mich mit diesem ermutigenden Wort. Führung ist sowohl anspruchsvoll als auch wunderbar lohnend. Legen Sie Ihre Vision für die Art von Führungskraft fest, die Sie sein möchten, und für den Erfolg, den Sie für Ihr Team erzielen möchten, und halten Sie dann alle Höhen und Tiefen durch, bis Sie Ihren Traum verwirklichen. Gib niemals auf. In den Momenten, in denen das Ergebnis nicht Ihren Wünschen entspricht und Ihr Herz vor Enttäuschung bricht, vertrauen Sie der Vorsehung. Es wird die Zeit kommen, in der Sie mit Klarheit auf diesen Moment zurückblicken und feststellen werden, dass Sie genau dort waren, wo Sie sein mussten – etwas gelernt haben, das Sie lernen mussten. Scheitern ist einfach eine Lektion, die Sie auf Ihrer Reise gelernt haben. Beharre und vertraue der Vorsehung. Du wirst ok sein.
+
+Ich bete, dass Sie ein Leben voller Abenteuer, Misserfolge, Erfolge und vielen Leben genießen, die Sie bereichern können, während Sie zum Sieg führen.
+
+[Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

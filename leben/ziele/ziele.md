@@ -316,6 +316,18 @@ Lassen Sie uns vor diesem Hintergrund meine drei vagen Absichten schnell in Umse
 
 [Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
 
+## Fang an und sei dir dem Ende bewusst
+
+Ich sprang auf. 'Das ist es! Ich möchte zur Marineakademie gehen und einer von ihnen sein!“, erklärte ich meinen Eltern auf der Betontribüne des Stadions. „Ich gehe zur Marineakademie.“ Das Spektakel, wie die Brigade der Midshipmen auf das Feld marschierte, war der katalysierende Gedanke, der den Lauf meines Lebens veränderte.
+
+Zwei Tage später klopfte ich an die Tür des Berufsberaters der Robert Smalls Junior High School mit der ausdrücklichen Absicht, den garantierten Weg nach Annapolis herauszufinden. Die Berufsberaterin sagte zu mir: „Wenn du zur Marineakademie gehen willst, musst du diese Kurse bestehen.“ Sie nahm ein 8 1/2 x 11 großes Blatt Papier heraus, drehte es zur Seite und zeichnete vier Spalten mit der Überschrift Neunte, zehnte, elfte und zwölfte Klasse. Anschließend schrieb sie in die Kolumnen alle Kurse, die ich jedes Jahr belegen musste, um an die Marineakademie zu gehen.
+
+Ich habe vier verschiedene Gymnasien besucht. In jeder Schule legte ich dieses Blatt Papier dem Berufsberater vor und teilte ihm mit, dass ich an diesen Kursen teilnehmen müsse. Ich war auf einer Mission. Wie eine Schatzkarte bildete dieses unbezahlbare Stück Papier meinen akademischen Weg zur Akademie, und ich hielt es vier Jahre lang fest und arbeitete immer mit Schulberatern, Lehrern und Trainern zusammen, um mir auf meinem Weg zu helfen.
+
+Dies ist ein grundlegendes Erfolgsprinzip für das Mentoring, egal ob es sich um Ihre Kinder, Enkel oder Ihre direkt unterstellten Mitarbeiter handelt. Beginnen Sie mit einer klaren Vision. Definieren Sie Ihr Ziel mit einfacher Klarheit. Entwickeln Sie einen Plan, um ihn zu erfüllen. Und treiben Sie den Plan gewissenhaft zur Vollendung. Dies ist das Erfolgsprinzip „Beginnen Sie mit dem Ende im Kopf“, über das Stephen Covey in seinem Buch „Die 7 Gewohnheiten hochwirksamer Menschen“ spricht. Dieses Buch ist eine Pflichtlektüre für jeden, der führen will, um zu gewinnen.
+
+[Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

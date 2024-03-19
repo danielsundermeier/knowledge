@@ -341,6 +341,16 @@ Seien Sie besessen davon, worin Sie sich auszeichnen möchten. Um exzellent zu s
 
 [You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
 
+## Denken Sie voraus und gehen Sie die Extrameile
+
+Hier ist die Erkenntnis: Wenn Sie bei einem Unterfangen mit Konkurrenz erfolgreich sein wollen, gehen Sie die Extrameile. Machen Sie etwas mehr als erwartet. Dann machen Sie mehr. Streben Sie mit all Ihren Talenten danach, der Beste zu sein. Und es gibt immer Konkurrenz. Es ist mir egal, ob es sich um eine Beförderung, ein Softballspiel in der Stadtliga, die Rolle als Top-Verkaufsführer in Ihrem Team oder sogar um ein Date handelt. Sie nehmen an einem Wettbewerb teil. Und einige der anderen Konkurrenten sind immer verdammt gut. …
+
+Ich möchte auch diesen wichtigen Grundsatz anbieten: Wenn Sie etwas tun, insbesondere etwas Schwieriges, sehen Sie sich selbst und sagen Sie sich, dass Sie gewinnen werden. Wenn ich die Akademie mit dem Gedanken betreten hätte: „Ich werde versuchen, Jets zu fliegen“, „Ich werde versuchen, meinen Abschluss zu machen“, hätte ich, das weiß ich, nicht so gut abgeschnitten.
+
+Es gibt einen großen Unterschied zwischen Versuchen und Engagement. Der Wille zum Sieg bringt Sie dazu, die Extrameile zu gehen. Ich weiß, dass eine solche Einstellung das Risiko einer Enttäuschung erhöht. Ich würde lieber meine Gewinnchancen stark erhöhen und das Risiko eingehen, enttäuscht zu werden, als etwas Wichtiges mittelmäßig auszuprobieren. Wie John Paul Jones berühmt sagte: „Wer kein Risiko eingeht, kann nicht gewinnen.“
+
+[Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

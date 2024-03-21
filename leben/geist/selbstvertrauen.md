@@ -124,6 +124,14 @@ Wenn Sie auf sich selbst hören, beginnen Sie, Ihre Zukunft zu finden.
 
 [Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
 
+## Die Kraft des Glaubens
+
+Glaube schafft auch Willensstärke. Weil sie glauben, dass Spitzensportler einen enormen Wettbewerbsdrang haben, und das macht sie unerbittlich. Die meisten Spieler sagen: „Ich kann nicht.“ Manche Spieler sagen: „Ich hoffe.“ Spieler, die glauben, sagen: „Das werde ich.“ Ihre Denkweise ist: Ich werde die Arbeit machen. Ich werde meinen Job machen. Ich werde das Stück machen. Egal wie schwierig, egal wie groß die Herausforderung ist, ich werde tun, was immer nötig ist, egal wie lange es dauert. Ihr Glaube verleiht ihnen unerschütterliche Entschlossenheit und Entschlossenheit. Dies belebt ihre Fähigkeit, auf jede Situation mit Härte und Beharrlichkeit zu reagieren. Sie haben die Einstellung, niemals aufzugeben und niemals nachzugeben. Sie sind die oberen 10 Prozent.
+
+Bei der Willensstärke geht es nicht um die Verpflichtung, anzufangen; Es geht um die Verpflichtung, weiterzumachen. Es geht um die vielen Neuverpflichtungen, die notwendig sind, um die Reise durchzuhalten, wenn sie schwierig, mühsam und schmerzhaft wird. Mit anderen Worten: Wenn man sich der Herausforderung stellt, sagt man: „Das werde ich“, wenn es schwierig wird.
+
+[Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

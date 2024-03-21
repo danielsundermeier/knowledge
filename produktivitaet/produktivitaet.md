@@ -294,6 +294,60 @@ Je ausgeruhter wir sind, desto produktiver werden wir.
 
 [Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
 
+## The 15 Secrets
+
+- Geheimnis Nr. 1: Zeit ist Ihre wertvollste Ressource. Wie würde sich Ihr Leben verändern, wenn Sie jeden Tag Ihre 1.440 Minuten wirklich spüren würden?
+- Geheimnis Nr. 2: Identifizieren Sie Ihre wichtigste Aufgabe und arbeiten Sie jeden Tag daran, bevor Sie etwas anderes tun. Also, was ist dein Einziges?
+- Geheimnis Nr. 3: Arbeiten Sie anhand Ihres Kalenders, nicht anhand einer To-Do-Liste. Wie viel weniger Stress würden Sie verspüren, wenn Sie Ihre To-Do-Liste zerreißen und von Ihrem Kalender aus arbeiten könnten?
+- Geheimnis Nr. 4: Der Aufschub kann überwunden werden, wenn Sie herausfinden, wie Sie Ihr zukünftiges Ich besiegen können, dem man nicht zutrauen kann, das Richtige zu tun. Sie wissen, was diese Woche erledigt werden muss; Wie stellen Sie sicher, dass Sie es nicht aufschieben?
+- Geheimnis Nr. 5: Akzeptieren Sie die Tatsache, dass es immer mehr zu tun gibt und dass noch mehr getan werden kann. Wie viel besser werden Sie sich fühlen, wenn Sie endlich die Tatsache akzeptieren, dass Sie nicht alles tun können, weil immer noch mehr getan werden kann?
+- Geheimnis Nr. 6: Tragen Sie immer ein Notizbuch bei sich. Wie viel weniger Stress werden Sie verspüren, wenn Sie anfangen, alles Wichtige in Ihr Notizbuch zu packen?
+- Geheimnis Nr. 7: E-Mails sind eine großartige Möglichkeit für andere Menschen, ihre Prioritäten in Ihr Leben zu setzen. Kontrollieren Sie Ihren Posteingang. Sind Sie bereit, Ihre E-Mails nicht öfter als dreimal am Tag zu lesen?
+- Geheimnis Nr. 8: Planen Sie Besprechungen und nehmen Sie daran als letzten Ausweg teil, wenn alle anderen Formen der Kommunikation nicht funktionieren. Sehen Sie sich die Besprechungen in Ihrem Kalender für die kommende Woche an. Wie können Sie sie beseitigen oder ihre zugewiesene Zeit verkürzen?
+- Geheimnis Nr. 9: Sagen Sie Nein zu allem, was Ihre unmittelbaren Ziele nicht unterstützt. Zu welchen Meetings, Anrufen und Projekten werden Sie in den kommenden Wochen Nein sagen?
+- Geheimnis Nr. 10: Achtzig Prozent der Ergebnisse werden durch zwanzig Prozent der Aktivitäten generiert. Welche 20 Prozent Ihrer Zeit generieren 80 Prozent Ihres Wertes?
+- Geheimnis Nr. 11: Konzentrieren Sie Ihre Zeit nur auf Dinge, die Ihre einzigartigen Stärken und Leidenschaften nutzen. Was werden Sie ab nächster Woche auslagern?
+- Geheimnis Nr. 12: Stapeln Sie Ihre Arbeit mit wiederkehrenden Themen für verschiedene Wochentage. Wie viel produktiver wären Sie, wie viel weniger Stress würden Sie verspüren, wenn Sie Ihre Tage so organisieren würden, dass Sie Ihre Effektivität maximieren?
+- Geheimnis Nr. 13: Wenn eine Aufgabe in weniger als fünf Minuten erledigt werden kann, dann erledigen Sie sie sofort. Wie viel Zeit gewinnen Sie, wenn Sie nicht immer wieder die gleichen Gegenstände „anfassen“? Berühre es einmal, berühre es einmal, berühre es einmal.
+- Geheimnis Nr. 14: Investieren Sie die ersten 60 Minuten eines jeden Tages in Rituale, die Ihren Geist, Körper und Geist stärken. Wie spät stellen Sie Ihren Wecker auf morgen früh, damit Sie Zeit für Ihr Morgenritual haben?
+- Geheimnis Nr. 15: Bei Produktivität geht es um Energie und Konzentration, nicht um Zeit. Wie steigern Sie morgen Ihre Energie?
+
+[15 Secrets Successful People Know About Time Management](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
+
+## Zwei tolle Stunden am Morgen
+
+Nachdem Sie Ihre MIT [wichtigste Aufgabe] identifiziert haben, müssen Sie sie in einen Kalendereintrag umwandeln und ihn so früh wie möglich am Tag buchen.
+
+Dan Ariely, Professor für Psychologie und Verhaltensökonomie an der Duke University, geht davon aus, dass die meisten Menschen in den ersten zwei Stunden, nachdem sie vollständig wach sind, am produktivsten sind und die höchste kognitive Leistungsfähigkeit aufweisen. In einem Reddit Ask Me Anything schrieb Ariely:
+
+Einer der traurigsten Fehler im Zeitmanagement ist die Neigung der Menschen, die beiden produktivsten Stunden ihres Tages mit Dingen zu verbringen, die keine hohe kognitive Leistungsfähigkeit erfordern (wie soziale Medien). Wenn wir diese kostbaren Stunden retten könnten, wären die meisten von uns viel erfolgreicher dabei, das zu erreichen, was wir wirklich wollen.
+
+Warum machen wir das? Warum verbringen wir unsere besten Stunden mit unseren unwichtigsten Aufgaben?
+
+Viele von uns beginnen den Tag damit, all die schnellen und einfachen Dinge zu erledigen. Auf all diese E-Mails über Nacht antworten, unseren Poststapel sortieren, Bestellungen abzeichnen…. Es fühlt sich alles so produktiv an! Schauen Sie, es ist erst 11:00 Uhr morgens und ich muss 50 Dinge erledigt haben.
+
+[15 Secrets Successful People Know About Time Management](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
+
+## Einmal Anfassen
+
+Sehr erfolgreiche Menschen ergreifen bei fast jedem Punkt, auf den sie stoßen, sofort Maßnahmen. Sie wissen, dass sie, um effizient zu sein, möglichst wenig Zeit und geistige Energie für die Verarbeitung von Dingen aufwenden wollen. Kurz gesagt, sie praktizieren eine „Fass es einmal an“-Mentalität.
+
+Ich halte die Regel „Einmal anfassen“ für so wichtig. Ich empfehle Ihnen, sofort Maßnahmen zu ergreifen, wenn die Fertigstellung fünf Minuten oder weniger dauert. Solange es eine im Voraus geplante Aufgabe nicht beeinträchtigt, ist es im Allgemeinen besser, sofort Maßnahmen zu ergreifen, als in der Zukunft darauf zurückkommen zu müssen.
+
+[15 Secrets Successful People Know About Time Management](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
+
+## Energie ist alles
+
+Möchten Sie das wahre Geheimnis erfahren, wie man zwölf Stunden Arbeit an einem Acht-Stunden-Tag erledigt?
+
+Sie können nicht mehr Zeit bekommen, nur mehr Energie
+
+Was wäre, wenn es beim ultimativen Zeitmanagement-Geheimnis überhaupt nicht um die Zeit geht? Sie können die Zeit nicht „managen“ – egal, was Sie tun, Sie werden morgen die gleichen 24 Stunden haben wie heute. Wenn Menschen über „Zeitmanagement“ sprechen, wollen sie in Wirklichkeit mehr Dinge mit weniger Stress erledigen. Und das wahre Geheimnis dahinter ist, dass Sie Ihre Energie maximieren müssen.
+
+Ich habe dieses Geheimnis für den Schluss aufgehoben, weil ich nicht glaubte, dass Sie es überhaupt lesen oder sich darum kümmern würden, wenn ich es an den Anfang stelle. Aber es ist das wichtigste Geheimnis von allen.
+
+[15 Secrets Successful People Know About Time Management](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

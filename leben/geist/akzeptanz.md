@@ -269,6 +269,20 @@ Sie können nichts falsch machen, weil ihr Motiv rein ist. Wenn das Motiv selbst
 
 [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)
 
+## Der R-Faktor
+
+Wie kommt man über die Linie und wie bleibt man es? Wie bekämpfen Sie die Kräfte, die Sie unter die Grenze ziehen wollen? Wie können Sie Ihr Bestes geben, wenn es darauf ankommt? Es beginnt mit einer kraftvollen Gleichung, die sich auf alles auswirkt, was wir tun.
+
+E + R = O
+
+Ereignis + Reaktion = Ergebnis
+
+Diese Gleichung lehrt etwas sehr Wichtiges über die Funktionsweise des Lebens. Wir kontrollieren weder die Ereignisse im Leben noch die Ergebnisse direkt. Aber wir haben immer die Kontrolle darüber, wie wir reagieren. Wie wir reagieren, bedeutet alles.
+
+Wir nennen es den R-Faktor.
+
+[Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

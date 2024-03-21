@@ -351,6 +351,30 @@ Es gibt einen großen Unterschied zwischen Versuchen und Engagement. Der Wille z
 
 [Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
 
+## Über der Linie vs. Unterhalb der Linie
+
+Alles beginnt mit Above-the-Line-Verhalten. Es ist ein Lehrpunkt von Tim Knight, und er hat die Art und Weise, wie ich führe und denke, tiefgreifend beeinflusst. Ich war überwältigt von seiner Kraft und Klarheit, als er es mir zum ersten Mal erklärte, und wenn überhaupt, ist meine Wertschätzung dafür gewachsen.
+
+Die Leistung eines Teams hängt vom Verhalten ab. Gewinnendes Verhalten ist absichtlich, absichtlich und geschickt. Es liegt über der Linie. Aber es ist einfacher, impulsiv, auf Autopilot zu reagieren und widerspenstig zu sein. Das ist unterhalb der Linie. Below the Line ist gefährlich, weil es bequem und bequem ist. Es ist der Weg des geringsten Widerstands. „Below the Line“ erfordert wenig Aufwand oder Geschick, und das Beste, was ich hervorbringen kann, ist „einfach in Ordnung“. Letztendlich führt es zum Scheitern.
+
+Die einfache Wahrheit ist, dass es die Grundlage für den Erfolg ist, bei allem, was Sie tun – bei der Arbeit, in der Schule, beim Fußball und im Leben – über die Linie zu kommen und zu bleiben. Die schwierigere Wahrheit ist, dass es nicht einfach ist, über die Linie zu kommen und zu bleiben. Es muss gelehrt und entwickelt werden. Jeder Tag ist ein Kampf darum, ob wir uns entscheiden, über oder unter der Linie zu leben. Die Wahl, die wir treffen, bestimmt, wie wir Menschen behandeln, die wir lieben, wie wir mit Arbeitskollegen interagieren, wie wir unsere Arbeit erledigen, wie wir lernen und wachsen, wie wir mit Widrigkeiten und Enttäuschungen umgehen und letztendlich, was wir erreichen.
+
+Bitte halten Sie einen Moment inne und nehmen Sie Folgendes zur Kenntnis: „Above the Line“-Verhalten ist die Grundlage für den Erfolg bei allem, was Sie tun. Es gibt keinen Aspekt Ihres Lebens, der davon unberührt bleibt, und deshalb ist die Entscheidung, sich über oder unter der Linie zu verhalten, die wichtigste Entscheidung, die Sie jeden Tag treffen.
+
+[Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
+
+## Unermüdlicher Einsatz
+
+Hier ist die nicht ganz so geheime Formel für außergewöhnlichen Erfolg: Klären Sie, was Sie wirklich wollen, und arbeiten Sie dann so hart wie möglich und so lange es dauert. Durch Härte können Dinge erreicht werden, die Talent allein niemals erreichen kann.
+
+Der Erfolg ist kumulativ und progressiv. Es ist das Ergebnis dessen, was Sie jeden Tag tun. Sowohl erfolgreiche als auch erfolglose Menschen ergreifen täglich Maßnahmen. Der Unterschied besteht darin, dass erfolgreiche Menschen über die Linie hinaus handeln. Sie treten auf und handeln mit Absicht, Zielstrebigkeit und Geschick.
+
+Für jedes Ziel, das Sie verfolgen, ist ein Prozess involviert. Es gibt einen Weg, dem Sie folgen müssen. Um Ihre Ziele zu erreichen, müssen Sie sich mit täglichem „Above the Line“-Verhalten auf den Prozess einlassen. Nicht nur ein- oder zweimal, sondern immer wieder im Laufe der Zeit. Der Erfolg wird nicht durch eine gelegentliche heroische Reaktion erreicht. Erfolg wird durch gezieltes und nachhaltiges Handeln erreicht. Jeder Erfolg ist eine Reihe von Entscheidungen. Je größer der Erfolg, desto länger die Serie und desto anspruchsvoller die Entscheidungen.
+
+Zielklarheit ist wichtig, aber auch Prozessklarheit. Machen Sie sich für jedes von Ihnen gesetzte Ziel äußerst klar, welcher Prozess notwendig ist, um das gewünschte Ergebnis zu erzielen. Indem Sie im Laufe der Zeit konsequent „Above the Line“ handeln, können Sie fast alles erreichen.
+
+[Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

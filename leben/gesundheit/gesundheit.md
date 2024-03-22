@@ -62,6 +62,26 @@ WHtR = Bauchumfang in cm / Körpergröße in cm
 
 Messe am besten morgens mit leerem Magen direkt auf der Haut. Führe im Stehen ein Maßband an der dicksten Stelle des Bauches waagerecht um Deinen Körper (meist knapp oberhalb des Bauchnabels).
 
+## Was ist Stoffwechsel?
+
+Eine Ein-Satz-Definition des Stoffwechsels könnte wie folgt lauten: Stoffwechsel ist der Prozess der Umwandlung von Nahrung in Energie oder Bausteine für das Wachstum und den Erhalt von Zellen sowie die angemessene und effiziente Entsorgung von Abfallprodukten. Der Stoffwechsel ist die Funktionsweise unserer Zellen.
+
+Unser Stoffwechsel bestimmt unsere Zellgesundheit, wie sich unser Körper und unser Gehirn entwickeln und funktionieren und wie wir Ressourcen zu unterschiedlichen Zeiten verschiedenen Zellen zuweisen, um unser Überleben zu optimieren. 
+
+Der Stoffwechsel lässt einige Zellen wachsen und gedeihen, während andere schrumpfen und absterben. Dabei handelt es sich um eine komplexe Kosten-Nutzen-Analyse, bei der gesunde und vorteilhafte Zellen Vorrang vor solchen haben, die möglicherweise alt, schwach oder einfach entbehrlicher sind. 
+
+Als Ressourcenmanagementsystem des Körpers kommt es beim Stoffwechsel vor allem auf die Anpassung an. 
+
+Unsere Umwelt verändert sich ständig, und damit auch unsere Umstände in der Umwelt. Infolgedessen verändert sich unser Stoffwechsel ständig, um mit den Veränderungen um uns herum Schritt zu halten. 
+
+Diese Anpassungen im Stoffwechsel ermöglichen es uns, in optimalen Umgebungen zu gedeihen oder einfach in Situationen zu überleben, die für den Körper stressig sind, wie etwa Nahrungsmittelknappheit. 
+
+Aber die Verfügbarkeit von Nahrungsmitteln ist nicht die einzige Veränderung, auf die der Stoffwechsel reagiert – zahlreiche andere Faktoren spielen eine Rolle, wie etwa psychischer Stress, Lichteinwirkung, Temperatur, wie viel Schlaf wir bekommen, Hormonspiegel und die Menge an Sauerstoff, die den Zellen zur Verfügung steht. 
+
+Letztendlich ist der Stoffwechsel der Kampf des Körpers ums Überleben. Viele biologische Experten würden sagen, dass der Stoffwechsel das Leben selbst definiert.
+
+[Brain Energy](https://www.goodreads.com/book/show/61129785-brain-energy)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

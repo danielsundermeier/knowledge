@@ -61,3 +61,21 @@ Wer erfolgreich ist, entscheidet, dass er erfolgreich sein wird. Wir treffen die
 Wir entscheiden, mit wem wir rumhängen und wem wir nacheifern. Wir entscheiden uns dafür, zu dem zu werden, der wir werden wollen – wir werden weder durch unsere Natur noch durch unsere Erziehung daran gehindert. Wir überwinden beides.
 
 [Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom)
+
+## Betrügen Sie die Disziplin nicht
+
+Nur weil wir die Möglichkeit und die Fähigkeit haben zu wählen, heißt das nicht, dass der Prozess einfach ist. 
+
+Wenn mir jemand diesen Kommentar macht, antworte ich normalerweise: „Was hat das damit zu tun?“ Viele Dinge sind nicht einfach. 
+
+Ein Instrument zu lernen ist nicht einfach, aber es bereichert uns unser ganzes Leben. 
+
+In einer wirklich unangenehmen Situation völlig präsent, distanziert und unter Kontrolle zu sein, könnte als schwierig beschrieben werden und erfordert Übung, aber es fühlt sich so viel besser an, als Angst und negative Emotionen zu erleben, über die wir keine Kontrolle haben. 
+
+Tatsächlich gehen die meisten Dinge, die es wert ist, im Leben erreicht zu werden, mit einem Gefühl der Schwierigkeit einher. 
+
+Es ist einfach ein normaler Teil des Prozesses und sollte als solcher und nicht als Abschreckung betrachtet werden.
+
+[It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
+
+

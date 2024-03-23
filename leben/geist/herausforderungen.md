@@ -301,6 +301,18 @@ Diejenigen von uns, die sich diese Denkweise zu eigen machten, hatten Erfolg.
 
 [Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
 
+## Herausforderungen = Schritte zur Meisterschaft
+
+Wenn Sie sich in einer Situation befinden, die ein Gefühl des Kampfes hervorruft, bedeutet das in Wirklichkeit, dass Sie dabei sind, diese bestimmte Situation zu meistern. 
+
+Wenn Sie es bereits beherrschen würden, wären Sie bereits gut darin und würden es wahrscheinlich nicht bemerken, weil es mühelos wäre. 
+
+Der Schlüssel hier ist, dass wir dieses Gefühl des Kampfes nicht als schlecht beurteilen müssen. Wir können es als ein Bewusstsein dafür interpretieren, dass wir gerade dabei sind, unsere Fähigkeiten in dieser bestimmten Aktivität zu entwickeln. 
+
+Wenn ich mit Menschen arbeite, frage ich sie: „Wenn Sie wirklich gut mit dieser besonderen Situation umgehen könnten, würden Sie es gerne sein? Möchten Sie so gut darin sein, dass Sie das inspirierende Gefühl verspüren, das entsteht, wenn Sie etwas meistern, das früher schwierig war?“
+
+[It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

@@ -284,6 +284,22 @@ Die einzige zuverlässige Methode zur Überwindung von Selbstzweifeln und negati
 
 [10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
 
+## Die Mathematik des Herzens
+
+Mathematik des Herzens geht davon aus, dass es eine direkte Beziehung und Kommunikation zwischen unserem Herzen, unserem Gehirn und unserem sympathischen und parasympathischen Nervensystem gibt. 
+
+Das Herz verfügt über ein eigenes Nervensystem mit Nervenzellen, die den Nervenzellen im Gehirn sehr ähnlich sind. 
+
+Das fetale Herz beginnt zu schlagen, bevor die Entwicklung des Gehirns und des Zentralnervensystems abgeschlossen ist. 
+
+Das Herz sendet neunmal mehr Nachrichten an das Gehirn als das Gehirn an das Herz. Aus diesem Grund kommt es oft, wenn wir an etwas denken, von einem Gefühl aus, das im Herzen entstand, das dann an das Gehirn weitergeleitet und als Gedanke erlebt wurde. 
+
+Außerdem strahlt das Herz ein sehr großes und messbares elektromagnetisches Feld aus, das sich bis zu acht Fuß außerhalb des Körpers erstreckt. 
+
+Mit anderen Worten: Die Frequenzen unserer Gefühle enden nicht an den Grenzen unseres Körpers. Es gibt Daten in diesen Frequenzen.
+
+[It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

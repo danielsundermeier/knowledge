@@ -116,6 +116,16 @@ Wenn Sie es gut verwalten, können Sie mehr Zeit und Energie auf Ihre zielgerich
 
 [Hyperfocus](https://www.goodreads.com/book/show/36959766-hyperfocus)
 
+## Bewusstes Denken
+
+Wenn der Abzug betätigt wird, möchte ich, dass Sie die Situation zunächst als Beobachter betrachten. Ich möchte, dass Sie die Situation als Gelegenheit sehen, eine neue Reaktion auszuführen, für die Sie sich in Momenten der Reflexion bewusst entschieden haben, und dass Selbstanalyse ein besserer Weg ist, mit dieser Situation umzugehen. Ich möchte, dass Sie Ihrer konditionierten Reaktion einen Schritt voraus sind, damit Sie sich im Augenblick das Privileg leisten, eine Wahl zu treffen. Selbst wenn Sie das Gefühl haben, dass Sie eine neue Strategie nicht perfekt oder nicht einmal gut umsetzen, ist das Bewusstsein, dass Sie eine Wahl haben, der Weg zu bewusstem Denken. An sich ist das eine wichtige Form des Erfolgs. Der Rest ist eine Frage der Wiederholung und Verfeinerung der Mechanik ohne Wertung.
+
+Viktor Frankl war ein Wiener Psychiater, der den größten Teil des Zweiten Weltkriegs in einem Konzentrationslager der Nazis verbrachte, eine Erfahrung, die er in seinem Buch „Man’s Search for Meaning“ beschreibt. Frankl wird oft das berühmte Zitat zugeschrieben: „Zwischen Reiz und Reaktion gibt es einen Raum.“ In diesem Raum liegt unsere Macht, unsere Antwort zu wählen. In unserer Antwort liegt unser Wachstum und unsere Freiheit.“
+
+In jedem Gedanken steckt ein Gefühl, eine Emotion. Dieser Gedanke kommt entweder von Ihrem wahren Selbst, dem Beobachter, oder es ist eine konditionierte Reaktion, die in Ihrem Unterbewusstsein gespeichert ist. Sie können seinen Ursprung erkennen, indem Sie sich einfach die folgende Frage stellen: „Wenn ich die Wahl hätte, diesen Gedanken aufzugeben, würde ich ihn annehmen?“ Alles, was wir tun, dient der Belohnung, die wir durch die Emotionen, das Glücksgefühl, erfahren. Ob es um eine Sache, ein Ergebnis, eine Beziehung, mehr Geld usw. geht, die Hauptmotivation besteht darin, das Gefühl von Glückseligkeit und Glück zu erleben.
+
+[It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

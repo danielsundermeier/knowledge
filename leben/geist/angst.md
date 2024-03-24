@@ -215,6 +215,24 @@ Nachdem ich die Entscheidung getroffen hatte, machte ich mich bald auf den Weg n
 
 [The Soul of a Butterfly](https://www.goodreads.com/book/show/536955.The_Soul_of_a_Butterfly)
 
+## Amygdala in Schach halten
+
+Obwohl es in keinem Wettbewerbsumfeld möglich ist, die Unsicherheit zu beseitigen, ist es dennoch möglich, die Amygdala durch recht einfache psychologische Ansätze in Schach zu halten. 
+
+Die Amygdala verfügt über eine Eingangs- und eine Ausgangsstufe. Die seitliche Amygdala dient als Eingabestadium und stellt die Assoziationen zwischen Umweltreizen und unangenehmen Ereignissen her. 
+
+Für die Aktivierung der Stressreaktion ist jedoch vor allem der zentrale Teil der Amygdala verantwortlich. Auch wenn eine konditionierte Angst nie verschwindet, kann der Ausdruck dieser Angst gehemmt werden. 
+
+Eine der wirksamsten Strategien zur Regulierung des Ausdrucks von Angst ist eine Technik namens kognitive Neubewertung. 
+
+Dies bedeutet einfach, emotionale Informationen so umzudeuten, dass die emotionale Komponente verringert wird.
+
+Es gibt immer mehr neurobiologische Beweise dafür, dass der präfrontale Kortex die Amygdala hemmt, wenn Menschen emotionale Umstände neu bewerten. 
+
+Eine kürzlich durchgeführte fMRT-Studie ergab, dass die Aktivität im präfrontalen Kortex in einem Ausmaß zunahm, das mit der Abnahme der Amygdala korrelierte, wenn es Menschen gelang, emotionale Szenen neu zu bewerten, d. h. sie ersetzten eine negative Reaktion durch eine positive.
+
+[Iconoclast](https://www.goodreads.com/book/show/4351499-iconoclast)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

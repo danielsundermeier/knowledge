@@ -187,6 +187,24 @@ Wenn der Versuch, etwas zu ändern, stressig ist, denken Sie, dass mit Ihrem Zie
 
 [Happier](https://www.goodreads.com/book/show/302971.Happier)
 
+## Kurzfristig gegen chronisch austauschen
+
+Stress ist unvermeidbar und man kann sein Leben nicht auf der Flucht vor dem Stress leben. 
+
+Die gute Nachricht ist, dass Stress Chancen schafft (denken Sie an eine Neubewertung!). 
+
+Wenn Einzelpersonen alle Stressquellen als Chance neu bewerten, etwas Neues zu entdecken oder eine Marktnische zu finden, vor der andere Menschen Angst haben, kann der Stress selbst abnehmen. 
+
+Wenn dies nicht möglich ist, kann die Strategie, einen chronischen durch einen kurzfristigen Stress zu ersetzen, sehr effektiv sein. 
+
+Paradoxerweise ist körperliche Bewegung, die einen kurzfristigen Stressfaktor darstellt, vielleicht das beste Mittel gegen chronischen Stress. 
+
+Ebenso kann die Person, die sich von Unsicherheit oder sozialem Stress am Arbeitsplatz überwältigt fühlt, von der Übernahme von Projekten mit definierten Enden profitieren. 
+
+Obwohl diese Maßnahmen kurzfristig den Stress erhöhen können, kann ihre Durchführung tatsächlich zu einer Verringerung des Gesamtstresses führen.
+
+[Iconoclast](https://www.goodreads.com/book/show/4351499-iconoclast)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

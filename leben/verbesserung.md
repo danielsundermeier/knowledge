@@ -355,6 +355,24 @@ Aber wenn Sie sich nicht ständig weiterentwickeln, wachsen und verändern, werd
 
 [You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
 
+## Jeden Tag ein bisschen besser werden
+
+Als ich Basketball unterrichtete, forderte ich meine Spieler auf, noch am selben Tag ihr Bestes zu geben, um sich zu verbessern und das Training zu einem Meisterwerk zu machen.
+
+Zu oft lassen wir uns von Dingen ablenken, die außerhalb unserer Kontrolle liegen. Gegen gestern kann man nichts machen. Die Tür zur Vergangenheit wurde verschlossen und der Schlüssel weggeworfen. Du kannst nichts gegen morgen tun. Es kommt noch. Allerdings wird morgen zu einem großen Teil davon bestimmt, was Sie heute tun. Machen Sie also heute ein Meisterwerk. Sie haben die Kontrolle darüber.
+
+Diese Regel ist im Leben noch wichtiger als Basketball. Man muss sich jeden Tag anstrengen, um ein bisschen besser zu werden. Wenn Sie sich der Aufgabe widmen, im Laufe der Zeit jeden Tag ein wenig besser zu werden, werden Sie viel besser. Nur dann können Sie das Beste aus sich herausholen. Es beginnt damit, dass man jeden Tag zählt und weiß, dass man einen verlorenen Tag nie wieder gutmachen kann.
+
+Wenn man sich jeden Tag ein wenig verbessert, passieren irgendwann große Dinge. Wenn Sie Ihre Kondition jeden Tag ein wenig verbessern, erzielen Sie letztendlich eine große Verbesserung Ihrer Kondition. Nicht morgen, nicht übermorgen, aber irgendwann wird ein großer Gewinn erzielt. Suchen Sie nicht nach der großen, schnellen Verbesserung. Suchen Sie jeden Tag nach der kleinen Verbesserung. Nur so passiert es – und wenn es passiert, bleibt es.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
+## Das Team verbessern, indem wir uns selbst verbessern
+
+Der beste Weg, das Team zu verbessern, besteht darin, uns selbst zu verbessern.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

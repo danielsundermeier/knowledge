@@ -96,6 +96,14 @@ Mit der richtigen Neuausrichtung können wir für alles dankbar sein – auch f�
 
 [Gratitude Works!](https://www.goodreads.com/book/show/16234921-gratitude-works)
 
+## Wir danken für unseren Segen
+
+So often we fail to acknowledge what we have because we’re so concerned about what we want. We fail to give real thanks for the many blessings for which we did nothing: our life itself, the flowers, the trees, our family and friends. This moment. All of our blessings we take for granted so much of the time.
+
+A wise person once observed, “How much more pleasant this world would be if we magnified our blessings the way we magnify our disappointments.”
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

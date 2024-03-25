@@ -375,6 +375,30 @@ Zielklarheit ist wichtig, aber auch Prozessklarheit. Machen Sie sich für jedes 
 
 [Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
 
+## Die Grundlagen des Erfolgs
+
+Ich glaube an die Grundlagen: Aufmerksamkeit und Perfektion für kleine Details, die oft übersehen werden. Für diejenigen, die es nicht verstehen, mögen sie trivial, vielleicht sogar lächerlich erscheinen, aber das sind sie nicht. Sie sind von grundlegender Bedeutung für Ihren Fortschritt im Basketball, im Geschäft und im Leben. Sie machen den Unterschied zwischen Champions und Beinahe-Champions aus.
+
+Zum Beispiel habe ich bei der ersten Mannschaftsbesprechung jeder Saison, die zwei Wochen vor unserem ersten eigentlichen Training stattfand, persönlich demonstriert, wie ich den Spielern jedes Mal das Anziehen ihrer Socken ermöglichen sollte: Rollen Sie die Socken vorsichtig über die Zehen und den Fußballen , wölbe und um die Ferse herum und ziehe die Socke dann eng an, sodass keinerlei Falten entstehen.
+
+Wenn Sie zu viel Zeit damit verbringen, die Tricks des Handels zu erlernen, erlernen Sie das Handwerk möglicherweise nicht. Wenn Sie daran arbeiten, den einfachen Weg zu finden, arbeiten Sie nicht hart genug an den Grundlagen. Eine Zeit lang kommen Sie vielleicht damit durch, aber es gibt keinen Ersatz für die Grundlagen. Und die erste Grundvoraussetzung ist gute, altmodische harte Arbeit.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
+## Woodens Definition von Erfolg
+
+Im Jahr 1934 prägte ich schließlich meine Definition von Erfolg:
+
+Erfolg ist Seelenfrieden, der das direkte Ergebnis der Selbstzufriedenheit ist, weil man weiß, dass man sein Bestes getan hat, um das Beste zu werden, was man erreichen kann.
+
+Darüber hinaus kann letztendlich nur eine Person den Grad Ihres Erfolgs beurteilen: Sie. Denken Sie einen Moment darüber nach.
+
+Ich glaube, das ist wahrer Erfolg. Alles, was aus diesem Erfolg resultiert, ist einfach ein Nebenprodukt, sei es das Ergebnis, der Pokal, eine nationale Meisterschaft, Ruhm oder Reichtum. Sie sind allesamt Nebenprodukte des Erfolgs und nicht der Erfolg selbst, Anzeichen dafür, dass Sie vielleicht im wichtigeren Wettbewerb erfolgreich waren.
+
+Der eigentliche Wettbewerb besteht natürlich darin, Ihre persönliche Bestleistung zu erreichen, und das liegt völlig in Ihrer Hand. Wenn Sie das erreichen, haben Sie Erfolg gehabt. Zeitraum! Sie sind ein Gewinner und nur Sie wissen genau, ob Sie gewonnen haben.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

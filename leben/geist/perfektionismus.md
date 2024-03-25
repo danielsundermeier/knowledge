@@ -106,3 +106,14 @@ Welche Unsicherheiten wir auch haben, sie können als treibende Kraft in unserer
 
 [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
 
+## Der Leitstern der Perfektion
+
+Perfektion ist das, wonach Sie streben, aber Perfektion ist eine Unmöglichkeit. Das Streben nach Perfektion ist jedoch kein Ding der Unmöglichkeit. Geben Sie unter den gegebenen Bedingungen Ihr Bestes. Das ist es, was zählt.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
+## Bücher
+
+- [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)
+
+

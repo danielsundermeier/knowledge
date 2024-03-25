@@ -328,6 +328,20 @@ Dies ist ein grundlegendes Erfolgsprinzip für das Mentoring, egal ob es sich um
 
 [Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
 
+## Der realistische Optimist
+
+Ich glaube, eine meiner Stärken ist meine Fähigkeit, negative Gedanken fernzuhalten. Ich bin ein Optimist. Ich glaube, das liegt daran, dass ich mir realistische Ziele setze – Ziele, die schwer zu erreichen, aber erreichbar sind. Man könnte sagen, ich bin ein realistischer Optimist.
+
+Ziele sollten schwer zu erreichen sein, denn mit geringem Aufwand erreichte Ziele werden selten geschätzt, geben wenig persönliche Befriedigung und sind oft nicht sehr lohnenswert.
+
+Wenn Sie sich jedoch so idealistische Ziele setzen, dass Sie diese nicht erreichen können, werden Sie irgendwann entmutigt sein und aufgeben. Sie werden kontraproduktiv. Seien Sie ein realistischer Optimist.
+
+Den Jugendlichen wird gesagt: „Denken Sie groß. Alles ist möglich." So stark würde ich nie vorgehen. Ich möchte, dass sie positiv denken, aber wenn man groß denkt, fängt man oft an, zu groß zu denken, und ich glaube, das kann sehr gefährlich sein. Der Wunsch nach einem unerreichbaren Ziel führt irgendwann zu dem Gefühl: „Was nützt das?“ Dieses Gefühl kann sich auf andere Bereiche übertragen. Das ist schlecht. 
+
+Wir sollten unsere Träume im Bereich des Möglichen halten – schwierig, aber möglich – und alle Anstrengungen unternehmen, um sie zu verwirklichen.
+
+[Wooden](https://www.goodreads.com/book/show/43536.Wooden)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -205,6 +205,28 @@ Obwohl diese Maßnahmen kurzfristig den Stress erhöhen können, kann ihre Durch
 
 [Iconoclast](https://www.goodreads.com/book/show/4351499-iconoclast)
 
+## Was ist Ersticken?
+
+Ersticken unter Druck ist eine schlechte Leistung, die als Reaktion auf den wahrgenommenen Stress einer Situation auftritt. 
+
+Ersticken ist jedoch nicht einfach eine schlechte Leistung. Ersticken ist eine suboptimale Leistung. Dies geschieht, wenn Sie – oder ein einzelner Sportler, Schauspieler, Musiker oder Student – schlechtere Leistungen erbringen als in der Vergangenheit. 
+
+Diese nicht optimale Leistung spiegelt nicht nur eine zufällige Schwankung des Fähigkeitsniveaus wider – wir alle haben Leistungsschwankungen. 
+
+Dieser Choke tritt als Reaktion auf eine äußerst stressige Situation auf.
+
+[Choke](https://www.goodreads.com/book/show/9309079-choke)
+
+## Warum ersticken wir?
+
+Menschen ersticken unter Druck, weil sie sich Sorgen machen. Sie machen sich Sorgen über die Situation, ihre Folgen und darüber, was andere denken werden. 
+
+Sie machen sich Sorgen darüber, was sie verlieren werden, wenn es ihnen nicht gelingt, und ob sie über die Mittel verfügen, es zu schaffen. 
+
+Möglicherweise beschwören sie in ihrem Kopf sogar Bilder von dem unerwünschten Ergebnis herauf – der fehlerhaften Leistung, dem Fehlschuss, dem Sturz auf dem Eis.
+
+[Choke](https://www.goodreads.com/book/show/9309079-choke)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

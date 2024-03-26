@@ -77,6 +77,26 @@ Unser Atem ist dafür die beste Wahl.
 
 [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
 
+## Der ultimative Sorgenstaubsauger
+
+Forscher, die die Zen-Meditationsstudie durchführten, wollten wissen, ob die Meditationspraxis die Fähigkeit der Menschen verändert, sich von dem Eindringen eines Wortes zu erholen, das unerwartet auf dem Computerbildschirm erschien, was stark darauf hindeutet, dass Meditation auch die Erholung von Ablenkungen durch spontanes Denken verbessert. 
+
+Nach den Unterbrechungen kehrte das Gehirn des erfahrenen Meditierenden tatsächlich schneller in einen entspannten Zustand zurück als das Gehirn des Nicht-Meditierenden. 
+
+Intensive Meditationspraxis scheint das elaborierte Denken zu reduzieren, das normalerweise auftritt, wenn wir einen Gedanken bewerten, und Meditierende können ihren Geist schneller von Ablenkungen befreien als diejenigen, die nicht meditieren.
+
+Offensichtlich könnte diese Art der Gedankenkontrolle hilfreich sein, um mit Sorgen umzugehen, die in stressigen Prüfungssituationen entstehen. Die Angst, etwas zu vermasseln, führt häufig zu Leistungseinbußen, da dadurch wertvolle Arbeitsspeicherressourcen verbraucht werden, die sonst für die Prüfungsdurchführung aufgewendet werden könnten. 
+
+Indem Sie das Gehirn trainieren, negative Gedanken zu verwerfen, können Sie den negativen Auswirkungen von Stress entgegenwirken. 
+
+Diese Gedanken zu verwerfen ist nicht dasselbe wie der Versuch, sie zu ignorieren oder zu verwerfen oder zu unterdrücken, was das Arbeitsgedächtnis beansprucht. 
+
+Wenn ein besorgniserregender Gedanke aufkommt, erkennen Sie ihn an, benennen ihn (als würden Sie ihn tatsächlich identifizieren und aufschreiben), lassen ihn dann aber los. Man bindet keine weitere Intelligenz daran.
+
+Im Wesentlichen ermöglicht Meditationstraining den Menschen, Mittel zu entwickeln, um sich auf das Erlebte einzulassen und sich davon zu lösen – etwas, das äußerst nützlich ist, um Selbstzweifel in stressigen Situationen zu bekämpfen.
+
+[Choke](https://www.goodreads.com/book/show/9309079-choke)
+
 ## Bücher
 
 - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)

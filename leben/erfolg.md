@@ -395,7 +395,7 @@ Darüber hinaus kann letztendlich nur eine Person den Grad Ihres Erfolgs beurtei
 
 Ich glaube, das ist wahrer Erfolg. Alles, was aus diesem Erfolg resultiert, ist einfach ein Nebenprodukt, sei es das Ergebnis, der Pokal, eine nationale Meisterschaft, Ruhm oder Reichtum. Sie sind allesamt Nebenprodukte des Erfolgs und nicht der Erfolg selbst, Anzeichen dafür, dass Sie vielleicht im wichtigeren Wettbewerb erfolgreich waren.
 
-Der eigentliche Wettbewerb besteht natürlich darin, Ihre persönliche Bestleistung zu erreichen, und das liegt völlig in Ihrer Hand. Wenn Sie das erreichen, haben Sie Erfolg gehabt. Zeitraum! Sie sind ein Gewinner und nur Sie wissen genau, ob Sie gewonnen haben.
+Der eigentliche Wettbewerb besteht natürlich darin, Ihre persönliche Bestleistung zu erreichen, und das liegt völlig in Ihrer Hand. Wenn Sie das erreichen, haben Sie Erfolg gehabt. Sie sind ein Gewinner und nur Sie wissen genau, ob Sie gewonnen haben.
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 

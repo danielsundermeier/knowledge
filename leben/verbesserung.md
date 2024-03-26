@@ -373,6 +373,22 @@ Der beste Weg, das Team zu verbessern, besteht darin, uns selbst zu verbessern.
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 
+## Übung unter Druck macht den Meister
+
+Das Üben unter dem Druck, dem Sie in einer wichtigen Spiel- oder Turniersituation wahrscheinlich ausgesetzt sind, trägt dazu bei, ein hohes Leistungsniveau sicherzustellen, wenn es wirklich darauf ankommt. 
+
+In meinem Labor an der University of Chicago haben wir gezeigt, dass Golfer, die das Putten vor Publikum lernten, weniger ängstlich waren und unter Stress besser putten als diejenigen, die nie unter den Zuschauern trainierten. 
+
+Daher kann die halbstündige Puttübung am Ende einer Golfrunde vorteilhafter sein, wenn sie vor den Augen Ihrer Freunde stattfindet, als wenn Sie alleine sind – insbesondere, wenn Sie für Ihre Freunde jedes Mal ein Bier kaufen müssen, wenn Sie einen Schlag verfehlen . 
+
+Dies gilt auch für andere Aktivitäten wie öffentliche Reden oder das Pitchen einer Marketingkampagne. 
+
+Das Üben der Beantwortung spontaner Fragen, bevor sie sich ihnen tatsächlich in einer lebenswichtigen Situation stellen müssen, könnte genau das sein, was die Vizepräsidenten und ihre Teammitglieder brauchen, um sich auf die hochriskanten Besprechungen ihres Präsidenten vorzubereiten Sorgen über etwas machen. 
+
+Wenn Sie es gewohnt sind, von Anfang an unter Druck zu arbeiten, ist die Wahrscheinlichkeit, dass Sie ersticken, geringer, ganz gleich, was Sie tun.
+
+[Choke](https://www.goodreads.com/book/show/9309079-choke)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

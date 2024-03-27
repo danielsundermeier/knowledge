@@ -214,6 +214,58 @@ Wenn wir begreifen, dass die einzige Anerkennung, die im Leben zählt, unsere ei
 
 [Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
 
+## Das neue Du
+
+Wenn dies Ihre Persönlichkeit ist, dann erschafft Ihre Persönlichkeit Ihre persönliche Realität. So einfach ist das. 
+
+Und Ihre Persönlichkeit besteht aus Ihrem Denken, Ihrem Handeln und Ihren Gefühlen. Die gegenwärtige Persönlichkeit, die diese Seite liest, hat also die gegenwärtige Realität geschaffen, die Ihr Leben genannt wird; und das bedeutet auch, dass Sie, wenn Sie eine neue persönliche Realität – ein neues Leben – erschaffen wollen, damit beginnen müssen, die Gedanken, die Sie gedacht haben, zu untersuchen oder darüber nachzudenken und sie zu ändern. 
+
+Sie müssen sich der unbewussten Verhaltensweisen bewusst werden, die Sie gezeigt haben und die zu den gleichen Erfahrungen geführt haben, und dann müssen Sie neue Entscheidungen treffen, neue Maßnahmen ergreifen und neue Erfahrungen schaffen.
+
+Wenn Sie neue Dinge lernen und anfangen, auf neue Weise zu denken, bringen Sie Ihr Gehirn in verschiedenen Abfolgen, Mustern und Kombinationen zum Feuern. 
+
+Das heißt, Sie aktivieren viele verschiedene Netzwerke von Neuronen auf unterschiedliche Weise. Und wenn Sie Ihr Gehirn anders arbeiten lassen, ändern Sie Ihre Meinung. 
+
+Wenn Sie anfangen, über den Tellerrand zu schauen, sollten neue Gedanken zu neuen Entscheidungen, neuen Verhaltensweisen, neuen Erfahrungen und neuen Emotionen führen. 
+
+Jetzt verändert sich auch Ihre Identität.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
+## Den Fluss der Veränderung überqueren
+
+Um den Fluss der Veränderung zu überqueren, müssen Sie dasselbe vertraute, vorhersehbare Selbst verlassen – verbunden mit denselben Gedanken, denselben Entscheidungen, denselben Verhaltensweisen und denselben Gefühlen – und in eine Leere des Unbekannten eintreten. 
+
+Die Kluft zwischen dem alten und dem neuen Selbst ist der biologische Tod Ihrer alten Persönlichkeit. 
+
+Wenn das alte Selbst sterben muss, müssen Sie ein neues Selbst mit neuen Gedanken, neuen Entscheidungen, neuen Verhaltensweisen und neuen Emotionen erschaffen. 
+
+Das Betreten dieses Flusses ist ein Schritt in Richtung eines neuen, unvorhersehbaren, unbekannten Selbst. 
+
+Das Unbekannte ist der einzige Ort, an dem man etwas erschaffen kann – aus dem Bekannten kann man nichts Neues erschaffen.
+
+Manche Leute nennen dieses Erlebnis die dunkle Nacht der Seele. Es ist der Phönix, der sich selbst entzündet und zu Asche verbrennt. 
+
+Das alte Selbst muss sterben, damit ein neues wiedergeboren werden kann. Das fühlt sich natürlich unangenehm an!
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
+## Epigenetischer Ingenieur
+
+Das Wort Epigenetik bedeutet wörtlich „über den Genen“. Es bezieht sich auf die Steuerung von Genen, die nicht innerhalb der DNA selbst erfolgt, sondern durch Botschaften, die von außerhalb der Zelle kommen – mit anderen Worten, aus der Umgebung.
+
+Die Epigenetik lehrt, dass wir tatsächlich nicht durch unsere Gene zum Scheitern verurteilt sind und dass eine Veränderung im menschlichen Bewusstsein physische Veränderungen sowohl in der Struktur als auch in der Funktion im menschlichen Körper hervorrufen kann.
+
+Wir können unser genetisches Schicksal ändern, indem wir die Gene, die wir wollen, einschalten und die, die wir nicht wollen, ausschalten, indem wir mit den verschiedenen Faktoren in der Umwelt arbeiten, die unsere Gene programmieren. 
+
+Einige dieser Signale kommen aus dem Inneren des Körpers, wie etwa Gefühle und Gedanken, während andere von der Reaktion des Körpers auf die äußere Umgebung, wie etwa Umweltverschmutzung oder Sonnenlicht, herrühren.
+
+Die Epigenetik legt nahe, dass, obwohl sich unser DNA-Code nie ändert, Tausende von Kombinationen, Sequenzen und Mustervariationen in einem einzelnen Gen möglich sind (genauso wie Tausende von Kombinationen, Sequenzen und Mustern neuronaler Netzwerke im Gehirn möglich sind).
+
+Jetzt können Sie verstehen, dass Sie mit jedem Gedanken, den Sie denken, jeder Emotion, die Sie fühlen, und jedem Ereignis, das Sie erleben, als epigenetischer Ingenieur Ihrer eigenen Zellen agieren, egal ob es freudig oder stressig ist. Du kontrollierst dein Schicksal.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

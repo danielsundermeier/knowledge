@@ -152,6 +152,26 @@ Wir können es aber auch anders sehen. Der Amateur liebt es nicht genug. Wenn es
 
 [The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art)
 
+## Unser Leben ist unsere Einführung in die Größe
+
+Es gibt keine Schulen uralter spiritueller Weisheit, die hoch oben auf den Berggipfeln im Himalaya sitzen und darauf warten, uns in die Mystik und den Heiligentum einzuweihen. 
+
+Unser Leben ist unsere Einführung in die Größe. 
+
+Vielleicht sollten Sie und ich das Leben als Chance sehen, immer größere Ebenen unseres Selbst zu erreichen, damit wir unsere eigenen Grenzen mit einem erweiterten Bewusstseinsniveau überwinden können. 
+
+So sieht es ein Pragmatiker und nicht ein Opfer.
+
+Die vertrauten Denkweisen über das Leben aufzugeben, um neue Paradigmen anzunehmen, wird sich am Anfang unnatürlich anfühlen. 
+
+Ehrlich gesagt ist es anstrengend – und es ist unangenehm. 
+
+Warum? Denn wenn wir uns verändern, fühlen wir uns nicht mehr wie wir selbst. 
+
+Meine Definition von Genie ist also, sich unwohl zu fühlen und damit einverstanden zu sein, dass man sich unwohl fühlt.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

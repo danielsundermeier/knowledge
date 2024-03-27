@@ -300,6 +300,22 @@ Mit anderen Worten: Die Frequenzen unserer Gefühle enden nicht an den Grenzen u
 
 [It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
 
+## Geistige Probe
+
+Dies ist durch mentale Proben möglich. Bei dieser Technik schließen Sie im Wesentlichen die Augen und stellen sich immer wieder vor, eine Handlung auszuführen, und denken im Geiste über die Zukunft nach, die Sie sich wünschen, während Sie sich gleichzeitig daran erinnern, wer Sie nicht mehr sein möchten (das alte Ich) und wer Sie sein möchten. 
+
+Dieser Prozess beinhaltet das Nachdenken über Ihre zukünftigen Handlungen, die mentale Planung Ihrer Entscheidungen und die Konzentration Ihres Geistes auf die neue Erfahrung.
+
+Indem Sie Ihren Fokus auf dieses zukünftige Ereignis richten und sich nicht von anderen Gedanken ablenken lassen, verringern Sie in wenigen Augenblicken die Lautstärke der neuronalen Schaltkreise, die mit dem alten Selbst verbunden sind, was beginnt, die alten Gene auszuschalten, und Sie feuern und verdrahten neue neuronale Schaltkreise, die die richtigen Signale auslösen, um neue Gene auf neue Weise zu aktivieren. 
+
+Dank der zuvor besprochenen Neuroplastizität beginnen sich die Schaltkreise in Ihrem Gehirn neu zu organisieren, um das widerzuspiegeln, was Sie im Geiste proben. Und während Sie Ihre neuen Gedanken und mentalen Bilder immer wieder mit dieser starken, positiven Emotion verbinden, arbeiten Ihr Geist und Ihr Körper zusammen – und Sie befinden sich jetzt in einem neuen Seinszustand.
+
+An diesem Punkt sind Ihr Gehirn und Ihr Körper keine Aufzeichnungen der Vergangenheit mehr; Sie sind eine Karte der Zukunft – einer Zukunft, die Sie in Ihrem Kopf geschaffen haben. 
+
+Ihre Gedanken sind zu Ihrer Erfahrung geworden und Sie wurden einfach zum Placebo.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

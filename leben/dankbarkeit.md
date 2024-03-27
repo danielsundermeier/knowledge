@@ -104,6 +104,20 @@ A wise person once observed, “How much more pleasant this world would be if we
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 
+## Dankbarkeit für das Kommende
+
+Andererseits öffnen Emotionen wie Dankbarkeit und Wertschätzung Ihr Herz und heben die Energie in Ihrem Körper an einen neuen Ort – aus den unteren Hormonzentren. 
+
+Dankbarkeit ist eine der stärksten Emotionen zur Steigerung Ihrer Suggestibilität. 
+
+Es lehrt Ihren Körper emotional, dass das Ereignis, für das Sie dankbar sind, bereits eingetreten ist, denn normalerweise bedanken wir uns, nachdem ein wünschenswertes Ereignis eingetreten ist.
+
+Wenn Sie das Gefühl der Dankbarkeit vor dem eigentlichen Ereignis zum Ausdruck bringen, beginnt Ihr Körper (als Unterbewusstsein) zu glauben, dass das zukünftige Ereignis tatsächlich bereits stattgefunden hat – oder Ihnen im gegenwärtigen Moment widerfährt. 
+
+Dankbarkeit ist daher der ultimative Zustand der Empfangsbereitschaft.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

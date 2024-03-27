@@ -97,6 +97,14 @@ Im Wesentlichen ermöglicht Meditationstraining den Menschen, Mittel zu entwicke
 
 [Choke](https://www.goodreads.com/book/show/9309079-choke)
 
+## Öffnen Sie die Tür zu Ihrem Unterbewusstsein
+
+Wenn es bei der Meditation darum geht, in das autonome System einzudringen, damit wir beeinflussbarer werden und die gerade genannten Herausforderungen meistern können, dann müssen wir wissen, wie wir dorthin gelangen. 
+
+Die kurze Antwort ist, dass wir durch eine Geistesblitz dorthin gelangen. Der Gehirnzustand, in dem wir uns gerade befinden, hat einen großen Einfluss darauf, wie beeinflussbar wir in diesem Moment sind.
+
+[You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
+
 ## Bücher
 
 - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)

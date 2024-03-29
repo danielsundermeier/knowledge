@@ -371,6 +371,28 @@ Eine wachstumsorientierte Denkweise ist unerlässlich, um den Schmerz und das El
 
 [Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
 
+## Eine Zehntelsekunde
+
+Jetzt kommt es also auf Ihre Überzeugungen an. Es geht darum, wie du mit dir selbst sprichst. Es geht darum, wie du mit dir selbst umgehst, wie du mit dir selbst sprichst, was du über dich selbst glaubst. 
+
+Ich spreche nicht davon, ein Roboter zu werden. Wenn du versagst, tut es weh. Und das sollte es auch! Das solltest du dir selbst spüren lassen. 
+
+Ich habe gerade einen Homerun aufgegeben und bin nicht glücklich. Ich werde zugeben, dass diese Sache passiert ist, und dann werde ich mir die Erlaubnis geben, mich deswegen beschissen zu fühlen.
+
+Für eine Zehntelsekunde.
+
+Drücken Sie den Startknopf der Stoppuhr. Fühlen wie Mist. Drücken Sie die Stopp-Taste.
+
+00:00.10
+
+Machen Sie sich jetzt wieder an die Arbeit. Wenn Sie aus dem Fehler, den Sie gerade gemacht haben, etwas lernen können, dann lernen Sie es. 
+
+Nehmen Sie die Anpassung vor. Hören Sie die Worte in Ihrem Kopf, die Ihr Engagement, Ihr Bestes zu geben, verstärken: Ich bin fähig, qualifiziert und kompetent.
+
+Und dann weitermachen. Es ist eine Eigenschaft, die so viele der größten Sportler, die ich je gekannt habe, gemeinsam haben: ein kurzes Gedächtnis. 
+
+[Stay Sane in an Insane World](https://www.goodreads.com/book/show/75405998-stay-sane-in-an-insane-world)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

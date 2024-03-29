@@ -172,6 +172,26 @@ Meine Definition von Genie ist also, sich unwohl zu fühlen und damit einverstan
 
 [You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
 
+## Das Plateau des latenten Potenzials
+
+Wenn es Ihnen schwerfällt, eine gute Angewohnheit aufzubauen oder eine schlechte aufzugeben, liegt das nicht daran, dass Sie Ihre Fähigkeit zur Verbesserung verloren haben. 
+
+Oft liegt es daran, dass Sie das Plateau des latenten Potenzials noch nicht überschritten haben. 
+
+Sich darüber zu beschweren, dass man trotz harter Arbeit keinen Erfolg hat, ist so, als würde man sich darüber beschweren, dass ein Eiswürfel nicht schmilzt, wenn man ihn von -10 auf -1 Grad erhitzt. 
+
+Ihre Arbeit war nicht verschwendet; sie wird nur gespeichert. Die ganze Aktion findet bei 0 Grad statt. 
+
+Wenn Sie endlich das Plateau des latenten Potenzials durchbrechen, werden die Leute es als einen Erfolg über Nacht bezeichnen.
+
+Meisterschaft erfordert Geduld. 
+
+Die San Antonio Spurs, eines der erfolgreichsten Teams in der NBA-Geschichte, haben ein Zitat des Sozialreformers Jacob Riis in ihrer Umkleidekabine hängen: 
+
+„Wenn nichts zu helfen scheint, schaue ich mir vielleicht einen Steinmetz an, der an seinem Stein herumhämmert. Hundert Mal, ohne dass sich auch nur ein einziger Riss darin zeigte. Doch beim hundertersten Schlag wird es in zwei Teile geteilt, und ich weiß, dass es nicht der letzte Schlag war, der es verursacht hat – sondern alles, was davor passiert ist.“
+
+[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

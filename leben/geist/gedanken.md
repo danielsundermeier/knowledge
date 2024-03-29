@@ -316,6 +316,32 @@ Ihre Gedanken sind zu Ihrer Erfahrung geworden und Sie wurden einfach zum Placeb
 
 [You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
 
+## Manifestieren richtig gemacht
+
+Die meisten Menschen manifestieren falsch, weil sie versuchen, das Endergebnis zu visualisieren und heraufzubeschwören: das Skirennen oder den Oscar zu gewinnen, die 50 Pfund zu verlieren oder eine Million Dollar auf der Bank zu haben. 
+
+Das Manifestieren, dass falsch gemacht wurde, kann dazu führen, dass Sie stecken bleiben, denn große Träume sind zwar erstaunlich und Sie müssen sie haben, aber das Manifestieren des Endergebnisses wird Ihnen nicht dabei helfen, sie zu erreichen. 
+
+Wenn Sie richtig manifestieren, können Sie Ihre Träume wahr werden lassen – oder zumindest die Arbeit erledigen.
+
+Neurowissenschaftliche Untersuchungen haben gezeigt, dass Visualisierung die Arbeit an Ihren Zielen und Träumen erleichtert, da sie Ihr RAS so verändert, dass es Möglichkeiten erkennt, die zu dem Bild passen, das Sie gerade in Ihrem Kopf erstellt haben. 
+
+Aber Untersuchungen der UCLA zeigen uns, dass Sie sich vorstellen müssen, wie Sie die schwierigen, lästigen, kleinen Schritte auf dem Weg zur Verwirklichung Ihrer Träume tun, damit Visualisierung Ihnen wirklich dabei hilft, Ihre Ziele zu erreichen.
+
+Das liegt daran, dass Gehirnscans gezeigt haben, dass wir dieselben Gehirnregionen stimulieren, wenn wir uns vorstellen, wie wir eine Aktion ausführen, als wenn wir tatsächlich dieselbe Aktion ausführen. 
+
+Die Visualisierung einer Aktion erhöht die Wahrscheinlichkeit, dass Sie diese Aktion ausführen. 
+
+Denken Sie daran: Es sind unsere Handlungen, die zu Ergebnissen führen. 
+
+Selbstvertrauen zu zeigen bedeutet, dass Sie sich vorstellen müssen, all die kleinen, lästigen Schritte auf dem Weg zu machen, und nicht nur im Glanz des Sieges an der Ziellinie schwelgen. 
+
+Hier geht es darum, Ihr Nervensystem und Ihren Gehirnfilter handlungsbereit zu machen. 
+
+Wenn Sie sich die Maßnahmen vorstellen, die Sie ergreifen müssen, verbinden Sie Ihren Geist und Körper mit diesen Gefühlen und sagen Ihrem RAS: „Harte Arbeit ist wichtig.“
+
+[The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

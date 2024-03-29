@@ -156,6 +156,28 @@ Wenn Sportler etwas besonders gut machen wollen, erbringen sie schlechtere Leist
 
 [Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
 
+## High Fives motivieren
+
+Die Motivationskraft eines High Five ist gut dokumentiert. Warten Sie tatsächlich, bis Sie hören, was Forscher über High Fives herausgefunden haben, als sie untersuchten, wie man Kinder angesichts herausfordernder Aufgaben am besten motiviert. 
+
+In einer Studie wurden Kinder im schulpflichtigen Alter in drei Gruppen aufgeteilt und gebeten, schwierige Aufgaben zu lösen. Dann gaben ihnen die Forscher eine von drei verschiedenen Formen der Ermutigung. 
+
+Die Kinder wurden entweder für eine Eigenschaft gelobt („Du bist so schlau.“ oder „Du bist so talentiert“), oder ihnen wurde gesagt, dass sie hart arbeiten, und sie wurden für ihren Einsatz gelobt („Du bist wirklich engagiert!“). ), oder sie bekamen einfach ein High Five.
+
+Das High Five war zweifellos der beste Motivator. 
+
+Hier ist der Grund: 
+
+Die Kinder, denen gesagt wurde, sie seien klug, talentiert oder geschickt, waren am wenigsten motiviert und hatten am wenigsten Spaß. 
+
+Diejenigen, die für ihre Bemühungen gelobt wurden, zeigten mehr Freude und zeigten ein höheres Maß an Beharrlichkeit. 
+
+Aber Kinder, die ein einfaches High Five bekommen haben? Sie fühlten sich selbst und ihre Bemühungen am positivsten und machten trotz Fehlern am längsten weiter (Beharrlichkeit, Leute!). 
+
+Tatsächlich waren die Ergebnisse so eindeutig, dass die Forscher die Studie „High Fives Motivate“ nannten, als sie sie in der Fachzeitschrift Frontiers in Psychology veröffentlichten.
+
+[The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

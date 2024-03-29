@@ -98,6 +98,45 @@ In einem solchen Fall sind unsere Probleme zu schwerwiegender, um sie lediglich 
 
 [Six Pillars of Self-Esteem](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem)
 
+## High Five
+
+Nehmen Sie sich jeden Morgen einen Moment Zeit, um bei Ihrem Spiegelbild zu sein, bevor Sie auf Ihr Telefon schauen oder die Welt hereinlassen. 
+
+Sobald Sie das Badezimmer verlassen, wird sich fast jeder Moment um andere Menschen drehen. Sie werden von Ihrem Telefon, den Vorgängen bei der Arbeit oder den Bedürfnissen Ihrer Kinder abgelenkt. 
+
+Die High-5-Gewohnheit ist jeden Morgen ein Moment für Sie. Es besteht aus zwei einfachen, aber wirkungsvollen Schritten:
+
+1. Stellen Sie sich vor den Spiegel und seien Sie für eine Sekunde bei sich.
+
+Konzentrieren Sie sich nicht auf Ihr Aussehen. Geh tiefer. Sehen Sie die Person, die sich in Ihrem Körper befindet. Der Geist unter der Haut und die Seele hinter diesem Gesicht.
+
+2. Wenn Sie sich bereit fühlen, geben Sie sich vor dem Spiegel ein High Five.
+
+Beachten Sie, wie Ihr Geist still wird. Möglicherweise spüren Sie einen Energieschub. Vielleicht verspüren Sie ein beruhigendes Gefühl: Mir geht es gut. 
+
+Sie könnten denken: Ich habe das verstanden. Es ist ein kraftvoller Moment. Ohne ein Wort zu sagen, sagst du dir selbst: Ich liebe dich. Ich sehe dich. Ich glaube an Dich. Lass uns gehen. 
+
+Überstürzen Sie es nicht. Schwelgen Sie darin. Dieser Moment ist für dich.
+
+[The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
+
+## Verhaltensaktivierungstherapie
+
+Eine der effektivsten Möglichkeiten, Ihre Meinung über sich selbst zu ändern, besteht darin, auf eine Forschungsreihe namens Verhaltensaktivierungstherapie zurückzugreifen. 
+
+Es handelt sich um eine einfache, aber äußerst wirksame Therapiemethode, die besagt: Verhalten Sie sich wie die Person, die Sie werden möchten, egal wie Sie sich gerade fühlen. 
+
+Dies erzeugt nicht nur Schwung, sondern ist auch wirkungsvoll, weil Ihr Gehirn sieht, wie Sie handeln. 
+
+Ihre alten negativen Gedanken sind so tief verwurzelt, dass Sie sich nicht einfach aus Ihren alten Gewohnheiten und Überzeugungen herausreden können. 
+
+Sie müssen sehen, wie Sie Maßnahmen ergreifen, um Veränderungen herbeizuführen.
+
+Die Aktion beweist, dass Ihre neue Überzeugung wahr ist – und das hilft Ihrem RAS, Ihren Filter noch schneller zu wechseln. 
+
+Und noch besser: Wenn Sie sich selbst so behandeln, als wären Sie würdig und liebenswert, verändern Sie nicht nur Ihr RAS, sondern bauen auch Selbstakzeptanz auf, die, wie Sie bereits gelernt haben, die wichtigste Einstellung für Glück und Zufriedenheit ist.
+
+[The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
 
 ## Bücher
 

@@ -70,6 +70,22 @@ Sobald Sie erkennen, dass Sie die einzige Person sind, die Ihrem eigenen Fortsch
 
 [You Owe You](https://www.goodreads.com/book/show/59883566-you-owe-you)
 
+## 100 Prozent zu 100 Prozent der Zeit
+
+Wie Martin Luther King Jr. sagte: „Wenn ein Mann zum Straßenfeger berufen ist, sollte er Straßen fegen, so wie Michelangelo malte oder Beethoven Musik komponierte.“
+
+Ich war nur Pförtner, aber ich habe nie vergessen: Dieser Job war nicht mein Beruf; Es war einfach das, was mir aufgetragen wurde.
+
+Ich habe die bewusste Entscheidung getroffen, in diesem Job der absolut Beste zu sein. Niemand würde jemals ein besserer Pförtner sein, Punkt. Und niemand würde die täglichen Abläufe in einem Fitnessstudio besser studieren als ich, aus meiner einzigartigen Perspektive, alles von Grund auf zu sehen.
+
+Innerhalb von sechs Monaten war ich stellvertretender Manager des Clubs.
+
+Ihr Engagement, stets Höchstleistungen zu erbringen und eine positive Einstellung zu vermitteln, wird Ihr Streben nach dem Aufstieg an die Spitze jeder Branche unterstützen.
+
+Es ist eine der produktivsten Gewohnheiten, die Sie jemals entwickeln können – eines der wichtigsten Dinge, die ich Ihnen in diesem Buch sagen werde: Üben, trainieren und proben Sie, indem Sie immer 100 Prozent geben.
+
+[Stay Sane in an Insane World](https://www.goodreads.com/book/show/75405998-stay-sane-in-an-insane-world)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

@@ -554,6 +554,52 @@ Gute Gewohnheiten schaffen gute Kunst. Die Art und Weise, wie wir etwas tun, ist
 
 [The Creative Act](https://www.goodreads.com/book/show/60965426-the-creative-act)
 
+## Nordstern der Gewohnheitsänderung
+
+Identitätsveränderung ist der Nordstern der Gewohnheitsveränderung. 
+
+Im weiteren Verlauf dieses Buches erhalten Sie Schritt-für-Schritt-Anleitungen, wie Sie bessere Gewohnheiten für sich selbst, Ihre Familie, Ihr Team, Ihr Unternehmen und überall sonst aufbauen können. 
+
+Aber die eigentliche Frage ist: „Werden Sie zu dem Typ Mensch, der Sie werden möchten?“ Der erste Schritt ist nicht was oder wie, sondern wer. 
+
+Du musst wissen, wer du sein willst. Ansonsten ist Ihr Streben nach Veränderung wie ein Boot ohne Ruder. Und deshalb fangen wir hier an.
+
+Sie haben die Macht, Ihre Überzeugungen über sich selbst zu ändern. Ihre Identität ist nicht in Stein gemeißelt. Sie haben in jedem Moment die Wahl. Sie können die Identität wählen, die Sie heute mit den Gewohnheiten stärken möchten, die Sie heute wählen. 
+
+Und das bringt uns zum tieferen Zweck dieses Buches und zum wahren Grund, warum Gewohnheiten wichtig sind.
+
+Beim Aufbau besserer Gewohnheiten geht es nicht darum, den Tag mit Life-Hacks zu vermüllen. Es geht nicht darum, jeden Abend einen Zahn mit Zahnseide zu reinigen, jeden Morgen kalt zu duschen oder jeden Tag das gleiche Outfit zu tragen. Es geht nicht darum, externe Erfolgsmaßstäbe zu erreichen, wie mehr Geld zu verdienen, Gewicht zu verlieren oder Stress abzubauen. 
+
+Gewohnheiten können Ihnen dabei helfen, all diese Dinge zu erreichen, aber im Grunde geht es dabei nicht darum, etwas zu haben. Es geht ihnen darum, jemand zu werden.
+
+Letztendlich sind Ihre Gewohnheiten wichtig, denn sie helfen Ihnen, der Typ Mensch zu werden, der Sie sein möchten. Sie sind der Kanal, durch den Sie Ihre tiefsten Überzeugungen über sich selbst entwickeln. 
+
+Im wahrsten Sinne des Wortes werden Sie zu Ihren Gewohnheiten.
+
+[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
+## Die 4 Gesetze der Verhaltensänderung
+
+Wenn ein Verhalten in einer der vier Phasen unzureichend ist, wird es nicht zur Gewohnheit. 
+
+Beseitigen Sie den Hinweis und Ihre Gewohnheit wird nie beginnen. 
+
+Reduzieren Sie das Verlangen und Sie werden nicht genug Motivation zum Handeln verspüren. 
+
+Machen Sie das Verhalten schwierig, und Sie werden es nicht schaffen. 
+
+Und wenn die Belohnung Ihren Wunsch nicht erfüllt, haben Sie keinen Grund, es in Zukunft noch einmal zu tun. 
+
+Ohne die ersten drei Schritte wird ein Verhalten nicht auftreten. Ohne alle vier wird sich ein Verhalten nicht wiederholen.
+
+Zusammenfassend lässt sich sagen, dass der Hinweis ein Verlangen auslöst, der eine Reaktion motiviert und eine Belohnung bereitstellt, die das Verlangen befriedigt und letztendlich mit dem Hinweis in Verbindung gebracht wird. 
+
+Zusammen bilden diese vier Schritte eine neurologische Rückkopplungsschleife – Hinweis, Verlangen, Reaktion, Belohnung; Hinweis, Verlangen, Reaktion, Belohnung – das ermöglicht es Ihnen letztendlich, automatische Gewohnheiten zu entwickeln. 
+
+Dieser Zyklus wird als Gewohnheitsschleife bezeichnet.
+
+[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

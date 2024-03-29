@@ -389,6 +389,90 @@ Wenn Sie es gewohnt sind, von Anfang an unter Druck zu arbeiten, ist die Wahrsch
 
 [Choke](https://www.goodreads.com/book/show/9309079-choke)
 
+## Du hast die Gabe
+
+Ich habe versucht, hier drei wichtige Themen abzudecken, aber denken Sie bitte auch daran, was ich nicht gesagt habe. 
+
+Habe ich in dieser ganzen Diskussion über „Was macht sie anders?“ jemals etwas über 2 Prozent Körperfett, einen vertikalen Sprung von 40 Zoll oder einen Sprint über 40 Meter in 4,3 Sekunden erwähnt? 
+
+Das habe ich nicht getan, und tatsächlich kann ich auf viele Menschen hinweisen, die mit solchen körperlichen Fähigkeiten gesegnet sind und in der Leichtathletik oder, leider, in irgendetwas anderem im Leben nie große Erfolge erzielen.
+
+Im weiteren Sinne könnte ich genauso gut von einem IQ von 200 oder einer anderen übermenschlichen Fähigkeit sprechen, mit der nur wenige Menschen geboren werden. 
+
+Es geht nicht darum, was Gott Ihnen gegeben hat – nicht einmal, wenn Sie wie Michael Phelps als halber Delphin geboren wurden oder über die geistige Kraft eines Gelehrten verfügen. Es geht darum, wie Sie Ihr Leben jeden Tag leben:
+
+- Trainierbar und lernbegierig sein
+- Sich dem Prozess der kontinuierlichen Selbstverbesserung verpflichtet fühlen
+- Wenn Sie glauben, dass Sie über die besondere „Extraausrüstung“ verfügen, auf die Sie zurückgreifen können, wenn Sie sie wirklich brauchen, und dass Sie gewinnen, verlieren oder unentschieden spielen, werden Sie Angst und Selbstzweifel (Ihre größten Feinde) überwinden und alles geben, was Sie haben, egal wie das Ergebnis ausfällt
+
+Dies sind die drei Dinge, die Sie brauchen, um der absolute Beste und eine bedeutende Kraft im Universum zu sein – nicht nur in der Leichtathletik, sondern auch in Ihrer Karriere, in Ihren Beziehungen, in allem, was Sie tun.
+
+Im weiteren Verlauf dieses Buches werde ich über einige Dinge sprechen, die großartige Sportler haben – Sie haben sie auch.
+
+Lassen Sie uns einen Weg finden, all diese Eigenschaften zu den treibenden Kräften in Ihrem Leben zu machen. Und Sie werden unaufhaltsamer sein.
+
+[Stay Sane in an Insane World](https://www.goodreads.com/book/show/75405998-stay-sane-in-an-insane-world)
+
+## Keine Lust?
+
+Was ist, wenn ich keine Lust dazu habe? Mach es trotzdem. 
+
+Einer der Gründe dafür, dass Sie in Ihrem Leben nicht das haben, was Sie wollen, liegt darin, dass Sie es nicht tun, wenn Sie keine Lust dazu haben. 
+
+Ihr Leben wird nur einfacher, wenn Sie ständig die schwierigen Dinge tun. 
+
+[The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
+
+## Warum kleine Veränderungen zu bemerkenswerten Ergebnissen führen
+
+Es ist so leicht, die Bedeutung eines entscheidenden Moments zu überschätzen und den Wert kleiner Verbesserungen im Alltag zu unterschätzen. 
+
+Allzu oft sind wir davon überzeugt, dass großer Erfolg massive Maßnahmen erfordert. 
+
+Ob es darum geht, Gewicht zu verlieren, ein Unternehmen aufzubauen, ein Buch zu schreiben, eine Meisterschaft zu gewinnen oder irgendein anderes Ziel zu erreichen, wir setzen uns selbst unter Druck, um eine weltbewegende Verbesserung zu erzielen, über die jeder reden wird.
+
+Eine Verbesserung um 1 Prozent ist nicht besonders bemerkenswert – manchmal fällt sie nicht einmal auf –, kann aber weitaus bedeutungsvoller sein, insbesondere auf lange Sicht. 
+
+Der Unterschied, den eine kleine Verbesserung im Laufe der Zeit machen kann, ist erstaunlich. 
+
+So funktioniert die Rechnung: Wenn Sie ein Jahr lang jeden Tag ein Prozent besser werden, werden Sie am Ende siebenunddreißig Mal besser sein, wenn Sie fertig sind. 
+
+Wenn sich Ihr Gesundheitszustand ein Jahr lang jeden Tag um 1 Prozent verschlechtert, sinkt Ihr Gesundheitszustand hingegen fast auf Null. 
+
+Was als kleiner Sieg oder kleiner Rückschlag beginnt, steigert sich zu etwas viel Größerem.
+
+Gewohnheiten sind der Zinseszins der Selbstverbesserung. 
+
+So wie sich Geld durch Zinseszinsen vervielfacht, vervielfachen sich auch die Auswirkungen Ihrer Gewohnheiten, wenn Sie sie wiederholen. 
+
+Sie scheinen an einem bestimmten Tag kaum einen Unterschied zu machen, und dennoch kann die Wirkung, die sie über Monate und Jahre hinweg entfalten, enorm sein. 
+
+Erst wenn man zwei, fünf oder vielleicht zehn Jahre später zurückblickt, wird der Wert guter Gewohnheiten und der Preis schlechter Gewohnheiten deutlich deutlich.
+
+[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
+## Das Sorites-Paradoxon
+
+Es gibt ein antikes griechisches Gleichnis namens Sorites-Paradoxon, in dem es um die Wirkung geht, die eine kleine Handlung haben kann, wenn sie oft genug wiederholt wird. 
+
+Eine Formulierung des Paradoxons lautet wie folgt: Kann eine Münze einen Menschen reich machen? 
+
+Wenn Sie einer Person einen Stapel von zehn Münzen geben, würden Sie nicht behaupten, dass sie oder er reich ist. Aber was ist, wenn Sie noch einen hinzufügen? Und einen weiteren? Und einen weiteren? Irgendwann werden Sie zugeben müssen, dass niemand reich sein kann, wenn nicht eine Münze ihn reich machen kann.
+
+Das Gleiche können wir über Gewohnheiten sagen. Kann eine kleine Veränderung Ihr Leben verändern? 
+
+Es ist unwahrscheinlich, dass Sie das sagen würden. Aber was wäre, wenn Sie noch eine machen würden? Und eine weitere? Und eine weitere? Irgendwann werden Sie zugeben müssen, dass sich Ihr Leben durch eine kleine Veränderung verändert hat.
+
+Der heilige Gral der Gewohnheitsänderung ist nicht eine einzelne 1-Prozent-Verbesserung, sondern tausend davon. Es handelt sich um eine Ansammlung atomarer Gewohnheiten, von denen jede eine grundlegende Einheit des Gesamtsystems darstellt.
+
+Das Geheimnis dauerhafter Ergebnisse besteht darin, niemals aufzuhören, Verbesserungen vorzunehmen. 
+
+Es ist bemerkenswert, was man aufbauen kann, wenn man einfach nicht aufhört.
+
+Kleine Gewohnheiten summieren sich nicht. Sie verstärken sich. Das ist die Kraft atomarer Gewohnheiten. Winzige Veränderungen. Bemerkenswerte Ergebnisse.
+
+[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

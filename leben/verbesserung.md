@@ -473,6 +473,60 @@ Kleine Gewohnheiten summieren sich nicht. Sie verstärken sich. Das ist die Kraf
 
 [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 
+## Hast du dein Leben aufgeräumt?
+
+Berücksichtigen Sie Ihre Umstände. Fangen Sie klein an. Haben Sie die sich Ihnen bietenden Möglichkeiten voll ausgeschöpft? 
+
+Arbeiten Sie hart an Ihrer Karriere oder sogar an Ihrem Job, oder lassen Sie zu, dass Bitterkeit und Groll Sie zurückhalten und nach unten ziehen? 
+
+Hast du Frieden mit deinem Bruder geschlossen? 
+
+Behandeln Sie Ihren Ehepartner und Ihre Kinder mit Würde und Respekt? 
+
+Haben Sie Gewohnheiten, die Ihre Gesundheit und Ihr Wohlbefinden zerstören? 
+
+Nehmen Sie Ihre Verantwortung wirklich wahr? 
+
+Haben Sie Ihren Freunden und Familienmitgliedern gesagt, was Sie sagen müssen? 
+
+Gibt es Dinge, die Sie tun könnten, von denen Sie wissen, dass Sie sie tun könnten, um die Dinge um Sie herum zu verbessern?
+
+Hast du dein Leben aufgeräumt?
+
+Wenn die Antwort „Nein“ lautet, können Sie Folgendes versuchen: Hören Sie auf, das zu tun, von dem Sie wissen, dass es falsch ist. 
+
+Beginnen Sie noch heute mit dem Stoppen. Verschwenden Sie keine Zeit damit, zu hinterfragen, woher Sie wissen, dass das, was Sie tun, falsch ist, wenn Sie sicher sind, dass es falsch ist. 
+
+Unangemessene Fragen können verwirren, ohne aufzuklären, und Sie vom Handeln abhalten. Sie können wissen, dass etwas falsch oder richtig ist, ohne zu wissen, warum. 
+
+Ihr gesamtes Wesen kann Ihnen etwas sagen, das Sie weder erklären noch artikulieren können. Jeder Mensch ist zu komplex, um sich selbst vollständig zu kennen, und wir alle enthalten Weisheit, die wir nicht verstehen können.
+
+Hören Sie also einfach auf, wenn Sie, wie vage auch immer, befürchten, dass Sie aufhören sollten. 
+
+Hören Sie auf, auf diese besondere, verabscheuungswürdige Weise zu handeln. 
+
+Hören Sie auf, Dinge zu sagen, die Sie schwach und beschämt machen. 
+
+Sagen Sie nur die Dinge, die Sie stark machen. 
+
+Tun Sie nur die Dinge, über die Sie mit Ehre sprechen können.
+
+[12 Rules for Life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
+
+## Dein Sein ist in deinem Werden
+
+Es gibt keinen Erleuchteten. Es gibt nur denjenigen, der nach weiterer Erleuchtung sucht. 
+
+Das eigentliche Sein ist ein Prozess, kein Zustand; eine Reise, kein Ziel. 
+
+Es ist die ständige Transformation dessen, was Sie wissen, durch die Begegnung mit dem, was Sie nicht wissen, und nicht das verzweifelte Festhalten an der Gewissheit, die ohnehin auf ewig unzureichend ist. 
+
+Stellen Sie Ihr Werden immer über Ihr gegenwärtiges Wesen. Das bedeutet, dass es notwendig ist, Ihre Unzulänglichkeit zu erkennen und zu akzeptieren, damit diese kontinuierlich behoben werden kann. 
+
+Das ist sicherlich schmerzhaft – aber es ist ein gutes Geschäft.
+
+[12 Rules for Life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

@@ -17,3 +17,4 @@
 - [The Earth Awaits](https://www.theearthawaits.com/)
 - [Die falschen Versprechen des Reisens](https://www.deutschlandfunk.de/die-falschen-versprechen-des-reisens-100.html)
 - [Join the crew](https://join-the-crew.com/de/)
+- [Remotepunks](https://www.remotepunks.com/)

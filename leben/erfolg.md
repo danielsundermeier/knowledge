@@ -399,6 +399,20 @@ Der eigentliche Wettbewerb besteht natürlich darin, Ihre persönliche Bestleist
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 
+## Lass es geschehen
+
+Deshalb ermahne ich meine Studierenden in Europa und Amerika immer wieder: Strebe nicht nach Erfolg – je mehr du ihn anstrebst und zur Zielscheibe machst, desto mehr wirst du ihn verfehlen. 
+
+Denn Erfolg kann ebenso wie Glück nicht angestrebt werden; Es muss dazu kommen, und zwar nur als unbeabsichtigte Nebenwirkung des persönlichen Engagements für eine Sache, die größer ist als man selbst, oder als Nebenprodukt der Hingabe an eine andere Person als sich selbst. 
+
+Glück muss passieren, und das Gleiche gilt auch für Erfolg: Man muss es geschehen lassen, ohne sich darum zu kümmern. 
+
+Ich möchte, dass Sie auf die Gebote Ihres Gewissens hören und diese dann nach bestem Wissen und Gewissen ausführen. 
+
+Dann werden Sie erleben, dass Ihnen auf lange Sicht der Erfolg folgen wird, gerade weil Sie vergessen haben, darüber nachzudenken.
+
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

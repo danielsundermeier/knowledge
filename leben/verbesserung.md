@@ -527,6 +527,12 @@ Das ist sicherlich schmerzhaft – aber es ist ein gutes Geschäft.
 
 [12 Rules for Life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
 
+## Ihr Potenzial wartet
+
+Was der Mensch eigentlich braucht, ist kein spannungsloser Zustand, sondern das Streben und Ringen um ein ihm würdiges Ziel. Was er braucht, ist nicht die Entspannung um jeden Preis, sondern der Ruf eines möglichen Sinns, der darauf wartet, von ihm erfüllt zu werden.
+
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

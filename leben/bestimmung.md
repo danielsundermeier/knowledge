@@ -417,6 +417,22 @@ Laut Covey muss man, bevor man ein gutes, sinnvolles Leben führen kann, wissen,
 
 [Embrace the Suck](https://www.goodreads.com/book/show/53019094-embrace-the-suck)
 
+## Logotherapie
+
+Letztendlich sollte der Mensch nicht nach dem Sinn seines Lebens fragen, sondern er muss erkennen, dass er es ist, der gefragt wird. Mit einem Wort, jeder Mensch wird vom Leben in Frage gestellt; und er kann sich gegenüber dem Leben nur verantworten, indem er für sein eigenes Leben einsteht; Auf das Leben kann er nur antworten, indem er Verantwortung übernimmt.
+
+Es betrachtet den Menschen als ein Wesen, dessen Hauptanliegen darin besteht, einen Sinn zu erfüllen und Werte zu verwirklichen, und nicht in der bloßen Befriedigung und Befriedigung von Trieben und Instinkten.
+
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
+## Missionen
+
+Jeder hat seine eigene spezifische Berufung oder Mission im Leben. Darin kann er weder ersetzt noch sein Leben wiederholt werden. Somit ist jede Aufgabe so einzigartig wie die konkrete Möglichkeit, sie umzusetzen.
+
+Ein Mensch, der sich der Verantwortung bewusst wird, die er gegenüber einem Menschen trägt, der liebevoll auf ihn wartet, oder gegenüber einem unvollendeten Werk, wird niemals in der Lage sein, sein Leben wegzuwerfen. Er kennt das „Warum“ seiner Existenz und wird fast jedes „Wie“ ertragen können.
+
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

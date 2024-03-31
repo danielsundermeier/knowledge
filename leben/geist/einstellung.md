@@ -86,6 +86,12 @@ Es ist eine der produktivsten Gewohnheiten, die Sie jemals entwickeln können �
 
 [Stay Sane in an Insane World](https://www.goodreads.com/book/show/75405998-stay-sane-in-an-insane-world)
 
+## Die letzte menschliche Freiheit
+
+Einem Menschen kann man alles nehmen, bis auf eines; die letzte menschliche Freiheit – die eigene Einstellung unter allen gegebenen Umständen zu wählen, seinen eigenen Weg zu wählen.
+
+[Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

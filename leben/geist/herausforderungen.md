@@ -22,6 +22,8 @@ Wenn wir glauben, dass alles, was passiert, in unserem besten Interesse ist, wer
 
 Je schwieriger das Leben wird, umso wichtiger ist unser Protokoll. Es hilft uns das Hinderniss zu überwinden und stärker daraus hervorzugehen.
 
+> “What is to give light must endure burning.” - Victor Frankl
+
 ## Kompass
 
 Wir können Hindernisse als Zeichen sehen, dass wir auf dem richitgen Weg sind. Sie bedeuten, dass wir wachsen und etwas lernen können.

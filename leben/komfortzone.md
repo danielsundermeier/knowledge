@@ -84,5 +84,19 @@ Ermutigen Sie das Serotonin dazu, reichlich durch die Nervenbahnen zu fließen, 
 
 [12 Rules for Life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
 
+## Der Schwellenwächter
+
+Dies ist ein Traum, der den ersten oder schützenden Aspekt des Schwellenwächters hervorhebt. 
+
+Man sollte den Beobachter der festgelegten Grenzen besser nicht herausfordern. 
+
+Und doch – nur wenn das Individuum über diese Grenzen hinaus vordringt und den anderen, destruktiven Aspekt derselben Macht provoziert, gelangt es, ob lebendig oder im Tod, in eine neue Erfahrungszone. 
+
+In der Sprache der Zwerge der Andamanen bezeichnet das Wort oko-jumu („Träumer“, „jemand, der aus Träumen spricht“) jene hochgeachteten und gefürchteten Individuen, die sich von ihren Artgenossen durch den Besitz übernatürlicher Talente unterscheiden kann nur durch Treffen mit den Geistern erworben werden – direkt im Dschungel, durch außergewöhnliche Träume oder durch Tod und Rückkehr. 
+
+Das Abenteuer ist immer und überall ein Übergang über den Schleier des Bekannten ins Unbekannte; die Mächte, die an der Grenze wachen, sind gefährlich; mit ihnen umzugehen ist riskant; Doch für jeden, der kompetent und mutig ist, schwindet die Gefahr.
+
+[The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
+
 ## Bücher
 

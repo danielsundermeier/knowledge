@@ -413,6 +413,28 @@ Dann werden Sie erleben, dass Ihnen auf lange Sicht der Erfolg folgen wird, gera
 
 [Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
+## Dein ultimativer Segen
+
+Die Japaner haben ein Sprichwort: „Die Götter lachen nur, wenn Menschen zu ihnen um Reichtum beten.“ 
+
+Der Segen, der dem Anbeter zuteil wird, richtet sich immer nach seiner Statur und der Art seines vorherrschenden Verlangens: Der Segen ist einfach ein Symbol der Lebensenergie auf die Erfordernisse des Einzelfalls zurückgegriffen. 
+
+Die Ironie liegt natürlich darin, dass der Held, der die Gunst des Gottes gewonnen hat, zwar um den Segen der vollkommenen Erleuchtung betteln mag, er aber im Allgemeinen nach längeren Lebensjahren und Waffen strebt, mit denen er seinen Nächsten töten kann, oder die Gesundheit seines Kindes.
+
+Die Griechen erzählen von König Midas, der das Glück hatte, von Baccus das Angebot aller Segen zu erhalten, die er sich nur wünschen konnte. 
+
+Er verlangte, dass alles, was er berührte, in Gold verwandelt werden sollte. 
+
+Als er seinen Weg ging, pflückte er versuchsweise den Zweig einer Eiche und er war sofort goldfarben; er hob einen Stein auf; es hatte sich in Gold verwandelt; Ein Apfel war ein Goldklumpen in seiner Hand. 
+
+Begeistert befahl er, ein prächtiges Fest zur Feier des Wunders vorzubereiten. 
+
+Doch als er sich hinsetzte und seine Finger auf den Braten legte, verwandelte er sich; An seinen Lippen wurde der Wein zu flüssigem Gold. 
+
+Und als seine kleine Tochter, die er über alles auf der Welt liebte, kam, um ihn in seinem Elend zu trösten, verwandelte sie sich in dem Moment, in dem er sie umarmte, in eine hübsche goldene Statue.
+
+[The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

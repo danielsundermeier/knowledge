@@ -81,3 +81,5 @@ Applied to today, a reminder that how you live each day really does matter. It c
 > "I want to be able to get diagnosed with terminal cancer and it not change a thing about the way I live." - Joshua Medcalf
 
 > "This is perhaps the biggest revelation of the awakened brain: that it’s in our innate nature to build a better world. That what’s good for everyone is also what’s best for each one of us."— Lisa Miller, Ph.D.
+
+> "When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness." - Joseph Campbell

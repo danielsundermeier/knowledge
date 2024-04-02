@@ -393,6 +393,18 @@ Und dann weitermachen. Es ist eine Eigenschaft, die so viele der größten Sport
 
 [Stay Sane in an Insane World](https://www.goodreads.com/book/show/75405998-stay-sane-in-an-insane-world)
 
+## Segne mich, Vater, denn ich war großartig!
+
+Ramakrishna sagte einmal: Wenn du nur an deine Sünden denkst, bist du ein Sünder. 
+
+Und als ich das las, dachte ich an meine Kindheit, als ich samstags zur Beichte ging und über all die kleinen Sünden nachdachte, die ich im Laufe der Woche begangen hatte. 
+
+Jetzt denke ich, man sollte hingehen und sagen: „Segne mich, Vater, denn ich war großartig, das sind die guten Dinge, die ich diese Woche getan habe.“ 
+
+Identifizieren Sie Ihre Vorstellung von sich selbst eher mit dem Positiven als mit dem Negativen.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

@@ -44,6 +44,22 @@ Was wir aber eigentlich wollen ist eine Pause von der konzentrierten Arbeit, um 
 
 [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 
+## Dein heiliger Ort
+
+Dies ist heute für jeden eine absolute Notwendigkeit. 
+
+Sie müssen ein Zimmer oder eine bestimmte Stunde oder so am Tag haben, in dem Sie nicht wissen, was heute Morgen in den Zeitungen stand, Sie wissen nicht, wer Ihre Freunde sind, Sie wissen nicht, was Sie irgendjemandem schulden, Sie wissen nicht, was ihnen irgendjemand schuldet. 
+
+Dies ist ein Ort, an dem Sie einfach erfahren und zum Vorschein bringen können, was Sie sind und was Sie sein könnten. 
+
+Dies ist der Ort der kreativen Inkubation. 
+
+Zunächst werden Sie vielleicht feststellen, dass dort nichts passiert. 
+
+Aber wenn man einen heiligen Ort hat und ihn nutzt, wird irgendwann etwas passieren.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

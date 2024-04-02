@@ -68,6 +68,24 @@ Zusammenfassung auf www.blinkist.de anhören
 6. Rewrite the outline, now including your summaries.
 7. and above. Now, if necessary, start actively critiquing. That’s a whole different matter. And usually involves playing the author off other authors. You usually don’t get to this part. I’ll refer you back to “How to Read a Book.”
 
+## Setzen Sie sich in einen Raum und lesen Sie
+
+Setzen Sie sich in einen Raum und lesen Sie – und lesen und lesen Sie. Und lesen Sie die richtigen Bücher von den richtigen Leuten. 
+
+Ihr Geist wird auf diese Ebene gebracht und Sie erleben die ganze Zeit über eine schöne, milde, langsam brennende Verzückung. 
+
+Diese Erkenntnis des Lebens kann eine ständige Erkenntnis in Ihrem Leben sein. 
+
+Wenn Sie einen Autor finden, der Sie wirklich packt, lesen Sie alles, was er geschrieben hat. 
+
+Sagen Sie nicht: „Oh, ich möchte wissen, was der und der gemacht hat“ – und kümmern Sie sich überhaupt nicht um die Bestsellerliste. 
+
+Lesen Sie einfach, was Ihnen dieser eine Autor zu bieten hat. Und dann können Sie lesen, was er gelesen hat. 
+
+Und die Welt öffnet sich auf eine Weise, die einem bestimmten Standpunkt entspricht. Aber wenn Sie von einem Autor zum anderen gehen, können Sie uns vielleicht das Datum nennen, an dem jeder dieses oder jenes Gedicht geschrieben hat – aber er hat Ihnen nichts gesagt.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
 ## Links
 
 - [How to Effectively Read and Implement Books](http://www.asianefficiency.com/systems/how-to-effectively-read-and-implement-books/)

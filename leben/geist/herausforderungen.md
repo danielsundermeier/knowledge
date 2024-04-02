@@ -315,6 +315,18 @@ Wenn ich mit Menschen arbeite, frage ich sie: „Wenn Sie wirklich gut mit diese
 
 [It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
 
+## Amor Fati
+
+Bei Nietzsche gibt es eine wichtige Idee von Amor fati, der „Liebe zu deinem Schicksal“, die in Wirklichkeit dein Leben ist. 
+
+Wie er sagt: Wenn Sie zu einem einzigen Faktor in Ihrem Leben Nein sagen, haben Sie die ganze Sache aufgedeckt. 
+
+Darüber hinaus gilt: Je herausfordernder oder bedrohlicher die Situation oder der Kontext, die es zu assimilieren und zu bestätigen gilt, desto größer ist die Statur der Person, die dies erreichen kann. 
+
+Der Dämon, den du schlucken kannst, gibt dir seine Macht, und je größer der Schmerz des Lebens, desto größer die Antwort des Lebens.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

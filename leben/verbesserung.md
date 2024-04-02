@@ -533,6 +533,36 @@ Was der Mensch eigentlich braucht, ist kein spannungsloser Zustand, sondern das 
 
 [Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
+## Die Reise des Helden
+
+Der Standardweg des mythologischen Abenteuers des Helden ist eine großartige Formel, die in den Übergangsriten dargestellt wird: Trennung – Einweihung – Rückkehr: die man als Kerneinheit des Monomythos bezeichnen könnte.
+
+Ein Held wagt sich aus der Welt des Alltags in eine Region übernatürlicher Wunder 
+
+Dort trifft man auf sagenhafte Kräfte und es wird ein entscheidender Sieg errungen. Der Held kehrt von diesem mysteriösen Abenteuer mit der Macht zurück, seinen Mitmenschen Segen zu verleihen.
+
+Prometheus stieg in den Himmel auf, stahl den Göttern das Feuer und stieg hinab. 
+
+Jason segelte durch die Clashing Rocks in ein Meer voller Wunder, umging den Drachen, der das Goldene Vlies bewachte, und kehrte mit dem Vlies und der Macht zurück, einem Usurpator seinen rechtmäßigen Thron zu entreißen. 
+
+Aeneas stieg in die Unterwelt hinab, überquerte den schrecklichen Fluss der Toten, warf dem dreiköpfigen Wachhund Cerberus einen Schluck zu und unterhielt sich schließlich mit dem Schatten seines toten Vaters. 
+
+Ihm wurden alle Dinge offenbart: das Schicksal der Seelen, das Schicksal Roms, das er gründen wollte, „und wie er jede Last vermeiden oder ertragen konnte.“ 
+
+Er kehrte durch die Elfenbeintore zu seiner Arbeit in der Welt zurück.
+
+[The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
+
+## Die Macher der Legende haben einen kleinen Fehler gemacht
+
+Aber die Schöpfer von Legenden haben sich selten damit begnügt, die großen Helden der Welt als bloße Menschen zu betrachten, die über die Horizonte hinausgebrochen sind, die ihre Mitmenschen begrenzten, und mit solchen Segen zurückgekehrt sind, wie jeder Mann mit gleichem Glauben und Mut nur erfahren hätte können. 
+
+Im Gegenteil, die Tendenz bestand schon immer darin, dem Helden vom Augenblick der Geburt oder sogar vom Augenblick der Empfängnis an außergewöhnliche Kräfte zu verleihen. 
+
+Es wird gezeigt, dass das gesamte Heldenleben ein Fest voller Wunder war, mit dem großen zentralen Abenteuer als Höhepunkt.
+
+[The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

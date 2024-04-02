@@ -433,6 +433,44 @@ Ein Mensch, der sich der Verantwortung bewusst wird, die er gegenüber einem Men
 
 [Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
+## Der Monomythos
+
+Ob wir mit distanzierter Belustigung dem traumhaften Hokuspokus eines rotäugigen Hexendoktors aus dem Kongo lauschen oder mit kultivierter Begeisterung dünne Übersetzungen aus den Sonetten des Mystikers Lao-tse lesen; hin und wieder die harte Nuss eines Arguments von Aquin zu knacken oder plötzlich die leuchtende Bedeutung eines bizarren Eskimo-Märchens zu erfassen: Es wird immer die eine, formverändernde und doch wunderbar konstante Geschichte sein, die wir zusammen mit einer herausfordernd beharrlichen Suggestion finden dass es noch mehr zu erleben gibt, als jemals bekannt oder erzählt werden wird.
+
+Überall auf der bewohnten Welt, zu allen Zeiten und unter allen Umständen blühten Mythen über den Menschen auf; und sie waren die lebendige Inspiration für alles, was sonst noch aus den Aktivitäten des menschlichen Körpers und Geistes hervorgegangen sein mag. 
+
+Es wäre nicht übertrieben zu sagen, dass der Mythos die geheime Öffnung ist, durch die die unerschöpflichen Energien des Kosmos in die menschliche kulturelle Manifestation strömen. 
+
+Religionen, Philosophien, Künste, die sozialen Formen des primitiven und historischen Menschen, die wichtigsten Entdeckungen in Wissenschaft und Technologie, genau die Träume, die den Schlaf trüben, entstehen aus demselben grundlegenden, magischen Ring des Mythos.
+
+[The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
+
+## Sat, Chit, Ananda
+
+Nun bin ich auf diese Idee der Glückseligkeit gekommen, weil es im Sanskrit, der großen spirituellen Sprache der Welt, drei Begriffe gibt, die den Rand, den Absprungpunkt zum Ozean der Transzendenz darstellen: Sat, Chit, Ananda. 
+
+Das Wort „Sat“ bedeutet Sein. 
+
+„Chit“ bedeutet Bewusstsein. 
+
+„Ananda“ bedeutet Glückseligkeit oder Verzückung. 
+
+Ich dachte: „Ich weiß nicht, ob mein Bewusstsein das richtige Bewusstsein ist oder nicht; Ich weiß nicht, ob das, was ich von meinem Wesen weiß, mein eigentliches Wesen ist oder nicht; aber ich weiß, wo meine Verzückung ist. 
+
+Lass mich also an der Verzückung festhalten, und das wird mir sowohl mein Bewusstsein als auch mein Wesen bringen.“ Ich denke, es hat funktioniert.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
+## Unterstützung vom Universum
+
+Wenn du deiner Glückseligkeit folgst, begibst du dich auf eine Art Spur, die die ganze Zeit dort war und auf dich wartete, und das Leben, das du führen solltest, ist das, das du lebst. 
+
+Wenn du das siehst, triffst du Menschen, die sich im Bereich deiner Glückseligkeit befinden, und sie öffnen dir die Türen. 
+
+Ich sage: Folgen Sie Ihrer Glückseligkeit und haben Sie keine Angst, und es werden sich Türen öffnen, von denen Sie nicht wussten, dass sie sein würden.
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

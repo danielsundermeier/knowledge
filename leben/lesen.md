@@ -86,6 +86,16 @@ Und die Welt öffnet sich auf eine Weise, die einem bestimmten Standpunkt entspr
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
 
+## Superkraft
+
+Lesen ist die wichtigste Superkraft. Es verwandelt Sie von einem normalen sterblichen Zivilisten in einen übernatürlichen Vampir.
+
+Jemand könnte 30 Jahre seines Lebens damit verbringen, eine Fertigkeit zu entwickeln und dann das in diesen 30 Jahren erlernte Wissen weitergeben, indem er ein Buch schreibt. Wenn Sie das Buch sorgfältig lesen, sich Notizen machen, noch einmal lesen, wiederholen, dann ist es, als würden Sie dreißig Jahre im Leben dieser Person in sich aufsaugen.
+
+Durch Lesen können Sie nicht nur ein Leben, sondern Tausende in sich aufnehmen. Sie haben alle Erinnerungen und sogar einige der Fähigkeiten jedes Autors jedes Buches, das Sie jemals gelesen haben, wenn Sie den Prozess des sorgfältigen Lesens, des Notierens, des erneuten Lesens und des Wiederholens durchlaufen. Durch das Lesen wird jeder Autor zu einem virtuellen Mentor, und glauben Sie mir, virtuelle Mentoren sind manchmal sogar besser als echte Mentoren.
+
+[Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
+
 ## Links
 
 - [How to Effectively Read and Implement Books](http://www.asianefficiency.com/systems/how-to-effectively-read-and-implement-books/)

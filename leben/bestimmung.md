@@ -471,6 +471,74 @@ Ich sage: Folgen Sie Ihrer Glückseligkeit und haben Sie keine Angst, und es wer
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
 
+## Lebensrückblick
+
+Ohne eine Methode der Selbstprüfung könnte ich das alles nicht schaffen. Ich begab mich auf eine ernsthafte Suche und wusste, dass ich nicht weit kommen würde, wenn ich sie beiläufig oder willkürlich angehen würde. 
+
+Ein Teil der Suche – die Rekonstruktion des Lebens meines Vaters – war historischer Natur und erforderte das Durchsuchen alter Archive und die Befragung seiner noch lebenden Freunde und Verwandten. Da ich keine ausgebildete Historikerin bin, waren meine diesbezüglichen Bemühungen eher amateurhaft. 
+
+Der andere Teil der Suche, den ich als wesentlich ansah, war psychologischer Natur: Ich nutzte das, was ich fand, um eine veränderte Sicht auf mein eigenes Leben zu konstruieren, die mir einen neuen Sinn und eine neue Richtung geben konnte. 
+
+Bei diesem Unterfangen konnte ich auf mein Fachwissen als lebenslanger Entwicklungspsychologe zurückgreifen, der sich in seinen Forschungen und Schriften mit Sinn und Identität beschäftigt hat.
+
+Aber meine eigene frühere Arbeit in der Psychologie reichte für die Suche, die ich jetzt begann, allein nicht aus. 
+
+Für die Selbstprüfung, die ich unternahm, fand ich einen vielversprechenden Ansatz, der sich in den letzten zwei Jahrzehnten in klinischen und autobiografischen Studien herausgebildet hat und der als „Lebensrückblick“ bezeichnet wird. 
+
+Ein Lebensrückblick ist ein bewusstes Verfahren zur Rekonstruktion unserer Vergangenheit Das kann drei persönliche Vorteile bieten, die sich viele von uns mit zunehmendem Alter wünschen:
+
+1. Akzeptanz der Ereignisse und Entscheidungen, die unser Leben geprägt haben, und Ausdruck der Dankbarkeit für das Leben, das uns geschenkt wurde, statt Selbstzweifel und Bedauern
+2. Ein authentischeres (und damit belastbareres) Verständnis davon, wer wir sind und wie wir dazu gekommen sind, was das fundierte, beruhigende Selbstgefühl widerspiegelt, das der große Psychologe Erik Erikson „Ego-Integrität“ nannte.
+3. Eine Klarheit über die Richtungen, in die wir unser Leben künftig führen wollen, und die widerspiegelt, was wir aus den Erfahrungen und Zielen gelernt haben, die unserem Leben in der Vergangenheit einen Sinn gegeben haben
+
+[A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
+
+## Sagen Sie trotzdem Ja zum Leben
+
+Auf dem Gebiet der Psychologie war Victor Frankl der bahnbrechende Förderer eines affirmativen Ansatzes, der einen großen Einfluss auf die Ansichten hatte, die ich in diesem Buch darlege. 
+
+Frankl schrieb sein bahnbrechendes Werk „Man’s Search for Meaning“, während er während des Zweiten Weltkriegs in einem Konzentrationslager inhaftiert war. 
+
+Sein Buch eröffnete eine neue Perspektive zur Förderung des psychischen Wohlbefindens, die Zweck, Bedeutung und andere erhöhte menschliche Fähigkeiten hervorhebt. 
+
+Frankls Erkenntnisse wurden zur Grundlage der heute vorherrschenden Trends in der Psychologie, die sich auf den Wert positiver Geisteszustände konzentrieren.
+
+Es ist erwähnenswert, dass Frankl seinem Buch einen anderen Titel gab als den, den schließlich der englischsprachige Übersetzer verfasste. 
+
+Frankls ursprünglicher Titel lautete „Trotzdem sag ja zum Leben“ – und fasste in einem kurzen Satz zusammen, was es bedeutet, unsere vergangenen Erfahrungen zu bestätigen. 
+
+Die Bestätigung vergangener Entscheidungen und Ereignisse, die unser Leben geprägt haben, bedeutet, zu ihnen Ja statt Nein zu sagen. 
+
+Es bedeutet, aus Fehlern Lehren zu ziehen. 
+
+Es bedeutet, in Nöten Chancen zu finden und im Bedauern Erlösung zu finden. 
+
+Frankl zeigte, wie dies auch unter den trostlosesten Umständen möglich war.
+
+[A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
+
+## Obsessionen und die Grundlagen
+
+Besessenheit ist der erste Hinweis auf der Suche nach Ihrem Ziel. Und wenn Sie dies tun, finden Sie heraus, wovon Sie besessen sind.
+
+Ich habe mit Hunderten von Menschen gesprochen, die ihr Ziel gefunden haben – von Richard Branson über Tyra Banks, die Rennfahrerin Danica Patrick, den ehemaligen Schachweltmeister Gary Kasparov, die Schriftsteller Ken Follett und Judy Blume bis hin zu den Selbsthilfegurus Tony Robbins und Wayne Dyer und viele mehr.
+
+Erstens hatten alle eine Version einer täglichen Übung, die ihnen dabei half, sich jeden Tag um 1 Prozent zu verbessern. Was sind die wesentlichen Bestandteile einer täglichen Praxis?
+
+Körperlich: Essen, bewegen, schlafen. Wenn du krank im Bett liegst, nützt dir ein Zweck nichts.
+
+Emotional: Verzichten Sie auf giftige Menschen (auch wenn es „Freunde“ oder Familie sind) und seien Sie mit den Menschen zusammen, die Sie lieben und unterstützen und die Sie lieben und unterstützen.
+
+Mental: Trainieren Sie jeden Tag Ihre Kreativitätsmuskeln.
+
+Spirituell: Gib dich den Dingen hin, die du nicht kontrollieren kannst.
+
+Ich mache diese tägliche Praxis jeden Tag, um mein Fundament stark und aktiv zu halten. Ohne sie gibt es keine Möglichkeit, einen Sinn zu finden. Wenn ich es nicht tue, fangen innerhalb einer Woche oder so die ersten Gedanken an Depression, Wut, Groll oder Schlimmeres an.
+
+Sie wollen nicht, dass das Gebäude einstürzt.
+
+[Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

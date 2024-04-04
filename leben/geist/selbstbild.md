@@ -405,6 +405,29 @@ Identifizieren Sie Ihre Vorstellung von sich selbst eher mit dem Positiven als m
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
 
+## Ein erfüllendes Selbstbild
+
+Schließlich offenbarte mein Lebensrückblick vier Paradoxien bei der Suche nach der Entwicklung einerserfüllenden Selbstbildes mit Integrität und Zielstrebigkeit:
+
+1. Die Fähigkeit, positiv nach vorne zu blicken, erfordert einen offenen und ehrlichen Rückblick, die Anerkennung von Bedauern und negativen Ereignissen und die Auseinandersetzung mit ihnen.
+2. Autobiografische Entdeckungen vertiefen das Selbstverständnis einer Person; aber gleichzeitig beruht es auf dem Wissen der Person über andere, die die Bildung ihres Selbst oft auf bisher unbekannte Weise beeinflusst haben.
+3. Identität mit Integrität erfordert, dass wir ernst nehmen, was wir getan haben, was wir tun und was wir tun werden („Alles zählt“); Aber wenn wir uns selbst zu ernst nehmen, kann dies zu übertriebener Selbstgefälligkeit und schädlicher Selbstbezogenheit führen: Demut ist bei der Überprüfung des Verlaufs eines jeden einzelnen Lebens unerlässlich.
+4. Zweck ist für das Selbst von Vorteil, weil er die Verpflichtung erfordert, Ziele zu erreichen, die für die Welt jenseits des Selbst von Nutzen sind: Auf diese Weise fördert Zweck Widerstandsfähigkeit und Energie und beugt gleichzeitig Lethargie und Selbstbezogenheit vor.
+
+Jede Entscheidung, die wir im Leben treffen, ergibt sich in gewisser Weise aus unserem Gefühl dafür, wer wir sind und wer wir sein wollen. 
+
+Deshalb ist das Selbstbild eine so starke Kraft in unserem Alltag. 
+
+Es prägt jedes Risiko, das wir eingehen, jeden Wunsch, den wir erreichen wollen, und jeden alltäglichen oder edlen Zweck, den wir verfolgen. 
+
+Unser Selbstbild wird uns nicht von Geburt an gegeben. 
+
+Wir können bewusst daran arbeiten, unser Selbstbild zu überarbeiten, aus dem Gefühl heraus, dass wir bestimmen können (und sollten), zu welchen Menschen wir werden. 
+
+Wenn wir dies tun, spielen wir eine aktive Rolle bei der Gestaltung unserer eigenen Zukunft.
+
+[A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

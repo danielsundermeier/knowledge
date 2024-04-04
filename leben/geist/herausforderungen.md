@@ -327,6 +327,38 @@ Der Dämon, den du schlucken kannst, gibt dir seine Macht, und je größer der S
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
 
+## Der Situation auf moralisch heroische Weise gewachsen sein
+
+Meine Recherchen zu den Lichfield-Prozessen und der Rolle meines Vaters darin haben meine Sicht auf seinen Charakter verändert. 
+
+Entgegen allen Erwartungen stellte ich fest, dass mein Vater in einer angespannten und folgenschweren historischen Situation moralische Überzeugung an den Tag legte. 
+
+Er war ein mutiger Verkünder der Wahrheit. Er zeigte Mitgefühl für Soldaten, die ungehört litten, und handelte entsprechend diesem Mitgefühl angesichts der Warnungen mächtiger Vorgesetzter, die ihm die Botschaft übermittelten, dass sie ihn zum Schweigen aufforderten. 
+
+Seine Weigerung, dies zu tun, kam unserem Land und seinem Militärrechtskodex zugute. 
+
+Zu dieser Zeit, in seinem jungen Erwachsenenalter, fand mein Vater seine Bestimmung darin, seinem Land zu dienen.
+
+Er entwickelte auch eine charakterliche Härte, die wir heute als „Entschlossenheit“ bezeichnen. 
+
+Das zeigte sich auf dem Zeitungsfoto, auf dem er als hartgesottener Soldat zu der Zeit zu sehen war, als er nach Hause schrieb, um über die Misshandlungen von Gefangenen zu berichten, deren Zeuge er geworden war, und dabei den strengen Anweisungen der Armeezensoren trotzte . 
+
+Trotz der Drohungen der Beamten, gegen die er aussagen würde, lehnte mein Vater die unmenschlichen Taten entschieden ab. 
+
+Im Gegensatz zu einigen seiner Kollegen hat er seine Aussage nie zurückgenommen. 
+
+Er ließ nie erkennen, dass er eingeschüchtert war. Er war, um eine hochgeschätzte Eigenschaft seiner Zeit zu nennen, hart geworden.
+
+In Andover und Harvard galt Zähigkeit als eine entscheidende Eigenschaft eines Jungen. 
+
+Dies galt noch zu der Zeit, als ich Student war (in meinem Empfehlungsschreiben von Andover für die Zulassung zum College wurde ausdrücklich darauf hingewiesen, dass ich „hart genug“ sei; dies muss zu Zeiten meines Vaters umso mehr erwartet worden sein). 
+
+Als Schuljunge war mein Vater nicht streng; Das war einer der Schwerpunkte der vielen Kritiken seiner Berater an seinem Charakter. 
+
+Es bedurfte eines Krieges, um ihm Zähigkeit zu entlocken. Er meisterte die Situation auf moralisch heroische Weise.
+
+[A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

@@ -144,3 +144,17 @@ Helden tragen ihre Narben wie Medaillen. Wir lernen aus unseren Fehlern und wach
 Michael Jordan hat in seinem Werbespot für Nike aufgezählt, wie oft er etwas falsch gemacht hat. Alle diese Fehler haben aber dazu geführt, dass er so erfolgreich geworden ist.
 
 Fehler sind ein Anzeichen, dass wir etwas lernen und uns außerhalb unserer Komfortzone befinden.
+
+## Überspringen der Warteschlange
+
+Um einen Ausdruck von Nassim Taleb, Investor und Autor, zu übernehmen: Man muss „antifragil“ sein.
+
+„Zerbrechlich“ ist, wenn man gefeuert wird, abstürzt und brennt, depressiv wird und pleite geht.
+
+„Belastbar“ ist, wenn man entlassen wird, aber sechs Monate gespart hat, sich einen Anzug anzieht, sich auf eine neue Stelle bewirbt und nach vier Monaten eine findet. Es ist ein etwas niedrigeres Gehalt und ein längerer Arbeitsweg, aber Sie werden überleben und noch einen Tag weiter kämpfen.
+
+„Antifragil“ bedeutet, dass Sie hart getroffen werden und sich noch stärker erholen als zuvor.
+
+Antifragilität ist die Essenz des Überspringens der Warteschlange. Wenn Sie sich die Skip-the-Line-Techniken aneignen, können Sie nach immer höheren Einsätzen streben, in dem Wissen, dass Sie nicht nur die Fähigkeit haben, sich schnell von Rückschlägen zu erholen, sondern sich sogar noch stärker zu erholen.
+
+[Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)

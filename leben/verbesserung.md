@@ -563,6 +563,80 @@ Es wird gezeigt, dass das gesamte Heldenleben ein Fest voller Wunder war, mit de
 
 [The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
 
+## Charakter und moralische Entwicklung
+
+Charakter- und moralische Entwicklung erfolgen selten über Nacht. 
+
+Natürlich gab es in der Geschichte der Menschheit einige berühmte plötzliche Bekehrungen zum Weg der Gerechtigkeit. 
+
+In einem Moment auf dem Weg nach Damaskus verwandelte sich der heilige Paulus von einem eifrigen Ankläger der Unterdrückten in einen hingebungsvollen Verfechter von Mitgefühl und Gerechtigkeit. 
+
+Die Entwicklungswissenschaft hat ähnlich dramatische Konversionsfälle dokumentiert. Aber diese sind höchst untypisch. 
+
+Die meisten großen Veränderungen im Charakter und im Engagement vollziehen sich langsam, im Laufe vieler Jahre.
+
+Menschen können sich zum Besseren verändern. 
+
+Sie können verantwortungsbewusster werden, wenn (und wenn) sie erwachsen werden. 
+
+Menschen können sich auch unter erheblichen persönlichen Kosten für ernsthafte moralische Anliegen engagieren. 
+
+Wenn dies geschieht, geschieht es fast immer schrittweise, allmählich und über einen längeren Zeitraum. 
+
+Die Bewegung ist zunächst oft nicht wahrnehmbar. 
+
+Es gibt Zögern und Widerstand; Es kann zu Rückfällen kommen. 
+
+Erst nach wiederholten Handlungen und Prüfungen kommt es zu dauerhaften Veränderungen. 
+
+In meinen Schriften zur moralischen Entwicklung habe ich diesen ungleichmäßigen Prozess als „allmähliche Transformation von Zielen“ beschrieben, da er sich im Laufe der Zeit auf die motivierendsten Lebensziele einer Person auswirkt.
+
+[A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
+
+## Die 1-Prozent-Regel
+
+Die erste zu beherrschende Technik ist die 1-Prozent-Regel. Das Verständnis dieses Prinzips zeigt, wie Sie mit einem winzigen täglichen Aufwand die Werkzeuge entwickeln können, die Sie benötigen, um in jedem gewünschten Bereich schnell zu den Besten der Welt zu gehören. So funktioniert das.
+
+Wenn Sie 1 $ auf einem Sparkonto haben und das Konto 1 Prozent Zinsen pro Tag zahlt, dann haben Sie in 365 Tagen 37,78 $.
+
+Mit anderen Worten: Ihre „Investition“ von 1 US-Dollar würde Ihnen bei einem Zinseszins von 1 Prozent pro Tag innerhalb eines Jahres fast 3.800 Prozent einbringen.
+
+Ich sage das manchmal zu Leuten und sie sagen: „Warum sollten es nicht 365 Prozent sein?“ Das würde mir am Ende des Jahres nur 3,65 US-Dollar einbringen.
+
+Ein großer Unterschied zu 37,78 $.
+
+Aber die Aufzinsung ist wie Magie.
+
+An einem Tag wird aus Ihrem 1 US-Dollar 1,01 US-Dollar (1 Prozent mehr als 1 US-Dollar).
+
+Aber am zweiten Tag sind es nicht 1,02 US-Dollar, sondern 1,0201 US-Dollar (1 Prozent mehr als 1,01 US-Dollar). Und am dritten Tag sind es nicht 1,03 US-Dollar, sondern 1,030301 US-Dollar (1 Prozent mehr als 1,0201 US-Dollar).
+
+Und so weiter.
+
+Das ist kompliziert.
+
+Es fängt klein an, aber das Endergebnis ist enorm. …
+
+Es mag trivial erscheinen: 1 Prozent nach oben oder 1 Prozent nach unten. Aber Ihre Entscheidungen darüber, wie Sie jeden Tag verbringen, schleichen sich ein, bis sie Sie definieren.
+
+Jeder Tag zählt.
+
+Ende des Matheunterrichts.
+
+[Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
+
+## 10.000 Experimente
+
+Jeder kann Experimente machen. Lesen Sie eine Geschichte wie die von Galileo und fragen Sie: „Warum nicht ich?“
+
+Mit jedem Experiment, das Sie durchführen, erweitern Sie zumindest Ihr Wissen. Idealerweise steigern Sie Ihr Wissen um 1 Prozent. Ja, es ist die 1-Prozent-Regel in Aktion.
+
+Thomas Edison ist natürlich dafür bekannt, mit 10.000 verschiedenen Arten von Drähten zu experimentieren, um die erste Glühbirne herzustellen. Diese Geschichte ist eigentlich falsch, wird aber in den Schulen wiederholt. Er versuchte, eine verbesserte Batterie zu erfinden. Er probierte mehr als 10.000 verschiedene Batteriezellen aus, bis er eine fand, die funktionierte.
+
+Jedes Experiment hat kaum Nachteile, aber enorme Vorteile. Edison war in der Lage, General Electric, eines der größten Unternehmen der Geschichte, nur aufgrund von Experimenten zu gründen. Als ihn ein Kollege fragte, wie er nach 10.000 Misserfolgen durchgehalten habe, sagte Edison: „Misserfolge, ich habe nicht versagt. Ich habe erfolgreich 10.000 Gründe gefunden, warum eine Batterie nicht funktioniert!“
+
+[Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

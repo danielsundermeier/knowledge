@@ -499,7 +499,7 @@ Insbesondere wird er die Belohnungen, die die Außenwelt zu bieten hat, aufgeben
 [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 
 ## Ein weiterer Tag im Paradies
-
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 Auf die Frage, wie es ihnen geht, habe ich Menschen sarkastisch stöhnen hören: "Ein weiterer Tag im Paradies." 
 
 Ich beschloss, dies als meine eigene echte Antwort auf diese Frage zu übernehmen. Ich war nicht sarkastisch, sondern antwortete aufrichtig: "Es ist ein weiterer Tag im Paradies", als ich nach meinem Wohlbefinden gefragt wurde. 
@@ -549,6 +549,36 @@ Sie bewältigen auch die kleinen, lästigen Schmerzen, die für die persönliche
 Weil sie nichts meiden, können sie ihre höchsten Ziele verfolgen. Sie scheinen lebendiger zu sein als der Rest von uns.
 
 [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
+
+## Lebe für die Heiligkeit
+
+Wir leben nicht für Glück, wir leben für Heiligkeit. 
+
+Tag für Tag suchen wir nach Vergnügen, aber tief im Inneren sind die Menschen mit moralischer Vorstellungskraft ausgestattet. 
+
+Alle Menschen streben danach, ein Leben zu führen, das nicht nur aus Vergnügen, sondern auch aus Zielstrebigkeit, Rechtschaffenheit und Tugend besteht. 
+
+Wie John Stuart Mill es ausdrückte, haben Menschen die Verantwortung, mit der Zeit moralischer zu werden. 
+
+Das beste Leben orientiert sich an der zunehmenden Exzellenz der Seele und wird von moralischer Freude genährt, dem stillen Gefühl der Dankbarkeit und Ruhe, das als Nebenprodukt eines erfolgreichen moralischen Kampfes entsteht. 
+
+Das sinnvolle Leben ist dasselbe ewige Ding, die Kombination einer Reihe von Idealen und dem Kampf eines Mannes oder einer Frau für diese Ideale. 
+
+Das Leben ist im Wesentlichen ein moralisches Drama, kein hedonistisches.
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
+## Die Seele aufbauen
+
+Die Antwort muss darin bestehen, den vorherrschenden Winden der Kultur zumindest teilweise entgegenzutreten. Die Antwort muss sein, sich einer Gegenkultur anzuschließen. 
+
+Um ein anständiges Leben zu führen und die Seele aufzubauen, ist es wahrscheinlich notwendig zu erklären, dass die Kräfte, die das große Ich fördern, zwar notwendig und in vielerlei Hinsicht befreiend, aber zu weit gegangen sind. 
+
+Wir sind aus dem Gleichgewicht. Es ist wahrscheinlich notwendig, mit einem Fuß in der Welt des Erfolgs zu stehen, mit dem anderen jedoch in einer Gegenkultur, die im Widerspruch zum Leistungsethos steht. 
+
+Es ist wahrscheinlich notwendig, das Gleichgewicht zwischen Adam I und Adam II wiederherzustellen und zu verstehen, dass Adam II wichtiger ist als Adam I.
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
 ## Bücher
 

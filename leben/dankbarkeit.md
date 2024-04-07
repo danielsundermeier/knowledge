@@ -118,6 +118,26 @@ Dankbarkeit ist daher der ultimative Zustand der Empfangsbereitschaft.
 
 [You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
 
+## Demut als Herzstück der Religionen
+
+Die Tugend der Demut ist das Herzstück aller großen Weltreligionen. 
+
+Die Anerkennung der begrenzten, vergänglichen und letztendlich machtlosen Natur menschlichen Handelns in Bezug auf Gott (oder eine andere transzendente Realität) ist eine der Kernbotschaften spiritueller Lehren.
+
+Sowohl die hebräische Bibel als auch das christliche Neue Testament enthalten zahlreiche Hinweise auf Demut – wie zum Beispiel „Der Mensch ist wie ein Hauch, seine Tage sind wie ein vorübergehender Schatten“ und „Selig sind die Sanftmütigen, denn sie werden die Erde erben.“ 
+
+Die Bhagavad Gita fordert seine Anhänger auf: „Seien Sie demütig, seien Sie harmlos; Habe keinen Anspruch; Diene deinem Lehrer in wahrem Gehorsam“.
+
+Der Hindu-Lehrer Ramana Maharshi fordert seine Anhänger auf: „Nehmen Sie keine Notiz vom Ego und seinen Aktivitäten, sondern sehen Sie nur das Licht dahinter.“ 
+
+Die Sioux-Tradition zeigt spirituell Suchende, die sich in der Gegenwart des Großen Geistes demütigen und sich an ihre Nichtigkeit erinnern. 
+
+Muslime erkennen ihren Platz in der Ordnung der Dinge oft an, indem sie ihre Absichten und Vorhersagen mit „Insha'Allah“ (wenn Gott will) verbinden. 
+
+Der Dalai Lama drückt eine Kernidee des Buddhismus folgendermaßen aus: „Der gemeinsame Feind aller religiösen Disziplinen ist der Egoismus des Geistes – denn er ist es, der Unwissenheit, Wut und Leidenschaft verursacht, die die Wurzel aller Probleme der Welt sind.“
+
+[The Power of Ideals](https://www.goodreads.com/book/show/23316201-the-power-of-ideals)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

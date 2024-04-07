@@ -37,3 +37,23 @@ Mit innovativen Laufstrategien, die sich auf weniger Laufen und intensivere, kü
 Aber die erstaunlichsten Dinge passierten, nachdem Bannister den Rekord gebrochen hatte. Nur 46 Tage später wurde sein Rekord gebrochen – und dann wurde er immer wieder gebrochen. Die Lektion ist wichtig und hat nichts mit Laufen oder der Vier-Minuten-Meile zu tun. Bannister hatte das eigentliche Problem gelöst, das die meisten Erfolge verhindert. Es ist ein dunkles Geheimnis, über das nur wenige Menschen jemals diskutieren oder es zugeben: Die meisten unserer Barrieren sind mentaler Natur. Und diese mentalen Barrieren können physische und emotionale Einschränkungen dessen bedeuten, was Sie in der Realität tatsächlich erreichen können.
 
 [Evolution](https://www.goodreads.com/book/show/17570741-evolution)
+
+## Auf dem Weg zum Glauben
+
+Der bekannte Psychiater und Autor George Vaillant schrieb kürzlich, dass das Fehlen von Glauben Nihilismus und kein Atheismus sei. 
+
+Glaube bedeutet, an etwas zu glauben. Ohne irgendeinen Glauben ist es nicht möglich, einen Sinn, eine Richtung oder einen Sinn im Leben zu erkennen. 
+
+Ohne Glauben würde es keinen Sinn machen, Verpflichtungen zu erwarten (oder einzuhalten). 
+
+Manche sagen, dass ohne Glauben sogar Wissenschaft unmöglich sei, da sie auf dem grundlegenden Glauben beruht, dass „die Dinge in einer Harmonie zusammenpassen, die bloße Willkür ausschließt“.
+
+Wir beschrieben Demut als eine Angewohnheit, den Fokus außerhalb des Selbst zu legen, eine Milderung des Egos und der Selbstbezogenheit. 
+
+Wenn das Selbst nicht der beste Ort ist, um seinen zentralen Fokus zu legen, wohin gehört dieser Fokus dann? 
+
+Beim Versuch, diese Frage für sich selbst zu beantworten, muss der Einzelne erkennen, was seiner Meinung nach in seinen tiefsten, weisesten und nachdenklichsten Momenten am wichtigsten ist. 
+
+Wenn sie Erfolg haben, bewegen sie sich in Richtung Glauben.
+
+[The Power of Ideals](https://www.goodreads.com/book/show/23316201-the-power-of-ideals)

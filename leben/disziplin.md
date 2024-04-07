@@ -78,4 +78,8 @@ Es ist einfach ein normaler Teil des Prozesses und sollte als solcher und nicht 
 
 [It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
 
+## Tägliche Disziplinen
 
+Ich möchte, dass Sie am Ende dieses Buches oder sogar schon vorher tief im Inneren wissen, dass Ihr einziger Weg zum Erfolg über ein Kontinuum alltäglicher, unsexy, unaufregender und manchmal schwieriger täglicher Disziplinen führt, die sich im Laufe der Zeit verschärfen. Seien Sie sich auch darüber im Klaren, dass die Ergebnisse, das Leben und der Lebensstil Ihrer Träume Ihnen gehören können, wenn Sie den Compound-Effekt für sich einsetzen. Wenn Sie die im „Zusammengesetzten Effekt“ dargelegten Prinzipien anwenden, werden Sie Ihr märchenhaftes Ende schaffen.
+
+[The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)

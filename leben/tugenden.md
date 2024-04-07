@@ -73,6 +73,38 @@ Bezeichnenderweise erwähnt Seneca dies nicht nur einmal. Wie er in einem andere
 
 [Breakfast with Seneca](https://www.goodreads.com/book/show/56769533-breakfast-with-seneca)
 
+## Wahrheit + Demut + Glaube
+
+In der ehrgeizigen Sichtweise der Moral, die in unseren Studien über inspirierende und bewundernswerte Menschen dargelegt wird, scheint es, als würden wir die tatsächlichen Grenzen ihres Verhaltens und des moralischen Verhaltens der meisten gewöhnlichen Menschen vernachlässigen, ganz zu schweigen von denen, die in der Welt wirklich Böses tun. 
+
+Indem wir aber sagen, dass innere Wahrhaftigkeit, Demut und Glaube ein positives moralisches Wachstum fördern, möchten wir auch darauf hinweisen, dass das Fehlen dieser Tugenden dieses Entwicklungspotenzial stark einschränkt. 
+
+Wenn Menschen es versäumen, sich selbst ehrlich zu betrachten, wenn sie arrogant, dogmatisch und engstirnig sind, wenn sie nicht bereit sind, das kritische Feedback anderer zu berücksichtigen, wird es unwahrscheinlich sein, dass sie im Laufe der Zeit weiter lernen und sich moralisch weiterentwickeln. 
+
+Über den Mangel an innerer Wahrhaftigkeit hinaus begrenzt ein tiefgreifender Zynismus, der manche Menschen daran hindert, etwas zu finden, an das sie glauben oder wozu sie sich verpflichten können, auch ihre Fähigkeit, ihr volles moralisches Potenzial auszuschöpfen. 
+
+In den folgenden Kapiteln untersuchen wir die entwicklungsbedingte Antwort auf diese potenziell einschränkenden Eigenschaften, die drei Tugenden Wahrheit, Demut und Glaube.
+
+[The Power of Ideals](https://www.goodreads.com/book/show/23316201-the-power-of-ideals)
+
+## Lebenslauf-Tugenden vs. Laudatio-Tugenden
+
+Kürzlich habe ich über den Unterschied zwischen den Tugenden des Lebenslaufs und den Tugenden der Laudatio nachgedacht. 
+
+Die Lebenslauftugenden sind diejenigen, die Sie in Ihrem Lebenslauf auflisten, die Fähigkeiten, die Sie auf den Arbeitsmarkt bringen und die zum externen Erfolg beitragen. 
+
+Die Tugenden der Laudatio sind tiefer. Es sind die Tugenden, über die bei Ihrer Beerdigung gesprochen wird, die im Innersten Ihres Wesens existieren – egal, ob Sie freundlich, mutig, ehrlich oder treu sind; welche Art von Beziehungen Sie aufgebaut haben.
+
+Die meisten von uns würden sagen, dass die Tugenden der Laudatio wichtiger sind als die Tugenden des Lebenslaufs, aber ich gestehe, dass ich über weite Strecken meines Lebens mehr Zeit damit verbracht habe, über Letzteres nachzudenken als über Ersteres. 
+
+Unser Bildungssystem orientiert sich sicherlich mehr an den Tugenden des Lebenslaufs als an den Tugenden der Laudatio. 
+
+Auch die öffentliche Diskussion ist wichtig – die Selbsthilfetipps in Zeitschriften, die Sachbuch-Bestseller. 
+
+Die meisten von uns haben klarere Strategien für den beruflichen Erfolg als für die Entwicklung eines tiefgreifenden Charakters.
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

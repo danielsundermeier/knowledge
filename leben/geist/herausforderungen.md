@@ -359,6 +359,16 @@ Es bedurfte eines Krieges, um ihm Zähigkeit zu entlocken. Er meisterte die Situ
 
 [A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
 
+## Der Held wird an seiner schwächsten Stelle am stärksten
+
+In der griechischen Zeit hieß es, Demosthenes sei trotz seines Stotterns kein großer Redner gewesen; Er war ein großartiger Redner, weil er stammelte. 
+
+Der Mangel wurde zum Anreiz, die damit verbundene Fähigkeit zu perfektionieren. 
+
+Der Held wird an seiner schwächsten Stelle am stärksten.
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

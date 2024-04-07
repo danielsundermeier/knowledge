@@ -539,6 +539,58 @@ Sie wollen nicht, dass das Gebäude einstürzt.
 
 [Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
 
+## Was will das Leben von dir?
+
+Bei dieser Methode fragen Sie nicht: „Was will ich vom Leben?“ Sie stellen eine andere Reihe von Fragen: Was will das Leben von mir? Wozu rufen mich meine Umstände auf?
+
+In diesem Schema der Dinge erschaffen wir nicht unser Leben; Wir werden vom Leben gerufen. 
+
+Die wichtigen Antworten findet man nicht im Inneren, sondern im Äußeren. 
+
+Diese Perspektive beginnt nicht im autonomen Selbst, sondern bei den konkreten Umständen, in die Sie eingebettet sind. 
+
+Diese Perspektive beginnt mit dem Bewusstsein, dass die Welt lange vor Ihnen existierte und noch lange nach Ihnen bestehen wird und dass Sie in der kurzen Zeitspanne Ihres Lebens durch das Schicksal, die Geschichte, den Zufall, die Evolution oder Gott in eine schwierige Situation geworfen wurden spezifischer Ort mit spezifischen Problemen und Bedürfnissen. 
+
+Ihre Aufgabe ist es, bestimmte Dinge herauszufinden: Was braucht diese Umgebung, um vollständig zu sein? Was muss repariert werden? Welche Aufgaben warten darauf, erledigt zu werden? 
+
+Wie der Schriftsteller Frederick Buechner es ausdrückte: „An welchen Punkten erfüllen meine Talente und meine tiefe Freude die tiefe Not der Welt?“
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
+## Was ist Dharma?
+
+Das Sanskrit-Wort „Dharma“, wie es in der Bhagavad Gita verwendet wird, ist so bedeutungsvoll, dass es unmöglich ist, seinen vollen Umfang durch eine einzige englische Übersetzung zu erfassen. 
+
+„Dharma“ kann auf verschiedene, aber unvollständige Weise mit „religiöses und moralisches Gesetz“, „richtiges Verhalten“, „heilige Pflicht“, „Weg der Gerechtigkeit“, „wahre Natur“ und „göttliche Ordnung“ übersetzt werden.
+
+René Guénon kommt in seiner klassischen Einführung in das Studium hinduistischer Lehren so nah wie jeder andere Autor an die Bedeutung des Dharma, wie wir ihn hier verwenden werden. 
+
+„Dharma“, sagt er, „ist die wesentliche Natur eines Wesens, die die Summe seiner besonderen Qualitäten oder Merkmale umfasst und aufgrund der darin enthaltenen Tendenzen oder Dispositionen auch die Art und Weise bestimmt, wie sich dieses Wesen verhalten wird. Im Allgemeinen oder in Bezug auf jeden einzelnen Umstand.“ 
+
+Das Wort „Dharma“ in dieser Lehre bezieht sich also auf die besonderen und eigenwilligen Eigenschaften jedes Wesens – jene sehr wesentlichen und besonderen Eigenschaften, die es irgendwie zu sich selbst machen.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
+## Schaffen Sie die richtigen Bedingungen
+
+Frosts Genie – wie das von Thoreau, wie das von Goodall, wie das von Whitman – beruhte zumindest teilweise auf seiner Bereitschaft, die richtigen Bedingungen für die Verbreitung seines Dharma zu schaffen. 
+
+Sein Dharma erforderte einen Bauernhof – und so kaufte er einen. 
+
+Sein Dharma verlangte von ihm, das Lehren aufzugeben – und so gab er es auf. 
+
+Sein Dharma erforderte eine Zeit intensiver Arbeit in England – und so ging er.
+
+Wie Frosts Aufgabe ist es unsere Aufgabe, Entscheidungen zu treffen, die die richtigen Bedingungen für das Gedeihen des Dharma schaffen. 
+
+Das Geschenk ist unzerstörbar. Es ist ein Samen. 
+
+Von uns wird nicht verlangt, Gott zu sein. Wir sind nicht verpflichtet, den Samen zu schaffen. Nur um es klug und gut zu pflanzen.
+
+Nachdem wir zunächst unser Dharma benannt und beansprucht haben, beginnen wir als nächstes damit, alle unsere Lebensenergien systematisch um unsere Berufung herum zu organisieren.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

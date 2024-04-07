@@ -75,6 +75,12 @@ Feste Routine, um den Arbeitstag zu beenden und abschalten zu können.
 
 [Drastically Reduce Stress with a Work Shutdown Ritual](https://calnewport.com/drastically-reduce-stress-with-a-work-shutdown-ritual/)
 
+## Buchen Sie Ihre Tage
+
+Der Schlüssel dazu, bei Ihren Unternehmungen Weltklasse zu werden, liegt darin, Ihre Leistung auf Weltklasse-Routinen aufzubauen. Es kann schwierig oder sogar sinnlos sein, vorherzusagen oder zu kontrollieren, was mitten in Ihrem Arbeitstag auf Sie zukommen wird. Aber Sie können fast immer steuern, wie Ihr Tag beginnt und endet. Ich habe Routinen für beides.
+
+[The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

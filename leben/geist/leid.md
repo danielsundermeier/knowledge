@@ -25,3 +25,25 @@ Wir können es mit den kleinen Dingen lernen. Wenn uns etwas kaputt geht, könne
 Nach und nach können wir so mit immer größere Situationen umgehen.
 
 [The Enchiridion of Epictetus](https://www.goodreads.com/book/show/16255653-the-enchiridion-of-epictetus)
+
+## Wenn Schwierigkeiten auftreten, betrachten Sie sie als Dharma
+
+Der große buddhistische Lehrer Chögyam Trungpa Rinpoche nannte diese Erfahrung der Abneigung „den Schmerz des Schmerzes“. 
+
+Schmerz ist natürlich unvermeidlich. Und Abneigung ist eine natürliche Reaktion darauf. Aber Abneigung gegen die Abneigung? 
+
+Wie sich herausstellt, ist dies nicht unvermeidlich. 
+
+Und der Clou: In der Abneigung gegen die Abneigung liegt das eigentliche Leid. 
+
+Wie meine Freundin, die amerikanische buddhistische Lehrerin Sylvia Boorstein, so oft sagt: Schmerz ist unvermeidlich. Leiden ist optional.
+
+Wenn Schwierigkeiten auftreten, betrachten Sie sie als Dharma. 
+
+Das ist für uns nicht selbstverständlich. 
+
+Unser Instinkt ist es, Unannehmlichkeiten auf Schritt und Tritt zu vermeiden. 
+
+Und wir leben in einer Kultur, die uns hilft, uns von allen Erscheinungsformen des Unbehagens abzulenken.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)

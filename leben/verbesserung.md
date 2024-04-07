@@ -637,6 +637,22 @@ Jedes Experiment hat kaum Nachteile, aber enorme Vorteile. Edison war in der Lag
 
 [Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
 
+## The Compound Effect
+
+Der Compound-Effekt ist das Prinzip, aus einer Reihe kleiner, kluger Entscheidungen große Vorteile zu erzielen. 
+
+Das Interessanteste an diesem Prozess ist für mich, dass sich die Schritte im Moment nicht bedeutsam anfühlen, auch wenn die Ergebnisse gewaltig sind. 
+
+Unabhängig davon, ob Sie diese Strategie zur Verbesserung Ihrer Gesundheit, Ihrer Beziehungen, Ihrer Finanzen oder für irgendetwas anderes nutzen, sind die Veränderungen so subtil, dass sie fast nicht wahrnehmbar sind. 
+
+Diese kleinen Änderungen bieten kaum oder gar kein unmittelbares Ergebnis, keinen großen Gewinn, keine offensichtliche „Ich habe es dir gesagt“-Auszahlung. Wieso sich die Mühe machen?
+
+Die meisten Menschen stolpern über die Einfachheit des zusammengesetzten Effekts.
+
+Was sie nicht erkennen, ist, dass diese kleinen, scheinbar unbedeutenden Schritte, die im Laufe der Zeit konsequent durchgeführt werden, einen radikalen Unterschied bewirken werden.
+
+[The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

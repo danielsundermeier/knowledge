@@ -302,6 +302,45 @@ Ich habe großen Respekt vor einem von Goethes Versen erfahren: "Was auch immer 
 
 [Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
 
+## Momentum
+
+Das Gleiche passiert, wenn ein Raketenschiff startet. 
+
+Das Space Shuttle verbraucht in den ersten Minuten seines Fluges mehr Treibstoff als im Rest der gesamten Reise. 
+
+Warum? Weil es sich von der Anziehungskraft der Schwerkraft befreien muss. 
+
+Sobald dies der Fall ist, kann es im Orbit gleiten. 
+
+Der schwierige Teil? Abheben vom Boden. Ihre alten Gewohnheiten und Ihre alten Konditionierungen sind wie die Trägheit des Karussells oder die Anziehungskraft der Schwerkraft. 
+
+Alles will einfach in Ruhe bleiben. 
+
+Sie werden viel Energie brauchen, um Ihre Trägheit zu durchbrechen und Ihr neues Unternehmen auf den Weg zu bringen. 
+
+Aber sobald Sie in Schwung gekommen sind, werden Sie kaum mehr aufzuhalten sein – praktisch unschlagbar –, auch wenn Sie sich jetzt deutlich weniger anstrengen und dabei bessere Ergebnisse erzielen.
+
+[The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
+
+## Säulen des Handlungsweges
+
+Hier sind die zentralen Säulen des Weges des Handelns – des Weges des Karma Yoga – wie von Krishna dargelegt. Hier sind die Schlüssel zu Untätigkeit in Aktion:
+
+1. Achten Sie auf Ihr Dharma.
+2. Machen Sie es mit voller Kraft.
+3. Lassen Sie die Früchte los.
+4. Übergeben Sie es Gott.
+
+Erstens: Erkenne deinen Dharma. „Achten Sie auf Ihre eigene Pflicht“, sagt Krishna im zweiten Kapitel. „Zittern Sie nicht davor.“ Erkennen, benennen und umarmen Sie dann Ihren eigenen Dharma.
+
+Dann: Machen Sie es mit voller Kraft. Wenn du deinen Dharma kennst, tue es mit jeder Faser deines Wesens. Bringen Sie alles mit, was Sie haben. Engagieren Sie sich voll und ganz. Auf diese Weise können Sie ein authentisch leidenschaftliches Leben führen und das Verlangen in ein Freudenfeuer aus Licht verwandeln.
+
+Als nächstes: Lassen Sie das Ergebnis los. „Gib die Früchte deiner Taten auf“, sagt Krishna. Erfolg und Misserfolg in den Augen der Welt sind nicht Ihr Anliegen. „Es ist besser, beim eigenen Dharma zu scheitern, als beim Dharma eines anderen erfolgreich zu sein“, sagt er.
+
+Zum Schluss: Überlassen Sie Ihre Taten Gott. „Widme deine Taten mir“, sagt Krishna. Jede wahre Berufung entsteht im Strom der Liebe, der zwischen der individuellen Seele und der göttlichen Seele fließt. Alles wahre Dharma ist eine Bewegung der Seele zurück zu ihrem Grund.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

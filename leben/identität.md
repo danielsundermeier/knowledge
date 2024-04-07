@@ -266,6 +266,28 @@ Jetzt können Sie verstehen, dass Sie mit jedem Gedanken, den Sie denken, jeder 
 
 [You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
 
+## Was ist Charakter und wie bekommen wir ihn?
+
+Der Charakter entsteht im Laufe Ihrer inneren Konfrontation. 
+
+Charakter ist eine Reihe von Dispositionen, Wünschen und Gewohnheiten, die sich im Kampf gegen die eigene Schwäche langsam einprägen. 
+
+Durch tausend kleine Handlungen der Selbstbeherrschung, des Teilens, des Dienens, der Freundschaft und des raffinierten Vergnügens werden Sie disziplinierter, rücksichtsvoller und liebevoller. 
+
+Wenn Sie disziplinierte und fürsorgliche Entscheidungen treffen, prägen Sie sich langsam bestimmte Tendenzen ein. Sie erhöhen die Wahrscheinlichkeit, dass Sie sich die richtigen Dinge wünschen und die richtigen Aktionen ausführen. 
+
+Wenn Sie egoistische, grausame oder unorganisierte Entscheidungen treffen, verwandeln Sie diesen Kern in Ihrem Inneren langsam in etwas, das erniedrigt, unbeständig oder fragmentiert ist. 
+
+Sie können dieser Kernsache nur mit unedlen Gedanken Schaden zufügen, selbst wenn Sie niemandem anderen schaden. 
+
+Sie können diese Kernsache mit einem Akt der Zurückhaltung hervorheben, den niemand sieht. 
+
+Wenn man auf diese Weise keinen kohärenten Charakter entwickelt, wird das Leben früher oder später auseinanderfallen. 
+
+Du wirst zum Sklaven der Leidenschaften. Aber wenn Sie sich mit gewohnter Selbstdisziplin verhalten, werden Sie beständig und zuverlässig.
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

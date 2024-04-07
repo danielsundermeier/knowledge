@@ -600,6 +600,47 @@ Dieser Zyklus wird als Gewohnheitsschleife bezeichnet.
 
 [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 
+## Benimm dich
+
+Okay, lassen Sie uns Ihren Prozess zum Erreichen der Ziele, für die Sie sich entschieden haben, entwerfen. Dies ist der Tun-Prozess – oder in manchen Fällen der STOP-Doing-Prozess.
+
+Was zwischen Ihnen und Ihrem Ziel steht, ist Ihr Verhalten. 
+
+Müssen Sie mit irgendetwas aufhören, damit der Compound-Effekt Sie nicht in eine Abwärtsspirale treibt? 
+
+Und was müssen Sie tun, um Ihren Weg so zu ändern, dass er in die vorteilhafteste Richtung geht? 
+
+Mit anderen Worten: Welche Gewohnheiten und Verhaltensweisen müssen Sie aus Ihrem Leben entfernen und hinzufügen?
+
+Ihr Leben läuft auf diese Formel hinaus:
+
+SIE → WAHL + VERHALTEN + GEWOHNHEITEN + ZUSAMMENGESETZT = ZIELE
+(Entscheidung) (Aktion) (wiederholte Aktion) (Zeit)
+
+Deshalb ist es wichtig herauszufinden, welche Verhaltensweisen den Weg zu Ihrem Ziel blockieren und welche Verhaltensweisen Ihnen helfen, Ihr Ziel zu erreichen.
+
+[The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
+
+## Erobere dich selbst
+
+Im Jahr 1877 schrieb der Psychologe William James eine kurze Abhandlung mit dem Titel „Gewohnheit“. 
+
+Wenn Sie versuchen, ein anständiges Leben zu führen, so schrieb er, möchten Sie Ihr Nervensystem zu Ihrem Verbündeten und nicht zu Ihrem Feind machen. 
+
+Sie möchten bestimmte Gewohnheiten so tief verankern, dass sie natürlich und instinktiv werden. 
+
+James schrieb, dass man, wenn man sich eine Gewohnheit aneignen möchte – zum Beispiel eine Diät machen oder immer die Wahrheit sagen will –, den Beginn einer neuen Gewohnheit mit möglichst starker und entschlossener Initiative angehen möchte Ereignis in Ihrem Leben. 
+
+Dann gilt: „Machen Sie niemals eine Ausnahme“, bis die Gewohnheit fest in Ihrem Leben verankert ist. 
+
+Ein einziger Ausrutscher macht viele gute Taten der Selbstbeherrschung zunichte. 
+
+Dann nutzen Sie jede Gelegenheit, um Ihre Gewohnheit zu üben. Üben Sie jeden Tag eine unentgeltliche Übung der Selbstdisziplin. Befolgen Sie willkürliche Regeln. 
+
+„Askese dieser Art ist wie die Versicherung, die ein Mann für sein Haus voller Güter zahlt. Die Steuer nützt ihm zu diesem Zeitpunkt nichts und bringt ihm möglicherweise nie eine Rendite. Aber wenn das Feuer kommt, wird es seine Rettung vor dem Untergang sein, dass er dafür bezahlt hat.“
+
+[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

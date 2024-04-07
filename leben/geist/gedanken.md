@@ -342,6 +342,22 @@ Wenn Sie sich die Maßnahmen vorstellen, die Sie ergreifen müssen, verbinden Si
 
 [The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
 
+## Der weise Elefantentrainer
+
+„Aber der weise Elefantentrainer“, sagte Rambha, „wird dem Elefanten einen Bambusstab geben, den er in seinem Rüssel festhalten kann.
+
+Dem Elefanten gefällt das. Er hält ihn fest. Und sobald der Elefant seinen Rüssel um den Bambus legt, beginnt sich der Rüssel zu beruhigen. 
+
+Jetzt schreitet der Elefant wie ein Prinz über den Markt: ruhig, gefasst, konzentriert, gelassen. Bananen und Kokosnüsse lenken nicht mehr ab.“
+
+Wenn Mantras systematisch durchgeführt werden, haben sie eine starke Wirkung auf das Gehirn. 
+
+Es sammelt und konzentriert die Energie des Geistes. 
+
+Es lehrt den Geist, sich auf einen Punkt zu konzentrieren, und kultiviert eine Beständigkeit, die mit der Zeit zu einer unerschütterlichen Gleichmäßigkeit des Gemüts wird.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

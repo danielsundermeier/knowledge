@@ -182,6 +182,18 @@ Die Person mit dieser Einstellung gewinnt normalerweise.
 
 [Victory Favors the Fearless](https://www.goodreads.com/book/show/45774087-victory-favors-the-fearless)
 
+## Abschneiden
+
+Natürlich gibt es für all dieses Staunen auch ein Hindernis. 
+
+Leider stellt sich heraus, dass der Prozess der Vereinigung ein „Nein“ zu Handlungen erfordert, die den Dharma nicht unterstützen – ein „Nein“ zu Umwegen und zu Nebenkanälen aller Art, sogar zu einigen ziemlich tollen Nebenkanälen. 
+
+Es erfordert, alle möglichen „anderen Optionen“ abzuschneiden. 
+
+Die Wurzel des Wortes „entscheiden“ bedeutet wörtlich „abschneiden“. Sich für etwas zu entscheiden bedeutet manchmal, sich gegen etwas anderes zu entscheiden.
+
+[The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

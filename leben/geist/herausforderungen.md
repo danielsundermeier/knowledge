@@ -369,6 +369,26 @@ Der Held wird an seiner schwächsten Stelle am stärksten.
 
 [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
+## Ein Gefühl für das Schicksal
+
+Wie Proust müssen auch Sie ein Gespür für das Schicksal bewahren und sich ständig mit ihm verbunden fühlen. 
+
+Sie sind einzigartig und Ihre Einzigartigkeit hat einen Zweck. 
+
+Sie müssen jeden Rückschlag, jedes Scheitern oder jede Not als Prüfung auf dem Weg betrachten, als Samen, der für die weitere Kultivierung gepflanzt wird, wenn Sie wissen, wie man sie anbaut. 
+
+Es wird kein Moment verschwendet, wenn Sie aufmerksam sind und die Lektionen lernen, die in jeder Erfahrung enthalten sind. 
+
+Indem Sie sich ständig dem Thema widmen, das Ihren Neigungen entspricht, und es aus vielen verschiedenen Blickwinkeln angehen, bereichern Sie einfach den Boden, auf dem diese Samen Wurzeln schlagen können. 
+
+Sie können diesen Prozess in der Gegenwart vielleicht nicht sehen, aber er findet statt. 
+
+Verlieren Sie nie die Verbindung zu Ihrer Lebensaufgabe und treffen Sie unbewusst die richtigen Entscheidungen in Ihrem Leben. 
+
+Mit der Zeit werden Sie die Meisterschaft erlangen.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

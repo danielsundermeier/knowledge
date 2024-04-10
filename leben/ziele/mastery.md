@@ -192,6 +192,62 @@ Die San Antonio Spurs, eines der erfolgreichsten Teams in der NBA-Geschichte, ha
 
 [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 
+## Die Ausbildungsphase
+
+Das Prinzip ist einfach und muss sich tief in Ihr Gedächtnis einprägen: Das Ziel einer Ausbildung ist nicht Geld, eine gute Position, ein Titel oder ein Diplom, sondern vielmehr die Transformation Ihres Geistes und Charakters – die erste Transformation auf dem Weg zur Meisterschaft. 
+
+Man beginnt eine Karriere als Außenseiter. Sie sind naiv und voller falscher Vorstellungen über diese neue Welt. 
+
+Dein Kopf ist voller Träume und Fantasien über die Zukunft. Ihr Wissen über die Welt ist subjektiv und basiert auf Emotionen, Unsicherheiten und begrenzter Erfahrung. 
+
+Langsam werden Sie sich in der Realität verankern, in der objektiven Welt, die durch das Wissen und die Fähigkeiten repräsentiert wird, die Menschen darin erfolgreich machen. 
+
+Sie lernen, mit anderen zusammenzuarbeiten und mit Kritik umzugehen. 
+
+Dabei verwandeln Sie sich von jemandem, der ungeduldig und zerstreut ist, in jemanden, der diszipliniert und konzentriert ist und über einen Verstand verfügt, der mit Komplexität umgehen kann. 
+
+Am Ende werden Sie sich selbst und alle Ihre Schwächen meistern.
+
+Sie sind ein Handwerker, der lernt, die höchsten Standards einzuhalten. 
+
+Für all dies ist eine sorgfältige Ausbildung erforderlich. 
+
+Sie können auf dieser Welt nichts Wertvolles schaffen, wenn Sie sich nicht zuvor entwickelt und transformiert haben.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
+## 20.000 Stunden hartnäckiger Einsatz
+
+In unserer Kultur neigen wir dazu, die Praxis zu verunglimpfen. Wir möchten uns vorstellen, dass große Leistungen von Natur aus geschehen – dass sie das Zeichen der Genialität oder des überlegenen Talents eines Menschen sind. 
+
+Durch Übung ein hohes Leistungsniveau zu erreichen, erscheint so banal, so uninspirierend. 
+
+Außerdem möchten wir nicht an die 10.000 bis 20.000 Stunden denken müssen, die für eine solche Meisterschaft erforderlich sind. 
+
+Diese unsere Werte sind seltsamerweise kontraproduktiv – sie verschleiern uns die Tatsache, dass fast jeder durch beharrliche Anstrengung solche Höhen erreichen kann, was uns alle ermutigen sollte. 
+
+Es ist an der Zeit, dieses Vorurteil gegenüber bewusster Anstrengung umzukehren und die Kräfte, die wir durch Übung und Disziplin erlangen, als überaus inspirierend und sogar wundersam zu betrachten.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
+## Unseren tiefen Wünschen folgen
+
+Meisterschaft ist keine Frage der Genetik oder des Glücks, sondern darum, Ihren natürlichen Neigungen und dem tiefen Verlangen zu folgen, das Sie von innen heraus bewegt. 
+
+Jeder hat solche Neigungen. Dieses Verlangen in Ihnen ist nicht durch Egoismus oder reines Machtstreben motiviert, denn beides sind Emotionen, die der Meisterschaft im Weg stehen. 
+
+Es ist stattdessen ein tiefer Ausdruck von etwas Natürlichem, etwas, das Sie bei Ihrer Geburt als einzigartig gekennzeichnet hat. 
+
+Indem Sie Ihren Neigungen folgen und sich der Meisterschaft nähern, leisten Sie einen großen Beitrag für die Gesellschaft, indem Sie sie mit Entdeckungen und Erkenntnissen bereichern und das Beste aus der Vielfalt der Natur und der menschlichen Gesellschaft machen. 
+
+Es ist in der Tat der Gipfel des Egoismus, lediglich das zu konsumieren, was andere schaffen, und sich in eine Hülle begrenzter Ziele und unmittelbarer Freuden zurückzuziehen. 
+
+Sich von seinen Neigungen zu entfremden, kann auf lange Sicht nur zu Schmerz und Enttäuschung führen und zu dem Gefühl, etwas Einzigartiges verschwendet zu haben. 
+
+Dieser Schmerz wird sich in Bitterkeit und Neid äußern und Sie werden die wahre Ursache Ihrer Depression nicht erkennen.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

@@ -591,6 +591,48 @@ Nachdem wir zunächst unser Dharma benannt und beansprucht haben, beginnen wir a
 
 [The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
 
+## Traumsamen
+
+Der größte Erfolg war zunächst eine Zeitlang ein Traum. Die Eiche schläft in der Eichel; der Vogel wartet im Ei; und in der höchsten Vision der Seele regt sich ein erwachender Engel. Träume sind die Keimlinge der Realität.
+
+[As a Man Thinketh](https://www.goodreads.com/book/show/81959.As_a_Man_Thinketh)
+
+## Goldabbau
+
+Nur durch langes Suchen und Schürfen erhält man Gold und Diamanten, und der Mensch kann jede Wahrheit finden, die mit seinem Wesen zusammenhängt, wenn er tief in die Mine seiner Seele gräbt.
+
+[As a Man Thinketh](https://www.goodreads.com/book/show/81959.As_a_Man_Thinketh)
+
+## Du hast ein Schicksal zu erfüllen
+
+Sagen wir es so: Bei deiner Geburt wird ein Samen gepflanzt. Dieser Samen ist Ihre Einzigartigkeit. 
+
+Er möchte wachsen, sich verwandeln und sein volles Potenzial entfalten. Es hat eine natürliche, durchsetzungsfähige Energie. 
+
+Die Aufgabe Ihres Lebens besteht darin, diesen Samen zum Blühen zu bringen und Ihre Einzigartigkeit durch Ihre Arbeit zum Ausdruck zu bringen. 
+
+Du hast ein Schicksal zu erfüllen. 
+
+Je stärker Sie es spüren und aufrechterhalten – als Kraft, als Stimme oder in welcher Form auch immer – desto größer ist Ihre Chance, diese Lebensaufgabe zu erfüllen und Meisterschaft zu erlangen.
+
+Was diese Kraft schwächt, was dazu führt, dass Sie sie nicht spüren oder an ihrer Existenz zweifeln, ist das Ausmaß, in dem Sie einer anderen Kraft im Leben erlegen sind – dem gesellschaftlichen Anpassungsdruck. 
+
+Diese Gegenkraft kann sehr mächtig sein. Sie möchten zu einer Gruppe gehören. Unterbewusst könnten Sie das Gefühl haben, dass das, was Sie anders macht, peinlich oder schmerzhaft ist.
+
+Ein solches Schicksal müssen Sie um jeden Preis vermeiden. Der Prozess, Ihrer Lebensaufgabe bis zur Meisterschaft zu folgen, kann grundsätzlich zu jedem Zeitpunkt im Leben beginnen. 
+
+Die verborgene Kraft in dir ist immer da und bereit, sich zu engagieren.
+
+Der erste Schritt ist immer nach innen. Sie suchen in der Vergangenheit nach Anzeichen dieser inneren Stimme oder Kraft. 
+
+Sie beseitigen die anderen Stimmen, die Sie verwirren könnten – Eltern und Gleichaltrige. 
+
+Sie suchen nach einem zugrunde liegenden Muster, einem Kern Ihres Charakters, den Sie so tief wie möglich verstehen müssen.
+
+Sie müssen Ihren beruflichen Weg eher als eine Reise mit Wendungen und nicht als eine gerade Linie betrachten.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

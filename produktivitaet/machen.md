@@ -341,6 +341,26 @@ Zum Schluss: Überlassen Sie Ihre Taten Gott. „Widme deine Taten mir“, sagt 
 
 [The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
 
+## Erfindung des Fluges
+
+Am 17. Dezember 1903 steuerte Wilbur seine Flugmaschine beeindruckende neunundfünfzig Sekunden lang in Kitty Hawk – der erste bemannte, kontrollierte und angetriebene Flug in der Geschichte. 
+
+Im Laufe der Jahre verbesserten sie das Design und die Flugzeiten verlängerten sich. 
+
+Für die anderen Teilnehmer des Rennens war es ein völliges Rätsel, wie es zwei Männern ohne Ingenieurs- oder Luftfahrterfahrung oder finanzieller Unterstützung gelungen war, es als Erste zu erreichen.
+
+Durch die intensive Arbeit Ihrerseits gewinnen Sie ein Gefühl dafür, was Sie erschaffen. 
+
+Bei dieser Arbeit sehen und spüren Sie die Fehler im Design. 
+
+Was Sie zu schaffen versuchen, wird nach ein paar kreativen Inspirationsschüben nicht auf magische Weise in Fahrt kommen, sondern muss durch einen schrittweisen Prozess langsam weiterentwickelt werden, während Sie Mängel korrigieren. 
+
+Am Ende gewinnen Sie durch überlegene Handwerkskunst, nicht durch Marketing. 
+
+Bei der Handwerkskunst geht es darum, etwas mit einer eleganten, einfachen Struktur zu schaffen und dabei das Beste aus den Materialien herauszuholen – eine hohe Form der Kreativität.
+
+[Mastery](https://www.goodreads.com/book/show/13589182-mastery)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

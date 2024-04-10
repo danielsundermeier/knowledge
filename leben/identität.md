@@ -288,6 +288,24 @@ Du wirst zum Sklaven der Leidenschaften. Aber wenn Sie sich mit gewohnter Selbst
 
 [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
+## Träumer
+
+Träume hohe Träume, und so wie du träumst, wirst du auch werden. Ihre Vision ist das Versprechen dessen, was Sie eines Tages sein werden. Ihr Ideal ist die Prophezeiung dessen, was Sie endlich enthüllen werden.
+
+Ihr Ideal ist die Prophezeiung dessen, was Sie endlich enthüllen werden.
+
+[As a Man Thinketh](https://www.goodreads.com/book/show/81959.As_a_Man_Thinketh)
+
+## Seelenmagnet
+
+Die Seele zieht das an, was sie heimlich birgt; das, was es liebt, und auch das, was es fürchtet. 
+
+Es erreicht den Höhepunkt seiner gehegten Ziele. 
+
+Es fällt auf die Ebene seiner ungezügelten Wünsche – und die Umstände sind die Mittel, durch die die Seele ihre eigenen Wünsche erhält.
+
+[As a Man Thinketh](https://www.goodreads.com/book/show/81959.As_a_Man_Thinketh)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

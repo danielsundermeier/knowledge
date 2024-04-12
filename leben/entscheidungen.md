@@ -194,6 +194,18 @@ Die Wurzel des Wortes „entscheiden“ bedeutet wörtlich „abschneiden“. Si
 
 [The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
 
+## Reduzieren Sie die Variabilität Ihres Verhaltens
+
+Versuchen Sie, die Variabilität Ihres Verhaltens von Tag zu Tag zu reduzieren. 
+
+Betrachten Sie jede Entscheidung, die Sie treffen, als eine Verpflichtung für alle zukünftigen Entscheidungen. 
+
+Anstatt also zu fragen: „Möchte ich diesen Schokoriegel jetzt essen?“ Fragen Sie sich: „Möchte ich im nächsten Jahr die Konsequenzen tragen, wenn ich jeden Nachmittag einen Schokoriegel esse?“ 
+
+Oder wenn Sie etwas aufgeschoben haben, von dem Sie wissen, dass Sie es tun sollten, anstatt zu fragen: „Möchte ich das lieber heute oder morgen tun?“ Fragen Sie sich: „Möchte ich wirklich die Konsequenzen tragen, wenn ich das immer aufschiebe?“
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

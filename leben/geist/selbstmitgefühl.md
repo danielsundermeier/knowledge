@@ -48,6 +48,36 @@ Sie müssen wissen, wohin Sie wollen, damit Sie das Ausmaß des Chaos in Ihrem L
 
 [12 Rules for Life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)
 
+## Sei nett zu dir selbst!
+
+Wenn Sie glauben, dass der Schlüssel zu größerer Willenskraft darin liegt, sich selbst stärker gegenüberzustehen, sind Sie nicht allein. 
+
+Aber du liegst falsch. 
+
+Eine Studie nach der anderen zeigt, dass Selbstkritik durchweg mit geringerer Motivation und schlechterer Selbstkontrolle verbunden ist. 
+
+Es ist auch einer der größten Prädiktoren für Depressionen, die sowohl die „Ich werde“- als auch die „Ich will“-Kraft schwächen. 
+
+Im Gegensatz dazu ist Selbstmitgefühl – unterstützend und freundlich zu sich selbst, insbesondere angesichts von Stress und Misserfolgen – mit mehr Motivation und besserer Selbstkontrolle verbunden. 
+
+Betrachten Sie zum Beispiel eine Studie an der Carleton University in Ottawa, Kanada, die den Aufschub von Studenten über ein ganzes Semester hinweg verfolgte. 
+
+Viele Studenten schieben das Lernen für die erste Prüfung auf, aber nicht jeder Student hat es sich zur Gewohnheit gemacht. 
+
+Studierende, die es sich selbst schwerer machten, ihre erste Prüfung aufzuschieben, zögerten auch spätere Prüfungen eher hinaus als Studierende, die sich selbst verziehen. 
+
+Je strenger sie sich beim ersten Mal mit dem Aufschieben beschäftigten, desto länger zögerten sie bis zur nächsten Prüfung! 
+
+Vergebung – nicht Schuldgefühle – half ihnen, wieder auf den richtigen Weg zu kommen.
+
+Jeder macht Fehler und erlebt Rückschläge. Wie wir mit diesen Rückschlägen umgehen, ist wichtiger als die Tatsache, dass sie passiert sind.
+
+Wir alle neigen dazu, an Selbstzweifel und Selbstkritik zu glauben, aber wenn wir auf diese Stimme hören, kommen wir unseren Zielen nie näher. 
+
+Versuchen Sie es stattdessen mit der Sichtweise eines Mentors oder guten Freundes, der an Sie glaubt, das Beste für Sie will und Sie ermutigt, wenn Sie sich entmutigt fühlen.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
 ## Bücher
 
 - [Self-Compassion](https://www.goodreads.com/book/show/10127008-self-compassion)

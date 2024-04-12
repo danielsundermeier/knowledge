@@ -227,6 +227,28 @@ Möglicherweise beschwören sie in ihrem Kopf sogar Bilder von dem unerwünschte
 
 [Choke](https://www.goodreads.com/book/show/9309079-choke)
 
+## Eine Stressabbau-Strategie, die funktioniert
+
+Während viele der beliebtesten Strategien zum Stressabbau nicht dazu führen, dass wir uns besser fühlen, funktionieren einige Strategien tatsächlich. 
+
+Laut der American Psychological Association sind die wirksamsten Strategien zum Stressabbau, Sport zu treiben, zu beten oder einen Gottesdienst zu besuchen, zu lesen, Musik zu hören, Zeit mit Freunden oder der Familie zu verbringen, sich massieren zu lassen, draußen spazieren zu gehen, Meditieren oder Yoga machen und Zeit mit einem kreativen Hobby verbringen. 
+
+Die am wenigsten wirksamen Strategien sind Glücksspiel, Einkaufen, Rauchen, Trinken, Essen, Videospiele spielen, im Internet surfen und länger als zwei Stunden fernsehen oder Filme schauen.
+
+Der Hauptunterschied zwischen den Strategien, die funktionieren, und den Strategien, die nicht funktionieren? 
+
+Anstatt Dopamin auszuschütten und sich auf das Versprechen einer Belohnung zu verlassen, fördern die echten Stressabbaumittel stimmungsaufhellende Gehirnchemikalien wie Serotonin und GABA sowie das Wohlfühlhormon Oxytocin. 
+
+Sie helfen auch dabei, die Stressreaktion des Gehirns abzuschalten, Stresshormone im Körper zu reduzieren und die heilende Entspannungsreaktion auszulösen. 
+
+Da sie nicht so aufregend sind wie die Dopamin-Freisetzer, neigen wir dazu, zu unterschätzen, wie gut sie uns fühlen lassen. 
+
+Und so vergessen wir diese Strategien nicht, weil sie nicht funktionieren, sondern weil unser Gehirn unter Stress ständig falsch vorhersagt, was uns glücklich machen wird. 
+
+Das bedeutet, dass wir uns oft davon abbringen, genau das zu tun, was uns tatsächlich besser fühlen lässt.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

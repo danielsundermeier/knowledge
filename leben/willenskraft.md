@@ -151,6 +151,144 @@ Dies zu tun bedeutet, Ihre Willenskraft zu steigern – und genau das bewirkt da
 
 [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
 
+## Meditation
+
+Es gibt immer mehr wissenschaftliche Beweise dafür, dass Sie Ihr Gehirn trainieren können, um die Selbstkontrolle zu verbessern.
+
+Neurowissenschaftler haben herausgefunden, dass das Gehirn, wenn man es zum Meditieren auffordert, nicht nur beim Meditieren, sondern auch bei einer Vielzahl von Selbstkontrollfähigkeiten verbessert wird, darunter Aufmerksamkeit, Konzentration, Stressbewältigung, Impulskontrolle und Selbstwahrnehmung. 
+
+Menschen, die regelmäßig meditieren, sind nicht nur in diesen Dingen besser. 
+
+Mit der Zeit werden ihre Gehirne zu fein abgestimmten Willensmaschinen. 
+
+Regelmäßige Meditierende haben mehr graue Substanz im präfrontalen Kortex sowie in Regionen des Gehirns, die die Selbstwahrnehmung unterstützen.
+
+Eine Studie ergab, dass bereits drei Stunden Meditationspraxis zu einer verbesserten Aufmerksamkeit und Selbstkontrolle führten. 
+
+Nach elf Stunden konnten die Forscher diese Veränderungen im Gehirn sehen. 
+
+Die neuen Meditierenden verfügten über verstärkte neuronale Verbindungen zwischen Regionen des Gehirns, die wichtig waren, um konzentriert zu bleiben, Ablenkungen zu ignorieren und Impulse zu kontrollieren. 
+
+Eine andere Studie ergab, dass acht Wochen tägliche Meditationspraxis zu einer gesteigerten Selbstwahrnehmung im Alltag sowie zu einer Zunahme der grauen Substanz in entsprechenden Bereichen des Gehirns führten. 
+
+Es mag unglaublich erscheinen, dass sich unser Gehirn so schnell umformen kann, aber Meditation erhöht die Durchblutung des präfrontalen Kortex, ähnlich wie das Heben von Gewichten die Durchblutung Ihrer Muskeln erhöht. 
+
+Das Gehirn scheint sich auf die gleiche Weise an das Training anzupassen wie die Muskeln: Es wird sowohl größer als auch schneller, um besser zu werden, was Sie von ihm verlangen.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Pausieren und Planen
+
+Suzanne Segerstrom, Psychologin an der University of Kentucky, untersucht, wie Geisteszustände wie Stress und Hoffnung den Körper beeinflussen. 
+
+Sie hat herausgefunden, dass Selbstkontrolle, genau wie Stress, eine biologische Signatur hat. 
+
+Das Bedürfnis nach Selbstbeherrschung setzt eine Reihe koordinierter Veränderungen in Gehirn und Körper in Gang, die Ihnen helfen, Versuchungen zu widerstehen und selbstzerstörerische Triebe zu überwinden. 
+
+Segerstrom nennt diese Veränderungen die „Pausieren-and-Planen-Reaktion“, die kaum anders aussehen könnte als die „Kampf-oder-Flucht“-Reaktion.
+
+Ihr Gehirn muss den Körper auf Ihre Ziele aufmerksam machen und Ihre Impulse bremsen. 
+
+Zu diesem Zweck übermittelt Ihr präfrontaler Kortex das Bedürfnis nach Selbstkontrolle an die unteren Hirnregionen, die Ihre Herzfrequenz, Ihren Blutdruck, Ihre Atmung und andere automatische Funktionen regulieren. 
+
+Die Pausieren-und-Planen-Reaktion treibt Sie in die entgegengesetzte Richtung der Kampf-oder-Flucht-Reaktion. 
+
+Anstatt zu beschleunigen, verlangsamt sich Ihr Herzschlag und Ihr Blutdruck bleibt normal. 
+
+Anstatt wie ein Verrückter zu hyperventilieren, atmen Sie tief durch. 
+
+Anstatt die Muskeln anzuspannen, um sie auf die Aktion vorzubereiten, entspannt sich Ihr Körper ein wenig.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Verlangsamen Sie Ihre Atmung
+
+In diesem Buch werden Sie nicht viele schnelle Lösungen finden, aber es gibt eine Möglichkeit, Ihre Willenskraft sofort zu stärken: Verlangsamen Sie Ihre Atmung auf vier bis sechs Atemzüge pro Minute. 
+
+Das sind zehn bis fünfzehn Sekunden pro Atemzug – langsamer als Sie normalerweise atmen, aber mit ein wenig Übung und Geduld nicht schwierig. 
+
+Durch die Verlangsamung der Atmung wird der präfrontale Kortex aktiviert und die Herzfrequenzvariabilität erhöht, was dabei hilft, Gehirn und Körper vom Stresszustand in den Selbstkontrollmodus zu versetzen. 
+
+Nach ein paar Minuten dieser Technik fühlen Sie sich ruhig, haben die Kontrolle und sind in der Lage, mit Heißhungerattacken oder Herausforderungen umzugehen.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Das Wundermittel der körperlichen Betätigung
+
+Es stellt sich heraus, dass körperliche Betätigung dem Wundermittel, das Wissenschaftler zur Selbstkontrolle entdeckt haben, am nächsten kommt. 
+
+Zunächst einmal sind die Vorteile des Trainings für die Willenskraft unmittelbar spürbar. 
+
+Fünfzehn Minuten auf dem Laufband reduzieren den Heißhunger, wie sich zeigt, wenn Forscher versuchen, Diätende mit Schokolade und Raucher mit Zigaretten zu verführen. 
+
+Noch beeindruckender sind die langfristigen Auswirkungen von Bewegung. 
+
+Es lindert nicht nur den alltäglichen Stress, sondern ist auch ein ebenso starkes Antidepressivum wie Prozac. 
+
+Training verbessert auch die Biologie der Selbstkontrolle, indem es die Basisvariabilität der Herzfrequenz erhöht und das Gehirn trainiert. 
+
+Als Neurowissenschaftler einen Blick in die Gehirne neuer Sportler geworfen haben, konnten sie eine Zunahme sowohl der grauen Substanz (Gehirnzellen) als auch der weißen Substanz feststellen, der Isolierung der Gehirnzellen, die ihnen hilft, schnell und effizient miteinander zu kommunizieren. 
+
+Körperliche Bewegung – wie Meditation – macht Ihr Gehirn größer und schneller, und der präfrontale Kortex zeigt den größten Trainingseffekt.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Kleine Übungen zur Selbstkontrolle
+
+Andere Studien haben herausgefunden, dass die Verpflichtung zu jedem kleinen, konsequenten Akt der Selbstbeherrschung – die Verbesserung Ihrer Körperhaltung, jeden Tag bis zur Erschöpfung einen Handgriff zu drücken, den Verzehr von Süßigkeiten zu reduzieren und den Überblick über Ihre Ausgaben zu behalten – die allgemeine Willenskraft steigern kann. 
+
+Und auch wenn diese kleinen Übungen zur Selbstkontrolle belanglos erscheinen mögen, scheinen sie die Herausforderungen der Willenskraft zu verbessern, die uns am meisten am Herzen liegen, darunter Konzentration bei der Arbeit, gute Pflege unserer Gesundheit, Widerstand gegen Versuchungen und das Gefühl, unsere Emotionen besser unter Kontrolle zu haben.
+
+Die wichtige „Muskel“-Aktion, die in all diesen Studien trainiert wird, ist nicht die spezifische Herausforderung der Willenskraft, Fristen einzuhalten, mit der linken Hand Türen zu öffnen oder das F-Wort für sich zu behalten. 
+
+Es ist die Angewohnheit, zu bemerken, was Sie gerade tun, und sich dafür zu entscheiden, das Schwierigere statt des Einfachsten zu tun. 
+
+Durch jede dieser Willenskraftübungen gewöhnt sich das Gehirn daran, vor dem Handeln eine Pause einzulegen. 
+
+Die Trivialität der Aufgaben kann diesen Prozess sogar unterstützen. 
+
+Die Aufgaben sind anspruchsvoll, aber nicht überfordernd. 
+
+Und obwohl die Selbstbeherrschung sorgfältige Aufmerksamkeit erfordert, ist es unwahrscheinlich, dass sie starke Gefühle der Entbehrung auslöst. 
+
+(„Was meinst du damit, dass ich nicht ‚Ja‘ sagen darf?!?!? Das ist das Einzige, was mich durch den Tag bringt!“) 
+
+Die relative Unwichtigkeit der Willenskraft-Herausforderungen ermöglichte es den Teilnehmern, die Muskeln des Selbstbewusstseins zu trainieren. 
+
+Kontrolle ohne die innere Angst, die so viele unserer Veränderungsversuche zunichte macht.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Brennen Sie die Schiffe und verpflichten Sie sich vorab
+
+Cortés wusste, dass die Besatzung bei ihrem ersten Kampf versucht sein würde, sich zurückzuziehen, wenn sie wüsste, dass sie die Möglichkeit hätte, wegzusegeln. 
+
+Der Legende nach befahl er seinen Offizieren, die Schiffe in Brand zu setzen. 
+
+Die Schiffe – spanische Galeonen und Karavellen – waren vollständig aus Holz gefertigt und mit einem extrem brennbaren Pech wasserdicht gemacht. 
+
+Cortés zündete die erste Fackel an, und als seine Männer die Schiffe zerstörten, brannten sie bis zur Wasserlinie nieder und sanken. 
+
+Dies ist eines der berüchtigtsten Beispiele der Geschichte dafür, wie man sein zukünftiges Selbst einer gewünschten Vorgehensweise verpflichtet. 
+
+Indem er seine Schiffe versenkte, bewies Cortés eine wichtige Einsicht in die menschliche Natur. 
+
+Während wir uns vielleicht mutig und unermüdlich fühlen, wenn wir uns auf ein Abenteuer einlassen, kann unser zukünftiges Selbst durch Angst und Erschöpfung entgleist sein. 
+
+Cortés verbrannte diese Schiffe, um sicherzustellen, dass seine Männer nicht aus ihrer Angst heraus handelten. 
+
+Er ließ der Crew – und all ihren zukünftigen Persönlichkeiten – keine andere Wahl, als weiterzumachen. 
+
+Dies ist eine Lieblingsgeschichte von Verhaltensökonomen, die glauben, dass die beste Strategie zur Selbstkontrolle im Wesentlichen darin besteht, die eigenen Schiffe niederzubrennen. 
+
+Einer der ersten Befürworter dieser Strategie war Thomas Schelling, ein Verhaltensökonom, der 2005 für seine Theorie des Kalten Krieges, wie Atommächte Konflikte bewältigen können, den Nobelpreis für Wirtschaftswissenschaften erhielt. 
+
+Schelling glaubte, dass wir unsere Möglichkeiten einschränken müssen, um unsere Ziele zu erreichen. 
+
+Er nannte dies Vorabverpflichtung.
+
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

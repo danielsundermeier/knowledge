@@ -580,9 +580,174 @@ Es ist wahrscheinlich notwendig, das Gleichgewicht zwischen Adam I und Adam II w
 
 [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
+## Leben, Freiheit und das große Streben
+
+Wir können die volle Bedeutung der Werte und Prinzipien unserer Nation nur dann erkennen, wenn wir richtig verstehen, dass das Glück, das wir nach den Gründervätern anstreben dürfen, kein fragiler Geisteszustand oder eine vergängliche Hochstimmung der Gefühle ist. 
+
+Es ist nicht einfach nur ein Gefühl der Freude, ein schwindelerregender Überschwang oder die Leichtigkeit des Trostes im Moment. 
+
+Wahres Glück ist viel tiefer und umfassender. Die antiken Philosophen, die unsere Gründer inspirierten, hatten entdeckt, dass wahres Glück ein grundlegender Seinszustand ist. 
+
+Es ist die faktische, objektive Realität einer tiefen Gesamtzufriedenheit mit unserem Leben, die aus der Arbeit entsteht, die für uns richtig ist, unterstützt durch Beziehungen, die für uns gesund sind, und verstärkt durch die Fähigkeit, jeden Moment so zu akzeptieren, wie er ist. 
+
+Authentisches Glück ist ein Nebenprodukt oder ein echter Nebeneffekt von Wachstum und Lernen, zusammen mit einer Portion Spaß und guter Arbeit, kombiniert mit der belastbaren Fähigkeit, gute Dinge und Menschen mit Liebe anzunehmen und die Fähigkeit zu entwickeln, den Prozess zu genießen.
+
+Dies ist etwas, das wirklich glückliche Menschen zu verstehen scheinen. 
+
+Glück besteht darin, unsere Talente auszuüben, als Individuum zu gedeihen und gesunde persönliche Beziehungen zu anderen zu pflegen. 
+
+Es ist eine Grundlage für jeden erstrebenswerten Erfolg. 
+
+Dazu gehört ein wahres Wohlergehen des Geistes und eine gute persönliche Absicht, die auf wichtigen Werten basiert. 
+
+Tatsächlich definierte Aristoteles einst Glück als „Wohlstand gepaart mit Tugend“. 
+
+Es ist der ideale Höhepunkt der menschlichen Existenz und nach Ansicht vieler großer Denker auch ein Hauptzweck unseres Seins.
+
+[The Everyday Patriot](https://www.goodreads.com/book/show/61378806-the-everyday-patriot)
+
+## Warum glücklich sein?
+
+Zusammenfassend lässt sich sagen, dass Glück in allen Lebensbereichen zahlreiche positive Nebeneffekte zu haben scheint, die nur wenige von uns wirklich verstehen. 
+
+Indem wir glücklicher werden, steigern wir nicht nur die Erfahrungen von Freude, Zufriedenheit, Liebe, Stolz und Ehrfurcht, sondern verbessern auch andere Aspekte unseres Lebens: unser Energieniveau, unser Immunsystem, unser Engagement bei der Arbeit und mit anderen Menschen sowie unsere körperliche und geistige Verfassung Psychische Gesundheit. 
+
+Indem wir glücklicher werden, stärken wir auch unser Selbstvertrauen und Selbstwertgefühl; Wir glauben, dass wir würdige Menschen sind, die Respekt verdienen. 
+
+Ein letzter und vielleicht am wenigsten geschätzter Pluspunkt ist, dass wir, wenn wir glücklicher werden, nicht nur uns selbst, sondern auch unseren Partnern, Familien, Gemeinschaften und sogar der Gesellschaft insgesamt zugute kommen.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Die 40 %-Lösung
+
+Kurz gesagt: Die Quelle des Glücks liegt darin, wie Sie sich verhalten, was Sie denken und welche Ziele Sie sich jeden Tag in Ihrem Leben setzen. 
+
+„Es gibt kein Glück ohne Handeln.“ 
+
+Wenn Sie Gefühle der Passivität und Sinnlosigkeit überkommen, wann immer Sie sich Ihrem Glücksziel oder Ihren Umständen stellen, müssen Sie wissen, dass ein echtes und dauerhaftes Glück tatsächlich in Ihrer Reichweite liegt und innerhalb der 40 Prozent des Glücks-Kreisdiagramms liegt, das Ihnen als Orientierung dient.
+
+Woraus bestehen diese 40 Prozent? 
+
+Neben unseren Genen und den Situationen, mit denen wir konfrontiert sind, gibt es noch eine entscheidende Sache: unser Verhalten. 
+
+Der Schlüssel zum Glück liegt also nicht in der Veränderung unserer genetischen Ausstattung (was unmöglich ist) und nicht in der Veränderung unserer Umstände (z. B. im Streben nach Reichtum, Attraktivität oder besseren Kollegen, was normalerweise unpraktisch ist), sondern in unseren täglichen, bewussten Aktivitäten. 
+
+Vor diesem Hintergrund veranschaulicht unser Kreisdiagramm das Potenzial der 40 Prozent, die wir kontrollieren können, die 40 Prozent für Handlungsspielraum, für Möglichkeiten, unser Glücksniveau durch das, was wir in unserem täglichen Leben tun und wie wir tun, zu steigern oder zu verringern wir denken.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Die Arbeit des Glücks
+
+Es mag offensichtlich sein, dass es einer großen Anstrengung bedarf, um im Leben etwas Wesentliches zu erreichen – einen Beruf zu erlernen, einen Sport zu meistern, ein Kind großzuziehen. 
+
+Aber vielen von uns fällt es schwer, den Begriff der Anstrengung auf unser emotionales oder mentales Leben anzuwenden. 
+
+Ohne Anstrengung haben wir vielleicht „Glück“, aber wie bei einem längst vergessenen Neujahrsvorsatz wird der Erfolg nur von kurzer Dauer sein. 
+
+Bedenken Sie, wie viel Zeit und Engagement viele Menschen für körperliche Betätigung aufwenden, sei es ins Fitnessstudio, Joggen, Kickboxen oder Yoga. Meine Forschung zeigt, dass man auf ähnliche Weise vorgehen muss, wenn man sich mehr Glück wünscht. 
+
+Mit anderen Worten: Um dauerhaft glücklicher zu werden, müssen Sie einige dauerhafte Veränderungen vornehmen, die jeden Tag Ihres Lebens Anstrengung und Engagement erfordern. 
+
+Das Streben nach Glück erfordert Arbeit, aber bedenken Sie, dass diese „Glücksarbeit“ möglicherweise die lohnendste Arbeit ist, die Sie jemals machen werden.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## 12 Glücksaktivitäten
+
+1. Dankbarkeit ausdrücken
+2. Optimismus kultivieren
+3. Überdenken und soziale Vergleiche vermeiden
+4. Freundliche Taten üben
+5. Soziale Beziehungen pflegen
+6. Entwicklung von Bewältigungsstrategien
+7. Vergeben lernen
+8. Steigerung der Flow-Erlebnisse
+9. Die Freuden des Lebens genießen
+10. Sich Ihren Zielen verpflichten
+11. Religion und Spiritualität praktizieren
+12. Kümmere dich um deinen Körper: Meditation + körperliche Aktivität + Verhalten wie ein glücklicher Mensch
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Barrierengedanken
+
+Schreiben Sie Ihre Barrierengedanken auf und überlegen Sie dann, wie Sie die Situation neu interpretieren können. 
+
+Stellen Sie sich dabei Fragen wie: 
+
+- Was könnte diese Situation oder Erfahrung sonst noch bedeuten? 
+- Kann daraus etwas Gutes entstehen? Bietet es Chancen für mich? 
+- Welche Lektionen kann ich lernen und für die Zukunft anwenden? 
+- Habe ich dadurch Stärken entwickelt?
+
+Im Wesentlichen geht es bei allen Optimismus-Strategien darum, die Welt aus einer positiveren und wohltätigeren Perspektive zu konstruieren, und bei vielen geht es darum, den Silberstreifen in der Wolke zu betrachten und die Tür, die sich öffnet, als Folge einer Tür zu identifizieren, die sich geschlossen hat. 
+
+Es erfordert harte Arbeit und viel Übung, um erfolgreich zu sein, aber wenn Sie an diesen Strategien festhalten können, bis sie zur Gewohnheit werden, könnten die Vorteile immens sein. 
+
+Manche Optimisten werden vielleicht so geboren, aber viele Optimisten werden durch Übung geschaffen.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Grübeln + negative Stimmung = Toxizität
+
+Die Kombination aus Grübeln und negativer Stimmung ist giftig. 
+
+Untersuchungen zeigen, dass Menschen, die traurig oder verstört grübeln, sich wahrscheinlich bedrängt, machtlos, selbstkritisch, pessimistisch und allgemein negativ voreingenommen fühlen.
+
+Ich habe herausgefunden, dass wirklich glückliche Menschen die Fähigkeit haben, sich abzulenken und sich auf Aktivitäten einzulassen, die ihre Energie und Aufmerksamkeit von dunklen oder ängstlichen Grübeleien ablenken.
+
+Wenn Sie jemand sind, der von Grübeleien geplagt wird, ist es unwahrscheinlich, dass Sie glücklicher werden, bevor Sie diese Gewohnheit aufgeben können.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Soziale Vergleiche
+
+Wir haben herausgefunden, dass die glücklichsten Menschen Freude an den Erfolgen anderer Menschen haben und sich angesichts der Misserfolge anderer Sorgen machen. 
+
+Allerdings hat sich ein völlig anderes Bild eines typischen unglücklichen Menschen ergeben – nämlich als jemand, der über die Erfolge seiner Kollegen eher enttäuscht als erfreut ist und angesichts der Misserfolge seiner Kollegen eher erleichtert als mitfühlend ist.
+
+Man kann nicht gleichzeitig neidisch und glücklich sein. Menschen, die sozialen Vergleichen zu viel Aufmerksamkeit schenken, fühlen sich chronisch verletzlich, bedroht und unsicher.
+
+Je glücklicher die Person ist, desto weniger achtet sie darauf, wie es anderen um sie herum geht.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Glückliche Menschen mögen Projekte
+
+Im Jahr 1932 fasste ein australischer Psychiater namens W. Béran Wolfe, belastet von den Sorgen und Qualen seiner egozentrischen und ziellosen Klienten, seine Philosophie folgendermaßen zusammen: 
+
+„Wenn Sie einen wirklich glücklichen Mann beobachten, werden Sie feststellen, dass er ein Boot baut, eine Symphonie schreibt, seinen Sohn erzieht, Dahlien in seinem Garten anbaut oder in der Wüste Gobi nach Dinosauriereiern sucht. 
+
+Menschen, die nach etwas persönlich Bedeutsamem streben, sei es das Erlernen eines neuen Handwerks, eine berufliche Veränderung oder die Erziehung moralischer Kinder, sind weitaus glücklicher als diejenigen, die keine starken Träume oder Ambitionen haben. 
+
+Finden Sie einen glücklichen Menschen und Sie werden ein Projekt finden.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
+## Das bestmögliche Selbst Tagebuch
+
+Es gibt viele Möglichkeiten, Optimismus zu praktizieren, aber die Methode, die nachweislich das Wohlbefinden steigert, ist die ursprüngliche Tagebuchmethode „Bestes mögliches Selbst“. 
+
+Um es auszuprobieren, setzen Sie sich an einen ruhigen Ort und nehmen Sie sich zwanzig bis dreißig Minuten Zeit, um darüber nachzudenken, wie Ihr Leben in ein, fünf oder zehn Jahren aussehen soll. 
+
+Stellen Sie sich eine Zukunft vor, in der sich alles so entwickelt hat, wie Sie es sich gewünscht haben. 
+
+Sie haben Ihr Bestes gegeben, hart gearbeitet und alle Ihre Ziele erreicht. 
+
+Schreiben Sie nun auf, was Sie sich vorstellen. 
+
+Diese Schreibübung trainiert gewissermaßen Ihre optimistischen „Muskeln“. 
+
+Auch wenn es zunächst nicht selbstverständlich ist, an die beste Zukunft für sich selbst zu denken, kann es mit der Zeit und dem Training dazu kommen. 
+
+Durch das Schreiben können erstaunliche Dinge entstehen.
+
+[The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)
+- [The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
 
 ## Links
 

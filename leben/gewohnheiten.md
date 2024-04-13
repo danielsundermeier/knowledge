@@ -641,6 +641,24 @@ Dann nutzen Sie jede Gelegenheit, um Ihre Gewohnheit zu üben. Üben Sie jeden T
 
 [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
+## Kontrollieren Sie Ihre Gewohnheiten
+
+Solange Sie nicht Herr Ihrer selbst sind und sich selbst befehlen können, die Dinge zu tun, die Sie tun sollten, aber vielleicht nicht tun wollen, sind Sie keine freie Seele. 
+
+Es ist keine Kleinigkeit, diese Freiheit zu erlangen – in dieser Freiheit liegt der Keim der ewigen Freiheit.
+
+Es sind nicht Ihre flüchtigen Gedanken oder brillanten Ideen, sondern Ihre alltäglichen Gewohnheiten, die Ihr Leben bestimmen. 
+
+Denkgewohnheiten sind mentale Magneten; Sie ziehen je nach der Qualität ihres Magnetismus bestimmte Objekte an. 
+
+Materielle Gewohnheiten ziehen materielle Dinge an.
+
+Schlechte Gewohnheiten sind vorübergehende, elende Einpflanzungen in die Seele. 
+
+Das Naturgesetz besagt, dass, wenn Sie etwas weniger böse als gut sind, Ihr Böses durch die größere Macht des Guten beseitigt wird; und wenn Sie etwas weniger Gutes als Böses haben, wird Ihr Gutes nach und nach von einer größeren Anzahl anderer böser Tendenzen absorbiert.
+
+[How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

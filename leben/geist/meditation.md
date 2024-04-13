@@ -105,6 +105,24 @@ Die kurze Antwort ist, dass wir durch eine Geistesblitz dorthin gelangen. Der Ge
 
 [You Are the Placebo](https://www.goodreads.com/book/show/18051504-you-are-the-placebo)
 
+## Die Kraft der Konzentration und Meditation
+
+Durch die Kraft der Konzentration und Meditation können Sie die ungeahnte Kraft Ihres Geistes dazu lenken, das zu erreichen, was Sie sich wünschen, und Sie können alle Türen schützen, durch die Misserfolge eindringen können. 
+
+Alle erfolgreichen Männer und Frauen haben viel Zeit tiefer Konzentration und Meditation aufgewendet – obwohl einige von ihnen vielleicht nie das Wort „Meditation“ verwendet haben, um ihre mentalen Prozesse zu beschreiben. 
+
+Sie waren Menschen, die tief in ihre Probleme eintauchen und die richtigen Lösungen finden konnten. 
+
+Wenn Sie lernen, Ihre Aufmerksamkeit von allen Objekten der Ablenkung abzuziehen und sie auf ein Objekt der Konzentration zu richten, dann werden Sie wissen, wie Sie nach Belieben das anziehen, was Sie brauchen.
+
+Wenn Sie etwas Wichtiges schaffen möchten, setzen Sie sich ruhig hin, beruhigen Sie Ihre Sinne und Gedanken und meditieren Sie tief über das, was Sie tun oder erwerben möchten. 
+
+Sie werden dann von der großen schöpferischen Kraft des Geistes geleitet. 
+
+Danach müssen Sie alle materiellen Ressourcen einsetzen, um das zu erreichen, was Sie erreichen möchten.
+
+[How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
+
 ## Bücher
 
 - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)

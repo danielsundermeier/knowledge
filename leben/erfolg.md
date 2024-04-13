@@ -435,6 +435,50 @@ Und als seine kleine Tochter, die er über alles auf der Welt liebte, kam, um ih
 
 [The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
 
+## Initiative + Willenskraft
+
+Ein weiteres Geheimnis des Fortschritts liegt in der Selbstanalyse. 
+
+Selbstbeobachtung ist ein Spiegel, in dem Sie Teile Ihres Geistes sehen können, die Ihnen sonst verborgen bleiben würden. 
+
+Es ist nie zu spät, Ihre Fehler zu diagnostizieren und Ihre guten und schlechten Tendenzen einzuschätzen. 
+
+Analysieren Sie, wer Sie sind, was Sie werden möchten und welche Tendenzen oder Mängel Sie behindern. 
+
+Entscheiden Sie, was Ihre tiefe und geheime Aufgabe ist – Ihre Mission im Leben –, damit Sie sich zu dem machen können, was Sie sein sollten und sein wollen. 
+
+Um dieses Ziel zu erreichen, nutzen Sie sowohl Initiative als auch Willenskraft.
+
+Was ist Initiative? Es ist die kreative Fähigkeit in dir, ein Funke des Unendlichen Schöpfers. 
+
+Es kann Ihnen die Macht geben, etwas zu erschaffen, was noch niemand sonst geschaffen hat. 
+
+Es fordert Sie dazu auf, Dinge auf neue Art und Weise zu tun. 
+
+Die Leistungen eines Initiativmenschen sind so spektakulär wie die einer Sternschnuppe. 
+
+Er macht das Unmögliche möglich, indem er die große erfinderische Kraft des Geistes nutzt.
+
+[How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
+
+## Systematisieren
+
+Ihr Engagement für das Geschäft ist wichtig, aber Ihr Auftrag, anderen zu dienen, ist wichtiger, und Ihr Engagement für Meditation, Gott und die Wahrheit ist am wichtigsten. 
+
+Sagen Sie nicht, dass Sie zu sehr damit beschäftigt sind, den Wolf von der Tür fernzuhalten, als dass Sie Zeit für die Entwicklung himmlischer Qualitäten hätten. 
+
+Brechen Sie Ihre selbstzufriedene, unerschütterliche schlechte Angewohnheit ab, Ihre weniger wichtigen Engagements zu vergöttern und Ihre wichtigstes Engagement mit Weisheit völlig zu ignorieren.
+
+Auseinandersetzungen mit Überaktivität und Mr. Müßiggang führen beide ins Elend. 
+
+Für den modernen Menschen ist es an der Zeit, seine jahrhundertealte Schläfrigkeit abzuschütteln und sein Leben zu systematisieren. 
+
+Der moderne Mensch hat gelernt, Wissenschaft, Psychologie und System für sein materielles Wohlergehen auf sein Geschäft anzuwenden. 
+
+Er sollte auch System und Wissenschaft anwenden, um seine Gesundheit, seinen Wohlstand und sein soziales Leben zu verbessern.
+
+[How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

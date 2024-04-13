@@ -289,6 +289,44 @@ Er nannte dies Vorabverpflichtung.
 
 [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
 
+## Warum Menschen scheitern
+
+Wissen Sie, warum Menschen scheitern? Es liegt daran, dass sie aufgeben. 
+
+Ich sage oft, wenn ich keinen Job hätte, würde ich die ganze Welt erschüttern, damit sie mir gerne einen Job geben würde, nur um mich zum Schweigen zu bringen. 
+
+Sie müssen Ihre Willenskraft ausüben. 
+
+Wenn du dich entschließt und wie eine Flamme gehst, wird alles auf deinem Weg verbrennen. 
+
+Der Mann der Verwirklichung geht dorthin, wo Kugeln fliegen, mit dem Göttlichen Willen im Rücken.
+
+Erwecke diese Willenskraft aus dem Tal der Unwissenheit. 
+
+Wie kann man es entwickeln? 
+
+Nehmen Sie eine Kleinigkeit auf, von der Sie glauben, dass Sie sie nicht tun können. 
+
+Versuchen Sie mit aller Kraft, dieses eine Ziel zu erreichen. 
+
+Wenn Sie das geschafft haben, gehen Sie zu etwas Größerem über und üben Sie weiterhin Ihre Willenskraft aus. 
+
+Wenn Ihre Schwierigkeiten groß sind, sagen Sie: „Herr, gib mir die Kraft, alle meine Schwierigkeiten zu überwinden.“ 
+
+Sie müssen Ihre Willenskraft einsetzen, egal wo Sie sind, für das, was Sie sind. 
+
+Sie müssen sich entscheiden. 
+
+Nutzen Sie diese Willenskraft im Geschäftsleben und in der Meditation.
+
+Diese Willenskraft liegt in Ihnen verborgen, und wenn Sie sie nutzen, gibt es nichts, was Sie nicht erreichen können.
+
+Es ist der Wille, der Sie von einem Wunsch zum nächsten führt, bis Sie mit aller Kraft versuchen, Erfolg zu haben. 
+
+Wie wenige Menschen entwickeln diese Willenskraft!
+
+[How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

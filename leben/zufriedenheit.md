@@ -744,6 +744,54 @@ Durch das Schreiben können erstaunliche Dinge entstehen.
 
 [The How of Happiness](https://www.goodreads.com/book/show/2326098.The_How_of_Happiness)
 
+## Mehr Leben in jeden Tag einbauen
+
+Ich erwähne diesen persönlichen Hintergrund aus zwei Gründen. Das erste ist, dass mein Zustand mir das Gefühl der Dringlichkeit gab, meine Zeit bestmöglich zu nutzen, was sich als überaus bedeutungsvoll und lohnend erwies. 
+
+Ich möchte Ihnen helfen, ein ähnliches Gefühl der Dringlichkeit zu fördern.
+
+Keiner von uns weiß wirklich, wie viel Zeit wir noch haben. 
+
+Nachdem ich seit meiner Diagnose mehr als 25 Jahre lang gelebt habe, was manche als geliehene Zeit bezeichnen, habe ich gelernt, dass Zeit wertvoller ist, wenn man seine Sterblichkeit am Horizont sehen kann. 
+
+Jüngste Untersuchungen haben ergeben, dass Kinder, die gegen Krebs kämpfen, im Vergleich zu Gleichaltrigen, die nicht vor einer ähnlichen Herausforderung standen, irgendwie gestärkt daraus hervorgehen. 
+
+Insbesondere wenn Menschen nach dem 12. Lebensjahr den Krebs bekämpfen und überleben, ist die Wahrscheinlichkeit größer, dass sie das erleben, was Wissenschaftler als posttraumatisches Wachstum bezeichnen.
+
+Warum passiert das? Eine Überprüfung von 18 Studien legt nahe, dass die Aussicht auf den Tod zu einer größeren Wertschätzung des Lebens, einer schnelleren Formulierung von Werten, mehr Nachdenken über den Sinn des Lebens und stärkeren sozialen Bindungen führt. 
+
+Wie ich aus Erfahrung gelernt habe, schafft man mehr Sinn in der Welt, wenn man bedenkt, wie kurz das Leben sein kann.
+
+Anfangs dachte ich nicht, dass ich so lange leben würde. Nun glaube ich nicht, dass es im besten Interesse von irgendjemandem ist, für immer so zu leben, wie er es getan hat. 
+
+Wenn Sie Ihre Zeit als begrenzt betrachten, bauen Sie in jeden Tag mehr Leben ein.
+
+[Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
+
+## Verbinden Sie das, was Sie tun, mit dem, dem Ihre Arbeit dient
+
+Sie können damit beginnen, Ihre täglichen Bemühungen mit der Art und Weise zu verknüpfen, wie sie zum Leben bestimmter Menschen beitragen – indem Sie Ihre Arbeit mit dem verknüpfen, dem Ihre Arbeit dient. 
+
+Mittlerweile gibt es unzählige Beispiele dafür, wie die Verbindung Ihrer Arbeit mit der Bedeutung, die sie für bestimmte Menschen schafft, zu besseren Ergebnissen sowie zu mehr Freude und Zufriedenheit bei der Arbeit führt.
+
+Wenn beispielsweise im Gastronomiebereich ein Koch oder jemand, der Essen zubereitet, die Menschen, die er bedient, buchstäblich sehen kann, erhöht sich die Zufriedenheit des Kunden mit der Mahlzeit um 10 %. 
+
+Wenn Koch und Kunde einander sehen können, steigt die Zufriedenheit mit der Essensqualität um 17 % und der Service ist um 13 % schneller. In anderen Berufen sehen Sie ein ähnliches Ergebnis.
+
+Wenn Rettungsschwimmer Geschichten über gerettete Menschenleben lesen, sind sie bei der Arbeit wachsamer. 
+
+Wenn telefonische Spendenaktionen von den Begünstigten ihrer Arbeit hören, sind sie motivierter und sammeln weitaus mehr Geld für ihre Sache. 
+
+Selbst wenn die einzigen Menschen, denen Sie dienen, interne Kunden oder Kollegen sind, hat die Verknüpfung Ihrer Arbeit mit dem direkten Beitrag, den sie leistet, greifbare Vorteile.
+
+In einer Harvard-Studie sahen sich Feldarbeiter, die Tomaten ernteten, Videos an, in denen sie zeigten, wie ihr Beitrag den Kollegen in der Fabrik einen weiteren Schritt in der Lieferkette half. 
+
+Im Vergleich zu einer Kontrollgruppe verzeichneten die Arbeiter, die sich dieses kurze Video ansahen, eine Produktivitätssteigerung von 7 %, gemessen an den pro Stunde geernteten Tonnen Tomaten. 
+
+Mein Fazit aus all dieser Forschung ist, dass Menschen ein weitaus größeres Zugehörigkeitsgefühl und ein nachhaltigeres Wohlbefinden empfinden, wenn sie ihre Bemühungen im Augenblick mit einem größeren Einfluss auf andere verbinden.
+
+[Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

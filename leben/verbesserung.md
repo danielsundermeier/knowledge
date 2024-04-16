@@ -653,6 +653,34 @@ Was sie nicht erkennen, ist, dass diese kleinen, scheinbar unbedeutenden Schritt
 
 [The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
 
+## Ich habe es nie in die NFL geschafft
+
+Meine Romanze mit dem Football begann, als mein Vater mich schreiend und tretend in eine Liga zerrte. Ich hatte keine Lust, dort zu sein. Ich war von Natur aus feige und bei weitem das kleinste Kind. Die Angst verwandelte sich in Ehrfurcht, als ich meinen Trainer Jim Graham traf, einen massigen, 1,80 Meter großen Kerl. Er war Linebacker für Penn State gewesen und war wirklich altmodisch. Ich meine, wirklich altmodisch; als ob er dachte, der Vorwärtspass sei ein Trickspiel.
+
+Am ersten Übungstag hatten wir alle Todesangst. Außerdem hatte er keine Footballs mitgebracht. Ein Kind hat sich endlich für uns alle eingesetzt. „Entschuldigen Sie, Trainer. Es gibt keine Footballs.“
+
+Und Trainer Graham antwortete: „Wir brauchen keine Footballs.“
+
+Es herrschte Stille, während wir darüber nachdachten.
+
+„Wie viele Männer sind gleichzeitig auf dem Footballplatz?“, fragte er uns.
+
+Elf pro Team, das ergibt also zweiundzwanzig.
+
+„Und wie viele Menschen berühren zu einem bestimmten Zeitpunkt den Football?“
+
+Einer von ihnen.
+
+„Richtig!“, sagte er. „Also werden wir daran arbeiten, was die anderen einundzwanzig Leute machen.“
+
+Grundlagen. Das war das große Geschenk, das uns Coach Graham gemacht hat. 
+
+Grundlagen, Grundlagen, Grundlagen. 
+
+Als Hochschulprofessor habe ich dies als eine Lektion gesehen, die so viele Kinder ignorieren, immer zu ihrem Nachteil: Man muss sich die Grundlagen aneignen, sonst funktionieren die ausgefallenen Dinge nicht.
+
+[The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

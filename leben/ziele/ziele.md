@@ -342,6 +342,48 @@ Wir sollten unsere Träume im Bereich des Möglichen halten – schwierig, aber 
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 
+## Träume groß
+
+Im Sommer 1969, als ich acht Jahre alt war, betraten erstmals Männer den Mond. 
+
+Da wusste ich, dass so ziemlich alles möglich ist. 
+
+Es war, als ob uns allen auf der ganzen Welt die Erlaubnis gegeben worden wäre, große Träume zu träumen.
+
+Ich verstehe die Argumente darüber, wie die Milliarden Dollar, die ausgegeben wurden, um Menschen auf den Mond zu bringen, zur Bekämpfung von Armut und Hunger auf der Erde verwendet werden könnten. 
+
+Aber sehen Sie, ich bin ein Wissenschaftler, der Inspiration als das ultimative Werkzeug betrachtet, um Gutes zu tun.
+
+Wenn man Geld zur Armutsbekämpfung einsetzt, kann es von großem Wert sein, aber allzu oft arbeitet man an den Grenzen. 
+
+Wenn Sie Menschen auf den Mond schicken, inspirieren Sie uns alle dazu, das Maximum unseres menschlichen Potenzials auszuschöpfen und so letztendlich unsere größten Probleme zu lösen.
+
+[The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture)
+
+## Denken Sie negativ
+
+Eine andere Möglichkeit, sich vorzubereiten, besteht darin, negativ zu denken. 
+
+Ja, ich bin ein großer Optimist. 
+
+Aber wenn ich versuche, eine Entscheidung zu treffen, denke ich oft an den schlimmsten Fall. 
+
+Ich nenne es „Eaten By Wolves Factor“. 
+
+Was ist das Schlimmste, was passieren kann, wenn ich etwas tue? Würde ich von Wölfen gefressen werden?
+
+Eine Sache, die es möglich macht, ein Optimist zu sein, ist, einen Notfallplan für den Fall zu haben, dass die Hölle losbricht. 
+
+Es gibt viele Dinge, über die ich mir keine Sorgen mache, weil ich einen Plan für den Fall habe. 
+
+Ich habe meinen Schülern oft gesagt: „Wenn man in die Wildnis geht, kann man sich nur darauf verlassen, was man mitnimmt.“ 
+
+Und im Grunde ist die Wildnis überall, außer bei Ihnen zu Hause oder im Büro. 
+
+Also nehmen Sie Geld und Ihr Reparaturset mit. Stellen Sie sich die Wölfe vor. Packen Sie eine Glühbirne ein. Sei vorbereitet.
+
+[The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

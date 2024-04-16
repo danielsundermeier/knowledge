@@ -122,6 +122,14 @@ Ihr Trainingstagebuch sollte (1) Ihre primären und sekundären Ziele, (2) Ihre 
 
 [The Maffetone Method](https://www.goodreads.com/book/show/460314.The_Maffetone_Method)
 
+## Die Energie, Ihr Bestes zu geben
+
+Helfen Sie den Menschen zu erkennen, dass die Optimierung ihres körperlichen Energieniveaus der Schlüssel zu mehr Spaß und mehr Wohlbefinden in jedem Moment und Tag ist. 
+
+Je mehr sie dem Schlaf Priorität einräumen und je besser ihre Ernährung am Morgen ist, desto aktiver sind sie den ganzen Tag über, und das führt zu einer Aufwärtsspirale zu besserer Gesundheit und Wohlbefinden.
+
+[Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

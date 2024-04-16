@@ -126,6 +126,16 @@ In jedem Gedanken steckt ein Gefühl, eine Emotion. Dieser Gedanke kommt entwede
 
 [It’s Just a Thought](https://www.goodreads.com/book/show/75483176-it-s-just-a-thought)
 
+## Deine Geheimwaffe
+
+Machen Sie ungeteilte Aufmerksamkeit zu Ihrer Geheimwaffe bei der Arbeit und im Leben. 
+
+Seien Sie derjenige, der kein Smartphone zur Hand hat und wirklich auf jedes Wort hört, wenn jemand es braucht. 
+
+Dies nur 20 Minuten lang zu tun, ist eine größere Investition in eine andere Person, als Sie vielleicht denken.
+
+[Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

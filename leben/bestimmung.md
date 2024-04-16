@@ -633,6 +633,28 @@ Sie müssen Ihren beruflichen Weg eher als eine Reise mit Wendungen und nicht al
 
 [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 
+## Zweck 2.0
+
+Die Idee, dass wir ein definiertes Ziel haben sollten, ist unzureichend; Das ist eine großartige, aber unpraktische Vorstellung davon, was wir von unserer Arbeit erwarten können. 
+
+Und die meisten Diskussionen über den Zweck neigen dazu, den tatsächlichen Wert der Arbeit, die die Menschen derzeit leisten, herunterzuspielen. 
+
+Es deutet fast darauf hin, dass wir, wenn wir wirklich einen Sinn im Leben verspüren wollen, entweder einen neuen Job finden oder über die Arbeit hinaus nach sinnvolleren Möglichkeiten suchen müssen, unsere Zeit zu verbringen.
+
+In jedem Job gibt es Möglichkeiten, das Wohlbefinden anderer Menschen positiv zu beeinflussen. 
+
+Die meisten von uns tun weit mehr für andere, als uns bewusst ist. 
+
+Wir haben auch viele Möglichkeiten, die Beiträge, die wir leisten, zu optimieren und sie an dem auszurichten, was uns am meisten erfüllt.
+
+Die meisten Menschen finden nicht gleich beim ersten Versuch einen perfekten Job. 
+
+Normalerweise braucht es jahrzehntelange Höhen und Tiefen und Lernerfahrungen, um einen Job zu finden, den man liebt und der für andere einen Unterschied macht. 
+
+Wichtiger als das Finden eines Lottoscheins ist es, jetzt ein wenig voranzukommen.
+
+[Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

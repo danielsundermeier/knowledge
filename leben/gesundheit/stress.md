@@ -249,6 +249,26 @@ Das bedeutet, dass wir uns oft davon abbringen, genau das zu tun, was uns tatsä
 
 [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
 
+## Gestresst? Hier erfahren Sie, wie Sie damit umgehen
+
+Viele Menschen möchten wissen, wie sie Stress reduzieren können. Lassen Sie mich etwas erzählen, das in meinem eigenen Leben wahr ist. 
+
+Aufschub vervielfacht den Stress. Die häufigste Ursache für Sorgen, Stresskopfschmerzen und Magenkrämpfe ist das Versäumnis, das zu tun, was getan werden muss, wenn es getan werden muss. 
+
+Wir haben diesen Anruf verschoben, weil wir darüber gestresst sind. Dies führt zu mehr Stress. 
+
+Wir haben das Schreiben des Berichts aufgeschoben, weil es unmöglich erscheint, ihn fertigzustellen. Dies führt zu mehr Stress. 
+
+Fällt Ihnen etwas ein, das Sie aufschieben? 
+
+Verursacht es tatsächlich mehr Stress in Ihrem Leben? 
+
+Ich weiß, dass es nicht immer einfach ist, aber wenn Sie sich dazu verpflichten, Ihre schwierigen Aufgaben direkt zu meistern, werden Sie viel weniger Stress in Ihrem Leben haben. 
+
+Der Charakter, der die wichtigen Aufgaben zuerst erledigt, ist entscheidend für die Produktivität.
+
+[The Trust Edge](https://www.goodreads.com/book/show/9457819-the-trust-edge)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

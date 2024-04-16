@@ -8,6 +8,8 @@
 
 > "Arrogance requires advertising. Confidence speaks for itself" - Mike Krzyzewski
 
+> "The mature human being goes about doing what needs to be done regardless of whether that person feels great or terrible. Knowing that you are the kind of person with that kind of self-control brings all the satisfaction and confidence you will ever need. Even on days when the satisfaction and confidence just aren’t there, you can get the job done anyway." - David Reynolds
+
 ## Quellen
 
 - Eigene Erfolgserlebnisse

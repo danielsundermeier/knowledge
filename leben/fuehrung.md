@@ -229,6 +229,36 @@ Ich bete, dass Sie ein Leben voller Abenteuer, Misserfolge, Erfolge und vielen L
 
 [Learn How to Lead to Win](https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win)
 
+## Klarheit
+
+Ohne einen klaren Plan sind die Mitarbeiter verwirrt und werden wirkungslos. 
+
+Ohne eine klare Produktauswahl werden potenzielle Kunden nicht kaufen. 
+
+Es ist schwierig, jemandem zu vertrauen, der unklare Pläne und unklare Erwartungen hat. 
+
+Die Menschen vertrauen dem Klaren und misstrauen dem Zweideutigen. Verwirrung führt zu Angst, Frustration und mangelnder Konzentration.
+
+Für den vertrauenswürdigen Anführer beginnt Klarheit mit Ehrlichkeit. 
+
+In einer umfangreichen Studie der Forum Corporation wurden Hunderte Verkäufer von elf Unternehmen in fünf Branchen untersucht. 
+
+Ziel war es, den Unterschied zwischen Top- und Durchschnittsproduzenten herauszufinden. 
+
+Die faszinierenden Ergebnisse zeigten, dass der Unterschied nicht in Charisma, Fähigkeiten oder Wissen lag. 
+
+Die einzigartige Eigenschaft von Spitzenproduzenten war nichts anderes als Ehrlichkeit! 
+
+Ehrliche Kommunikatoren schaffen Vertrauen.
+
+Die Klarheit wird auch erhöht, wenn eine Nachricht häufig gehört oder gesehen wird. 
+
+Laut einer bedeutenden weltweiten Umfrage müssen Menschen drei bis fünf Mal Informationen über ein Unternehmen hören, um sie zu glauben. 
+
+Um Klarheit zu schaffen, stellen Sie sicher, dass die Kommunikation ehrlich ist und wiederholt wird.
+
+[The Trust Edge](https://www.goodreads.com/book/show/9457819-the-trust-edge)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

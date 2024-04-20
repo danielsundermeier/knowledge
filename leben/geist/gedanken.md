@@ -358,6 +358,38 @@ Es lehrt den Geist, sich auf einen Punkt zu konzentrieren, und kultiviert eine B
 
 [The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
 
+## Beweisen Sie, dass der Pessimist Unrecht hat
+
+Beginnen Sie, gegen Ihre erste Argumentation zu argumentieren. 
+
+Stellen Sie sich vor, Sie wären ein Anwalt, dessen Aufgabe es ist, dem Pessimisten in Ihnen das Gegenteil zu beweisen. 
+
+Beginnen Sie damit, Ihre Argumente für das Mögliche zu erarbeiten. 
+
+Sie werden sich selbst überraschen. 
+
+Optimismus ist von Natur aus expansiv – er öffnet Tür für Tür für das, was möglich ist. 
+
+Pessimismus ist genau das Gegenteil – er ist einengend. 
+
+Es verschließt die Tür zur Möglichkeit. 
+
+Wenn Sie Ihr Leben wirklich öffnen und sich zum Erfolg motivieren möchten, werden Sie ein optimistischer Denker.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
+## Ihr Gehirn: Vergangenheit, Gegenwart und Zukunft
+
+Ihr Gehirn unterscheidet nicht zwischen dem, was im gegenwärtigen Moment passiert, und dem, was Sie erleben, während Sie eine Geschichte über die Vergangenheit erzählen. 
+
+Neurowissenschaftler entdecken, dass auf synaptischer Ebene ein reales und ein erinnertes Ereignis auf die gleiche Weise und mit der gleichen Intensität im Neocortex und im limbischen System registriert werden. 
+
+Berufssportler wissen, dass sie, um Höchstleistungen zu erbringen, zunächst einmal visualisieren müssen, wie sie eine perfekte Abfahrt absolvieren oder den Golfball auf das Grün schlagen. 
+
+Athleten, die sich vorstellen, eine Goldmedaille zu erhalten, schneiden nicht so gut ab wie diejenigen, die sich vorstellen, die Strecke erfolgreich zu laufen, weil erstere sehnsuchtsvoll träumen, während letztere die Nervenbahnen für einen erfolgreichen Lauf legen.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

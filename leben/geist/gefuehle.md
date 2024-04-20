@@ -73,6 +73,24 @@ Mit jedem glücklichen Freund in unserem sozialen Netzwerk steigt unsere eigene 
 
 [The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
 
+## Emotionen und Handlungen
+
+Der amerikanische Philosoph William James brachte es sehr deutlich auf den Punkt: „Wir singen nicht, weil wir glücklich sind, wir sind glücklich, weil wir singen.“
+
+Die meisten von uns glauben, dass ein Gefühl, zum Beispiel Glück, an erster Stelle steht. 
+
+Dann tun wir, was auch immer wir tun, als Reaktion auf diese bestimmte Emotion. 
+
+Die Emotion entsteht gleichzeitig mit der Ausführung der Handlung. 
+
+Wenn Sie also begeistert sein möchten, können Sie dies erreichen, indem Sie so tun, als wären Sie bereits begeistert. 
+
+Manchmal dauert es eine Minute. Manchmal setzt es einen Schlag aus. 
+
+Aber es funktioniert immer, wenn man dabei bleibt, egal wie lächerlich man sich dabei vorkommt.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

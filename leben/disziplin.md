@@ -83,3 +83,23 @@ Es ist einfach ein normaler Teil des Prozesses und sollte als solcher und nicht 
 Ich möchte, dass Sie am Ende dieses Buches oder sogar schon vorher tief im Inneren wissen, dass Ihr einziger Weg zum Erfolg über ein Kontinuum alltäglicher, unsexy, unaufregender und manchmal schwieriger täglicher Disziplinen führt, die sich im Laufe der Zeit verschärfen. Seien Sie sich auch darüber im Klaren, dass die Ergebnisse, das Leben und der Lebensstil Ihrer Träume Ihnen gehören können, wenn Sie den Compound-Effekt für sich einsetzen. Wenn Sie die im „Zusammengesetzten Effekt“ dargelegten Prinzipien anwenden, werden Sie Ihr märchenhaftes Ende schaffen.
 
 [The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
+
+## Disziplin (= Unzen) vs. Bedauern (= Tonnen)
+
+Wir alle sagen, dass wir erfolgreich sein wollen, aber früher oder später muss unser Aktivitätsniveau unserem Absichtsniveau entsprechen. 
+
+Über Leistung zu sprechen ist eine Sache; Es zu verwirklichen, ist etwas ganz anderes.
+
+Manche Menschen scheinen mehr Freude daran zu haben, über Erfolg zu sprechen, als daran, ihn zu erreichen. 
+
+Es ist, als ob ihr ritueller Gesang „Eines Tages“ sie in einem falschen Gefühl der Sicherheit wiegt und all die Dinge, die sie an einem bestimmten Tag tun sollten und tun könnten, scheinbar nie erledigt werden.
+
+Die Folgen dieser Selbsttäuschung haben ihren eigenen unvermeidlichen Preis. 
+
+Früher oder später wird der Tag kommen, an dem sie mit Bedauern auf all die Dinge zurückblicken, die sie hätten tun können und tun wollten, aber nicht getan haben. 
+
+Deshalb müssen wir uns in der Gegenwart anstrengen, um den milderen Schmerz der Disziplin zu erfahren. 
+
+Wir alle werden den einen oder anderen Schmerz erleben – den Schmerz der Disziplin oder den Schmerz des Bedauerns – aber der Unterschied besteht darin, dass der Schmerz der Disziplin nur wenige Unzen wiegt, während der Schmerz des Bedauerns Tonnen wiegt.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)

@@ -681,6 +681,44 @@ Als Hochschulprofessor habe ich dies als eine Lektion gesehen, die so viele Kind
 
 [The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture)
 
+## Ihr Meisterlehrer: Alltag
+
+Vor einigen Jahren erhielt ich einen Brief, in dem das Dilemma zum Ausdruck gebracht wurde, das viele teilten: 
+
+„Seit ich Ihr erstes Buch gelesen habe, habe ich ein wachsendes Interesse an spiritueller Praxis, aber wie kann ich die Zeit finden, wenn ich eine Frau und drei Kinder und ein vollwertiges Leben habe?“ 
+
+Ich schrieb zurück, um den Autor daran zu erinnern, dass seine Frau, seine Kinder und seine Arbeit seine wichtigsten spirituellen Praktiken waren – denn wahre Praxis ist nicht vom täglichen Leben getrennt, sondern vielmehr deren eigentliche Substanz. 
+
+Wie der Schriftsteller Adair Lara es ausdrückte: „Und einige, wie ich, fangen gerade erst an, die mächtige Religion des gewöhnlichen Lebens zu erraten, eine Spiritualität frisch gewischter Böden und gestapelter Teller sowie Kleidung, die auf der Leine weht.“
+
+Das tägliche Leben und die Reise, die es darstellt, werden Ihr Meisterlehrer bleiben.
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
+## Erforderliche Kurse in der Schule des Lebens
+
+Wenn die Erde eine Schule ist, welche Kurse müssen wir dann absolvieren, um unseren Abschluss zu machen? 
+
+Vor einigen Jahren kam mir die Antwort in Form von zwölf Kernfächern – einem spezifischen Lehrplan, der innerhalb (oder hinter) den Aktivitäten des Alltags verborgen war. 
+
+Zu diesen Themen gehören Selbstwertgefühl, Disziplin, Wohlbefinden, Geld, Verstand, Intuition, Emotionen, Mut, Selbsterkenntnis, Sexualität, Liebe und Dienst, die ich unten im Katalog der „Pflichtkurse“ darlege.
+
+In diesem perfekt gestalteten, vollständig integrierten Lehrplan sind alle Fächer gleichermaßen wichtig und alle sind Pflichtfächer. 
+
+Vielleicht werden wir an einem Tag auf dem Gebiet der Gesundheit oder des Geldes auf die Probe gestellt und am nächsten Tag stoßen wir auf ein Pop-Quiz zum Thema Mut. 
+
+Es gibt keine Noten, nur bestanden oder nicht bestanden. 
+
+Ein Bestehen zeigt einen Fortschritt an; Ein Misserfolg bietet die Möglichkeit, daraus zu lernen und es beim nächsten Mal besser zu machen. 
+
+(Es gibt also kein dauerhaftes Scheitern, sondern nur die Notwendigkeit, den Kurs zu wiederholen und mit dieser Studienrichtung fortzufahren.) 
+
+Bedenken Sie, dass das spirituelle Leben auf dem Boden beginnt, nicht in der Luft – selbst Olympioniken beginnen mit den Grundlagen. 
+
+Wenn Sie Ihre Fähigkeiten in jedem dieser Bereiche verbessern, werden Sie beginnen, die wahre Bedeutung von Erfolg in Form höherer Klarheit, Energie und Aktion zu erfahren.
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

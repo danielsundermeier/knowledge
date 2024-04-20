@@ -89,6 +89,48 @@ Beständigkeit ist ein einfacher Prozess:
 
 [Read This Book Tonight To Help You Win Tomorrow](https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow)
 
+## The Hard Thing Rule
+
+In unserer Familie leben wir nach der Hard-Thing-Regel. Sie besteht aus drei Teilen. 
+
+Der erste ist, dass jeder – auch Mama und Papa – etwas Schwieriges tun muss. 
+
+Eine schwierige Sache ist etwas, das tägliches, bewusstes Üben erfordert. 
+
+Ich habe meinen Kindern gesagt, dass psychologische Forschung mein schwieriges Ding ist, aber ich praktiziere auch Yoga. 
+
+Papa versucht, als Immobilienentwickler immer besser zu werden; Dasselbe macht er auch beim Laufen. 
+
+Meine ältere Tochter Amanda hat das Klavierspielen zu ihrer schwierigsten Sache gemacht. 
+
+Sie tanzte jahrelang Ballett, gab aber später auf. Lucy auch.
+
+Das bringt mich zum zweiten Teil der Hard-Thing-Regel: Sie können aufhören. 
+
+Aber Sie können nicht aufhören, bis die Saison vorbei ist, die Studiengebühren abgelaufen sind oder ein anderer „natürlicher“ Endpunkt erreicht ist. 
+
+Sie müssen, zumindest für die Zeitspanne, die Sie sich vorgenommen haben, zu Ende bringen, was Sie beginnen. 
+
+Mit anderen Worten, Sie können nicht an einem Tag aufhören, an dem Ihr Lehrer Sie anschreit, Sie ein Rennen verlieren oder eine Übernachtung wegen eines Konzerts am nächsten Morgen verpassen müssen. 
+
+An einem schlechten Tag kann man nicht aufgeben.
+
+Und schließlich besagt die Hard-Thing-Regel, dass Sie sich Ihr Hard-Thing aussuchen dürfen. 
+
+Niemand wählt es für Sie aus, denn schließlich würde es keinen Sinn machen, etwas Schwieriges zu tun, an dem Sie nicht einmal annähernd Interesse haben. 
+
+Sogar die Entscheidung, es mit Ballett zu versuchen, kam nach einer Diskussion über verschiedene andere Kurse, die meine Töchter stattdessen hätten wählen können.
+
+Tatsächlich hat Lucy ein halbes Dutzend schwierige Dinge durchgemacht. 
+
+Sie begann jedes mit Begeisterung, stellte aber schließlich fest, dass sie mit Ballett, Gymnastik, Leichtathletik, Kunsthandwerk oder Klavier nicht weitermachen wollte. 
+
+Am Ende landete sie bei der Bratsche. Sie ist seit drei Jahren dabei und in dieser Zeit hat ihr Interesse eher zugenommen als nachgelassen. 
+
+Letztes Jahr trat sie den Schul- und Stadtorchestern bei, und als ich sie kürzlich fragte, ob sie ihr hartes Ding auf etwas anderes umstellen wollte, schaute sie mich an, als wäre ich verrückt.
+
+[Grit](https://www.goodreads.com/book/show/27213329-grit)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

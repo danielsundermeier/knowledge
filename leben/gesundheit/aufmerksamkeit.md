@@ -136,6 +136,44 @@ Dies nur 20 Minuten lang zu tun, ist eine größere Investition in eine andere P
 
 [Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
 
+## Es gibt keine gewöhnlichen Momente
+
+Eines Abends in der Turnhalle, als Sokrates zusah, wie ich vom Reck flog, ein schwieriges Luftmanöver ausführte und meine Landung schaffte, hob ich vor Freude die Fäuste und erklärte mein Training für beendet. 
+
+Ich zog mein Sweatshirt aus, stopfte es in meine Trainingstasche und wir verließen das Fitnessstudio. 
+
+Als wir den Flur entlang gingen, sagte er: „Weißt du, Dan, der letzte Schritt, den du gemacht hast, war ziemlich schlampig.“
+
+„Wovon redest du?“, fragte ich. „Das war der beste Abgang, den ich seit langem gemacht habe.“
+
+„Ich spreche nicht vom Abstieg“, antwortete er. „Ich spreche davon, wie du dein Sweatshirt ausgezogen und in deine Tasche gesteckt hast.“
+
+Mir wurde klar, dass ich einen Moment beim Turnen als etwas Besonderes betrachtet hatte – und einen anderen Moment als gewöhnlich. 
+
+Sokrates erinnerte mich noch einmal daran, dass es keine gewöhnlichen Momente gibt. 
+
+Diese Erkenntnis, diese Herausforderung liegt im Kern Ihres Lebens und wird die Qualität jedes einzelnen Augenblicks bestimmen: Können Sie, werden Sie lernen, den gegenwärtigen Augenblick zu lieben? 
+
+Können Sie die Fähigkeit entwickeln, jedem entstehenden Moment die gleiche Aufmerksamkeit zu schenken, die Sie einem geschätzten Freund oder Liebhaber schenken würden – oder zumindest einem Online-Spiel? 
+
+Werden Sie mit dem unschätzbaren Wert jedes Augenblicks wach werden, der wie ein Sandkorn durch die Sanduhr Ihrer verbleibenden Zeit hier gleitet?
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
+## Achtsamkeit kultivieren
+
+Um unsere alltäglichen Möglichkeiten für Mut zu erkennen, müssen wir Achtsamkeit kultivieren, was einfach bedeutet, auf das zu achten, was gerade passiert. 
+
+Achtsamkeit bedeutet, dass wir uns nicht in Gedanken darüber verlieren, was morgen passieren könnte oder was gestern passiert ist; Stattdessen widmen wir unsere ungeteilte Aufmerksamkeit dem, was wir gerade tun.
+
+In unserer Kultur kann es schwierig sein, Achtsamkeit zu praktizieren, die uns dazu ermutigt, überreizt zu bleiben und herumzueilen, anstatt langsamer, ruhig, bewusst und nachdenklich zu werden.
+
+Achtsamkeit ist eine Gewohnheit, die sich leichter entwickeln lässt, wenn Sie täglich etwas tun, das Ihren Jaguar-Geist darauf trainiert, nicht mehr in alle Richtungen abzuschweifen und hinter jedem Baum zu schnüffeln. 
+
+Regelmäßige Meditation ist eine großartige Möglichkeit, Achtsamkeit zu entwickeln.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

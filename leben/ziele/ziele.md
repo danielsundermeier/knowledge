@@ -384,6 +384,60 @@ Also nehmen Sie Geld und Ihr Reparaturset mit. Stellen Sie sich die Wölfe vor. 
 
 [The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture)
 
+## Beenden Sie den Vorgang, bevor Sie beginnen
+
+Alles in der Welt um uns herum war im Kopf seines Schöpfers fertig, bevor es begonnen hatte. 
+
+Die Häuser, in denen wir leben, die Autos, die wir fahren, unsere Kleidung, unsere Einrichtung – all diese Dinge begannen mit einer Idee. 
+
+Jede Idee wurde dann entweder im Kopf oder auf dem Papier studiert, verfeinert und perfektioniert, bevor der erste Nagel eingeschlagen oder das erste Stück Stoff geschnitten wurde. 
+
+Lange bevor die Idee in die physische Realität umgesetzt wurde, hatte der Geist eine klare Vorstellung vom fertigen Produkt.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
+
+## Gestalten Sie die Zukunft
+
+Es entsteht ein ganz besonderer emotionaler Zauber, wenn wir die Zukunft gestalten und uns neue Ziele mit einem bestimmten Ziel vor Augen setzen. 
+
+Wenn wir die Zukunft klar vor unserem geistigen Auge sehen, verspüren wir eine gewisse Vorfreude auf den Tag, an dem alles, wovon wir träumen, Wirklichkeit wird. 
+
+Je klarer wir die Vision der Zukunft sehen, desto mehr können wir von ihrer Inspiration profitieren. 
+
+Diese geliehene Inspiration findet Eingang in unsere Gespräche, unser Energieniveau, unsere Beziehungen und unsere Einstellung. 
+
+Je begeisterter wir von unseren Zukunftsträumen sind, desto einfacher ist es, die notwendigen Disziplinen zu entwickeln und unsere Philosophie zu verfeinern. 
+
+Mit anderen Worten: Unsere Träume inspirieren uns zum Denken, Handeln und Fühlen und werden genau zu dem Menschen, der wir sein müssen, um unsere Träume zu verwirklichen.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
+
+## Wo liegt Ihr Fokus?
+
+Zu diesem Thema gab es einen interessanten Motivationsvortrag, den der frühere Trainer der Dallas Cowboys, Jimmy Johnson, vor dem Super Bowl 1993 an seine Footballspieler hielt: 
+
+„Ich sagte ihnen, wenn ich einen Balken quer durch den Raum legen würde, würden alle dort hinübergehen und nicht fallen, weil unser Fokus darauf liegen würde, wenn ich denselben Balken zehn Stockwerke hoch zwischen zwei Gebäuden aufstellen würde, würden es nur wenige schaffen, weil der Fokus darauf liegen würde zu fallen. 
+
+Fokus ist alles. Die Mannschaft, die heute konzentrierter ist, wird dieses Spiel gewinnen.“
+
+Johnson forderte sein Team auf, sich nicht von der Menge, den Medien oder der Möglichkeit einer Niederlage ablenken zu lassen, sondern sich auf jeden Spielzug selbst zu konzentrieren, als wäre es eine gute Trainingseinheit.
+
+Die Cowboys gewannen das Spiel mit 52-17.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
+## Absichtsdefizitstörung
+
+Sobald wir ein Bild davon haben, wer wir sein wollen, ist „definitiv geplante Arbeit“ der nächste Schritt auf dem Weg. 
+
+Definitiv geplante Arbeit weckt die Energie der Zielstrebigkeit. 
+
+Ohne sie leiden wir an einer seltsamen Art von Absichtsdefizitstörung. 
+
+Uns mangelt es an Absicht. Wir wissen nicht, wohin wir gehen oder was wir vorhaben.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

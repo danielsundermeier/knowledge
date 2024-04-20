@@ -206,6 +206,32 @@ Oder wenn Sie etwas aufgeschoben haben, von dem Sie wissen, dass Sie es tun soll
 
 [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
 
+## Entscheide dich, dich zu entscheiden
+
+Entscheiden Sie sich, eine Entscheidung zu treffen – und wenn Sie handeln, tun Sie dies mit der ganzen Kraft Ihres Wesens. 
+
+Sich selbst zu hinterfragen ist eine Form des Selbstmissbrauchs. 
+
+Wie Zen-Meister Ummon seine Schüler erinnerte: „Wenn du sitzt, setz dich; Wenn du stehst, steh – aber schwanke nicht zwischen den beiden!‘
+
+Bleiben Sie dem von Ihnen gewählten Kurs treu, es sei denn, Sie erhalten neue und zwingende Gründe, den Kurs zu ändern. 
+
+Wenn Sie sich vorgenommen haben, einen rauschenden Gebirgsbach zu überqueren, nur um nach einem Drittel der Strecke zu erkennen, dass die Strömung zu schnell und zu stark für eine sichere Überquerung ist, kann eine Änderung Ihrer Pläne nicht nur angemessen, sondern auch klug sein. 
+
+Das Gleiche gilt auch für Ihr größeres Leben. 
+
+Wenn Sie in einer missbräuchlichen Beziehung oder einem bestrafenden Job bleiben, ist es möglicherweise an der Zeit, es sich noch einmal zu überlegen und sich wieder einer lebensbejahenderen Richtung zuzuwenden und dabei Ihre Grenzen, Rechte und Ihren Wert zu berücksichtigen. 
+
+(Es gibt einen Unterschied zwischen Engagement und Masochismus.)
+
+Bei den meisten Entscheidungen, die wir treffen, bedeutet Engagement jedoch, auch wenn Zweifel und Schwierigkeiten auftauchen, vorwärts zu marschieren, Herausforderungen standzuhalten und an sich selbst und an die eigene Vorgehensweise zu glauben. 
+
+Glaube ist der Mut, so zu leben, als ob alles, was passiert und jede Entscheidung, die wir treffen, unserem höchsten Wohl und Lernen dient. 
+
+Der Glaube wird auch durch das höhere Verständnis genährt, dass jede Entscheidung letztendlich zur Weisheit führt.
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

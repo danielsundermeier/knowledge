@@ -70,6 +70,38 @@ Menschen mit einem hohen Mutquotienten verstehen, dass Scheitern oft ein Risiko 
 
 [The Courage Quotient](https://www.goodreads.com/book/show/13720625-the-courage-quotient)
 
+## Mut kommt vom Tun
+
+Emerson sagte einmal: „Der größte Mut besteht darin, es schon einmal getan zu haben“, und das bewahrheitete sich bald auch bei meinen öffentlichen Reden. 
+
+Die Angst davor, es zu tun, kann nur dadurch geheilt werden, dass man es tut. Und bald wurde mein Selbstvertrauen dadurch gestärkt, dass ich es immer wieder tat.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
+## Eine bescheidene Heldin, die ihr Schicksal akzeptiert
+
+In Comics beginnen Superhelden normalerweise als gewöhnliche Menschen, die erstaunliche Kräfte erlangen, nachdem ihnen etwas Schreckliches passiert ist: Ihre Eltern werden getötet, sie werden von einer radioaktiven Spinne gebissen oder sie werden mit einer Rakete von ihrem explodierenden Heimatplaneten weggeschleudert. 
+
+Die Tragödie markiert den Beginn ihres neuen Lebens als Helden mit außergewöhnlichen Fähigkeiten und großem Mut, die sie noch nie zuvor hatten.
+
+Während Sie Ihre Geschichte in Ihrem Kopf oder auf Papier schreiben, stellen Sie sich vor, was Sie heute mit Ihren Kräften tun könnten, um Wahrheit, Gerechtigkeit und Freiheit in Ihrem Leben zu manifestieren. 
+
+Stellen Sie sich nicht vor, Sie seien eine edle Retterin der Menschen in Gotham City, sondern eher eine bescheidene Heldin, die ihr Schicksal akzeptiert und giftige Wesen abwehrt, indem sie ihre erstaunlichen Gaben nutzt. 
+
+Dann verlassen Sie Ihre eigene Fledermaushöhle oder Festung der Einsamkeit und lassen Sie Ihren Mut heute in Ihrer Welt zum Ausdruck kommen.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
+## Seien Sie jederzeit bereit zu sterben
+
+Die Hüter der Erde glauben, dass wir, um voll zu leben und mutig zu träumen, jeden Morgen aufwachen und diesen Tag so leben müssen, als wäre es unser letzter. 
+
+Erst wenn wir uns der Realität stellen, dass wir sterblich sind und keine Kontrolle darüber haben, wann wir diese physische Existenz verlassen, finden wir den Mut, nicht mehr hektisch vor dem Tod, den wir fürchten, davonzulaufen, und unsere Energie in ein Leben voller Originalität zu stecken und Zweck.
+
+Wir brauchen moralischen Mut, damit wir unser Verhalten an unseren Prinzipien ausrichten können, anstatt uns zu entschuldigen, warum es in Ordnung ist, später zu einem günstigeren Zeitpunkt wieder auf der Grundlage von Integrität zu handeln.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [The Courage Quotient](https://www.goodreads.com/book/show/13720625-the-courage-quotient)

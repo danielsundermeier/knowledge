@@ -361,6 +361,60 @@ Bei der Handwerkskunst geht es darum, etwas mit einer eleganten, einfachen Struk
 
 [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 
+## 86.400 Ticks der Uhr
+
+Der heutige Tag bringt jedem von uns 1.440 Minuten; 86.400 Ticks der Uhr. 
+
+Sowohl die Armen als auch die Reichen haben 24 Stunden lang die gleichen Möglichkeiten. 
+
+Die Zeit begünstigt niemanden. 
+
+Der heutige Tag sagt lediglich: „Hier bin ich. Was wirst du mit mir machen?“ 
+
+Wie gut wir jeden Tag nutzen, hängt weitgehend von unserer Einstellung ab. 
+
+Mit der richtigen Einstellung können wir den Tag nutzen und ihn zu einem Neuanfang machen. 
+
+Heute kümmern wir uns nicht um die Misserfolge von gestern oder die Reue von morgen. 
+
+Es bietet lediglich das gleiche kostbare Geschenk – weitere 24 Stunden – und hofft, dass wir es mit Bedacht nutzen.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
+
+## Schöpfung vs. Reaktion
+
+Sie können im Voraus Ihre eigenen Pläne erstellen, damit Ihr Leben auf Sie reagiert. 
+
+Wenn Sie den Gedanken aufrechterhalten können, dass Ihr Leben jederzeit entweder eine Schöpfung oder eine Reaktion ist, können Sie sich ständig daran erinnern, etwas zu erschaffen und zu planen. 
+
+„Creation“ und „Reaction“ haben genau die gleichen Buchstaben; es sind Anagramme. (Vielleicht ist das der Grund, warum Menschen so leicht von einem in den anderen schlüpfen.)
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
+## Ersetzen Sie Sorgen durch Taten
+
+Ersetzen Sie Sorgen durch Taten. Mach dir keine Sorge. Oder besser gesagt, machen Sie sich nicht nur Sorgen. Lassen Sie Ihre Sorgen in die Tat umschlagen. 
+
+Wenn Sie sich über etwas Sorgen machen, stellen Sie sich die Handlungsfrage: „Was kann ich jetzt dagegen tun?“
+
+Und dann etwas tun. Irgendetwas. Irgendeine Kleinigkeit.
+
+Die meiste Zeit meines Lebens habe ich mir jedes Mal, wenn ich mir Sorgen machte, die falsche Frage gestellt. 
+
+Ich fragte mich: „Was sollte ich dabei empfinden?“. 
+
+Schließlich stellte ich fest, dass ich viel glücklicher war, als ich stattdessen anfing zu fragen: „Was kann ich dagegen tun?“
+
+Ich habe mir einmal ein System ausgedacht, das mir dabei geholfen hat, meine besorgniserregenden Gewohnheiten komplett umzukehren. 
+
+Ich würde die fünf Dinge aufzählen, die mir Sorgen bereiteten – vielleicht waren es vier Projekte bei der Arbeit und das fünfte waren die Probleme meines Sohnes, die er mit einem bestimmten Lehrer hatte. 
+
+Ich würde dann beschließen, fünf Minuten für jedes Problem aufzuwenden und etwas, irgendetwas zu tun. 
+
+Mit dieser Entscheidung wusste ich, dass ich mich zu 25 Minuten Aktivität verpflichte. Nicht mehr. Es fühlte sich also überhaupt nicht überwältigend an.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

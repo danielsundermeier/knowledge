@@ -655,6 +655,47 @@ Wichtiger als das Finden eines Lottoscheins ist es, jetzt ein wenig voranzukomme
 
 [Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
 
+## Die 4 Ziele des Lebens
+
+Aber warum vier Zwecke? 
+
+Manche könnten argumentieren, dass unser einziger (oder seelischer) Zweck darin besteht, lieben zu lernen – dass, was auch immer die Frage ist, Liebe die Antwort ist – oder dass spirituelles Erwachen oder die Hingabe an Gott unser höchstes Ziel ist. 
+
+Andere weisen darauf hin, dass unser primärer biologischer Zweck die Familie ist – die Bindung zu einem Partner sowie die Geburt und Betreuung von Kindern. 
+
+Wieder andere schlagen möglicherweise drei, fünf oder mehr Zwecke vor oder behaupten sogar, dass es so viele Zwecke, wie Menschen gibt.
+
+Doch genau wie wir alle Tage des Jahres in vier Jahreszeiten einteilen und einen Kompass in vier Hauptrichtungen zeigen, hilft uns die Sortierung unserer Lebenserfahrung in vier grundlegende Zwecke dabei, ein Gefühl für die Struktur innerhalb der Gesamtheit unserer Lebenserfahrung zu schaffen. 
+
+Diese vier Ziele bereiten uns auch auf das ultimative oder transzendentale Erwachen vor, das von allen großen spirituellen Traditionen versprochen wird, und weisen darauf hin.
+
+1. Die Lektionen des Lebens lernen
+2. Finden Sie Ihren Beruf und Ihre Berufung
+3. Entdecken Sie Ihren Lebensweg
+4. Auf diesen entstehenden Moment achten
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
+## Was ist Ihre Lebensphilosophie?
+
+Alles ist in unserer Reichweite, wenn wir die Bücher lesen, die Zeitschriften nutzen, die Disziplinen praktizieren und einen neuen und energischen Kampf gegen die Vernachlässigung führen. 
+
+Dies sind einige der grundlegenden Aktivitäten, die nicht nur zur Entwicklung einer neuen Philosophie, sondern auch zu einem neuen Leben voller Freude und Erfolg führen. 
+
+Jede neue und positive Aktivität schwächt den Griff des Scheiterns und führt uns immer näher an das Ziel unserer Wahl. 
+
+Jeder neue, disziplinierte Schritt zum Erfolg stärkt unsere philosophische Haltung und erhöht unsere Chancen auf ein ausgeglichenes Leben. 
+
+Aber der erste Schritt zur Verwirklichung dieser würdigen Leistung besteht darin, der Kapitän unseres Schiffes und der Kapitän unserer Seele zu werden, indem wir eine solide persönliche Philosophie entwickeln.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
+
+## Zweck: Das Antidepressivum
+
+Es ist unmöglich, zielstrebig zu arbeiten und gleichzeitig deprimiert zu sein. Eine sorgfältig geplante Arbeit motiviert Sie, mehr zu tun und sich weniger Sorgen zu machen.
+
+[100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

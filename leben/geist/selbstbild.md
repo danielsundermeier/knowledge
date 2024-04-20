@@ -428,6 +428,20 @@ Wenn wir dies tun, spielen wir eine aktive Rolle bei der Gestaltung unserer eige
 
 [A Round of Golf with My Father](https://www.goodreads.com/book/show/56268699-a-round-of-golf-with-my-father)
 
+## Opfer oder Held?
+
+Auch wenn der Verstand sich dagegen sträubt, ist es eine Tatsache, dass Sie wie ich die Wahl haben, ob Sie das Leben führen wollen, das Sie wollen, oder die Gründe dafür, warum Sie es nicht können. 
+
+Sie können in Freude und Frieden schwelgen oder sich ständig mit der großen schwarzen Tasche voll all der traurigen Ereignisse und Unfälle belasten, die Ihnen in Ihrer Kindheit oder Ihrer letzten Beziehung widerfahren sind. 
+
+Du kannst deine Wunden ertragen oder deinen Ruhm genießen. 
+
+Sie können das Leben eines Opfers führen, das von den Traumata Ihrer Vergangenheit belastet ist, oder Sie können das Leben eines Helden führen, aber Sie können nicht beides tun. 
+
+Wenn Sie sich gestärkt fühlen möchten, müssen Sie eine mutige Entscheidung treffen, einen heiligen Traum zu verwirklichen und Mut zu üben.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

@@ -792,6 +792,38 @@ Mein Fazit aus all dieser Forschung ist, dass Menschen ein weitaus größeres Zu
 
 [Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
 
+## Wie man bis ans Ende seiner Tage glücklich lebt
+
+Peter hatte sich selbst davon überzeugt, dass er kein Ziel hatte, weil er noch keine größere Mission für sein Leben begriffen hatte. 
+
+Aber er hatte übersehen, was vielleicht der wichtigste Zweck von allen ist – derjenige, der jedem von uns von Augenblick zu Augenblick vor Augen steht. 
+
+Solche Momente sind die Bausteine, die das Fundament bilden, auf dem wir unser Leben aufbauen.
+
+Die Aufmerksamkeit für diesen entstehenden Moment wurde von vielen verschiedenen Weisen zu unterschiedlichen Zeiten und in verschiedenen Kulturen befürwortet. 
+
+Yale-Professor William Phelps sagte: „Ich bemühe mich, jeden Tag so zu leben, als wäre es der erste, den ich je erlebt habe, und der letzte, den ich jemals erleben würde.“ 
+
+Zen-Schwertmeister Taisen Deshimaru erinnerte seine Schüler: „Seien Sie hier und jetzt glücklich. Sonst wirst du es nie sein.“ 
+
+Und die Autorin Barbara Rasp weist darauf hin: „Es ist nur möglich, von Moment zu Moment glücklich zu leben.“
+
+Wir lernen die Lektionen des Lebens (das erste Ziel), wir wählen unsere Karriere und Berufung (das zweite Ziel) und wir erfüllen unseren Lebensweg und unsere verborgene Berufung (das dritte Ziel) – alles in diesem gegenwärtigen Moment. 
+
+Willkommen beim vierten Sinn des Lebens. Du bist angekommen. 
+
+Egal, wohin Sie gehen und was auch immer das Zifferblatt anzeigt, Sie sind immer genau hier und jetzt.
+
+[The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
+
+## 3 Dinge, die gut laufen + was Sie getan haben, um sie zu schaffen
+
+Sie können Ihre Stimmung verbessern und ein Gefühl der Macht und Kontrolle über Ihre Existenz verspüren, indem Sie jeden Tag über drei Dinge nachdenken, die Ihnen passiert sind und für die Sie dankbar sind, und herausfinden, welche Rolle Sie bei der Manifestation dieser drei Situationen gespielt haben. 
+
+Wenn Sie das Gefühl haben, dass Ihr Leben nicht so ist, wie es sein sollte, Sie darüber nachdenken, was nicht funktioniert, oder sich selbst Vorwürfe machen für das, was Sie nicht erreicht haben, versuchen Sie diesen einfachen Akt der Anerkennung Ihrer Fähigkeit, mutig zu träumen wie Sie heute Ihre Welt und die Menschen um Sie herum beeinflusst haben.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

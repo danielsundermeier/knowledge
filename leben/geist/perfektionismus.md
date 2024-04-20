@@ -112,6 +112,26 @@ Perfektion ist das, wonach Sie streben, aber Perfektion ist eine Unmöglichkeit.
 
 [Wooden](https://www.goodreads.com/book/show/43536.Wooden)
 
+## Lassen Sie Ihr Bedürfnis los, perfekt zu sein
+
+Wir brauchen keine mythologischen Helden mehr. 
+
+Es gibt nichts Lähmenderes als die Vorstellung von Perfektion – wir haben das Gefühl, dass wir sie niemals erreichen können. 
+
+Warum sollten wir uns also die Mühe machen, es überhaupt zu versuchen? 
+
+Nein, wir müssen ehrlich darüber sein, was es bedeutet, ein Mensch zu sein: dass wir dazu verdammt sind, das Ziel der Perfektion zu verfehlen, aber kleine und beeindruckende Taten voller Mut und Größe zu vollbringen. 
+
+Anstatt zu glauben, dass manche Menschen makellos sind, sollten wir uns von der Tatsache inspirieren lassen, dass unsere Helden, ob gefeiert oder nicht, immer wieder auf Kurs kamen, wenn ihnen klar wurde, dass ihr Verhalten nicht mit ihrer Absicht übereinstimmte. 
+
+Einfach sagen: „Genug – ich mache weiter!“ ist ein mutiger Akt, der den Bann bricht.
+
+Wenn Sie perfekt sein wollen, werden Sie entmutigt sein und wieder in den Albtraum verfallen. 
+
+Lassen Sie Ihr Bedürfnis los, perfekt und über jeden Zweifel erhaben zu sein. Das wird nicht passieren.
+
+[Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
+
 ## Bücher
 
 - [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)

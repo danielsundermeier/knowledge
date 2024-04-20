@@ -98,5 +98,21 @@ Das Abenteuer ist immer und überall ein Übergang über den Schleier des Bekann
 
 [The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces)
 
+## Tickende Uhren und Hörprobleme
+
+Der gefährlichste Aspekt der Komfortzone besteht darin, dass sie unser Gehör zu beeinträchtigen scheint. 
+
+Je wohler wir uns fühlen, desto weniger nehmen wir das Ticken der Uhr wahr. 
+
+Da uns scheinbar immer so viel Zeit bevorsteht, verschwenden wir unwissentlich den gegenwärtigen Moment. 
+
+Wir nutzen es eher zur Unterhaltung als zur Vorbereitung.
+
+Jeder von uns muss häufig innehalten, um sich daran zu erinnern, dass die Uhr tickt. 
+
+Die gleiche Uhr, die von dem Moment an zu ticken begann, als wir unseren ersten Atemzug machten, wird eines Tages auch stehen bleiben.
+
+[The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
+
 ## Bücher
 

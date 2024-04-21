@@ -248,6 +248,30 @@ Dieser Schmerz wird sich in Bitterkeit und Neid äußern und Sie werden die wahr
 
 [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 
+## Die drei Gesetze der Meisterschaft
+
+Flow ist für die Meisterschaft unerlässlich. 
+
+Aber Flow garantiert keine Meisterschaft – denn die beiden Konzepte operieren auf unterschiedlichen Zeithorizonten. 
+
+Eines geschieht in einem Augenblick; das andere entfaltet sich über Monate, Jahre, manchmal Jahrzehnte. 
+
+Sie und ich erreichen vielleicht morgen früh den Flow – aber keiner von uns wird über Nacht die Meisterschaft erlangen.
+
+Wie können wir also den Fluss bei der Suche nach etwas anregen, das tiefer geht und länger anhält? 
+
+Was können wir tun, um in unseren Organisationen und unserem Leben zur Meisterschaft zu gelangen, einem der Schlüsselelemente des Typ-I-Verhaltens? 
+
+Einige Verhaltensforscher haben erste Antworten auf diese Fragen gegeben, und ihre Ergebnisse deuten darauf hin, dass die Beherrschung dreier recht eigenartiger Gesetze unterliegt.
+
+1. Meisterschaft ist eine Denkweise
+2. Meisterschaft ist ein Schmerz
+3. Meisterschaft ist eine Asymptote
+
+Sich daran zu erinnern, dass man am dritten Tag kein Meister sein muss, ist der beste Weg, um sicherzustellen, dass man es auch am 3.000. Tag sein wird.
+
+[Drive](https://www.goodreads.com/book/show/6452796-drive)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

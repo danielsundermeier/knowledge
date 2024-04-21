@@ -696,6 +696,34 @@ Es ist unmöglich, zielstrebig zu arbeiten und gleichzeitig deprimiert zu sein. 
 
 [100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
 
+## Eine große Frage + eine kleine Frage
+
+Im Jahr 1962 gab Clare Boothe Luce, eine der ersten Frauen im US-Kongress, Präsident John F. Kennedy einige Ratschläge. 
+
+„Ein großer Mann“, sagte sie ihm, „ist ein Satz.“ 
+
+Der Satz von Abraham Lincoln lautete: „Er hat die Gewerkschaft bewahrt und die Sklaven befreit.“
+
+Franklin Roosevelts Aussage lautete: „Er hat uns aus der Weltwirtschaftskrise herausgeholt und uns geholfen, einen Weltkrieg zu gewinnen.“
+
+Luce befürchtete, dass Kennedys Aufmerksamkeit so auf verschiedene Prioritäten gespalten sei, dass sein Satz Gefahr laufe, zu einem wirren Absatz zu werden.
+
+Sie müssen kein Präsident der Vereinigten Staaten oder Ihres örtlichen Gartenclubs sein, um aus dieser Geschichte zu lernen. 
+
+Eine Möglichkeit, Ihr Leben auf einen größeren Sinn auszurichten, besteht darin, über Ihren Satz nachzudenken. 
+
+Vielleicht heißt es: „Er hat vier Kinder großgezogen, die zu glücklichen und gesunden Erwachsenen wurden.“ 
+
+Oder „Sie hat ein Gerät erfunden, das das Leben der Menschen einfacher machte.“ 
+
+Oder „Er kümmerte sich um jede Person, die sein Büro betrat, unabhängig davon, ob diese Person bezahlen konnte.“ 
+
+Oder „Sie brachte zwei Generationen von Kindern das Lesen bei.“
+
+Wenn Sie über Ihr Ziel nachdenken, beginnen Sie mit der großen Frage: Wie lautet Ihr Satz?
+
+[Drive](https://www.goodreads.com/book/show/6452796-drive)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

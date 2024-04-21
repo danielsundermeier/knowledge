@@ -178,6 +178,68 @@ Tatsächlich waren die Ergebnisse so eindeutig, dass die Forscher die Studie „
 
 [The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
 
+## Der Sawyer-Effekt
+
+Sie stellten immer wieder fest, dass extrinsische Belohnungen – insbesondere kontingente, erwartete „Wenn-Dann“-Belohnungen – den dritten Antrieb zunichte machten.
+
+Diese Erkenntnisse erwiesen sich als so kontrovers – schließlich stellten sie eine gängige Praxis der meisten Unternehmen und Schulen in Frage –, dass Deci und zwei Kollegen 1999 fast drei Jahrzehnte an Studien zu diesem Thema erneut analysierten, um ihre Ergebnisse zu bestätigen. 
+
+„Eine sorgfältige Betrachtung der in 128 Experimenten berichteten Belohnungseffekte führte zu dem Schluss, dass greifbare Belohnungen tendenziell einen erheblich negativen Einfluss auf die intrinsische Motivation haben“, stellten sie fest. 
+
+„Wenn Institutionen – zum Beispiel Familien, Schulen, Unternehmen und Sportmannschaften – sich auf das Kurzfristige konzentrieren und sich dafür entscheiden, das Verhalten der Menschen zu kontrollieren, richten sie langfristig erheblichen Schaden an.“
+
+Versuchen Sie, ein Kind zum Mathematiklernen zu ermutigen, indem Sie es für jede ausgefüllte Arbeitsbuchseite bezahlen – und es wird mit ziemlicher Sicherheit kurzfristig fleißiger werden und langfristig das Interesse verlieren. 
+
+Nehmen Sie einen Industriedesigner, der seine Arbeit liebt, und versuchen Sie, ihn zu besseren Leistungen zu bewegen, indem Sie sein Gehalt von einem Erfolgsprodukt abhängig machen – und er wird auf kurze Sicht mit ziemlicher Sicherheit wie ein Verrückter arbeiten, sich aber in der Folge langfristig weniger für seinen Job interessieren. 
+
+Ein führendes Lehrbuch der Verhaltenswissenschaften bringt es auf den Punkt: „Menschen nutzen Belohnungen in der Erwartung, dadurch die Motivation und das Verhalten einer anderen Person zu steigern, aber wenn sie das tun, nehmen sie oft den unbeabsichtigten und versteckten Preis in Kauf, dass sie die intrinsische Motivation dieser Person für die Aktivität untergraben.“
+
+Dies ist eine der belastbarsten Erkenntnisse der Sozialwissenschaften – und auch eine der am meisten ignorierten.
+
+Belohnungen können eine seltsame Verhaltensalchemie bewirken: Sie können eine interessante Aufgabe in eine Plackerei verwandeln. 
+
+Sie können das Spielen in Arbeit verwandeln. 
+
+Und indem sie die intrinsische Motivation schwächen, können sie dazu führen, dass Leistung, Kreativität und sogar aufrichtiges Verhalten wie Dominosteine ins Wanken geraten.
+
+[Drive](https://www.goodreads.com/book/show/6452796-drive)
+
+## Autonomie = Sonne des SDT-Sonnensystems
+
+Die grundsätzlich autonome Qualität der menschlichen Natur ist von zentraler Bedeutung für die Selbstbestimmungstheorie (SDT). 
+
+Wie ich im vorherigen Kapitel erklärt habe, nennen Deci und Ryan Autonomie als eines der drei Grundbedürfnisse des Menschen. 
+
+Und von den dreien ist es das Wichtigste – die Sonne, um die die Planeten von SDT kreisen. 
+
+In den 1980er Jahren gingen Deci und Ryan im Verlauf ihrer Arbeit von der strengen Kategorisierung des Verhaltens als entweder extrinsisch motiviert oder intrinsisch motiviert zu einer Kategorisierung als entweder kontrolliert oder autonom über. 
+
+„Bei autonomer Motivation geht es darum, sich mit vollem Willens- und Wahlgefühl zu verhalten“, schreiben sie, „während kontrollierte Motivation das Verhalten mit der Erfahrung von Druck und Forderung nach bestimmten Ergebnissen einschließt, die von Kräften herrühren, die als außerhalb des Selbst wahrgenommen werden.“
+
+Autonomie ist ihrer Meinung nach etwas anderes als Unabhängigkeit. 
+
+Es ist nicht der schroffe, eigensinnige, auf niemanden angewiesene Individualismus des amerikanischen Cowboys. 
+
+Es bedeutet, frei zu handeln – was bedeutet, dass wir sowohl autonom als auch in glücklicher gegenseitiger Abhängigkeit von anderen sein können.
+
+[Drive](https://www.goodreads.com/book/show/6452796-drive)
+
+## Die Cocktailparty Zusammenfassung
+
+Wenn es um Motivation geht, besteht eine Lücke zwischen dem, was die Wissenschaft weiß, und dem, was die Wirtschaft tut. 
+
+Unser aktuelles Geschäftsbetriebssystem, das auf externen, Zuckerbrot-und-Peitsche-Motivatoren aufgebaut ist, funktioniert nicht und schadet oft. 
+
+Wir brauchen ein Upgrade. Und die Wissenschaft zeigt den Weg. 
+
+Dieser neue Ansatz besteht aus drei wesentlichen Elementen: 
+
+1. Autonomie – dem Wunsch, unser Leben selbst zu bestimmen
+2. Meisterschaft – der Drang, in etwas Wichtigem immer besser zu werden
+3. Zweck – die Sehnsucht, das, was wir tun, im Dienste von etwas zu tun, das größer ist als wir selbst.
+
+[Drive](https://www.goodreads.com/book/show/6452796-drive)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

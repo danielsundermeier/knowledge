@@ -438,6 +438,30 @@ Uns mangelt es an Absicht. Wir wissen nicht, wohin wir gehen oder was wir vorhab
 
 [100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
 
+## Verantwortung übernehmen + Ziele erreichen
+
+Die Vorstellung, dass das Leben Leiden bedeutet, ist eine relativ universelle Binsenweisheit des religiösen Denkens. 
+
+Dies ist die erste der vier edlen Wahrheiten des Buddhismus und ein zentrales Konzept der Hindus. 
+
+Es gibt eine Überlieferung, dass das alte Wort für Leiden – dukkha (aus der Pali-Sprache) oder duhkha (aus dem Sanskrit) – von dus (schlecht) und kha (Loch) abgeleitet ist – insbesondere dem Loch im Rad eines Pferdewagens, an dem die Achse sitzt. 
+
+Der richtige Ort für ein solches Loch ist direkt in der Mitte. 
+
+Andernfalls wird die Fahrt wahrscheinlich sehr holprig sein – wobei die Stärke der Unebenheiten direkt proportional zum Grad des Versatzes ist. 
+
+Das erinnert mich ziemlich an den griechischen Begriff hamartia, der im Kontext des christlichen Denkens häufig mit „Sünde“ übersetzt wird.
+
+Hamartia war ursprünglich ein Begriff für das Bogenschießen und bedeutete das Fehlen des Ziels. 
+
+Es gibt viele Möglichkeiten, wie ein Ziel verfehlt werden kann. 
+
+In meiner klinischen Praxis – und in meinem Privatleben – habe ich häufig beobachtet, dass Menschen nicht bekamen, was sie brauchten (oder, was vielleicht genauso wichtig ist, was sie wollten), weil sie sich selbst oder anderen nie klar machten, was das war. 
+
+Es ist schließlich unmöglich, ein Ziel zu treffen, es sei denn, man zielt darauf.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

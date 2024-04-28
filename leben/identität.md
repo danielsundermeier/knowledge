@@ -306,6 +306,36 @@ Es fällt auf die Ebene seiner ungezügelten Wünsche – und die Umstände sind
 
 [As a Man Thinketh](https://www.goodreads.com/book/show/81959.As_a_Man_Thinketh)
 
+## Wer sind Sie – oder wer könnten Sie sein?
+
+Frage: Wer sind Sie – oder wer könnten Sie sein? 
+
+Antwort: Teil der ewigen Kraft, die sich ständig und freiwillig dem schrecklichen Unbekannten stellt; 
+
+Teil der ewigen Kraft, die über die Naivität hinausgeht und auf kontrollierte Weise gefährlich genug wird, um das Böse zu verstehen und es in seinem Versteck zu ertragen; 
+
+und Teil der ewigen Kraft, die dem Chaos entgegentritt und es in produktive Ordnung verwandelt, oder die Ordnung aufnimmt, die zu unruhig geworden ist, sie ins Chaos reduziert und sie wieder produktiv macht.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
+## Das heroische Prinzip
+
+Die grundlegende Geschichte ist folgende: Wenn die Ordnung (Apsu) achtlos bedroht oder zerstört wird, erscheinen die schrecklichen Kräfte des Chaos, aus denen die Welt ursprünglich hervorgegangen ist, erneut in ihrer zerstörerischsten, monströssten und räuberischsten Verkleidung. 
+
+Dann muss ein Held entstehen oder gewählt werden, der die höchsten Werte vertritt, um dieser chaotischen Macht entgegenzutreten. 
+
+Er tut dies erfolgreich und leitet oder produziert etwas von großem Wert. 
+
+Was der Held repräsentiert, ist der wichtigste Teil der großen Kräfte, die die menschliche Psyche ausmachen. 
+
+Anders ausgedrückt: Der Held ist das verkörperte Prinzip des Handelns und der Wahrnehmung, das über alle ursprünglichen psychologischen Elemente wie Lust, Wut, Hunger, Durst, Terror und Freude herrschen muss. 
+
+Damit das Chaos wirksam in Schach gehalten (oder, noch besser, gezähmt und somit nutzbar gemacht) werden kann, muss dieses heroische Prinzip als das wichtigste aller Dinge angesehen werden, die die Menschheit organisieren und motivieren können. 
+
+Das bedeutet zumindest, dass es kontinuierlich ausgelebt werden muss, was eigentlich mit „als wichtig angesehen“ gemeint ist.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

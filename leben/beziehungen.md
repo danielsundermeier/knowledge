@@ -314,6 +314,20 @@ Barbara Frederickson bezeichnet es als den großzügigen Cousin der Dankbarkeit.
 
 [Love 2.0](https://www.goodreads.com/book/show/15808839-love-2-0)
 
+## Kreieren (nicht finden) Sie Ihren Seelenverwandten
+
+Möchten Sie sich wirklich für den Rest Ihres Lebens immer wieder die Frage stellen – denn Sie hätten immer die Möglichkeit zu gehen –, ob Sie die richtige Wahl getroffen hätten? 
+
+Aller Wahrscheinlichkeit nach haben Sie das nicht getan. 
+
+Es gibt sieben Milliarden Menschen auf der Welt. Mindestens hundert Millionen (sagen wir mal) wären für Sie gute Partner gewesen. 
+
+Sie hatten keine Zeit, sie alle auszuprobieren, und die Wahrscheinlichkeit, dass Sie die theoretisch optimale Person gefunden haben, geht gegen Null. 
+
+Wenn Sie einen Fluchtweg haben, wird in der Kammer, in der Sie sich gemeinsam gefangen befinden, nicht genügend Wärme erzeugt, um die in Ihnen beiden notwendige Veränderung zu katalysieren – die Reifung, die Entwicklung von Weisheit –, denn Reifung und die Entwicklung von Weisheit erfordern ein gewisses Maß an Leiden, und dem Leiden kann man entkommen, solange es einen Ausweg gibt.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

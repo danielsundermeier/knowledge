@@ -179,9 +179,105 @@ Statt uns zu bestrafen, können wir uns fragen, was wir beim nächsten Mal besse
 - Keine Snacks
 - Vor und nach dem Training Mahlzeit mit Protein und Kohlenhydrate; Fett hat keinen Vorteil für das Training
 
+## Es liegt nicht an dir
+
+Willkommen bei einem Kochbuch, wie Sie es noch nie zuvor verwendet haben. 
+
+Dies ist kein typisches „Diät“-Kochbuch, in dem Sie einfach zu den Rezepten springen, dem wöchentlichen Essensplan folgen, die Daumen drücken und hoffen können, dass Sie dieses Mal Ihr Übergewicht verlieren – und es auch halten. 
+
+Das liegt daran, dass Bright Line Eating kein typisches Abnehmprogramm ist. 
+
+Das typische Abnehmprogramm basiert auf einem Finanzmodell, das auf Rückfällen basiert. 
+
+Laut einer im American Journal of Public Health veröffentlichten Studie gelingt es weniger als 1 Prozent der adipösen Menschen, innerhalb eines Jahres einen normalen BMI zu erreichen. 
+
+Und 78 Prozent derjenigen, die mindestens 5 Prozent ihres Körpergewichts verlieren, gewinnen es innerhalb von fünf Jahren wieder zurück. 
+
+Im Wesentlichen weisen Diäten bei allen Menschen und allen Programmen eine Misserfolgsquote von 99 Prozent auf. 
+
+Wenn Sie gedacht haben, dass es nur an Ihnen liegt, ist das nicht der Fall.
+
+[The Official Bright Line Eating Cookbook](https://www.heroic.us/pn/the-official-bright-line-eating-cookbook-susan-peirce-thompson)
+
+## Die Statistiken
+
+In den Vereinigten Staaten sind mehr als 70 % der Menschen übergewichtig oder fettleibig. 
+
+Fast die Hälfte unserer weißen Kinder und Jugendlichen ist übergewichtig oder fettleibig, ebenso wie fast drei Viertel unserer farbigen Kinder und Jugendlichen. 
+
+Dieses Übergewicht hat schwerwiegende gesundheitliche Folgen: Jedes Jahr werden 1,5 Millionen neue Fälle von Typ-2-Diabetes diagnostiziert, was dazu führt, dass jährlich 84.000 Menschen ein Fuß oder ein Bein amputiert wird, und 63 % von uns sterben früh an Krankheiten, die mit Fettleibigkeit in Zusammenhang stehen.
+
+Lange bevor wir an dieser Ernährungsweise sterben, hören wir auf zu leben. 
+
+Ich erinnere mich noch genau daran, wie es sich anfühlte, fettleibig zu sein. 
+
+Es war geistig und körperlich anstrengend. 
+
+Auf meinem Weg, Sprecher meines Abschlussjahrgangs an der UC Berkeley zu werden, trottete ich mit Marshmallows in der Tasche über den Campus und brauchte alle paar Minuten meinen "Fix", um weitermachen zu können. Es war Elend. 
+
+Und darin liegt das Paradoxon, das mich zu diesem Forschungsgebiet und letztendlich zur Entwicklung von Bright Line Eating geführt hat: Ich konnte mich dazu durchringen, alles zu tun, was ich tun musste, um meinen Abschluss mit höchster Auszeichnung zu machen und meine Doktorarbeit in Gehirn- und Kognitionswissenschaften zu beginnen (und dann zu beenden), aber ich konnte mein Essen nicht kontrollieren.
+
+[The Official Bright Line Eating Cookbook](https://www.heroic.us/pn/the-official-bright-line-eating-cookbook-susan-peirce-thompson)
+
+## Die 4 S. die zum Durchbrechen der Bright Lines führen
+
+Beim Essen nach Bright Lines feiern wir die Stärke unseres gemeinsamen Engagements, an den Bright Lines festzuhalten, eine Verpflichtung, keine Ausnahmen zu machen und unaufhaltbar zu sein. 
+
+Dies verschafft uns die körperliche Erholung, die wir anstreben – dauerhaften Gewichtsverlust und strahlende Gesundheit – und führt auch zu viel Freiheit und Glück. 
+
+Das ist es, was für Leute, die Bright Line Eating nicht brauchen, so kontraintuitiv ist. Eine klare Struktur kann zu viel Freiheit führen.
+
+Wir arbeiten jedoch auch daran, sanft, klug und selbsterhaltend vorzugehen, wenn wir unsere hellen Linien durchbrechen. 
+
+Nicht jeder, der sich auf diese Lebensweise einlässt, wird Pausen einlegen – manche halten dieses Programm wie eine Rettungsleine fest und folgen einfach dem Plan, einen Tag nach dem anderen, auf unbestimmte Zeit. 
+
+Andere weichen absichtlich oder unter Zwang davon ab und arbeiten dann daran, wieder auf den richtigen Weg zu kommen. 
+
+Ich selbst hatte Unterbrechungen  seit ich am 21. Mai 2003 zum ersten Mal auf diese Weise gegessen habe. 
+
+Ich hatte lange Abschnitte glänzender heller Linien (bis zu acht Jahre in Folge) und andere Zeiträume, in denen ich große Mühe hatte, meine Linien beizubehalten. 
+
+Durch diese Erfahrung wurde mir klar, dass es vier Schlüsselkomponenten gibt, um einen Bruch in den Bright Lines erfolgreich, anpassungsfähig und auf eine Weise zu bewältigen, die unser Programm stärkt. Sie sind die vier S.
+
+1. Geschwindigkeit
+2. Selbstmitgefühl
+3. Soziale Unterstützung
+4. Suchen Sie nach der Lektion
+
+[The Official Bright Line Eating Cookbook](https://www.heroic.us/pn/the-official-bright-line-eating-cookbook-susan-peirce-thompson)
+
+## Der Saboteur
+
+Wenn Sie Bright Line Eating betreiben und es gut läuft, schützen Sie das. 
+
+Ich garantiere Ihnen, Ihr Saboteur wird versuchen, Sie davon zu überzeugen, hier oder da eine Ausnahme zu machen. 
+
+Fallen Sie nicht darauf herein. 
+
+Dieser Weg ist rutschig und schmerzhaft. 
+
+Die Tatsache, dass ein erneutes Zoomen möglich ist, ist keineswegs eine Einladung, einen kleinen Umweg von den Linien zu machen und gleich danach wieder auf die Strecke zu kommen. 
+
+So funktioniert das nicht. 
+
+Das erste, was passiert, wenn Sie die hellen Linien durchbrechen, ist, dass Ihre Freiheit augenblicklich verschwindet. 
+
+Und von da an geht es bergab. 
+
+Sie möchten kein Leben führen, in dem alles zerbricht und Sie neu anfangen müssen. 
+
+Der Grund, warum wir die hellen Linien ehren und uns dazu verpflichten, in ihnen zu leben, liegt darin, dass wir feststellen, dass sie uns glücklich, dünn und frei machen. 
+
+Aber darüber hinaus ermöglicht es uns, mehr zu den Menschen zu werden, die wir sein wollen, und mehr von den Dingen zu tun, die wir im Leben über das Essen hinaus tun möchten – uns selbst zu verwirklichen und uns in der Welt zu engagieren. 
+
+Das ist es, worum es in unserem Leben gehen soll.
+
+[The Official Bright Line Eating Cookbook](https://www.heroic.us/pn/the-official-bright-line-eating-cookbook-susan-peirce-thompson)
+
 ## Bücher
 
 - [Fettverlust Fibel](https://www.goodreads.com/book/show/195749365-die-fettverlust-fibel)
+- [The Official Bright Line Eating Cookbook](https://www.heroic.us/pn/the-official-bright-line-eating-cookbook-susan-peirce-thompson)
 
 ## Links
 

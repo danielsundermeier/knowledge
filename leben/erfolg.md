@@ -479,6 +479,20 @@ Er sollte auch System und Wissenschaft anwenden, um seine Gesundheit, seinen Woh
 
 [How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
 
+## Was ist Erfolg?
+
+In meinen Augen und für die Zwecke dieses Buches definiere ich Leistung als ein gutes Leben; 
+
+Die Aufgabe des Lebens auf eine zufriedenstellende Weise zu erledigen, die die Lebenskraft in uns und denen, mit denen wir Umgang haben, fördert. 
+
+Es geht darum, ein gewisses Maß an Selbstbeherrschung zu entwickeln, um mit den schwierigen Aspekten unseres Lebens und unserer Beziehungen umzugehen. 
+
+Es geht darum, etwas mit unserem Leben zu tun, das uns einbezieht und uns positives Feedback gibt. 
+
+Wenn wir es richtig machen, sollte das Leben kein schwächender Kampf sein, auch wenn es manchmal erhebliche Anstrengungen erfordert.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

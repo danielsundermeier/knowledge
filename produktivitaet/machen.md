@@ -415,6 +415,84 @@ Mit dieser Entscheidung wusste ich, dass ich mich zu 25 Minuten Aktivität verpf
 
 [100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
 
+## Quietismus vs. Engagement
+
+Quietismus ist die Haltung von Menschen, die sagen: „Andere können tun, was ich nicht kann.“ 
+
+Die Lehre, die ich Ihnen vorstelle, ist genau das Gegenteil von Quietismus, da sie besagt, dass die Realität nur im Handeln existiert. 
+
+Es geht sogar noch weiter, denn es fügt hinzu: „Der Mensch ist nichts anderes als sein eigenes Projekt. Er existiert nur in dem Maße, in dem er sich selbst verwirklicht, daher ist er nichts weiter als die Summe seiner Taten, nichts mehr als sein Leben.“ 
+
+Angesichts dessen können wir klar verstehen, warum unsere Lehre viele Menschen entsetzt. 
+
+Denn oft haben sie keine andere Möglichkeit, ihr Elend zu ertragen, als zu denken: „Die Umstände waren gegen mich, ich verdiene ein viel besseres Leben als das, das ich habe. Zugegebenermaßen habe ich nie eine große Liebe oder eine außergewöhnliche Freundschaft erlebt, aber das liegt daran, dass ich nie einen Mann oder eine Frau getroffen habe, die dieser würdig wäre; Wenn ich keine großartigen Bücher geschrieben habe, dann deshalb, weil ich nie die Muße dazu hatte; Wenn ich keine Kinder hatte, denen ich mich widmen konnte, dann deshalb, weil ich keinen Mann gefunden habe, mit dem ich mein Leben teilen könnte. Daher trage ich in mir eine Vielzahl unerprobter, aber durchaus realisierbarer Fähigkeiten, Neigungen und Möglichkeiten, die mir die Würdigkeit verleihen, die sich aus keiner Betrachtung meiner vergangenen Taten ergibt.“ 
+
+In Wirklichkeit gibt es für Existentialisten jedoch keine andere Liebe als die Taten der Liebe; kein anderes Potenzial für Liebe als das, das sich im Lieben manifestiert. 
+
+Es gibt kein anderes Genie als das, was in den Kunstwerken zum Ausdruck kommt; Das Genie von Proust liegt in der Gesamtheit seiner Werke. 
+
+Das Genie von Racine liegt in der Reihe seiner Tragödien, außerhalb derer es nichts gibt. 
+
+Warum sollten wir Racine die Fähigkeit zuschreiben, eine weitere Tragödie zu schreiben, wenn er genau das nicht getan hat? 
+
+Im Leben engagiert sich ein Mann und zeichnet sein eigenes Porträt, außerhalb dessen es nichts gibt. 
+
+Zweifellos mag dieser Gedanke für jemanden hart erscheinen, dessen Leben nicht zum Erfolg geführt hat, aber andererseits hilft er den Menschen zu verstehen, dass die Realität allein zählt und dass Träume, Erwartungen und Hoffnungen nur dazu dienen, einen Mann als einen zu definieren zerbrochener Traum, gescheiterte Hoffnungen und vergebliche Erwartungen; mit anderen Worten: Sie definieren ihn negativ, nicht positiv. 
+
+Allerdings bedeutet die Aussage „Du bist nichts als dein Leben“ nicht, dass der Künstler allein nach seinen Kunstwerken beurteilt wird, denn tausend andere Dinge tragen auch dazu bei, ihn zu definieren. 
+
+Was wir damit sagen wollen, ist, dass ein Mensch nichts anderes als eine Reihe von Unternehmungen ist und dass er die Summe, Organisation und Aggregation der Beziehungen ist, die diese Unternehmungen ausmachen.
+
+[Existentialism is a Humanism](https://www.goodreads.com/book/show/51985.Existentialism_is_a_Humanism)
+
+## Die Strenge des existenziellen Optimismus
+
+Vor diesem Hintergrund werfen uns die Menschen nicht unbedingt unseren Pessimismus vor, sondern die Strenge unseres Optimismus. 
+
+Wenn Menschen unsere Romane kritisieren, in denen wir Charaktere beschreiben, die rückgratlos, schwach, feige und manchmal sogar ehrlich gesagt böse sind, dann nicht nur, weil diese Charaktere rückgratlos, schwach, feige oder böse sind. 
+
+Denn wenn wir, wie Zola, ihr Verhalten auf ihre Vererbung oder Umwelteinflüsse, ihre Gesellschaft oder Faktoren organischer oder psychologischer Natur zurückführen würden, wären die Menschen beruhigt und würden sagen: „So sind wir. Niemand kann etwas dagegen tun.“ 
+
+Aber wenn ein Existentialist einen Feigling beschreibt, sagt er, dass der Feigling für seine eigene Feigheit verantwortlich ist. 
+
+Er ist nicht so, wie er ist, weil er ein feiges Herz, eine feige Lunge oder ein feiges Gehirn hat. 
+
+Er ist nicht aufgrund seiner physiologischen Beschaffenheit so; er ist so, weil er sich durch seine Taten zum Feigling gemacht hat.
+
+Was der Existentialist sagt, ist, dass der Feigling sich selbst feige und der Held sich selbst heroisch macht; Es besteht immer die Möglichkeit, dass der Feigling eines Tages nicht mehr feige ist und der Held aufhört, ein Held zu sein. 
+
+Was zählt, ist das totale Engagement, aber es gibt keine bestimmte Situation oder Handlung, die Sie auf die eine oder andere Weise vollständig verpflichtet.
+
+[Existentialism is a Humanism](https://www.goodreads.com/book/show/51985.Existentialism_is_a_Humanism)
+
+## Das heroische Prinzip
+
+Die grundlegende Geschichte ist folgende: Wenn die Ordnung (Apsu) achtlos bedroht oder zerstört wird, erscheinen die schrecklichen Kräfte des Chaos, aus denen die Welt ursprünglich hervorgegangen ist, erneut in ihrer zerstörerischsten, monströssten und räuberischsten Verkleidung. 
+
+Dann muss ein Held entstehen oder gewählt werden, der die höchsten Werte vertritt, um dieser chaotischen Macht entgegenzutreten. 
+
+Er tut dies erfolgreich und leitet oder produziert etwas von großem Wert. 
+
+Was der Held repräsentiert, ist der wichtigste Teil der großen Kräfte, die die menschliche Psyche ausmachen. 
+
+Anders ausgedrückt: Der Held ist das verkörperte Prinzip des Handelns und der Wahrnehmung, das über alle ursprünglichen psychologischen Elemente wie Lust, Wut, Hunger, Durst, Terror und Freude herrschen muss. 
+
+Damit das Chaos wirksam in Schach gehalten (oder, noch besser, gezähmt und somit nutzbar gemacht) werden kann, muss dieses heroische Prinzip als das wichtigste aller Dinge angesehen werden, die die Menschheit organisieren und motivieren können. 
+
+Das bedeutet zumindest, dass es kontinuierlich ausgelebt werden muss, was eigentlich mit „als wichtig angesehen“ gemeint ist.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
+## Die Ursache in der Sache sein
+
+Die „Ursache in der Angelegenheit“ zu sein bedeutet, die volle Verantwortung für alles zu übernehmen, womit Sie es zu tun haben und was in Ihrem Leben passiert, auch wenn es den Anschein hat, dass die Dinge nicht vollständig unter Ihrer Kontrolle liegen. 
+
+Es ist eine Entscheidungserklärung: Anstatt die Rolle des passiven Protagonisten in Ihrem Leben zu spielen, entscheiden Sie sich dafür, die Verantwortung für Ihre Zukunft zu übernehmen. 
+
+Nehmen Sie sich vor, Dinge zu erledigen, egal, was nötig ist, und egal, wie viele triftige „Gründe“ auftauchen.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

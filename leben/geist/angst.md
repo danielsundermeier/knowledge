@@ -233,6 +233,86 @@ Eine kürzlich durchgeführte fMRT-Studie ergab, dass die Aktivität im präfron
 
 [Iconoclast](https://www.goodreads.com/book/show/4351499-iconoclast)
 
+## Existenzielle Angst
+
+Dies ermöglicht es uns, die Bedeutung einiger ziemlich hochtrabender Wörter wie „Angst“, „Verlassenheit“ und „Verzweiflung“ zu verstehen. 
+
+Wie Sie gleich sehen werden, ist alles ganz einfach. 
+
+Erstens: Was meinen wir mit Angst? Existenzialisten sagen gerne, dass der Mensch in Not ist. 
+
+Dies ist, was sie meinen: Ein Mann, der sich engagiert und erkennt, dass er nicht nur das Individuum ist, das er sein möchte, sondern auch ein Gesetzgeber, der gleichzeitig entscheidet, was die Menschheit als Ganzes sein soll, kann nicht anders, als sich dessen seiner eigenen vollen und tiefgreifenden Verantwortung bewusst zu sein. 
+
+Es stimmt zwar, dass viele Menschen nicht besonders ängstlich zu sein scheinen, aber wir behaupten, dass sie ihre Angst lediglich verbergen oder versuchen, sich ihr nicht zu stellen. 
+
+Sicherlich glauben viele, dass ihre Handlungen niemanden außer ihnen selbst betreffen, und wenn wir sie fragen würden: „Aber was wäre, wenn jeder so handeln würde?“ würden sie mit den Schultern zucken und antworten: „In Wahrheit handelt nicht jeder so.“ 
+
+Allerdings sollte man sich immer fragen: „Was würde passieren, wenn jeder das tun würde, was ich tue?“ 
+
+Der einzige Weg, diesem beunruhigenden Gedanken auszuweichen, ist eine Art böse Absicht. 
+
+Wer sich selbst belügt und sich mit den Worten entschuldigt: „So verhält sich nicht jeder“, hat mit einem schlechten Gewissen zu kämpfen, denn die Tat des Lügens impliziert, dass man der Lüge einen universellen Wert zuschreibt.
+
+[Existentialism is a Humanism](https://www.goodreads.com/book/show/51985.Existentialism_is_a_Humanism)
+
+## Die Wölfe im Inneren
+
+Sie wissen vielleicht, dass die Analogie zum Angstwolf aus einer Geschichte der amerikanischen Ureinwohner über einen negativen Wolf stammt, der in den Köpfen der Menschen wohnt. 
+
+Dieser Wolf operiert aus Angst, ist dürstend nach Drama, katastrophal und hat unaufhörlich negative Selbstgespräche.
+
+Aber es gibt auch einen zweiten, positiven Wolf, der im Herzen wohnt. 
+
+Dieser hat Appetit auf Liebe und Verbindung, ist nicht dramatisiert, optimistisch und konzentriert sich auf andere.
+
+Der Angstwolf kämpft um deine Aufmerksamkeit und fordert Dominanz. 
+
+Der mutige Wolf möchte einfach wahrgenommen werden und ist auf der Suche nach Nahrung, die sein Selbstwertgefühl stärkt. 
+
+Der Legende nach ist derjenige, der Sie letztendlich kontrolliert, derjenige, den Sie am meisten füttern.
+
+Wenn Sie die Angst ständig nähren, indem Sie über das Mögliche im Leben nachdenken, über das, was Sie hätten haben sollen, über das, was Sie hätten wollen und über das, was nicht möglich ist – wenn Sie negative Überzeugungen, Einstellungen und konditioniertes Verhalten zulassen, die sich aus dem Drama ergeben, das Sie erlebt haben, oder den Geschichten, die Sie erzählen adoptiert – dann wird der Angstwolf stärker. 
+
+Schließlich wird er so stark, dass der mutige Wolf zusammenkauert und nicht in der Lage ist, sich zu wehren.
+
+Sie können diesen Angstwolf jedoch anstarren und sich weigern, ihn länger zu füttern. 
+
+Verhungern Sie es von dieser negativen Konditionierung! 
+
+Dann können Sie den mutigen Wolf regelmäßig mit gutem Futter versorgen und mit Herz und Verstand als gleichberechtigte Partner führen.
+
+[Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
+
+## Die 7 Verpflichtungen
+
+Angst hält uns zurück. Sie können Ihren moralischen und physischen Mut entfalten, indem Sie die erste Verpflichtung eingehen. 
+
+Bezwingen Sie die Angst und stärken Sie gleichzeitig den Mut. 
+
+Dies wird Sie auf natürliche Weise dazu veranlassen, die anderen sechs Verpflichtungen zu übernehmen. 
+
+Mut entsteht dadurch, dass man Stellung bezieht und mutige Maßnahmen wagt. 
+
+Tatsächlich ist jede der sieben Verpflichtungen ein Aufruf zum Handeln. Jeder baut auf dem anderen auf.
+
+Ohne Mut wirst du nicht vertrauen. 
+
+Wenn du nicht vertraust, bekommst du keinen Respekt und wirst andere nicht respektieren. 
+
+Wenn Sie sich selbst und andere nicht respektieren, werden Sie nicht wachsen. 
+
+Wenn Sie nicht wachsen, können Sie auch keine Spitzenleistungen erbringen. 
+
+Wenn Sie sich nicht zu Spitzenleistungen verpflichten, werden Sie nicht sehr belastbar sein. 
+
+Wenn Sie schließlich nicht belastbar sind, wird es Ihrem Team schwerfallen, sich an Ihrer Vision oder Mission auszurichten.
+
+Den Wolf anzustarren erfordert tägliche Arbeit, um Körper, Geist und Seele weiterzuentwickeln. 
+
+Akzeptieren Sie die Strapazen dieser Arbeit, gewöhnen Sie sich an das Unbehagen und lernen Sie, das beschleunigte Wachstum zu schätzen, das sich daraus ergibt.
+
+[Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

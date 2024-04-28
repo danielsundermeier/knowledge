@@ -724,6 +724,32 @@ Wenn Sie über Ihr Ziel nachdenken, beginnen Sie mit der großen Frage: Wie laut
 
 [Drive](https://www.goodreads.com/book/show/6452796-drive)
 
+## Der finale Countdown
+
+- Stellen Sie sich vor, Sie hätten nur noch zehn Minuten zu leben. Was würden Sie tun?
+- Stellen Sie sich vor, Sie haben nur noch zehn Tage zu leben. Was würden Sie tun?
+- Stellen Sie sich vor, Sie hätten nur noch zehn Monate zu leben. Was würden Sie tun?
+- Stellen Sie sich vor, Sie hätten nur noch zehn Jahre zu leben. Was würden Sie tun?
+- Stellen Sie sich vor, Sie hätten nur noch den Rest Ihres Lebens zu leben. Was würden Sie tun?
+
+Wenn Sie sich Ihre Antworten auf diese Fragen ansehen, verfügen Sie über viele Informationen über sich selbst. 
+
+In dieser Übung sprechen wir über Ihr Endspiel. 
+
+Können Sie sich Änderungen vorstellen, die Sie gerne an Ihrem Selbstbild vornehmen würden? 
+
+Beginnen Sie mit dem Entwerfen und Verändern! 
+
+Keiner der Freunde, von denen ich dir gerade erzählt habe, wusste, wann der letzte Countdown beginnen würde. 
+
+Ich weiß nicht, wann meiner kommt, und du kennst deinen auch nicht. 
+
+Eines ist sicher: Heute ist es näher als gestern, und morgen wird es noch näher sein. 
+
+Jetzt ist es an der Zeit, sich zu der Person zu entwickeln, die Sie sein möchten.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

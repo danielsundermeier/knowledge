@@ -389,6 +389,76 @@ Mit der Zeit werden Sie die Meisterschaft erlangen.
 
 [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 
+## Siebenmal hinfallen, achtmal aufstehen
+
+Zen-Mater Nakamura kritzelte an die Tafel, und das kreischende Geräusch ließ meine Zähne nervös werden. 
+
+Die Wörter wurden in japanischen Kanji-Zeichen geschrieben. 
+
+Darunter übersetzte er für uns, bevor wir fragen konnten: „Sieben Mal hinfallen, acht Mal aufstehen.“ Dann gab er in seinem gebrochenen Englisch eine schöne Erklärung über die Bedeutung. 
+
+Was er vermittelte, war viel nuancierter, als die Worte allein vermuten ließen. 
+
+Sein Hauptargument war nicht nur, dass man nach einem Sturz wieder aufstehen sollte, sondern dass es darauf ankommt, wie man aufsteht.
+
+Wie oft sind Sie im Leben „abgefallen“ und haben schlecht reagiert oder sind zaghaft aufgestanden und haben sich nicht schnell an die neue Realität angepasst?
+
+Eine negative Reaktion auf ein Scheitern führt zu einer weiteren Destabilisierung und verschlimmert eine ohnehin schon schlechte Situation. 
+
+Manchmal dauert es Jahre, bis man zurückblicken und sagen kann, dass man froh ist, dass es passiert ist und dass man jetzt sieht, wie es einen stärker und weiser gemacht hat.
+
+Das ist in Ordnung, aber so reagieren die Resilienten nicht. 
+
+Die Belastbaren überwinden ihre Angst, von einem Hindernis zu fallen, und trainieren, mit einer positiven Reaktion sofort wieder aufzustehen. 
+
+Wie Marcus Luttrell suchen sie nach einer Möglichkeit, Zitronen in Limonade zu verwandeln. 
+
+Sieben Mal hinfallen, acht Mal wieder aufstehen – stärker, besser und leistungsfähiger, nachdem man aus der Situation alles Mögliche gelernt hat.
+
+Das ist Anpassungsfähigkeit.
+
+[Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
+
+## Semper Gumby
+
+Bezogen auf Elastizität und Plastizität – die Fähigkeit, sich schnell zu verändern und zu verwandeln, wenn die Herausforderungen auf einen zukommen. 
+
+In den SEALs haben wir den Begriff „Semper Gumby“ geprägt, der „immer flexibel“ bedeutete. 
+
+Dies war eine Anspielung auf unsere Marine-Brüder, deren Motto Semper Fi – immer treu – lautet. 
+
+SEALs sind eine Art Gegenkultur beim Militär, und wir dachten, das kleine grüne, biegsame Spielzeug Gumby sei ein geschmeidiges Maskottchen. 
+
+Ich meine, man konnte es zu allen möglichen Zwecken verbiegen, aber mit ein wenig Kraftaufwand kehrte es immer wieder in seine normale Form zurück. An den meisten Tagen ging es mir so.
+
+[Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
+
+## Welche Angst wirst du als Erstes anstarren?
+
+Es scheint mein ganzes Leben zu sein – all die Nöte, die Herausforderungen, die Misserfolge; Sogar meine eigene Familiendynamik war perfekt darauf ausgelegt, mich auf diese wichtige Arbeit vorzubereiten. 
+
+Haben Sie das Gefühl, dass Dinge in Ihrem Leben, selbst die beschissenen Dinge, aus einem bestimmten Grund passieren? 
+
+Können Sie eine Richtung in Ihrem Leben erkennen? 
+
+Haben Sie das Gefühl, dass Sie vielleicht aufblühen würden, wenn Sie sich selbst aus dem Weg gehen würden? 
+
+Ich habe dadurch gelernt, auf meine innere Stimme zu hören. Es hat mir immer gute Dienste geleistet.
+
+Wir alle möchten authentischere Führungskräfte sein und unsere Mission angesichts des unerbittlichen VUCA gemeinsam mit einem Eliteteam erfüllen. 
+
+Aber Angst und unsere Schatten werden uns zurückhalten, auch wenn wir uns dieser Ängste und Schatten nicht bewusst sind. 
+
+Niemand ist perfekt; Jeder bringt etwas Ballast in seine Führung mit. 
+
+Die Frage, die Sie sich jetzt stellen sollten, lautet: Welche Angst müssen Sie als Erstes anstarren?
+
+Können Sie sich dazu verpflichten, die Sache niederzuschlagen und Ihr Potenzial weiter auszuschöpfen? 
+
+Ich bin zuversichtlich, dass Sie es können.
+
+[Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

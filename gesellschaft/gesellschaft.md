@@ -136,4 +136,5 @@ Wenn etwas gepflegt wird, bleibt es auch eher so.
 - [Common Unity](https://www.commonunityproject.org.nz/) - Together, we grow our own solutions
 - [The Perfect Country](https://www.youtube.com/watch?v=shanIOl7MyE)
 - [StriveTogether](https://www.strivetogether.org/)
+- [City Campus](https://www.citycampus.org)
 

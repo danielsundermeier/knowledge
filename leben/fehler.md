@@ -112,5 +112,29 @@ Sie müssen intellektuell neugierig auf Ihre Fehler sein, herausfinden, was schi
 
 [Burn the Boats](https://www.goodreads.com/book/show/61150750-burn-the-boats)
 
+## Chancen, Misserfolge und Vorhersagen Ihres Lebens
+
+Statistiken zeigen Ihnen Trends, sie können Ihr Leben nicht vorhersagen.
+
+Bedenken Sie auch, dass die Chancen immer schlecht für Größe standen. 
+
+Wenn man sich allein aufgrund der Aussicht auf finanziellen Erfolg für eine Karriere entscheiden würde, gäbe es keine Filmstars, Autoren, Dichter oder Musiker. 
+
+Die Chancen, dass eine einzelne Person ein professioneller, selbsttragender Musiker wird, sind sehr gering – und doch schalten Sie das Radio ein und Sie hören Hunderte von ihnen. 
+
+Auch bei den Beatles, Elvis und den Grateful Dead standen die Chancen schlecht. 
+
+Sie hätten die ganze Sache „wissenschaftlicher“ angehen und vernünftigere Karrierewege wählen können, und was für ein Verlust für die Welt wäre das gewesen!
+
+Wenn Sie Erfolg haben, sind die Chancen bedeutungslos. 
+
+Jeder Weg kann eine Erfolgsquote von 2 Prozent haben, aber wenn Sie bei diesen 2 Prozent liegen, besteht für Sie eine Erfolgschance von 100 Prozent. 
+
+Die Weitschüsse sind oft die lohnendsten.
+
+Fast ausnahmslos haben Menschen, die Großes geleistet haben, auch große Misserfolge erlebt.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Bücher
 

@@ -125,6 +125,30 @@ Das macht den Umgang mit Werkzeugen zu einer Aufgabe ohne Ende.
 
 [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)
 
+## Design Thinking
+
+Design Thinking ist ein amorphes Konzept, das seinen Namen von David Kelley, einem weiteren Stanford-Professor und Mitbegründer von IDEO, erhielt, als er erklären wollte, dass erfolgreiche Designer eine andere Denkweise und Herangehensweise haben als die meisten Menschen. 
+
+Wir alle haben es an der d.school übernommen und angepasst, und die Idee kam wie ein Blitz auf. 
+
+Plötzlich redeten alle über dieses neue Konzept, Design Thinking, etwas, das ich seit einem halben Jahrhundert praktizierte, ohne einen richtigen Namen dafür zu haben.
+
+Es ist jedoch schwierig, eine genaue Definition für Design Thinking zu geben, aber da ich einer seiner „Erfinder“ bin, kann ich Ihnen sicherlich eine Vorstellung von den Prinzipien geben, auf die wir im Laufe des Buches eingehen werden:
+
+1. Mitfühlen. Hier fängt es an. Wenn Sie entwerfen, tun Sie es nicht in erster Linie für sich selbst, sondern berücksichtigen dabei die Bedürfnisse und Wünsche anderer Menschen. Ganz gleich, ob Sie eine bessere Achterbahn oder ein besseres Wartezimmererlebnis im Krankenhaus entwerfen, die Idee besteht darin, sich um die Erfahrungen der Benutzer zu kümmern und herauszufinden, wie Sie helfen können. In diesem Schritt erfahren Sie, was die Probleme sind.
+2. Definieren Sie das Problem. Grenzen Sie ein, welches Problem Sie lösen oder welche Frage Sie beantworten möchten.
+3. Ideen entwickeln. Generieren Sie mögliche Lösungen mit beliebigen Mitteln – Brainstorming, Mind Mapping, Skizzieren auf Servietten. . . Wie auch immer, Sie arbeiten am besten.
+4. Prototyp. Ohne verrückt zu werden, um etwas Perfektes (oder auch nur annähernd Perfektes) zu machen, bauen Sie Ihr Projekt in physischer Form auf oder entwickeln Sie die Pläne für das, was Sie umsetzen werden.
+5. Testen Sie und holen Sie sich Feedback.
+
+Eines der wichtigen Konzepte des Design Thinking ist, dass Scheitern ein wertvoller Teil des Prozesses sein kann. 
+
+„Das Einzige, wovor man Angst haben muss, ist die Angst selbst“, sagte Franklin D. Roosevelt, und ich sage, das Einzige, wovor man Angst haben muss, ist, nicht aus seinen Fehlern zu lernen. 
+
+Sie können oft scheitern, solange Sie aus diesen Fehlern lernen und am Ende eine Lösung finden.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

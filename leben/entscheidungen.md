@@ -232,6 +232,36 @@ Der Glaube wird auch durch das höhere Verständnis genährt, dass jede Entschei
 
 [The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
 
+## Leidenschaft + Wahl
+
+Das meine ich, wenn ich sage, dass der Mensch zur Freiheit verurteilt ist: verurteilt, weil er sich nicht selbst erschaffen hat, und dennoch frei, weil er, einmal in die Welt geworfen, für alles verantwortlich ist, was er tut. 
+
+Existenzialisten glauben nicht an die Macht der Leidenschaft. 
+
+Sie werden eine große Leidenschaft niemals als einen verheerenden Strom betrachten, der den Menschen unweigerlich zu bestimmten Taten zwingt und der daher eine Entschuldigung darstellt. 
+
+Sie denken, dass der Mensch für seine Leidenschaft selbst verantwortlich ist. 
+
+Auch glauben Existentialisten nicht, dass der Mensch Zuflucht bei einem bestimmten Zeichen finden kann, das ihn auf Erden leiten wird; Sie denken, dass der Mensch das Zeichen nach Belieben interpretiert und dass der Mensch daher ohne jede Unterstützung oder Hilfe jederzeit dazu verdammt ist, den Menschen zu erfinden.
+
+[Existentialism is a Humanism](https://www.goodreads.com/book/show/51985.Existentialism_is_a_Humanism)
+
+## Leg den Schalter um
+
+Wenn jemand eine wichtige Änderung vornimmt, liegt das daran, dass ein Schalter umgelegt wurde. 
+
+Jemand, der sein ganzes Leben lang mit seinem Gewicht zu kämpfen hatte, beschließt endlich, fit zu werden. 
+
+Jemand, der sich jahrelang mit einem missbräuchlichen Chef abgefunden hat, hat schließlich genug und kündigt. 
+
+Jemand, der heimlich verknallt war, wagt schließlich den Schritt und lädt ihre Geliebte auf einen Kaffee ein. 
+
+Es hat eine Verschiebung stattgefunden, die das Handeln dem Nichthandeln vorgezogen hat.
+
+Sie können im Dunkeln herumsitzen und darauf warten, dass das Licht angeht, oder Sie können aufstehen, durch den Raum gehen und selbst den Schalter umlegen.
+
+[The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

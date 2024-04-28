@@ -138,6 +138,26 @@ Der Dalai Lama drückt eine Kernidee des Buddhismus folgendermaßen aus: „Der 
 
 [The Power of Ideals](https://www.goodreads.com/book/show/23316201-the-power-of-ideals)
 
+## Seien Sie trotz Ihres Leidens dankbar
+
+Trotzdem können Sie dankbar bleiben, denn das ist die unerschrockene Einstellung gegenüber dem Leben und seinen Schwierigkeiten. 
+
+Sie sind nicht deshalb dankbar, weil Sie naiv sind, sondern weil Sie sich entschieden haben, Ihre Hand nach vorne zu strecken, um das Beste in Ihnen selbst, im Staat und in der Welt zu fördern. 
+
+Sie sind auf die gleiche Weise dankbar, nicht weil es kein Leiden gibt, sondern weil es mutig ist, sich daran zu erinnern, was Sie haben und was Ihnen vielleicht noch angeboten wird – und weil die richtige dankbare Haltung gegenüber dieser Existenz und Möglichkeit Sie besser positioniert als alle anderen Haltung gegenüber den Wechselfällen des Daseins.
+
+Um Ihrer Familie gegenüber dankbar zu sein, müssen Sie daran denken, sie besser zu behandeln. Sie könnten jederzeit aufhören zu existieren. 
+
+Für seine Freunde dankbar zu sein bedeutet, sich der Notwendigkeit bewusst zu werden, sie angemessen zu behandeln, da Freundschaft an sich vergleichsweise unwahrscheinlich ist. 
+
+Ihrer Gesellschaft gegenüber dankbar zu sein bedeutet, sich daran zu erinnern, dass Sie der Nutznießer der enormen Anstrengungen derjenigen sind, die vor uns gestorben sind und diesen erstaunlichen Rahmen aus sozialen Strukturen, Ritualen, Kultur, Kunst, Technologie, Energie, Wasser und sanitären Einrichtungen hinterlassen haben damit unser Leben besser sein kann als ihres.
+
+Die Versuchung, verbittert zu werden, ist groß und real. 
+
+Es erfordert eine echte moralische Anstrengung, diesen Weg nicht einzuschlagen.
+
+[Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

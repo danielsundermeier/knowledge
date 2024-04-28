@@ -332,6 +332,116 @@ Ganz zu schweigen davon, dass es viel einfacher ist, sich den Spielraum zu versc
 
 [Evolution](https://www.goodreads.com/book/show/17570741-evolution)
 
+## The (Broken) Food system
+
+Während die Demokraten für die Schaffung von Medicare for All plädieren und die Republikaner für eine Reduzierung der Ansprüche, um unsere Staatsverschuldung in Höhe von 22 Billionen US-Dollar zu senken, übersehen beide die offensichtliche Tatsache. 
+
+Wir sollten den Grund, warum wir diese Kosten überhaupt haben, beheben. 
+
+Stoppen Sie den Zustrom kranker Menschen in das System und die Schädigung unserer Umwelt und unseres Klimas, indem Sie die Ursache beheben: das Nahrungsmittelsystem.
+
+Doch die meisten Maßnahmen unserer Regierung fördern den Anbau, die Produktion, die Vermarktung, den Verkauf und den Konsum der schlechtesten Nahrungsmittel auf dem Planeten – Milliarden an Subventionen (sogenannte Ernteversicherungen oder andere Unterstützungen) für Nutzpflanzen, die zu Nahrungsmitteln und Nahrungsmitteln für die Massentierhaltung verarbeitet werden Tiere; 75 Milliarden US-Dollar pro Jahr an Zahlungen für Lebensmittelmarken, die den Hunger wirksam lindern, aber hauptsächlich für verarbeitete Lebensmittel und Limonade bestimmt sind; unregulierte Lebensmittelvermarktung von Limonaden und Junkfood; verwirrende Lebensmitteletiketten; von der Industrie beeinflusste Ernährungsrichtlinien; und mehr.
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
+## Hören Sie auf, zuckerhaltige Getränke zu trinken
+
+Wenn Sie schon so weit gekommen sind, dann versteht sich meine nächste Empfehlung wahrscheinlich von selbst, aber ich sage es trotzdem: Trinken Sie keinen Zucker. 
+
+Der beste Weg, das Lebensmittelsystem zu reformieren, besteht darin, zuckerhaltige Lebensmittel weniger rentabel zu machen. 
+
+Wenn Verbraucher gesunde Produkte fordern, müssen die Unternehmen dem letztendlich nachkommen. 
+
+Es ist nicht nur Limonade. 
+
+Fruchtsaft hat einen gesundheitlichen Heiligenschein. 
+
+Aber lassen Sie sich nicht von seinen Vitaminen und Antioxidantien täuschen. 
+
+Fruchtsaft ist voller Zucker und genauso schädlich wie Limonade. 
+
+Kaufen Sie es nicht und geben Sie es auf keinen Fall Ihren Kindern. 
+
+Der Verzicht auf zuckerhaltige Getränke aus Ihrem Speiseplan ist das Wichtigste, was Sie tun können, um Ihre Gesundheit zu verbessern.
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
+## Ihr Lebensmitteletikett lügt
+
+Companies are required to list ingredients in the order of their pre-dominance. 
+
+But that doesn’t tell you how much is in the package. 
+
+If sugar is the second ingredient listed on a package, that doesn’t tell you if it makes up 30 percent of the food or 5 percent.
+
+Have you ever picked up a jar of strawberry jam at the supermarket and looked at its ingredient list? 
+
+A jar of Smucker’s strawberry jam lists strawberries as the first ingredient, and then the second, third, and fourth ingredients are as follows: 
+
+- high-fructose corn syrup, 
+- corn syrup
+- sugar 
+
+This tactic is very common. 
+
+The reason companies often use several sweeteners in one product is so they don’t have to list ‘sugar’ as the first ingredient. 
+
+As [Jerold] Mande[, a nutrition expert who worked on food labels at the FDA and USDA,] explained, ‘What we know from some investigations is that companies often use five different sugars in their products so that they don’t show up high on the list.’
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
+## Junk-Wissenschaft geht mit Junk-Food einher
+
+Die Wissenschaft beweist definitiv, dass nicht alle Kalorien gleich sind: Zucker- und Stärkekalorien wirken beim Verzehr völlig anders als Kalorien aus Fett. 
+
+In einer Harvard-Studie aus dem Jahr 2018 ernährten Forscher zwei Gruppen mit der gleichen Anzahl an Kalorien, aber eine Gruppe aß 60 Prozent der Kalorien aus Fett und weniger als 20 Prozent aus Kohlenhydraten, während die andere Gruppe 60 Prozent aus Kohlenhydraten und 10 Prozent aus Fett zu sich nahm. 
+
+Bei den am stärksten übergewichtigen Teilnehmern verbrannte die Gruppe mit niedrigem Kohlenhydrat- und hohem Fettgehalt täglich 400 Kalorien mehr, ohne dass sie sich mehr bewegte und gleichzeitig genau die gleiche Anzahl an Kalorien zu sich nahm. 
+
+Zucker verlangsamt Ihren Stoffwechsel. Fett beschleunigt es.
+
+Kalorien sind Informationen und Anweisungen, die Hormone, die Gehirnchemie, das Immunsystem, das Mikrobiom, die Genexpression und den Stoffwechsel beeinflussen. 
+
+Die Energiebilanz-Hypothese ist tot – außer in den Köpfen der Fast-Food-Industrie, weil sie ein Interesse daran hat, die Idee voranzutreiben, dass es beim Gewicht nur um die Aufnahme und den Verbrauch von Kalorien geht. 
+
+Aber jeder Drittklässler könnte Ihnen sagen, dass 1.000 Kalorien Limonade und 1.000 Kalorien Brokkoli völlig unterschiedliche Auswirkungen auf den Körper haben.
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
+## Die verborgene Unterdrückung von Big Food
+
+1,1 Prozent aller Todesfälle werden durch Waffengewalt verursacht. 
+
+Jedes Jahr sterben 70.000 Menschen an der Opioid-Epidemie. 
+
+Diese Probleme sind real und tragisch und müssen ein Ende haben. 
+
+Aber 70 Prozent der Todesfälle, oder mehr als 1,7 Millionen Todesfälle pro Jahr, werden durch chronische Krankheiten wie Herzerkrankungen, Diabetes, Krebs, Bluthochdruck und Schlaganfall verursacht – meist das Ergebnis unseres toxischen Nahrungsmittelsystems. 
+
+Mehr Afroamerikaner, Hispanoamerikaner und arme Menschen werden durch schlechtes Essen als durch alles andere getötet. 
+
+Bei Drive-in-Fastfood kommen weitaus mehr Menschen ums Leben als bei Drive-by-Schießereien. 
+
+Dennoch schweigen wir über die Rolle des Nahrungsmittelsystems, das Millionen von Amerikanern tötet.
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
+## Regenerative Landwirtschaft
+
+Die regenerative Landwirtschaft auf Bauernhöfen, Wiesen und Weideland ist die stärkste Kraft, um viele Probleme in der Landwirtschaft zu beheben und gleichzeitig mehr und bessere Lebensmittel zu produzieren. Und die Praxis kann an verschiedene und globale Umgebungen angepasst werden.
+
+Wir müssen die Art und Weise, wie wir Lebensmittel anbauen, und die Lebensmittel, die wir essen, schnell und radikal ändern. 
+
+Aber unsere Systeme und Richtlinien machen es den Landwirten schwer, das Richtige zu tun. 
+
+Landwirte, die gesunde Lebensmittel mit nachhaltigen, biologischen oder regenerativen Methoden anbauen, verarmen oft, um Lebensmittel für die Reichen anzubauen, während konventionelle, von unserer Regierung unterstützte Konzernbauern reich werden, indem sie Lebensmittel für die Armen anbauen. 
+
+Das muss sich ändern und verändert sich.
+
+Die gute Nachricht: Es stellt sich heraus, dass die regenerative Landwirtschaft profitabler ist (für Landwirte, nicht für Big Ag oder Big Food) und höhere Erträge und Lebensmittel von besserer Qualität produziert, selbst wenn sie für den Anbau von Nutzpflanzen (Soja, Mais, Weizen) verwendet wird und gleichzeitig den Klimawandel umkehren, Wasser sparen und die Artenvielfalt erhöhen!
+
+[Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

@@ -493,6 +493,42 @@ Nehmen Sie sich vor, Dinge zu erledigen, egal, was nötig ist, und egal, wie vie
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
 
+## Heute ist der Tag
+
+Ein Ziel scheint manchmal so weit weg zu sein und unser Fortschritt scheint oft so schmerzhaft langsam zu sein, dass wir dazu neigen, den Mut zu verlieren. 
+
+Manchmal scheint es, als würden wir es nie schaffen, und wir sind kurz davor, in alte Gewohnheiten zurückzufallen, die – obwohl sie jetzt vielleicht bequem sind – zu nichts führen. 
+
+Nun, es gibt eine Möglichkeit, dies zu überwinden. 
+
+Es wird von vielen der erfolgreichsten Menschen der Welt erfolgreich eingesetzt und von vielen unserer größten Denker befürwortet. 
+
+Es geht darum, Tag für Tag erfolgreich zu leben.
+
+Ein Leben besteht aus Tagen, die zu Wochen, Monaten und Jahren aneinandergereiht sind. 
+
+Lassen Sie es uns auf den kleinsten gemeinsamen Nenner reduzieren: einen einzelnen Tag, und dann noch weiter in jede Aufgabe dieses Tages hinein. 
+
+Ein erfolgreiches Leben besteht aus nichts anderem als vielen erfolgreichen Tagen zusammen. 
+
+Es wird so viele Tage dauern, bis Sie Ihr Ziel erreichen. 
+
+Um dieses Ziel in kürzester Zeit zu erreichen, muss jeder Tag zählen.
+
+Stellen Sie sich nun einen einzelnen Tag als einen Baustein vor, mit dem Sie den Turm Ihres Lebens bauen. 
+
+So wie ein Steinmetz immer nur einen Stein auf einmal setzen kann, kann man immer nur einen Tag leben. 
+
+Und es ist die Art und Weise, wie diese Steine platziert werden, die die Schönheit und Stärke Ihres Turms bestimmt. 
+
+Wenn jeder Stein erfolgreich platziert wird, ist der Turm ein Erfolg. 
+
+Wenn Sie hingegen zufällig abstürzen, ist der gesamte Turm in Gefahr. 
+
+Nun, das mag wie eine eher elementare Sichtweise erscheinen, aber ich möchte es klarstellen, und es ist eine gute und logische Sichtweise auf ein menschliches Leben.
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

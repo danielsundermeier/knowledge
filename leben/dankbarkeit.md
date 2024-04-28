@@ -34,6 +34,8 @@ Der beste Weg Dankbarkeit zu praktizieren ist mit einem Dankbarkeits Tagebuch. I
 
 > "Choose to be grateful right now. By choosing to be grateful, you’ll feel better about yourself and the world around you. And when you feel better, you play better. Doesn’t matter what it is you’re playing—golf, some other sport, running a business, tackling some task—when you feel good about yourself, you perform better. Countless psychological studies have proven this." - Darrin Donnelly
 
+> "Many times a day I realize how much my own outer and inner life is built upon the labors of my fellow men, both living and dead, and how earnestly I must exert myself in order to give in return as much as I have received." Albert Einstein
+
 ## Emotionale Inkompatibilität
 
 Wir können nicht gleichzeitig negative und positive Emotionen empfinden. Wir können uns nicht gleichzeitig entspannt und gestresst fühlen.
@@ -157,6 +159,22 @@ Die Versuchung, verbittert zu werden, ist groß und real.
 Es erfordert eine echte moralische Anstrengung, diesen Weg nicht einzuschlagen.
 
 [Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
+
+## We Need Each Other
+
+Noch nie in der Weltgeschichte waren die Menschen so voneinander abhängig. 
+
+Es ist genauso unmöglich zu leben, ohne anderen zu dienen, wie es wäre, wenn andere uns nicht ständig dienen würden. 
+
+Und das ist gut; 
+
+Je enger diese gegenseitige Abhängigkeit wird, desto größer wird die menschliche Leistung sein. 
+
+Wir brauchen einander und können buchstäblich nicht ohne einander leben! 
+
+Jedes Mal, wenn wir ein Streichholz anzünden, ein Glas Wasser trinken, das Licht anmachen, zum Telefon greifen, Auto fahren, uns anziehen, ein Bad nehmen, den Rasen mähen, angeln gehen – werden wir von einem bedient großer Industrie und durch den Einsatz Tausender Menschen.
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
 ## Bücher
 

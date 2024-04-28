@@ -493,6 +493,40 @@ Wenn wir es richtig machen, sollte das Leben kein schwächender Kampf sein, auch
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
 
+## Hektar voller Diamanten
+
+Unnötig zu erwähnen, dass sich die Farm, die der erste Bauer verkauft hatte, um eine Diamantenmine zu finden, als die produktivste Diamantenmine auf dem gesamten afrikanischen Kontinent erwies. 
+
+Der erste Bauer hatte mehrere Hektar Diamanten besessen; hatte sie aber praktisch umsonst verkauft, um woanders danach zu suchen.
+
+Nun, die Moral ist klar: Hätte sich der erste Bauer nur die Zeit genommen, zu studieren und sich darauf vorzubereiten, herauszufinden, wie Diamanten im Rohzustand aussehen, und da er bereits ein Stück des afrikanischen Kontinents besessen hatte, das Anwesen gründlich zu erkunden Bevor er sich woanders umgesehen hätte, wären all seine kühnsten Träume wahr geworden.
+
+Das Besondere an dieser Geschichte, das Dr. Conwell und später Millionen andere so tief berührte, war die Vorstellung, dass jeder von uns in diesem Moment mitten auf seinem eigenen Hektar voller Diamanten steht. 
+
+Wenn wir nur die Weisheit und Geduld haben, die Arbeit, mit der wir gerade beschäftigt sind, intelligent und effektiv zu erforschen, uns selbst zu erforschen, werden wir normalerweise den reichhaltigsten Gewinn finden, sei es finanziell oder immateriell oder beides! 
+
+Bevor wir uns auf die Weide begeben, die unserer Meinung nach grüner ist, stellen wir sicher, dass unsere eigene nicht genauso grün oder vielleicht sogar grüner ist.
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
+
+## Sind Sie außer Dienst?
+
+Ich stelle mir dieses Gesetz gerne in Form einer riesigen Apothekerwaage vor, mit einem Kreuz darauf, an dem zwei Schalen an Ketten hängen. 
+
+Jetzt ist eine der Schüsseln mit „Belohnungen“ gekennzeichnet, die andere mit „Dienst“. 
+
+Was auch immer wir in die Schüssel mit der Aufschrift „Dienst“ geben, die Welt wird in die Schüssel mit der Aufschrift „Belohnungen“ an das anpassen, was wir in die Schüssel mit der Aufschrift „Dienst“ legen. 
+
+Und das Ausmaß und die Art unseres Dienstes werden unsere Belohnungen bestimmen. 
+
+Wenn ein Mensch mit seinen Belohnungen unzufrieden ist, muss er seinen Dienst überprüfen. 
+
+Aktion Reaktion; wie man sät so wirst du ernten; Was Sie ausgeben, bestimmt, was Sie zurückbekommen müssen. 
+
+So einfach, so grundlegend, so wahr – und so missverstanden!
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

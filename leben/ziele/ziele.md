@@ -462,6 +462,28 @@ Es ist schließlich unmöglich, ein Ziel zu treffen, es sei denn, man zielt dara
 
 [Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
 
+## Was ist Ihr Ziel in einem einzigen Satz?
+
+Wenn Sie ein Schiff im Hafen besuchen und den Kapitän nach seinem nächsten Anlaufhafen fragen, wird er es Ihnen in einem einzigen Satz sagen. 
+
+Auch wenn der Kapitän seinen Hafen, sein Ziel, während 99 % der Reise nicht sehen kann, weiß er, dass es dort ist und dass er es erreichen wird, sofern keine unvorhergesehene und höchst unwahrscheinliche Katastrophe eintritt. 
+
+Er muss lediglich jeden Tag bestimmte Dinge tun.
+
+Wenn Sie jemand nach Ihrem nächsten Anlaufhafen, Ihrem Ziel, fragen würde, könnten Sie es ihm sagen? 
+
+Ist Ihr Ziel klar und prägnant in Ihrem Kopf? 
+
+Hast du es aufgeschrieben? 
+
+Es ist eine gute Idee. Wir brauchen Erinnerung und Verstärkung. 
+
+Wenn Sie ein Bild von Ihrem Ziel machen und es an Ihren Badezimmerspiegel kleben können, ist das eine ausgezeichnete Idee. 
+
+Tausende erfolgreicher Menschen tragen ihre Ziele auf einer Karte in ihrem Portemonnaie oder Portemonnaie.
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -105,6 +105,18 @@ Die meisten von uns haben klarere Strategien für den beruflichen Erfolg als fü
 
 [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)
 
+## Was sind deine Kräfte?
+
+Was sind deine Kräfte? 
+
+Es gibt etwas, wahrscheinlich mehrere Dinge, die Sie besonders gut können, die Ihnen am meisten Spaß machen und die automatisch den größten Nutzen für andere erbringen. S
+
+ind Sie bereit, durch Experimentieren und Nachdenken herauszufinden, welcher Lebensweg diese Kräfte am besten entfalten kann? 
+
+Nun, das bedeutet, sich selbst treu zu bleiben. Das ist Integrität; das ist Vernünftigkeit.
+
+[Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

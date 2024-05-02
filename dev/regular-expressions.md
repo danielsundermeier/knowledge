@@ -18,5 +18,6 @@ $string = preg_replace("/\r|\n/s", '[,nL]', $string);
 ## Links
 
 - [regex101](https://regex101.com/) for testing
+- [phprex](https://phphub.net/regex/) for testing and visualizing
 - [iHateRegex](https://ihateregex.io/)
 - [Learn Regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)

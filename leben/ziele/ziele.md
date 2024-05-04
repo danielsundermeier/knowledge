@@ -484,6 +484,40 @@ Tausende erfolgreicher Menschen tragen ihre Ziele auf einer Karte in ihrem Porte
 
 [Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
+## Träume GROSS!
+
+Ich liebe es zu träumen. 
+
+Hören Sie mir jetzt zu: Träume sind kein märchenhafter, eingebildeter Unsinn. Träume sind das, was uns antreibt, was uns INSPIRIERT und was uns dazu bringt, nach Größe zu streben. 
+
+Also bitte unbedingt TRÄUMEN! Aber träumen Sie nicht von DURCHSCHNITT. Wenn Ihr TRAUM NICHT GRÖSSER IST ALS SIE, liegt ein PROBLEM mit Ihrem Traum vor.
+
+Es gibt keinen Traum, der zu groß, zu wild, zu verrückt ist, um ihn zu verwirklichen. 
+
+Und ich spreche nicht nur davon, ein Superstar-Athlet zu werden. Nein, ich spreche von allem, was Ihr Herz begehrt, ob es darum geht, ein eigenes Unternehmen aufzubauen, Musiker zu werden oder sogar einen Ausflug zu jedem coolen Ort zu unternehmen, den Sie sich jemals in dieser großen, großen Welt vorgestellt haben.
+
+Du willst Arzt werden? Ein Lehrer? Ein Künstler? Du willst ein Elternteil sein, der seine Kinder großzieht, oder? Du kannst es schaffen! 
+
+Sie müssen nur diesen Traum, diese Leidenschaft, diese Entschlossenheit haben.
+
+Habt keine Angst, GROSS zu träumen, ihr alle. 
+
+Es gibt keine Grenzen für das, was Sie erreichen können, wenn Sie sich nur darauf konzentrieren. 
+
+Schauen Sie sich an, was wir heutzutage mit Technologie machen. 
+
+Ich meine, wer hätte damals gedacht, dass all unsere modernen Annehmlichkeiten überhaupt möglich wären? 
+
+Aber jemand hatte diesen Traum, diese Vision, und er hat sie Wirklichkeit werden lassen.
+
+Sehen Sie, was ich sage? 
+
+Auch Sie MACHEN Ihre Träume wahr. Gib sie niemals auf. Und zweifeln Sie nicht daran, was Sie erreichen können. Das Leben ist zu kurz, um sich mit Mittelmäßigkeit zufrieden zu geben. 
+
+Gehen Sie also aufs Ganze und verfolgen Sie diesen Traum, bis er Wirklichkeit wird.
+
+[Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

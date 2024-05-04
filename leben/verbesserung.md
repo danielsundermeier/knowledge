@@ -719,6 +719,97 @@ Wenn Sie Ihre Fähigkeiten in jedem dieser Bereiche verbessern, werden Sie begin
 
 [The Four Purposes of Life](https://www.goodreads.com/book/show/9912481-the-four-purposes-of-life)
 
+## Werde die beste Version von dir
+
+Das erste Prinzip lautet einfach: Du bist hier, um die bestmögliche Version deiner selbst zu werden. 
+
+Es scheint klar zu sein, dass Sie nicht hier sind, um die zweitklassige Version Ihrer selbst zu werden. 
+
+Sie sind auch nicht hier, um eine andere Version Ihrer Eltern, Lehrer, Freunde oder Geschwister zu sein. 
+
+Auf einer sehr grundlegenden Ebene bist du hier, um du selbst zu sein. 
+
+Allerdings ist es viel schwieriger, man selbst zu sein, als die meisten annehmen würden, weil es die eigentliche Arbeit der Selbstfindung erfordert. 
+
+Nichtsdestotrotz teilen Sie hierin eine gemeinsame Bindung mit allen Männern, Frauen und Kindern, denn wir alle sind hier, um die beste Version von uns selbst zu werden. 
+
+Die beste Art zu leben ist daher, so zu leben, dass Sie die beste Version Ihrer selbst werden.
+
+In Bezug auf das erste Prinzip ergibt alles Sinn. 
+
+Im Leben geht es darum, „Ja“ zu den Dingen zu sagen, die einem helfen, die beste Version von sich selbst zu werden, und „Nein“ zu den Dingen, die das nicht tun. 
+
+Es ist nicht komplizierter. 
+
+Natürlich schaffen wir es, es noch viel komplizierter zu machen. 
+
+Auf einer anderen Ebene des Denkens wird das Konzept zu etwas Schönem, denn schließlich erkennen wir, dass alles oder jeder, der uns nicht dabei hilft, eine bessere Version von uns selbst zu werden, einfach zu klein für uns ist. 
+
+Welche Befreiung und Freude erleben wir, wenn wir uns diese Wahrheit zum ersten Mal zu eigen machen.
+
+[Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
+
+## Nehmen Sie die Jahrzehnt-Sicht
+
+Wenn Sie den Verlauf Ihrer Karriere ändern möchten, ändern Sie den Zeitraum, mit dem Sie sich befassen und über den Sie nachdenken. 
+
+Wenn Sie Ihr Leben ändern möchten, ändern Sie den Zeitraum, an den Sie denken.
+
+Der erste Schritt besteht also darin, es nicht zu eilig zu haben, das ideale Leben zu schaffen, das Sie sich vorgestellt haben. 
+
+Persönliche und berufliche Zufriedenheit werden wie ein Schloss gebaut, Stein für Stein. 
+
+Wir neigen dazu, zu überschätzen, was wir an einem Tag tun können, und zu unterschätzen, was wir in einer Woche tun können. 
+
+Ebenso neigen wir dazu, zu überschätzen, was wir in einem Jahr erreichen können, und zu unterschätzen, was wir in einem Jahrzehnt erreichen können.
+
+Nehmen Sie eine Dekade-Perspektive. 
+
+Geben Sie sich ein Jahrzehnt Zeit, um das Leben aufzubauen, das Sie sich vorgestellt haben, ein Leben voller persönlicher und beruflicher Zufriedenheit. 
+
+Bis Sie die Dekade-Perspektive einnehmen, bis Sie anfangen, sich vorzustellen und zu planen, was Sie in einem Jahrzehnt tun können, haben Sie noch nicht einmal damit begonnen, Ihr Potenzial auszuschöpfen.
+
+[Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
+
+## Neue Möglichkeiten beginnen mit einer Person
+
+- John F. Kennedy – Der Flug zum Mond war „ein kleiner Schritt für den Menschen, ein großer Sprung für die Menschheit.“ Es würde den Glauben erwecken, dass jede Barriere niedergerissen werden kann.
+- Martin Luther King, Jr. – Seine Rede „Ich habe einen Traum“ und seine friedlichen Proteste würden von ganzen Nationen angenommen werden und eine bessere Lebensweise fördern.
+- Mutter Teresa würde Möglichkeiten für Millionen Menschen schaffen, die unter HIV/AIDS, Lepra, Hunger und Obdachlosigkeit leiden, indem sie ein Leben voller Dienst und Opferbereitschaft vorlebt.
+- Henry Ford würde nicht nur Möglichkeiten rund um das Automobil hervorbringen, sondern durch Automatisierung eine Fülle von Möglichkeiten zum Leben erwecken.
+- Bill Gates würde die Technologie auf ein neues Niveau heben und neue Branchen mit der Vision „einen PC auf jedem Desktop“ schaffen.
+- 1972 wurde Katherine Graham die erste weibliche CEO eines Fortune-500-Unternehmens und durchbrach damit die „gläserne Decke“ für andere berufstätige Frauen.
+- Stephen Hawking, bei dem im Alter von 21 Jahren ALS diagnostiziert wurde, war ein weltbekannter Physiker und eine einflussreiche Persönlichkeit der Popkultur, der demonstrierte, welch nachhaltigen Einfluss Menschen mit Behinderungen haben können, wenn sie ehrgeizige Möglichkeiten verfolgen.
+- Michael Phelps würde mit 28 Medaillen der höchstdekorierte Olympiateilnehmer aller Zeiten werden. Aufgrund persönlicher Probleme würde er dann an Ruhm verlieren. Er kämpfte gegen Depressionen und kämpfte mit Selbstmordgedanken. Seine Bereitschaft, sich beraten zu lassen und transparent zu sein, hat jedoch den Einzelnen neue Möglichkeiten eröffnet, ehrlich zu sein und sich nicht vor ihren persönlichen Problemen zu verstecken. Vielleicht wird sein zweiter Beitrag andere weit mehr inspirieren und beeinflussen als sein olympischer Ruhm und Reichtum.
+
+Neue Möglichkeiten für den Planeten Erde werden von den Menschen erreicht und verwirklicht. Menschen, die auf beispiellose Weise schwitzen, Opfer bringen und dienen.
+
+[Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
+
+## Gut verbrachte Zeit
+
+Mit Beharrlichkeit können selbst die Kleinigkeiten der Zeit zu Ergebnissen von größtem Wert verarbeitet werden. 
+
+Eine Stunde am Tag, die man sich von leichtfertigen Beschäftigungen entzieht, würde, wenn man sie gewinnbringend einsetzt, einen Menschen mit normaler Begabung in die Lage versetzen, große Fortschritte bei der Beherrschung einer Wissenschaft zu machen. 
+
+Es würde einen unwissenden Mann in weniger als zehn Jahren zu einem gut informierten Mann machen. 
+
+Die Zeit sollte nicht vergehen, ohne Früchte zu tragen, in Form von etwas Gelerntem, das es wert ist, erkannt zu werden, in Form eines guten Prinzips, das kultiviert wird, oder einer Stärkung einer guten Gewohnheit.
+
+[Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
+
+## Uns selbst verändern
+
+Sokrates sagte: „Wer die Welt bewegen will, soll zuerst sich selbst bewegen.“ 
+
+Oder wie der alte Reim lautet: „Wenn jeder für seine eigene Reformation sorgen würde, wie leicht könntest Du eine Nation reformieren.“ 
+
+Allerdings wird allgemein davon ausgegangen, dass es weitaus einfacher ist, die Kirche und den Staat zu reformieren, als auch nur die geringste unserer eigenen schlechten Gewohnheiten zu reformieren; 
+
+und in solchen Angelegenheiten finden wir es gewöhnlich angenehmer für unseren Geschmack, da es sicherlich die allgemeine Praxis ist, bei unseren Nachbarn statt bei uns selbst zu beginnen.
+
+[Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

@@ -529,6 +529,78 @@ Nun, das mag wie eine eher elementare Sichtweise erscheinen, aber ich möchte es
 
 [Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
+## Leiden Sie unter einer Ausreden?
+
+Hier ist eine einfache Möglichkeit, Ihre Ausreden zu testen. 
+
+Fragen Sie sich: „Gibt es irgendwo jemanden mit meinem Problem oder meiner Einschränkung, der es trotzdem geschafft hat?“
+
+Wenn die Antwort „Ja“ lautet, wissen Sie, dass Ihre Entschuldigung nicht gültig ist. 
+
+Es ist kein legitimer Grund dafür, dass Sie keine Fortschritte machen. 
+
+Was einer getan hat, kann auch ein anderer tun. 
+
+Die Krankheit „Exkusitis“, die Entzündung der Entschuldigungsdrüse, ist ausnahmslos tödlich für den Erfolg. 
+
+Wenn Sie es haben, nehmen Sie sich vor, es sofort zu überwinden, bevor es alle Ihre Hoffnungen auf großen Erfolg zunichte macht.
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
+## Der wichtigste Faktor? Konsistenz!
+
+Willst du erfolgreich sein? 
+
+Dann sollten Sie besser KONSEQUENT sein. 
+
+Es ist mir egal, wer Sie sind – ein Arzt, ein Anwalt, ein Geschäftsinhaber, ein Lehrer, ein Elternteil, ein Profisportler, ein Trainer, was auch immer – die Fähigkeit, JEDEN EINZELNEN TAG Ihr Bestes zu geben, wird der wichtigste Faktor sein definiert Ihren Erfolgsgrad. 
+
+Sie können Ihren Weg zur Konsistenz nicht vortäuschen. 
+
+Ihre Konsistenz lässt sich am besten über die Zeit messen. 
+
+Und glauben Sie mir, die Zeit ist ein wunderbarer Geschichtenerzähler.
+
+[Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
+
+## KISS - Keep It Simple
+
+Clarence „Kelly“ Johnson leitete eines der innovativsten Ingenieurteams der Geschichte und prägte das KISS-Prinzip, d. h. „Keep it simple.“
+
+Johnson war mehr als 40 Jahre lang ein renommierter Luftfahrtingenieur bei Lockheed Martin. 
+
+Er leitete ihre geheime Abteilung namens Skunk Works, ein heute gebräuchlicher Name für Forschungs- und Entwicklungsabteilungen, der ursprünglich ein Insider-Witz war. 
+
+(Sie arbeiteten in der Nähe einer übelriechenden Kunststofffabrik.)
+
+Johnson entwickelte das KISS-Prinzip während des Zweiten Weltkriegs. 
+
+Dies war eine Möglichkeit, sein Team daran zu erinnern, dass ihre hochmodernen Jets immer noch von durchschnittlichen Mechanikern mit einfachen Werkzeugen repariert werden mussten. 
+
+Durch die Eliminierung unnötiger Komplexität gelang es Skunk Works, in Rekordzeit einige der bedeutendsten Durchbrüche in der Luftfahrt zu erzielen.
+
+Johnson starb 1990, aber „Keep it simple“ lebt als wertvolles Motto für uns alle weiter
+
+[Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
+
+## Die Macht des unermüdlichen Fleißes
+
+Wir brauchen in der Tat nur einen Blick auf die Biografien großer Männer zu werfen, um festzustellen, dass die bedeutendsten Erfinder, Künstler, Denker und Arbeiter aller Art ihren Erfolg zu einem großen Teil ihrem unermüdlichen Fleiß und Einsatz verdanken. 
+
+Sie waren Männer, die alles in Gold verwandelten – sogar die Zeit selbst. 
+
+Disraeli der Ältere vertrat die Auffassung, dass das Geheimnis des Erfolgs darin bestehe, sein Fach zu beherrschen, und dass eine solche Meisterschaft nur durch kontinuierliche Anwendung und Studium erreicht werden könne. 
+
+Daher kommt es, dass die Männer, die die Welt am meisten bewegt haben, nicht so sehr geniale Männer im eigentlichen Sinne waren, sondern vielmehr Männer mit äußerst mittelmäßigen Fähigkeiten und unermüdlicher Beharrlichkeit; 
+
+Nicht so oft handelt es sich um Begabte mit von Natur aus hellen und strahlenden Eigenschaften, sondern um diejenigen, die sich eifrig ihrer Arbeit widmen, in welcher Richtung auch immer sie liegen mag. 
+
+"Ach!" sagte eine Witwe und sprach von ihrem brillanten, aber nachlässigen Sohn: „Er hat nicht die Gabe des Fortbestehens. Solche flüchtigen Naturen, denen es an Ausdauer mangelt, werden im Rennen des Lebens von den Fleißigen und sogar den Langweiligen überholt."
+
+„Che va Piano, va longano, e va lontano“, sagt das italienische Sprichwort: Wer langsam geht, geht lange und kommt weit.
+
+[Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

@@ -459,6 +459,46 @@ Ich bin zuversichtlich, dass Sie es können.
 
 [Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
 
+## Auch wenn Sie kaputt sind, bleiben Sie in Bewegung!
+
+Manchmal ist das Leben NICHT einfach. Glauben Sie mir, ich kenne dieses Konzept. 
+
+Das Leben wird dich runterziehen, dich treten, während du bereits unten bist, und dir das Gefühl geben, dass du es nie schaffen wirst. 
+
+Aber hier ist die Sache: Du KANNST NICHT unten bleiben. Das kannst du nicht. Und das wirst du nicht. Du stehst wieder auf, klopfst dir den Staub ab und machst weiter.
+
+Schau, ich weiß, dass es schwer wird. Vielleicht wurden Sie gerade von Ihrem Job entlassen. Vielleicht haben Sie jemanden verloren, den Sie geliebt haben. Vielleicht kämpfen Sie mit einer Krankheit, von der niemand weiß. Vielleicht sind Ihre Träume in eine Million Teile zerbrochen.
+
+Was auch immer es sein mag, wissen Sie, dass Sie nicht allein sind. Ich war dort. Ich hatte einige Schwierigkeiten und Rückschläge, aber ich kann Ihnen sagen, dass Aufgeben NIEMALS eine Option ist. 
+
+Drücken Sie weiter, mahlen Sie weiter und verfolgen Sie weiterhin Ihre Träume. Es wird nicht einfach sein, aber es wird sich lohnen.
+
+Manche Leute sagen, dass der stärkste Stahl im heißesten Feuer geschmiedet wird. Das bedeutet, dass man in einer schwierigen Zeit gestärkt wird. 
+
+Dieser Schmerz wird nicht ewig anhalten. Er ist dazu da, Sie WACHSEN zu lassen. Damit du höher springst, schneller rennst und besser wirst.
+
+Verdrehen Sie es jetzt nicht. An den Tagen, an denen Sie das Handtuch werfen und aufgeben möchten, müssen Sie TIEF graben. 
+
+Manchmal muss man es vortäuschen, bis man es schafft. Manchmal muss man sein mutiges Gesicht aufsetzen, auch wenn einem innerlich zum Weinen zumute ist.
+
+Wisse einfach, dass es in Ordnung ist, sich gebrochen und entmutigt zu fühlen. Es ist in Ordnung, das Gefühl zu haben, dass man es nicht kann. Es ist in Ordnung, sich schwach zu fühlen. 
+
+Aber vergessen Sie nie, dass Sie STARK, FÄHIG und WÜRDIG sind. Der Schlüssel liegt darin, in Bewegung zu bleiben. 
+
+Setzen Sie weiterhin einen Fuß vor den anderen, auch wenn es nur kleine Schritte sind.
+
+Feiern Sie jeden kleinen Sieg, jeden kleinen Schritt nach vorne. 
+
+Denn das ist es, was Erfolg ausmacht. Es geht nicht um das Endergebnis. Es geht um die Reise. Es geht um die Geschichten, die Sie Ihren Enkelkindern eines Tages erzählen werden.
+
+Wenn dich das Leben also niederschlägt, steh wieder auf! Wenn Sie das Gefühl haben, dass Sie nicht weitermachen können, atmen Sie tief durch und bleiben Sie in Bewegung. 
+
+Wenn Sie das Gefühl haben, gebrochen und entmutigt zu sein, denken Sie daran, dass Sie nicht allein sind und DAS KÖNNEN!
+
+Du schaffst das. Du bist ein CHAMPION. UND CHAMPIONS GEBEN NIEMALS AUF.
+
+[Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

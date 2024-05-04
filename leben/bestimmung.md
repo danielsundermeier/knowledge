@@ -750,6 +750,62 @@ Jetzt ist es an der Zeit, sich zu der Person zu entwickeln, die Sie sein möchte
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
 
+## 7 Fragen, die Ihr Leben verändern können
+
+Was auch immer Sie als Antwort auf eine dieser Fragen geschrieben haben, einschließlich der Frage: „Was für eine großartige Sache würden Sie zu träumen wagen, wenn Sie wüssten, dass Sie nicht scheitern könnten?“ Können Sie sein, haben oder tun. Allein die Tatsache, dass Sie es schreiben konnten, bedeutet, dass Sie es erreichen können. Sobald Sie herausgefunden haben, was Sie wollen, müssen Sie nur noch die Frage beantworten: „Will ich es unbedingt genug und bin ich bereit, den Preis zu zahlen?“
+
+Nehmen Sie sich ein paar Minuten Zeit, um Ihre Antworten auf jede dieser sieben Fragen aufzuschreiben. 
+
+Sobald Sie Ihre Antworten auf Papier haben, gehen Sie sie durch und wählen Sie nur einen aus, der Ihr aktueller Hauptzweck im Leben ist.
+
+1. Was sind deine fünf wichtigsten Werte im Leben?
+2. Was sind derzeit Ihre drei wichtigsten Lebensziele?
+3.Was würden Sie tun, wie würden Sie Ihre Zeit verbringen, wenn Sie erfahren würden, dass Sie heute nur noch sechs Monate zu leben haben?
+4. Was würden Sie tun, wenn Sie morgen im Lotto eine Million Dollar in bar und steuerfrei gewinnen würden?
+5. Was wollten Sie schon immer tun, hatten aber Angst davor?
+6. Was machst du am liebsten? Was gibt Ihnen das größte Gefühl von Selbstwertgefühl und persönlicher Zufriedenheit?
+7. Welche großartige Sache würden Sie zu träumen wagen, wenn Sie wüssten, dass Sie nicht scheitern könnten?
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
+## Setzen Sie auf positives Wissen
+
+Der wichtigste Beitrag, den Sie zu Ihrem Erfolg und Glück leisten können, besteht darin, die Gewohnheit zu entwickeln, sich kontinuierlich Ziele zu setzen. 
+
+Der Schlüssel zur Entwicklung dieser Gewohnheit liegt darin, zu lernen, wie man sich bewusst ein klares, herausforderndes Ziel setzt und es erreicht. 
+
+Wenn Sie sich ein bestimmtes Ziel gesetzt und es dann gemäß Ihren Plänen erreicht haben, verändern Sie sich von einer Einstellung des positiven Denkens zu einer Einstellung des positiven Wissens. 
+
+Sie müssen in Ihrem Kopf den Punkt erreichen, an dem Sie zweifelsfrei wissen, dass Sie jedes Ziel erreichen können, das Sie sich gesetzt haben. 
+
+Von da an bist du ein anderer Mensch. 
+
+Du bist der Herr deines Schicksals.
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
+## Welches Leben willst du wirklich?
+
+Beginnen wir also damit, über das Leben nachzudenken, das Sie wirklich wollen. 
+
+Ich finde, der beste Weg, dies zu tun, besteht darin, über ein paar Fragen nachzudenken. S
+
+ie können diese Fragen auch direkt bis zum Ende des Kapitels lesen, und das ist in Ordnung. 
+
+Aber ich möchte Sie ermutigen, in den kommenden Tagen und Wochen zu verschiedenen Zeitpunkten auf diese Fragen zurückzukommen und ein wenig Zeit damit zu verbringen, über jede einzelne Frage nachzudenken. 
+
+Ich hoffe, dass sie Ihnen helfen werden, herauszufinden, was möglich ist.
+
+1. Was gefällt Ihnen an Ihrem heutigen Leben?
+2. Was gefällt Ihnen an Ihrem heutigen Leben nicht?
+3. Fühlen Sie sich durch Dinge gefangen, die Ihnen heute an Ihrem Leben nicht gefallen?
+4. Wenn Sie nächste Woche zum Arzt gehen würden und er Ihnen sagen würde, dass Sie im Sterben liegen und nur noch ein Jahr zu leben haben, was würden Sie im nächsten Jahr tun?
+5. Wenn Sie 10 Milliarden Dollar erben würden, was würden Sie mit dem Rest Ihres Lebens anfangen und was würden Sie mit dem Geld machen?
+6. Was hält Sie von dem Leben ab, das Sie wirklich wollen?
+7. Wenn Sie drei Dinge in Ihrem Leben ändern könnten, welche wären das?
+
+[Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

@@ -12,6 +12,8 @@ Wir sollten uns wirklich für die Menschen, die wir führen, interessieren. Wir 
 
 Wenn Menschen nicht das Gefühl haben wertgeschätzt zu werden, verlieren sie das Interesse und hören auf sich zu engagieren.
 
+> "Leadership is the art of getting someone else to do something you want done because he wants to do it." - Dwight D. Eisenhower
+
 ## Eigenschaften
 
 - Richtungsweisende Vision
@@ -258,6 +260,38 @@ Laut einer bedeutenden weltweiten Umfrage müssen Menschen drei bis fünf Mal In
 Um Klarheit zu schaffen, stellen Sie sicher, dass die Kommunikation ehrlich ist und wiederholt wird.
 
 [The Trust Edge](https://www.goodreads.com/book/show/9457819-the-trust-edge)
+
+## Einsamkeit: Die Geheimwaffe des Anführers
+
+Cal Newport fordert uns heraus, die Kontrolle über unser Leben zurückzugewinnen. 
+
+Wählen Sie ein konzentriertes Leben in einer lauten Welt. 
+
+Wie der Armeeoffizier Michael Erwin sagen würde: „Führe dich selbst zuerst.“ 
+
+Menschen sind nicht dazu bestimmt, ständig verkabelt zu sein. 
+
+Das größte Geschenk, das Sie sich selbst und Ihrem Unternehmen machen können, ist die Ausübung des selten genutzten Geheimnisses der Einsamkeit. 
+
+Verbringen Sie einige Zeit in der Einsamkeit, planen Sie, träumen Sie, verstehen Sie und drücken Sie Dankbarkeit aus.
+
+Einsamkeit ist keine Trennung. 
+
+Es ist nicht erforderlich, dass Sie meilenweit von einem anderen Menschen entfernt sind. 
+
+In der Einsamkeit ist Ihr Geist frei von den Einflüssen anderer Geister. 
+
+Man kann es in einem Café genießen, spazieren gehen, mit dem Auto fahren oder, wie Präsident Lincoln in seinem Cottage entdeckte, den Rasen mit zwei Kompanien Unionssoldaten teilen.
+
+Nehmen Sie sich etwas Zeit, um den Netzstecker zu ziehen. 
+
+Nehmen Sie sich etwas Zeit für die Einsamkeit. 
+
+Es ist ein Lebensbeschleuniger. 
+
+Es wird dir besser gehen. Und wenn es einem besser geht, werden Möglichkeiten viel wahrscheinlicher.
+
+[Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
 
 ## Bücher
 

@@ -12,6 +12,8 @@ Es sind aber nur Daten, die wir für unser Wachstum verwenden können. Nur wenn 
 
 Dabei passieren Fehler, durch die wir lernen sie in Zukunft zu vermeiden.
 
+> "Failure is the price we pay for leveling up." - Matt Higgins
+
 ## Notwendige Fehlbarkeit
 
 Wir sind nicht allwissend oder allmächtig. Manche Dinge sind außerhalb von dem, was wir zu leisten im Stande sind.
@@ -135,6 +137,30 @@ Die Weitschüsse sind oft die lohnendsten.
 Fast ausnahmslos haben Menschen, die Großes geleistet haben, auch große Misserfolge erlebt.
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
+
+## Berühmte Misserfolge
+
+CEO David Mattson von Sandler Training erklärt: „Misserfolg ist ein Teil der menschlichen Verfassung. Jeder scheitert an etwas. Menschen, die viel erreichen, scheitern an vielen Dingen.“ 
+
+Tatsächlich lautet die Sandler-Regel Nr. 1 in David Sandlers bewährten und zeitlosen 49 Verkaufsprinzipien: „Man muss lernen, zu scheitern, um zu gewinnen.“
+
+Einige der „berühmtesten Misserfolge“ geben uns eine unglaubliche Inspiration, um zu verstehen, dass ein Scheitern nicht endgültig ist.
+
+- 27 Verlage lehnten das erste Buch von Dr. Seuss ab, der später zum meistverkauften Kinderbuchautor aller Zeiten wurde.
+- Walt Disney wurde wegen „mangelnder Vorstellungskraft“ von einem Zeitungsjob entlassen.
+- Oprah Winfrey wurde in einem ihrer ersten Jobs degradiert, weil „sie nicht fürs Fernsehen geeignet war“.
+
+Eines meiner Lieblingszitate stammt von Thomas Edison, der uns daran erinnert, dass Scheitern nicht endgültig ist, sich Beharrlichkeit jedoch auszahlt. 
+
+Er sagte: „Wenn ich 10.000 Gründe finde, wie etwas nicht funktioniert, habe ich nicht versagt. Ich lasse mich nicht entmutigen, denn jeder verworfene Fehlversuch ist oft ein Fortschritt.“
+
+Aus Misserfolgen kann man Lehren ziehen. Machen Sie es zu Ihrem Freund, indem Sie „vorwärts scheitern“.
+
+Machen Sie sich bei der Suche nach neuen Möglichkeiten bewusst, dass ein Scheitern weder endgültig noch tödlich ist. 
+
+Komm wieder hoch. Versuchen Sie es noch einmal. Du kannst das!
+
+[Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
 
 ## Bücher
 

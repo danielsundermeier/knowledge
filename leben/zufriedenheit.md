@@ -824,6 +824,22 @@ Wenn Sie das Gefühl haben, dass Ihr Leben nicht so ist, wie es sein sollte, Sie
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Machen Sie Glück zur Gewohnheit
+
+Sogar das Glück selbst kann zur Gewohnheit werden. 
+
+Es besteht die Angewohnheit, die positive Seite der Dinge zu betrachten, aber auch die dunkle Seite. 
+
+Dr. Johnson hat gesagt, dass die Gewohnheit, die beste Seite einer Sache zu betrachten, für einen Mann mehr wert ist als tausend Pfund im Jahr. 
+
+Und wir verfügen in hohem Maße über die Fähigkeit, unseren Willen so zu gebrauchen, dass wir unsere Gedanken auf Objekte richten, die dazu dienen, Glück und Verbesserung zu bewirken, und nicht auf deren Gegenteile. 
+
+Auf diese Weise kann die Gewohnheit des glücklichen Denkens wie jede andere Gewohnheit entstehen. 
+
+Und Männer oder Frauen mit einem solchen freundlichen Wesen, einer guten Laune und einer glücklichen Gemütsverfassung zu erziehen, ist in vielen Fällen vielleicht noch wichtiger, als sie in vielen Kenntnissen und vielen Errungenschaften zu vervollkommnen.
+
+[Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

@@ -390,6 +390,32 @@ Athleten, die sich vorstellen, eine Goldmedaille zu erhalten, schneiden nicht so
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Das Gesetz der Substitution
+
+Dies ist eines der wichtigsten mentalen Gesetze. 
+
+Es ist eine Erweiterung des Gesetzes der Kontrolle. 
+
+Es besagt, dass Ihr Bewusstsein immer nur einen Gedanken gleichzeitig speichern kann und dass Sie einen Gedanken durch einen anderen ersetzen können. 
+
+Dieses „Verdrängungsprinzip“ ermöglicht es Ihnen, einen negativen Gedanken bewusst durch einen positiven Gedanken zu ersetzen. 
+
+Dadurch übernehmen Sie die Kontrolle über Ihr Gefühlsleben. 
+
+Dieses Gesetz ist Ihr Schlüssel zum Glück, zu einer positiven Geisteshaltung und zur persönlichen Befreiung. 
+
+Es kann Ihre Beziehungen, Ihre Gespräche und den vorherrschenden Inhalt Ihres Bewusstseins verändern. 
+
+Viele Menschen haben mir erzählt, dass allein dieses Gesetz ihr Leben verändert hat.
+
+Ihr Bewusstsein ist niemals leer; es ist immer mit etwas beschäftigt. 
+
+Durch die Anwendung des Gesetzes der Substitution können Sie jeden negativen oder ängstlichen Gedanken ersetzen, der Sie möglicherweise beunruhigt. 
+
+Sie können diese bewusst durch einen positiven Gedanken ersetzen.
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

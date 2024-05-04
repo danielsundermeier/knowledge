@@ -527,6 +527,92 @@ So einfach, so grundlegend, so wahr – und so missverstanden!
 
 [Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
+## So machen Sie Ihr Leben zu einem Meisterwerk
+
+Sie müssen mit Ihrem Ideal beginnen, Ihrer Vision einer perfekten Zukunft. 
+
+Sie beginnen, Ihre inneren Kräfte freizusetzen, indem Sie den Blick heben und Ihr Leben genau so „sehen“, als ob es bereits in jeder Hinsicht perfekt wäre. 
+
+Ihre erste Aufgabe besteht darin, einen Plan zu erstellen, ein klares Bild davon, wohin Sie gehen und wie es aussehen wird, wenn Sie dort ankommen. 
+
+Dieses Bild dient dann als Organisationsprinzip, als Leitfaden, als Maßstab, an dem Sie alles messen und vergleichen können, was Sie tun, um es in Ihre Realität umzusetzen.
+
+Durch die Definition der sieben Erfolgsfaktoren erhalten Sie eine Reihe von Zielen, die Sie anstreben können. 
+
+Wenn Sie Ihr Leben ideal definieren und den Mut haben, genau zu entscheiden, was Sie wollen, beginnen Sie damit, Ihre verborgenen Kräfte freizusetzen, um erfolgreich zu sein.
+
+Zu wissen, wo man landen möchte, ist der erste und wichtigste Schritt.
+
+1. Seelenfrieden
+2. Gesundheit und Energie
+3. Liebevolle Beziehungen
+4. Finanzielle Freiheit
+5. Würdige Ziele und Ideale
+6. Selbsterkenntnis und Selbstbewusstsein
+7. Persönliche Erfüllung
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
+## Hektar voller Diamanten
+
+Der Händler nahm den Stein und sagte: „Das ist ein Diamant von großem Wert und Preis.“ 
+
+Der neue Bauer war skeptisch, aber der Händler bestand darauf, ihm zu zeigen, wo er den Diamanten gefunden hatte. 
+
+Sie gingen auf die Farm hinaus, wo der Bauer den Esel getränkt hatte, und als sie sich umsahen, fanden sie einen weiteren Diamanten und noch einen und noch einen. 
+
+Es stellte sich heraus, dass die gesamte Farm mit Hektar voller Diamanten bedeckt war. 
+
+Der alte Bauer war auf der Suche nach Diamanten nach Afrika gegangen, ohne jemals unter seine eigenen Füße zu schauen.
+
+Die Moral dieser Geschichte war, dass der alte Bauer nicht erkannte, dass die Diamanten in ihrer Rohform nicht wie Diamanten aussehen. 
+
+Für ein ungebildetes Auge sehen sie einfach wie Steine aus.
+
+Ein Diamant muss geschliffen, facettiert, poliert und gefasst werden, bevor er wie ein Diamant aussieht, den man in Juweliergeschäften sieht. 
+
+Ebenso liegen Ihre Diamantenflächen wahrscheinlich direkt unter Ihren eigenen Füßen. 
+
+Aber sie werden meist als harte Arbeit getarnt. „Chancen ergeben sich in Arbeitskleidung.“
+
+Ihre Diamanten liegen wahrscheinlich in Ihren eigenen Talenten, Ihren Interessen, Ihrer Ausbildung, Ihrem Hintergrund und Ihrer Erfahrung, Ihrer Branche, Ihrer Stadt, Ihren Kontakten. 
+
+Ihre Diamanten liegen wahrscheinlich direkt unter Ihren eigenen Füßen, wenn Sie sich die Zeit nehmen, sie zu erkennen und sich dann an die Arbeit an ihnen zu machen.
+
+[Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
+
+## Ich habe also eine Chance?
+
+Aber bevor wir unseren Erfolg erreichen, muss ich ihn im Kopf sehen.
+
+Visualisierung ist so wichtig. 
+
+Wussten Sie, dass sich der Schauspieler Jim Carrey, als er anfing, stets als reich, berühmt und erfolgreich vorstellte, selbst als er es nicht war? 
+
+Er fuhr durch Los Angeles und tat so, als würde er sich mit Regisseuren treffen – und niemand wusste, wer Jim Carrey war. 
+
+Er hat dies für sich getan. Die Leute hätten ihn vielleicht für verrückt gehalten, aber er sah das Ziel klar vor Augen.
+
+Klingt, als würde er in einer Traumwelt leben, oder? 
+
+Aber er täuschte seinen Verstand und redete sich ein, dass alle seine Träume da draußen auf ihn warteten. 
+
+Sie würden sein eigentlicher Besitz sein. Er hatte sie einfach noch nicht im Griff. Es würde einige Zeit dauern.
+
+Als er pleite war, stellte er sich selbst einen Scheck über 10 Millionen Dollar aus. 
+
+Er war davon überzeugt, dass ihm das Geld eines Tages in den Weg kommen würde. 
+
+Er datierte es auf Thanksgiving 1995 und steckte es in seine Brieftasche. 
+
+Kurz vor Thanksgiving Day 1995 erfuhr Carrey, dass er zehn Millionen für einen Film namens Dumb and Dumber verdienen würde. 
+
+Jim Carrey bewahrte diesen Scheck bis zu dem Tag, an dem er seinen Vater beerdigte, in seiner Brieftasche auf und legte ihn in den Sarg seines Vaters, weil sie gemeinsam den Traum hatten, dass er ihn herstellen würde. 
+
+Visualisierung ist mächtig, Mann. Es ist eine der höchsten Formen des GLAUBENS.
+
+[Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

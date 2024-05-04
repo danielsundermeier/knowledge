@@ -81,6 +81,30 @@ Der Schlüssel dazu, bei Ihren Unternehmungen Weltklasse zu werden, liegt darin,
 
 [The Compound Effect](https://www.goodreads.com/book/show/13238604-the-compound-effect)
 
+## Wie lebt man am besten?
+
+Wie lebt man am besten? Es ist eine schöne Frage. 
+
+Geben Sie dieser Frage einen Platz in Ihrem inneren Dialog. Fangen Sie an, darüber nachzudenken. Halten Sie bewusst inne, um darüber nachzudenken. Experimentieren Sie damit. 
+
+Entdecken Sie den besten Weg, Ihren Tag zu beginnen. 
+
+Probieren Sie verschiedene Möglichkeiten aus und beobachten Sie, wie Sie sich fühlen, wenn Ihr Tag beginnt und endet, Ihr Energieniveau steigt und fällt, Ihre Konzentration und Effizienz zu- und abnimmt. 
+
+Sobald Sie herausgefunden haben, wie Sie Ihren Tag am besten beginnen, experimentieren Sie mit der besten Art, Ihren Tag zu beenden. 
+
+Nachdem Sie diese Frage beantwortet haben, können Sie mit der besten Art und Weise fortfahren, ein Wochenende zu verbringen. 
+
+Wie lebt man am besten? Es ist eine unglaubliche Frage. 
+
+Eine lockere Auseinandersetzung mit dieser Frage reicht nicht aus, und darüber hinaus kann eine lockere Auseinandersetzung mit dieser Frage mehr schaden als nützen. 
+
+Die Frage muss konsequent und strategisch angegangen werden. 
+
+Wenn Sie der Meinung sind, dass Sie dazu nicht bereit oder in der Lage sind, legen Sie dieses Buch beiseite und schauen Sie nicht zurück, bis Sie bereit sind, sich der Frage voll und ganz zu stellen.
+
+[Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

@@ -138,6 +138,20 @@ Michael Jordan war während seiner 2-Minuten-Pausen auf der Bank immer völlig g
 
 [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
 
+## Wie lange kannst du dieses Glas Wasser halten?
+
+Als nächstes bitte ich um ein paar weitere Freiwillige, die kommen und ein Glas Wasser zu halten. 
+
+Dieses Mal erkläre ich ihnen, dass sie das Glas Wasser jeweils eine Minute lang gerade halten müssen und zwischen diesen Zeiten zwanzig Sekunden Pause machen dürfen. 
+
+In den meisten Fällen sind sie in der Lage, das Glas in Intervallen von einer Minute und Pausen von zwanzig Sekunden auf unbestimmte Zeit zu halten.
+
+Zu wissen, wie wir verschiedene Aktivitäten in unserem Leben ausbalancieren können, um den maximalen Energiefluss zu erzeugen, ist vielleicht die wichtigste Fähigkeit, die jeder von uns erlernen und entwickeln kann. 
+
+Jeder von uns muss herausfinden, wie lange er in seinem Leben das sprichwörtliche Glas Wasser hält, und jeder von uns muss bestimmen, welche Pausen er braucht, um das Glas zu halten.
+
+[Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

@@ -283,6 +283,30 @@ Wir nennen es den R-Faktor.
 
 [Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
 
+## Ein „Aber“ gegen ein „Und“ austauschen
+
+Es gibt jedoch noch eine andere Möglichkeit: den Regen ruhen zu lassen, ohne dagegen anzukämpfen. 
+
+Der bloße Austausch von "und" durch "aber" kann den Zweck erfüllen:
+
+Wir verbringen unseren Winterurlaub in Florida, UND es regnet. 
+
+Das ist nicht das, was wir geplant haben; es ist sehr enttäuschend. 
+
+Wenn wir zu dieser Jahreszeit Regen gewollt hätten, hätten wir unsere Freunde in Seattle besucht. UND, so sind die Dinge.
+
+Präsenz ohne Widerstand: Sie können sich jetzt der Frage zuwenden: „Was wollen wir von hier aus tun?“ 
+
+Dann tauchen alle möglichen Wege auf: die Möglichkeit zur Ruhe; das beste Essen, den besten Sex, die beste Lektüre oder die beste Unterhaltung haben; ins Kino gehen oder im Regen spazieren gehen; oder den nächsten Flug nach Tucson nehmen.
+
+Tatsächlich schafft die Fähigkeit, ohne Widerstand bei allem, was geschieht, präsent zu sein, Möglichkeiten. 
+
+Es schafft Möglichkeiten auf die gleiche Weise, wie Ihre Brille Ihre Lesefähigkeit wiederherstellt, wenn Sie weitsichtig sind. 
+
+Endlich kann man sehen. Sie können den Kampf, sich mit dem, was vor Ihnen liegt, auseinanderzusetzen, hinter sich lassen und weitermachen.
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

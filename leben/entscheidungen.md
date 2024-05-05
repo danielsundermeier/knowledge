@@ -262,6 +262,20 @@ Sie können im Dunkeln herumsitzen und darauf warten, dass das Licht angeht, ode
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
 
+## Sprünge vs. Brücken
+
+Jede große Entdeckung, insbesondere die Ihres Lebenswerks, ist nie ein einzelner Moment. 
+
+Tatsächlich ist Epiphanie ein evolutionärer Prozess; es geschieht in Etappen.
+
+Eine Berufung, auch wenn sie manchmal mysteriös ist, erfordert eine praktische Antwort. 
+
+Der Weg vom Traum zur Realität erfolgt in kleinen Schritten. 
+
+Entscheidungen offenbaren Chancen.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

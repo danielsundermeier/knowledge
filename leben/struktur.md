@@ -105,6 +105,20 @@ Wenn Sie der Meinung sind, dass Sie dazu nicht bereit oder in der Lage sind, leg
 
 [Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
 
+## Zehen zur Nase
+
+Seit dieser Erfahrung verwende ich die Metapher „aus dem Boot“ bei vielen Menschen in unterschiedlichen Situationen. 
+
+Es bedeutet mehr als nur, dass Sie vom Weg abgekommen sind – es bedeutet, dass Sie nicht mehr wissen, wo sich der Weg befindet. 
+
+„Raus aus dem Boot“ könnte sich auf so etwas Einfaches beziehen wie den Verlust jeglicher Erinnerung daran, jemals an einem Trainingsprogramm teilgenommen zu haben, oder es könnte sich auf ein Scheitern im Zuge einer Umstrukturierung im Management beziehen. 
+
+Wenn Sie aus dem Boot sind, können Sie sich nicht mehr hineindenken; Du hast keinen Bezugspunkt. 
+
+Sie müssen sich auf etwas berufen, das im Voraus festgelegt wurde, ein Schlagwort, wie zum Beispiel „Zehen an die Nase“.
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

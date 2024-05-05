@@ -272,6 +272,26 @@ Sich daran zu erinnern, dass man am dritten Tag kein Meister sein muss, ist der 
 
 [Drive](https://www.goodreads.com/book/show/6452796-drive)
 
+## Wahre Meisterschaft
+
+Bei wahrer Meisterschaft geht es um Größe, darum, etwas zu tun, das die Grenzen dessen verschiebt, was andere für möglich oder sogar sinnvoll halten. 
+
+Peter Senge, Professor am MIT, beschreibt Meisterschaft als etwas, das „über Kompetenz und Fertigkeiten hinausgeht Es bedeutet, das eigene Leben als kreative Arbeit zu betrachten.“
+
+Bei der Beherrschung geht es nicht um die Einstufung oder das höchste Gehalt im Unternehmen. 
+
+Es geht nicht einmal darum, der beliebteste in Ihrem Fachgebiet zu sein. 
+
+Es geht darum, Ihr Potenzial zu verstehen und dann Ihr Leben der Verfolgung dieses Ideals zu widmen. 
+
+Es bedeutet, Ihr Bestes zu geben. 
+
+Warum? Weil das Handwerk es verdient, weil die Berufung es erfordert und weil Sie dadurch vielleicht zu einem  ein besseren Menschen werden. 
+
+Schließlich ist dies die Rolle der Arbeit in unserem Leben – nicht nur als Mittel, unseren Lebensunterhalt zu verdienen, sondern auch als Werkzeug, um uns zu dem zu machen, wozu wir geboren wurden.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

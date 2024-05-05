@@ -114,5 +114,23 @@ Die gleiche Uhr, die von dem Moment an zu ticken begann, als wir unseren ersten 
 
 [The Five Major Pieces to the Life Puzzle](https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle)
 
+## Schmerzhaftes Üben
+
+In einer Ära der Menschheitsgeschichte, in der wir Bequemlichkeit über fast jede andere Tugend stellen, haben wir eine wichtige Wahrheit übersehen: 
+
+Bequemlichkeit führt niemals zu Exzellenz. 
+
+Was Sie brauchen, um in Ihrem Handwerk großartig zu werden, ist Übung, aber nicht irgendeine Art von Übung – die Art von Übung, die weh tut, die Sie streckt und wachsen lässt. 
+
+Diese Art von Praxis, die Ericsson als „absichtlich“ bezeichnete und die wir treffender als „schmerzhaft“ bezeichnen könnten, ist äußerst schwierig. 
+
+Sie erstreckt sich über einen Zeitraum von etwa zehn Jahren bzw. zehntausend Stunden – übrigens der durchschnittlichen Dauer einer Ausbildung. 
+
+Aber hier endet die Praxis nicht; Es ist erst der Anfang. 
+
+Mit anderen Worten: Man arbeitet nicht zehntausend Stunden und wird sofort zum Experten. Man muss die richtige Art von Übung machen.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
 ## Bücher
 

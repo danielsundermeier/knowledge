@@ -442,6 +442,60 @@ Wenn Sie sich gestärkt fühlen möchten, müssen Sie eine mutige Entscheidung t
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Es ist alles erfunden
+
+Es sind diese Art von Phänomenen, auf die wir uns beziehen, wenn wir für dieses Kapitel das Schlagwort verwenden, dass alles erfunden ist. 
+
+Was wir meinen ist: „Es ist sowieso alles erfunden, also können wir genauso gut eine Geschichte oder einen Bedeutungsrahmen erfinden, der unsere Lebensqualität und das Leben der Menschen um uns herum verbessert.“
+
+Eine einfache Möglichkeit zu üben, dass alles erfunden ist, besteht darin, sich diese Frage zu stellen:
+
+Welche Annahmen mache ich von denen ich mir nicht bewusst bin, dass ich sie mache, die zu meinen Ergebnissen führen?
+
+Und wenn Sie eine Antwort auf diese Frage haben, stellen Sie sich diese:
+
+Was könnte ich jetzt erfinden, das habe ich noch nicht erfunden habe, was mir mir andere Möglichkeiten geben würde?
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
+## Regel Nr. 6
+
+Zwei Premierminister sitzen in einem Raum und diskutieren über Staatsangelegenheiten. 
+
+Plötzlich stürmt ein Mann herein, fassungslos vor Wut, schreiend und stampfend und mit der Faust auf den Schreibtisch schlagend. 
+
+Der amtierende Premierminister ermahnt ihn: „Peter“, sagt er, „denken Sie bitte an Regel Nummer 6“, woraufhin Peter sofort wieder völlige Ruhe findet, sich entschuldigt und sich zurückzieht. 
+
+Die Politiker kehren zu ihrem Gespräch zurück, werden jedoch zwanzig Minuten später erneut von einer hysterischen Frau unterbrochen, die wild gestikuliert und ihre Haare flattern lässt. 
+
+Wieder wird der Eindringling mit den Worten begrüßt: „Marie, bitte denken Sie an Regel Nummer 6.“ 
+
+Es herrscht wieder vollkommene Ruhe, und auch sie zieht sich mit einer Verbeugung und einer Entschuldigung zurück. 
+
+Als sich die Szene zum dritten Mal wiederholt, wendet sich der besuchende Premierminister an seinen Kollegen: „Mein lieber Freund, ich habe in meinem Leben viele Dinge gesehen, aber noch nie etwas so Bemerkenswertes wie dieses. Wären Sie bereit, mir das Geheimnis von Regel Nummer 6 mitzuteilen?“ 
+
+„Ganz einfach“, antwortet der residierende Ministerpräsident. „Regel Nummer 6 lautet: ‚Nimm dich selbst nicht so verdammt ernst.“ 
+
+„Ah“, sagt sein Besucher, „das ist eine gute Regel.“ Nach einem Moment des Nachdenkens fragt er: „Und was, darf ich fragen, sind die anderen Regeln?“
+
+„Es gibt keine.“
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
+## Gnaden- und Besitzrisiken
+
+Gnade entsteht dadurch, dass wir die Risiken, die wir in der Welt eingehen und die weitgehend außerhalb unserer Kontrolle liegen, im Griff haben. 
+
+Wenn Sie Ihr Haus in einer Überschwemmungsebene des Mississippi bauen, kann es sein, dass Sie am Boden zerstört sind, wenn das Wasser überläuft, und dass Sie über den Fluss schimpfen. 
+
+Wenn Sie sich jedoch zum unfreiwilligen Opfer eines bekannten Risikos erklären, stellen Sie sich als schlechter Verlierer in einem Spiel dar, für das Sie sich entschieden haben. 
+
+Aus Selbstgerechtigkeit haben Sie Ihre Chance, effektiv zu sein, verschenkt. 
+
+Vielleicht haben Sie Ihren eigenen Seelenfrieden eingetauscht, um die Sympathie anderer Menschen zu gewinnen.
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

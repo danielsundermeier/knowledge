@@ -499,6 +499,36 @@ Du schaffst das. Du bist ein CHAMPION. UND CHAMPIONS GEBEN NIEMALS AUF.
 
 [Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
 
+## Kehrtwende?
+
+Eine Kehrtwende ist mächtig, weil er alle Ihre Ausreden beseitigt. Es gibt Ihnen wieder die Kontrolle über das Spiel, das Sie spielen. 
+
+Eine Kehrtwende ist kein Plan B; es ist ein Teil des Prozesses. 
+
+Unerwartete Dinge werden passieren; Es kommt zu Rückschlägen. 
+
+Ob Sie bereit sind, umzuschwenken oder nicht, wird sich darauf auswirken, wie gut Sie diese Stürme überstehen und einen Weg finden, zu überleben.
+
+Wir schauen oft auf erfolgreiche Menschen, hören ihre Geschichten über das Scheitern und denken, dass sie trotz der Tatsache, dass sie gescheitert sind, Erfolg hatten. 
+
+Das stimmt aber nicht. 
+
+Erfolgreiche Menschen und Organisationen sind trotz Misserfolgen nicht erfolgreich. Durch sie haben sie Erfolg.
+
+Die Welt kann grausam sein. 
+
+Es liegt in der Verantwortung von niemandem, Ihren Traum wahr werden zu lassen. 
+
+Es werden schwierige Zeiten kommen, und was den Erfolg eines Menschen in solchen schwierigen Zeiten bestimmt, ist die Fähigkeit, sich zu verändern. 
+
+Jeder Berufung stößt auf Rückschläge, und manchmal wollen die Leute nicht, was Sie zu bieten haben, oder vielleicht verstehen sie es einfach nicht. 
+
+Manchmal bringt dich das Leben aus den Fugen oder die Leidenschaft, die du einst hattest, lässt nach. 
+
+In Zeiten wie diesen neigen wir dazu aufzugeben, aber dies sind die Momente, die unser bewusststes Handeln erfordern.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

@@ -328,6 +328,26 @@ Wenn Sie einen Fluchtweg haben, wird in der Kammer, in der Sie sich gemeinsam ge
 
 [Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
 
+## Eine Eins geben
+
+Michelangelo wird oft mit den Worten zitiert, dass in jedem Stein- oder Marmorblock eine wunderschöne Statue wohne; 
+
+Man muss nur das überschüssige Material entfernen, um das darin enthaltene Kunstwerk freizulegen. 
+
+Wenn wir dieses visionäre Konzept auf die Bildung anwenden würden, wäre es sinnlos, ein Kind mit einem anderen zu vergleichen. 
+
+Stattdessen würde sich die gesamte Energie darauf konzentrieren, den Stein wegzuschlagen und alles zu beseitigen, was der Entwicklung von Fähigkeiten, Meisterschaft und Selbstdarstellung jedes Kindes im Wege steht.
+
+Wir nennen diese Praxis das Geben einer Eins. 
+
+Es ist eine belebende Art, auf Menschen zuzugehen, die verspricht, sowohl Sie als auch sie zu verändern. 
+
+Es ist ein Einstellungswandel, der es Ihnen ermöglicht, frei über Ihre eigenen Gedanken und Gefühle zu sprechen und gleichzeitig andere dabei zu unterstützen, alles zu sein, wovon sie träumen. 
+
+Die Praxis, eine Eins zu geben, transportiert Ihre Beziehungen aus der Welt der Messung in das Universum der Möglichkeiten.
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

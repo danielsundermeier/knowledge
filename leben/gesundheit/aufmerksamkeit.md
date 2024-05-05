@@ -174,6 +174,20 @@ Regelmäßige Meditation ist eine großartige Möglichkeit, Achtsamkeit zu entwi
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Pick-Ups, Schwangere & Aufmerksamkeit
+
+Warum dreht es sich immer weiter nach unten, warum sehen die Dinge immer hoffnungsloser aus? 
+
+Aus demselben Grund scheinen rote Dodge-Pickups auf den Autobahnen immer beliebter zu werden, sobald Sie einen kaufen, und aus dem Nichts tauchen etwa acht Monate vor der Geburt Ihres Kindes schwangere Frauen auf. 
+
+Je mehr Aufmerksamkeit Sie einem bestimmten Thema widmen, desto mehr Beweise dafür werden es geben. 
+
+Aufmerksamkeit ist wie Licht, Luft und Wasser. 
+
+Richten Sie Ihre Aufmerksamkeit auf Hindernisse und Probleme, und sie vervielfachen sich
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

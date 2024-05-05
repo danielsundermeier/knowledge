@@ -14,6 +14,8 @@ Wir können es uns als Gummiband vorstellen. Wenn die Spannung zu groß ist, rei
 
 > "The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had the guts." - Steven Pressfield
 
+> "How will I be a contribution today?" - Roz & Ben Zander
+
 ## Meine Lösung
 
 - Sehr kleines Ziel setzen
@@ -600,6 +602,19 @@ Nicht so oft handelt es sich um Begabte mit von Natur aus hellen und strahlenden
 „Che va Piano, va longano, e va lontano“, sagt das italienische Sprichwort: Wer langsam geht, geht lange und kommt weit.
 
 [Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
+
+## Das Beitragsspiel
+
+Die Praxis dieses Kapitels besteht darin, sich selbst und auch andere als Beitrag zu erfinden. Die Schritte zur Praxis sind diese:
+
+1. Erklären Sie sich als Beitragszahler.
+2. Stürzen Sie sich als jemand ins Leben, der einen Unterschied macht, und akzeptieren Sie, dass Sie möglicherweise nicht verstehen, wie oder warum.
+
+Das Beitragsspiel scheint über bemerkenswerte Fähigkeiten zu verfügen, Konflikte in lohnende Erfahrungen umzuwandeln.
+
+Wie werde ich heute einen Beitrag leisten?
+
+[The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
 ## Zitate
 

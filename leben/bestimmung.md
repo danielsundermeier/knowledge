@@ -806,6 +806,56 @@ Ich hoffe, dass sie Ihnen helfen werden, herauszufinden, was möglich ist.
 
 [Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
 
+## Die 7 Merkmale einer Berufung
+
+Nachdem ich Hunderte von Geschichten von Menschen kennengelernt habe, die ihre Berufung gefunden haben, habe ich sieben gemeinsame Merkmale identifiziert, die im folgenden Kapitel jeweils erläutert werden. 
+
+Jedes Kapitel, das die Geschichte mindestens einer Person erzählt, basiert auf einem Thema:
+
+- Bewusstsein
+- Ausbildung
+- Üben
+- Entdeckung
+- Beruf
+- Meisterschaft
+- Vermächtnis
+
+Vielleicht möchten Sie sich diese als Schritte vorstellen, aber es handelt sich eher um überlappende Phasen, die, einmal begonnen, für den Rest Ihres Lebens andauern.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
+## Vorbereitung auf den Aufruf
+
+In jeder großen Erzählung gibt es einen Moment, in dem sich eine Figur dazu entschließen muss, mehr als nur ein Zuschauer zu sein. 
+
+Es ist ein wichtiger Moment, der scheinbar immer im Kopf passiert, bevor er sich im wirklichen Leben entfaltet. 
+
+Dieser Entscheidung geht jedoch immer etwas Tieferes voraus, ein quälendes Gefühl, dass da mehr sein muss.
+
+Deshalb wissen Menschen es, wenn sie zu einer großen Aufgabe berufen werden. 
+
+Sie erkennen sofort die Aufforderung, sich zu engagieren und etwas Bedeutsames zu tun, weil sie darauf gewartet haben. 
+
+Bevor der Ruf kommt, müssen wir über einen Sinn verfügen, der uns zu unserem Ziel erweckt.
+
+Bewusstsein bereitet uns also auf den Anruf vor.
+
+Bevor Sie wissen, was Ihre Berufung ist, müssen Sie glauben, dass Sie zu etwas berufen sind. 
+
+Es spielt keine Rolle, ob Sie wissen, was. 
+
+Um das Bewusstsein zu kultivieren, müssen Sie bereit sein zu handeln, hinauszugehen und zu sehen, was passiert. 
+
+Und wenn Sie erst einmal davon überzeugt sind, dass der Zweck Sie nicht finden wird und Sie sich auf die Suche danach begeben müssen, sind Sie bereit. 
+
+Bis Sie diese Entscheidung treffen, werden Sie jedoch frustriert sein, wenn Sie sehen, dass Menschen Erfolg haben, und dies auf Glück oder einen unfairen Vorteil zurückführen. 
+
+Und wenn Sie das tun, werden Sie sich selbst betrügen.
+
+Das ist Bewusstsein: das Gefühl, dass etwas mehr möglich ist.
+
+[The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

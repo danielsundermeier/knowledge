@@ -616,6 +616,64 @@ Wie werde ich heute einen Beitrag leisten?
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## Spartan up!
+
+„Spartan up!“ 
+
+Der Titel dieses Buches ist ein Satz, den ich jeden Tag Menschen in der einen oder anderen Situation anschimpfe. 
+
+Diese beiden Worte haben eine einfache Bedeutung: Hören Sie auf, sich zu beschweren, und erledigen Sie es! 
+
+„Spartan up!“ ist eine Einstellung, ein X-Faktor, eine Lebensart, die ich so zusammenfassen würde: Herausforderungen machen mich stärker. 
+
+Scheitern lässt mich härter arbeiten. 
+
+Wenn du mich niederschlägst, stehe ich verdammt nochmal wieder auf.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## The best way to finish is to start
+
+Der Weg zum Erfolg ist mit vielen verlockenden Parkplätzen gespickt, aber nichts übertrifft das Gefühl, diesen Weg weiterzugehen, wenn man am liebsten aufgeben möchte. 
+
+Mit jedem Schritt kommen Sie Ihrem Ziel ein Stück näher. 
+
+Wie Aristoteles sagte: „Wir sind das, was wir immer wieder tun.“ 
+
+Stellen Sie sich vor, wo Sie stehen könnten, wenn Sie bereits begonnen hätten. 
+
+Also fangen Sie jetzt an. 
+
+Der beste Weg zum Abschluss ist, anzufangen. 
+
+Sie können entweder zufrieden mit Ihren heutigen Anstrengungen ins Bett gehen oder gestresst über das, was Sie für morgen übrig haben. 
+
+Man kann entweder hart arbeiten, um den Hügel zu erklimmen, oder man weiß nie, was die Leute oben sehen.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Warten Sie nicht. Jetzt teilnehmen, Risiken eingehen und wachsen!
+
+Was drängt Sie immer wieder dazu, Maßnahmen zu ergreifen, die Sie immer wieder zurückhalten und aufschieben? 
+
+Warten Sie nicht. Machen Sie mit, riskieren Sie und wachsen Sie jetzt. 
+
+Je länger Sie sich verstecken, um in Sicherheit zu bleiben, desto ängstlicher, nervöser und zögerlicher werden Sie. 
+
+Sie werden nicht als Teilnehmer an der Geburt einer neuen Welt beteiligt sein, einer Welt, die den Beitrag Ihres Bewusstseins so sehr wünscht und braucht.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
+## Forschung aus der Spaßfabrik
+
+Die Botschaft des Als-Ob-Prinzips und der Spaßfabrik ist klar: Anstatt zu versuchen, sich durch fröhliche Gedanken aufzuheitern, ist es viel schneller und effektiver, sich einfach so zu verhalten, als hätte man eine gute Zeit. 
+
+Lächle, beschwinge deinen Schritt, halte deinen Kopf hoch, rede fröhlich, tanze, lache, singe oder tue, was dir sonst noch Spaß macht.
+
+Oder anders ausgedrückt: Wenn du glücklich sein willst und es weißt, klatsche in die Hände.
+
+[The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

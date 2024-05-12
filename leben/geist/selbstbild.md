@@ -496,6 +496,50 @@ Vielleicht haben Sie Ihren eigenen Seelenfrieden eingetauscht, um die Sympathie 
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## Opfer oder Eigentümer
+
+Wenn Sie auf Ihr bisheriges Leben zurückblicken, werden Sie feststellen, dass Sie immer zwei grundlegende Seinsweisen hatten. 
+
+Zu jeder Zeit war man entweder so oder anders; Sie waren entweder der Besitzer des menschlichen Geistes oder Sie waren ein Opfer der Umstände.
+
+Ein Weg, der Ownership-Weg, erfindet Sie immer wieder neu. 
+
+Es erfindet Sie äußerlich neu, in einem sich ständig erweiternden Kreis aus Mitgefühl, Vision und Mut. 
+
+Der andere Weg (der Weg des Opfers) schrumpft dich. 
+
+So wie Ihre Muskeln schrumpfen, wenn sie sich nicht bewegen, so schrumpfen auch Ihr Herz und Ihre Seele, wenn Sie sich im Opfermodus befinden.
+
+Meine Beobachtungen als Berater und Produktivitätsmotivator im Laufe der Jahre haben mir gezeigt, dass es in jeder Situation nur zwei Arten von Menschen gibt: Opfer und Eigentümer.
+
+Ein Opfer ist jemand, der Macht als etwas ansieht, das außerhalb seiner Kontrolle liegt. 
+
+Opfer haben eine gewohnheitsmäßig einsame und pessimistische Art, die Welt und ihre Menschen zu betrachten und zu beschreiben. 
+
+Und obwohl diese Viktimisierung oft ein Leben lang anhalten kann, ist sie nur eine Gewohnheit. 
+
+Wenn man es verstanden hat, kann man es schnell ersetzen.
+
+In diesem Buch geht es darum, womit man es ersetzen kann.
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
+## Zeitreisen
+
+Innerhalb weniger Tage konnte Langer die dramatische Wirkung des Verhaltens „Als ob“ erkennen. 
+
+Die zeitreisenden Teilnehmer gingen nun schneller und waren selbstbewusster. 
+
+Darüber hinaus hatten mehrere dieser Teilnehmer innerhalb einer Woche beschlossen, dass sie nun ohne ihren Stock auskommen würden. 
+
+Langer führte während des Experiments verschiedene psychologische und physiologische Messungen durch und stellte fest, dass die Zeitreisegruppe Verbesserungen bei Geschicklichkeit, Bewegungsgeschwindigkeit, Gedächtnis, Blutdruck, Sehvermögen und Hörvermögen aufwies. 
+
+Interessanterweise zeigten mehr als 60 Prozent der Teilnehmer der Zeitreisegruppe eine Verbesserung bei Intelligenztests, verglichen mit nur 40 Prozent der Teilnehmer der anderen Gruppe. 
+
+Das Verhalten, als wären sie junge Männer, hatte ihren Körper und Geist um Jahre verjüngt.
+
+[The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

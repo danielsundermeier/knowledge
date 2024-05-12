@@ -60,7 +60,9 @@ Wir machen, was wir uns vorgenommen haben und lernen so uns selbst zu vertrauen.
 
 ## Handlungsfähigkeit
 
-Vereinfacht ausgedrückt ist Handlungsfähigkeit das, was Menschen schon immer als das Gefühl bezeichnet haben, die Kontrolle über ihr Leben zu haben. Damit sind Menschen in der Lage, auf eine Weise zu leben, die ihre Interessen, Werte und inneren Motivationen widerspiegelt.
+Vereinfacht ausgedrückt ist Handlungsfähigkeit das, was Menschen schon immer als das Gefühl bezeichnet haben, die Kontrolle über ihr Leben zu haben. 
+
+Damit sind Menschen in der Lage, auf eine Weise zu leben, die ihre Interessen, Werte und inneren Motivationen widerspiegelt.
 
 Bei der Handlungsfähigkeit geht es darum, aktiv statt passiv zu sein, effektiv auf unmittelbare Situationen zu reagieren und effektiv für die Zukunft zu planen. 
 
@@ -78,7 +80,7 @@ Selbstvertrauen wehrt Ängste und Momente der Überforderung ab.
 
 Auf diese Weise lassen wir das stärkere Gefühl von Macht/Selbstvertrauen/Handlungsfähigkeit die Stressfaktoren in die richtige Perspektive rücken, anstatt in erster Linie zu versuchen, die Stresssymptome zu lindern.
 
-Man könnte fragen: "Wie gehe ich mit Angst um?"" Und wir könnten antworten: "Wenn Sie ein höheres Maß an Entscheidungsfreiheit hätten, würden Sie nicht so viel Angst verspüren."
+Man könnte fragen: "Wie gehe ich mit Angst um?" Und wir könnten antworten: "Wenn Sie ein höheres Maß an Entscheidungsfreiheit hätten, würden Sie nicht so viel Angst verspüren."
 
 [The Power of Agency](https://www.goodreads.com/book/show/39863462-the-power-of-agency)
 
@@ -86,7 +88,7 @@ Man könnte fragen: "Wie gehe ich mit Angst um?"" Und wir könnten antworten: "W
 
 - Reize kontrollieren: Wenn wir die Anzahl der Ablenkungen in unserer unmittelbaren Umgebung reduzieren, können wir besser entscheiden, wohin unsere Aufmerksamkeit gelenkt wird, verbessern unsere Konzentration, fördern das kreative Denken und machen uns weniger anfällig für impulsive Handlungen und schlecht durchdachte Entscheidungen
 - Selektiv assoziieren: Wenn wir uns mit gesunden, einfühlsamen, aufgeschlossenen, aufrichtigen und unterstützenden Menschen umgeben, heben wir unsere Stimmung, steigern unsere Motivation und verbessern unsere allgemeine Gesundheit und unser Wohlbefinden.
-- Bewegung. Die Konzentration auf Bewegung sowie auf die Ernährung und Ruhe, die notwendig sind, um aktiv und im Gleichgewicht zu bleiben, steigert die geistige und körperliche Stärke und Ausdauer – wesentliche Bausteine für alle Körper- und Geistesfunktionen.
+- Bewegung: Die Konzentration auf Bewegung sowie auf die Ernährung und Ruhe, die notwendig sind, um aktiv und im Gleichgewicht zu bleiben, steigert die geistige und körperliche Stärke und Ausdauer – wesentliche Bausteine für alle Körper- und Geistesfunktionen.
 - Positionieren Sie sich als Lernender: Durch aktives Hinterfragen, Zuhören und Lernen im Alltag erlangen wir ein tieferes Verständnis für die Welt um uns herum und können so unser Wissen und unsere Fähigkeiten kontinuierlich erweitern.
 - Verwalten unserer Emotionen und Überzeugungen: Die Kultivierung eines größeren Selbstbewusstseins hilft uns, starke Gefühle und Überzeugungen zu erkennen und in Ordnung zu bringen, die uns in die Irre führen könnten, und ermöglicht es uns, mit größerem Selbstvertrauen durch das Leben zu navigieren.
 - Überprüfen unserer Intuition: Zu lernen, auf unsere Intuition zuzugreifen und sicherzustellen, dass wir sie mit Bedacht und nicht impulsiv nutzen, ist eine wertvolle Orientierungshilfe auf dem Weg durch Herausforderungen.
@@ -110,17 +112,31 @@ Selbstbewusste Menschen trotzen Widrigkeiten, weil sie wissen, dass sie es könn
 
 ## Vertrauen schaffen
 
-… aber wenn ich anfangen würde, meine Versprechen zu brechen, könnte es zur Gewohnheit werden und ich würde meine Ziele nie erreichen. Das war ein Ethos, den ich schon seit langem im Leben umsetzte: Wenn ich jemals morgens aufstand und mir sagte, dass ich an diesem Tag 300 Liegestütze machen würde, stellte ich sicher, dass ich sie mit ganzem Herzen machte. Den Aufwand zu unterlassen hieße, eine Verpflichtung zu brechen, und das Brechen von Verpflichtungen führte zum Scheitern.
+… aber wenn ich anfangen würde, meine Versprechen zu brechen, könnte es zur Gewohnheit werden und ich würde meine Ziele nie erreichen. 
+
+Das war ein Ethos, den ich schon seit langem im Leben umsetzte: Wenn ich jemals morgens aufstand und mir sagte, dass ich an diesem Tag 300 Liegestütze machen würde, stellte ich sicher, dass ich sie mit ganzem Herzen machte. 
+
+Den Aufwand zu unterlassen hieße, eine Verpflichtung zu brechen, und das Brechen von Verpflichtungen führte zum Scheitern.
 
 [Beyond Possible](https://www.goodreads.com/book/show/53290051-beyond-possible)
 
 ## Vertraue deinen Instinkten
 
-Im gesamten Buch geht es darum, nicht zu zögern, wenn Ihre Instinkte nicht mit dem übereinstimmen, was die Welt Ihnen sagt. Der Schlüssel zur Erschließung Ihres Potenzials liegt darin, Ihren größten Wettbewerbsvorteil zu nutzen. Du bist der Einzige, der die ganze Geschichte deines Lebens kennt. SIE sind das einzige Thema, für das es auf der Welt keinen größeren Experten geben wird. Und so werden Sie Ihren weiteren Weg natürlich vor allen anderen erkennen.
+Im gesamten Buch geht es darum, nicht zu zögern, wenn Ihre Instinkte nicht mit dem übereinstimmen, was die Welt Ihnen sagt. 
+
+Der Schlüssel zur Erschließung Ihres Potenzials liegt darin, Ihren größten Wettbewerbsvorteil zu nutzen. 
+
+Du bist der Einzige, der die ganze Geschichte deines Lebens kennt. 
+
+SIE sind das einzige Thema, für das es auf der Welt keinen größeren Experten geben wird. 
+
+Und so werden Sie Ihren weiteren Weg natürlich vor allen anderen erkennen.
 
 Mit anderen Worten: Wenn Sie sich selbst nicht vertrauen, verpassen Sie die Chance, außergewöhnlich zu sein.
 
-Wie Ralph Waldo Emerson 1841 in seinem Aufsatz „Self-Reliance“ schrieb (ein Werk, zu dem ich immer wieder zurückgreife, um mich inspirieren zu lassen): „Ein Mann sollte lernen, den Lichtstrahl zu erkennen und zu beobachten, der von innen durch seinen Geist blitzt.“ mehr als der Glanz des Firmaments der Barden und Weisen. Dennoch verwirft er ohne Vorankündigung seinen Gedanken, weil es seiner ist.“
+Wie Ralph Waldo Emerson 1841 in seinem Aufsatz „Self-Reliance“ schrieb (ein Werk, zu dem ich immer wieder zurückgreife, um mich inspirieren zu lassen): 
+
+„Ein Mann sollte lernen, den Lichtstrahl zu erkennen und zu beobachten, der von innen durch seinen Geist blitzt. Mehr als der Glanz des Firmaments der Barden und Weisen. Dennoch verwirft er ohne Vorankündigung seinen Gedanken, weil es seiner ist.“
 
 Wenn Sie auf sich selbst hören, beginnen Sie, Ihre Zukunft zu finden.
 
@@ -128,9 +144,31 @@ Wenn Sie auf sich selbst hören, beginnen Sie, Ihre Zukunft zu finden.
 
 ## Die Kraft des Glaubens
 
-Glaube schafft auch Willensstärke. Weil sie glauben, dass Spitzensportler einen enormen Wettbewerbsdrang haben, und das macht sie unerbittlich. Die meisten Spieler sagen: „Ich kann nicht.“ Manche Spieler sagen: „Ich hoffe.“ Spieler, die glauben, sagen: „Das werde ich.“ Ihre Denkweise ist: Ich werde die Arbeit machen. Ich werde meinen Job machen. Ich werde das Stück machen. Egal wie schwierig, egal wie groß die Herausforderung ist, ich werde tun, was immer nötig ist, egal wie lange es dauert. Ihr Glaube verleiht ihnen unerschütterliche Entschlossenheit und Entschlossenheit. Dies belebt ihre Fähigkeit, auf jede Situation mit Härte und Beharrlichkeit zu reagieren. Sie haben die Einstellung, niemals aufzugeben und niemals nachzugeben. Sie sind die oberen 10 Prozent.
+Glaube schafft auch Willensstärke. 
 
-Bei der Willensstärke geht es nicht um die Verpflichtung, anzufangen; Es geht um die Verpflichtung, weiterzumachen. Es geht um die vielen Neuverpflichtungen, die notwendig sind, um die Reise durchzuhalten, wenn sie schwierig, mühsam und schmerzhaft wird. Mit anderen Worten: Wenn man sich der Herausforderung stellt, sagt man: „Das werde ich“, wenn es schwierig wird.
+Weil sie glauben, dass Spitzensportler einen enormen Wettbewerbsdrang haben, und das macht sie unerbittlich. 
+
+Die meisten Spieler sagen: „Ich kann nicht.“ 
+
+Manche Spieler sagen: „Ich hoffe.“ 
+
+Spieler, die glauben, sagen: „Das werde ich.“ 
+
+Ihre Denkweise ist: Ich werde die Arbeit machen. Ich werde meinen Job machen. Ich werde das Stück machen. 
+
+Egal wie schwierig, egal wie groß die Herausforderung ist, ich werde tun, was immer nötig ist, egal wie lange es dauert. 
+
+Ihr Glaube verleiht ihnen unerschütterliche Entschlossenheit. 
+
+Dies belebt ihre Fähigkeit, auf jede Situation mit Härte und Beharrlichkeit zu reagieren. 
+
+Sie haben die Einstellung, niemals aufzugeben und niemals nachzugeben. Sie sind die oberen 10 Prozent.
+
+Bei der Willensstärke geht es nicht die Verpflichtung anzufangen; Es geht darum die Verpflichtung, weiterzumachen. 
+
+Es geht um die vielen Neuverpflichtungen, die notwendig sind, um die Reise durchzuhalten, wenn sie schwierig, mühsam und schmerzhaft wird. 
+
+Mit anderen Worten: Wenn man sich der Herausforderung stellt, sagt man: „Das werde ich“, wenn es schwierig wird.
 
 [Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
 

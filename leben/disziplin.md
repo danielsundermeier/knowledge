@@ -174,5 +174,15 @@ Einfach ausgedrückt: Lassen Sie sich von den Instrumenten leiten und vertrauen 
 
 [Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
 
+## Disziplin führt zu Glückseligkeit
 
+Der Übergang vom egoistischen Selbst zum authentischen Selbst erfordert Disziplin.
+
+Die gute Nachricht ist, dass Disziplin schließlich zu dem wird, was ich eine „Blissipline“ nenne, weil sie dazu führt, dass wir unsere Rolle mit Integrität, Würde, Eleganz, Leidenschaft und tiefer Zufriedenheit spielen.
+
+Wir alle haben erlebt, dass Disziplin manchmal automatisch eine Rebellion oder einen Widerstand in uns hervorruft. 
+
+Wir mögen die Energie, die das Wort Disziplin umgibt, nicht, vielleicht aufgrund des Platzes, den es in unserer Erziehung, Bildung oder Religion eingenommen hat. Eine gesunde Einstellung zur Disziplin hält uns jedoch in den Bereichen unseres Lebens, in denen wir uns für eine Veränderung entschieden haben, auf dem richtigen Weg. Disziplin ist eine Praxis der Selbstliebe, Selbstachtung und Hingabe, die zu Freiheit führt.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 

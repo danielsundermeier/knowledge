@@ -12,7 +12,7 @@ Wichtig ist uns ihnen zu stellen. Wenn wir weglaufen, wirkt es umso großer. Je 
 
 Wir können uns vorstellen, dass es ein Test von den stoischen Göttern/dem Universum/dem Leben/... ist.
 
-Oder wir begrüßen ads Hinderniss, indem wir "Bring It On", Perfekt", "Gut", "Roger that", oder etwas ähnliches sagen und uns dann daran machen eine Lösung zu finden.
+Oder wir begrüßen das Hinderniss, indem wir "Bring It On", Perfekt", "Gut", "Roger that", oder etwas ähnliches sagen und uns dann daran machen eine Lösung zu finden.
 
 Wir wollen auf die Herausforderungen zugehen, anstatt sie zu meiden. Durch unsere Einstellung zu dem Problem ändert sich unsere Physiologie.
 
@@ -23,6 +23,8 @@ Wenn wir glauben, dass alles, was passiert, in unserem besten Interesse ist, wer
 Je schwieriger das Leben wird, umso wichtiger ist unser Protokoll. Es hilft uns das Hinderniss zu überwinden und stärker daraus hervorzugehen.
 
 > “What is to give light must endure burning.” - Victor Frankl
+
+> "If this were happening for a higher purpose, what would it be?" - Marci Shimoff
 
 ## Kompass
 
@@ -528,6 +530,76 @@ Manchmal bringt dich das Leben aus den Fugen oder die Leidenschaft, die du einst
 In Zeiten wie diesen neigen wir dazu aufzugeben, aber dies sind die Momente, die unser bewusststes Handeln erfordern.
 
 [The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
+
+## Unmöglich vs. Wirklich schwer
+
+Nehmen Sie die Überlebensgeschichte des schwedischen Abenteurers Göran Kropp. 
+
+Im Oktober 1995 verließ er Stockholm (Schweden) mit dem Fahrrad und fuhr damit zum Fuß des Mount Everest, wo er im April 1996 ankam. 
+
+Er bestieg den Everest und erreichte den Gipfel ohne Sauerstoffmaske und ohne Hilfe von Sherpas. 
+
+Er stieg den Berg hinunter und radelte schließlich zurück nach Schweden. 
+
+Wenn dich jemand zu solch einem wilden Abenteuer einlädt, könntest du sagen: „Das ist unmöglich!“ oder „Du bist verrückt!“ Wie sich herausstellt, ist es nicht unmöglich. 
+
+Es ist schwer – wirklich schwer –, aber unter den richtigen Umständen machbar. 
+
+as Klischee ist wahr: Wo ein Wille ist, ist auch ein Weg. 
+
+Scheinbar unüberwindbare Herausforderungen für Ihr Unternehmen, Ihren Sport, Ihre Gesundheit und Fitness sowie Ihre Beziehungen sind weitaus leichter zu bewältigen, als Sie sich vorstellen können.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Gehen Sie zum nächsten Telefonmast
+
+Der Weg, mit seelischen Schmerzen fertig zu werden, besteht darin, es Stück für Stück anzugehen. 
+
+Der Geist kann mit einem riesigen Eisberg an Schmerz vor ihm nicht klarkommen, aber er kann mit kurzen Häppchen umgehen, die zu Ende gehen. 
+
+Anstatt also zu denken: „Ugh, ich habe noch vierundzwanzig Meilen vor mir“, konzentriere dich darauf, es bis zum nächsten Telefonmast in der Ferne zu schaffen. 
+
+Unabhängig davon, ob Sie zwanzig oder hundertzwanzig Meilen am Stück laufen, muss die Distanz mental und körperlich Meile für Meile bewältigt werden. 
+
+Die Fähigkeit, Schmerzen in diese kleinen Bissgrößen zu unterteilen, ist von entscheidender Bedeutung.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Styropor vs. echte Gewichte
+
+Besitzer sehen Probleme, wie Bodybuilder das Gewicht sehen: mehr Widerstand, mit dem sie sich ein Leben aufbauen können. 
+
+Es ist Krafttraining und es fühlt sich gut an.
+
+Opfer hingegen wollen diese Last nicht tragen. Sie betrachten Gewichte mit Entsetzen und betrachten Probleme als Verrat.
+
+Die traurige Tragödie besteht darin, dass das Opfer dieselbe Energie, die in die Problemlösung fließen könnte, zur Problemvermeidung aufwendet. 
+
+Es erfordert eine ständige mentale Anstrengung, um Probleme aus dem Kopf zu verdrängen. 
+
+Es ist echte Arbeit, den Scheinwerfer des Bewusstseins ständig vom Leben wegzulenken, sodass er nur noch auf Ablenkungen scheint.
+
+„Entweder machen wir uns unglücklich“, sagte der brasilianische Weise Carlos Castaneda, „oder wir machen uns stark. Der Arbeitsaufwand ist derselbe.“
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
+## Positive Negativität
+
+Nicht jeder Schmerz ist negativ, auch wenn wir alle Formen von Schmerz als solche bezeichnen und uns ihnen widersetzen. 
+
+Positive Negativität ist ein Umstand, der uns dazu bringt, tiefer zu gehen, uns selbst zu erforschen, nicht mehr die Schuld auf die Ursachen des Leidens außerhalb von uns selbst zu schieben und Selbstverantwortung zu übernehmen.
+
+Umstände entstehen und schwere Zeiten kommen, damit wir an ihnen wachsen und uns weiterentwickeln können. 
+
+Ich sage gerne, dass ein schlechter Tag für das Ego ein guter Tag für die Seele ist. 
+
+Wenn wir auf einige unserer herausforderndsten Erfahrungen zurückblicken, geben wir zu, dass wir das, was wir daraus gewonnen haben, nicht dafür eintauschen würden, derselbe zu bleiben, der wir waren. 
+
+Etwas in uns erkennt, dass wir in Zeiten, in denen wir gegen die Fesseln des Lebens drücken, lernen, großzügiger zu werden, zu vergeben und niemals uns selbst oder anderen gegenüber aufzugeben. 
+
+Wir lernen, uns zu regenerieren, zu verjüngen und uns hinzugeben.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
 ## Bücher
 

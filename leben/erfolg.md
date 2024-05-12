@@ -613,6 +613,60 @@ Visualisierung ist mächtig, Mann. Es ist eine der höchsten Formen des GLAUBENS
 
 [Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
 
+## Ja lebt im Land von Nein
+
+Ein Eigentümer scheut sich nicht, eine Anfrage zu stellen. Aus diesem Grund schneiden Besitzer beim Verkauf und bei der Werbung so gut ab.
+
+Opfer haben Angst vor dem Wort „Nein“ und werden erstaunliche Dinge tun, um es nicht jemals zu hören. 
+
+Für ein Opfer bedeutet „Nein“ Ablehnung. Totale, vernichtende Ablehnung. 
+
+„Nein“ klingt für das Opfer nicht nur wie „Nein“, es klingt wie: „Nein, nein, NEIN, du bist NICHTS WERT!“
+
+Aber für einen Eigentümer ist „Nein“ einfach die andere Seite von „Ja“. 
+
+„Nein“ und „Ja“ leben zusammen. Jeder Mensch hat das uneingeschränkte Recht, entweder „Ja“ oder „Nein“ zu sagen, und das stört den Eigentümer nicht. 
+
+Ein Eigentümer respektiert dieses Recht. Wenn Eigentümer also „Nein“ hören, denken sie nicht, dass mit dem Universum etwas nicht stimmt. 
+
+Sie kommen nicht zu dem Schluss, dass das Leben unfair ist. 
+
+Sie fahren direkt mit ihrer nächsten Anfrage fort. Das Leben besteht aus Bitten und Versprechen.
+
+Opfer verbringen den größten Teil ihres Lebens damit, das Wort „Nein“ nicht zu hören, weil sie daraus eine Ablehnung bedeuten – völlige, gründliche und persönliche Ablehnung. 
+
+Kein Wunder, dass sie es wann immer möglich vermeiden wollen. 
+
+Das Problem ist, dass sie durch das Vermeiden von „Nein“ auch ein „Ja“ vermeiden. Beides gehört zusammen. Sie leben zusammen.
+
+Der Hauptgrund dafür, dass Menschen im Leben nicht bekommen, was sie wollen, ist, dass sie Angst haben, danach zu fragen. 
+
+Sie haben Angst vor der Ablehnung, die sie für sich selbst als „Nein“ empfinden.
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
+## Freiheit von der Tyrannei der Trends
+
+Eine Art und Weise, wie wir unsere Fähigkeit, einen Zustand des Sehens zu erleben, kapern, besteht darin, dass wir in das verwickelt werden, was ich die „Tyrannei der Trends“ nenne. 
+
+Die Tyrannei der Trends ermöglicht es, den Maßstab für Erfolg und den kleinsten gemeinsamen Nenner zu setzen. 
+
+Sehr oft überzeugen Trends den Einzelnen, was der Sinn seines Lebens sein sollte. 
+
+Aus Fernsehen, Radio, Zeitungen, Boulevardzeitungen, Computern und sogar aus dem Wartezimmer unseres Zahnarztes wird uns die Tyrannei der Trends entgegengeblasen, die versuchen, uns davon zu überzeugen, dass wir auf eine bestimmte Weise riechen, ein bestimmtes Etikett tragen, ein bestimmtes Gewicht wiegen müssen Weißere Zähne, ein bestimmtes Auto fahren, ein bestimmtes Einkommen erzielen usw., bevor wir davon ausgehen können, dass wir es geschafft haben.
+
+Beginnen Sie damit, Ihre Zustimmung zur Mittelmäßigkeit der Tyrannei der Trends bewusst zu brechen. 
+
+Betrachten Sie Trendsetter nicht länger als Menschen, die es zu bewundern oder nachzuahmen gilt. 
+
+Befreien Sie sich von dem Einfluss dessen, was uns die Gesellschaft vorschreibt, wie wir sein sollten. 
+
+Lassen Sie sich in die Gegenwart derjenigen hineinziehen, die die nächste Stufe der menschlichen Evolution verkörpern – einen spirituellen Lehrer oder eine spirituelle Gemeinschaft. 
+
+Jeder von uns ist auf dem Planeten Erde angekommen, um an dem Abenteuer der Erforschung der Wahrheit teilzunehmen, dass wir erleuchtete Wesen sind, die eine menschliche Inkarnation haben.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

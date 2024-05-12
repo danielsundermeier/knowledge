@@ -130,6 +130,78 @@ Je mehr sie dem Schlaf Priorität einräumen und je besser ihre Ernährung am Mo
 
 [Life's Great Question](https://www.goodreads.com/book/show/49707376-life-s-great-question)
 
+## Laufen, springen, klettern und Speere werfen
+
+Das ganze Sitzen im modernen Leben ist eine völlige Leugnung der wahren Natur. 
+
+Wir sind schließlich Tiere. 
+
+Wir sind darauf ausgelegt, zu rennen, zu springen und zu klettern, Speere zu werfen, zu kämpfen und zu tanzen. 
+
+Unser Körper ist darauf ausgelegt, sich zu bewegen – deshalb haben wir überhaupt ein Gehirn – und doch saßen wir irgendwie stundenlang da. 
+
+Bewegung ist der beste Schutz gegen Angstzustände, Stress, Depressionen und eine ganze Reihe anderer Krankheiten. 
+
+Es hilft den Zellen, sich selbst zu reparieren, und es heilt im wahrsten Sinne des Wortes die Auswirkungen von Stress durch die Freisetzung eines sogenannten neurotrophen Faktors aus dem Gehirn (BDNF). 
+
+Forscher haben nicht überraschend herausgefunden, dass der Stresspegel von Schülern sinkt, wenn sie regelmäßig Sport treiben. 
+
+Verärgern? Gestresst? Verrückt? Laufen. 
+
+Fühlst du dich immer noch so? Schneller laufen. 
+
+Sie haben nichts zu verlieren außer Gewicht und Stress. 
+
+Regelmäßige Bewegung ist bei der Kontrolle von Panikstörungen ebenso wirksam wie Medikamente. 
+
+Kein Wunder, dass sich Mitarbeiter, die Sport treiben, seltener krank melden als Mitarbeiter, die dies nicht tun.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Treffen Sie Mr. Burpee
+
+Die Liste der Fitnessattribute oben ist anspruchsvoll, aber ich habe eine Übung gefunden, die alles zusammenfasst: den Burpee, auch bekannt als Squat Thrust. 
+
+Beginnen Sie im Stehen und gehen Sie in die Hocke, bis Ihre Hände tatsächlich den Boden berühren. 
+
+Treten Sie ohne zu zögern mit den Beinen nach hinten, um die obere Liegestützposition einzunehmen; einen Liegestütz machen; Ziehen Sie Ihre Beine ohne zu zögern zurück in die untere Kniebeugeposition, bevor Sie wieder in die Ausgangsposition aufstehen. 
+
+Von dort aus gehen Sie zu einem anderen Vertreter.
+
+Wenn Sie nie wieder in Ihrem Leben krank werden möchten, machen Sie dreißig Burpees pro Tag.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Möglichkeiten zur Bewegung
+
+Es macht überraschend viel Spaß, im Laufe des Tages Möglichkeiten zu finden, sich zu bewegen (meine Kunden kürzen das als OTMs ab, also werde ich es auch tun). 
+
+Sie werden erstaunt sein, wie schnell Ihnen bewusst wird, welche Freiräume sich am Tag bieten und welche überraschenden Orte die Bewegung fördern. 
+
+Sie denken vielleicht, dass Ihr Tag so vollgestopft ist, dass Sie keine weitere Sache mehr unterbringen können, aber glauben Sie mir: Das stimmt nicht. 
+
+Wenn Sie eine Minute haben, haben Sie Zeit.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Ein Leben voller Fitness schaffen
+
+Wenn Sie lernen möchten, wie Sie körperliche Aktivität in Ihrem Leben in Einklang bringen können, ist es am strategischsten, kleine, realistische Pläne zu erstellen, mit denen Sie leichter umgehen können. 
+
+Wenn Sie sich zum Beispiel bewusst dafür entscheiden, jeden Tag zusätzlich fünf Minuten körperliche Aktivität einzubauen, wenn das alles ist, wofür Sie Ihrer Meinung nach Zeit haben, wird sich langsam die Erkenntnis entwickeln, dass Sie das unterbringen können. 
+
+Und wenn Sie verstehen, wie man so etwas macht Wenn Sie die Menge konstant halten, können Sie darüber nachdenken, wie Sie etwas mehr hineinpassen können.
+
+Ihr Ziel ist es, ein lebenslanges Verhalten zu entwickeln, daher muss Ihr Fokus darauf liegen, zu lernen, wie körperliche Aktivität in Ihr geschäftiges Leben passen und bleiben kann. 
+
+Und das ist keine leichte Aufgabe. 
+
+Menschen, die einem Fitnessstudio beitreten und mit bescheidenen Plänen beginnen, nur ein paar Tage in der Woche dort zu sein, werden mit größerer Wahrscheinlichkeit auch weiterhin dort bleiben, als diejenigen, die mit großen Plänen beginnen und in den ersten paar Wochen jeden Tag dort sein wollen. 
+
+Wenn Sie ein Leben lang fit bleiben möchten, ist es wichtig, klug anzufangen.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

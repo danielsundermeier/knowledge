@@ -60,6 +60,20 @@ Aber wenn man einen heiligen Ort hat und ihn nutzt, wird irgendwann etwas passie
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth)
 
+## Der einfache und praktische Weg, Frieden zu finden
+
+Jedes Mal, wenn jemand über Sorgen, Ängste, Depressionen, Furcht, Hass, Eifersucht – was auch immer es ist – klagt, soll er sich zurücklehnen und die Ursache analysieren. 
+
+Wenn er wirklich aufrichtig ist, wird er herausfinden, dass er etwas für sich selbst wollte. 
+
+Egoistisches Verlangen verursacht alle Probleme. 
+
+Tun Sie Dinge zum Wohle anderer, nicht für sich selbst. 
+
+Das ist der einfache und praktische Weg, Frieden zu finden.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

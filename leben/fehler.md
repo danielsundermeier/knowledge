@@ -162,5 +162,81 @@ Komm wieder hoch. Versuchen Sie es noch einmal. Du kannst das!
 
 [Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
 
+## Lernmentalität
+
+Mit einer lernenden Denkweise kommen Rückschläge und Misserfolge nicht ins Spiel. 
+
+Sie werden natürlich als Gelegenheiten umgestaltet, aus denen wir achtsam lernen. 
+
+Wenn ein Kind zum ersten Mal einen heißen Herd berührt, betrachtet es sich nicht als Versager – es lernt einfach, den heißen Herd nicht noch einmal zu berühren. 
+
+Sie fügt dieses bisschen Lernen zu ihrem lebenslangen Wissensschatz hinzu und geht dann direkt zu etwas anderem über. 
+
+Mit dieser Denkweise verbrauchen wir keine Energie, indem wir unsere Fehler addieren, sondern stärken uns mit der positiven Energie, die dadurch entsteht, dass wir neue Wege finden, wie wir Dinge angehen können. 
+
+Wir entdecken Strategien und bauen Fähigkeiten und Resilienz auf, die wir nutzen können, wenn wir in der Zukunft unweigerlich auf neue Herausforderungen stoßen. 
+
+Und es kann sogar Spaß machen, weil wir kreativ sein können, wenn wir neue Wege finden, um mit unseren Herausforderungen umzugehen.
+
+Die Konzentration auf das Erreichen bestimmter Ergebnisse wird uns jedoch nicht dabei helfen, unseren Erfolg aufrechtzuerhalten. 
+
+Stattdessen muss man sich für langfristigen Erfolg darauf konzentrieren, zu lernen, wie man die Verhaltensweisen aufrechterhält, die zu den gewünschten Ergebnissen führen.
+
+Lernen führt uns vom Erreichen willkürlicher Ziele zum Engagement für „Lernziele“. 
+
+Das Bewältigen neuer Aufgaben wie das Erlernen, wie man an den meisten Tagen fünfzehn Minuten lang aktiv ist, ist ein guter erster Schritt.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Begehen Sie so viele Fehler wie möglich
+
+Wenn Sie Fehler machen, ist das egal. 
+
+Machen Sie Fehler und lernen Sie. 
+
+Die besten Lehrer sind deine eigenen Fehler. Aus Fehlern lernt man noch schneller. 
+
+Einmal war ich auf einer Konferenz mit dem großen modernen Wissenschaftler Buckminster Fuller. 
+
+Er stand auf und sagte: „Freunde, vergesst das ganze ‚Macht das!‘ Machen Sie das nicht. Begehen Sie so schnell wie möglich so viele Fehler wie möglich. Du wirst großartig werden.“
+
+Das ist wahr. 
+
+Jeder Misserfolg ist ein Sprungbrett. 
+
+Bedenken Sie jedoch, dass Sie nicht für jeden Schritt denselben Stein verwenden können. 
+
+Jeder Schritt sollte auf einem neuen Stein erfolgen. 
+
+Das bedeutet, dass Sie nicht immer wieder die gleichen Fehler machen sollten. 
+
+Lernen Sie gut von jedem. 
+
+Das Problem vieler Menschen ist, dass sie immer wieder denselben Fehler begehen. 
+
+Dennoch werden sie irgendwann aus ihren Fehlern lernen und weitermachen. 
+
+Erfahrung ist der beste Lehrer.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Brennende Bagels und Fehler (Mis-takes)
+
+Eine bewusste Erkenntnis unserer angeborenen Einheit mit dem Unbeschreiblichen bedeutet nicht, dass wir nie wieder einen Fehler machen werden. 
+
+Sogar erleuchtete Wesen verbrennen ab und zu ihre Bagels. 
+
+Es ist wichtig, einen Sinn für Humor zu bewahren, denn so verlieren Sie die Angst vor Fehlern. 
+
+Du wirst welche machen, aber was nun? Deshalb nennt man sie Fehler. Humor entspannt das verkrampfte Ego. 
+
+Du bekommst einen neuen Hinweis aus deinem Inneren und sagst einfach: „Ich habe meinen Hinweis verpasst, also lass uns einen zweiten Versuch machen.“ 
+
+Deine Bereitschaft, das Risiko einzugehen, einen Fehler zu machen, ist eigentlich ein Ausdruck von Mut und der Bereitschaft, daraus zu wachsen. 
+
+Bei Fehlern geht es darum, den Segen in der Lektion und die Lektion im Segen zu erlangen.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
 ## Bücher
 

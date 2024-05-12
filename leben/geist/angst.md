@@ -313,6 +313,36 @@ Akzeptieren Sie die Strapazen dieser Arbeit, gewöhnen Sie sich an das Unbehagen
 
 [Staring Down the Wolf](https://www.goodreads.com/book/show/45046744-staring-down-the-wolf)
 
+## 10 Dinge
+
+Irgendwie haben wir uns als Erwachsene eingeredet, anzunehmen, dass wir nichts tun können, wovor wir Angst haben; dass es dasselbe ist, Angst davor zu haben, es zu tun, wie nicht dazu in der Lage zu sein. 
+
+Aber ein wenig Übung zeigt uns, dass dies eine falsche Annahme war. Handeln erzeugt Mut, nicht umgekehrt.
+
+Gehen Sie alleine irgendwohin und setzen Sie sich mit einem Spiralblock hin. (Der Filmemacher Quentin Tarantino sagt, das Spiralnotizbuch sei die hochtechnologischste Erfindung unseres Lebens, weil man es überallhin mitnehmen könne, weder eine Steckdose noch Batterien benötige und alles hineinschreiben könne.) 
+
+Schreiben Sie 10 Dinge auf, die Sie machen würden, wenn Sie absolut keine Angst hättest. Wählen Sie dann eine davon aus.
+
+Das, wofür Sie sich entschieden haben, macht Ihnen vielleicht Angst, wenn Sie nur daran denken, aber das ist in Ordnung. 
+
+Denken Sie nicht darüber nach. Wenn du darüber nachdenkst, hast du Angst. Fangen Sie einfach damit an. Ohne nachzudenken.
+
+Alle mutigen Menschen haben Angst. 
+
+Sie machen trotzdem einfach Dinge und brüllen mit einer Kombination aus Freude und Angst, wie Butch und Sundance, die von der hohen Klippe ins Wasser darunter springen.
+
+Sie werden feststellen, dass Sie beim Abstieg zum Wasser ein freudiges Rauschen verspüren. 
+
+Sie spüren Ihre Angst, während Sie gerade dabei sind, sie zu überwinden. 
+
+Und wenn Sie weiter handeln, löst sich die Angst auf, wie eine Faust voller Salz im Fluss. 
+
+Was für Sie bleibt, ist pure Freude. Es ist die Freude, jemand zu sein, der man nicht war. Das ist Neuerfindung.
+
+Sie erfinden sich neu, indem Sie Dinge tun, die „Sie“ nicht tun würden, und dabei erkennen Sie, dass es überhaupt kein festes und dauerhaftes „Sie“ gibt.
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

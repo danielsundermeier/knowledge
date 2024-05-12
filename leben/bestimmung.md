@@ -856,6 +856,58 @@ Das ist Bewusstsein: das Gefühl, dass etwas mehr möglich ist.
 
 [The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
 
+## Seien Sie mutig und stark
+
+Engagement ist im Leben sehr wichtig. 
+
+Diejenigen, die ein spirituelles Leben führen wollen, sind hier, um all diese Dinge zu ändern und eine bessere Welt wieder aufzubauen. 
+
+Erinnere dich daran. Sie haben eine großartige Aufgabe, und sie ist nicht unmöglich. 
+
+Wenn Sie wirklich Ihr ganzes Herzblut hineinstecken, können Sie es schaffen. 
+
+Beginnen Sie mit Ihrem eigenen Leben. Lass dich von nichts erschüttern. 
+
+Man muss wirklich mutig und stark sein, um im Leben etwas zu erreichen. Seien Sie so mutig. Wenn Sie wissen, dass etwas richtig ist, zögern Sie nicht, es zu befolgen. 
+
+Sicherlich kann es Hindernisse und Prüfungen geben; aber gib nicht auf. 
+
+Selbst wenn Sie hinfallen oder einen Fehler machen sollten, stehen Sie auf und sagen Sie: „Nein! Das nächste Mal werde ich stark sein.“ 
+
+Gehen Sie weiter, wie große Bergsteiger, bis Sie den Gipfel erreichen. 
+
+Wenn du es wirklich willst, bekommst du die nötige Kraft. 
+
+Sie werden jede Unterstützung haben. Wenn Sie es wollen, haben Sie es; Aber dein Wunsch muss so stark sein.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Seien Sie radikal lebendig
+
+Verankern Sie sich in der Absicht, radikal lebendig zu sein. 
+
+Ich mag diese Worte von Dr. Howard Thurman: „Machen Sie sich keine Sorgen darüber, was die Welt braucht. Fragen Sie sich, was Sie lebendig macht, und tun Sie das. Denn was die Welt braucht, sind Menschen, die lebendig geworden sind.“ 
+
+Das bedeutet, dass Sie, solange Sie auf dem Planeten sind, hier sind, um Ihre Gaben, Ihre Talente und Ihre Fähigkeiten mit Zuversicht und innerer Autorität einzusetzen und nichts vorzuenthalten. 
+
+Dies ist der Zeitpunkt, an dem Sie ein erfülltes Leben führen und sich in der Realität der Liebe, des Wohlstands und der Kunstfertigkeit des Seins bewegen. 
+
+Ihre radikale Lebendigkeit wirkt sich nicht nur auf Ihr individuelles Leben aus, sondern auch auf das Leben auf dem Planeten, wie wir es kennen.
+
+Der Geist des lebendigen Gottes klopft an die Tür deines Herzens und erinnert dich daran, dass du ein exquisites, kostbares und mächtiges Wesen bist. 
+
+Scheinen! Singen! Seien Sie mutig genug, auszudrücken, was Sie spüren, fühlen und wissen. 
+
+Jetzt ist es an der Zeit, dass Sie mit dieser immensen Kraft zusammenarbeiten. 
+
+Erlaube der Flutwelle der göttlichen Inspiration, dich zu überfluten und dich in, durch und als du auszudrücken. 
+
+Treten Sie bewusst und selbstbewusst in den heiligen Prozess der Mitschöpfung ein, denn das, was sich so ausdrückt, wie Sie es tun, geschieht bei keinem anderen auf die gleiche Weise. 
+
+Werden Sie Meister Ihres eigenen göttlichen, strahlenden kreativen Ausdrucks.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

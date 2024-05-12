@@ -416,6 +416,40 @@ Sie können diese bewusst durch einen positiven Gedanken ersetzen.
 
 [Maximum Achievement](https://www.goodreads.com/book/show/115613.Maximum_Achievement)
 
+## Stärken Sie Ihren Geist
+
+Schwache Köpfe führen zu schwachen Taten. 
+
+Ein starker, disziplinierter Geist, den jeder durch tägliche Übung kultivieren kann, kann Wunder bewirken. 
+
+Wenn Sie das Leben in vollen Zügen genießen möchten, kümmern Sie sich um Ihre Gedanken wie um Ihren wertvollsten Besitz. 
+
+Arbeiten Sie hart daran, alle inneren Turbulenzen zu beseitigen. 
+
+Die Belohnungen werden reichlich sein.
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
+## Mantras: Befreie deinen Geist
+
+Im Sanskrit bedeutet „Man“ „Geist“ und „Tra“ bedeutet „Befreien“. 
+
+Ein Mantra ist also ein Satz, der den Geist befreien soll. Mantras sind meine treuen Begleiter, wohin ich auch gehe. 
+
+Ob ich im Bus sitze, zur Bibliothek gehe oder die Welt im Park an mir vorbeiziehen sehe, ich bekräftige ständig alles Gute in meiner Welt durch Mantras.
+
+Auch schriftliche Affirmationen sind sehr effektiv. 
+
+Aber ich habe festgestellt, dass das laute Wiederholen eines Mantras eine wunderbare Wirkung auf meinen Geist hat. 
+
+Wenn ich mich motiviert fühlen muss, wiederhole ich vielleicht zwei- oder dreihundert Mal laut: „Ich bin inspiriert, diszipliniert und energiegeladen.“ 
+
+Um das überragende Selbstvertrauen, das ich kultiviert habe, aufrechtzuerhalten, wiederhole ich: „Ich bin stark, fähig und ruhig.“ 
+
+Ich verwende sogar Mantras, um mich jugendlich und vital zu halten.
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

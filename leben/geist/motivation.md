@@ -240,6 +240,86 @@ Dieser neue Ansatz besteht aus drei wesentlichen Elementen:
 
 [Drive](https://www.goodreads.com/book/show/6452796-drive)
 
+## Warum machst du Sport?
+
+Wie sich herausstellt, zeigen Untersuchungen, dass selbst Gründe, die sehr sinnvoll und wichtig klingen, uns möglicherweise nicht zu den gewünschten Ergebnissen führen. 
+
+Vor einigen Jahren führten meine Kollegen und ich eine Studie durch, in der wir untersuchten, welchen Einfluss die Beweggründe von Menschen, mit dem Training zu beginnen, auf ihre tatsächliche Beteiligung am Training haben. 
+
+Wir haben die Teilnehmer zunächst gebeten, ihre Gründe oder Ziele für das Training anzugeben, wie ich Sie gerade gefragt habe. 
+
+Um herauszufinden, aus welchen übergeordneten Gründen sie Sport treiben, haben wir sie dann gefragt, warum ihnen der Erhalt dieser besonderen Vorteile am Herzen liegt. 
+
+Meine Kollegen und ich fanden heraus, dass 75 Prozent der Teilnehmer Gewichtsverlust oder eine bessere Gesundheit (aktuell und zukünftig) als Hauptgründe für das Training nannten; Die anderen 25 Prozent trieben Sport, um die Qualität ihres täglichen Lebens zu verbessern (z. B. um ein Gefühl des Wohlbefindens zu erzeugen oder sich konzentriert zu fühlen). 
+
+Dann haben wir gemessen, wie viel Zeit sie im Laufe des nächsten Jahres tatsächlich mit Sport verbracht haben. 
+
+Die Antwort mag kontraintuitiv erscheinen, aber sie ist wahr: Die überwiegende Mehrheit der Teilnehmer, deren Ziele Gewichtsverlust und bessere Gesundheit waren, verbrachte insgesamt am wenigsten Zeit mit Sport – bis zu 32 Prozent weniger als diejenigen mit anderen Zielen.
+
+Denken Sie einen Moment darüber nach: Unsere häufigsten und kulturell akzeptiertesten Gründe, Sport zu treiben, hängen damit zusammen, dass wir uns möglichst wenig bewegen. Wie kann das sein?
+
+Es stellt sich heraus, dass Menschen dazu veranlagt sind, sich für sofortige Befriedigung gegenüber langfristigen Vorteilen zu entscheiden.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Pflicht vs. Geschenk
+
+Du denkst vielleicht, ich sei verrückt. 
+
+Hier bin ich, ein Fachmann im Gesundheitsbereich, und ich bitte Sie, Gesundheitsfaktoren als Motivator vorerst zu vergessen. 
+
+Aber ich frage nicht leichtfertig. 
+
+Ich frage, weil ich nicht möchte, dass du jetzt scheiterst oder erneut scheiterst. 
+
+Wenn Sie scheitern, spielt es keine Rolle, wie gut Ihre Absichten zu Beginn waren. 
+
+Lassen Sie uns jetzt Ihre persönliche Bedeutung für Bewegung konkretisieren: Wenn Sie an Bewegung denken, fühlt es sich dann wie eine lästige Pflicht an, die Sie erledigen müssen? 
+
+Oder möchten Sie ein Geschenk, dessen Öffnung Sie kaum erwarten können?
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Der erfolgreiche Motivationszyklus
+
+Der erfolgreiche Motivationszyklus beginnt mit dem „Richtigen Warum“ – Ihrem Richtigen Warum. 
+
+Jetzt entscheiden Sie sich aus relevanteren und überzeugenderen Gründen für Bewegung und entscheiden sich auch für körperliche Aktivitäten, die Ihnen sofort ein positives Feedback geben: 
+
+Zehn Minuten Spazierengehen geben Ihnen mehr Energie, Sie genießen es, im gegenwärtigen Moment zu sein, wenn Sie schwimmen, und Gartenarbeit bringt Sie zum Lächeln, Sie erzählen Geschichten und lachen mit Ihrem engen Freund, während Sie trainieren. 
+
+Körperliche Aktivität fühlt sich wie ein Geschenk an. 
+
+Anstelle einer lästigen Pflicht ist es jetzt ein Wunsch, denn Sie erhalten Belohnungen wie Spaß mit Ihrer Familie, Konzentration bei der Arbeit und Aufmerksamkeit. 
+
+Es ist das Geschenk, das man immer wieder gibt. Und Sie wollen nicht, dass es aufhört.
+
+Sie stellen fest, dass Sie diese Erfahrungen jederzeit wiederholen können, und diese Motivation erhält sich von selbst. 
+
+Sie fühlen sich besser, weil Sie Ihren Körper auf eine Weise bewegen, die Sie selbst bestimmen, und Sie möchten natürlich in Bewegung bleiben.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Das Paradox der Belohnungen
+
+Teresa Amibile rekrutierte eine Gruppe angehender Schriftsteller und bat sie, ein Gedicht im Haiku-Stil zu schreiben, in dem das Wort Schnee als erste und letzte Zeile verwendet wurde. 
+
+Anschließend wurden die Teilnehmer in zwei Gruppen aufgeteilt. 
+
+Eine Gruppe wurde gebeten, über all die Reichtümer nachzudenken, die sich daraus ergeben würden, ein großer Schriftsteller zu sein, während die andere Gruppe gebeten wurde, über die intrinsische Freude nachzudenken, die sie aus ihrer Arbeit ziehen. 
+
+Schließlich wurde jeder gebeten, ein zweites Gedicht rund um das Konzept des Lachens zu verfassen.
+
+Anschließend stellte Amabile eine Gruppe von zwölf Dichtern zusammen, gab ihnen die Haiku-Gedichte über Schnee und Lachen und bat sie, zu bewerten, wie kreativ die Gedichte seien. 
+
+Beim Schreiben über Schnee zeigten beide Gruppen das gleiche Maß an Kreativität. 
+
+Allerdings zeigte die Gruppe, die über die Belohnungen und Reichtümer nachdenken sollte, die sich aus ihrem Schreiben ergeben könnten, deutlich weniger Kreativität, wenn es um das Lachen ging. 
+
+Selbst der Gedanke an Belohnungen hatte eine nachteilige Wirkung.
+
+[The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

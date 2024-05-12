@@ -327,6 +327,32 @@ Wie wenige Menschen entwickeln diese Willenskraft!
 
 [How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
 
+## Der Keks-Test
+
+In der spartanischen Welt sind wir zu der Überzeugung gelangt, dass die Befriedigung in vielen Fällen etwas ist, das aufgeschoben werden muss, um Erfolg zu haben. 
+
+Diese Theorie wurde in der Welt der Wissenschaft bestätigt, insbesondere in Form des sogenannten „Cookie-Experiments“. 
+
+Kekse? Leckereien zu backen klingt nicht sehr spartanisch, hat aber alles mit der spartanischen Mentalität und den Grundlagen unserer Philosophie zu tun. 
+
+Es ist auch einer der Schlüssel zum Erfolg im Leben.
+
+Im Jahr 1972 hatte ein Stanford-Forscher namens Walter Mischel eine Idee für ein Experiment, das inzwischen berühmt geworden ist und bis heute untersucht und diskutiert wird. 
+
+Mischel gab den Kindern ihre Lieblingsleckerei: einen Marshmallow, einen Keks oder eine Brezel. 
+
+Er sagte ihnen, sie könnten es sofort essen – oder fünfzehn Minuten warten und stattdessen zwei essen. 
+
+Eine einfache Wahl. 
+
+Anschließend verfolgte er ihren späteren Erfolg, als die Kinder das Erwachsenenalter erreichten. 
+
+Wie sich herausstellte, wurden die Kinder, die den ersten Keks ablehnten, zu erfolgreicheren Erwachsenen als diejenigen, die ihn nahmen. 
+
+Aus Cookie-Verweigerern wurden Gewinner.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

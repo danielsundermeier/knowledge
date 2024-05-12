@@ -487,6 +487,20 @@ Tatsächlich deuten Studien darauf hin, dass ein Nickerchen in einer Reihe von F
 
 [Take a Nap! Change Your Life](https://www.goodreads.com/book/show/22164077-take-a-nap-change-your-life)
 
+## Aufstehen mit der Sonne
+
+„Wissen Sie, warum die meisten Menschen so viel schlafen?“
+
+„Warum?“
+
+„Weil sie wirklich nichts anderes zu tun haben. Diejenigen, die mit der Sonne aufgehen, haben alle eines gemeinsam.“
+
+„Wahnsinn?“
+
+„Sehr lustig. Nein, sie alle haben ein Ziel, das ihr inneres Potenzial entfacht.“
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
 ## Notizen
 
 - Schlaf regeneriert unsere Fähigkeit konzentriert, wachsam, emotional stabil zu sein

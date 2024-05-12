@@ -131,6 +131,48 @@ Letztes Jahr trat sie den Schul- und Stadtorchestern bei, und als ich sie kürzl
 
 [Grit](https://www.goodreads.com/book/show/27213329-grit)
 
+## Grit = Seelennahrung
+
+Es gibt Stärke, und dann ist da noch spartanische Stärke, die Fähigkeit, sich für eine lange Zeitspanne zu engagieren, ohne konkrete Beweise dafür zu haben, dass es sich auszahlt – und zwar weil man es will, nicht weil man es muss. 
+
+Mahatma Gandhis friedlicher Kampf um die Souveränität Indiens erforderte spartanische Kraft, denn oft sah es so aus, als würde er nirgendwohin führen. 
+
+Als Gandhi starb, hatte Indien die Unabhängigkeit von Großbritannien noch nicht erlangt – er sah die beiden Kekse nie. 
+
+Dennoch hielt er sein ganzes Leben lang durch.
+
+Spartanische Stärke bezieht sich auf einen Begriff, den ich zuvor besprochen habe: Mut, eine angeborene Eigenschaft, die sich jedoch durch Hingabe und Einsatz verankern kann. 
+
+Grit bezieht sich auf den unermüdlichen Willen, Hindernisse zu überwinden. Stellen Sie sich das so vor:
+
+- Spartanische Stärke ist die Entschlossenheit, die aus echtem Engagement entsteht.
+- Grit ist die Behauptung und Anwendung des Willens, diese Verpflichtung zu erfüllen.
+
+Spartanische Stärke entsteht aus einer psychischen Ausrichtung, um etwas zu erledigen. 
+
+Diese Ausrichtung ist entschlossen und unzerbrechlich: Das ist genau das, was sein wird. 
+
+Mut entsteht aus der Willenskraft, die Taten zum Ausdruck bringt. 
+
+Mut ist Ausführung. Grit schafft tatsächlich etwas.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Grit 101
+
+Für manche mag es ein einfacher Übergang sein, mutiger zu werden. 
+
+Für andere ist möglicherweise eine bewusstere Anstrengung erforderlich. Willst du mehr Mut? Fang hier an:
+
+1. Schreiben Sie Ihren Erfolgsplan auf. Legen Sie Ihre Grundlinie fest, legen Sie ein Ziel fest und definieren Sie einen klaren Weg zu diesem Ziel.
+2. Teilen Sie den Plan. Der Empfänger sollte jemand sein, der Sie unterstützt, aber bei Bedarf auch konstruktive Kritik äußern kann. Beauftragen Sie ggf. einen Coach.
+3. Beseitigen Sie Ablenkungen. Was sind Ihre Barrieren? Fernsehen, Internet, Videospiele?
+4. Führen Sie ein Tagebuch über Ihre Erfolge und Misserfolge. Erinnern Sie sich an die Tage, als Sie für außergewöhnliche Leistungen in der Grundschule einen goldenen Stern erhielten? Gönnen Sie sich einen goldenen Stern für jeden Erfolg, den Sie im Laufe des Tages erzielen.
+5. Passen Sie es nach Bedarf an, solange Ihr ursprüngliches Ziel dadurch nicht geschmälert oder verändert wird. Arbeiten Sie immer an Lösungen.
+6. Zu guter Letzt: Geben Sie nicht auf. Lassen Sie nicht zu, dass Rückschläge zu Misserfolgen werden. Lernen Sie von ihnen und machen Sie weiter. Sie müssen Ihren Zielen treu bleiben.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

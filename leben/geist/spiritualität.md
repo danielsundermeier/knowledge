@@ -82,6 +82,50 @@ Wir sind zu Künstlern geworden, nicht in dem kostbaren Sinne, dass wir uns auf 
 
 [Put Your Ass Where Your Heart Wants to Be](https://www.goodreads.com/book/show/61435726-put-your-ass-where-your-heart-wants-to-be)
 
+## Die ganze Welt ist der Altar Gottes
+
+Die ganze Welt ist der Altar Gottes. 
+
+Wenn wir nur unsere Vision und unsere Gedanken ändern können, wird alles, was wir tun, zur spirituellen Praxis. 
+
+Lassen Sie unser Leben also ein ständiger, beständiger Dienst für Gott vor dem riesigen Altar hier sein. 
+
+Die ganze Welt ist ein Altar. Alles ist Gottes Manifestation. 
+
+Was auch immer Sie jemandem antun, Sie tun es Gott an. Nicht nur für Menschen – für Tiere, für Pflanzen, für alles.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Das Lagerfeuer des menschlichen Geistes anzünden
+
+Der menschliche Geist muss wie ein Lagerfeuer jeden Tag neu entzündet werden.
+
+Im Gegensatz zum Geist ist ein Lagerfeuer leicht zu beobachten und zu verstehen, weil wir einen Schritt zurücktreten und es beobachten können. 
+
+Nach einer Campingnacht können wir am nächsten Morgen aus unseren Zelten kommen und mit Genugtuung feststellen, dass das Lagerfeuer erloschen ist. 
+
+Wir verfluchen das Lagerfeuer nicht dafür, dass es ausgeht, und wir denken nicht, dass das Leben ungerecht ist, weil wir am nächsten Abend erneut ein Feuer entfachen müssen.
+
+Dennoch haben wir nicht das gleiche einfache Verständnis des Geistes. 
+
+Der menschliche Geist verwirrt uns. Wir glauben, dass etwas mit dem Universum nicht stimmt und der Geist jeden Tag erneuert werden muss. 
+
+Wir sehen darin nicht die Gabe, weil wir nicht erkennen, dass der Geist wie ein Feuer ist.
+
+Es ist gut, dass das Lagerfeuer neu angezündet werden muss, denn so hat man die Kontrolle über das Feuer. 
+
+Sie können es starten oder mit Wasser übergießen und löschen. 
+
+Wenn Sie erkennen, dass Sie die gleiche Kontrolle über den menschlichen Geist haben, werden Sie wissen, wie man lebt. 
+
+Ich sage nicht, dass Sie für immer glücklich sein werden, aber Sie werden immer wissen, wie man es macht.
+
+Und wenn Sie wissen, was Sie wissen, werden sich alle Ihre Erfahrungen mit „Unglück“ vorübergehend und belanglos anfühlen. 
+
+Unglücklich sein wird nie wieder eine große Sache sein, denn Sie werden es genauso erleben wie „müde sein“.
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
 ## Orte
 
 - [Benediktushof](https://www.benediktushof-holzkirchen.de) - Zentrum für Meditation und Achtsamkeit

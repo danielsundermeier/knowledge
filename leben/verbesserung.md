@@ -810,6 +810,172 @@ und in solchen Angelegenheiten finden wir es gewöhnlich angenehmer für unseren
 
 [Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
 
+## Ohne Engagement können wir niemals wachsen
+
+Ohne Engagement im Leben können wir niemals wachsen. 
+
+Engagement ist eine Möglichkeit, den Geist zu trainieren und ihn dazu zu bringen, einem zu gehorchen. 
+
+Du wirst zum Meister deines Geistes. 
+
+Wer möchte die Verpflichtung brechen? Dein Verstand. 
+
+Der Gedanke kommt hoch: „Oh, ich will das nicht tun“, und Sie geben auf. 
+
+Wohin Sie auch gehen, was auch immer Sie tun, der Geist wird die gleiche Tendenz haben. 
+
+Denken Sie nach, bevor Sie springen. Sobald Sie springen, ist es soweit. 
+
+Bleib dabei, was auch immer es ist. 
+
+Ihr dynamischer Wille sollte angewendet werden. „Ja, ich habe beschlossen, es zu tun. Ich werde es tun. Ich werde nie einen Rückzieher machen.“ 
+
+Die dynamische Entscheidung selbst wird Ihnen dabei helfen, erfolgreich zu sein.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Verantwortlichkeiten und kleine Gottheiten
+
+Fast alle Anhänger Gottes empfanden den Schmerz, nicht genug zu tun, um Ihn zu erreichen. 
+
+Dieser Schmerz ist eine hilfreiche Sache. Es erinnert Sie daran, wo Sie sind. 
+
+Wenn du dich deswegen nicht schlecht fühlst, wenn du einfach sagst: „Okay, Swamiji hat gesagt, du sollst es ruhig angehen, wenn ich nicht meditiere, ist es egal“, dann wirst du nicht wachsen. 
+
+Wenn Sie nicht das Richtige tun, sollten Sie den Schmerz wirklich spüren. Das wird Ihnen helfen, sich zu verändern.
+
+Gleichzeitig sollten Sie Ihre Lebenssituation kennen. 
+
+Wenn Sie Ehefrau und Mutter von drei Kindern sind, haben Sie auch bestimmte familiäre Pflichten. 
+
+Wenn Sie aus diesem Grund nicht allen Disziplinen folgen können, zu einer bestimmten Zeit aufstehen, eine Stunde lang meditieren und alles tun können, sollten Sie sich nicht schlecht fühlen; 
+
+Aber wenn Sie aus Faulheit nicht praktizieren, sollten Sie sich verletzt fühlen. 
+
+Wenn Ihre Verantwortung es Ihnen nicht erlaubt, alles zu tun, wird Ihnen das entschuldigt, denn Sie tragen immer noch Ihre vorrangige Verantwortung als Ehefrau und Mutter. 
+
+Man muss auf die Kinder aufpassen. Auch das gehört zum Yoga dazu. 
+
+Sie sollten sich also fragen: „Befolge ich nicht alles, weil ich faul bin oder weil ich andere Pflichten habe?“ 
+
+Dann machen Sie auch die anderen Aufgaben zu einem Teil Ihrer Praxis. 
+
+Wenn Sie beispielsweise als Einzelperson ganz allein sind, können Sie Ihren Altar- und Schreinraum reinigen, alles dekorieren und sich hinsetzen und meditieren. 
+
+Aber als Mutter hat man jeden Morgen zwei, drei Gottheiten zu schmücken. 
+
+Ziehen Sie sie aus dem Bett, waschen Sie sie, baden Sie sie schön, ziehen Sie sie gut an, füttern Sie sie. 
+
+Das ist das Opfer, das Sie Gott darbringen. Sie sind lebende Götter in Ihrem Zuhause, bis Sie sie zur Schule verabschieden. 
+
+Wenn du sie ignorierst und dich hinsetzt, die Augen schließt und meditierst, dann sagt Gott: „Was ist das? Du opferst ein Stück Obst auf dem Altar, aber ich bin hier in deinem Haus in Form deines Kindes und du ignorierst mich.“
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Säen Sie jetzt den Samen
+
+Frage: Würden Sie bitte darüber sprechen, was Sie für die nächsten zehn oder zwanzig Jahre erwarten?
+
+Sri Gurudev: Ich mache mir keine Sorgen um die Zukunft. 
+
+Wenn Sie sich um die Gegenwart kümmern, wird auch für die Zukunft gesorgt. 
+
+Was Sie jetzt säen, werden Sie ernten. 
+
+Stellen Sie sich nicht einfach vor: „Nach zehn Jahren werde ich alle möglichen Früchte und Blumen in meinem Garten haben, und wenn sie wachsen, werde ich sie pflücken und allen geben.“ 
+
+Sitzen Sie nicht nur da und visualisieren und genießen Sie es. So verschwenden Sie Ihre Zeit. 
+
+Nehmen Sie sich stattdessen Zeit, graben Sie ein Loch und legen Sie mindestens einen Samen hinein. 
+
+Säen Sie jetzt den Samen. Im goldenen Jetzt.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Die Welt ist wie eine große Fabrik
+
+Die Welt ist voller Höhen und Tiefen, positiv und negativ. 
+
+Es ist wie eine große Fabrik. 
+
+Der Mensch kommt als Rohmaterial ins Spiel und ist dabei, perfekt zu werden. 
+
+Schauen Sie sich eine Autofabrik in Detroit an. 
+
+An einem Ende sehen Sie die wunderschönen fertigen Autos, die zum Versand bereit sind, aber was sehen Sie am anderen Ende? Alle rohen Rohstoffe. 
+
+Bleche, Schrauben und Muttern, die einer Bearbeitung unterzogen werden. 
+
+Viel Schneiden, Hacken, Reiben, Schrubben, Meißeln, Feilen, Schleifen, Schweißen, Pressen. 
+
+Langsam nimmt es Gestalt an. 
+
+Die Leute sind auch so. Das nennt man Evolution oder Wachstum. 
+
+Dadurch sammeln wir Erfahrungen, wir lernen. 
+
+Sogar ein Sünder ist da, um Ihnen zu zeigen, was nicht getan werden darf. 
+
+Er ist ein Vorbild für dich. Wenn man ihn sieht, wird einem klar: „Oh, das sollte ich nicht tun.“
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Investiere in dich selbst
+
+Sechshundertzweiundsiebzig Stunden innere Arbeit, um jeden wachen Moment des restlichen Lebens grundlegend zu verbessern, sind ein ziemliches Schnäppchen, finden Sie nicht? 
+
+In sich selbst zu investieren ist die beste Investition, die Sie jemals tätigen werden. 
+
+Es wird nicht nur Ihr Leben verbessern, sondern auch das Leben aller Menschen um Sie herum.
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
+## Eine neue Sprache lernen
+
+Ich fing an, Notizbücher mit der Sprache von Leistungsträgern (die ich als „Eigentümer“ bezeichnete) zu führen, und einen weiteren prall gefüllten Stapel Notizbücher mit der Sprache der Menschen, die frustriert und kämpfend waren – der „Opfer“.
+
+Eigentümer verwenden häufig die Worte „Ich kann“, während Opfer „Ich kann nicht“ bevorzugen. 
+
+Eigentümer hatten Ziele, Projekte und Herausforderungen, während Opfer Probleme, Ärger und Albträume hatten. 
+
+Die Eigentümer sagten, sie seien beschäftigt, und die Opfer sagten, sie seien überfordert. 
+
+Die Eigentümer „entwarfen ein Leben“, während die Opfer „versuchten, ihren Lebensunterhalt zu verdienen“. 
+
+Die Eigentümer waren aufgeregt und freuten sich über die Veränderungen am Arbeitsplatz, während die Opfer besorgt und verärgert waren. 
+
+Die Eigentümer versuchten herauszufinden, was sie aus einer Erfahrung herausholen konnten, während die Opfer versuchten, damit klarzukommen. 
+
+Eigentümer würden Dinge planen und Opfer würden Dinge wünschen.
+
+Dieser Zusammenhang, den ich zwischen Sprache und Darbietung gesehen hatte, war interessant, aber was noch aufregender war, war, wie sich das Leben der Menschen verändern würde, wenn sie anfingen, eine neue Sprache zu üben.
+
+[Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
+## Üben, üben, üben
+
+Das, was Ihr Leben verändert, ist das, was Sie praktizieren. 
+
+Und was Sie praktizieren, stellt Ihre persönlichen Lebensgesetze dar – nicht das, woran Sie nur glauben, sondern das, was Sie praktizieren. 
+
+Es ist schön und gut, Bücher zu lesen, Seminare, Vorträge und Workshops zu besuchen und zu sagen: „Oh, das berührt mich wirklich! Es ist jetzt Teil meiner Lebensphilosophie.“ 
+
+Ihre Philosophie mag Ihnen vorübergehend einen Zustand der Euphorie verschaffen, aber wenn Sie in der Realität verankert sein wollen, braucht es Übung, Übung, Übung. 
+
+Wir sind nicht hier, um euphorisch zu sein, sondern um frei zu werden. 
+
+Rudimentäre Spiritualität ist Theorie; Fortgeschrittene Spiritualität ist Praxis.
+
+Den hier beschriebenen Schlüsseln zuzustimmen ist eine Sache, sie zu üben eine andere. 
+
+Es ist gut, spirituelle Praktiken zu lesen, zu studieren und sich darüber zu unterhalten, aber wenn Sie sie nicht in Ihr Leben integrieren, werden Sie sie nicht verkörpern oder integrieren – was bedeutet, dass Sie nicht von ihren Vorteilen profitieren. 
+
+Fragen Sie sich: „Wie kann ich jetzt von der Theorie in die Praxis übergehen?“ 
+
+Wenn Sie lediglich spirituelle Informationen sammeln, ohne sie zu praktizieren, werden Sie lediglich eine spirituelle Verdauungsstörung und Verstopfung entwickeln.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

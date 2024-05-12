@@ -336,6 +336,58 @@ Das bedeutet zumindest, dass es kontinuierlich ausgelebt werden muss, was eigent
 
 [Beyond Order](https://www.goodreads.com/book/show/56019043-beyond-order)
 
+## Persönlichkeit vs. Charakter
+
+Verstehen Sie, dass kreative Fehlanpassung bedeutet, den entscheidenden Unterschied zwischen Persönlichkeit und Charakter zu kennen. 
+
+Das Wort „character“ kommt vom altfranzösischen „caractere“ und bedeutet „Eindruck in die Seele“. 
+
+Die Etymologie von „Persönlichkeit“ lässt auf Furnier schließen und ist mit dem lateinischen Wort „persona“ verbunden, das eine von Schauspielern getragene Maske war. 
+
+Der Charakter kommt zum Vorschein, wenn unsere Maske abgenommen wird.
+
+Es ist leicht zu erkennen, ob Sie vom Charakter oder von der Persönlichkeit leben: Wenn die Dinge nicht so laufen, wie Sie es sich wünschen, schmollt die Persönlichkeit, während der Charakter gelassen bleibt und aus der Erfahrung lernt. 
+
+Wenn Sie sich psychisch oder emotional nicht in einem sicheren Bereich befinden, gerät die Persönlichkeit in Panik. 
+
+Der Charakter hingegen meistert die Wechselfälle des Lebens mit Gleichmut. 
+
+Die Persönlichkeit ist bestrebt, aus ihren Erfahrungen Glück zu ziehen, während der Charakter erkennt, dass Glück eine inhärente Seinsqualität ist, die Erfahrungen mit Glück erfüllt.
+
+Wenn du erkennst, dass der Geist sich individualisiert hat und sich selbst den Namen „Du“ gegeben hat, lösst du dich von Unsinn ab, etwa dem, was andere über dich denken, sogar dem, was du über dich selbst denkst. 
+
+Stattdessen fangen Sie an zu fragen: „Wie funktioniert der Geist des Lebens in mir, durch mich und als ich?“ 
+
+Stellen Sie diese Frage immer häufiger vor das Tribunal Ihres Bewusstseins, und Sie werden beginnen, sich auf Erkenntnisse aus diesem Bereich einzustimmen des Realen.
+
+[Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
+
+## Das Als-Ob-Prinzip
+
+Die Vorstellung, dass Verhalten Emotionen hervorruft, legt nahe, dass Menschen in der Lage sein sollten, jedes gewünschte Gefühl zu erzeugen, indem sie einfach so tun, als würden sie diese Emotion erleben. 
+
+Oder wie James es berühmt ausdrückte: „Wenn Sie eine Qualität wollen, tun Sie so, als hätten Sie sie bereits.“ 
+
+Ich bezeichne diesen einfachen, aber wirkungsvollen Satz als das „Als-ob-Prinzip“.
+
+Dieser Aspekt von James‘ Theorie motivierte ihn mehr als jeder andere. 
+
+In einem öffentlichen Vortrag beschrieb er die potenzielle Kraft der Idee als „Flaschenblitz“ und bemerkte enthusiastisch: „Der souveräne, freiwillige Weg zur Fröhlichkeit besteht darin, sich fröhlich aufzusetzen, sich fröhlich umzusehen und zu handeln und zu sprechen, als ob Fröhlichkeit bereits vorhanden wäre.“ 
+
+„Mit einem schlechten Gefühl zu ringen, lenkt unsere Aufmerksamkeit nur darauf und hält es im Gedächtnis fest.“
+
+[The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+
+## Ein neues Ich erschaffen
+
+Aufgrund seiner umfassenden therapeutischen Erfahrung kam er zu der Überzeugung, dass die Persönlichkeit von Menschen nicht festgelegt ist und dass Schauspieler im Laufe ihrer Karriere viele verschiedene Rollen einnehmen können, sodass Menschen im Laufe ihres Lebens ihre Identität ändern können. 
+
+Darüber hinaus war Kelly davon überzeugt, dass die Art und Weise, wie Menschen sich selbst sahen, oft die Ursache ihrer Probleme war und dass eine wirksame Therapie darin bestand, Klienten dabei zu helfen, eine weniger problematische Identität anzunehmen. 
+
+Kelly taufte diesen Ansatz „Therapie mit festen Rollen“ und entwickelte im Laufe der Zeit eine Reihe wirksamer Techniken, um Menschen dazu zu bringen, eine neue Identität anzunehmen.
+
+[The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

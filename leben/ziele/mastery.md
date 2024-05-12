@@ -292,6 +292,32 @@ Schließlich ist dies die Rolle der Arbeit in unserem Leben – nicht nur als Mi
 
 [The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
 
+## Größe: Es ist Ihr Geburtsrecht
+
+Drängen Sie sich dazu, mehr zu tun und mehr zu erleben. 
+
+Nutzen Sie Ihre Energie, um Ihre Träume zu verwirklichen. 
+
+Ja, erweitern Sie Ihre Träume. 
+
+Akzeptieren Sie kein Leben in Mittelmäßigkeit, wenn Sie solch ein unendliches Potenzial in der Festung Ihres Geistes bergen. 
+
+Trauen Sie sich, Ihre Größe zu nutzen. Es ist Ihr Geburtsrecht.
+
+Tun Sie so, als ob ein Scheitern unmöglich wäre, und Ihr Erfolg ist garantiert. 
+
+Vernichten Sie jeden Gedanken daran, Ihre Ziele nicht zu erreichen, seien sie materieller oder spiritueller Natur. 
+
+Seien Sie mutig und setzen Sie Ihrer Fantasie keine Grenzen. 
+
+Sei niemals ein Gefangener deiner Vergangenheit. 
+
+Werden Sie zum Architekten Ihrer Zukunft. 
+
+Du wirst nie mehr derselbe sein.
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

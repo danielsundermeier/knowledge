@@ -840,6 +840,76 @@ Und Männer oder Frauen mit einem solchen freundlichen Wesen, einer guten Laune 
 
 [Self-Help](https://www.goodreads.com/book/show/162988.Self_Help)
 
+## Schöpfen Sie Ihr größtes Potenzial aus
+
+Wenn Sie „Spartan Up!“ bedeutet das nicht, dass Sie an den extremsten Ausdauerwettkämpfen teilnehmen. 
+
+Es geht nicht darum, ein Fitnessstudio-Fan zu sein oder härter zu sein als alle Ihre Kollegen. 
+
+Es geht darum, das Beste aus Ihrem Leben herauszuholen, Ihr größtes Potenzial auszuschöpfen und am Ende ein unvergessliches Leben zu führen. 
+
+Spartan Up! ist eine Einstellungsänderung, bei der es darum geht, die Kontrolle über Ihr Leben und Ihre Gesundheit zu übernehmen.
+
+[Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
+
+## Ihre Selbstfürsorgehierarchie
+
+Welches Selbstpflegeverhalten könnte Ihnen auf der Grundlage der beiden wichtigsten täglichen Selbstpflegebedürfnisse, die Sie identifiziert haben, Ihrer Meinung nach dabei helfen, diese beiden Selbstpflegebedürfnisse und -erfahrungen zu verwirklichen? 
+
+Ist es Schlaf, körperliche Aktivität, Meditation, das Lesen eines tollen Buches oder jeden Abend ein Bad vor dem Schlafengehen? 
+
+Vielleicht wissen Sie es jetzt noch nicht, aber Sie können mit dem Experimentieren beginnen, um es herauszufinden. 
+
+Nehmen Sie das Selbstfürsorgeverhalten, von dem Sie glauben, dass es das sein könnte, und führen Sie es als Ihr grundlegendes, nicht verhandelbares Selbstfürsorgeverhalten am unteren Ende der Hierarchie auf. 
+
+Mach dir keine Sorge; Diese Hierarchien sind nicht in Stein gemeißelt. 
+
+Sie ändern sich, wenn wir feststellen, dass ein anderes Selbstfürsorgeverhalten grundlegender für unser tägliches Selbstfürsorgebedürfnis ist, das sich ebenfalls ändert.
+
+[No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
+
+## Sei einfach glücklich und springe vor Freude
+
+Das Leben muss eine Herausforderung sein. Erst dann wird es spannend. 
+
+Bei einem Hindernislauf müssen Sie alle Hindernisse überwinden: über die Hürden springen, durch die Fässer gehen, unter den Teppichen kriechen, über Mauern klettern.
+
+Was würde passieren, wenn Sie, um all das zu vermeiden, alle Hindernisse umgehen und um den Siegerpokal bitten würden? Würden sie es dir geben? Nein. 
+
+Sie würden sagen: „Du musst zurückgehen und dich allen Hindernissen stellen.“
+
+Gestalten Sie Ihr Leben so aufregend wie möglich, aber denken Sie immer daran, dass es Spaß macht. 
+
+Sowohl die Widrigkeiten als auch die Harmonie sollen Spaß machen. 
+
+Werden Sie nicht nüchtern und mürrisch und tragen Sie im Namen der Spiritualität ein Rizinusöl-Gesicht. 
+
+Sei einfach glücklich. Springe vor Freude. S
+
+elbst wenn Sie einen Fehler machen, sagen Sie: „Hey, das habe ich getan? Großartig! Was für eine wundervolle Lektion ich gelernt habe!“ 
+
+Wenn Sie wirklich wollen, können Sie alles zum Spaß machen.
+
+[The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
+
+## Das Geheimnis des Glücks
+
+Okay, das Geheimnis des Glücks ist einfach: Finden Sie heraus, was Sie wirklich gerne tun, und richten Sie dann Ihre ganze Energie darauf aus.
+
+Sie werden jeden Morgen mit einem grenzenlosen Reservoir an Energie und Begeisterung aufwachen. 
+
+Alle Ihre Gedanken werden sich auf Ihr bestimmtes Ziel konzentrieren. 
+
+Sie werden keine Zeit haben, Zeit zu verschwenden. 
+
+Wertvolle geistige Kraft wird daher nicht für unbedeutende Gedanken verschwendet. 
+
+Sie werden die Gewohnheit, sich Sorgen zu machen, automatisch ablegen und deutlich effektiver und produktiver werden. 
+
+Interessanterweise werden Sie auch ein tiefes Gefühl innerer Harmonie verspüren, als ob Sie irgendwie dazu geführt würden, Ihre Mission zu verwirklichen. Es ist ein wunderbares Gefühl.
+
+[The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

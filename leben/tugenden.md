@@ -117,6 +117,60 @@ Nun, das bedeutet, sich selbst treu zu bleiben. Das ist Integrität; das ist Ver
 
 [Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
+## Replizieren Sie sich
+
+Mein Freund Ben bewunderte seinen spirituellen Mentor so sehr, dass er sich einen Sommer Zeit nahm, um bei dem Meister in seinem Retreat im Nordwesten zu leben und zu studieren. 
+
+Eines Tages fragte Ben seinen Lehrer: „Wie kann ich mehr wie du sein?“
+
+Der Heiler lächelte und antwortete: „Der beste Weg, mehr wie ich zu sein, besteht darin, mehr wie du selbst zu sein.“
+
+Diese brillante Antwort enthält die Weisheit Ihres Lebens! 
+
+Wenn Sie versuchen, die Größe eines anderen nachzuahmen, haben Sie den Sinn der Größe verfehlt. 
+
+Das Geheimnis besteht darin, Ihren eigenen einzigartigen Stil und Ihre eigenen Talente zu finden und diese zum Vorschein zu bringen. 
+
+Niemand hat jemals die Meisterschaft erlangt, indem er einen anderen nachgeahmt hat. Die wirklich Großen reproduzieren sich einfach.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Verrottender Fisch
+
+Ihr Ziel ist es, die Ressourcen zu nutzen, die Gott Ihnen gibt. 
+
+Wenn Gott dir einen Eimer voller Fische gibt, musst du diese Fische verteilen. 
+
+Wenn Sie das nicht tun, werden sie verfaulen, eine Menge Fliegen anlocken und beginnen, Ihre Seele zu stinken.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Machen Sie Tugend zu Ihrem Ziel
+
+Unser Leben verbessert sich wirklich nur, wenn wir in der Tugend wachsen. 
+
+Jede andere Änderung ist lediglich kosmetischer Natur. 
+
+Wenn wir uns selbst, unser Leben und unsere Gesellschaft wirklich verbessern wollen, müssen wir beginnen, den Fokus von Geld, Berühmtheit und Talent auf Charakter und Tugend zu verlagern.
+
+In der Tugend zu wachsen ist die Aufgabe unseres Lebens. 
+
+Alles, was passiert, alles, was wir tun, ist nur eine Gelegenheit, in der Tugend zu wachsen. 
+
+Wenn die Person vor Ihnen in ihrer Handtasche nach den 49 Cent für die Kassiererin sucht und Sie anfangen, unruhig und frustriert zu werden, was passiert dann wirklich? 
+
+Es ist nur eine Gelegenheit für Sie, in Ihrer Geduld zu wachsen. 
+
+Machen Sie Tugend zu Ihrem Ziel, und Sie werden feststellen, dass die Momente des Tages das Geschenk der Gelegenheit mit sich bringen.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Superhelden leben ihre Ideale
+
+Superhelden lehren keine Prinzipien oder predigen Dogmen; Sie leben die Ideale, auf denen sie aufgebaut sind.
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

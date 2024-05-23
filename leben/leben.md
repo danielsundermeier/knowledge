@@ -207,6 +207,84 @@ Growing up I was blessed in that I had been given the gift of ________. Not ever
 
 [Lessons for Living](https://www.goodreads.com/book/show/161625454-lessons-for-living)
 
+## Zorba the Buddha
+
+Meine Vorstellung von einem neuen Menschen wird Zorba, der Grieche, und auch Guatam, der Buddha, sein: Der neue Mensch wird „Zorba, der Buddha“ sein – sinnlich und spirituell. 
+
+Körperlich, völlig körperlich – im Körper, in den Sinnen, den Körper genießen und alles, was der Körper ermöglicht – und dennoch wird es ein großes Bewusstsein, eine große Zeugenschaft geben. 
+
+Zorba der Buddha – das hat es noch nie gegeben.
+
+Das ist es, worüber ich spreche, wenn ich über die Begegnung von Osten und Westen spreche, die Begegnung von Materialismus und Spiritualität. 
+
+Das ist meine Vorstellung von Zorba dem Buddha: Himmel und Erde sind vereint.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
+## Das Leben ist eine Spannung zwischen den Gegensätzen
+
+In der Mitte zu sein ist kein statischer Zustand, sondern ein dynamisches Phänomen. 
+
+Balance ist kein Substantiv, sondern ein Verb; es ist ausgleichend. 
+
+Der Seiltänzer bewegt sich kontinuierlich von links nach rechts, von rechts nach links. 
+
+Wenn er nun das Gefühl hat, dass er sich zu sehr auf eine Seite bewegt hat und die Gefahr eines Sturzes besteht, gleicht er sich sofort aus, indem er sich auf die gegenüberliegende Seite bewegt. 
+
+Ja, beim Übergang von links nach rechts gibt es einen Moment, in dem der Seiltänzer in der Mitte ist. 
+
+Und wieder, wenn er sich zu sehr nach rechts bewegt hat und Angst vor dem Fallen besteht, verliert er das Gleichgewicht, beginnt sich nach links zu bewegen und geht erneut für einen Moment durch die Mitte.
+
+Warum wollen wir überhaupt in der Mitte sein? 
+
+Wir haben Angst vor der dunklen Seite des Lebens; Wir wollen nicht traurig sein, wir wollen nicht in einem Zustand der Qual sein. 
+
+Aber das ist nur möglich, wenn Sie auch bereit sind, die Möglichkeit einer Ekstase aufzugeben. 
+
+Es gibt ein paar Leute, die sich dafür entschieden haben – das ist der Weg des Mönchs. 
+
+Seit Jahrhunderten ist dies der Weg des Mönchs, der bereit war, alle Möglichkeiten der Ekstase zu opfern, nur um der Qual zu entgehen. 
+
+Er ist bereit, alle Rosen zu zerstören, nur um den Dornen auszuweichen. 
+
+Aber dann ist sein Leben einfach flach. 
+
+Eine lange, lange Langeweile, abgestanden, stagnierend. Er lebt nicht wirklich. Er hat Angst zu leben.
+
+Lebe das Leben auf alle möglichen Arten; Wählen Sie nicht das eine gegen das andere und versuchen Sie nicht, in der Mitte zu stehen. 
+
+Versuchen Sie nicht, Ihr Gleichgewicht zu halten – Gleichgewicht lässt sich nicht kultivieren. 
+
+Ausgeglichenheit entsteht durch das Erleben aller Dimensionen des Lebens. 
+
+Gleichgewicht ist etwas, das geschieht; Es ist nicht etwas, das durch Ihre Bemühungen erreicht werden kann. 
+
+Wenn Sie es durch Ihre Bemühungen erreichen, wird es falsch und erzwungen sein.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
+## Unsere Arbeit wird unsere Seele sein
+
+Die Menschen werden ihrer Kreativität Ausdruck verleihen. 
+
+Es wird Musiker geben, es wird Tänzer geben, es wird Maler und Tischler geben. 
+
+Auf der ganzen Welt wird es jede Menge Kreativität geben. 
+
+Aber niemand konkurriert mit irgendjemandem; Er gibt einfach sein Bestes. 
+
+Es ist seine Freude. Die Freude besteht nicht darin, zu konkurrieren, die Freude besteht nicht darin, Erster zu werden; Die Freude liegt darin, es zu tun. 
+
+sEs liegt nicht außerhalb der Handlung, es ist der Handlung innewohnend. 
+
+Das ist mein Bild der neuen Menschheit. 
+
+Wir werden arbeiten, aber unsere Arbeit wird unser Leben, unsere Seele sein. 
+
+Was auch immer wir tun, es wird keine Rolle spielen.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

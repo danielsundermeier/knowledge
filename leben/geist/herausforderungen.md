@@ -601,6 +601,66 @@ Wir lernen, uns zu regenerieren, zu verjüngen und uns hinzugeben.
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Negativität zu erkennen ist positiv
+
+Ermutigen Sie sich selbst, indem Sie sich daran erinnern, dass jede Entdeckung von Negativität in Ihnen eine positive und keine negative Handlung ist. 
+
+Das Bewusstsein für deine Schwäche und Verwirrung macht dich stark, denn bewusstes Gewahrsein ist das helle Licht, das die Dunkelheit der Negativität zerstört. 
+
+Ehrliche Selbstbeobachtung löst Schmerzen und Zwänge auf, die früher in der Dunkelheit der Unwissenheit ihr schreckliches Werk verrichteten. 
+
+Das ist so wichtig, dass ich Sie dringend auffordere, sich die folgende Zusammenfassung zu merken und darüber nachzudenken: 
+
+Das Erkennen innerer Negativität ist kein negativer Akt, sondern ein mutig positiver Akt, der Sie zu einem neuen Menschen macht.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Psychische Prügel
+
+Leiden jeglicher Art bedeutet eines: Wir sind nicht im Einklang mit der kosmischen Harmonie. Wenn wir lernen, zu harmonisieren, hört das Leiden auf.
+
+Ein kleines Kind, das darauf besteht, auf die Straße zu rennen, wird verprügelt. Er ist nicht in der Lage, eine andere Sprache zu verstehen. Seine Eltern verprügeln ihn nicht, weil sie ihn absichtlich verletzen, sondern weil sie ihn lieben. Wenn das heranreifende Kind versteht, hört das Bedürfnis nach schmerzhafter Bestrafung auf.
+
+Das entspricht der menschlichen Situation. Das Leiden versucht uns von der Gefahr zu erzählen, die mit der Flucht in die Unwirklichkeit einhergeht. Aber der störrische kleine Mann, der immer glaubt, er wisse es am besten, lehnt die Lektion ab und wird Tag für Tag, Jahr für Jahr verletzt. Durch das Studium psychischer Prügel könnte er dahin gelangen, dass sie unnötig sind.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Ihr großer Zweck
+
+Wenn Ihr Hauptziel im Leben darin besteht, aufzuwachen, dann ist alles, was Ihnen passiert, gut, denn es kann Sie zum Selbsterwachen antreiben.
+
+Wenn es scheinbares Unglück braucht, um uns zu wahren Philosophen und Wohltätern zu machen, um Gutes zu empfangen, dann ist scheinbares Unglück unser größtes Glück.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Hindernisse
+
+Welche Hindernisse auch immer auf Ihrem Weg auftauchen, senken Sie den Kopf und überwinden Sie sie. 
+
+Diese Hindernisse sind nicht real. 
+
+Sie sind nur Gottes Art, dich auf die Probe zu stellen. 
+
+Er fragt dich: „Willst du es schaffen oder nicht?“
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Dem Anlass gewachsen sein
+
+Sowohl in der antiken indischen als auch in der griechischen Mythologie steigen häufig große Dämonen, Plagen oder andere Erzfeinde aus den Ozeanen auf, werden von Vulkanen hervorgebracht oder aus dem Wüstensand gezeugt. 
+
+Diese dunklen Mächte drohen, die Menschheit zu vernichten, und ihr bloßes Erscheinen löst meist große Panik und Chaos aus. 
+
+Dies dient als Aufruf des Helden zum Handeln; 
+
+Wenn er erkennt, dass der Planet oder seine Menschen bedroht sind, handelt es sich um eine persönliche Bedrohung. 
+
+Es gibt keine Barriere zwischen dem individuellen Selbst und dem universellen Selbst. 
+
+Wenn dieses also angegriffen wird, muss das individuelle Selbst seine Abwehrkräfte sammeln und sich der Situation stellen.
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

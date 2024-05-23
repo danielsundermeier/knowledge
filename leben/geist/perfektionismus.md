@@ -132,6 +132,20 @@ Lassen Sie Ihr Bedürfnis los, perfekt und über jeden Zweifel erhaben zu sein. 
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Die Würze des Lebens
+
+Nichts wird Ihr Selbstvertrauen schneller erschöpfen oder Ihren ersten Sieg sicherer verhindern als Ihre Weigerung, die unvermeidliche menschliche Unvollkommenheit zu akzeptieren und mit ihr umzugehen.
+
+Wenn Sie sich für jeden einzelnen Fehler, Irrtum und jede Unvollkommenheit bestrafen, ist es unmöglich, selbstbewusst zu sein. 
+
+Destruktiver Perfektionismus unterscheidet sich vom Streben nach Perfektion, der Disziplin und Hingabe, die für die Aufrechterhaltung Ihrer Bemühungen um Verbesserung erforderlich sind. 
+
+Ein wenig Perfektionismus ist unbedingt erforderlich, wenn Sie Ihr Wissen, Ihre Fähigkeiten und Ihre Fitness weiterentwickeln wollen, genauso wie in den meisten Kochrezepten eine kleine Menge Würze erforderlich ist, um dem Essen etwas Spannung zu verleihen. 
+
+Aber zu viel Perfektionismus wird Ihren Fortschritt behindern und Ihr Leben ruinieren, genauso wie zu viel Gewürz jede Mahlzeit ruiniert.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
 ## Bücher
 
 - [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)

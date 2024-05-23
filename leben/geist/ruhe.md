@@ -74,6 +74,24 @@ Das ist der einfache und praktische Weg, Frieden zu finden.
 
 [The Golden Present](https://www.goodreads.com/book/show/714611.The_Golden_Present)
 
+## Gelassenheit: Deine Superkraft
+
+Die meisten betrachten Gelassenheit nicht als Disziplin, aber in einer modernen Welt muss man hart daran arbeiten, sich selbst Stille und ruhige Zeit zu erzwingen. 
+
+Aktivität gibt der Persönlichkeit Befriedigung und gibt dem Ego das Gefühl, wichtig zu sein. 
+
+Ruhige Zeit, Gelassenheit und Stille entkräften das Ego und machen Ihr Inneres zu etwas Besonderem. 
+
+Es ist eine schöne Balance. 
+
+Schalten Sie also den Fernseher aus, ziehen Sie den Stecker aus der Steckdose, spielen Sie leise Umgebungsmusik oder bleiben Sie ein oder zwei Stunden lang still. 
+
+Wenn Sie es nicht schaffen, so lange zu arbeiten, weil Sie wirklich zu beschäftigt sind, versuchen Sie zumindest, jeden Tag zehn bis fünfzehn Minuten zu schaffen. 
+
+Stille und Ruhe sind der Weg, zum inneren Selbst zu beten.
+
+[Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

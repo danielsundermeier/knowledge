@@ -348,6 +348,36 @@ Ich habe dieses Geheimnis für den Schluss aufgehoben, weil ich nicht glaubte, d
 
 [15 Secrets Successful People Know About Time Management](https://www.goodreads.com/book/show/27139721-15-secrets-successful-people-know-about-time-management)
 
+## Monotasking vs. Multitasking
+
+Da der Fluss dem Fokus folgt, macht es ein einziger Fokus bei all unseren täglichen Aktivitäten einfacher, den Fluss zu erleben, wenn wir kreativ arbeiten. 
+
+Dabei wird die Fähigkeit, sich auf den Einzelnen zu konzentrieren, zur Gewohnheit. 
+
+Achten Sie also zusätzlich zu Ihren kreativen Aktivitäten darauf, sich auf alle Ihre täglichen Aktivitäten zu konzentrieren, auch beim Abrufen von E-Mails, beim Surfen im Internet, beim Hochladen von Bildern oder beim Aktualisieren Ihres Status. 
+
+Wenn Sie Multitasking betreiben, verkürzen Sie Ihre Aufmerksamkeitsspanne und verringern Ihre Produktivität. 
+
+Sie behindern auch Ihre Fähigkeit, wieder in den Fluss zu kommen, wenn Sie mit diesen Aktivitäten fertig sind.
+
+Versuchen Sie, „Monoaufgaben“ auszuführen, um Ihren Fokus und Ihre Aufmerksamkeit zu verbessern. 
+
+Erstellen Sie eine To-Do-Liste mit allen Dingen, die Sie heute erledigen möchten. 
+
+Dazu gehören hochwertige kreative Arbeiten wie Schreiben, Malen oder Fotografieren auf Ihrer Liste. 
+
+Dazu gehören auch das Aktualisieren Ihres Status auf Facebook, das Beantworten von E-Mails und das Hochladen von Bildern auf Instagram. 
+
+Sie werden feststellen, dass Sie alles auf Ihrer Liste schneller erledigen können, wenn Sie jeweils nur an einem arbeiten.
+
+Dieses Muster ist mir in meiner eigenen Arbeit immer wieder aufgefallen. 
+
+Wenn ich eine Episode meines Podcasts bearbeite und versuche, E-Mails, Facebook und Twitter abzurufen und dann den Podcast zu bearbeiten, dauert das bis zu neunzig Minuten. 
+
+Wenn ich mich auf nichts anderes als die Bearbeitung des Podcasts konzentriere, kann ich ihn in etwa dreißig Minuten bearbeiten, hochladen und zur Veröffentlichung vorbereiten.
+
+[An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

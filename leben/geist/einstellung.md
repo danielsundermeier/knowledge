@@ -92,6 +92,14 @@ Einem Menschen kann man alles nehmen, bis auf eines; die letzte menschliche Frei
 
 [Man’s Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
+## Mindset-Interventionen
+
+1. Erlernen der neuen Sichtweise
+2. Machen Sie eine Übung, die Sie dazu ermutigt, die neue Denkweise anzunehmen und anzuwenden
+3. Eine Gelegenheit bieten, die Idee mit anderen zu teilen
+
+[The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

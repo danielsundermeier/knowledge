@@ -450,6 +450,38 @@ Ich verwende sogar Mantras, um mich jugendlich und vital zu halten.
 
 [The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
 
+## Mentale Filme
+
+Eine Hauptursache für Unglück sind, wie ich es nenne, mentale Filme. 
+
+Mentale Filme sind ein Missbrauch der Fantasie. Du weißt, wie es geht. 
+
+Sie haben eine schmerzhafte Erfahrung mit jemandem und denken dann immer wieder darüber nach. 
+
+Sie visualisieren, was Sie gesagt haben, was er getan hat, wie Sie sich beide gefühlt haben. 
+
+So schrecklich es auch ist, man fühlt sich gezwungen, den Film Tag und Nacht zu wiederholen. 
+
+Es ist, als wäre man in einem Kino eingesperrt, in dem ein schrecklicher Film läuft.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Mantra
+
+Das Wort Mantra kommt von den beiden Sanskrit-Wörtern man („denken“) und tra („Werkzeug“). 
+
+Die wörtliche Übersetzung lautet also „ein Werkzeug des Denkens“. 
+
+Und so werden Mantras in buddhistischen und hinduistischen Praktiken verwendet, als Werkzeuge, die den Geist von Ablenkungen befreien. 
+
+Denn wenn Sie sich darauf konzentrieren, dieses Mantra immer und immer wieder zu wiederholen, wird der Lärm bald nachlassen und Sie werden nur noch Ihre innere Stimme hören.
+
+Ein klarer und fokussierter Geist hält ein Leben lang an. 
+
+Den Geist in Form zu bringen, ist nichts Geringeres als der Schlüssel zu nachhaltigem Erfolg in der Welt.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

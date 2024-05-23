@@ -307,6 +307,14 @@ Endlich kann man sehen. Sie können den Kampf, sich mit dem, was vor Ihnen liegt
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## Verschwindende Schmerzlücken
+
+Wir können anfangen zu erkennen, dass unser Schmerz zwischen dem liegt, was unserer Meinung nach passieren sollte, und dem, was tatsächlich passiert. 
+
+Wenn wir dann die geheime Forderung, dass dies oder jenes geschieht, beseitigen, verschwindet die Schmerzlücke.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

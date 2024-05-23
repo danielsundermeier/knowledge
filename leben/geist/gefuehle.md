@@ -91,6 +91,34 @@ Aber es funktioniert immer, wenn man dabei bleibt, egal wie lächerlich man sich
 
 [100 Ways To Motivate Yourself](https://www.goodreads.com/book/show/60311.100_Ways_To_Motivate_Yourself)
 
+## Psychische Meteorologie
+
+Die Grundidee besteht darin, sich nicht mit einem Gefühl der Depression zu identifizieren und es nicht als Teil des essentiellen Selbst zu betrachten. 
+
+Stattdessen untersuchen Sie es objektiv, so wie ein Wetterforscher eine dunkle Wolke untersuchen würde. 
+
+Eine solche Wolke würde einen Wissenschaftler nicht betrüben. 
+
+Auch sollte sich der Hellseher wegen der beobachteten Depression nicht deprimiert fühlen.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Bezeugen, bezeugen, bezeugen
+
+Du musst dich deiner Angst stellen. 
+
+Und machen Sie dasselbe mit Wut, machen Sie dasselbe mit Eifersucht, machen Sie dasselbe mit Hass. 
+
+Und ein wichtiger Punkt, den Sie sich merken sollten, ist: Wenn Sie Zeuge von etwas werden – Angst, Wut, Hass – wenn Sie einfach zusehen, wie es entsteht, ohne jegliches Urteil oder Verurteilung, werden sie verschwinden und eine enorme Menge an Energie zurücklassen, die Sie für Ihre Kreativität nutzen können. 
+
+Sie müssen es verwenden; Die Lecks sind verschwunden und Sie werden voller Energie sein. 
+
+Aber wenn Sie Ihre Liebe, Ihr Mitgefühl, Ihre Freundlichkeit und Demut bezeugen, werden sie nicht verschwinden. 
+
+Sie haben auch eine enorme Energie, aber je mehr Sie sie beobachten, desto stärker werden sie in Ihnen; sie werden dich überwältigen.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

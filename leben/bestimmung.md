@@ -908,6 +908,60 @@ Werden Sie Meister Ihres eigenen göttlichen, strahlenden kreativen Ausdrucks.
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Was ist Ihre Vision?
+
+Meiner Erfahrung nach gibt es nur eine Sache, die einen immer zum Erfolg führen wird: Eine Vision zu haben und daran festzuhalten. 
+
+Sobald ich eine Vision für ein neues Unternehmen habe, werde ich diese Vision verfolgen, bis sich die Räder lösen.
+
+Konzentrieren Sie sich auf Ihre Vision und machen Sie weiter, bis Sie die Ziellinie erreichen. 
+
+Gehören Sie nicht zu den Menschen, die zunächst an ihre Vision glauben, dann aber aufgeben. 
+
+Halte es durch, egal wie lange es dauert. 
+
+Verstehen Sie, dass Hindernisse nur ein Teil des Spiels sind. 
+
+Was auch immer Sie sich vorstellen, Sie können es erreichen. 
+
+Sobald Sie diese Wahrheit erkennen, wird Sie niemand mehr aufhalten können.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Unser höchstes Ziel
+
+Wenn ich auf eine Karriere zurückblicke, die sich über vier Jahrzehnte erstreckt, erkenne ich, wie konsequent das Grundthema meiner Arbeit, das in allem, was ich geschrieben habe, implizit eine zentrale Botschaft war: Ihr Leben ist wichtig. 
+
+Ob Sie im Leben erreichen, was Sie wollen, ist wichtig. 
+
+Ob du glücklich bist, ist wichtig. 
+
+Ehre und kämpfe für dein höchstes Potenzial. 
+
+Selbstverwirklichung – die Verwirklichung des Besten in dir – ist das edelste Ziel deiner Existenz.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
+## Nachahmung ist Verbrechen
+
+Jeder Mensch wird mit einer einzigartigen Individualität geboren und jeder Mensch hat sein eigenes Schicksal. 
+
+Nachahmung ist ein Verbrechen, sie ist kriminell. 
+
+Wenn du versuchst, ein Buddha zu werden, siehst du vielleicht wie Buddha aus, du gehst vielleicht wie er, du redest vielleicht wie er, aber du wirst es verfehlen. 
+
+Du wirst alles vermissen, was das Leben bereit war, dir zu bieten. 
+
+Buddha kommt nur einmal vor. Es liegt nicht in der Natur der Sache, sich zu wiederholen. 
+
+Die Existenz ist so kreativ, dass sie nie etwas wiederholt. 
+
+Sie können in der Gegenwart, in der Vergangenheit oder in der Zukunft keinen anderen Menschen finden, der Ihnen genau ähnelt. 
+
+Es ist noch nie passiert. Der Mensch ist kein Mechanismus wie Ford-Autos am Fließband. Imitieren Sie niemals jemanden.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

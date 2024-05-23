@@ -188,6 +188,42 @@ Richten Sie Ihre Aufmerksamkeit auf Hindernisse und Probleme, und sie vervielfac
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## In einem Kontext präsent sein
+
+Bei dem, was wir tun, präsent zu sein, bedeutet nicht, „im Jetzt zu sein“ und dabei jede Verbindung zu Vergangenheit und Zukunft aufzugeben. 
+
+Bewusstes Leben bedeutet, in der Gegenwart zu sein, ohne den größeren Kontext zu verlieren. 
+
+Der Kontext ist als Hintergrund da, und was wir tun, steht im Vordergrund. 
+
+Dann sind wir im Moment, aber nicht gefangen im Moment. Dies ist der Zustand, der optimales Handeln ermöglicht.
+
+Ich betone diesen Punkt, weil Gebote wie „Jetzt hier sein“ manchmal so interpretiert (oder falsch interpretiert) werden, dass sie bedeuten, dass das Bewusstsein auf den unmittelbaren Moment beschränkt wird, während der Rest des eigenen Wissens in Vergessenheit gerät und man sich nicht um die zukünftigen Konsequenzen kümmert die eigenen Taten. 
+
+Die ultimative Absurdität dieses Verständnisses von „Jetzt hier sein“ wird in der Karikatur festgehalten, die einen Mann zeigt, der von einem Wolkenkratzer fällt und mitten im Flug sagt: „So weit, so gut.“
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
+## Ein kognitiver Sportler, der raucht
+
+Diese Sucht verringert weit mehr als nur unsere Produktivität und verringert die Wahrscheinlichkeit kreativer Durchbrüche. 
+
+Es schadet langfristig unserer Fähigkeit, uns zu konzentrieren und präsent zu sein. 
+
+Es verwandelt uns in das, was Cal Newport als „das kognitive Äquivalent eines rauchenden Sportlers“ bezeichnet. 
+
+Unsere harmlosen „Schecks“, während wir im Supermarkt in der Schlange stehen oder einen Flug besteigen, sind nicht so harmlos, wie wir es uns vorstellen könnten. 
+
+Wenn wir ständig digitalen Ablenkungen nachgeben und unsere Aufmerksamkeit gedankenlos von App zu App und von Website zu Website verlagern, entsteht ein sogenannter Aufmerksamkeitsrückstand, der „die kognitive Leistung für einen nicht unerheblichen Zeitraum verringert.“ folgen.
+
+Was wir tun, bevor wir kreativ arbeiten, hat einen ebenso großen Einfluss wie die Art und Weise, wie wir arbeiten. 
+
+Wenn wir Stunden damit verbracht haben, unsere Aufmerksamkeit von einem äußeren Reiz zum nächsten schweifen zu lassen, wird es für uns viel schwieriger, unsere Aufmerksamkeit zu steuern, wenn wir arbeiten wollen. 
+
+Deshalb müssen wir der Versuchung widerstehen können, Ablenkungen nachzugeben, auch wenn wir nicht kreativ arbeiten.
+
+[An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

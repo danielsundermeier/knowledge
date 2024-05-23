@@ -1,5 +1,7 @@
 # Selbstwert
 
+> "Fire your inner critic and reinstate your inner fan club." - Alan Cohen
+
 ## Bedingungslosigkeit
 
 Selbstwert ist bedingunslos.

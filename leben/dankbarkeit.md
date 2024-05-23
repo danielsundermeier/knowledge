@@ -176,6 +176,12 @@ Jedes Mal, wenn wir ein Streichholz anzünden, ein Glas Wasser trinken, das Lich
 
 [Lead the Field](https://www.goodreads.com/book/show/825450.Lead_the_Field)
 
+## Frühstück der Champions
+
+Wenn ich meinen Tag damit beginne, über all die Dinge nachzudenken, für die ich dankbar sein muss, werde ich einen viel lohnenderen Tag haben.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

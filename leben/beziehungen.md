@@ -348,6 +348,90 @@ Die Praxis, eine Eins zu geben, transportiert Ihre Beziehungen aus der Welt der 
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## Blinzeln!
+
+Meinem Freund Ernie und mir wurde eine Audienz beim verehrten Swami Satchidananda gewährt, einem aufgeklärten Yogi, der ab den 1960er Jahren spirituelle Praktiken in Amerika einführte. 
+
+Mit seiner Anrufung eröffnete er das legendäre Woodstock-Musikfestival. 
+
+Mein Freund und ich wurden in die innere Kammer des Swami geführt und setzten uns vor ihn. 
+
+Zu dieser Zeit hatte Ernie gern tiefen, herzlichen Blickkontakt mit Menschen und tat sein Bestes, um in die Seele des Swami zu blicken. 
+
+Nach ein paar Minuten unseres Gesprächs drehte sich der Swami zu mir und fragte: „Warum starrt mich dieser Typ an?“ 
+
+Wir alle brachen in Gelächter aus, auch die sehr ernsten Schüler des Swami. 
+
+Es war wirklich ein Moment der Erleuchtung!
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Die Liebe meistern
+
+Psychische Selbstverletzung ist weder heroisch noch praktisch. 
+
+Sie können nicht sagen, dass Sie die Liebe gemeistert haben, bis Sie sich in ihre Umarmung einschließen. 
+
+Wenn Sie jeden in Ihrem Leben außer sich selbst glücklich machen, haben Sie den Sinn des Lebens und Liebens verfehlt. 
+
+Selbstachtung ist der Beginn wahren Dienstes. 
+
+Wenn Sie sich selbst pflegen, werden andere um Sie herum die Energie auffangen und Sie werden eine Welle des Wohlbefindens erzeugen, die die illusorischen Vorteile der Selbstaufopferung bei weitem übertrifft.
+
+Tu dir nichts an, was du nicht auch anderen wünschen würdest. 
+
+Tun Sie stattdessen alles für sich selbst, was Sie tun würden, um andere glücklich zu machen und die Welt wird für alle ein glücklicherer Ort sein.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Sie von oben aufzuheben, funktioniert nicht
+
+Sicherlich kann dir jemand helfen, aber am Ende musst du dir deine Heilung selbst erkaufen. 
+
+Entweder kauft man es mit Geld, weil man zu einem Berater oder Praktiker geht, oder man kauft es mit Energie. 
+
+Erzeugen Sie mehr Energie und heilen Sie Ihr Leben.
+
+Die Energie der Menschen zu steigern, indem man sie von oben hochhebt, funktioniert nicht. 
+
+Auf energetischer Ebene verlieren die Beine von Menschen den Kontakt zum Boden, wenn man nach unten greift und sie hochhebt. 
+
+Sie werden von der Realität, wo ihre Energie ist, abgekoppelt. 
+
+Sie verlieren den Blick für das, was wahr, real und machbar ist – was angesichts ihrer Energie heute machbar ist.
+
+Jetzt stellen Sie fest, dass Sie für sie verantwortlich sind und sie weiterhin aufrecht erhalten müssen. 
+
+Gott bewahre, wenn du sie jemals wieder im Stich lässt und sagst: „Hey, ich habe dir sechs Monate lang geholfen, jetzt bist du auf dich allein gestellt.“ 
+
+Wenn du das tust, werden sie extrem sauer sein, und sie werden es tun Sag allen, was für eine Ratte du bist. 
+
+Sie werden denken: „Moment mal; das scheint nicht gerecht zu sein. Ich habe diesem Kerl die ganze Zeit geholfen, und jetzt sagt er, was für eine Ratte ich bin.“ 
+
+Tatsache ist, dass Sie nach unten gegriffen und ihn hochgehoben haben. 
+
+Er war nicht unbedingt bereit. 
+
+Sie haben also seine Entwicklung beeinträchtigt, indem Sie versucht haben, seine Wahrnehmungen zu beschleunigen, seine Energie zu beschleunigen, ohne dass er darum gebeten hätte. 
+
+Oder vielleicht hat er darum gebeten, aber Sie haben ihm nicht gezeigt, wie er sich halten soll, und so ist er schließlich auf die Energie zurückgefallen, die für ihn angenehm ist, genau wie es subatomare Teilchen tun.
+
+[Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
+
+## Bodhisattvas: Die heroisch Gesinnten
+
+Buddha oder „der Erleuchtete“, wie er in dieser Phase seines Lebens von seinen Schülern genannt wurde, schlug vor, dass es einen Schritt gab, der weiter entwickelt war als die Erleuchtung oder die persönliche Befreiung vom Leiden. 
+
+Es ging darum, die gewonnene Weisheit und die Erfahrung höherer Führung mit anderen zu teilen und sie dadurch auf die gleiche Stufe zu heben. 
+
+Mitgefühl in Aktion. Liebe als ultimative Superkraft, verschlüsselt in völliger Selbsterkenntnis.
+
+Buddha nannte diejenigen, die sich zu diesem Stadium des Teilens der ultimativen Wahrheit entwickelt hatten, Bodhisattvas. 
+
+Es dürfte keine Überraschung sein, dass das Wort „Bodhisattva“ mit „heldenhaft gesinnter Mensch“ oder im allgemeinen Sprachgebrauch mit „Superheld“ übersetzt wird.
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

@@ -540,6 +540,78 @@ Das Verhalten, als wären sie junge Männer, hatte ihren Körper und Geist um Ja
 
 [The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
 
+## In Integrität sein
+
+Ich habe eine sehr einfache Definition von Integrität: Man ist in Integrität, wenn das, was man äußerlich tut, mit dem übereinstimmt, was man innerlich ist. 
+
+Ich respektiere Menschen, die kompromisslos leben. 
+
+Ich kenne Menschen, die Dinge tun, mit denen ich nicht einverstanden bin oder die ich selbst nicht tun würde, aber ich ehre sie dafür, dass sie zu 100 Prozent das sind, was sie sind. 
+
+Sie sind in Integrität.
+
+Das Erfolgsgeheimnis liegt darin, total zu sein. 
+
+Wenn Sie etwas tun wollen, dann tun Sie es wirklich. 
+
+Hinterfragen Sie sich nicht, lassen Sie nicht zu, dass Schuldgefühle Ihre Freude untergraben, und fragen Sie sich nicht, ob Sie woanders sein sollten. 
+
+Entweder tu es mit ganzem Herzen oder tu es nicht. Seien Sie total.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Das Ausweichen beenden
+
+Eine der häufigsten Formen, in denen Menschen im Alltag mit Widersprüchen konfrontiert werden, besteht darin, dass ihre offizielle Sicht auf sich selbst (ihr Selbstbild) mit einem Aspekt ihres Verhaltens kollidiert. 
+
+In einer solchen Situation haben sie drei Alternativen:
+
+- Sie können ihr Selbstverständnis überarbeiten.
+- Sie können ihr Verhalten ändern.
+- Oder sie können dem Widerspruch ausweichen.
+
+Die dritte Option scheint die beliebteste zu sein, vielleicht weil die Optionen eins und zwei schwierig sein können. 
+
+In solchen Fällen besteht das Motiv darin, das Selbstwertgefühl der Betrüger zu schützen oder dies vorzutäuschen. 
+
+Aber in Wirklichkeit untergraben sie das Selbstwertgefühl, weil sie auf einer tieferen Ebene wissen, was sie tun. 
+
+Ausweichen kann das Unterbewusstsein täuschen. 
+
+Irgendwo gibt es Wissen: Ich stehe im Widerspruch zur Realität; Ich halte mich durch Vermeidung und Verleugnung zusammen.
+
+Ein bewusstes Leben spiegelt die Überzeugung wider, dass das Sehen der Blindheit vorzuziehen ist; dass der Respekt vor den Tatsachen der Realität zu befriedigenderen Ergebnissen führt als die Missachtung der Tatsachen der Realität; dieses Ausweichen macht das Unwirkliche nicht wirklich oder das Wirkliche unwirklich; dass es mir besser nützt, meine Fehler zu korrigieren, als so zu tun, als ob sie nicht existieren; und dass ich umso klüger und effektiver handeln kann, je bewusster ich mir der Tatsachen bewusst bin, die sich auf mein Leben und meine Ziele auswirken.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
+## Merkmale des universellen Selbst
+
+Bestimmte Persönlichkeitsmerkmale werden deutlich, wenn wir mit unserem universellen Selbst in Kontakt kommen.
+
+Wir sind immun gegen Kritik, reagieren aber auf Feedback. 
+
+Das bedeutet, dass wir uns auf emotionaler, psychologischer und spiritueller Ebene weder unterlegen noch anderen überlegen fühlen. 
+
+Das bedeutet nicht, dass wir arrogant oder überheblich sind, sondern dass wir ein ruhiges Selbstvertrauen und eine Würde ausstrahlen, die zu Furchtlosigkeit und der Bereitschaft führen, jede Herausforderung kreativ anzunehmen. 
+
+Es bedeutet auch, dass wir niemals Opfer von Selbstgefälligkeit werden, da wir wissen, dass jede Selbstgefälligkeit eine Form von Selbstmitleid in der Tarnung ist.
+
+Wir verzichten auf das Bedürfnis nach Genehmigung und Kontrolle. 
+
+Das bedeutet, dass unser Handeln unabhängig von der Meinung anderer und losgelöst von Erwartungen ist. 
+
+Wir werden durch unsere eigenen starken Instinkte und deren evolutionäres Ergebnis motiviert, nicht durch die Erwartung einer Gegenleistung.
+
+Wir stärken andere, indem wir ihnen erlauben, sie selbst zu sein. 
+
+Das bedeutet, dass wir ohne Vorbedingungen und Vorurteile auf Menschen reagieren. 
+
+Wir akzeptieren Menschen so, wie sie sind, und zwingen sie nicht, sich unseren Bedürfnissen und Erwartungen anzupassen. 
+
+Auf diese Weise befähigen wir auch andere, ihr volles Potenzial auszuschöpfen.
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

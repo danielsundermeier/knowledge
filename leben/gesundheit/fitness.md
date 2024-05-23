@@ -202,6 +202,20 @@ Wenn Sie ein Leben lang fit bleiben möchten, ist es wichtig, klug anzufangen.
 
 [No Sweat](https://www.goodreads.com/book/show/23875809-no-sweat)
 
+## Hören Sie auf Ihren Körper
+
+Ein Teil davon, auf sich selbst zu hören, bedeutet, auf seinen Körper zu hören. 
+
+Es ist schwer, kreativ Höchstleistungen zu erbringen, wenn man körperlich nicht in Bestform ist. 
+
+Kreative Gewohnheiten erfordern Energie. 
+
+Energie kommt aus der richtigen Selbstfürsorge in Form von Schlaf, Ernährung und Bewegung. 
+
+Ohne ausreichende Mengen von allen dreien haben Sie sich selbst ein Handicap auferlegt und können Ihre maximale Kreativität nicht aufrechterhalten.
+
+[An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

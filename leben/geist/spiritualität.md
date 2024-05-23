@@ -126,6 +126,104 @@ Unglücklich sein wird nie wieder eine große Sache sein, denn Sie werden es gen
 
 [Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
 
+## Die Stimme, die immer wieder klopft
+
+Der Unterschied zwischen denen, die die Welt voranbringen, und denen, die im Trott stecken bleiben, besteht darin, dass die Weltbeweger der Stimme vertrauen, die immer wieder klopft, und danach handeln. 
+
+Sie können und werden zu den Machern gehören, wenn Sie dem anhaltenden Ruf der Größe folgen und sich ihm anschließen.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Die Physik des spirituellen Wachstums
+
+Es kann unangenehm sein, sich selbst anzusehen. 
+
+Es ist schwierig zu lernen, das Ego zu kontrollieren und den Geist zu disziplinieren, ohne dass er reagiert. 
+
+Es ist jedoch ein wichtiger Teil der Reise und Sie müssen Ihre Energie über einen bestimmten Zeitraum hinweg schrittweise steigern. 
+
+Ich glaube nicht, dass eines Tages etwas oder jemand auf dich herabsteigen und dich aufrichten wird – ein großer Guru, Jesus oder irgendein Engelwesen –, dass er dich an der Stirn berühren wird, und plötzlich bist du.
+
+Ich werde auf eine höhere Ebene gehoben. 
+
+Es tut mir leid, wenn das Ihren Überzeugungen widerspricht, aber Energie sucht ihr eigenes Niveau. 
+
+Auch wenn dich etwas oder jemand inspirieren oder lehren kann, besteht die einzige Möglichkeit, eine höhere Energie aufrechtzuerhalten, darin, sie für dich selbst zu erschaffen.
+
+Den Gesetzen der Physik zufolge kann ein subatomares Teilchen für eine Millisekunde Energie aufnehmen und sich so auf eine schnellere Umlaufbahn um einen Kern bewegen. 
+
+Allerdings kann das Teilchen diese geliehene Energie nicht unbegrenzt behalten. 
+
+Die in dieser Sekunde geliehene Energie muss also einen Sekundenbruchteil später zurückgezahlt werden, und das Teilchen kehrt (zerfällt) dorthin zurück, wo es sich wohlfühlt, nämlich auf dem Energieniveau, das es zuvor hatte.
+
+Spirituelles Wachstum folgt den gleichen Regeln. 
+
+Sie können sich von einer Hymne, einer fantastischen Predigt, Worten aus einem Buch inspirieren lassen; Aber diese Inspiration kann man sich nur ausleihen. 
+
+Letztendlich erfordert die Steigerung Ihrer Energie Disziplin, das heißt, an sich selbst zu arbeiten. 
+
+Es gibt keinen bestimmten Zeitpunkt, an dem Sie sagen können: „Ich habe es geschafft, ich bin fertig.“ 
+
+Das Umarmen des Unendlichen Selbst ist ein fortwährender Prozess, der sich für immer und ewig in dir entfaltet. 
+
+Nur so können Sie sich auf unbestimmte Zeit auf einem höheren Niveau halten.
+
+[Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
+
+## Schritt 1: Sehen Sie die göttliche Kraft in Ihnen
+
+Der erste der 33 Schritte heißt „Ich bin Gott“. 
+
+Sie fragen sich vielleicht: „Wer ist dieser kleine Kerl, der sagt: ‚Ich bin Gott‘?“ 
+
+Was ich damit meine, ist, dass Sie die Vorstellung akzeptieren müssen, dass die Gotteskraft in Ihnen ist.
+
+Wenn die Gotteskraft überall ist, muss sie offensichtlich in dir sein. 
+
+Aber die meisten Menschen haben entweder überhaupt keine Vorstellung von Gott, oder sie veräußerlichen Gott und erschaffen einen Gott außerhalb ihrer selbst. 
+
+Indem sie ihren Intellekt einsetzen, um Gott zu verstehen, müssen sie die Idee von sich selbst wegprojizieren. 
+
+Sie werden also sagen: „Diese Person ist Gott, diese Ideen sind Gott, Geld ist Gott, Glamour ist Gott“, was auch immer.
+
+Die Gotteskraft ist im Inneren. Verinnerlichen Sie diese Gotteskraft und akzeptieren Sie, dass sie durch Sie fließt. 
+
+Wenn Sie Gott als eine Kraft außerhalb von Ihnen wahrnehmen, können Sie seine Energie nicht richtig nutzen. 
+
+Sobald Sie die Kraft verinnerlicht haben und es sich nicht nur um eine vage intellektuelle Vorstellung vom Gott in Ihnen handelt, können Sie dazu übergehen, die Kraft Gottes in Ihrem Inneren tatsächlich zu spüren. 
+
+An diesem Punkt tritt eine wirklich beeindruckende Kraft der Wahrnehmung und des Guten in Ihr Leben ein.
+
+[Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
+
+## Geist: Eine Aufforderung zum Aufstieg
+
+Es ist leicht zu glauben, dass das Leben eines Menschen einen spirituellen Mittelpunkt hat, wenn er sonntags in die Kirche geht, eine Predigt hört und ein paar Kirchenlieder singt. 
+
+Eine solche Praxis kann jedoch das Gegenteil von dem sein, was wir uns vorstellen: Sie kann den Geist in einer selbstgefälligen Kontemplation über das bequem Akzeptierte, die Überzeugungen, mit denen man erzogen wurde, festhalten. 
+
+Im Gegensatz dazu ist der Geist ein Aufruf, sich zu erheben, die Grenzen des Vertrauten zu sprengen und zu überschreiten.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
+## Sei nett zu dir selbst
+
+In der spirituellen Literatur spielt die Idee der „Selbsttranszendenz“ oft eine herausragende Rolle. 
+
+Es geht oft mit der „Auflösung des Egos“ einher. 
+
+Die Prämisse ist, dass die Entwicklung des Bewusstseins unweigerlich zur Erkenntnis führt, dass das Selbst ein Gefängnis ist, dem man entkommen muss.
+
+Wir können über die Überwindung eines begrenzten Selbstkonzepts sprechen. 
+
+Wir können nicht – rational – über die Transzendierung des Selbst sprechen. 
+
+Wir können über die Überwindung eines übermäßig eingeschränkten Ego-Konzepts sprechen. 
+
+Wir können nicht – rational – über die Überwindung des Egos sprechen (nicht, wenn wir verstehen, was das Ego wirklich ist, und es nicht mit Eitelkeit oder Abwehrhaltung assoziieren).
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
 ## Orte
 
 - [Benediktushof](https://www.benediktushof-holzkirchen.de) - Zentrum für Meditation und Achtsamkeit

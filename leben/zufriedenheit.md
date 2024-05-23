@@ -910,6 +910,72 @@ Interessanterweise werden Sie auch ein tiefes Gefühl innerer Harmonie verspüre
 
 [The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
 
+## Die 9 Lektionen für dauerhaftes Glück
+
+- Celebrate Your Progress
+- Just Do the Right Next Thing
+- Put Character First
+- Find What You Love and Do It
+- Live What You Believe
+- Be Disciplined
+- Simplify
+- Focus on What You Are Here to Give
+- Patiently Seek the Good in Everyone and Everything
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Machen Sie Fortschritte?
+
+Machen Sie Fortschritte? 
+
+Es ist eine wichtige Frage, die wir uns stellen sollten: „Mache ich Fortschritte?“ 
+
+Ich habe nicht viel Erfahrung damit, perfekt zu sein, aber ich habe beträchtliche Erfahrung damit, Fortschritte zu machen. 
+
+Ich weise darauf hin, weil ich ein glücklicherer Mensch bin, wenn ich Fortschritte mache, als wenn ich von einer idyllischen Vision der Perfektion besessen bin, die ich nicht erreichen kann. 
+
+Fortschritt belebt uns. Es erweckt uns zum Leben. 
+
+Wenn wir spüren, dass wir Fortschritte machen, neigen wir dazu, von Leidenschaft, Energie, Enthusiasmus, Zielstrebigkeit und einer echten und nachhaltigen Freude erfüllt zu sein. 
+
+Fortschritt erfüllt uns mit Dankbarkeit für das Jetzt und Hoffnung für die Zukunft. 
+
+Fortschritt schafft dauerhaftes Glück.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Vereinfachen. Vereinfachen. Vereinfachen.
+
+Hören Sie zu, wie ich Ihnen drei der kraftvollsten Worte der Geschichte ins Ohr flüstere. 
+
+Die großen Künstler und Wissenschaftler wissen um die Kraft dieser Worte. 
+
+Lassen Sie zu, dass diese drei Worte jeden Winkel Ihres Wesens und jeden Aspekt Ihres Lebens durchdringen, und Sie werden ein Leben von einer Authentizität führen, die Sie selten erlebt haben.
+
+Vereinfachen. Vereinfachen. Vereinfachen.
+
+Welche Bereiche Ihres Lebens sind verwirrend, überlastet oder überfüllt? 
+
+Einfachheit ist der Weg zur Klarheit.
+
+Wir verkomplizieren unser Leben, weil wir nicht wissen, was wir wollen.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Wie viel Intensität können Sie aufbringen?
+
+Tun Sie die Dinge mit ganzem Herzen und so intensiv, wie Sie können.
+
+Es kommt nicht darauf an, welchem Teil Sie folgen, sondern ob Sie sich ganz darauf einlassen oder nicht. 
+
+In seinem Handeln vollkommen zu sein macht Freude. 
+
+Sogar eine gewöhnliche, triviale Handlung, die mit voller Intensität ausgeführt wird, verleiht Ihrem Wesen einen Glanz, eine Erfüllung, eine Fülle, eine tiefe Zufriedenheit. 
+
+Und alles, was halbherzig getan wird, wird, so gut es auch sein mag, Unglück bringen.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

@@ -186,3 +186,88 @@ Wir mögen die Energie, die das Wort Disziplin umgibt, nicht, vielleicht aufgrun
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Tapas
+
+In der Yoga-Tradition wird dieses Prinzip, mit intensiver Anstrengung die Ablenkungen des Lebens zu überwinden, Tapas genannt. 
+
+Es ist ein anderes Sanskrit-Wort, das grob als „Wärme“ oder „wesentliche Energie“ definiert wird. 
+
+Das Konzept besteht darin, dass Tapas durch eine disziplinierte Arbeitsweise und Selbstaufopferung die Negativität verbrennen, die uns von Gott trennt. 
+
+Indem wir unser Bestes geben und die Strapazen des Lebens glücklich ertragen, können wir ein Gefühl von Frieden und Klarheit in uns selbst schaffen.
+
+Die Person, die den Dharma versteht, wird auf eine „harte“ Arbeit die gegenteilige Reaktion haben. 
+
+Diese Person wird begierig darauf sein, loszulegen, egal welche Arbeit vor ihr liegt, weil sie versteht, dass sie Gottes Werk tut. 
+
+Und wenn man für Gott arbeitet, ist nichts zu schwer.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Macht entsteht durch Disziplin
+
+Disziplin ist wichtig, denn ohne sie kann man den Geist nicht kontrollieren. 
+
+Wenn du dich nicht beherrschen kannst, bist du immer ein Opfer des inneren Görs; Anstatt ein spiritueller Erwachsener zu werden, bleibst du im spirituellen Sinne ein Heranwachsender.
+
+Sie müssen also anfangen, Dinge zu tun, die Ihnen dabei helfen, die Kontrolle auszuüben. 
+
+Erwähnen Sie Disziplin, und die meisten Menschen fliehen, als ob die Mongolen gerade dabei wären, von den Hügeln herunterzukommen. 
+
+Es ist komisch, welche Schwankungen das Ego durchmachen wird, anstatt Ihre Autorität darüber zu akzeptieren. 
+
+Ich denke, es ist am besten, sich schrittweise daran heranzutasten. 
+
+Erfinden Sie Dinge, eine nach der anderen – einige Disziplinen sind untergeordneter Natur, andere wichtiger, aber gewöhnen Sie Ihr Ego an die Vorstellung, dass Sie es dazu bringen werden, Dinge zu tun, die ihm nicht unbedingt gefallen. 
+
+Man muss die Vorstellung erkaufen, dass man die Kontrolle hat. 
+
+Im Großen und Ganzen spielt es keine Rolle, welche Disziplinen Sie wählen, solange Sie sich für etwas entscheiden.
+
+[Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
+
+## Disziplin <—> Glück
+
+Ohne Disziplin kann man nicht glücklich sein. 
+
+Wenn Sie den Grad des Glücks in Ihrem Leben messen möchten, messen Sie tatsächlich Ihren Grad an Disziplin. 
+
+Du wirst nie mehr Glück haben, als du Disziplin hast. 
+
+Beide sind direkt miteinander verknüpft. 
+
+Wenn Sie das Maß an Erfüllung und Glück in einem bestimmten Bereich Ihres Lebens steigern möchten, erhöhen Sie Ihr Maß an Disziplin in diesem Bereich Ihres Lebens. 
+
+Wenn Sie andererseits das Gefühl haben, dass Sie die meiste Zeit insgesamt zu glücklich sind, sollten Sie darüber nachdenken, die Disziplin in Ihrem Leben zu verringern. 
+
+Disziplin und Glück hängen direkt zusammen.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Wahre Disziplin ist Selbstdisziplin
+
+Ich bin nicht gegen Regeln, aber die Regeln sollten sich aus Ihrem Verständnis ergeben. 
+
+Sie sollten nicht von außen aufgezwungen werden. 
+
+Ich bin nicht gegen Disziplin! Aber Disziplin sollte keine Sklaverei sein. 
+
+Alle wahre Disziplin ist Selbstdisziplin. 
+
+Und Selbstdisziplin steht niemals im Widerspruch zur Freiheit – sie ist vielmehr die Leiter zur Freiheit. 
+
+Nur disziplinierte Menschen werden frei, aber ihre Disziplin ist nicht Gehorsam gegenüber anderen: Ihre Disziplin ist Gehorsam gegenüber ihrer eigenen Stimme. 
+
+Und sie sind bereit, dafür alles zu riskieren.
+
+Lassen Sie Ihr eigenes Bewusstsein über Ihren Lebensstil und Ihr Lebensmuster entscheiden. 
+
+Erlaube niemand anderem, darüber zu entscheiden. 
+
+Es ist eine Sünde, es jemand anderem zu überlassen, darüber zu entscheiden. 
+
+Warum ist es eine Sünde? Weil du niemals in deinem Leben sein wirst. Es wird oberflächlich bleiben, es wird Heuchelei sein.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
+

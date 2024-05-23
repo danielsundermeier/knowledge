@@ -16,6 +16,8 @@ Mut ist nicht die Abwesenheit von Angst. Mut ist die Bereitschaft, trotz der Ang
 
 Angst vor einem Namen oder einer Bezeichnung stärkt die Angst vor der Sache selbst. Wir sollten immer alles beim Namen nennen.
 
+> "Fear is not the enemy. Waiting to stop feeling afraid is." - Marie Forleo
+
 ## Wegweiser
 
 Angst = Unsicherheit * Ohnmacht
@@ -342,6 +344,54 @@ Was für Sie bleibt, ist pure Freude. Es ist die Freude, jemand zu sein, der man
 Sie erfinden sich neu, indem Sie Dinge tun, die „Sie“ nicht tun würden, und dabei erkennen Sie, dass es überhaupt kein festes und dauerhaftes „Sie“ gibt.
 
 [Reinventing Yourself](https://www.goodreads.com/book/show/93360.Reinventing_Yourself)
+
+## Wütend? Wovor hast du Angst?
+
+Wut ist Angst unter Druck. 
+
+Hinter jeder wütenden Aufregung steckt eine Angst. 
+
+Wenn Sie versuchen, mit der Wut allein auf der Ebene der Wut umzugehen – indem Sie ihr entweder Luft machen oder sie unterdrücken –, manipulieren Sie das Symptom, ohne die Ursache anzugehen. 
+
+Wenn Sie die Angst hinter der Wut entdecken und sie im Lichte des Bewusstseins abbauen können, verschwindet die Wut. 
+
+Wenn Sie das nächste Mal wütend sind, fragen Sie sich: Wovor habe ich Angst?
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Riddikulus!
+
+Der Film „Harry Potter und der Gefangene von Askaban“ zeigt eine Gruppe junger Zauberer in der Ausbildung, die vor einem imposanten Schrank – einer Boggart-Box – stehen, in der sich furchteinflößende Gestaltwandler befinden, die die Gestalt dessen annehmen, was ein Mensch am meisten fürchtet. 
+
+Glücklicherweise, erklärt Professor Lupin, gibt es einen ganz einfachen Zauber, um einen Boggart abzuwehren: „Riddikulus!“ 
+
+Nachdem die Schüler den Zauber geübt haben, erklärt der Professor, dass das, was einen Boggart wirklich fertig macht, das Lachen ist. 
+
+Einer nach dem anderen kommen die Boggarts hervor, und als die Schüler „Riddikulus!“ ausrufen und sie auslachen, schrumpfen sie zu humorvollen, nicht bedrohlichen Formen zusammen.
+
+Eine wahrere Lehre wurde nie offenbart.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Drücken Sie sich ohne Angst aus
+
+Drücken Sie sich auf so viele Arten wie möglich aus, ohne Angst zu haben. 
+
+Es gibt nichts zu befürchten, es gibt niemanden, der Sie bestrafen oder belohnen wird. 
+
+Wenn Sie Ihr Wesen in seiner wahrsten Form, in seinem natürlichen Fluss, zum Ausdruck bringen, werden Sie sofort belohnt – nicht morgen, sondern heute, hier und jetzt. 
+
+Sie werden nur dann bestraft, wenn Sie gegen Ihre Natur verstoßen. 
+
+Aber die Strafe ist eine Hilfe, sie ist lediglich ein Hinweis darauf, dass Sie sich von der Natur entfernt haben, dass Sie ein wenig in die Irre gegangen sind, vom Weg abgekommen sind – kommen Sie zurück. 
+
+Bestrafung ist keine Rache, nein. 
+
+Bestrafung ist nur ein Versuch, dich aufzuwecken: „Was machst du?“ Etwas stimmt nicht, etwas läuft gegen dich. 
+
+Deshalb gibt es Schmerz, Angst und Kummer.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
 
 ## Bücher
 

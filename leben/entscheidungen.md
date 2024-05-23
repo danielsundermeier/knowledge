@@ -276,6 +276,24 @@ Entscheidungen offenbaren Chancen.
 
 [The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
 
+## Fangen Sie an, sich selbst zu sagen, was Sie tun sollen
+
+Niemand außer Ihnen selbst kann Ihnen sagen, was für Sie richtig ist. 
+
+Fangen Sie also an, sich selbst zu sagen, was Sie tun sollen. 
+
+Wenn du zehn Jahre lang Fehler machst und dabei selbst denkst, ist das ein großer Schatz im Vergleich dazu, diese zehn Jahre unter der geistigen Herrschaft eines anderen zu leben. 
+
+Die einzig wahre, ehrliche und bereichernde Autorität ist die interne Autorität Ihres eigenen Superminds.
+
+Suchen Sie nicht nach jemandem, an den Sie glauben können. 
+
+An sich selbst glauben. 
+
+Die einzige authentische Autorität ist Ihre eigene ursprüngliche Natur.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

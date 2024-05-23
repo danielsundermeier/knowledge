@@ -518,6 +518,14 @@ Gehen Sie also aufs Ganze und verfolgen Sie diesen Traum, bis er Wirklichkeit wi
 
 [Elevate and Dominate](https://www.goodreads.com/book/show/199799649-elevate-and-dominate)
 
+## Sehmuskeln
+
+Üben Sie klares Sehen. Was möchten Sie erstellen? 
+
+Fragen Sie sich, was Sie wirklich wollen, warum Sie es wirklich wollen und ob es einem höheren Zweck für die Menschheit dient, es zu manifestieren.
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

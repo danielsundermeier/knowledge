@@ -172,6 +172,105 @@ Mit anderen Worten: Wenn man sich der Herausforderung stellt, sagt man: „Das w
 
 [Above the Line](https://www.goodreads.com/book/show/25489423-above-the-line)
 
+## Selbstvertrauen, definiert
+
+Meine grundlegende Definition von Selbstvertrauen (eines, das Ihnen tatsächlich dabei hilft, gute Leistungen zu erbringen) lautet also: ein Gefühl der Gewissheit über Ihre Fähigkeiten, das es Ihnen ermöglicht, bewusste Gedanken zu umgehen und unbewusst auszuführen.
+
+Brechen Sie es mit mir auf:
+
+1. ein Gefühl der Gewissheit – das Gefühl, vollkommenen Glauben zu haben
+2. über Ihre Fähigkeiten – dass Sie etwas können oder dass Sie etwas wissen
+3. was es Ihnen ermöglicht, bewusstes Denken zu umgehen – so dass Sie nicht darüber nachdenken müssen
+4. und unbewusst ausführen – Sie führen es also automatisch und instinktiv aus.
+
+Selbstvertrauen ist das Gefühl, dass man etwas so gut kann (oder dass man etwas weiß), dass man nicht darüber nachdenken muss, wie man es macht, wenn man es tut. 
+
+Diese Fähigkeit oder dieses Wissen steckt in Ihnen, es ist ein Teil von Ihnen und wird bei Bedarf zum Vorschein kommen, wenn Sie es zulassen.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
+## Das psychologische Bankkonto des Selbstvertrauens
+
+Es ist also nicht übertrieben, sich Ihr Selbstvertrauen, dieses Gefühl der Gewissheit über sich selbst und Ihre Fähigkeiten, als die Summe all Ihrer Gedanken über sich selbst und Ihre Fähigkeiten vorzustellen. 
+
+In der Welt der menschlichen Leistung ist Ihr Vertrauen in Ihren Sport, Ihr Spiel oder Ihren Beruf die Summe all Ihrer Gedanken über diesen Sport, dieses Spiel oder diesen Beruf.
+
+Aber diese Summe ist keine statische, ein für alle Mal gültige Bilanz. 
+
+Stattdessen ändert es sich ständig, da jeder einzelne neue Gedanke und jede neue Erinnerung hinzugefügt wird, was es zu einer „laufenden Summe“ macht, einer momentanen Summe von allem, was Sie über sich selbst und Ihre Fähigkeiten gedacht haben, eine Summe, die sich ständig ändert abhängig davon, 
+
+(1) wie Sie gerade denken, 
+(2) auf welche Aspekte Ihrer Erfahrung Sie sich zu einem bestimmten Zeitpunkt konzentrieren und auf die Sie verweilen möchten und 
+(3) wie viel Emotion Sie in welche bestimmten Gedanken und welche bestimmten Erinnerungen investieren. 
+
+Auf diese Weise ist das menschliche Selbstvertrauen im Wesentlichen ein psychologisches „Bankkonto“, ein Speicherort Ihrer Gedanken über sich selbst und das, was in Ihrem Leben passiert.
+
+So wie der Saldo eines Bankkontos am Ende des Tages davon abhängt, wie viel darauf eingezahlt oder davon abgehoben wird, steigt und fällt auch das psychologische Bankkonto des Vertrauens, je nachdem, wie Sie in einem bestimmten Moment denken. 
+
+Zahlen Sie auf diesem Bankkonto Erinnerungen an vergangene Erfolge, Erinnerungen an Fortschritte oder Verbesserungen und Gedanken über zukünftige Verbesserungen und Erfolge ein, und schon wächst das „Guthaben“. 
+
+Ziehen Sie sich von diesem Konto zurück, indem Sie vergangene Rückschläge und Schwierigkeiten noch einmal durchspielen oder sich auf mögliche zukünftige Rückschläge und Schwierigkeiten fixieren, und das „Gleichgewicht“ schrumpft. 
+
+Um Selbstvertrauen zu gewinnen, es zu schützen und mit Zuversicht aufzutreten – also den ersten Sieg zu erringen –, kommt es auf die Verwaltung Ihres psychologischen Bankkontos an.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
+## Deine mentale Festung
+
+Sie können sich gegen jede unerwartete Wendung der Ereignisse und auch gegen alle bekannten und erwarteten Schwierigkeiten des Lebens wappnen, indem Sie sich eine persönliche mentale Festung errichten, eine garantiert narrensichere Bank, die Ihr persönliches Treuhandkonto verwaltet.
+
+Wie baut man diese Bank auf? 
+
+Sie beginnen mit einigen starken Grundlagen, und da es sich um ein mentales Bankkonto handelt, sind Ihre Grundlagen natürlich auch mental. 
+
+Es gibt vier mentale Säulen, mit denen wir beginnen, vier Faktoren, die die gesamte menschliche Leistung beeinflussen. Sobald Sie sie akzeptieren, wird Ihnen das Streben nach Exzellenz viel klarer vor Augen geführt und Sie werden die Gewissheit haben, dass Sie eine dauerhafte Struktur aufbauen können.
+
+Vielleicht haben Sie das bekannte „Serenity Prayer“ gesehen.
+
+> Gott, schenke mir die Gelassenheit, die Dinge hinzunehmen, die ich nicht ändern kann, den Mut, die Dinge zu ändern, die ich ändern kann, und die Weisheit, das eine vom anderen zu unterscheiden.
+
+Ich mag das Wort Gelassenheit. 
+
+Es suggeriert ein gewisses Maß an innerem Frieden, ein gewisses Maß an geistiger Ruhe, eine stabile Grundlage, auf der Wachstum und Entwicklung stattfinden können. 
+
+Um Vertrauen zu schaffen und den ersten Sieg zu erringen, ist diese Gelassenheit das Fundament der Festung, in der sich Ihr mentales Bankkonto befindet. 
+
+Und Sie schaffen diese Grundlage der Gelassenheit, indem Sie vier Realitäten menschlicher Leistung akzeptieren, die Sie nicht ändern können. Diese vier Säulen sind (1) die Geist-Körper-Verbindung, (2) die menschliche Unvollkommenheit, (3) die Wirkung des autonomen Nervensystems und (4) die verzögerte Rückkehr fortgesetzter Praxis. Wir können uns dafür entscheiden, diese konkreten Realitäten unserer menschlichen Existenz zu ignorieren und ihnen zu widerstehen, oder wir können uns dafür entscheiden, sie anzuerkennen und mit ihnen zu arbeiten. Der erste Weg führt zu Stagnation und Mittelmäßigkeit, der zweite Weg zu Wachstum und Erfolg. Es ist deine Entscheidung.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
+## Ihre Top Ten
+
+Für alle unter Ihnen, die mit dem Glauben aufgewachsen sind, dass Sie sich an Ihre Fehler und Unvollkommenheiten erinnern sollten, um erfolgreich zu sein, stellen diese Übungen eine große Veränderung Ihrer Denkgewohnheiten dar. 
+
+Wie gut funktionieren diese aktuellen Denkgewohnheiten für Sie? 
+
+Gewinnen Sie jeden Tag an Selbstvertrauen, egal was Ihnen passiert, wenn Sie so denken? 
+
+Oder um Bob Rotella aus seinem Buch Your 15th Club zu paraphrasieren: „Steht Ihre gegenwärtige Denkweise im Einklang mit dem Erfolgsniveau, das Sie gerne hätten? Hilft es Ihnen herauszufinden, wie gut Sie sein könnten?  Und traust du dich, es zu ändern?“
+
+Lasst uns diesen Mut wagen! Fangen Sie an, Ihre Erinnerungen zu verwalten und so viel „Geld“ wie möglich auf Ihr mentales Bankkonto einzuzahlen.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
+## Affirmationen
+
+Beenden Sie Ihren Tag, indem Sie jede der drei Affirmationen, die Sie zusammengestellt haben, jeweils mindestens dreimal in ein Notizbuch oder Tagebuch schreiben. 
+
+Jeder, der es ernst meint, seinen ersten Sieg zu erringen, kann sich fünf Minuten Zeit nehmen, bevor er sich auf dieses Training zurückzieht. 
+
+Lassen Sie beim Schreiben jeder Ihrer Affirmationen ein starkes inneres Gefühl entstehen. 
+
+Wenn Sie eine Fertigkeit oder Aktion bestätigen („Meine schnellen Füße passen zu meinem Gegner“), spüren Sie, wie Sie es tun. 
+
+Wenn Sie ein Ergebnis bestätigen („Ich bin der Vertriebsprofi des Jahres 2020“), spüren Sie das Erfolgserlebnis, das dieses Ergebnis mit sich bringen würde. 
+
+Wenn Sie die letzten Gedanken Ihres Tages persönlich, positiv und kraftvoll gestalten, erhalten die unterbewussten Teile Ihres Geistes nützliches Material, das sie im Schlaf verarbeiten können, ohne dass Ihr Bewusstsein eingreift. 
+
+Vielleicht stellen Sie sogar fest, dass es zu einem ruhigeren Schlaf führt, wenn Sie den Tag mit diesen guten Gefühlen beenden.
+
+[The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

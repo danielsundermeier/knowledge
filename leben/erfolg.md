@@ -667,6 +667,42 @@ Jeder von uns ist auf dem Planeten Erde angekommen, um an dem Abenteuer der Erfo
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Entscheide dich für das Licht im Inneren
+
+Auf die Frage, wie man angesichts des großen Kommerzials ein Individuum bleiben könne, schlug Bradbury vor: „Lebe einfach dein Leben und schreibe deine Geschichten.
+
+Wenn Sie sich vorgenommen haben, einen Bestseller zu schreiben, ist das nicht möglich. 
+
+Menschen, die versuchen, sich einen Namen zu machen, werden in der Regel von Menschen übertroffen, die ihre Freude und Talente authentisch zum Ausdruck bringen.“
+
+Diejenigen, die ihren Namen im Licht sehen, übersehen normalerweise das Licht in sich selbst. 
+
+Sie stellen Ruhm und Ehre an die Spitze der Erfolgsleiter und übersehen persönliche Zufriedenheit und kreativen Ausdruck. 
+
+Menschen, die schwitzen, um Stars zu werden, tun dies selten, während diejenigen, die leben, um ihre Gaben zu teilen und den Ritt zu genießen, oft den Weg in die oberen Ränge des Erfolgs finden.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Ein Segen sein
+
+Meiner Meinung nach bestand sein Problem darin, dass er jeden Tag aufwachte und versuchte herauszufinden, was er bekommen konnte, anstatt aufzuwachen und herauszufinden, was er geben konnte. 
+
+Anstatt um einen Segen zu bitten, hätte er üben sollen, ein Segen zu sein.
+
+Die Wissenschaft ist einfach: Wenn du der Welt Liebe und Respekt gibst, wird die Welt dir Liebe und Respekt zurückgeben.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Wie kann ich behilflich sein?
+
+Wie alle Superheldengeschichten ist die von Iron Man eine übertriebene Metapher für eine Sichtweise auf das eigene Leben. 
+
+Man muss kein Waffenhersteller sein, der zum wohlwollenden Superhelden geworden ist, um die Superkraft der Kreativität zu entfalten. 
+
+Tatsächlich ist es viel einfacher. Stellen Sie sich heute eine Frage: Wie kann ich Ihnen behilflich sein?
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

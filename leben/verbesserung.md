@@ -976,6 +976,96 @@ Wenn Sie lediglich spirituelle Informationen sammeln, ohne sie zu praktizieren, 
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Das Licht einschalten
+
+Es ist ein Fehler, wenn jemand denkt, er habe zu lange in seinen alten, unbefriedigenden Gewohnheiten gelebt, um die große Veränderung herbeizuführen. 
+
+Wenn Sie das Licht in einem dunklen Raum einschalten, spielt es keine Rolle, wie lange es dunkel war, da das Licht weiterhin scheint. 
+
+Seien Sie belehrbar. Das ist das ganze Geheimnis.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Seien Sie nicht ungeduldig
+
+Seien Sie nicht ungeduldig wegen Ihres scheinbar langsamen Fortschritts. 
+
+Versuchen Sie nicht, schneller zu laufen, als Sie derzeit können. 
+
+Wenn Sie studieren, nachdenken und versuchen, machen Sie Fortschritte, ob Sie sich dessen bewusst sind oder nicht. 
+
+Ein Reisender, der in der Dunkelheit der Nacht die Straße entlang geht, geht immer noch vorwärts. 
+
+Irgendwann wird alles aufbrechen, wie die natürliche Entfaltung einer Rosenknospe.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Ursachen und Auswirkungen sowie undichte Boote
+
+Ein Fischer in einem lecken Boot würde sich nicht damit zufrieden geben, Tag für Tag das Wasser abzuschöpfen. 
+
+Er würde die Ursache des Problems herausfinden und beheben. 
+
+Wir müssen also auf Ursachen achten, nicht auf Wirkungen.
+
+Wenn Ihnen die Wirkung nicht gefällt, produzieren Sie nicht die Ursache.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Bambus und Du
+
+Bambus ist eine faszinierende Pflanze, die am schnellsten wachsende der Welt. 
+
+Ein Bambusstamm kann an einem Tag 15 cm oder mehr wachsen! 
+
+Ich kenne einen Kerl, der geschworen hat, dass er tatsächlich gesehen hat, wie es gewachsen ist.
+
+Eine der cleveren Anpassungseigenschaften von Bambus besteht darin, dass er im Sommer seine Blätter und im Winter seine Wurzeln wachsen lässt. 
+
+Es nutzt jede Jahreszeit aus, und obwohl es scheinbar ruht, tut es das nicht. 
+
+Die im Winter gewachsenen Wurzeln bereiten im Sommer eine schnelle Zweig- und Blattentwicklung vor.
+
+Auch wir durchlaufen Jahreszeiten, die uns alle Möglichkeiten für unterschiedliches Wachstum bieten. 
+
+In einer florierenden Wirtschaftssaison wird viel gebaut und extern erweitert. 
+
+Wenn ein wirtschaftlicher Winter kommt und es in der Außenwelt wenig Aktivität gibt, ist das die Zeit der inneren Vertiefung.
+
+[A Daily Dose of Sanity](https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity)
+
+## Machen Sie mehr von dem, was funktioniert, und weniger von dem, was nicht funktioniert
+
+Eine der Bedeutungen eines bewussten Lebens ist: Achten Sie darauf, was funktioniert, tun Sie mehr davon und versuchen Sie, die damit verbundenen Prinzipien zu verstehen. 
+
+Und außerdem: Achten Sie darauf, was nicht funktioniert, und hören Sie damit auf.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
+## Das Potenzial wird zum Wirklichen
+
+Der Mensch wird nicht perfekt geboren. Er wird unvollständig geboren, er wird als Prozess geboren. 
+
+Er wird unterwegs als Pilger geboren. Das ist auch seine Qual und seine Ekstase; Qual, weil er sich nicht ausruhen kann, er muss weitermachen, er muss immer weitermachen. 
+
+Er muss suchen und suchen und erforschen. Er muss werden, denn sein Wesen entsteht nur durch Werden. Sein Sein ist das Werden. Er kann nur sein, wenn er in Bewegung ist.
+
+Evolution ist ein wesentlicher Bestandteil der Natur des Menschen, Evolution ist seine Seele. 
+
+Und wer sich selbst für selbstverständlich hält, bleibt unerfüllt. 
+
+Wer glaubt, vollständig geboren zu sein, bleibt unentwickelt. 
+
+Dann bleibt der Same der Same. 
+
+Es wird nie zu einem Baum und erlebt nie die Freuden des Frühlings, des Sonnenscheins und des Regens und die Ekstase, in Millionen von Blumen aufzuplatzen.
+
+Diese Explosion ist die Erfüllung, diese Explosion ist das, worum es in der Existenz geht – die Explosion in Millionen von Blumen. 
+
+Erst wenn das Potenzial zur Realität wird, ist der Mensch erfüllt.
+
+[The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

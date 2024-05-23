@@ -674,6 +674,130 @@ Oder anders ausgedrückt: Wenn du glücklich sein willst und es weißt, klatsche
 
 [The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
 
+## Memorizing vs. Knowing
+
+Sie sehen, die Worte zu kennen ist nicht dasselbe wie die Bedeutung zu leben. 
+
+Angenommen, ich merke mir die gedruckten Anweisungen auf einem Erste-Hilfe-Kasten. 
+
+Heißt das, dass ich Erste Hilfe leisten kann? Nein. 
+
+Die volle Bedeutung kommt zum Ausdruck, wenn ich zugebe, dass ich nichts weiß, und es dann versuche, übe und Erfolg habe.
+
+[The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
+
+## Bleiben Sie nicht stehen
+
+Der Schmerz, der durch die Vermeidung harter Arbeit entsteht, ist tatsächlich viel schlimmer als der Schmerz, der durch die eigentliche Arbeit selbst entsteht. 
+
+Denn wenn Sie nicht anfangen, an den Ideen zu arbeiten, mit denen Gott Sie gesegnet hat, werden sie in Ihrem Inneren stagnieren und schließlich beginnen, Sie aufzufressen. 
+
+Nach außen hin scheinen Sie vielleicht in Ordnung zu sein, aber innerlich werden Sie krank sein, weil Sie diese Ideen nicht aus Ihrem Herzen in die Welt tragen. 
+
+Stillstand führt zu Krankheit. 
+
+Aber Schritte zu unternehmen, auch kleine Schritte, führt immer zum Erfolg.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Auge auf den Weg
+
+Ich weiß, dass einige Leute sagen: „Behalten Sie den Preis im Auge“, aber ich bin anderer Meinung. 
+
+Wenn Ihr Blick auf den Preis gerichtet ist, werden Sie immer wieder stolpern und mit Dingen zusammenstoßen. 
+
+Wenn du wirklich vorankommen willst, musst du deinen Blick auf den Weg richten.
+
+Konzentrieren Sie sich immer auf Ihre Bemühungen und nicht auf die Ergebnisse dieser Bemühungen.
+
+[Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
+
+## Tun Sie einfach das nächste Richtige
+
+Ganz gleich, ob Sie damit kämpfen, ein Niederlagenmuster zu überwinden, sich nach innerem Frieden sehnen, dauerhaftes Glück anstreben, beruflich erfolgreich sein wollen, verzweifelt versuchen, das Aufschieben zu überwinden, oder mit einer Sucht zu kämpfen haben – diese Lektion enthält den Schlüssel für Sie. 
+
+Tun Sie einfach das nächste Richtige. Tun Sie in jedem Moment einfach das nächste Richtige.
+
+Egal, ob Sie in Schwierigkeiten geraten, tun Sie einfach das nächste Richtige. 
+
+Und machen Sie weiterhin das nächste Richtige. 
+
+Sie werden erstaunt sein, wie schnell Sie aus der Krise herauskommen, wenn Sie es auf diese Weise angehen. 
+
+Machen Sie sich keine Sorgen um die nächste Woche, den nächsten Monat oder das nächste Jahr. 
+
+Tun Sie einfach das nächste Richtige und machen Sie weiter mit dem nächsten Richtigen, und nach und nach werden Sie sich aus destruktiven Mustern befreien. 
+
+Sie können nicht aus dem Muster herausdenken, beten, wünschen oder hoffen, das Sie zurückhält. 
+
+Sie müssen sich einen Moment nach dem anderen daraus befreien.
+
+Indem Sie einfach das nächste Richtige tun, werden Sie von Moment zu Moment von Verwirrung zu Klarheit, von Missverständnis zu Einsicht, von Verzweiflung zu Hoffnung, von Dunkelheit zu Licht gelangen und Ihr wahrstes Selbst entdecken.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Wie kann ich dienen?
+
+Erstaunliche Dinge geschehen, wenn wir dort, wo wir sind, tun, was wir können. 
+
+Jeder von uns muss einen Weg finden, zu dienen. 
+
+Ich versuche, das Wort „muss“ beim Schreiben nach Möglichkeit zu vermeiden, aber ich verwende es hier nachdrücklich. 
+
+Albert Schweitzer, der französische medizinische Missionar und Friedensnobelpreisträger von 1953, äußerte den gleichen Gedanken: „Ich bin mir einer Sache sicher. Die einzigen unter uns, die jemals wirklich glücklich sein werden, sind diejenigen von uns, die einen Weg zum Dienen gesucht und gefunden haben.“
+
+Die größte Veränderung in den meisten unserer Leben wird stattfinden, wenn wir uns entscheiden, uns radikal für den Dienst zur Verfügung zu stellen. 
+
+Der Moment, in dem sich der interne Dialog von der Frage „Was habe ich davon?“ zu „Wie kann ich dienen?“ ändert. 
+
+Wir fangen an, uns schnell auf die Entdeckung unserer Lebensaufgabe zuzubewegen. 
+
+Bis dieser Wandel stattfindet, ist es unmöglich, unsere Mission anzunehmen, und daher wird das Universum sie mit ziemlicher Sicherheit vor uns verbergen.
+
+[Perfectly Yourself](https://www.goodreads.com/book/show/684382.Perfectly_Yourself)
+
+## Wahre Sicherheit
+
+Superhelden betrachten die Verbundenheit mit dem Bekannten als ein falsches Sicherheitsgefühl und erkennen, dass das Streben nach Sicherheit (unser traditionelles Machtverständnis) ironischerweise die Grundlage aller Unsicherheit ist. 
+
+Superhelden tun das, was getan werden muss, mit Tadellosigkeit und höchster Motivation für das größte Wohl und überlassen die Ergebnisse dem Ungewissen. 
+
+Ihr Fokus liegt auf der Aktion, nicht auf den Früchten der Aktion
+
+[The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
+
+## Ein Eintauchen in unvergleichliche Freude
+
+Ein kontinuierliches Engagement für unsere Kreativität, eine tägliche Praxis, egal in welcher Form, ermöglicht es uns, Fortschritte zu erleben. 
+
+Wenn wir Fortschritte erleben, gewinnen wir kreativen Schwung und Produktivität. 
+
+Dadurch können wir leichter einen Zustand erreichen, der „Flow“ oder „Deep Work“ genannt wird, was unser Glück steigert. 
+
+Unser Gehirn ist so programmiert, dass es sich nach diesem Zustand des Flusses sehnt. 
+
+Es ist, wenn es keinen Ort gibt, an dem man lieber wäre und nichts anderes, was man lieber tun würde. 
+
+Es ist das Gefühl, das ich habe, wenn ich eine perfekte Welle erwische und die Welt um mich herum verschwindet. 
+
+Flow ist ein Zustand, in dem wir uns ausschließlich auf die anstehende Aufgabe konzentrieren, unsere Sinne geschärft werden und wir den Überblick über die Zeit verlieren. 
+
+Die Aktivität selbst wird zur Belohnung.
+
+Flow versetzt uns in einen Zustand unvergleichlicher Freude. 
+
+Der Prozess wird an sich so lohnend, dass wir uns leicht vom Ergebnis lösen können. F
+
+low lässt nicht nur die Zeit wie im Flug vergehen, sondern führt auch zu einer überproportionalen Steigerung des kreativen Outputs. 
+
+Was normalerweise zwei Stunden dauert, dauert im Flow dreißig Minuten. 
+
+Ich habe dieses Muster in meinem Leben als Schriftsteller immer wieder gesehen.
+
+Diese Art des tiefen Eintauchens erzeugt einen Rhythmus und Schwung, der sich so gut anfühlt, dass der kreative Prozess süchtig macht.
+
+[An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

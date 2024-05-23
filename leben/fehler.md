@@ -238,5 +238,21 @@ Bei Fehlern geht es darum, den Segen in der Lektion und die Lektion im Segen zu 
 
 [Spiritual Liberation](https://www.goodreads.com/book/show/5594205-spiritual-liberation)
 
+## Defensivität -> Eifer
+
+Die Praxis, bewusst zu leben, erfordert Offenheit gegenüber Beweisen, die auf einen Denkfehler hinweisen könnten – und die Bereitschaft, einen solchen Fehler zu korrigieren. 
+
+Es ist das Gegenteil von selbstverteidigender geistiger Starrheit. 
+
+Defensivität ist Unbewusstheit, die sich selbst schützt. 
+
+Wenn wir von der trügerischen Vorstellung überzeugt sind, dass wir niemals einen Fehler machen dürfen oder dass es eine Widerspiegelung unseres Wertes ist, einen Fehler zuzugeben, werden wir dazu getrieben, unser Bewusstsein zu verkleinern – um Blindheit hervorzurufen. 
+
+Ein bewusstes Leben (und ein authentisches Selbstwertgefühl) erfordert den Eifer, die eigenen Fehler zu entdecken, und die Offenheit, sie zuzugeben. 
+
+Die zugrunde liegende Prämisse dieser Haltung ist: Ich behandle die Realität nicht als Antagonisten.
+
+[The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
+
 ## Bücher
 

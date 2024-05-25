@@ -216,6 +216,34 @@ Ohne ausreichende Mengen von allen dreien haben Sie sich selbst ein Handicap auf
 
 [An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
 
+## Ihr Gehirn funktioniert nach dem Training besser
+
+Ihr Gehirn funktioniert nach dem Training besser. 
+
+Ein Forscherteam in Irland machte diese Entdeckung durch ein relativ einfaches Experiment. 
+
+Sie baten eine Gruppe von Studenten, sich eine schnelle Reihe von Fotos anzusehen. 
+
+Auf jedem Foto waren der Name und das Gesicht eines Fremden abgebildet. 
+
+Dann, nach einer kurzen Pause, versuchten die Schüler, sich an die Namen der Gesichter zu erinnern, die sich über den Computerbildschirm bewegt hatten. 
+
+Nach diesem ersten Test wurde die Hälfte der Schüler gebeten, in anstrengendem Tempo auf einem stationären Fahrrad zu fahren, bis sie völlig erschöpft waren. 
+
+Die andere Hälfte der Schüler saß 30 Minuten lang still da. 
+
+Dann machten beide Gruppen noch einmal den Test, um zu sehen, wie viele Namen sie sich merken konnten.
+
+Die Gruppe der Schüler, die trainierten, schnitt beim Gedächtnistest deutlich besser ab als beim ersten Versuch. 
+
+Die Gruppe, die einfach in einem anderen Raum saß, verbesserte sich nicht. 
+
+Im Rahmen dieses Experiments sammelten die Wissenschaftler auch Blutproben und entdeckten damit eine biologische Erklärung für die erhöhte Erinnerung unter den trainierenden Schülern. 
+
+Unmittelbar nach der anstrengenden Aktivität hatten die Schüler der Übungsgruppe viel höhere Werte eines Proteins, das als Brain-Derived Neurotrophic Factor (BDNF) bekannt ist und die Gesundheit von Nervenzellen fördert.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

@@ -1066,6 +1066,50 @@ Erst wenn das Potenzial zur Realität wird, ist der Mensch erfüllt.
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
 
+## Akkumulationstheorie
+
+Wir können die beiden Konzepte der Akkumulationstheorie und Kaizen in unserem täglichen Leben anwenden. 
+
+Während viele Menschen es mit anstrengenden Trainingseinheiten übertreiben oder Crash-Diäten anwenden, in der Hoffnung, sofortige Veränderungen an ihrem Körper zu sehen, weisen Experten darauf hin, dass eine konsequente tägliche Bewegung ein wenig und eine schrittweise Umstellung auf eine gesunde Ernährungsweise zu nachhaltigeren Ergebnissen führen. 
+
+Im Finanzwesen haben Programme, mit denen man schnell reich werden kann, meist den Kürzeren gegenüber geduldigeren Strategien.
+
+In seinem Bestseller „Atomic Habits“ prägt der Autor James Clear seinen eigenen Begriff, die Aggregation marginaler Gewinne, um diese vernünftigen Ansätze zu beschreiben: „Eine Verbesserung um 1 Prozent ist nicht besonders bemerkenswert – manchmal ist sie nicht einmal spürbar –, aber sie kann vor allem auf lange Sicht weitaus aussagekräftiger sein. 
+
+Der Unterschied, den eine kleine Verbesserung im Laufe der Zeit machen kann, ist erstaunlich. 
+
+So geht die Rechnung auf: Wenn Sie ein Jahr lang jeden Tag ein Prozent besser werden können, werden Sie am Ende siebenunddreißig Mal besser sein, wenn Sie fertig sind.“
+
+Die Akkumulationstheorie und ihre Schwesterideen sind so offensichtlich mächtig, dass man sich fragen muss, warum nicht jeder seinen Grundprinzipien der langsamen, aber stetigen Verbesserung folgt. 
+
+Die Wahrheit ist, dass wir in einer Zeit der sofortigen Befriedigung leben, in der der Aufbau lebenslanger Gewohnheiten aus harter Arbeit, Geduld und Beständigkeit nicht so reizvoll zu sein scheint. 
+
+Während wir mit auffälligeren Methoden manchmal erstaunliche Ergebnisse erzielen können, sind die Erfolge, die nicht durch Fleiß, Opferbereitschaft und Entschlossenheit erzielt werden, oft weniger von persönlicher Wirkung. 
+
+Wie Clear schreibt: „Es ist leicht, die Bedeutung eines entscheidenden Moments zu überschätzen und den Wert kleiner Verbesserungen im Alltag zu unterschätzen.“ 
+
+Die Vorteile ohne großen Aufwand zu nutzen, kann auf lange Sicht sogar kontraproduktiv sein.
+
+[Move by Move](https://www.goodreads.com/book/show/195820950-move-by-move)
+
+## Möchten Sie sich verbessern? Messen!
+
+Ein kleines Geheimnis der Medizin und Sozialwissenschaft ist, wie Messungen selbst zu Verbesserungen führen. 
+
+Wenn Forscher die Wirkung einer bestimmten Intervention untersuchen, erhöht die bloße Aufforderung an die Teilnehmer, ein bestimmtes Ergebnis zu verfolgen, die Wahrscheinlichkeit einer Verbesserung. 
+
+Während dies für wissenschaftliche Experimente eine Einschränkung darstellt, können Sie dies zu Ihrem Vorteil nutzen.
+
+Wenn Sie Ihre Aktivität steigern möchten, messen Sie, wie viel Sie sich bewegen. 
+
+Wenn Menschen im Rahmen randomisierter kontrollierter Studien dazu aufgefordert werden, einen Schrittzähler zu tragen, laufen sie im Durchschnitt mindestens eine Meile zusätzlich pro Tag. 
+
+Das allgemeine Aktivitätsniveau steigt um 27 Prozent. 
+
+Der Body-Mass-Index (BMI) sinkt und der Blutdruck sinkt.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

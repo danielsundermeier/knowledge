@@ -82,6 +82,34 @@ Letztendlich ist der Stoffwechsel der Kampf des Körpers ums Überleben. Viele b
 
 [Brain Energy](https://www.goodreads.com/book/show/61129785-brain-energy)
 
+## Arbeiten Sie an allen drei gleichzeitig
+
+Wenn Sie Ihren Tag mit einem gesunden Frühstück beginnen, erhöhen sich Ihre Chancen, in den folgenden Stunden aktiv zu sein. 
+
+Dies hilft Ihnen, sich den ganzen Tag über gut zu ernähren. 
+
+Die richtige Ernährung und zusätzliche Aktivität sorgen für einen viel besseren Schlaf. 
+
+Diese gesunde Nacht wird es morgen noch einfacher machen, sich gesund zu ernähren und sich mehr zu bewegen.
+
+Im Gegensatz dazu gefährdet eine schlechte Nachtruhe sofort die anderen beiden Bereiche. 
+
+Der schlechte Schlaf in der Nacht macht Lust auf ein weniger gesundes Frühstück und verringert die Wahrscheinlichkeit, aktiv zu sein. 
+
+Im schlimmsten Fall beginnen alle drei Elemente gegen Sie zu arbeiten und es entsteht eine Abwärtsspirale, die jeden Tag immer schlimmer macht. 
+
+Aus diesem Grund ist das Buch so strukturiert, dass es Ihnen hilft, alle drei Elemente gemeinsam zu bearbeiten, und ist nicht in drei Teile über Essen, Bewegung und Schlafen unterteilt.
+
+Neue Forschungsergebnisse zeigen, dass die gleichzeitige Bewältigung mehrerer Elemente Ihre Erfolgsaussichten erhöht, verglichen mit der isolierten Einführung einer neuen Diät oder eines neuen Trainingsprogramms. 
+
+Essen, Bewegen und Schlafen werden noch einfacher, wenn Sie an allen drei gleichzeitig arbeiten. 
+
+Diese drei Zutaten für einen guten Tag bauen aufeinander auf. 
+
+Wenn diese Elemente zusammenarbeiten, entsteht eine Aufwärtsspirale und immer bessere Tage.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

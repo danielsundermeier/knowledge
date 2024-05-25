@@ -254,5 +254,23 @@ Die zugrunde liegende Prämisse dieser Haltung ist: Ich behandle die Realität n
 
 [The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
 
+## Es ist scheiße zu verlieren, aber... es ist aufregend!
+
+Niemand verliert gerne. 
+
+Doch wie wir mit unseren Verlusten umgehen, ist einer der wirkungsvollsten Indikatoren für unseren letztendlichen Erfolg. 
+
+Wer nach einer Niederlage schlecht reagiert, schmollt, tritt, schreit und mit Dingen wirft, hat in der Regel keinen Nutzen aus der Erfahrung. 
+
+Die großen Champions betrachten Niederlagen oft als eine Möglichkeit, wertvolle Einblicke in den Wettbewerb zu gewinnen, damit sie ihr Spiel auf ein neues Niveau bringen können. 
+
+Verlieren, viel mehr noch als Gewinnen, kann ein Katapult sein, das Ihr Spiel zu neuen Höhen führt.
+
+Der verstorbene, großartige Kobe Bryant wurde einmal gefragt: „Wie fühlt sich für Sie eine Niederlage an?“ 
+
+Seine Antwort: „Es ist aufregend weil es bedeutet, dass es verschiedene Möglichkeiten gibt, besser zu werden. Es wurden bestimmte Schwachstellen aufgedeckt, die Sie beheben müssen. Es ist schade, zu verlieren, aber gleichzeitig sind die Antworten da, wenn man sie nur ansieht.“
+
+[Move by Move](https://www.goodreads.com/book/show/195820950-move-by-move)
+
 ## Bücher
 

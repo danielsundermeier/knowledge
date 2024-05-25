@@ -353,6 +353,26 @@ Aus Cookie-Verweigerern wurden Gewinner.
 
 [Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
 
+## Kaufen Sie Willenskraft im Laden
+
+Die einflussreichsten Entscheidungen, die Sie für Ihre Gesundheit treffen, treffen Sie im Lebensmittelgeschäft. 
+
+Sobald Sie etwas in Ihren Einkaufswagen legen, egal ob gut oder schlecht, landet es wahrscheinlich in Ihrem Magen. 
+
+Selbst wenn Sie Reue über Ihre schlechte Wahl im Laden verspüren, hat Ihre Willenskraft kaum eine Chance, wenn Sie nach Hause kommen. 
+
+Schließlich haben Sie dafür bezahlt, und zu diesem Zeitpunkt sind es nur noch wenige Schritte.
+
+Jedes Mal, wenn ich unseren Lebensmittelladen in der Nachbarschaft besuche, verbringe ich die meiste Zeit in der Abteilung für frische Produkte und Meeresfrüchte. 
+
+Ich versuche auch, die Mittelgänge ganz zu meiden. 
+
+Da sie voller ungesunder, süchtig machender Produkte sind. 
+
+Wenn ich die Salzbrezeln nicht sehe, besteht keine Chance, dass sie in meinem Einkaufswagen landen.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

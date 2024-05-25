@@ -703,6 +703,28 @@ Tatsächlich ist es viel einfacher. Stellen Sie sich heute eine Frage: Wie kann 
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Opfer und Risiko
+
+Im Gegensatz dazu versprechen echte Opfer keine Garantie für eine konkrete Rendite. 
+
+Meine Mutter brachte ein unkalkulierbar großes Opfer, als sie die schmerzhafte Entscheidung traf, meinen Bruder, meine Schwester und mich in Jamaika, wo wir herkommen, zurückzulassen und auf der Suche nach einem besseren Leben in die Vereinigten Staaten zu gehen. 
+
+Ich war erst zwei Jahre alt, als sie ging. 
+
+Es würde zehn lange Jahre dauern, bis sie die Staatsbürgerschaft erlangte und uns finanziell unterstützen konnte, um sie in diesem Land der unbegrenzten Möglichkeiten zu begleiten. 
+
+Sie konnte nicht ahnen, wie sich diese zehn Jahre entwickeln würden und welche unendlich vielen möglichen Herausforderungen wir alle bewältigen müssen. 
+
+Tatsächlich wurde Dr. Martin Luther King Jr. bereits am ersten Tag nach ihrer Ankunft in den Vereinigten Staaten in Memphis erschossen, was im ganzen Land Unruhen auslöste. 
+
+So wie sie es erzählt, war sie schockiert darüber, dass ihr Traum so verheerend begann. 
+
+Aber sie verstand, dass es hier nicht nur um ihre Gefühle und Ängste ging; Sie hatte drei kleine Kinder, die von ihrer Mutter betreut wurden, die sich darauf verließ, dass sie weitermachte. 
+
+Und sie machte weiter, mit Mut, Entschlossenheit und Zielstrebigkeit, und ein Jahrzehnt später erfüllte sie die Aufgabe, die sie sich so viele Jahre zuvor vorgenommen hatte, und schließlich konnten wir uns wieder als eine Familie vereinen.
+
+[Move by Move](https://www.goodreads.com/book/show/195820950-move-by-move)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

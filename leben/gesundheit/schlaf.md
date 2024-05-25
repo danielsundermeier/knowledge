@@ -501,6 +501,42 @@ Tatsächlich deuten Studien darauf hin, dass ein Nickerchen in einer Reihe von F
 
 [The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
 
+## 10.008 Stunden und 36 Minuten
+
+Eine der einflussreichsten Studien zur menschlichen Leistung, durchgeführt von Professor K. Anders Ericsson, ergab, dass Spitzenkünstler 10.000 Stunden „bewusstes Üben“ benötigen, um Spitzenleistungen zu erreichen. 
+
+Während dieser Befund eine Debatte über die Rolle von Naturtalent im Vergleich zu unzähligen Übungsstunden auslöste, wurde ein anderer Aspekt so gut wie übersehen. 
+
+Wenn Sie auf die bahnbrechende Studie von Ericsson aus dem Jahr 1993 zurückblicken, gab es einen weiteren Faktor, der die Spitzenleistung maßgeblich beeinflusste: den Schlaf. 
+
+Im Durchschnitt schliefen die besten Leistungsträger 8 Stunden und 36 Minuten. 
+
+Zum Vergleich: Der durchschnittliche Amerikaner hat an Wochentagen nur 6 Stunden und 51 Minuten Zeit.
+
+Die Person, die morgen Ihr Flugzeug fliegen, Ihren Körper operieren, Ihre Kinder unterrichten oder Ihre Organisation leiten möchte, ist diejenige, die heute Nacht tief und fest schläft. 
+
+Doch in vielen Fällen sind die Menschen in diesen lebenswichtigen Berufen diejenigen, die glauben, dass sie am wenigsten Schlaf brauchen. 
+
+Und mehr als 30 Prozent der Arbeitnehmer schlafen weniger als sechs Stunden pro Nacht.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
+## Ein Impfstoff gegen Erkältungen
+
+Was wäre, wenn Ihnen jemand sagen würde, dass es endlich einen Impfstoff gegen Erkältungen gibt? 
+
+Ein Experiment legt nahe, dass ein guter Schlaf die Antwort sein könnte. 
+
+Die Teilnehmer dieser Studie berichteten über ihre Schlafqualität in 14 aufeinanderfolgenden Nächten. 
+
+Dann wurden sie unter Quarantäne gestellt und erhielten Nasentropfen, die ein Rhinovirus (Erkältung) enthielten. 
+
+Die Forscher überwachten die Teilnehmer in den nächsten fünf Tagen, um festzustellen, ob sie eine Erkältung entwickelten. 
+
+Dieses Experiment ergab, dass die Teilnehmer, die typischerweise weniger als sieben Stunden geschlafen hatten, bevor sie dem Rhinovirus ausgesetzt wurden, ein fast dreimal höheres Risiko hatten, eine Erkältung zu entwickeln.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Notizen
 
 - Schlaf regeneriert unsere Fähigkeit konzentriert, wachsam, emotional stabil zu sein

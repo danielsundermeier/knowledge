@@ -442,6 +442,46 @@ Die gute Nachricht: Es stellt sich heraus, dass die regenerative Landwirtschaft 
 
 [Food Fix](https://www.goodreads.com/book/show/46207666-food-fix)
 
+## 150 Pfund Süßigkeiten für Krebszellen
+
+Zucker ist ein Gift. 
+
+Es fördert Diabetes, Fettleibigkeit, Herzerkrankungen und Krebs. 
+
+Bei der aktuellen Dosis, die wir konsumieren, mehr als 150 Pfund pro Person und Jahr, töten Zucker und seine Derivate mehr Menschen als Kokain, Heroin oder jede andere kontrollierte Substanz.
+
+In einem Bericht wird Zucker treffend als „Süßigkeit für Krebszellen“ beschrieben. 
+
+Er beschleunigt Alterung und Entzündungen im Körper und treibt anschließend das Tumorwachstum an. 
+
+Mittlerweile ist klar, dass die Wahrscheinlichkeit, an Krebs zu erkranken, sinkt, wenn man weniger Zucker zu sich nimmt.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
+## Seien Sie weniger raffiniert
+
+Wir sind süchtig nach raffinierten Kohlenhydraten. 
+
+Eine Veröffentlichung ging sogar so weit, Kohlenhydrate als „süchtig machender als Kokain“ zu beschreiben und kam zu dem Schluss: „Im Zentrum des Adipositas-Universums stehen Kohlenhydrate, nicht Fett.“ 
+
+Wie ein Team von Harvard-Forschern im Journal of American Medical Association schrieb, sind Kohlenhydrate sind ein „Nährstoff, für den der Mensch keinen unbedingten Bedarf hat.“ 
+
+Eine andere Studie legt nahe, dass der Verzehr von weniger Kohlenhydraten das Krebswachstum sogar um bis zu 50 Prozent eindämmt.
+
+Tun Sie alles, was Sie können, um raffinierte Kohlenhydrate durch Gemüse zu ersetzen, wenn Sie eine Mahlzeit zubereiten oder bestellen. 
+
+Sie erhalten ausreichend Kohlenhydrate aus Obst, Gemüse und Eiweiß. 
+
+Versuchen Sie, insbesondere Ihren Verzehr von Nudeln, Brot, Reis und Pommes zu reduzieren. 
+
+In den meisten Restaurants können Sie Reis, Nudeln oder Pommes durch ein Gemüse ersetzen. 
+
+Verhindern Sie, dass die meisten raffinierten Kohlenhydrate überhaupt erst auf Ihren Teller gelangen. 
+
+Auf diese Weise benötigen Sie keine übermenschliche Willenskraft, um dem zu widerstehen, was während einer Mahlzeit vor Ihnen liegt.
+
+[Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

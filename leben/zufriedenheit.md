@@ -56,6 +56,26 @@ Wir haben alle eine Aufgabe zu erfüllen und können nicht davor weglaufen.
 
 [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)
 
+## Stoische Freude
+
+Das moderne Englisch ist nicht in der Lage, einige der in der antiken griechischen Philosophie getroffenen Unterschiede zu erfassen, insbesondere wenn es um die Beschreibung von Emotionen und Empfindungen geht. 
+
+Wir verwenden das Wort „Vergnügen“ sehr weit gefasst und umfassen fast jedes positive Gefühl. 
+
+Allerdings unterschieden die Stoiker zwischen der Art der Freude (hedone), die wir an „äußeren“ Dingen wie Essen, Sex oder Schmeicheleien empfinden, und dem tieferen Gefühl innerer Freude (chara), von dem Marcus spricht. 
+
+Stoische Freude ist tiefgreifend. 
+
+Es entsteht durch das Erreichen Ihres grundlegenden Lebensziels und das Erleben echter Erfüllung, die gewöhnliche Freuden im Vergleich dazu trivial erscheinen lassen. 
+
+Gewöhnliche Freuden bringen uns oft durcheinander, besonders wenn wir ihnen uns zu viel von ihnen gönnen. 
+
+Stoische Freude tut dies nie – sie ist gleichbedeutend mit innerem Frieden und kennt kein Übermaß. Die Stoiker bezeichnen es als die reine Form der „Freude“, die jemand erlebt, der ein wirklich großartiges Leben führt und echte persönliche Erfüllung erlangt hat (Eudaimonia). 
+
+Natürlich hat noch keiner von uns das Ziel erreicht, aber wir alle können möglicherweise einen flüchtigen Blick auf das Ziel werfen, solange wir in die richtige Richtung gehen.
+
+[How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
+
 ## Perma
 
 ### Positive Emotion
@@ -975,6 +995,24 @@ Sogar eine gewöhnliche, triviale Handlung, die mit voller Intensität ausgefüh
 Und alles, was halbherzig getan wird, wird, so gut es auch sein mag, Unglück bringen.
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
+## Die Wahl des Herkules
+
+„Was glaubst du, was Herkules erreicht hätte“, fragt Epictetus seine Schüler, „wenn es nicht Monster wie den Nemeischen Löwen, die Hydra, den Hirsch der Artemis, den Erymanthischen Eber und all diese ungerechten und bestialischen Menschen gegeben hätte. Hätte er zu Hause gesessen, in Bettlaken gehüllt und in Luxus und Bequemlichkeit gelebt, wäre er überhaupt kein Herkules gewesen!“
+
+Machen Sie sich daran, sich selbst zu erobern, indem Sie die niederen Wünsche und Gefühle aus Ihren Herzen entfernen.
+
+Mit anderen Worten: Für Stoiker symbolisiert die Geschichte des Herkules die epische Herausforderung, zu entscheiden, wer wir wirklich im Leben sein wollen, das Versprechen der Philosophie und die Versuchung, Vergnügen und Laster nachzugeben. 
+
+Die Moral ist, dass es oft eine Herkulesanstrengung erfordert, auf dem richtigen Weg zu bleiben. 
+
+Aber war Herkules‘ Leben nicht unangenehm? Wie wir sehen werden, blieb Herkules aus stoischer Sicht trotz der schrecklichen Dinge, die er ertragen musste, fröhlich. 
+
+Er empfand ein tiefes Gefühl innerer Zufriedenheit, weil er wusste, dass er seine Bestimmung erfüllte und seine wahre Natur zum Ausdruck brachte. 
+
+Sein Leben hatte etwas weitaus Befriedigenderes als Vergnügen: Es hatte einen Sinn.
+
+[How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
 
 ## Bücher
 

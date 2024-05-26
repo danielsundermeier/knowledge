@@ -285,6 +285,44 @@ Was auch immer wir tun, es wird keine Rolle spielen.
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
 
+## Stoiker über das Ziel des Lebens
+
+Die Schulen der hellenistischen Philosophie, die auf den Tod von Sokrates folgten, unterschieden sich häufig hinsichtlich ihrer Definition des Lebensziels voneinander. 
+
+Für Stoiker ist dieses Ziel als „Leben im Einklang mit der Natur“ definiert, was, wie uns gesagt wurde, gleichbedeutend mit einem klugen und tugendhaften Leben sei. 
+
+Stoiker argumentierten, dass Menschen in erster Linie denkende Wesen seien, die zur Ausübung der Vernunft fähig seien. 
+
+Obwohl wir viele Instinkte mit anderen Tieren teilen, ist es unsere Fähigkeit, rational zu denken, was uns zu Menschen macht. 
+
+Die Vernunft bestimmt gewissermaßen unsere Entscheidungen – die Stoiker nennen sie unsere „herrschende Fähigkeit“. 
+
+Sie ermöglicht es uns, unsere Gedanken, Gefühle und Triebe zu bewerten und zu entscheiden, ob sie gut oder schlecht, gesund oder ungesund sind. 
+
+Wir haben daher die angeborene Pflicht, unsere Denkfähigkeit zu schützen und sie richtig zu nutzen. 
+
+Wenn wir gut über das Leben nachdenken und rational leben, zeigen wir die Tugend der Weisheit. 
+
+Im Einklang mit der Natur zu leben bedeutet zum Teil, unser natürliches Potenzial für Weisheit auszuschöpfen; Das ist es, was es für uns bedeutet, als Menschen zu gedeihen.
+
+Die Stoiker nahmen daher den Namen Philosophie an, der im wahrsten Sinne des Wortes „Liebe zur Weisheit“ bedeutet. 
+
+Sie liebten Weisheit oder Tugend über alles andere. 
+
+Wenn „Tugend“ etwas pompös klingt, lässt sich das griechische Wort dafür, arete, wohl besser mit „hervorragender Charakter“ übersetzen. 
+
+Etwas zeichnet sich in diesem Sinne aus, wenn es seine Funktion gut erfüllt. 
+
+Menschen zeichnen sich dadurch aus, dass sie klar denken und gut über ihr Leben nachdenken, was einem klugen Leben gleichkommt. 
+
+Die Stoiker übernahmen die sokratische Einteilung der Kardinaltugenden in Weisheit, Gerechtigkeit, Mut und Mäßigung. 
+
+Die anderen drei Tugenden können als Weisheit verstanden werden, die auf den sozialen Bereich, unsere Beziehungen zu anderen Menschen, angewendet wird. 
+
+Um Mut und Mäßigung zu zeigen, mussten wir unsere Ängste bzw. Wünsche meistern und das überwinden, was Stoiker die ungesunden „Leidenschaften“ nannten, die sonst unsere Fähigkeit beeinträchtigen, im Einklang mit Weisheit und Gerechtigkeit zu leben.
+
+[How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

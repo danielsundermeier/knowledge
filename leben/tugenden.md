@@ -171,6 +171,40 @@ Superhelden lehren keine Prinzipien oder predigen Dogmen; Sie leben die Ideale, 
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Betrachtung des idealen Weisen
+
+Ihr erster Schritt besteht darin, die Tugenden einer Person aufzuschreiben, die Sie respektieren. 
+
+Die Eigenschaften aufzuzählen, die Sie an einer anderen Person am meisten bewundern, so wie Marcus es im ersten Buch der Meditationen tut, ist eine einfache und wirkungsvolle Übung.
+
+Neben den Tugenden realer Menschen waren die Stoiker auch dafür bekannt, über den hypothetischen Charakter eines idealen Weisen oder weisen Menschen nachzudenken. 
+
+An mehreren Stellen scheint Marcus dies zu tun. 
+
+Diese Beschreibungen wirken unweigerlich etwas abstrakter und grandioser. 
+
+Er sagt zum Beispiel, dass der vollkommen weise Mann wie ein wahrer Priester der Götter sei, eins mit dem göttlichen Element der Vernunft in sich. 
+
+Er wird weder durch Vergnügen verdorben noch durch Schmerz verletzt, und er bleibt von Beleidigungen verschont. 
+
+Der wahre Weise ist wie ein Kämpfer im edelsten aller Kämpfe, tief geprägt von Gerechtigkeit. 
+
+Mit seinem ganzen Wesen nimmt er alles an, was ihm widerfährt, so wie es ihm das Schicksal zuweist. 
+
+Er kümmert sich selten um das, was andere sagen oder tun, es sei denn, es dient dem Gemeinwohl. 
+
+Er kümmert sich von Natur aus um alle vernünftigen Wesen, als wären sie seine Brüder und Schwestern. 
+
+Er lässt sich nicht von der Meinung irgendjemandes beeinflussen, sondern schenkt den Weisen, die im Einklang mit der Natur leben, besondere Aufmerksamkeit. 
+
+Marcus versucht hier, sich selbst die menschliche Perfektion zu beschreiben und sich einen idealen Weisen vorzustellen, der die stoischen Lebensziele vollständig verkörpert.
+
+Wir fragen uns nicht nur, welche Eigenschaften der ideale weise Mensch haben könnte, sondern auch, welche Eigenschaften wir hoffentlich in ferner Zukunft besitzen werden. 
+
+Was für ein Mensch würden Sie zum Beispiel gerne sein, nachdem Sie zehn oder zwanzig Jahre lang eine Ausbildung zum Stoizismus absolviert haben?
+
+[How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

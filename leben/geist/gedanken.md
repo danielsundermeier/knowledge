@@ -493,6 +493,20 @@ IV. Halten Sie Ihren neuen Geisteszustand mit einem Jingle oder Mantra aufrecht
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## Zeitprojektion
+
+Eine weitere einfache und wirksame Technik besteht darin, sich selbst zu fragen, wie Sie sich in zehn oder zwanzig Jahren angesichts der Situation, die Sie beunruhigt, fühlen würden, wenn Sie aus der Zukunft darauf zurückblicken. 
+
+Es ist ein Beispiel für eine allgemeinere Strategie, die als „Zeitprojektion“ bekannt ist. 
+
+Mit anderen Worten: Sie können sich selbst helfen, eine philosophische Haltung gegenüber Widrigkeiten zu entwickeln, indem Sie fragen: 
+
+„Wenn mir das in zwanzig Jahren trivial erscheint, warum sollte es dann nicht sein? Ich betrachte es heute als trivial, anstatt mir darüber Sorgen zu machen, als ob es eine Katastrophe wäre?“ 
+
+Sie werden oft feststellen, dass eine Änderung Ihrer Perspektive in Bezug auf die Zeit Ihre Einstellung zu einem Rückschlag ändern kann, indem er ihn weniger katastrophal erscheinen lässt.
+
+[How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

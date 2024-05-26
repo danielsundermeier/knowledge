@@ -962,6 +962,39 @@ Es ist noch nie passiert. Der Mensch ist kein Mechanismus wie Ford-Autos am Flie
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
 
+## Emotional belastbar sein
+
+Um emotional belastbar und überlebensfähig zu sein, ist es wichtig, die Antwort auf die Frage zu kennen: „Was ist Ihr Warum und was sind Sie bereit zu tun, um sicherzustellen, dass es Früchte trägt?“ 
+
+Untermauern Sie dies dann mit Selbstwertgefühl, einer positiven Einstellung, Optimismus, dass Sie erfolgreich sein werden, und einem Fokus auf die anderen in Ihrem Team.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
+## Eine Sache und drei Ps
+
+Ich glaube, es ist entscheidend, selbstbewusst genug zu sein, um unser „One Thing“ und „Drei Ps“ artikulieren zu können. Schauen wir uns diese an, indem wir ein paar Fragen stellen:
+
+I. Wer bin ich und wofür bin ich hier? Was ist das Einzige, was ich in meinem Leben erreichen soll, und was bedeutet das jetzt für mich? Das heißt, was hat das One Thing von heute mit meinem großen One Thing zu tun?
+II. Was ist mein Ziel? Wie nehme ich mein One Thing und aktiviere es in der Welt?
+III. Wofür bin ich leidenschaftlich und wie kann ich mehr davon tun?
+IV. Was schätze ich und wie kann ich diese Prinzipien entwickeln, damit sie meinen Charakter für den Rest meines Lebens definieren?
+
+Die Beherrschung des Selbst ist etwas schwierig, wenn man sich über diese Fragen nicht im Klaren ist. 
+
+Die Antwort auf diese Fragen gibt Ihnen die Richtung im Leben. 
+
+Wenn Sie es selbst nicht wissen, was sollen Sie dann tun, außer einfach durchzukommen? 
+
+Der Mangel an Sinn und Zweck ist eine der Hauptursachen für Verzweiflung und Niedergeschlagenheit in der Welt. 
+
+Manche stoßen auf ein vages Gefühl der Sinnhaftigkeit ihres Berufslebens. 
+
+Anderen wird ihr Ziel schon früh im Leben gezeigt und sie sind bereits in ihren Zwanzigern dabei, es zu erfüllen. 
+
+Ich habe festgestellt, dass die überwiegende Mehrheit meiner Schüler ihr Ziel nicht klar formulieren kann und zutiefst berührt ist, wenn sie es entdecken.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

@@ -798,6 +798,28 @@ Diese Art des tiefen Eintauchens erzeugt einen Rhythmus und Schwung, der sich so
 
 [An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
 
+## Ungewöhnliche Entschlossenheit
+
+Ich brauchte große Entschlossenheit, um im Jahr 2013 drei Bücher in einem Jahr zu schreiben, als ich „The Way of the SEAL“, „8 Weeks to SEALFIT“ und dieses Buch in einem Zeitraum von elf Monaten fertigstellte. 
+
+Manche mögen das als ungewöhnliche Entschlossenheit bezeichnen. 
+
+Die gleiche Art von Entschlossenheit ist für jedes Ziel oder Projekt erforderlich, das ein unverhältnismäßiges Maß an Herausforderung mit sich bringt.
+
+Ist Entschlossenheit eine Qualität, die entwickelt werden kann? 
+
+Natürlich ist das möglich – es ist eine natürliche Folge der Entwicklung mentaler Stärke. 
+
+Sie entwickeln außergewöhnliche Entschlossenheit, indem Sie Ihr Selbstvertrauen und Ihren Mut vertiefen, verstärkt durch fünf Eigenschaften, die Charakter und Entschlossenheit definieren. Sie sind:
+
+I. Verlangen: Sie müssen das Ergebnis so wünschen, als würden Ihre Haare brennen.
+II. Glaube: Sie müssen an Ihren Zweck, Ihre Mission und sich selbst glauben.
+III. Einstellung: Sie müssen eine positive Einstellung haben, Tatendrang haben und in der Lage sein, damit ein Team zu mobilisieren.
+IV. Disziplin: Sie müssen bereit sein, unnötige Bindungen und Verpflichtungen aufzugeben und täglich das richtige Maß an Anstrengung zu unternehmen, um Ihr Ziel zu erreichen.
+V. Entschlossenheit: Sie müssen den unerschütterlichen Willen haben, den Job zu Ende zu bringen, den Kurs beizubehalten und niemals aufzugeben.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

@@ -271,6 +271,18 @@ Vielleicht stellen Sie sogar fest, dass es zu einem ruhigeren Schlaf führt, wen
 
 [The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
 
+## Selbstvertrauen: Charakter + Können
+
+Das Selbstvertrauen eines SEALs ist sowohl eine Charaktereigenschaft als auch eine Fähigkeit. 
+
+Die Fähigkeit besteht darin, auf dem Weg zur Missionserfüllung kleine, würdige und erreichbare Siege zu erringen. 
+
+Darüber hinaus ist es erforderlich, Fehler neu zu formulieren, um einen Silberstreif am Horizont zu finden. 
+
+Mit diesen beiden Fähigkeiten werden Sie das Selbstvertrauen haben, jede Herausforderung anzunehmen, und Ihr Vertrauen in Ihr Fachgebiet wird mit zunehmendem Erfolg wachsen.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

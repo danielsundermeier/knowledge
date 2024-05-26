@@ -224,6 +224,34 @@ Deshalb müssen wir der Versuchung widerstehen können, Ablenkungen nachzugeben,
 
 [An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
 
+## Gewinnen Sie zunächst in Ihrem Kopf
+
+Ich glaube, ich habe inzwischen deutlich gemacht, dass SEALs auf Elite-Niveau agieren, weil sie lernen, ihren Verstand zu kontrollieren und den Sieg intern zu sichern, bevor sie in den Kampf eintreten. 
+
+Dies ist die erste Prämisse.
+
+Schritt 1: Der erste Schritt besteht darin, Ihren Geist zu fokussieren und zu verhindern, dass er überall herumläuft.
+Schritt 2: Wenn Sie lernen, Ihren Affenverstand zu disziplinieren, werden Sie lernen, sich mit Ihrem inneren Zeugen zu verbinden. Dies ist der Teil von Ihnen, der nicht an Ihr Ego gebunden ist.
+Schritt 3: Dieser Schritt besteht darin, Ihren freien Geist mit Superfood zu versorgen, um erfolgreich zu sein. Dieses Essen besteht aus kraftvollen, positiven Bildern und positiven Emotionen, die auf Ihre gewünschten zukünftigen Zustände, Fähigkeiten und Siege ausgerichtet sind.
+Schritt 4: In diesem Schritt aktivieren Sie einen täglichen Trainingsplan, um Ihre innere Vision durch wiederholtes Üben zu fördern und sich auf den fünften und letzten Schritt vorzubereiten, der darin besteht,
+Schritt 5: Ergreifen Sie massive Maßnahmen und rekrutieren Sie gleichgesinnte Teamkollegen, die sich Ihrer Vision anschließen und Ihnen dabei helfen, Ihre Missionen jedes Mal zu gewinnen.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
+## Konzentration
+
+Wir alle verstehen, was es bedeutet, sich zu konzentrieren, aber können wir uns wirklich so tief konzentrieren, dass alle Ablenkungen beseitigt werden? 
+
+Können wir uns lange genug auf unsere eine Sache (das Wichtigste) konzentrieren, um die Arbeit zu erledigen? 
+
+Können wir es mit rasanter Intensität schaffen? 
+
+Tiefe, lange, ungebrochene und inspirierte Konzentration ist eine charakteristische Fähigkeit überaus erfolgreicher Menschen. 
+
+Doch die einzige Möglichkeit, die Konzentration zu verbessern, besteht darin, Konzentration zu üben.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

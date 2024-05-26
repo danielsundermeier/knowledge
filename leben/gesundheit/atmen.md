@@ -111,6 +111,26 @@ Es ist viel einfacher, bis fünfzehn zu zählen, als festzustellen, ob Luft in d
 
 [10-Minute Toughness](https://www.goodreads.com/book/show/3514273-10-minute-toughness)
 
+## Atemwahrnehmung und -kontrolle
+
+In einer Krisensituation empfehle ich Ihnen, sich auf Ihre Atmung zu konzentrieren und gleichzeitig die Umgebung entspannt wahrzunehmen. 
+
+Durch tiefes Atmen wird der Stress erheblich reduziert, Ihre Herzfrequenz verlangsamt und Ihr Nervensystem wieder ins Gleichgewicht gebracht. 
+
+Der Geist bleibt konzentriert, während Ihr Körper wieder ins Gleichgewicht kommt. 
+
+Dann können Sie inmitten des Chaos, der Gefahr oder der schwächenden Wirkung der Angst bessere Entscheidungen treffen. 
+
+Aus diesem Grund sind Atembewusstsein und Atemkontrolle das wichtigste Werkzeug für Unbeatable Mind-Schüler, die sich selbst herausfordern und bis an die Grenzen gehen. 
+
+Aber es ist genauso effektiv, Ihre Leistung im Sitzungssaal zu steigern. 
+
+Das Maß an Kontrolle über Ihre Physiologie und Psychologie, von dem ich spreche, muss geübt und gewöhnt werden, bis es zu einer Routinefähigkeit wird.
+
+Zu sagen, dass das Erlernen der Atemkontrolle die wichtigste Komponente zum Aufbau mentaler Stärke ist, wäre keine Übertreibung.
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Bücher
 
 - [Breath](https://www.goodreads.com/book/show/48890486-breath)

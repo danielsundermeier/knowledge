@@ -482,6 +482,17 @@ Den Geist in Form zu bringen, ist nichts Geringeres als der Schlüssel zu nachha
 
 [Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
 
+## Angst aushungern, Mut nähren
+
+Negativität zerstört die Leistung, daher ist es wichtig zu trainieren, vom Beobachten negativer Gedanken zum Aushungern und Füttern der positiven Gedanken überzugehen. Dies ist der spezifische Prozess:
+
+I. Boebachte Negativität.
+II. Unterbinden oder stoppen Sie die negativen Gedanken mit einer kraftvollen Aussage.
+III. Lenken Sie Ihren Geist mit Selbstgesprächen und Bildern auf etwas Positives und Produktives für Ihr aktuelles Ziel.
+IV. Halten Sie Ihren neuen Geisteszustand mit einem Jingle oder Mantra aufrecht
+
+[Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

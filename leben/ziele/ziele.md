@@ -526,6 +526,22 @@ Fragen Sie sich, was Sie wirklich wollen, warum Sie es wirklich wollen und ob es
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Teleskop + Mikroskop
+
+Große Ziele zu setzen ist toll, aber es müssen die richtigen sein, sonst werden sie zu Fallen. 
+
+Finanzielle Ziele müssen gegenüber familiären Zielen zweitrangig sein, sonst haben Sie keine Familie, mit der Sie sich Ziele setzen können. 
+
+Sie benötigen außerdem Teleskop- und Mikroskopziele. 
+
+Teleskopieren Sie Ziele, die Sie in die Zukunft blicken können, und dann müssen Sie einen Prozess zurück auf Ihr Mikroskop zurückentwickeln und Ihre mikroskopischen täglichen Ziele umsetzen. 
+
+Teleskopziele liegen 1, 3, 5+ Jahre in der Zukunft und die Mikroskopziele sind das, was Sie in den nächsten 24 Stunden tun werden, um Ihren Teleskopzielen näher zu kommen. 
+
+Denken Sie daran: Zentimeter für Zentimeter ist das Setzen eines Ziels ein Kinderspiel, und Meter für Meter ist es schwer.
+
+[The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

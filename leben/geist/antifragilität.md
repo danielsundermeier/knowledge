@@ -158,3 +158,72 @@ Um einen Ausdruck von Nassim Taleb, Investor und Autor, zu übernehmen: Man muss
 Antifragilität ist die Essenz des Überspringens der Warteschlange. Wenn Sie sich die Skip-the-Line-Techniken aneignen, können Sie nach immer höheren Einsätzen streben, in dem Wissen, dass Sie nicht nur die Fähigkeit haben, sich schnell von Rückschlägen zu erholen, sondern sich sogar noch stärker zu erholen.
 
 [Skip the Line](https://www.goodreads.com/book/show/53746011-skip-the-line)
+
+## Das Leben ist nicht fair – Machen Sie weiter!
+
+Es ist leicht, die Schuld für sein Schicksal einer äußeren Kraft zuzuschieben und es nicht mehr zu versuchen, weil man glaubt, dass das Schicksal gegen einen ist. 
+
+Es ist leicht zu glauben, dass der Ort, an dem Sie aufgewachsen sind, die Art und Weise, wie Ihre Eltern Sie behandelt haben oder welche Schule Sie besucht haben, Ihre Zukunft bestimmt. 
+
+Nichts ist weiter von der Wahrheit entfernt. 
+
+Das einfache Volk und die großen Männer und Frauen zeichnen sich alle dadurch aus, wie sie mit der Ungerechtigkeit des Lebens umgehen: Helen Keller, Nelson Mandela, Stephen Hawking, Malala Yousafzai und – Moki Martin.
+
+Manchmal, egal wie sehr man es versucht, egal wie gut man ist, am Ende endet man immer noch als Zuckerkeks. 
+
+Beschwere dich nicht. 
+
+Geben Sie nicht Ihrem Unglück die Schuld. 
+
+Stehen Sie aufrecht, schauen Sie in die Zukunft und fahren Sie weiter!
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
+## Der Rechenschaftsspiegel
+
+Sie geben auf, anstatt hart zu werden! 
+
+Sagen Sie die Wahrheit über die wahren Gründe für Ihre Einschränkungen, und Sie werden diese Negativität, die real ist, in Düsentreibstoff verwandeln. 
+
+Diese Chancen, die gegen Sie stehen, werden zu einer verdammten Startbahn.
+
+Es gibt keine Zeit mehr zu verlieren. Stunden und Tage verdunsten wie Bäche in der Wüste. 
+
+Deshalb ist es in Ordnung, grausam zu sich selbst zu sein, solange Sie erkennen, dass Sie es tun, um besser zu werden. 
+
+Wir alle brauchen ein dickeres Fell, um im Leben besser zu werden. 
+
+Wenn Sie beim Blick in den Spiegel weich sind, werden Sie nicht die umfassenden Veränderungen anstoßen, die wir brauchen, um unsere Gegenwart zu verändern und unsere Zukunft zu öffnen.
+
+Am Morgen nach dieser ersten Sitzung mit dem Accountability Mirror schmiss ich das Zottellenkrad und die flauschigen Würfel weg. 
+
+Ich steckte mein Hemd in die Hose und trug einen Gürtel an meiner Hose, und als die Schule wieder anfing, hörte ich auf, an meinem Mittagstisch zu essen. 
+
+Zum ersten Mal war es Zeitverschwendung, gemocht zu werden und cool zu sein, und anstatt mit all den beliebten Kindern zu essen, suchte ich mir einen eigenen Tisch und aß allein.
+
+Wohlgemerkt, der Rest meines Fortschritts kann nicht als eine Metamorphose beschrieben werden, die man im Handumdrehen übersieht. 
+
+Die Glücksgöttin tauchte nicht plötzlich auf, ließ mir ein heißes Seifenbad ein und küsste mich, als ob sie mich liebte. 
+
+Tatsächlich ist der einzige Grund, warum ich nicht zu einer weiteren Statistik wurde, dass ich im letzten möglichen Moment zur Arbeit ging.
+
+[Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
+## Platzen und Brennen
+
+Das heißt nicht, dass ich Spaß hatte. Hatte ich nicht. Ich hatte es satt. 
+
+Ich wollte keine Klimmzüge mehr machen, aber Ziele zu erreichen oder Hindernisse zu überwinden muss keinen Spaß machen. 
+
+Samen platzen von innen heraus in einem selbstzerstörerischen Ritual neuen Lebens. 
+
+Klingt das nach verdammtem Spaß? Als würde es sich gut anfühlen? 
+
+Ich war nicht in diesem Fitnessstudio, um glücklich zu werden oder das zu tun, was ich tun wollte. 
+
+Ich war dort, um mich selbst umzukrempeln, wenn das nötig war, um alle mentalen, emotionalen und körperlichen Barrieren zu durchbrechen.
+
+[Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
+
+

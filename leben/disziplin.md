@@ -270,4 +270,36 @@ Warum ist es eine Sünde? Weil du niemals in deinem Leben sein wirst. Es wird ob
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
 
+## Gib dein Bestes, wenn du dich am schlechtesten fühlst
+
+Wenn Sie sich in der Hitze des Gefechts befinden, kommt es auf Durchhaltevermögen an. 
+
+Bei einer schwierigen körperlichen Herausforderung müssen Sie wahrscheinlich Ihre eigenen Dämonen besiegen, bevor Sie die Seele Ihres Gegners erobern können. 
+
+Das bedeutet, dass Sie Antworten auf die einfache Frage einstudieren, die mit Sicherheit wie eine Gedankenblase aufsteigen wird: „Warum bin ich hier?“ 
+
+Wenn Sie wissen, dass dieser Moment kommt, und Ihre Antwort parat haben, sind Sie in der Lage, in Sekundenbruchteilen die Entscheidung zu treffen, Ihren geschwächten Geist zu ignorieren und weiterzumachen. 
+
+Wissen Sie, warum Sie im Kampf sind, um im Kampf zu bleiben!
+
+Und vergessen Sie nie, dass alle emotionalen und körperlichen Qualen endlich sind! 
+
+Irgendwann endet alles. Lächeln Sie den Schmerz an und beobachten Sie, wie er für mindestens ein oder zwei Sekunden nachlässt. 
+
+Wenn Sie das können, können Sie diese Sekunden aneinanderreihen und länger durchhalten, als Ihr Gegner es Ihnen zutraut, und das könnte ausreichen, um zu neuem Leben zu erwachen. 
+
+Es gibt keinen wissenschaftlichen Konsens darüber, was zu einem zweiten Wind führt. 
+
+Manche Wissenschaftler glauben, dass es daran liegt, dass Endorphine das Nervensystem überfluten, andere glauben, dass es ein Sauerstoffschub ist, der dabei hilft, Milchsäure abzubauen, sowie Glykogen und Triglyceride, die die Muskeln für ihre Leistung brauchen. 
+
+Manche sagen, es ist rein psychologisch. 
+
+Ich weiß nur, dass wir, indem wir uns in einer Niederlage richtig ins Zeug legten, mit zweitem Wind durch die schlimmste Nacht der Höllenwoche kamen. 
+
+Und wenn man erst einmal diesen zweiten Wind hat, ist es ein Leichtes, die Gegner niederzuringen und ihnen eine Seele zu entreißen. 
+
+Der schwierige Teil ist, an diesen Punkt zu gelangen, denn der Schlüssel zum Sieg liegt oft darin, sein Bestes zu geben, wenn man sich am schlechtesten fühlt.
+
+[Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
 

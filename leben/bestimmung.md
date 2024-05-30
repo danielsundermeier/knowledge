@@ -995,6 +995,28 @@ Ich habe festgestellt, dass die überwiegende Mehrheit meiner Schüler ihr Ziel 
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## Leben in SIN: Stärken + Interessen + Bedürfnisse
+
+Schade, dass Sie das, was Sie tun, nicht spannend finden. 
+
+In diesem Spiel namens „Leben“ hat man nur eine Chance, und einer der Schlüssel zum Sieg besteht darin, den Saft mitzubringen, denn wenn man saftig ist, ist man nützlich, und wenn man nicht saftig ist, ist man nutzlos. 
+
+Ich habe das Geheimnis eines erfüllten Lebens entdeckt, und der beste Weg, diesen Saft zu entfalten, besteht darin, in SIN zu leben.
+
+Jetzt werde nicht so religiös, Matthew. 
+
+Was ich mit SIN meine, ist, die Schnittstelle zwischen Ihren Stärken, Interessen und den Bedürfnissen der Welt zu finden. 
+
+Wenn Sie letztendlich erfolgreich sein wollen, müssen Sie feststellen, dass Ihre Interessen so stark sind, dass Sie dafür bezahlen würden, dass Ihre Stärken so groß sind, dass Sie der Beste der Welt sein könnten, und dass Sie herausfinden, was die Welt so sehr braucht, dass sie für ihr Fachwissen bezahlen.
+
+Ich habe die Schnittstelle zwischen meinen Stärken, Interessen und den Bedürfnissen der Welt gefunden und kann dort jeden Tag leben. 
+
+Wenn Sie das tun, werden Sie keinen Tag in Ihrem Leben arbeiten. 
+
+Ich verwende SIN als Akronym, damit sich die Leute daran erinnern; „Es gibt einen kleinen Schockwert – und mir geht es vor allem um den Schockwert, weil es Ihren Standpunkt schnell rüberbringt und die Leute heute nie das Gefühl haben, Zeit zu haben, also muss man schnell und tiefgreifend zuschlagen, wenn man etwas bewirken will“, sagte Coach Kenny.
+
+[The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

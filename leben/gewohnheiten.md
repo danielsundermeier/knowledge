@@ -659,6 +659,16 @@ Das Naturgesetz besagt, dass, wenn Sie etwas weniger böse als gut sind, Ihr Bö
 
 [How To Be A Success](https://www.goodreads.com/book/show/4588224-how-to-be-a-success)
 
+## Erhöhe den Keller
+
+„Der Schlüssel liegt darin, Ihre Gewohnheiten so stark zu machen und Ihr Training so gut zu machen, dass Sie, wenn Sie an Ihrem schlechtesten Tag absinken, auf ein höheres Niveau sinken als alle anderen an ihrem besten Tag“, sagte Trainer Kenny. 
+
+„Es ist leicht zu sagen, schwer zu tun und nur möglich, wenn man die 10 Säulen der geistigen Leistungsbeherrschung befolgt.“
+
+„Alle reden davon, das Dach zu erhöhen. In Wirklichkeit geht es darum, Ihren Keller so zu vergrößern, dass Sie gute schlechte Tage haben und an Ihren schlechten Tagen besser sind als die meisten Menschen an ihren guten Tagen – weil Sie sich besser konzentrieren können und bessere Gewohnheiten und eine elitärere Denkweise haben. Es geht wirklich darum, die beste Version von dir zu sein, die du jemals warst. Es geht auch darum, sich nicht mit anderen zu vergleichen, sondern mit dem, wo man gestern war. Wenn Sie Fortschritte sehen – heute besser sein als gestern und morgen besser als heute – und einfach Schritt für Schritt weitermachen, werden Sie dort ankommen, wo Sie sein möchten.“
+
+[The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

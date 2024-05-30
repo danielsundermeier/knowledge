@@ -1110,6 +1110,68 @@ Der Body-Mass-Index (BMI) sinkt und der Blutdruck sinkt.
 
 [Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
 
+## Mach dein Bett!
+
+Im Dezember 2003 nahmen US-Streitkräfte Saddam Hussein gefangen. 
+
+Er wurde eingesperrt und wir hielten ihn während dieser Zeit in einem kleinen Raum fest. 
+
+Er schlief auch auf einem Feldbett der Armee, allerdings mit dem Luxus von Bettlaken und einer Decke. 
+
+Einmal am Tag besuchte ich Saddam, um sicherzustellen, dass meine Soldaten sich angemessen um ihn kümmerten. 
+
+Mit einiger Belustigung stellte ich fest, dass Saddam sein Bett nicht gemacht hatte. 
+
+Die Bettdecke lag immer zerknittert am Fußende seines Bettes und er schien selten geneigt zu sein, sie glatt zu streichen.
+
+In den folgenden zehn Jahren hatte ich die Ehre, mit einigen der besten Männer und Frauen zusammenzuarbeiten, die diese Nation jemals hervorgebracht hat – von Generälen bis zu Gefreiten, von Admiralen bis zu Seemannsrekruten, von Botschaftern bis zu Schreibkräften. 
+
+Die Amerikaner, die zur Unterstützung der Kriegsanstrengungen im Ausland stationiert waren, kamen freiwillig und opferten viel, um diese großartige Nation zu schützen.
+
+Sie alle haben verstanden, dass das Leben hart ist und dass man manchmal kaum etwas tun kann, um den Ausgang des Tages zu beeinflussen. 
+
+Im Kampf sterben Soldaten, Familien trauern, Ihre Tage sind lang und voller ängstlicher Momente. 
+
+Sie suchen nach etwas, das Ihnen Trost spenden kann, das Sie motivieren kann, den Tag zu beginnen, das ein Gefühl des Stolzes auf eine oft hässliche Welt sein kann. 
+
+Aber es ist nicht nur Kampf. Es ist das tägliche Leben, das den gleichen Sinn für Struktur braucht. 
+
+Nichts kann die Stärke und den Trost des eigenen Glaubens ersetzen, aber manchmal kann Ihnen der einfache Akt des Bettmachens den Auftrieb geben, den Sie brauchen, um Ihren Tag zu beginnen, und Ihnen die Befriedigung geben, ihn richtig zu beenden.
+
+Wenn Sie Ihr Leben und vielleicht die Welt verändern möchten, beginnen Sie damit, Ihr Bett zu machen!
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
+## Der Prozess
+
+Das Hauptziel besteht darin, langsam den Regler aus Ihrem Gehirn zu entfernen.
+
+Zuerst eine kurze Erinnerung daran, wie dieser Prozess funktioniert. 
+
+1999, als ich 297 Pfund wog, war mein erster Lauf eine Viertelmeile. 
+
+Spulen wir vor ins Jahr 2007: Ich bin in 39 Stunden 205 Meilen ohne Pause gelaufen. 
+
+Ich habe das nicht über Nacht geschafft und das erwarte ich auch nicht von Ihnen. 
+
+Ihre Aufgabe ist es, Ihren normalen Haltepunkt zu überschreiten.
+
+Egal, ob Sie auf einem Laufband laufen oder eine Reihe Liegestütze machen, kommen Sie an den Punkt, an dem Sie so müde sind und Schmerzen haben, dass Ihr Verstand Sie anfleht, aufzuhören. 
+
+Dann überschreiten Sie die 5 bis 10 Prozent. 
+
+Wenn Sie bei einem Training höchstens 100 Liegestütze gemacht haben, machen Sie 105 oder 110. 
+
+Wenn Sie normalerweise 30 Meilen pro Woche laufen, laufen Sie 10 Prozent mehr.
+
+Unterm Strich ist das Leben ein einziges großes Gedankenspiel. 
+
+Die einzige Person, gegen die Sie spielen, sind Sie selbst. 
+
+Bleiben Sie bei diesem Prozess und schon bald wird das, was Sie für unmöglich hielten, etwas sein, das Sie jeden verdammten Tag tun.
+
+[Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

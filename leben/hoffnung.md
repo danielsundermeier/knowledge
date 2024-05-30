@@ -122,6 +122,24 @@ Wenn ich die Sirenen von ____________ singen höre, mache ich ____________.
 
 [Making Hope Happen](https://www.goodreads.com/book/show/15803062-making-hope-happen)
 
+## Die stärkste Kraft im Universum
+
+Hoffnung ist die stärkste Kraft im Universum. 
+
+Mit der Hoffnung können Sie Nationen zu Größe inspirieren. 
+
+Mit der Hoffnung kannst du die Unterdrückten wieder aufrichten. 
+
+Mit der Hoffnung können Sie den Schmerz des unerträglichen Verlusts lindern. 
+
+Manchmal braucht es nur eine Person, um etwas zu bewirken.
+
+Irgendwann werden wir alle bis zum Hals im Schlamm stecken. 
+
+Dies ist die Zeit, laut zu singen, breit zu lächeln, die Menschen um Sie herum aufzumuntern und ihnen Hoffnung zu geben, dass morgen ein besserer Tag wird.
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
 ## Bücher
 
 - [The Psychology of Hope](https://www.goodreads.com/book/show/870952.The_Psychology_of_Hope)

@@ -725,6 +725,18 @@ Und sie machte weiter, mit Mut, Entschlossenheit und Zielstrebigkeit, und ein Ja
 
 [Move by Move](https://www.goodreads.com/book/show/195820950-move-by-move)
 
+## Rotes -> Gelbes -> Grünes Licht
+
+Ich hatte das Gefühl, den Unterschied zwischen einem Rotlicht- und einem Grünlicht-Zustand zu verstehen. 
+
+Ich wollte lernen, wie man grünes Licht schafft und dort bleibt.
+
+„Sie erkennen, dass Sie, wenn Sie sich in einem Rotlicht- oder Gelblichtzustand befinden, eine Release-Routine benötigen, um wieder auf Grün zu kommen und die Kontrolle über sich selbst zu erlangen. Diese Release-Routine folgt einem dreistufigen Prozess“, sagte Coach Kenny. „Sie benötigen (#1) eine körperliche Aktion, die Sie mit einer Assoziation ausführen, die als Auslöser dafür dient, die Vergangenheit loszulassen und mit dem nächsten Stück oder dem nächsten Teil Ihres Tages fortzufahren. Dann (#2) atmen Sie tief ein, während Sie auf einen festen Punkt blicken, den wir als Brennpunkt bezeichnen, um Ihr Gehirn mit Sauerstoff zu versorgen und wieder die Kontrolle über sich selbst zu erlangen. Und dann haben Sie (#3) einen verbalen Auslöser, den Sie sagen, der die Vergangenheit abschneidet und Ihr Engagement für die Gegenwart festigt.“
+
+Dann stand Trainer Kenny auf, klatschte in die Hände, holte tief Luft, wischte sich mit den Händen über die Brust, als würde er sich den Dreck abwischen, und sagte: „GUT. Was ist jetzt wichtig?“
+
+[The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

@@ -102,6 +102,32 @@ Wir brauchen moralischen Mut, damit wir unser Verhalten an unseren Prinzipien au
 
 [Courageous Dreaming](https://www.goodreads.com/book/show/2921752-courageous-dreaming)
 
+## Haie + Tyrannen
+
+Aber wir wollten beide so sehr SEALs sein, dass uns nichts im Wasser in dieser Nacht aufhalten konnte. 
+
+Wenn wir uns gegen die Haie wehren müssten, wären wir beide darauf vorbereitet. 
+
+Unser Ziel, das wir für ehrenhaft und edel hielten, gab uns Mut, und Mut ist eine bemerkenswerte Eigenschaft. 
+
+Nichts und niemand kann dir im Weg stehen. 
+
+Ohne ihn werden andere Ihren Weg nach vorne bestimmen. 
+
+Ohne ihn sind Sie den Versuchungen des Lebens ausgeliefert. 
+
+Ohne Mut werden die Menschen von Tyrannen und Despoten regiert. 
+
+Ohne Mut kann keine große Gesellschaft gedeihen. 
+
+Ohne Mut erheben sich die Tyrannen der Welt. 
+
+Damit können Sie jedes Ziel erreichen. 
+
+Damit können Sie dem Bösen trotzen und es besiegen.
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
 ## Bücher
 
 - [The Courage Quotient](https://www.goodreads.com/book/show/13720625-the-courage-quotient)

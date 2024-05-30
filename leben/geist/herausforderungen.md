@@ -661,6 +661,46 @@ Wenn dieses also angegriffen wird, muss das individuelle Selbst seine Abwehrkrä
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Heroische Seelenschwielen
+
+Die Zeit stand still, als mir zum ersten Mal klar wurde, dass ich mein ganzes Leben, alles, was ich durchgemacht hatte, immer aus der falschen Perspektive betrachtet hatte. 
+
+Ja, all der Missbrauch, den ich erlebt hatte, und die Negativität, die ich durchstehen musste, forderten mich bis ins Mark heraus, aber in diesem Moment hörte ich auf, mich als Opfer schlechter Umstände zu sehen, und betrachtete mein Leben stattdessen als ultimatives Trainingsgelände. 
+
+Meine Nachteile hatten meinen Geist die ganze Zeit über verhärtet und mich auf diesen Moment in diesem Pool mit Psycho Pete vorbereitet.
+
+Ich erinnere mich an meinen allerersten Tag im Fitnessstudio in Indiana. 
+
+Meine Handflächen waren weich und wurden schnell von den Stangen aufgerissen, weil sie es nicht gewohnt waren, Stahl zu greifen. 
+
+Aber mit der Zeit, nach Tausenden von Wiederholungen, bildeten sich auf meinen Handflächen dicke Hornhaut als Schutz. 
+
+Das gleiche Prinzip funktioniert, wenn es um die Denkweise geht. 
+
+Solange Sie keine Härten wie Missbrauch und Mobbing, Misserfolge und Enttäuschungen erleben, bleibt Ihr Geist weich und ungeschützt. 
+
+Lebenserfahrung, insbesondere negative Erfahrungen, helfen dabei, den Geist abzuhärten. 
+
+Aber es liegt an Ihnen, wo diese Hornhaut hinführt. 
+
+Wenn Sie sich im Erwachsenenalter als Opfer der Umstände sehen, wird diese Gefühllosigkeit zu einem Groll, der Sie vor dem Unbekannten schützt. 
+
+Sie werden dadurch zu vorsichtig und misstrauisch und möglicherweise zu wütend auf die Welt. 
+
+Sie werden Angst vor Veränderungen haben und schwer erreichbar sein, aber nicht hart im Nehmen. 
+
+So war ich als Teenager, aber nach meiner zweiten Höllenwoche war ich ein neuer Mensch geworden. 
+
+Ich hatte mich bis dahin durch so viele schreckliche Situationen gekämpft und war offen und bereit für mehr. 
+
+Meine Fähigkeit, offen zu bleiben, zeigte meine Bereitschaft, für mein eigenes Leben zu kämpfen, was es mir ermöglichte, Hagelstürmen des Schmerzes standzuhalten und sie zu nutzen, um meine Opfermentalität zu überwinden. 
+
+Diese Scheiße war unter Schichten aus Schweiß und verdammt hartem Fleisch begraben, und ich begann auch, meine Ängste zu überwinden. 
+
+Diese Erkenntnis gab mir den mentalen Vorsprung, den ich brauchte, um Psycho Pete noch einmal zu überstehen.
+
+[Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

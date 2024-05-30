@@ -323,6 +323,36 @@ Um Mut und Mäßigung zu zeigen, mussten wir unsere Ängste bzw. Wünsche meiste
 
 [How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
 
+## Die zehn Lektionen
+
+Denken Sie daran: Beginnen Sie jeden Tag mit einer erledigten Aufgabe. 
+
+Finden Sie jemanden, der Ihnen durchs Leben hilft. Respektiere jeden. Wisse, dass das Leben nicht fair ist und dass du oft scheitern wirst. 
+
+Aber wenn Sie Risiken eingehen, in schwierigen Zeiten aufstehen, sich den Tyrannen entgegenstellen, die Unterdrückten aufrichten und niemals aufgeben – wenn Sie diese Dinge tun, dann können Sie Ihr Leben zum Besseren verändern und vielleicht sogar zum Besseren Welt!
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
+## Gib niemals auf
+
+Er ließ das Seil los, das am Klöppel der Glocke befestigt war. „Klingeln Sie, und Sie müssen nicht früh aufstehen. Wenn Sie die Klingel betätigen, müssen Sie nicht mehr lange laufen, kalt schwimmen oder den Hindernisparcours absolvieren. Klingeln Sie, und Sie können diesen ganzen Schmerz vermeiden.“
+
+Dann warf der Lehrer einen Blick auf den Asphalt und schien von seinem vorbereiteten Monolog abzubrechen. „Aber lassen Sie mich Ihnen etwas sagen“, sagte er. „Wenn du aufgibst, wirst du es für den Rest deines Lebens bereuen. Aufhören macht nie etwas einfacher.“
+
+Sechs Monate später standen bei der Abschlussfeier nur noch dreiunddreißig von uns. 
+
+Einige hatten den einfachen Ausweg gewählt. 
+
+Sie hatten aufgehört, und ich schätze, der Lehrer hatte recht, sie würden es für den Rest ihres Lebens bereuen.
+
+Von allen Lektionen, die ich im SEAL-Training gelernt habe, war dies die wichtigste. Gib niemals auf. 
+
+Es klingt nicht besonders tiefgreifend, aber das Leben bringt einen ständig in Situationen, in denen es viel einfacher erscheint, aufzuhören, als weiterzumachen. 
+
+Wo die Chancen so schlecht stehen, dass es vernünftig erscheint, aufzugeben.
+
+[Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

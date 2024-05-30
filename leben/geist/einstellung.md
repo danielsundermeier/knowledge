@@ -100,6 +100,24 @@ Einem Menschen kann man alles nehmen, bis auf eines; die letzte menschliche Frei
 
 [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)
 
+## Die 10 Säulen der geistigen Leistungsbeherrschung
+
+Du weißt was zu tun ist; Sie tun einfach nicht das, was Sie wissen, weil Sie keine elitäre Denkweise haben, es Ihnen an Führung mangelt und Sie sich nicht mit der richtigen Kultur umgeben haben. 
+
+Außerdem mangelt es Ihnen an Motivation und Engagement und Sie verfügen nicht über den Fokus und das Bewusstsein, die Sie erreichen müssen. 
+
+Ihr Prozess funktioniert hinsichtlich der Ergebnisse, die Sie erzielen, hervorragend, und die Ergebnisse, die Sie erzielen, sind nicht die Ergebnisse, die Sie sich wünschen. 
+
+Ihre Selbstbeherrschung und Disziplin sind schwach, Sie verstehen die verzögerte Befriedigung nicht und die Großartigkeit, die damit einhergeht, das, was Sie sich im Moment wünschen, für das aufzuschieben, was Sie am meisten wollen, und Sie können sich die Zukunft, die Sie sich wünschen, nicht vorstellen, weil Sie sie nicht visualisieren, meditieren Sie oder schaffen Sie sich den ruhigen Raum, den Sie in Ihrem Alltag dafür nutzen. 
+
+Sie haben auch keinen verantwortlichen Partner oder Mentor, der Ihnen beim Wachstum hilft. 
+
+Sie sterben langsam auf einer Insel der Isolation – Sie existieren nur, leben und wachsen nicht. 
+
+Du gibst der Welt dein B- oder C-Spiel, und du weißt es nicht einmal, weil dir nie beigebracht wurde, wie du dein A-Spiel ablieferst.
+
+[The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

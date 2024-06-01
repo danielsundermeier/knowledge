@@ -173,6 +173,30 @@ Für andere ist möglicherweise eine bewusstere Anstrengung erforderlich. Willst
 
 [Spartan Up](https://www.goodreads.com/book/show/19583491-spartan-up)
 
+## Anhaltende Besessenheit
+
+Anhaltende Besessenheit. 
+
+Brad Alan Lewis und sein Ruderpartner Paul Enquist gewannen bei den Olympischen Spielen 1984 in Los Angeles die Goldmedaille im Doppelzweier. 
+
+Sie waren damit die ersten US-Ruderer seit 1964, die Gold holten, und das erste US-Doppelsitzerteam seit 1932, das Gold holte. 
+
+Für Lewis ist hohes Engagement gleichbedeutend mit anhaltender Besessenheit. 
+
+In seinem Buch „Wanted: Rowing Coach“ erklärt er, wie er von gut zu Gold kam: „Wenn hier jemand heimlich davon träumt, an den Olympischen Spielen teilzunehmen, kann ich Ihnen genau sagen, wie das geht: zwei Worte: Anhaltende Besessenheit. Die Besessenheit ist nicht so schwer. Aber sie aufrechtzuerhalten ist eine harte Nuss.“
+
+Exzellenz ist kein Zufall. 
+
+Sie ist mehr als ein kurzfristiges Ziel, ein Zufall oder eine Leistung. 
+
+Sie wird gezielt entwickelt und erreicht, indem man sich hohe, wettbewerbsfähige Ziele setzt und hartnäckig verfolgt. 
+
+Die größten Champions der Geschichte hatten alle eine langfristige Vision und einen Plan für das, was sie erreichen wollten, und widmeten sich gleichzeitig täglich ihrem Spezialgebiet. 
+
+Wenn Sie sich tägliche oder wöchentliche Verbesserungsziele setzen, können Sie sicherstellen, dass Sie immer richtig arbeiten.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

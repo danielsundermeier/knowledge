@@ -1172,6 +1172,26 @@ Bleiben Sie bei diesem Prozess und schon bald wird das, was Sie für unmöglich 
 
 [Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
+## Gut, besser, am besten
+
+Wie können Sie Ihren Fortschritt objektiv bewerten und auf Ihrem Erfolg aufbauen? 
+
+Um Kreativität zu wecken und neue Ideen zur Verbesserung Ihrer Leistung zu generieren, besprechen Sie Ihr Spiel regelmäßig. 
+
+Bewerten Sie die mentalen, technischen und taktischen Aspekte. 
+
+Stellen Sie sich insbesondere drei Fragen: 
+
+1) Was habe ich gut gemacht? 
+2) Was muss besser werden? 
+3) Welche Änderungen sollte ich vornehmen, um mein Bestes zu geben? 
+
+Dieser Prozess ermöglicht es Ihnen, über jeden Bereich Ihres Spiels umfassend nachzudenken und dann in die Details einzutauchen. 
+
+Machen Sie dies zu Ihrem Champion-Tagebuch.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

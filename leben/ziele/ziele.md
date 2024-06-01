@@ -542,6 +542,46 @@ Denken Sie daran: Zentimeter für Zentimeter ist das Setzen eines Ziels ein Kind
 
 [The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
 
+## Das „WARUM“ zu Ihrem großen Ziel
+
+Wie also verstehen Sie Ihr Warum? 
+
+Was bei mir funktioniert hat, ist die Verwendung dessen, was ich meine Ergebniskonten nenne. 
+
+Immer wenn ich mir ein neues Meilensteinziel ausdenke, erstelle ich ein Ergebniskonto. 
+
+Das ist eine einfache Möglichkeit, zu testen, wie wichtig mir dieses Ziel wirklich ist. 
+
+Manche Ziele sind einfach nicht so wichtig wie andere – manche sind nur nette Ziele, keine Must-haves. 
+
+Sie können Ergebniskonten für jedes Ziel verwenden, aber ich finde dieses Tool besonders hilfreich, wenn ich ein Meilensteinziel anstrebe – etwas, für dessen Erreichung Monate, wenn nicht Jahre, Ausdauer erforderlich sind.
+
+Ich habe ein Ergebniskonto verwendet, um meine Gründe dafür darzulegen, warum ich den Kopf gesenkt, hart gearbeitet und diejenigen, die mir helfen, von denen getrennt habe, die mich scheitern sehen wollen. 
+
+Das Ergebniskonto ist mein allerwichtigster erster Schritt, um UNSTOPPBAR zu sein. 
+
+Wie Master und Commander Peter dem jungen Captain Tim beibringt: „Wenn Sie Ihr Warum erst einmal verstanden haben, werden Sie Ihren Weg finden.“
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
+## So planen Sie in 3D
+
+Nichts davon ist schwer; es braucht nur Zeit, Kreativität, Engagement und Weitsicht. 
+
+Sowohl das Training für eine SEAL-Mission als auch das Verfolgen Ihres eigenen Meilensteinziels erfordern dreidimensionale Planung. 
+
+Ich nenne Aktion Nr. 2 „Planen in 3-D“, nicht nur, weil gute Planung dreidimensionales Denken erfordert, sondern auch, weil jede dieser Dimensionen mit dem Buchstaben „D“ beginnt. 
+
+Denken Sie daran, es geht nicht darum, einen perfekten Plan zu erstellen, denn so etwas gibt es nicht. 
+
+Es geht darum, einen Plan zu erstellen, der Sie zum Erfolg führt, egal auf welche Hindernisse Sie stoßen.
+
+- Definieren Sie es
+- Teilen Sie es auf
+- Tun Sie es täglich
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

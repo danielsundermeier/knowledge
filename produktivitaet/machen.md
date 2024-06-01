@@ -820,6 +820,36 @@ V. Entschlossenheit: Sie müssen den unerschütterlichen Willen haben, den Job z
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## U.P.E.R.S.I.S.T.
+
+Der junge Kapitän war immer noch sprachlos, als er das Paddel behutsam hielt und es vom Griff bis zur Blattspitze musterte. 
+
+Auf Griff, Stiel und Blatt waren Buchstaben und Wörter eingraviert. 
+
+Tim sah genauer hin und sah, dass vom Griff den Stiel hinunter ‚UPERSIST‘ stand. 
+
+Auf dem Blatt stand das Zitat vom Kompass am Steuer des Kapitäns und Kommandanten: ‚Nichts auf der Welt kann Beharrlichkeit ersetzen. Talent nicht; nichts ist häufiger als erfolglose Männer mit Talent. Genie nicht; unbelohntes Genie ist fast ein Sprichwort. Bildung nicht; die Welt ist voller gebildeter Versager. Nur Beharrlichkeit und Entschlossenheit sind allmächtig. Der Slogan ‚Press On‘ hat die Probleme der Menschheit gelöst und wird sie immer lösen.‘ 
+
+Ganz unten standen die Buchstaben N E G U, eindeutig von jemand anderem geschnitzt. 
+
+Tim lächelte; er wettete, diese Buchstaben waren Roberts Werk.
+
+Kapitän Peter hörte ihn den Code aufsagen: ‚U – Verstehen; P – Planen; E – Üben; R – Erkennen; S – Untersuchen; I – Improvisieren; S – Suchen; T – Team bilden. 
+
+Es ist genial! Ich habe mich gefragt, wie ich mir alle acht Aktionen merken soll“, sagte Tim.
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
+## Hässlich, aber effektiv
+
+Nehmen Sie sich jetzt eine Minute Zeit, um über Ihre Leistung nachzudenken, als Sie nicht an ein gutes oder respektables Ergebnis geglaubt haben, aber trotzdem einen Weg gefunden haben, es zu erreichen. 
+
+Es ist schön, hässlich, aber effektiv (UBE) zu sein oder einen guten schlechten Tag (GBD) zu haben, während Sie nicht in Bestform sind. 
+
+Behalten Sie den Kopf im Spiel und kämpfen Sie durch.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

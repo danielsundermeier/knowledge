@@ -432,6 +432,54 @@ Es dürfte keine Überraschung sein, dass das Wort „Bodhisattva“ mit „held
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Den Tyrannen die Stirn bieten
+
+Als im Herbst die Schule wieder begann, stellte Adam Jeff allen als seinen neuen Freund vor. 
+
+Er erzählte ihnen von „Busch“, der die Seilschaukel der 70 West Bridge ausprobierte, was ihm, wie Adam zugab, „einen Heidenschrecken einjagte“. 
+
+Ein solches Lob, das von Adam Brown kam, verlieh dem Neuling sofort Street Credibility und schmiedete eine lebenslange Freundschaft.
+
+„Mit dreizehn, wenn die meisten Kinder herzlos und ausgesprochen gemein sind, wusste Adam, was es heißt, nett zu sein“, sagt Jeff. „Er tat alles, damit man sich gut fühlte.“ 
+
+Und Adam war mit jedem befreundet. „Er überwand Cliquen. Ich habe ihn nie etwas Gemeines über andere sagen hören, aber er stand immer für die Leute ein.“
+
+In diesem Jahr in der achten Klasse hing Adam eines Morgens mit Freunden vor der Schule herum, als ein Schulbus anhielt und die Schüler herausströmten. 
+
+Die meisten Kinder gingen zur Eingangstür, aber drei Jungen hielten Richie Holden, der das Down-Syndrom hatte, an und verspotteten ihn, indem sie ihn beschimpften. 
+
+Obwohl Adam kleiner war als die anderen Schläger, marschierte er dennoch zu Richie und stellte sich vor ihn. 
+
+„Wenn du jemanden schikanieren willst“, sagte er, „dann kannst du mich schikanieren – wenn du denkst, dass du groß genug bist.“
+
+„Die drei zogen sich zurück“, sagt Richies Vater Dick Holden, als er die Geschichte wiedergibt, die ihm Richie und seine ältere Schwester Rachel erzählten. 
+
+„Adam legte seinen Arm um Richie und ging mit ihm durch die Tür und dann den ganzen Weg zu seinem Klassenzimmer. Richie hat das nie vergessen und ich weiß noch, dass ich dachte: Dieser Brown-Junge – er ist etwas Besonderes.“
+
+[Fearless](https://www.goodreads.com/book/show/12878300-fearless)
+
+## Träume groß und setze es um!
+
+Egal, was Ihr Ziel ist, denken Sie immer daran, dass ohne ein Team nichts Großes erreicht werden konnte. Punkt. 
+
+Kein Einzelner kann alles erreichen. 
+
+Sich zusammenzutun ist ein wesentlicher Schritt, um Ihren Traum zu verwirklichen. 
+
+Es kann den Unterschied zwischen Untätigkeit und unglaublichem Erfolg ausmachen. 
+
+Alles beginnt mit der ersten Aktion von UPERSIST: Verstehen Sie Ihr Warum. 
+
+Wenn Sie wissen, warum Sie bereit sind, hart zu arbeiten und Risiken einzugehen, um Ihr Ziel zu erreichen, können Sie anderen zeigen, warum sie sich mit Ihnen zusammentun sollten. 
+
+Sobald Sie einen Teamkollegen haben, können Sie weitere Teamkollegen anziehen, und dann sind Ihren Möglichkeiten keine Grenzen mehr gesetzt. 
+
+Alles beginnt mit einem Traum. Worauf warten Sie also noch? Träumen Sie, als ob alles möglich wäre. 
+
+Träumen Sie groß und TUN SIE ES!
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

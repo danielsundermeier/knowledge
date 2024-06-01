@@ -244,6 +244,28 @@ Unmittelbar nach der anstrengenden Aktivität hatten die Schüler der Übungsgru
 
 [Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
 
+## Die magischen Pillen, die Sie schlauer, glücklicher und ... machen.
+
+Was wäre, wenn ich Ihnen von einer Pille erzählen würde, die Sie klüger macht, Ihnen beim Abnehmen und Muskelaufbau hilft, Depressionen bekämpft, Ihre Leistungsfähigkeit verbessert und zahlreichen lebensbedrohlichen Krankheiten wie Herzkrankheiten und Diabetes vorbeugt? 
+
+Was würden Sie für diese Pille bezahlen – 10, 50 oder vielleicht 100 Dollar?
+
+Und was wäre, wenn ich Ihnen sagen würde, dass diese Pille Ihr Schicksal ändern könnte, indem sie Sie erfolgreich und vielleicht sogar berühmt macht, falls Ruhm Ihr Traum ist? 
+
+Und was wäre, wenn ich Ihnen sagen würde, dass diese Pille Ihnen das Selbstvertrauen geben könnte, alles zu tun, was Sie sich vorgenommen haben? 
+
+Wie viel wäre Ihnen die Pille jetzt wert? 1.000 Dollar? Vielleicht 10.000 Dollar?
+
+Wenn ich nicht weiterkomme, mache ich eine Pause und nehme eine 30-Minuten-Trainingspille. 
+
+Bewegung macht meinen Kopf frei und hilft mir, weiterzukommen. 
+
+Beim SEAL-Training boten die Ausbilder eine einfache Lösung an, wenn uns Zweifel im Kopf herumschwirrten: „Wenn du Zweifel hast – drück sie raus!“ 
+
+So sehr wir es auch verabscheuten, während unserer Ausbildung und unserer Karriere in den Teams Zehntausende Liegestütze zu machen, sie bleiben eine der einfachsten und effektivsten Trainingsformen.
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

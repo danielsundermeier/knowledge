@@ -737,6 +737,58 @@ Dann stand Trainer Kenny auf, klatschte in die Hände, holte tief Luft, wischte 
 
 [The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
 
+## Die zwei Grenzen des Lebens
+
+„Schlichtheit ist schön, mein Freund“, sagte Peter. „Der Code ist einfach und ich habe ihn in ein leicht zu merkendes Framework gepackt. Wie Sie ihn jedoch anwenden, liegt ganz bei Ihnen. Ich hoffe, dieses Paddel wird Sie immer daran erinnern, dass Sie im Leben nur durch zwei Dinge eingeschränkt sind: Ihre Fähigkeit zu träumen und den Mut, diese Träume zu verfolgen. Außerhalb dieses Hafens wartet eine erstaunliche Welt auf Sie.“ 
+
+Peter deutete auf den Bug der Persistence, der auf Hardwork Bay zusteuerte. „Sie haben das Boot und den Verstand, um die Welt zu erkunden. Alles, was Sie jetzt tun müssen, ist, einen Kurs zu finden und den Mut zu haben, ihm zu folgen.“
+
+[Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
+
+## Die Vision eines Champions
+
+Meine Lieblingsbeschreibung von Spitzenleistungen in der Welt des Sports stammt von Anson Dorrance, dem legendären Fußballtrainer der Frauen der University of North Carolina. 
+
+Er fuhr eines Morgens früh zur Arbeit und als er an einem verlassenen Feld vorbeikam, bemerkte er in der Ferne eine seiner Spielerinnen, die alleine zusätzliches Training absolvierte. 
+
+Er fuhr weiter, hinterließ aber später eine Notiz in ihrem Spind: „Die Vision eines Champions ist jemand, der gebeugt und schweißgebadet am Rande der Erschöpfung steht, wenn niemand sonst zusieht.“ 
+
+Die junge Frau, Mia Hamm, sollte eine der größten Spielerinnen in der Geschichte des Sports werden.
+
+Ein großer Traum – und eine klare Vorstellung davon, wie man aussehen wird, wenn man nach Spitzenleistungen im Wettbewerb strebt – inspiriert immer zu Großartigkeit. 
+
+Was ist Ihr Traumziel? 
+
+Wie sieht Spitzenleistung in Ihrem Spiel aus, wenn Sie voll und ganz bei der Sache sind und Ihren Traum leidenschaftlich verfolgen – die Beste in Ihrem Sport zu werden, die Sie sein können? 
+
+Formulieren Sie die Beschreibung lebendig und kraftvoll genug, um Ihnen den Adrenalinschub zu geben, wenn Sie ihn brauchen, einen Schub, der nur entstehen kann, wenn Sie sich vollständig mit dem wahren Wunsch Ihres Herzens identifizieren.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
+## Das Ehrenversprechen des Champions
+
+Haben Sie den Mut, das zu verfolgen, was Sie im Sport und im Leben am meisten wollen. 
+
+Wenn Sie den Mut haben, anzufangen, werden Sie auch den Mut haben, es zu beenden. 
+
+Machen Sie „Denken Sie an Gold und geben Sie sich nie mit Silber zufrieden“ zu Ihrem Lebensmotto und setzen Sie es täglich in die Tat um. 
+
+Entfalten Sie das Potenzial Ihres Lebens voll und ganz – sowohl auf dem Spielfeld als auch außerhalb –, denn Ihr Leben ist einzigartig. 
+
+So zu denken ist der ultimative Sieg für jeden Champion. Jetzt sind Sie bereit, das Ehrengelöbnis des Champions abzulegen:
+
+Durch meine Bemühungen werde ich meinen Körper stark, meinen Geist konzentriert und meine Entschlossenheit unaufhaltsam halten.
+Ich bin entschlossen, im Hier und Jetzt mit Kraft, Zielstrebigkeit und Leidenschaft anzutreten.
+Ich weiß, dass jeder Muskelkater und jeder Schweißtropfen eine Investition in Exzellenz ist.
+Ich strebe danach, mein Bestes zu geben, nichts Geringeres, und Freude wird aus meinem Streben kommen.
+Es stimmt, es kommt immer Schmerz, aber ich kann ihn ertragen.
+Mein Körper gewinnt, wenn mein Geist sich weigert, aufzugeben.
+In einer Niederlage werde ich nachdenken und lernen.
+Im Sieg werde ich den herrlichen Moment genießen.
+Morgen beginnen meine Bemühungen immer von Neuem.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

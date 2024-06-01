@@ -182,6 +182,14 @@ Wenn ich meinen Tag damit beginne, über all die Dinge nachzudenken, für die ic
 
 [Do You!](https://www.goodreads.com/book/show/27905.Do_You_)
 
+## Ein Symbol demütigen Dienstes
+
+Der Dreizack besteht aus vier Bestandteilen: dem Anker, der die Marine symbolisiert; dem Dreizack, der die historischen Verbindungen der SEALs zur See symbolisiert; der gespannten Pistole, die an die Fähigkeiten der SEALs an Land und ihre ständige Einsatzbereitschaft erinnert; und dem Adler, der – abgesehen davon, dass er das nationale Freiheitssymbol ist – die Fähigkeit der SEALs symbolisiert, aus der Luft einzugreifen. 
+
+Der Kopf des Adlers wird traditionell hoch gehalten, aber auf dem Dreizack ist sein Kopf gesenkt, was bedeutet, dass die Stärke eines wahren Kriegers aus Demut kommt.
+
+[Fearless](https://www.goodreads.com/book/show/12878300-fearless)
+
 ## Bücher
 
 - [Thanks!](https://www.goodreads.com/book/show/1685992.Thanks_)

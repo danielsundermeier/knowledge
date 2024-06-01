@@ -701,6 +701,24 @@ Diese Erkenntnis gab mir den mentalen Vorsprung, den ich brauchte, um Psycho Pet
 
 [Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
+## Das Beste vom Besten
+
+Als Adam erkannte, dass sich seine Sehkraft nicht verbessern würde, entschied er, dass die beste Vorbereitung auf das DEVGRU-Auswahlverfahren die Qualifizierung und Teilnahme an der Naval Special Warfare Sniper School wäre, dem wohl schwierigsten fortgeschrittenen Kampfkurs der Navy – abgesehen vom Green Team. 
+
+„Bei weitem die härteste Schule, die ich je besucht habe“, sagt Christian. „Ich war erleichterter, sie zu beenden als BUD/S. 
+
+Jeden Tag jede Menge Druck und ich konnte mich auf beide Augen verlassen.
+
+Um diesen anspruchsvollen Lehrplan zu meistern, änderte Adam seine Schießhaltung komplett und lernte, mit der linken Hand zu schießen, um sein nicht dominantes Auge optimal zu schonen. 
+
+Am 8. April schloss er die Scharfschützenschule ab, eine Leistung, die Brad, ein lebenslanger Jäger, für „beinahe göttlich“ hält.
+
+„Da draußen war jemand“, sagt Brad, „der einfach sagte: ‚Adam, du wirst es schaffen‘, und Adam sagte: ‚Okay, hab‘s geschafft.‘ 
+
+Anders kann ich es nicht erklären. Innerhalb eines Jahres vor diesem Kurs die Sehkraft auf dem guten Auge zu verlieren und zu sagen: „Scheiß drauf, ich gehe in die Scharfschützenschule – und übrigens, ich mache alles mit der linken Hand“, das ist knallhart. Ich glaube nicht, dass so etwas in der Geschichte der Scharfschützenschulen auf der Welt jemals passiert ist.“
+
+[Fearless](https://www.goodreads.com/book/show/12878300-fearless)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

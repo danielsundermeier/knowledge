@@ -225,5 +225,18 @@ Ich war dort, um mich selbst umzukrempeln, wenn das nötig war, um alle mentalen
 
 [Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
+## Definieren wir mentale Stärke
+
+Mentale Stärke bedeutet nicht, die Zähne zusammenzubeißen, sich mehr anzustrengen, mehr nachzudenken, die Augen anzustrengen, um zu fokussieren, oder sich von jemandem anschreien zu lassen: „Seien Sie hart!“. 
+
+Mentale Stärke ist die Fähigkeit, auch unter den widrigsten Umständen positiv und proaktiv zu bleiben.
+
+Mentale Stärke beruht darauf, schwierige Dinge immer und immer wieder zu tun, insbesondere wenn Ihnen nicht danach ist. 
+
+Halten Sie durch, auch wenn Sie sich nicht gut fühlen, wenn Sie sich an schlechten Tagen nicht gut fühlen. 
+
+Ablenkung, Unbehagen und Schwierigkeiten sind für den Champion kein Problem.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
 

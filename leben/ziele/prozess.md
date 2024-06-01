@@ -149,6 +149,22 @@ Das Ergebnis können wir zwar beeinflussen, aber nicht kontrollieren.
 
 [Coaching the Mental Game](https://www.goodreads.com/book/show/783131.Coaching_the_Mental_Game)
 
+## Sand in der Hand
+
+Höchstleistungen zu erzielen ist wie der Versuch, einen kleinen Sandhaufen davon abzuhalten, Ihnen aus der Hand zu rutschen. 
+
+Wenn Sie ihn zu fest halten, wird der Sand zwischen Ihren Fingern eingeklemmt. 
+
+Und wenn Sie ihn zu locker halten, rutscht er Ihnen durch die Hand. 
+
+Den Sand zu fest zu halten ist vergleichbar damit, sich zu sehr um das Ergebnis zu sorgen und sich zu sehr anzustrengen, um ein Ergebnis zu erzielen. 
+
+Ihn zu locker zu halten ist vergleichbar damit, sich zu wenig zu sorgen und keine mentale Disziplin aufzubringen. 
+
+Die meisten Sportler würden davon profitieren, sich bei großen Wettkämpfen genug, aber nicht zu sehr um das Ergebnis zu sorgen, damit sie ihrem Talent freien Lauf lassen und es natürlich und ungezügelt ausüben können. „Wer greift, verliert“, schrieb Lao-tzu im Tao te Ching.
+
+[The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

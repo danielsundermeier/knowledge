@@ -612,6 +612,26 @@ Auf diese Weise befähigen wir auch andere, ihr volles Potenzial auszuschöpfen.
 
 [The Seven Spiritual Laws of Superheroes](https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes)
 
+## Imagineering
+
+Imagineering – die Technik, unserem Geist zu zeigen, wie wir die Dinge gerne hätten, und ein Begriff, der erstmals durch den legendären Träumer Walt Disney berühmt wurde. 
+
+Wir alle sollten seinen Rat befolgen und uns erlauben, sinnliches Imagineering zu praktizieren. 
+
+Champions nutzen Imagineering vor ihren Wettkämpfen. 
+
+Es wird auch oft von Menschen verwendet, um ihnen zu helfen, ein Projekt erfolgreich abzuschließen oder ein wichtiges Ziel im Laufe der Zeit zu erreichen. 
+
+Diese einfache Übung hat sich als so wichtig und so effektiv erwiesen, dass der Athlet, der diese Technik nicht anwendet, anscheinend nie sein wahres Potenzial ausschöpft. 
+
+(Interessanterweise wurden die gleichen Ergebnisse auch bei Schauspielern und Musikern beobachtet.) 
+
+Für jede Art von Leistung ist die mentale Vorbereitung genauso wichtig wie das körperliche Training. 
+
+Wenn Sie also „Imagineering“ aus Ihrer Vorbereitung weglassen, werden Sie sich selbst schaden und Ihrem Gegner helfen.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

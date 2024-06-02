@@ -283,6 +283,20 @@ Mit diesen beiden Fähigkeiten werden Sie das Selbstvertrauen haben, jede Heraus
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## Die wichtigste Lektion: Selbstvertrauen
+
+Als die Sonne im Meer versank, erinnerte ich mich an so viele andere Lektionen, die ich im Laufe der Jahre bei Sonnenuntergang gelernt hatte. 
+
+Vielleicht erinnerte sich Leo-tai auch an sie, denn plötzlich sagte er: „Was ist deiner Meinung nach das Wichtigste, das du von all unseren Lektionen immer im Gedächtnis behalten solltest? Wenn es nur eines gäbe, was wäre das deiner Meinung nach?“
+
+So viele Dinge, dachte ich … ich dachte intensiv nach. Lernen, niemals aufzugeben, keine Negativität zuzulassen, Selbstdisziplin, im Hier und Jetzt zu bleiben, Wut und Angst unter Kontrolle zu halten, Imagineering, an meine Träume zu glauben.
+
+Und dann fiel mir ein: „Der Glaube an sich selbst ist es, der alles in Gang bringt.“
+
+„Der Glaube an sich selbst“, sagte ich ihm. Unsere Blicke trafen sich und er strahlte zurück.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

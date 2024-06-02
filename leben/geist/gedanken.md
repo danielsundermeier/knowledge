@@ -507,6 +507,22 @@ Sie werden oft feststellen, dass eine Änderung Ihrer Perspektive in Bezug auf d
 
 [How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
 
+## Stoppen Sie das Negative. Feuern Sie das Positive ab.
+
+Er hat mir beigebracht, negative Selbstgespräche sofort zu unterbrechen, wenn ich sie bemerke, und sie durch positive Selbstgespräche zu ersetzen. 
+
+Dinge wie: Ich bin schnell, ich bin konzentriert, ich bin gut. 
+
+Er hat immer gesagt, man solle sich nicht von negativen Gedanken aufhalten lassen. 
+
+Man muss die Negativität ausschalten und stattdessen sein Selbstvertrauen stärken. 
+
+Das wird die Konzentration verbessern und das Spannungsniveau senken, was zu besseren Leistungen führt. 
+
+Das Abschalten negativer Selbstgespräche beginnt damit, sie zu unterbrechen und dann sofort durch sie zu ersetzen.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

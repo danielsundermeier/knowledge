@@ -239,4 +239,34 @@ Ablenkung, Unbehagen und Schwierigkeiten sind für den Champion kein Problem.
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## Warum Mentaltraining?
+
+Sie müssen sich an eine Gelegenheit erinnern, bei der Sie Ihre beste Leistung gezeigt haben – und dann an eine Zeit, als Sie am schlechtesten waren. 
+
+Wenn Sie sich diese beiden Leistungen ansehen, möchte ich, dass Sie ehrlich zu sich selbst sind und sich fragen, was den größten Unterschied zwischen den beiden ausgemacht hat? 
+
+Könnte es Ihre mentale Verfassung gewesen sein, die den größten Unterschied gemacht hat?
+
+Und das ist der wichtige Punkt: Egal, was Ihr Spiel ist oder was die Herausforderung ist, der Unterschied zwischen großartigen und durchschnittlichen Leistungen ist hauptsächlich mentaler Natur. 
+
+Sobald Sie ein bestimmtes Leistungsniveau erreicht haben, sind es Ihre mentalen Fähigkeiten, die den entscheidenden Unterschied machen. 
+
+Je besser sie sind, desto besser werden Sie – und desto besser werden Ihre Ergebnisse sein.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
+## Die kritischen Drei
+
+Atmung, Entspannung und Vorstellungskraft werden in den Lektionen so oft erwähnt, weil sie für den Krieger/Champion so grundlegende Werkzeuge sind. 
+
+Ich nenne sie „Die entscheidenden Drei“. 
+
+Ich erinnere mich, wie oft Leo-tai von allen dreien sprach. 
+
+Sie sind entscheidend, um das ideale mentale Klima zu schaffen, aus dem Spitzenleistungen entstehen.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
+
+
 

@@ -118,6 +118,16 @@ Du gibst der Welt dein B- oder C-Spiel, und du weißt es nicht einmal, weil dir 
 
 [The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
 
+## Deine Einstellung
+
+„Ein Champion bringt sich selbst bei, Dinge in seinem Kopf umzudrehen“, erklärte ich. 
+
+„Er lernt, einen negativen Rückschlag sowohl als vorübergehend als auch als Chance für eine positive Veränderung zu betrachten. Er weiß, dass die Dinge, die er aus seinem Verlust lernen kann, ihn auf lange Sicht noch besser und stärker machen werden. Der Mental Warrior lernt aus seinen Rückschlägen und lässt sich nicht davon abhalten, sein wahres Potenzial auszuschöpfen.“
+
+„Also halte dein Selbstgespräch positiv. Behalte deine Einstellung positiv. Auf diese Weise gibst du dir selbst die beste Chance, gute Leistungen zu erbringen. Gehe mit Mut und Entschlossenheit an deine inneren Gefühle heran; lass niemals zu, dass eine schlechte Einstellung dich davon abhält, das Maß an persönlichem Erfolg zu erreichen, zu dem du fähig bist.“
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

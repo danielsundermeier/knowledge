@@ -320,6 +320,30 @@ Selbst der Gedanke an Belohnungen hatte eine nachteilige Wirkung.
 
 [The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
 
+## Fehlt Ihnen die Motivation? Setzen Sie sich Ziele!
+
+Krieger/Champions machen sich daran, ihre Träume wahr werden zu lassen, indem sie aktiv werden und sich Ziele setzen. 
+
+Mentale Athleten sind zielorientiert. Sie haben eine Vision. 
+
+Wenn sich ein Athlet über mangelnde Motivation beschwert, können Sie sicher sein, dass dies fast immer an Zielen liegt, die ihn nicht zum Handeln inspirieren. 
+
+Ziele dienen dazu, Sie auf Kurs zu halten. Sie steigern den Wunsch, etwas zu erreichen.
+
+Wenn Sie Ihre eigenen, privaten Ziele setzen, achten Sie darauf, dass sie sowohl herausfordernd als auch realistisch sind. 
+
+Ziele, die etwas unerreichbar sind, sind am besten: Sie inspirieren zu harter Arbeit, sind aber dennoch mit engagiertem Einsatz erreichbar. 
+
+Ziele dürfen weder zu hoch noch zu leicht oder zu niedrig gesetzt werden – das würde ihren eigentlichen Zweck zunichte machen. 
+
+Ziele sollten aufgeschrieben und häufig überprüft werden. 
+
+Ziele sollten in Form von Tageszielen, Monatszielen und Jahreszielen formuliert werden, und denken Sie daran, dass Sie nach Fortschritt und nicht nach Perfektion streben. 
+
+Glauben Sie mir, wenn Sie anfangen, sich auf sinnvolle, spezifische Ziele zu konzentrieren, wird die Kraft Ihrer verborgenen Reserven freigesetzt und gute Dinge werden geschehen.
+
+[The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

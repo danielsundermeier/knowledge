@@ -132,5 +132,27 @@ Mit anderen Worten: Man arbeitet nicht zehntausend Stunden und wird sofort zum E
 
 [The Art of Work](https://www.goodreads.com/book/show/21548935-the-art-of-work)
 
+## Dauerhafter Komfort ist eine radikal neue Sache
+
+Unsere Spezies, Homo sapiens genannt, bewohnt diese Erde seit 200.000 bis 300.000 Jahren, je nachdem welchen Anthropologen Sie fragen. 
+
+Und wir sind hochentwickelt, egal was Sie im Reality-TV wie Cops oder den Housewives-Serien sehen. 
+
+Frühe Homo sapiens entwickelten komplexe Werkzeuge, Sprachen, Städte, Währungen, Landwirtschaft, Transportsysteme und vieles mehr. 
+
+Und das war vor der gesamten Menschheitsgeschichte, die wir niedergeschrieben haben, die nur etwa 5.000 Jahre umfasst.
+
+Die modernen Annehmlichkeiten und Bequemlichkeiten, die heute unseren Alltag am meisten beeinflussen – Autos, Computer, Fernsehen, Klimaanlagen, Smartphones, hochverarbeitete Lebensmittel und mehr – werden von unserer Spezies seit 100 Jahren oder weniger genutzt. 
+
+Das sind etwa 0,03 Prozent der Zeit, die wir auf der Erde gelebt haben. 
+
+Zählt man alle Homos hinzu – Habolis, Erectus, Hedelbergensis, Neanderthalensis und uns – und erweitert die Zeitskala auf 2,5 Millionen Jahre, sinkt dieser Wert auf 0,004 Prozent. 
+
+Ständiger Komfort ist für uns Menschen etwas radikal Neues.
+
+[The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
+
 ## Bücher
+
+- [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 

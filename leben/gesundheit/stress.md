@@ -269,6 +269,22 @@ Der Charakter, der die wichtigen Aufgaben zuerst erledigt, ist entscheidend für
 
 [The Trust Edge](https://www.goodreads.com/book/show/9457819-the-trust-edge)
 
+## Schmetterlinge und Motten
+
+Wenn Sie vor einem Auftritt Schmetterlinge im Bauch haben, akzeptieren Sie sie als Schmetterlinge. 
+
+Schmetterlinge sind nett. Wenn sie anfangen, Sie zu fressen, sind sie wie Motten. 
+
+Motten im Bauch sind nicht nett. Sie verursachen Geschwüre.
+
+Positive Spannung, die durch Verlangen erzeugt wird, ist wie ein Bogen, der gespannt wird, um den Pfeil ins Schwarze zu treiben. 
+
+In einem völlig spannungsfreien Zustand sind Sie entweder komatös oder tot. 
+
+Viktor Frankl, bekannter Psychiater und Gründer der psychotherapeutischen Schule der Logotherapie, stellt klar, dass das, was ein Mensch tatsächlich braucht, kein spannungsfreier Zustand ist, sondern das Streben und Ringen um ein Ziel, das seiner würdig ist.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

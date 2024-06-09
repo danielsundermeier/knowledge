@@ -28,6 +28,7 @@
 
 - [Httpbin](http://httpbin.org/)
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
+- [RequestBin](https://pipedream.com/requestbin)
 
 ## Beispiele
 

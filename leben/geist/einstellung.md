@@ -128,6 +128,104 @@ Du gibst der Welt dein B- oder C-Spiel, und du weißt es nicht einmal, weil dir 
 
 [The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
 
+## Gib Gas
+
+In dreißig Jahren, in denen ich an Wettkämpfen teilgenommen, sie trainiert und mit Künstlern aus verschiedenen Bereichen gearbeitet habe, habe ich festgestellt, dass die meisten Amateure unter leichten bis schweren Wahnvorstellungen hinsichtlich ihrer Bemühungen und Fähigkeiten leiden. 
+
+Mit anderen Worten, die meisten Menschen geben sich der Illusion hin, dass sie härter arbeiten als sie es tun und dass sie kompetenter sind als sie es tatsächlich sind.
+
+Von den fünf Hauptebenen des Bewusstseins (Armut, Arbeiterschaft, Mittelschicht, Oberschicht und Welt) leiden meiner Erfahrung nach Künstler auf der Bewusstseinsebene der Mittelschicht am stärksten unter Wahnvorstellungen. 
+
+Die Armutsschicht überlebt kaum. 
+
+Die Arbeiterschicht stempelt die Stechuhr und zählt die Tage bis zur Rente. 
+
+Sie erwarten normalerweise nicht viel, und auch niemand in ihrer Umgebung erwartet viel. Sie sind normalerweise nicht daran interessiert, höher zu klettern.
+
+Es ist die Mittelschicht, die am wenigsten mit der Realität übereinstimmt. 
+
+Sie agieren auf einem Niveau, das hoch genug ist, um zu verstehen, dass es noch höhere Ebenen gibt. 
+
+Obwohl sie nicht erwarten, dorthin zu gelangen, kommt ihnen der Gedanke von Zeit zu Zeit in den Sinn. 
+
+Aufgrund ihrer geringen Erwartungen sind ihre Handlungen nicht mit ihren Wünschen vereinbar. 
+
+Mit anderen Worten: Sie wollen das Leben der Weltklasse führen, sind aber nicht bereit, den Preis dafür zu zahlen.
+
+Da diese Realität zu hart ist, um sie zu ertragen, geben sie sich der Illusion hin, dass sie alles in ihrer Macht Stehende tun, um weiterzukommen. 
+
+Das tun sie natürlich nicht. 
+
+Sie werden Ihnen sagen, dass sie viel mehr Zeit investieren, als sie tatsächlich tun. 
+
+Sie werden schwören, dass sie die ganze Zeit über ihre Vision nachdenken, aber das tun sie nicht. 
+
+Die Weltklasse ist brutal ehrlich zu sich selbst und neigt dazu, der Realität ins Auge zu blicken. 
+
+Sie neigen dazu, zu viel zu trainieren und sich zu viel vorzubereiten. 
+
+Champions wissen, dass man, um an die Spitze zu gelangen, zunächst aus einer Denkweise der objektiven Realität heraus agieren muss. 
+
+Selbsttäuschung und Wahnvorstellungen haben im Bewusstsein eines professionellen Leistungssportlers keinen Platz.
+
+[177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
+
+## Mit Leidenschaft dabei sein
+
+Um das Gesetz der Handlung zu aktivieren, müssen Sie aktiv sein. 
+
+Setzen Sie Ihre Kräfte ein, statt in Trägheit zu erstarren. 
+
+So viele Menschen sind faul und haben keinen Ehrgeiz – sie verrichten das absolute Minimum an Arbeit, um irgendwie zu leben und zu essen, bis sie sterben. 
+
+Solch eine träge Existenz verdient es kaum, Leben genannt zu werden. 
+
+Lebendig zu sein bedeutet, zielstrebig zu sein, mit unerschrockener Entschlossenheit auf ein Ziel hinzuarbeiten. 
+
+Sie müssen enthusiastisch aktiv sein, etwas aus sich machen und der Welt etwas Wertvolles geben. 
+
+Das liegt daran, dass mein Meister [Swami Sri Yukteswar] in mir die Überzeugung bestärkt hat, dass ich etwas sein könnte, für das ich mich anstrenge, trotz aller Kräfte, die mich aufzuhalten versuchten.
+
+Viele Menschen denken sich großartige Dinge aus, handeln aber nicht danach. 
+
+Es ist jedoch die Aktivität, die die Größe schafft. 
+
+Wenn Sie nichts wirklich erreichen, sind Sie nicht erfolgreich. 
+
+Es reicht nicht aus, nur an Erfolg oder Ideen zu denken; sie müssen demonstriert werden. 
+
+Zu denken, dass Sie tugendhaft sind, macht Sie nicht tugendhaft. 
+
+Also macht Sie der Gedanke an Erfolg nicht erfolgreich.
+
+[To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
+
+## Das Gegenmittel für das „Nicht-Können-Bewusstsein“
+
+So groß ist die Kraft des Geistes und die Schwingungskraft der Worte. 
+
+Wenn Sie sich sagen: „Ich kann es nicht“, kann niemand sonst auf der Welt diesen Entschluss ändern. 
+
+Sie müssen diesen lähmenden Feind zerstören: „Ich kann es nicht.“
+
+Es gibt ein Gegenmittel für das „Kann-es-nicht-Bewusstsein“: die Bestätigung „Ich kann!“. 
+
+Erschaffen Sie dieses Gegenmittel mit Ihrem Geist und verabreichen Sie es mit Ihrem Willen.
+
+Das damit verbundene Hindernis muss ebenfalls überwunden werden: „Ich kann es, aber ich werde es nicht tun.“ 
+
+Viele Menschen haben diese Einstellung, weil es viel einfacher ist, herumzusitzen und nichts zu tun. 
+
+Die schlimmste Sünde gegen Ihren Fortschritt und Erfolg ist geistige Faulheit. 
+
+Körperliche Faulheit ist manchmal verzeihlich, weil Sie hart gearbeitet haben und der Körper Ruhe braucht. 
+
+Aber geistige Faulheit ist absolut unentschuldbar; sie versteinert Ihren Geist. 
+
+Wenn Sie Ihre Faulheit aufgeben und sich vornehmen, es zu tun, und zwar nach dem Motto: „Ich muss es tun, und ich werde es tun“, wird sich der Erfolg ganz sicher einstellen.
+
+[To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

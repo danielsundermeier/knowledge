@@ -632,6 +632,60 @@ Wenn Sie also „Imagineering“ aus Ihrer Vorbereitung weglassen, werden Sie si
 
 [The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
 
+## Grenzen beginnen dort, wo die Sicht endet
+
+Grenzen beginnen dort, wo die Vision endet. 
+
+Sie müssen sich selbst als eine Person ohne Grenzen sehen. 
+
+Jahrelang hielt man es für physikalisch unmöglich, die Meile in vier Minuten zu rennen. 
+
+Dann lief Roger Bannister 1954 die Meile in 3:59,4. 
+
+In den nächsten zwei Jahren durchbrachen fünfzig weitere Läufer diese Barriere. 
+
+Warum? Sie hatten ein Bild. 
+
+In Bannister hatten sie ein Vorbild für Erfolg.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Erschaffe deine eigene Realität
+
+Eines der Konzepte, mit denen ich zu kämpfen habe, wenn ich mit Menschen sowohl innerhalb als auch außerhalb des Sports arbeite, ist die Realität.
+
+Meine Aufgabe bei solchen Menschen besteht darin, ihnen zu vermitteln, dass außergewöhnliche Menschen ihre eigene Realität schaffen. 
+
+Der Durchschnittsmensch wird sich kein Ziel setzen, wenn er und die Menschen in seiner Nähe nicht glauben, dass er mindestens eine 50:50-Chance hat, es zu erreichen. 
+
+Das ist es, was der Durchschnittsmensch als realistisches Ziel betrachtet. 
+
+Der Durchschnittsmensch berücksichtigt alle Informationen, die ihm sagen, dass er etwas nicht erreichen kann. 
+
+Wenn er beispielsweise darüber nachdenkt, der beste Basketballspieler zu werden, der er sein kann, und ein College-Stipendium zu bekommen, wird er sich der Tatsache bewusst sein, dass vielleicht einer von 30 Highschool-Spielern ein College-Stipendium bekommt. 
+
+Da die Chancen dadurch viel schlechter als 50:50 zu sein scheinen, wird der Durchschnittsmensch dieses Ziel wahrscheinlich aufgeben, bevor er überhaupt versucht, es zu erreichen, sich mit Mittelmäßigkeit in der Highschool zufrieden geben und danach das Spiel aufgeben.
+
+Der außergewöhnliche Mensch, der Großes leistet, sieht die Dinge anders. 
+
+Der außergewöhnliche Mensch hat eine Vision – von großartigen Leistungen, einer großartigen Karriere, von etwas Großartigem – und kümmert sich nicht darum, was andere sagen oder denken. 
+
+Er ignoriert Informationen, die darauf hindeuten, dass sein Traum unrealistisch ist. 
+
+Er macht sich einfach daran, diese Vision Wirklichkeit werden zu lassen. 
+
+Er sieht Dinge, bevor andere sie sehen. 
+
+Er schafft seine eigene Realität. 
+
+Später sagen andere vielleicht zu ihm: „Wir wussten, dass du es schaffen kannst. Wir haben immer gespürt, dass du einer der ganz Großen sein würdest.“ 
+
+Aber das ist wahrscheinlich nicht das, was er am Anfang gehört hat. 
+
+Am Anfang hörte er wahrscheinlich: „Man muss verrückt sein, um zu glauben, dass man das schaffen kann.“
+
+[How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

@@ -344,6 +344,16 @@ Glauben Sie mir, wenn Sie anfangen, sich auf sinnvolle, spezifische Ziele zu kon
 
 [The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
 
+## Was ist Ihr Motiv?
+
+Motivation ist ein viel geschmähter, überstrapazierter, überbewerteter und missverstandener Begriff. 
+
+Das Wort „Motiv“ wird definiert als das, was im Inneren des Individuums und nicht außerhalb davon liegt und ihn oder sie zum Handeln antreibt; eine Idee, ein Bedürfnis, eine Emotion oder ein organischer Zustand, der zum Handeln anregt.
+
+Motivation ist eine Kraft, die uns zum Handeln bewegt und sie entspringt dem Inneren des Einzelnen.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

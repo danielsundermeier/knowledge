@@ -1014,6 +1014,36 @@ Sein Leben hatte etwas weitaus Befriedigenderes als Vergnügen: Es hatte einen S
 
 [How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
 
+## Flow und wie man hineinkommt
+
+Als junger Psychologieforscher in den 1960er Jahren bemerkte Mihaly Csikszentmihalyi etwas Faszinierendes an Künstlern. 
+
+Sie konnten vollkommen präsent und in ihre Arbeit vertieft sein. 
+
+In diesen Momenten verschmolzen ihre Handlung und ihr Bewusstsein. 
+
+Zufällige Gedanken, körperliche Empfindungen wie Schmerz und Hunger und sogar ihr Ego- und Selbstgefühl verschwanden. 
+
+Es war eine Art verlängertes Zen in der Kunst der Kunst.
+
+Also begann er, diesen Zustand zu untersuchen, den er schließlich „Flow-Zustand“ nannte. 
+
+Im Laufe seiner Karriere – in der er die Psychologieabteilung der Universität von Chicago leitete und Präsident der American Psychology Association war – interviewte er Tausende von Spitzenkünstlern. 
+
+Sie reichten von Schachspielern, Kletterern und Malern bis hin zu Chirurgen, Schriftstellern und Formel-1-Fahrern.
+
+Um in den Flow zu geraten, sind zwei Bedingungen erforderlich: 
+
+Die Aufgabe muss die Grenzen einer Person erweitern und sie muss ein klares Ziel haben. 
+
+Der Flow-Zustand, so glauben Csikszentmihalyi und die anderen Forscher heute, ist ein wichtiger Treiber für Glück und Wachstum. 
+
+Es ist das Gegenteil von Apathie. 
+
+Csikszentmihalyi schrieb, dass Flow das „Potenzial hat, das Leben reicher, intensiver und bedeutungsvoller zu machen; es ist gut, weil es die Stärke und Komplexität des Selbst erhöht.“
+
+[The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

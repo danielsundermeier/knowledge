@@ -353,6 +353,32 @@ Wo die Chancen so schlecht stehen, dass es vernünftig erscheint, aufzugeben.
 
 [Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
 
+## Erfolg im Leben
+
+Erfolg im Leben bedeutet Seelenfrieden, das Gefühl, nichts zu bereuen. 
+
+Er entsteht aus dem Wissen, dass man sein Bestes gegeben hat. 
+
+Jeder verlässt irgendwann das Spiel. Stellen Sie sich für einen Moment vor, Sie nehmen an einem Abschiedsessen zu Ehren Ihres Rücktritts vom Wettkampfsport teil.
+
+Ihre Freunde sind beim Bankett, ebenso wie alle Ihre Trainer, ehemaligen Teamkollegen und diejenigen, gegen die Sie angetreten sind. 
+
+Jeder steht auf und sagt ein paar Worte über Ihren Charakter und Ihre Spielweise.
+
+Was würden sie sagen?  
+Was würden Sie von ihnen hören wollen?
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Die vier edlen Wahrheiten
+
+1. Das Leben ist voller Leid.
+2. Die Ursache des Leids ist selbstsüchtiges Verlangen.
+3. Leid kann gelindert werden.
+4. Die Linderung des Leids kann erreicht werden, indem man dem achtfachen Pfad folgt.
+
+[The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

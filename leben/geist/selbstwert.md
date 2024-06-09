@@ -140,6 +140,18 @@ Und noch besser: Wenn Sie sich selbst so behandeln, als wären Sie würdig und l
 
 [The High 5 Habit](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
 
+## Ein Inventar BAG
+
+Machen Sie heute eine Bestandsaufnahme Ihrer guten Gründe für Ihr Selbstwertgefühl. 
+
+Schreiben Sie auf, was Ihr „BAG“ ist. 
+
+Segnungen – wem und wofür Sie dankbar sind. 
+Erfolge – was Sie bisher getan haben, worauf Sie stolz sind. 
+Ziele – was Ihre Träume und Ambitionen sind.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
 ## Bücher
 
 - [Six Pillars of Self-Esteem](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem)

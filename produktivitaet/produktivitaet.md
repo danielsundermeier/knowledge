@@ -378,6 +378,12 @@ Wenn ich mich auf nichts anderes als die Bearbeitung des Podcasts konzentriere, 
 
 [An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
 
+## Konzentriere deine ganze Energie
+
+Konzentrieren Sie Ihre ganze Energie und Intensität ohne Ablenkung auf den erfolgreichen Abschluss Ihres aktuellen Projekts. Beenden Sie, was Sie begonnen haben.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

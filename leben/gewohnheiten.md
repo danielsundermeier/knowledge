@@ -669,6 +669,28 @@ Das Naturgesetz besagt, dass, wenn Sie etwas weniger böse als gut sind, Ihr Bö
 
 [The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
 
+## Champions sind das Produkt ihrer Gewohnheiten
+
+Durchschnittliche Leistungsträger betrachten Gewohnheiten als etwas, das man sich abgewöhnen muss, wie Rauchen oder zu viel Essen. 
+
+Profisportler wissen, dass erfolgreiche Gewohnheiten der Schlüssel zum Glück sind. 
+
+Die Großen untermauern ihre Erfolgsgewohnheiten jeden Tag, beispielsweise durch Sport, richtige Ernährung, frühes Erscheinen/langes Bleiben und das Studium ihres Fachgebiets.
+
+Champions haben heiligen Respekt vor der Macht, die Gewohnheiten in ihrem Leben entfalten. 
+
+Die Profis wissen, dass ihre Meisterschaftsgewohnheiten zu verkümmern beginnen, wenn sie auch nur einen Tag lang nachlassen. 
+
+Die Großen wissen, dass es schwieriger ist, eine Meisterschaftsgewohnheit zu entwickeln, als sie zu verlieren.
+
+Sie verstehen, dass die großartige Kraft des Momentums für oder gegen sie arbeiten kann. 
+
+Daher neigen sie dazu, ihre Erfolgsgewohnheiten mit beinahe religiösem Fanatismus zu schützen.
+
+Gewohnheiten sind der Rohstoff, aus dem die Großen gemacht sind
+
+[177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

@@ -315,6 +315,14 @@ Wenn wir dann die geheime Forderung, dass dies oder jenes geschieht, beseitigen,
 
 [The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
 
+## Wie nehmen Sie es?
+
+Der wichtigste einzelne Punkt, den Sie sich in den folgenden Kapiteln merken und verinnerlichen sollten, ist, dass es kaum einen Unterschied macht, was tatsächlich passiert. 
+
+Was wirklich zählt, ist, wie Sie persönlich es aufnehmen!
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

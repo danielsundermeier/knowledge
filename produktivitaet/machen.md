@@ -850,6 +850,52 @@ Behalten Sie den Kopf im Spiel und kämpfen Sie durch.
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## A.C.T. Rückwärts
+
+Es heißt, dass außergewöhnliche Menschen ihr Leben rückwärts leben. 
+
+Sie erschaffen eine Zukunft und leben in sie hinein. 
+
+Eine Übung, die ich lehre, heißt A.C.T. rückwärts. Ich möchte, dass Sie es versuchen. 
+
+Das A steht für „Akzeptieren Sie Ihren gegenwärtigen Zustand“. 
+
+Verstehen Sie Ihre Stärken und Schwächen, wie wir im letzten Abschnitt besprochen haben. 
+
+C steht für „Erschaffen Sie Ihren gewünschten Zustand“.
+
+Was ist Ihr Traum? Schließen Sie die Augen und sehen Sie sich genau so, wie Sie sein möchten. Schreiben Sie auf, wie dieser gewünschte Zustand aussehen würde. 
+
+T steht für „Ergreifen Sie Maßnahmen, um dorthin zu gelangen“. 
+
+Erfolg ist eine Reise, die Schritt für Schritt erfolgt. 
+
+Und die längste Reise beginnt mit dem ersten Schritt.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Konsistenz
+
+Beständigkeit unterscheidet gute von großartigen Sportlern. Die besten Sportler gewinnen beständig, weil sie beständig denken, handeln und trainieren.
+
+Beständigkeit ist eine entscheidende Eigenschaft. 
+
+„Egal, was Sie beruflich machen, Beständigkeit ist das Markenzeichen“, sagte Joe Torre. „Sie ist viel wichtiger, als nur einmal etwas Spektakuläres zu tun. Machen Sie Ihren Job beständig, und Sie werden als gut angesehen.“
+
+Die größten Sportler sind diejenigen, die Tag für Tag Höchstleistungen erbringen können, selbst wenn sie sich nicht gut fühlen oder nicht in Form sind. Wie Jack Nicklaus sagte, ist es eine Kunst, „schlecht gut zu spielen“.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Wie riechen Sie?
+
+Wie eine schöne Blume voller Farbe, der es aber an Duft fehlt, sind die Worte derer, die nicht praktizieren, was sie lehren.
+
+Dharma wird nicht dadurch aufrechterhalten, dass man darüber redet. Dharma wird dadurch aufrechterhalten, dass man im Einklang mit ihm lebt.
+
+Konzentrieren Sie Ihre Aufmerksamkeit nicht darauf, was andere tun oder nicht tun, sondern darauf, was Sie tun oder nicht tun.
+
+[The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

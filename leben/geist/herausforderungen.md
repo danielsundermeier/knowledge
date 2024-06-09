@@ -719,6 +719,70 @@ Anders kann ich es nicht erklären. Innerhalb eines Jahres vor diesem Kurs die S
 
 [Fearless](https://www.goodreads.com/book/show/12878300-fearless)
 
+## Korallen
+
+Eine der besten Möglichkeiten, Anpassungsfähigkeit an die Belastungen des Lebens zu entwickeln, besteht darin, sie als normal zu betrachten. 
+
+Earl Nightingale erzählt von seinem kürzlichen Besuch mit seinem Sohn am Great Barrier Reef, das sich fast 1800 Meilen von Neuguinea bis Australien erstreckt. 
+
+Er bemerkte, dass die Korallenpolypen im Inneren des Riffs, wo das Meer in der Lagune ruhig und still war, blass und leblos erschienen, während die Korallen auf der Außenseite des Riffs, die der Flut und der Kraft der Wellen ausgesetzt waren, hell und lebendig waren, mit prächtigen Farben und fließendem Wachstum.
+
+Earl Nightingale fragte, warum das so sei. 
+
+„Es ist ganz einfach“, kam die Antwort, „die Korallen auf der Lagunenseite sterben schnell ab, ohne dass sie für Wachstum und Überleben herausgefordert werden, während die Korallen, die der Brandung und Kraft des offenen Meeres ausgesetzt sind, gedeihen und sich vermehren, weil sie täglich herausgefordert und auf die Probe gestellt werden. Und so ist es mit jedem lebenden Organismus auf der Erde.“
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
+## Wahre mentale Krieger
+
+Während die Massen Hindernisse als ihren Hauptgegner betrachten, sehen Champions sie als Gelegenheit, ihr Denk- und Kompetenzniveau zu erweitern. 
+
+Professionelle Künstler wissen, dass sie nur dann mental stark genug werden können, um ihre Vision zu verwirklichen, wenn sie sich durch Hindernisse kämpfen. 
+
+Es gibt keinen anderen Weg.
+
+Die Großen sind sich der Tatsache bewusst, dass Erfolg eine Feuerprobe ist. 
+
+Das Bewusstsein der Mittelklasse vermeidet Hindernisse um jeden Preis und sucht nach dem einfachen Ausweg. 
+
+Die Weltklasse baut ihre eigenen Wege und schreitet voran, wissend, dass die Charakterstärke, die sie durch das Überwinden von Hindernis zu Hindernis gewinnt, der Maßstab ihres wahren Erfolgs sein wird, und mit diesem felsenfesten Charakter können noch größere Dinge erreicht werden.
+
+Wenn Sie Hindernisse beseitigen, beseitigen Sie die Möglichkeit zu wachsen. 
+
+Die Weltklasse wird großartig, indem sie mehr Hindernisse überwindet als die Mittelklasse. 
+
+Sie werden hart, weil sie im Spiel sind, getroffen werden und Schüsse abbekommen. 
+
+Professionelle Künstler sind gut darin, Hindernisse zu überwinden, weil sie immer in diesen Prozess eingebunden sind. 
+
+Amateure verbringen so wenig Zeit damit, dem Drachen in die Augen zu starren, dass sie einfach nie hart genug werden, um Profis zu werden.
+
+Die Angst vor dem Versagen sitzt tief in der Psyche der Massen. 
+
+Die Großen sind manchmal ängstlich, entwickeln jedoch mit jedem neuen Hindernis mehr Mut, bis sie eines Tages als wahre mentale Krieger aufstehen.
+
+[177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
+
+## Ohne Kampf kann man nichts erreichen
+
+In dieser Welt der Relativität – Licht und Dunkelheit, Gut und Böse – ist es unvermeidlich, dass man bei jedem Versuch, sich auszudehnen, auf Feinde trifft. 
+
+Das gilt für alle Unternehmungen: Sobald man versucht, etwas zu erreichen, stößt man auf Widerstand. 
+
+Sobald eine Pflanze versucht, aus ihrem Samen zu sprießen, gibt es zuerst Widerstand von der Erde, dann machen sich die Käfer über sie her und schließlich muss sie gegen das Unkraut ankämpfen, das ihr Nahrung und Wasser streitig macht. 
+
+Die Pflanze braucht die Hilfe des Gärtners. Und dasselbe gilt für den Menschen. 
+
+Wenn Sie aufgrund widriger Umstände oder innerer Schwächen nicht die Kraft haben, an Ihrem Lebensbaum erfolgreiche Zweige wachsen zu lassen, brauchen Sie die Hilfe eines Lehrers oder Gurus, der Ihnen helfen kann, die Kraft Ihres Geistes zu kultivieren. 
+
+Der Guru lehrt Sie die Kunst der Meditation, das Ausbrennen des Unkrauts einschränkender Gewohnheiten und schlechten Karmas, das Ihnen den Boden zu verstopfen versucht. 
+
+Sie müssen diesen Feinden widerstehen; Sie müssen es weiter versuchen. 
+
+Ohne Kampf können Sie nichts erreichen.
+
+[To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

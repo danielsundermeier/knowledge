@@ -78,6 +78,29 @@ Versuchen Sie es stattdessen mit der Sichtweise eines Mentors oder guten Freunde
 
 [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
 
+## Heroisches Selbstmitgefühl
+
+Lernen Sie, sich selbst zu analysieren und dabei sowohl das Negative als auch das Positive zu betrachten: 
+
+- Wie sind Sie zu dem geworden, was Sie sind? 
+- Was sind Ihre guten und schlechten Seiten und wie haben Sie sie erworben? 
+
+Dann machen Sie sich daran, die schlechte Ernte zu vernichten. 
+
+Entfernen Sie das Unkraut der schlechten Eigenschaften aus Ihrer Seele und fügen Sie zwei weitere Samen spiritueller Qualitäten hinzu, um die Ernte der guten Ernte zu erhöhen. 
+
+Indem Sie Ihre Schwächen erkennen und sie wissenschaftlich beseitigen, werden Sie stärker. 
+
+Lassen Sie sich daher nicht von Ihren Schwächen entmutigen; wenn Sie das tun, erkennen Sie sich als Versager an. 
+
+Sie müssen in der Lage sein, sich selbst durch konstruktive Selbstanalyse zu helfen. 
+
+Diejenigen, die ihre Unterscheidungsfähigkeit nicht nutzen, sind blind; die angeborene Weisheit der Seele wurde durch Unwissenheit verdunkelt. 
+
+Deshalb leiden die Menschen.
+
+[To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
+
 ## Bücher
 
 - [Self-Compassion](https://www.goodreads.com/book/show/10127008-self-compassion)

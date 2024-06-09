@@ -482,6 +482,24 @@ Auf diese Weise benötigen Sie keine übermenschliche Willenskraft, um dem zu wi
 
 [Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
 
+## 12 bis 16 Stunden: Müll rausbringen
+
+Der Prozess, bei dem der Körper „den Müll rausbringt“, wird offiziell Autophagie genannt, was aus dem Altgriechischen übersetzt „Selbstverzehr“ bedeutet. 
+
+Autophagie ist in vielerlei Hinsicht eine Metapher für das, was mit allen Dingen unter Unbehagen passiert: Unsere schwachen Glieder – ob physisch oder psychisch – werden schmerzlich für unser Wohl geopfert.
+
+Beim Menschen entwickelte sich die Autophagie wahrscheinlich im Einklang mit Tag- und Nachtzyklen, wodurch das entstand, was Panda als circadiane Rhythmen bezeichnet. 
+
+Die Forschung legt nahe, dass der Körper einen Code in sich programmiert hat, um die Autophagie anzukurbeln und sich nachts zu regenerieren, während er die Nahrung des Tages verbrennt.
+
+Aber unsere 15-stündigen täglichen Essfenster stören den Prozess, sagte Panda. 
+
+Sie rauben dem Körper die 12 bis 16 Stunden, die wir brauchen, um Nahrung vollständig zu verstoffwechseln und in den Autophagiemodus zu verfallen. 
+
+Oder, wie die Wissenschaftler von Cedars Sinai es ausdrücken: „Wenn Sie vor dem Schlafengehen essen, werden Sie keine Autophagie haben. Das bedeutet, dass Sie den Müll nicht herausbringen, sodass sich in den Zellen immer mehr Abfall ansammelt.“
+
+[The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

@@ -523,6 +523,16 @@ Das Abschalten negativer Selbstgespräche beginnt damit, sie zu unterbrechen und
 
 [The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
 
+## Was denkst du?
+
+Unser Leben wird von unserem Geist geprägt; wir werden, was wir denken.
+
+Ein undisziplinierter Geist richtet größeren Schaden an als diejenigen, die dich hassen, mehr als alle deine Feinde.
+
+Wenn Sie die Freuden des Lebens vergessen und sich in den Vergnügungen der Welt verlieren, werden Sie diejenigen beneiden, die der Meditation den ersten Platz einräumen.
+
+[The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

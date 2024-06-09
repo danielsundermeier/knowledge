@@ -224,6 +224,20 @@ Wir können nicht – rational – über die Überwindung des Egos sprechen (nic
 
 [The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
 
+## Das Dhammapada
+
+Der Buddha hinterließ uns keine statische Glaubensstruktur, die wir bejahen und hinter uns lassen können. 
+
+Seine Lehre ist ein fortlaufender Weg, ein „Weg der Vollkommenheit“, dem jeder zum höchsten Gut folgen kann. 
+
+Das Dhammapada ist eine Karte für diese Reise. 
+
+Diese Verse können einfach als weise Philosophie gelesen und gewürdigt werden; als solche sind sie Teil der großen Literatur der Welt. 
+
+Aber für diejenigen, die ihm bis zum Ende folgen, ist das Dhammapada ein sicherer Wegweiser zu nichts Geringerem als dem höchsten Ziel, das das Leben bieten kann: Selbstverwirklichung.
+
+[The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
+
 ## Orte
 
 - [Benediktushof](https://www.benediktushof-holzkirchen.de) - Zentrum für Meditation und Achtsamkeit

@@ -789,6 +789,80 @@ Morgen beginnen meine Bemühungen immer von Neuem.
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## Exzeptionalismus
+
+Die entscheidende Bedeutung dieser Einstellung ist das Wichtigste, was ich in meinen Jahrzehnten der Arbeit mit Menschen, die nach Größe streben, über Außergewöhnlichkeit gelernt habe. 
+
+Talent, wie es allgemein definiert wird, ist natürlich Teil der Gleichung. 
+
+Wie Bear Bryant einmal sagte: „Wann haben Sie zuletzt einen Idioten den Kentucky Derby gewinnen sehen?“ 
+
+Aber es gibt viele Menschen mit körperlichem Talent, genauso wie es viele Menschen mit roher Intelligenz gibt. 
+
+Ich würde behaupten, dass die meisten Menschen in irgendetwas talentiert sind, ob sie es nun erkennen oder nicht. 
+
+Was bloß talentierte Menschen von außergewöhnlichen Menschen unterscheidet, kann nicht am vertikalen Sprung, der Zeit für den 40-Meter-Lauf, der Länge vom Abschlag oder dem IQ gemessen werden. 
+
+Es ist etwas Inneres. 
+
+Große Leistungsträger teilen eine Denkweise, eine Reihe von Einstellungen und Eigenschaften wie Optimismus, Selbstvertrauen, Ausdauer und starken Willen. 
+
+Sie alle wollen sich selbst antreiben, um zu sehen, wie großartig sie werden können. 
+
+Diese Eigenschaften und Einstellungen veranlassen Champions, härter und intelligenter zu arbeiten als andere Menschen, wenn sie sich auf einen Wettkampf vorbereiten. 
+
+Sie helfen ihnen, unter Druck konzentriert zu bleiben und ihre beste Leistung zu erbringen, wenn am meisten auf dem Spiel steht.
+
+[How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
+
+## Begeisterung: Der Katalysator der Champions
+
+Um eine Analogie aus der Chemie zu verwenden: Begeisterung wirkt wie ein Katalysator, der alle anderen geistigen Eigenschaften eines Champions besser funktionieren lässt. 
+
+Um ein wichtiges Beispiel zu nennen: Beharrlichkeit ist viel einfacher, wenn man von dem, was man tut, begeistert ist. 
+
+An etwas festzuhalten, das man liebt, ist wie Fahrradfahren bergab. 
+
+An etwas festzuhalten, das man nicht liebt, ist wie Fahrradfahren bergauf.
+
+[How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
+
+## Studieren Sie das Leben der Heiligen
+
+Studieren Sie das Leben der Heiligen. 
+
+Was leicht zu tun ist, ist nicht der Weg des Herrn. Was schwer zu tun ist, ist sein Weg! 
+
+Der heilige Franziskus hatte mehr Probleme, als Sie sich vorstellen können, aber er gab nicht auf. 
+
+Eins nach dem anderen überwand er diese Hindernisse durch die Kraft des Geistes und wurde eins mit dem Meister des Universums. 
+
+Warum sollten Sie nicht diese Art von Entschlossenheit haben? 
+
+Ich denke oft, dass die sündhafteste Handlung im Leben darin besteht, ein Versagen einzugestehen, denn damit leugnen Sie die höchste Macht Ihrer Seele, Gottes Ebenbild in Ihnen. 
+
+Geben Sie niemals auf.
+
+Entwickeln Sie eine Vorliebe für jene Bestrebungen, die Ihnen helfen, mehr Kontrolle über sich selbst zu erlangen. 
+
+Ein wahrer Sieg besteht darin, Ihre guten Vorsätze trotz aller Schwierigkeiten in die Tat umzusetzen. 
+
+Lassen Sie nicht zu, dass Sie Ihre Entschlossenheit durch irgendetwas brechen. 
+
+Die meisten Menschen argumentieren: „Lass es heute sein, ich werde es morgen noch einmal versuchen.“ 
+
+Täuschen Sie sich nicht. 
+
+Diese Art des Denkens wird Ihnen keinen Sieg bringen. 
+
+Wenn Sie einen Vorsatz fassen und nie aufhören, ihn umzusetzen, werden Sie Erfolg haben. 
+
+Die heilige Teresa von Avila sagte: „Heilige sind Sünder, die niemals aufgegeben haben.“ 
+
+Wer niemals aufgibt, erringt letztendlich den Sieg.
+
+[To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

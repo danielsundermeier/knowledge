@@ -131,6 +131,40 @@ Zu sagen, dass das Erlernen der Atemkontrolle die wichtigste Komponente zum Aufb
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## Atmen und konzentrieren
+
+Sauerstoff ist Energie – er ist Saft. 
+
+Sauerstoff hilft, die Muskeln zu entspannen und den Kopf freizubekommen. 
+
+Wenn Sie den Atem anhalten, erzeugen Sie Druck und ein nervöses Gefühl. 
+
+Sportler, die versagen, werden nervös, weil sie nervös sind. 
+
+Sie werden nervös, weil sie nervös sind. 
+
+Ein Psychologe sagt, Angst sei Aufregung „ohne Atem“.
+
+Ihr Atemmuster beeinflusst Ihr Leistungsmuster. 
+
+Wenn Sie unter Stress stehen, hilft tiefes Atmen, Ihren Geist und Körper wieder in die Gegenwart zu bringen.
+
+Im Laufe der Jahre habe ich Tausende kleiner Aufkleber mit der Aufschrift „Atmen und konzentrieren“ an Sportler verteilt. 
+
+Ein Baseballspieler klebt den leuchtend orangefarbenen Kreis auf die Schulter seiner Uniform oder unter den Schirm seiner Mütze oder auf den Schaft seines Schlägers. 
+
+Ein Hockeyspieler könnte ihn an seinem Schläger befestigen. 
+
+Feuerwehrleute, mit denen ich gearbeitet habe, kleben die Aufkleber auf ihre Atemschutzgeräte. 
+
+Die Aufkleber dienen als Erinnerung. 
+
+Wann immer sie spüren, dass sie nervös werden, atmen sie Energie ein. 
+
+Atmen Sie Negativität aus. Atmen Sie Entspannung ein. Atmen Sie Stress aus.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
 ## Bücher
 
 - [Breath](https://www.goodreads.com/book/show/48890486-breath)

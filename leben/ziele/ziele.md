@@ -582,6 +582,74 @@ Es geht darum, einen Plan zu erstellen, der Sie zum Erfolg führt, egal auf welc
 
 [Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
 
+## Die Ziel-Treppe
+
+Das Setzen von Zielen ist eine Meisterfähigkeit für persönliches Wachstum und Spitzenleistung. 
+
+Ich kann das nicht genug betonen. 
+
+Wohin kommen Sie im Leben ohne Ziele? 
+
+Wenn Sie nicht wissen, wohin Sie gehen, werden Sie wahrscheinlich woanders landen, als dort, wo Sie sein möchten.
+
+Ich ermutige Sportler, sich tägliche oder kurzfristige Ziele zu setzen. 
+
+Der Weg, langfristige Ziele zu erreichen, besteht darin, sie in kleine Schritte aufzuteilen. 
+
+Effektives Setzen von Zielen ist wie eine Treppe. 
+
+Jeder Schritt ist ein Handlungsschritt – ein Fortschrittsschritt. Das alte Sprichwort lautet: „Zoll für Zoll ist es ein Kinderspiel.“
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Bleiben Sie am Ziel und erzielen Sie einen Treffer
+
+Jeder Gewinner, den ich je getroffen habe, weiß, wohin er oder sie Tag für Tag geht … jeden Tag.
+
+Gewinner sind zielorientiert. Sie setzen beschließen und bekommen, was sie wollen – konsequent.
+
+Sie sind selbstbestimmt auf dem Weg zur Erfüllung.
+
+Erfüllung oder Erfolg wurde definiert als die fortschreitende Verwirklichung von Zielen, die des Einzelnen würdig sind.
+
+Das „menschliche“ System ist von Natur aus zielsuchend und kann, um eine sehr einfache Analogie zu verwenden, mit einem zielsuchenden Torpedosystem oder einem Autopiloten verglichen werden.
+
+Setzen Sie Ihr Ziel und dieses selbstaktivierte System, das ständig Rückkopplungssignale aus dem Zielgebiet überwacht und die Kurseinstellung in seinem eigenen Navigationsleitcomputer anpasst, nimmt alle notwendigen Korrekturen vor, um auf dem Ziel zu bleiben und einen Treffer zu erzielen.
+
+Wenn der „zielsuchende Torpedo“ unvollständig, unspezifisch oder auf ein Ziel zu weit außerhalb der Reichweite ausgerichtet ist, wird er unregelmäßig umherirren, bis sein Antriebssystem versagt oder sich selbst zerstört.
+
+Und so ist es mit jedem einzelnen menschlichen System im Leben.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
+## Unser ideales Leben planen
+
+Die meisten Menschen verbringen mehr Zeit mit der Planung einer Party, dem Studium der Zeitung oder dem Erstellen einer Weihnachtsliste als mit der Planung ihres Lebens.
+
+[The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
+
+## Schreiben Sie Ihre Hoffnungen und Träume in ein Tagebuch?
+
+Durchschnittliche Leistungsträger setzen sich ihre Ziele an Silvester und schauen erst am nächsten Silvesterabend wieder darauf. 
+
+Die Weltklasse befindet sich im ständigen Zielsetzungsmodus. 
+
+Champions sind Zielsetzungsmaschinen – sie wissen, dass der Eckpfeiler aller Erfolge geistige Klarheit ist. 
+
+Professionelle Leistungsträger entwickeln sich so schnell, dass sie es normalerweise für notwendig erachten, ihre Ziele täglich zu überprüfen und manchmal neu festzulegen. 
+
+Eines der Geheimnisse ihres Erfolgs ist diese tägliche Auseinandersetzung mit ihren Zielen. 
+
+Nur 3 Prozent der Amerikaner haben klar definierte schriftliche Ziele und weniger als 1 Prozent können ihr Hauptziel und ihren Lebenszweck benennen.
+
+Während durchschnittliche Leistungsträger aufgrund mangelnder Auseinandersetzung mit ihnen allmählich vergessen, was ihre Ziele sind, verankern Profis ihre Ziele täglich tief in ihrem Unterbewusstsein. 
+
+Ihr Geist ist wie eine Lenkwaffe, die sich ständig anpasst und korrigiert, um das Ziel genau zu treffen. 
+
+Champions haben eine Zielstrebigkeit, die die meisten Menschen nie entdecken werden, und dieser Denkprozess ermöglicht es ihnen, jeden Tag höher zu klettern.
+
+[177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -297,6 +297,84 @@ Und dann fiel mir ein: „Der Glaube an sich selbst ist es, der alles in Gang br
 
 [The Art of Mental Training](https://www.goodreads.com/book/show/18753256-the-art-of-mental-training---a-guide-to-performance-excellence)
 
+## Vertrauen: Das ist das Entscheidende
+
+Was ist Ihrer Meinung nach der wichtigste Teil des mentalen Spiels? 
+
+Diese Frage habe ich in den letzten zwanzig Jahren Hunderten von Managern, Trainern und Profisportlern während Flügen und Busfahrten zu Stadien gestellt. 
+
+Die Antwort ist immer dieselbe. Es ist Selbstvertrauen. 
+
+Wenn Sie selbstbewusst sind, können Sie sich entspannen, auf Ihre Sachen vertrauen und Ihre beste Leistung bringen. 
+
+Selbstvertrauen ist das Wichtigste.
+
+Woher kommt Selbstvertrauen? 
+
+Große Sportler sagen, dass Selbstvertrauen das Wissen ist, dass sie körperlich und geistig vorbereitet sind. 
+
+Die Erfahrung sagt ihnen, was zu tun ist, und Selbstvertrauen ermöglicht es ihnen, es zu tun. 
+
+Selbstvertrauen ist das emotionale Wissen, dass Sie mit Geist, Körper und Seele auf alles vorbereitet sind.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Sich der Armee des Feindes anschließen
+
+Zweifel verursachen geistige Verwirrung. Zweifel können lähmend sein. 
+
+Es heißt, eine Person, die an sich selbst zweifelt, sei wie ein Mann, der sich in die Reihen seiner Feinde einreihen und gegen sich selbst zu den Waffen greifen würde.
+
+Selbstvertrauen und Vertrauen sind in jeder Sportart unverzichtbar. 
+
+Hall-of-Fame-Pitcher Sandy Koufax von den Dodgers sagte, es sei besser, einen schlechten Pitch mit ganzem Herzen zu werfen, als den sogenannten richtigen Pitch mit einem Gefühl des Zweifels. 
+
+„Sie müssen sich sicher sein, dass Sie das Richtige tun. Sicher sein, dass Sie den Pitch werfen wollen, den Sie werfen werden.“
+
+Der heutige Spitzenspieler der Dodgers, Kevin Brown, sagt, dass Sie eine viel bessere Chance haben, damit durchzukommen, wenn Sie einen schlechten Pitch aggressiv machen.
+
+[Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
+
+## Gott: Es ist alles gut. Arbeite einfach weiter an deinem Spiel
+
+Manchen meiner Klienten fällt es schwer, sich selbst mit so viel Selbstvertrauen vorzustellen. 
+
+Golfspielern schlage ich manchmal vor, sie sollten sich vorstellen, Gott sei ihnen erschienen und hätte gesagt: „Du wirst eine großartige Karriere machen. Du wirst Dutzende Turniere gewinnen. Du wirst mehrere große Meisterschaften gewinnen. Mach dir keine Sorgen. Arbeite einfach weiter hart an deinem Spiel. Ich habe mich um die Ergebnisse gekümmert.“ 
+
+Und dann stelle man sich vor, die Vision sei vorbei, bevor der Golfspieler Gott fragen konnte, welche Turniere er gewinnen würde und wann.
+
+Von da an würde er mit enormem Selbstvertrauen spielen. 
+
+Er wüsste nicht genau, wann oder wo er gewinnen würde. 
+
+Aber er wüsste, dass die Ergebnisse garantiert wären, wenn er einfach weiter das täte, was er tun sollte. 
+
+Er würde jeden Donnerstag an den ersten Abschlag treten und denken: „Oh Mann! Ich kann es kaum erwarten, herauszufinden, ob dies eine meiner Wochen wird.“
+
+Wenn Sie Ihr Leben verändern und wachsen möchten, müssen Sie Ihre Sicht auf sich selbst und Ihre Reaktion auf die Welt um Sie herum ändern – genauso sicher, wie wenn Gott Ihnen erscheinen und Ihnen sagen würde, dass alles in Ordnung ist.
+
+Die Wahrheit ist, dass Sie nicht auf göttliche Intervention warten müssen, um diese Art von Selbstvertrauen zu haben. 
+
+Das Wunder ist bereits geschehen, nämlich mit der Erschaffung des menschlichen Gehirns. 
+
+Sie müssen die Verantwortung dafür übernehmen, es zu nutzen, und sich selbst Selbstvertrauen geben.
+
+[How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
+
+## Trainiere es und vertraue ihm
+
+Das Prinzip, das ich Golfern und anderen Sportlern beibringe, lautet: „Trainiere und vertraue darauf“, was so viel heißt wie: „Lerne die Fähigkeit gründlich, damit sie sich in deinem Unterbewusstsein festsetzt. Dann, wenn du sie ausführst, denk nicht darüber nach. Vertraue darauf, dass dein Unterbewusstsein seine Arbeit macht.“ 
+
+Aber das Vertrauen funktioniert nicht, wenn das Training nicht stattgefunden hat. 
+
+Und es funktioniert auch nicht, wenn du das Unterbewusstsein mit negativen Gedanken, Ängsten oder Zweifeln verwirrst. 
+
+Egal, wie viel ein Golfer geübt hat, um einen guten Puttschlag und eine gute Routine zu entwickeln, sein Schlag wird sich zum Schlechteren verändern, wenn er Zweifel oder Angst vor einem Putt hat. 
+
+Er muss selbstbewusst sein und an seine Fähigkeiten glauben.
+
+[How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

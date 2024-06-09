@@ -252,6 +252,26 @@ Doch die einzige Möglichkeit, die Konzentration zu verbessern, besteht darin, K
 
 [Unbeatable Mind](https://www.goodreads.com/book/show/25030935-unbeatable-mind)
 
+## 11 Stunden, 6 Minuten
+
+2,5 Millionen Jahre oder etwa 100.000 Generationen lang gab es in unserem Leben nichts Digitales. 
+
+Heute verbringt der Durchschnittsmensch 11 Stunden und 6 Minuten am Tag mit digitalen Medien. 
+
+Und zwar mit Handys, Fernsehen, Audiogeräten und Computern. 
+
+Smartphones fallen nur deshalb auf, weil sie neuer sind, unsere Aufmerksamkeit aktiv mit Benachrichtigungen auf sich ziehen und jederzeit verfügbar sind. 
+
+Aber der Durchschnittsmensch verbringt immer noch doppelt so viel Zeit vor dem Fernseher als mit seinem Smartphone.
+
+All diese Maßnahmen, die uns helfen, „mit unserem Telefon Schluss zu machen“, sind also großartig. 
+
+Es sei denn, wir tauschen unsere Telefonzeit gegen das Binge-Watching einiger Netflix-Serien oder das Surfen im Internet auf unserem Laptop. 
+
+Das ist, als würde man mit dem Rauchen von Marlboro Reds aufhören und stattdessen Red Man kauen.
+
+[The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

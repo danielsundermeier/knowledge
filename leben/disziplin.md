@@ -302,4 +302,12 @@ Der schwierige Teil ist, an diesen Punkt zu gelangen, denn der Schlüssel zum Si
 
 [Can't Hurt Me](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
+## Ein Dschihad-Krieger
+
+Die Intelligenten wollen Selbstbeherrschung; Kinder wollen Süßigkeiten.
+
+Der Löwe, der die Reihen des Feindes durchbricht, ist ein kleiner Held im Vergleich zu dem Löwen, der sich selbst überwindet.
+
+[Rumi Daylight](https://www.goodreads.com/book/show/223160.Rumi_Daylight)
+
 

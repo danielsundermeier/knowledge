@@ -34,3 +34,9 @@
 
 - [Stripe API](https://stripe.com/docs/api)
 - [List of Great Product API Docs (2020)](https://twitter.com/steipete/status/1335135761197375491)
+
+## OAuth
+
+- [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
+- [OAuth 2.0](https://oauth.net/2/)
+- [Modern Guide - What is OAuth 2.0 and How Does It Work?](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)

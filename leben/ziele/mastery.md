@@ -318,6 +318,20 @@ Du wirst nie mehr derselbe sein.
 
 [The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
 
+## Eine wilde Suche nach Größe
+
+Ich möchte, dass sie nach Größe streben, denn ich weiß, dass ich das tue. 
+
+Größe ist eine Lebenseinstellung, eine Richtung. 
+
+Jeder NBA-Spieler ist außergewöhnlich talentiert, hat einen hervorragenden Lebenslauf und körperliche Begabung. 
+
+Aber es braucht viel mehr als das, um den Grad an Erfolg zu erreichen, den sie sich erhoffen. 
+
+Ich muss herausfinden, ob sie großartig sein wollen, und wenn ja, ermutige ich sie, bei ihrem Streben nach Größe absolut leidenschaftlich zu sein.
+
+[The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

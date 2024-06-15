@@ -1017,6 +1017,40 @@ Ich verwende SIN als Akronym, damit sich die Leute daran erinnern; „Es gibt ei
 
 [The 10 Pillars of Mental Performance Mastery](https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery)
 
+## Die Natur ist nicht launisch
+
+Es gibt nichts Launenhaftes in der Natur, und die Einpflanzung eines Verlangens zeigt an, dass seine Befriedigung in der Konstitution des Lebewesens liegt, das es fühlt.
+
+Unsere Wünsche lassen die Fähigkeiten in uns erahnen; sie sind Vorboten dessen, was wir erreichen können. 
+
+Was wir tun können und tun wollen, wird in unserer Vorstellungskraft, ganz außerhalb von uns selbst und in die Zukunft projiziert. 
+
+Wir fühlen uns von dem angezogen, was uns im Verborgenen bereits gehört. 
+
+So verwandelt leidenschaftliche Vorfreude das, was tatsächlich möglich ist, in erträumte Realität.
+
+Tu das, was dir zugewiesen ist, und du kannst nicht zu viel hoffen oder zu viel wagen.
+
+[The Selected Writings of Ralph Waldo Emerson](https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson)
+
+## Bezahlt werden für das, was Sie lieben
+
+Mitten in unserem Gespräch nahm ich endlich meinen Mut zusammen und murmelte: „Zahl, was immer du willst.“ 
+
+Ich wusste nicht, ob er mich überhaupt gehört hatte, weil ich es so schnell sagte und versuchte, es zu verschleiern, indem ich es am Ende eines langen Satzes einfügte. 
+
+Das „Was-auch-immer-es-dir-wert-ist“-Modell kam mir, weil mir keine Zahl einfiel. Wie legt man einen Preis für das fest, was man liebt? 
+
+Er hätte mich mit einer Tüte Jelly Beans bezahlen können und ich hätte es trotzdem getan.
+
+Kurz darauf erhielt ich einen Scheck von Elton. 
+
+Ich konnte nicht glauben, was gerade passiert war. 
+
+Einer der besten Spieler der Welt hatte mich gerade dafür bezahlt, das zu tun, was ich liebte, was ich nur Minuten zuvor kostenlos getan hatte.
+
+[The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

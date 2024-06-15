@@ -373,6 +373,20 @@ Wenn ich die Salzbrezeln nicht sehe, besteht keine Chance, dass sie in meinem Ei
 
 [Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
 
+## Dem Drang zu widerstehen
+
+Nichts ist für die Zielerreichung wichtiger als die Fähigkeit, dem Drang zu widerstehen, kleinen Stimmen nachzugeben, die uns sagen, dass es in Ordnung ist, aufzugeben, wenn es hart wird. 
+
+Forscher haben Willenskraft jahrzehntelang in verschiedenen Formen untersucht und ihre Schlussfolgerungen sind einheitlich: Der Schlüssel zum Erfolg bei jedem Ziel ist, der Versuchung zu widerstehen und trotz Unbehagen durchzuhalten. 
+
+Die Unfähigkeit, dies zu tun, hat weitreichende Konsequenzen.
+
+Die bahnbrechende Arbeit von Walter Mischel an der Stanford University über verzögerte Belohnung wurde in den letzten fünfzig Jahren von vielen anderen wiederholt, die Selbstregulierung (auch Selbstkontrolle oder Willenskraft genannt) untersuchen, und geht direkt zum Kern der Frage, ob wir in der Lage sein werden, unsere Lebensziele zu erreichen und eine hohe Lebensqualität zu genießen. 
+
+Wenn wir Versuchungen nicht widerstehen können, wenn sie auftauchen, unsere Triebe nicht kontrollieren können, wenn wir müde sind, nichts Neues und Herausforderndes beginnen können und nicht die Kraft der Disziplin aufbringen können, wenn wir auf der Zielgeraden sind, um etwas Wichtiges zu erreichen, werden wir immer dazu verdammt sein, ein „angenehmes“ Leben zu führen, das nicht viel von uns verlangt, uns aber sicherlich auch nicht erlaubt, unser Potenzial zu maximieren und unsere Ziele zu erreichen.
+
+[Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

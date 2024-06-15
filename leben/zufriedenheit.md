@@ -1044,6 +1044,39 @@ Csikszentmihalyi schrieb, dass Flow das „Potenzial hat, das Leben reicher, int
 
 [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 
+## Inhalte unseres Bewusstseins
+
+Ein Mensch kann sich glücklich oder unglücklich fühlen, unabhängig davon, was „draußen“ tatsächlich geschieht, indem er einfach die Inhalte seines Bewusstseins ändert. 
+
+Wir alle kennen Menschen, die allein durch die Kraft ihrer Persönlichkeit aussichtslose Situationen in Herausforderungen verwandeln können, die es zu überwinden gilt. 
+
+Diese Fähigkeit, trotz Hindernissen und Rückschlägen durchzuhalten, ist die Eigenschaft, die die Menschen an anderen am meisten bewundern, und das zu Recht; es ist wahrscheinlich die wichtigste Eigenschaft, nicht nur um im Leben erfolgreich zu sein, sondern auch, um es zu genießen.
+
+Um diese Eigenschaft zu entwickeln, muss man Wege finden, sein Bewusstsein so zu ordnen, dass man Gefühle und Gedanken unter Kontrolle hat. 
+
+Man sollte nicht erwarten, dass Abkürzungen den Zweck erfüllen.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Innere Harmonie erreichen
+
+Wer seine Wünsche kennt und zielstrebig an deren Verwirklichung arbeitet, ist ein Mensch, dessen Gefühle, Gedanken und Handlungen im Einklang stehen und der somit eine innere Harmonie erreicht hat.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Die großen Vier
+
+Da wir die glücklichsten Menschen und Familien sowie die Umstände, die zu ihrem Wohlbefinden beitragen oder es beeinträchtigen, genau bestimmen können, können wir auch angeben, welche Persönlichkeitsmerkmale diese glücklichen Menschen gemeinsam haben. 
+
+Es gibt verschiedene Möglichkeiten, die Eigenschaften glücklicher Menschen zu beschreiben, aber wir konzentrieren uns auf das, was allgemein als die „großen Vier“ bezeichnet wird:
+
+1. OPTIMISMUS. Glückliche Menschen sind optimistisch, weil sie dazu neigen, zu glauben, dass sie glückliche Ergebnisse erzielen und Probleme schneller lösen werden als Pessimisten. Sie klopfen sich schnell selbst auf die Schulter für eine gut gemachte Arbeit, und wenn sie Rückschläge erleben, nehmen sie diese nicht persönlich oder betrachten die Probleme als anhaltende und allgegenwärtige Probleme, die wahrscheinlich wiederkehren werden.
+2. SELBSTVERTRAUEN. Glückliche Menschen sind selbstbewusst und mögen sich selbst. Ihr Selbstvertrauen entspringt einer hohen Selbstachtung, und sie neigen dazu, sich selbst als freundlicher, großzügiger, ethischer, intelligenter, gesünder – und freier von Vorurteilen – als andere zu sehen.
+3. EXTROVERSION. Glückliche Menschen sind extrovertiert und leben von der Energie, die durch die Interaktion mit anderen, den Beitritt zu Gruppen und das Helfen anderer entsteht, sich wohl zu fühlen.
+4. SELBSTWIRKSAMKEIT. Glückliche Menschen sind selbstwirksam, was einfach bedeutet, dass sie sich nicht nur Ziele setzen, sondern fest an sich glauben, dass sie entweder das Zeug dazu haben, etwas zu erledigen, oder lernen können, wie man es erledigt. Selbstwirksamkeit impliziert auch den Glauben, dass Ihr Leben in Ihren Händen liegt und dass Sie die Fähigkeit haben, Ihr eigenes Verhalten zu kontrollieren, um Ihr Schicksal zu gestalten.
+
+[Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

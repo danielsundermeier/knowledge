@@ -783,6 +783,44 @@ Ohne Kampf können Sie nichts erreichen.
 
 [To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
 
+## Wachstum
+
+Kein Spiegel wurde je wieder zu Eisen;
+
+Kein Brot wurde je zu Weizen;
+
+Keine reife Traube wurde je zu saurer Frucht.
+
+Werde reif und sei sicher vor einer Veränderung zum Schlechten.
+
+Werde zum Licht.
+
+Diese Disziplin und grobe Behandlung sind ein Schmelzofen, um das Silber von der Schlacke zu trennen. Diese Prüfung reinigt das Gold, indem sie den Schaum wegkocht.
+
+Es ist Gottes Güte, dich zu erschrecken, um dich in Sicherheit zu führen.
+
+Wenn dich jede Reibung irritiert, wie willst du dann poliert werden?
+
+Bürden sind die Grundlagen der Bequemlichkeit und Bitteres die Vorläufer des Vergnügens.
+
+Wenn dein Wissen über Feuer allein durch Worte in Gewissheit verwandelt wurde, dann versuche, vom Feuer selbst gekocht zu werden. Bleibe nicht in geliehener Gewissheit. Es gibt keine echte Gewissheit, bis du brennst; wenn du dies wünschst, setz dich ins Feuer.
+
+Reisende, es ist spät. Die Sonne des Lebens wird untergehen. Seid in diesen kurzen Tagen, in denen ihr Kraft habt, schnell und scheut keine Mühe mit euren Flügeln.
+
+Gott führt Sie von einem Gefühl zum anderen und lehrt Sie durch Gegensätze, sodass Sie mit zwei Flügeln fliegen können und nicht nur mit einem.
+
+[Rumi Daylight](https://www.goodreads.com/book/show/223160.Rumi_Daylight)
+
+## Hindernisse und Zauberei
+
+Wenn ich allein mit Melo oder CP oder JR oder KD oder Steph oder einem meiner Jungs auf dem Platz stehe, weiß ich, wie viel Glück ich habe. 
+
+Ich hatte das Glück, mein Handwerk selbst zu erlernen, meine Methoden zu entwickeln, ohne dass mir jemand über die Schulter schaute, und das Vertrauen der Superstars allein dadurch zu gewinnen, wie wir zusammenarbeiteten, uns gegenseitig respektierten, kommunizierten und etwas verbesserten, das uns beiden heilig ist. 
+
+Wären meine frühen Bitten, von der Institution gesalbt oder sogar für einen Job in einem Team – egal welchem – ausgewählt zu werden, erhört worden, frage ich mich, ob ich dieses magische Leben hätte heraufbeschwören können.
+
+[The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

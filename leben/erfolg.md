@@ -863,6 +863,22 @@ Wer niemals aufgibt, erringt letztendlich den Sieg.
 
 [To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
 
+## Begeisterung
+
+Begeisterung ist einer der stärksten Motoren des Erfolgs. 
+
+Wenn Sie etwas tun, tun Sie es mit aller Kraft. 
+
+Geben Sie ihm Ihre ganze Seele. Geben Sie ihm Ihren eigenen Stempel auf. 
+
+Seien Sie aktiv, energisch, enthusiastisch und treu, und Sie werden Ihr Ziel erreichen. 
+
+Ohne Begeisterung wurde nie etwas Großes erreicht.
+
+Jede große und richtungsweisende Bewegung in den Annalen der Welt ist dem Triumph der Begeisterung zu verdanken.
+
+[The Selected Writings of Ralph Waldo Emerson](https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

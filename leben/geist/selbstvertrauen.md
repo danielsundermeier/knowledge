@@ -375,6 +375,20 @@ Er muss selbstbewusst sein und an seine Fähigkeiten glauben.
 
 [How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
 
+## Vertraue dir selbst
+
+Vertraue dir selbst: Jedes Herz schwingt an dieser eisernen Saite. 
+
+Akzeptiere den Platz, den die göttliche Vorsehung für dich gefunden hat, die Gesellschaft deiner Zeitgenossen, den Zusammenhang der Ereignisse. 
+
+Große Männer haben dies immer getan und sich kindlich dem Genie ihrer Zeit anvertraut und dabei ihre Wahrnehmung verraten, dass das absolut Vertrauenswürdige in ihrem Herzen sitzt, durch ihre Hände wirkt und in ihrem ganzen Wesen vorherrscht. 
+
+Und wir sind jetzt Menschen und müssen im höchsten Geist dasselbe transzendente Schicksal akzeptieren; 
+
+und wir sind keine Minderjährigen und Invaliden in einer geschützten Ecke, keine Feiglinge, die vor einer Revolution fliehen, sondern Führer, Erlöser und Wohltäter, die der allmächtigen Anstrengung gehorchen und gegen Chaos und Dunkelheit vorgehen.
+
+[The Selected Writings of Ralph Waldo Emerson](https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

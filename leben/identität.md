@@ -388,6 +388,28 @@ Kelly taufte diesen Ansatz „Therapie mit festen Rollen“ und entwickelte im L
 
 [The As If Principle](https://www.goodreads.com/book/show/15949993-the-as-if-principle)
 
+## Malen außerhalb der Linien
+
+„Kann ich dir etwas zeigen?“, fragte ich und griff nach einem ihrer Buntstifte. 
+
+„Schau mal, wenn du in eine Richtung malst, sieht die Zeichnung viel sauberer aus.“ 
+
+Ich bewegte mein Handgelenk auf und ab, um ihr zu zeigen, was ich meinte.
+
+„Mir geht’s gut“, antwortete sie.
+
+„Möchtest du nicht, dass deine Zeichnungen schön werden?“, fragte ich.
+
+„Japp“, sagte sie.
+
+„Warum verwendest du dann nicht die richtigen Farben, malst entlang der Linien und in dieselbe Richtung, wie ich und deine Mutter es dir gezeigt haben?“
+
+„Weil es meine Zeichnung ist“, antwortete sie.
+
+Sie lächelte und malte weiter.
+
+[The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

@@ -18,6 +18,10 @@ Angst vor einem Namen oder einer Bezeichnung stärkt die Angst vor der Sache sel
 
 > "Fear is not the enemy. Waiting to stop feeling afraid is." - Marie Forleo
 
+> "Tun Sie immer, immer, immer, immer, immer das, wovor Sie Angst haben." - Ralph Waldo Emerson
+
+> "Tun Sie das, wovor Sie Angst haben, und der Tod der Angst ist gewiss." - Ralph Waldo Emerson
+
 ## Wegweiser
 
 Angst = Unsicherheit * Ohnmacht
@@ -392,6 +396,16 @@ Bestrafung ist nur ein Versuch, dich aufzuwecken: „Was machst du?“ Etwas sti
 Deshalb gibt es Schmerz, Angst und Kummer.
 
 [The Book of Understanding](https://www.goodreads.com/book/show/97003.The_Book_of_Understanding)
+
+## Widrigkeiten transformieren
+
+Wenn Widrigkeiten uns zu lähmen drohen, müssen wir die Kontrolle zurückgewinnen, indem wir eine neue Richtung finden, in die wir unsere psychische Energie investieren können, eine Richtung, die außerhalb der Reichweite äußerer Kräfte liegt. 
+
+Wenn jedes Streben vereitelt wird, muss ein Mensch ein sinnvolles Ziel suchen, um das er sich selbst herum organisieren kann.
+
+Von allen Tugenden, die wir erlernen können, ist keine Eigenschaft nützlicher, überlebenswichtiger und trägt eher zur Verbesserung der Lebensqualität bei als die Fähigkeit, Widrigkeiten in eine erfreuliche Herausforderung zu verwandeln.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
 
 ## Bücher
 

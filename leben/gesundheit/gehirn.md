@@ -64,3 +64,23 @@ Wenn wir die Welt als einen gefährlichen Ort einschätzen, werden wir überall 
 Nehmen wir aber an, dass die Welt eine schöne, reichhaltige, liebevolle und eine insgesamt positive Erfahrung ist. Wie werden wir sie dann wohl wahrnehmen?
 
 Wenn wir ein klares Ziel definieren, wird das RAS die Dinge für uns herausfiltern, die wichtig sind um das Ziel auch zu erreichen.
+
+## Buddha, Jesus und dein Bewusstsein
+
+Das Wissen über die Kontrolle des Bewusstseins muss jedes Mal neu formuliert werden, wenn sich der kulturelle Kontext ändert. 
+
+Die Weisheit der Mystiker, der Sufis, der großen Yogis oder der Zen-Meister mag zu ihrer Zeit hervorragend gewesen sein – und könnte immer noch die beste sein, wenn wir in dieser Zeit und in dieser Kultur lebten. 
+
+Aber wenn man diese Systeme in das heutige Kalifornien überträgt, verlieren sie ziemlich viel von ihrer ursprünglichen Kraft. 
+
+Sie enthalten Elemente, die für ihren ursprünglichen Kontext spezifisch sind, und wenn diese zufälligen Bestandteile nicht von den wesentlichen unterschieden werden, wird der Weg zur Freiheit von einem Gewirr bedeutungslosen Hokuspokus überwuchert. 
+
+Die rituelle Form siegt über die Substanz, und der Suchende ist wieder da, wo er angefangen hat.
+
+Die Kontrolle des Bewusstseins kann nicht institutionalisiert werden. 
+
+Sobald sie Teil eines Satzes sozialer Regeln und Normen wird, hört sie auf, in der Weise wirksam zu sein, wie sie ursprünglich gedacht war.
+
+Und wie Dostojewski und viele andere bemerkten: Wäre Christus im Mittelalter zurückgekehrt, um seine Botschaft der Befreiung zu predigen, wäre er immer wieder von den Führern eben jener Kirche gekreuzigt worden, deren weltliche Macht auf seinem Namen beruhte.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)

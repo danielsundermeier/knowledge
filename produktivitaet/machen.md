@@ -896,6 +896,26 @@ Konzentrieren Sie Ihre Aufmerksamkeit nicht darauf, was andere tun oder nicht tu
 
 [The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
 
+## Wissen + Tun
+
+Es genügt nicht, zu wissen, wie es geht; man muss es konsequent tun, genauso wie Sportler oder Musiker ihr theoretisch erlerntes Wissen immer wieder in die Praxis umsetzen müssen.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Freizeit zurückgewinnen
+
+Ich helfe Ihnen, aus dem Zustand herauszukommen, in dem die passive Interaktion mit Ihren Bildschirmen Ihre wichtigste Freizeitbeschäftigung ist. 
+
+Ich möchte, dass Sie diesen Zustand durch einen Zustand ersetzen, in dem Ihre Freizeit nun mit besseren Beschäftigungen ausgefüllt ist, von denen viele hauptsächlich in der physischen Welt stattfinden werden. 
+
+In diesem neuen Zustand ist die digitale Technologie immer noch vorhanden, aber jetzt einer unterstützenden Rolle untergeordnet: Sie hilft Ihnen, Ihre Freizeitaktivitäten einzurichten oder aufrechtzuerhalten, fungiert aber nicht selbst als primäre Freizeitquelle. 
+
+Eine Stunde damit zu verbringen, lustige YouTube-Clips anzuschauen, könnte Ihre Vitalität rauben, während – und hier spreche ich aus jüngster Erfahrung – das Verwenden von YouTube, um sich selbst beizubringen, wie man einen Motor in einem Badezimmerlüfter austauscht, die Grundlage für einen zufriedenstellenden Bastelnachmittag bilden kann.
+
+Ein grundlegendes Thema des digitalen Minimalismus ist, dass neue Technologien, wenn sie mit Sorgfalt und Absicht verwendet werden, ein besseres Leben schaffen als Luddismus oder gedankenlose Übernahme.
+
+[Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

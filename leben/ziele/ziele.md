@@ -650,6 +650,28 @@ Champions haben eine Zielstrebigkeit, die die meisten Menschen nie entdecken wer
 
 [177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
 
+## Anspruchsvoll und spezifisch
+
+Edwin Locke und Gary Latham sind die beiden brillanten Männer, die jahrzehntelang zusammengearbeitet haben, um die Zielsetzungstheorie zu entwickeln, einen Ansatz, der so wirksam ist, dass er als die am besten erprobte Managementtechnik zur Erzielung von Veränderungen am Arbeitsplatz bezeichnet wurde. 
+
+Locke und Latham haben gemeinsam ein Lehrbuch mit dem Titel „A Theory of Goal Setting and Task Performance“ verfasst und zahlreiche Studien betreut, die einen der wichtigsten Punkte über Ziele unterstreichen, der häufig nicht beachtet wird.
+
+Wenn Sie mit einem Leistungsziel ein Ergebnis anstreben – beispielsweise das Erreichen einer bestimmten Note, eines bestimmten Gehalts, einer Platzierung bei einem Rennen oder irgendetwas, das messbar ist –, muss Ihr Ziel laut Latham „anspruchsvoll und spezifisch“ sein, und das Fehlen dieses einen Merkmals ist der Hauptgrund, warum die meisten Ziele scheitern: „Die Leute arbeiten nicht immer gerne hart an ihren Zielen, sie wünschen sich positive Ergebnisse und halten die Ziele absichtlich vage. Leistungsziele herausfordernd und spezifisch zu formulieren, ist der einzige Weg, diese Falle zu umgehen“, sagte Latham und fügte hinzu: „Einfache Ziele bedeuten auch, dass Sie nie deprimiert sein müssen, wenn Sie scheitern.“
+
+Nachdem Latham und Locke Arbeitnehmer in Hunderten von Situationen beobachtet hatten, stellten sie fest, dass zwei Zielbedingungen die Produktivität und die Ergebnisse durchweg senkten: „niedrige Ziele“ und „kein Ziel“. 
+
+Niedrige Ziele, so fanden sie heraus, waren Ziele, die nicht besonders herausfordernd waren und von der Person keine große Anstrengung verlangten. 
+
+Diese mittelmäßigen Ziele führten immer wieder zu unterdurchschnittlichen Ergebnissen.
+
+Nachfolgende Arbeiten ergaben, dass diese Art mittelmäßiger Ziele auch kein „authentisches Selbstwertgefühl“ fördert, das ihrer Schlussfolgerung nach nur durch das Verfolgen schwieriger Aufgaben entstand, die eine Person aus ihrer Komfortzone herausführten.
+
+Aus diesem Grund stellen wir das Wort „realistisch“ als Richtlinie für alle Lebensziele in Frage. 
+
+Einige unserer besten Ziele mögen zunächst unrealistisch erscheinen, aber wenn man sie in ihre Einzelteile zerlegt, sind sie erreichbar, wenn unsere besten Bemühungen mit den vielversprechendsten möglichen Ergebnissen belohnt werden.
+
+[Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

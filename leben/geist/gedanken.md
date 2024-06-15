@@ -2,6 +2,8 @@
 
 Wir haben täglich bis zu 6.000 Gedanken. Die allermeisten davon sind die gleichen wie am Vortag. Bis zu 70% Der Gedanken sind negativ.
 
+> "Säe einen Gedanken und Du erntest eine Tat; säe eine Tat und Du erntest eine Gewohnheit; säe eine Gewohnheit und Du erntest einen Charakter; säe einen Charakter und Du erntest ein Schicksal." - Ralph Waldo Emerson
+
 ## Automatic Negative Thoughts (ANTs)
 
 Es hilft die negativen Gedanken zu kategorisieren.

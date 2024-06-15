@@ -197,6 +197,18 @@ Wenn Sie sich tägliche oder wöchentliche Verbesserungsziele setzen, können Si
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## Du musst Biss haben
+
+Es ist offensichtlich, dass Entschlossenheit eine Eigenschaft ist, die Menschen aus allen Gesellschaftsschichten besitzen. 
+
+Es braucht genauso viel Entschlossenheit, um aus der Obdachlosigkeit zu einem sicheren Arbeitsplatz und Eigenheim zu gelangen, wie um ein Konzertpianist zu werden. 
+
+Entschlossenheit ist für das Erreichen vieler wichtiger Ziele in unserem Leben anwendbar, insbesondere wenn wir langfristige Ambitionen für uns selbst haben, die Jahre harter Arbeit, Beharrlichkeit, Rückschläge, mangelnde Unterstützung durch die Familie und andere schwierige Bedingungen mit sich bringen. 
+
+Vielleicht brauchen wir sogar Entschlossenheit, um eine wohlhabende Kindheit zu überwinden, in der wir nie kritisiert oder gebeten wurden, etwas Schwieriges zu tun.
+
+[Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

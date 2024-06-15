@@ -272,6 +272,74 @@ Das ist, als würde man mit dem Rauchen von Marlboro Reds aufhören und stattdes
 
 [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 
+## Aufmerksamkeit als psychische Energie
+
+Das Kennzeichen einer Person, die ihr Bewusstsein unter Kontrolle hat, ist die Fähigkeit, die Aufmerksamkeit nach Belieben zu fokussieren, Ablenkungen zu ignorieren und sich so lange zu konzentrieren, wie es zum Erreichen eines Ziels erforderlich ist, und nicht länger. 
+
+Und die Person, die dazu in der Lage ist, genießt normalerweise den normalen Ablauf des Alltags.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Your soul in a Lopsided arms race
+
+Dass unsere Menschlichkeit im letzten Jahrzehnt von diesen Werkzeugen in die Flucht geschlagen wurde, dürfte keine Überraschung sein. 
+
+Wie ich gerade ausführlich dargelegt habe, befinden wir uns in einem einseitigen Wettrüsten, bei dem die Technologien, die unsere Autonomie beschneiden, mit zunehmender Präzision tiefsitzende Schwachstellen in unseren Gehirnen ausnutzen, während wir immer noch naiv glauben, dass wir nur mit lustigen Geschenken herumspielen, die uns die Nerd-Götter überreicht haben.
+
+Als Bill Maher scherzte, dass der App Store es auf unsere Seelen abgesehen hätte, war er tatsächlich auf der richtigen Spur. 
+
+Wie Sokrates Phaedrus in Platons berühmter Wagenmetapher erklärte, kann unsere Seele als ein Wagenlenker verstanden werden, der darum kämpft, zwei Pferde zu zügeln, von denen das eine unsere bessere Natur und das andere unsere niederen Impulse repräsentiert. 
+
+Wenn wir zunehmend Autonomie an das Digitale abtreten, stärken wir das letztere Pferd und erschweren dem Wagenlenker das Lenken zunehmend – eine Schwächung der Autorität unserer Seele.
+
+Aus dieser Perspektive betrachtet wird klar, dass dies ein Kampf ist, den wir führen müssen. 
+
+Aber dazu brauchen wir eine ernsthaftere Strategie, etwas, das speziell darauf ausgelegt ist, die Kräfte, die uns in Richtung Verhaltenssüchte manipulieren, beiseite zu schieben, und das einen konkreten Plan bietet, wie wir neue Technologien für unsere besten Bestrebungen einsetzen können, statt gegen sie. 
+
+Digitaler Minimalismus ist eine solche Strategie. 
+
+Jetzt richten wir unsere Aufmerksamkeit auf seine Details.
+
+[Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+
+## Digitaler Minimalismus
+
+Eine Philosophie der Technologienutzung, bei der Sie Ihre Online-Zeit auf eine kleine Anzahl sorgfältig ausgewählter und optimierter Aktivitäten konzentrieren, die Dinge, die Sie schätzen, stark unterstützen, und dann alles andere gerne auslassen.
+
+Die sogenannten digitalen Minimalisten, die dieser Philosophie folgen, führen ständig implizite Kosten-Nutzen-Analysen durch. 
+
+Wenn eine neue Technologie kaum mehr als eine kleine Ablenkung oder triviale Annehmlichkeit bietet, wird der Minimalist sie ignorieren. 
+
+Selbst wenn eine neue Technologie verspricht, etwas zu unterstützen, was der Minimalist schätzt, muss sie dennoch einen strengeren Test bestehen: 
+
+Ist dies die beste Art, Technologie zu nutzen, um diesen Wert zu unterstützen? 
+
+Wenn die Antwort nein lautet, wird der Minimalist versuchen, die Technologie zu optimieren oder nach einer besseren Option zu suchen.
+
+Indem sie von ihren tiefen Werten rückwärts zu ihren Technologieentscheidungen arbeiten, verwandeln digitale Minimalisten diese Innovationen von einer Ablenkungsquelle in Werkzeuge, die ein gut gelebtes Leben unterstützen. 
+
+Auf diese Weise brechen sie den Bann, der so vielen Menschen das Gefühl gegeben hat, die Kontrolle über ihre Bildschirme zu verlieren.
+
+[Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+
+## Schließen Sie sich der Attention-Widerstandsbewegung an
+
+Die Einseitigkeit dieses Kampfes ist ein wesentlicher Grund dafür, dass ich mich nie mit einem dieser Dienste beschäftigt habe. 
+
+Um eine Zeile des New Yorker-Autors George Packer zu zitieren: „[Twitter] macht mir Angst, nicht weil ich moralisch überlegen bin, sondern weil ich nicht glaube, dass ich damit umgehen könnte. Ich fürchte, ich würde am Ende meinen eigenen Sohn hungern lassen.“ 
+
+Wenn Sie diese Dienste jedoch nutzen müssen und dabei hoffen, die Autonomie über Ihre Zeit und Aufmerksamkeit nicht aufzugeben, ist es wichtig zu verstehen, dass dies keine beiläufige Entscheidung ist. 
+
+Sie führen stattdessen einen Kampf David gegen Goliath gegen Institutionen, die sowohl unglaublich reich sind als auch entschlossen, diesen Reichtum zu nutzen, um Sie am Sieg zu hindern.
+
+Anders ausgedrückt: Wenn Sie sich Diensten der Aufmerksamkeitsökonomie mit der von Ginsberg und Burke vorgeschlagenen Intentionalität nähern, ist dies keine vernünftige Anpassung Ihrer digitalen Gewohnheiten, sondern wird besser als mutiger Akt des Widerstands verstanden. 
+
+Glücklicherweise sind Sie nicht allein, wenn Sie diesen Weg einschlagen. 
+
+Meine Forschungen zum digitalen Minimalismus haben die Existenz einer lose organisierten Aufmerksamkeitswiderstandsbewegung zutage gefördert, die aus Einzelpersonen besteht, die Hightech-Tools mit disziplinierten Betriebsverfahren kombinieren, um gezielte Angriffe auf beliebte Dienste der Aufmerksamkeitsökonomie durchzuführen – indem sie hereinplatzen, um Wert zu extrahieren, und sich dann davonmachen, bevor die Aufmerksamkeitsfallen dieser Unternehmen zuschnappen können.
+
+[Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

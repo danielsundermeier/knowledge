@@ -1192,6 +1192,48 @@ Machen Sie dies zu Ihrem Champion-Tagebuch.
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## Ein Schurke weniger auf der Welt
+
+Aber es kann keine soziale Veränderung geben, wenn nicht zuerst das Bewusstsein der Individuen verändert wird. 
+
+Als ein junger Mann Carlyle fragte, wie er die Welt reformieren solle, antwortete dieser: „Reformieren Sie sich selbst. Dann gibt es einen Schurken weniger auf der Welt.“ 
+
+Dieser Rat ist immer noch gültig. 
+
+Wer versucht, das Leben für alle besser zu machen, ohne vorher gelernt zu haben, sein eigenes Leben zu kontrollieren, macht am Ende meist alles nur noch schlimmer.
+
+[Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Die zwei Eimer
+
+Ich fragte mich, ob er wirklich ein All-Star werden wollte. Sein Verhalten in den letzten beiden Sommern und im Laufe seiner Karriere zeigte mir, dass das nicht seine Priorität war, was für mich vollkommen in Ordnung war, wenn das für ihn in Ordnung war. 
+
+Ich arbeite mit All-Stars, Spielern, die nach Größe streben. 
+
+Ich hätte nie zugestimmt, mit ihm zu arbeiten, wenn ich nicht geglaubt hätte, dass er das auch sein könnte. 
+
+Aber seine Entscheidungen und Handlungen würden ihn nie dorthin bringen, wo er hinwollte.
+
+Ich sagte, sein Streben nach Ruhm erfordert zwei Körbe, einen mit der Aufschrift GUT und einen mit der Aufschrift SCHLECHT. 
+
+Dinge, die ihm bei dem helfen, was er liebt, gehören in den Korb GUT, während alles, was ihn behindert, in den Korb SCHLECHT gehört. 
+
+Ich sagte ihm, dass einige der Dinge außerhalb des Spielfelds ihn zurückhalten könnten. 
+
+Wenn die Dinge, die er tut, wichtig und notwendig sind und ihn besser spielen lassen, dann ist das großartig und er kann weitermachen. 
+
+Aber wenn das nicht der Fall ist und er sie trotzdem weiter tut, sagt er, dass sie ihm wichtiger sind als das Spiel, das er angeblich liebt.
+
+[The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
+
+## So verdreifachen Sie Ihren Erfolg
+
+Es ist unbestreitbar, dass die Verknüpfung von Wenn-Dann-Aussagen mit Zielen einen massiven Einfluss auf die Umsetzung hat, insbesondere bei schwierigen Zielen. 
+
+Unabhängig davon, ob es sich bei dem Ziel um einen Gesundheitscheck, eine Diät oder eine bestimmte Anzahl von Stunden Lernen für ein unabhängiges Studienprojekt handelte, waren Probanden, die sagten, sie würden zu einem bestimmten Zeitpunkt oder als Reaktion auf ein anderes Stichwort eine bestimmte Handlung ausführen, normalerweise dreimal so erfolgreich wie ihre Mitbewerber.
+
+[Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

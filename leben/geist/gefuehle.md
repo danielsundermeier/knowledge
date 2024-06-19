@@ -119,6 +119,51 @@ Sie haben auch eine enorme Energie, aber je mehr Sie sie beobachten, desto stär
 
 [The Art of Living Consciously](https://www.goodreads.com/book/show/646187.The_Art_of_Living_Consciously)
 
+## Das Telefon klingelt
+
+Negative Emotionen sind wie ein Telefon, das in Ihrem Körper klingelt. 
+
+Blockieren Sie den Anruf nicht, sondern geben Sie ihm eine klare Verbindung zu Ihrem Gehirn.
+
+Wenn negative Emotionen an die Oberfläche kommen und Ihr Telefon für innere Gefühle klingelt, nehmen Sie ab. 
+
+Ein klingelndes Telefon zeigt an, dass Sie sich erholen müssen. 
+
+Kleinere Bedürfnisse werden durch leises Klingeln signalisiert – das heißt durch leichte negative Emotionen oder Gefühle. 
+
+Sie fühlen sich leicht gereizt, hungrig, müde, gelangweilt oder etwas Ähnliches. 
+
+Dringende Bedürfnisse werden durch lautes, schmerzhaftes Klingeln signalisiert – durch starke negative Emotionen wie intensive Angst, Wut, Depression, Hoffnungslosigkeit, Erschöpfung oder etwas anderes mit ähnlicher Wirkung.
+
+Die Gefühle und Emotionen, die Sie hören, sind Stress-/Erholungssprache. 
+
+Arbeiten Sie daran, die Fähigkeit zu erlernen, die Bedeutung negativer Emotionen zu verstehen und zu interpretieren. 
+
+Ein klingelndes Telefon – Ihr Bewusstsein für negative Emotionen – spielt eine entscheidende Rolle. 
+
+Wenn Sie die Nachricht nicht verstehen und nicht auf eine Weise reagieren, die das Bedürfnis erfüllt, wird das Telefon weiter klingeln. 
+
+Es wird immer lauter (und Ihnen immer mehr Schmerzen bereiten), während die Zeit vergeht, ohne dass das Bedürfnis erfüllt wird.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
+## Körperliche + geistige Stärke = emotionale Stärke
+
+Obwohl Emotionen echte biochemische Vorgänge sind, sind sie nicht leicht zugänglich. 
+
+Emotionales Training für die Herausforderungsreaktion erfolgt auf zwei Arten: 
+
+- (1) von außen nach innen (von den Muskeln nach innen zum Gehirn)
+- (2) von innen nach außen (vom Gehirn nach außen durch Denken und Wahrnehmen)
+
+Obwohl wir unsere Emotionen nicht direkt willentlich kontrollieren können, können wir beträchtliche Kontrolle darüber ausüben, was wir mit unserem physischen Körper tun, sowie über die Richtung und den Inhalt unserer Gedanken. 
+
+Körperliche und geistige Stärke erzeugen zusammen emotionale Stärke. 
+
+Dieses Verständnis bildet die Grundlage des Härtetrainings.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

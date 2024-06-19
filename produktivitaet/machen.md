@@ -916,6 +916,18 @@ Ein grundlegendes Thema des digitalen Minimalismus ist, dass neue Technologien, 
 
 [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
 
+## Sie haben 60 Meilen gelaufen. Noch 40 vor sich. Lust?!
+
+Wenn ich bereits 60 Meilen gelaufen bin und noch 40 vor mir habe, habe ich dann Lust, noch 40 Meilen zu laufen? 
+
+Ich liebe das Laufen, aber natürlich habe ich keine Lust, noch 40 Meilen zu laufen, nachdem ich 60 Meilen gelaufen bin! 
+
+Das hat niemand. 
+
+Ich habe jedoch den Punkt erreicht, an dem meine Selbstkontrolle so weit ist, dass ich, sofern ich nicht unter einer schweren körperlichen Verletzung leide, die mich daran hindert, einen Schritt zu machen, weiß, dass ich nicht aufhören werde; ich weiß, dass ich 40 Meilen weiterlaufen werde, komme, was wolle.
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

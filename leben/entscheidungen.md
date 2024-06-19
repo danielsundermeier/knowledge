@@ -294,6 +294,32 @@ Die einzige authentische Autorität ist Ihre eigene ursprüngliche Natur.
 
 [The Power of Your Supermind](https://www.goodreads.com/book/show/19656755-the-power-of-your-supermind)
 
+## Treffen Sie die Entscheidung, die Wahl aufzugeben
+
+Bei der 4:30-Uhr-Regel geht es nicht nur darum, früh aufzustehen, um mehr am Tag zu schaffen – wie Papa es tat. 
+
+Das ist natürlich ein Teil davon, aber es steckt noch etwas Tieferes dahinter. 
+
+Der Sinn dieser Denkweise ist einfach ausgedrückt, dass Sie sich keine Gedanken darüber machen müssen, ob Sie tatsächlich Lust haben, etwas zu unternehmen, wenn es Zeit ist, loszulegen, wenn Sie sich im Voraus zu etwas verpflichtet haben.
+
+Wenn der Wecker um 4:30 Uhr klingelt, müssen Sie aufstehen und loslegen, auch – und besonders – wenn Sie sich am liebsten umdrehen und weiterschlafen würden. 
+
+Die Regel muss nicht wörtlich genommen werden; das Aufstehen um 4:30 Uhr ist nur ein Beispiel für die Art von Durchhaltevermögen, die man braucht, um erfolgreich zu sein. 
+
+Die Regel, die Sie auf Ihre eigene Situation anwenden, kann etwas anders sein oder beinhalten, eine bestimmte Sache zu einer anderen Tageszeit oder zu einer bestimmten Zeit jede Woche zu tun. 
+
+Der Punkt ist, dass Sie sich selbst im Voraus eine Verpflichtung auferlegen und dabei die Entscheidung treffen, die Wahl aufzugeben.
+
+Sich auf etwas einzulassen – ein Trainingsprogramm, ein Projekt, einen Job, eine Beziehung, die Betreuung eines Kindes – ist eines der wichtigsten Dinge, die Sie im Leben tun können. 
+
+Hier beginnt es. 
+
+Indem Sie sich buchstäblich oder im übertragenen Sinn auf 4:30 Uhr morgens festlegen, haben Sie andere Optionen aufgegeben. 
+
+Zu einer Zeit aufzustehen, zu der es nur wenige andere tun, kann ein erster Schritt zur Erreichung des Ziels sein.
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

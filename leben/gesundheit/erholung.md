@@ -152,6 +152,70 @@ Jeder von uns muss herausfinden, wie lange er in seinem Leben das sprichwörtlic
 
 [Off Balance](https://www.goodreads.com/book/show/28425822-off-balance)
 
+## Lasst uns Wellen schlagen!
+
+Wellen schlagen ist ein anderer Begriff für das gleiche Konzept des Gleichgewichts zwischen den Stress- und Erholungszyklen, die wir besprochen haben. 
+
+Ob wir es als Tag und Nacht, Höhen und Tiefen oder Ebbe und Flut ausdrücken, die wiederkehrenden Themen der Abhärtung beinhalten immer dynamische Bewegung, Ausweitung der Herausforderung, Veränderung, Wachstum, Schwingung und Rhythmus im Wechsel mit Ruhe und Erholung.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
+## Die Zeit zwischen den Punkten
+
+Vieles von dem, was ich über die Bedeutung der Erholung im Leben weiß, entstand ursprünglich aus einer zweieinhalbjährigen Studie darüber, wie professionelle Spitzentennisspieler Stress während eines Wettkampfs bewältigen. 
+
+Ich wollte die erworbenen Denk- und Handlungsgewohnheiten identifizieren, die mental starken Wettkämpfern helfen, Stress so effektiv zu bewältigen.
+
+Ich war überzeugt, dass ich die Elemente der mentalen Stärke isolieren könnte, wenn ich genau genug hinsah. 
+
+Monate intensiver Studien und Analysen zeigten jedoch nur wenige signifikante Unterschiede zwischen den Gedanken oder Handlungen von Spitzen- und schwachen Wettkämpfern, während der Ball im Spiel war. 
+
+Das war, gelinde gesagt, eine Überraschung.
+
+Erst als ich eine gründliche Studie der Zeit zwischen den Punkten begann, entdeckte ich dramatische Unterschiede. 
+
+Ich erkannte bald, dass Spitzen- und schwache Wettkämpfer zwischen den Punkten sehr unterschiedlich dachten und handelten.
+
+Alle Daten zeigten, dass harte Wettkämpfer, anders als weniger harte, ihre Möglichkeiten zur Erholung zwischen den Punkten maximierten. 
+
+Sie hatten sich ein hochentwickeltes und präzises System zur Erholung angeeignet.
+
+Schlechte Wettkämpfer dagegen waren weniger diszipliniert, weniger genau, weniger rituell und abwechslungsreicher in ihren Aktionen zwischen den Punkten. 
+
+Sie neigten auch viel eher dazu, negative Emotionen zu zeigen, wenn sie einen Fehler machten. 
+
+Wenn sie wütend, frustriert, enttäuscht, gereizt oder entmutigt waren, zeigten sie dies viel eher.
+
+Geschulte Erholung ist die Grundlage für Belastbarkeit im Leben und im Sport. 
+
+Wenn Sie stärker werden möchten, sind die Voraussetzungen einfach: Lernen Sie, wie Sie sowohl kraftvolle Erholungswellen als auch kraftvolle Belastungswellen erzeugen.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
+## Ultradiane Rhythmen
+
+Biologische Rhythmen, sogenannte Ultradiane, pulsieren alle 90 bis 120 Minuten durch uns; Zirkadiane pulsieren alle 24 Stunden. 
+
+Rossi glaubt, dass das kontinuierliche Übergehen der natürlich vorkommenden ultradianen und zirkadianen Stress- und Ruhezyklen des Körpers zu einer Reihe ernsthafter körperlicher und emotionaler Probleme führen kann.
+
+Diese Probleme reichen von chronischer Müdigkeit bis hin zur Schwächung des Immunsystems und von Depressionen bis hin zu Leistungseinbußen.
+
+Ultradiane und zirkadiane Forscher bezeichnen die Angewohnheit, das Bedürfnis des Körpers nach Ruhe und Erholung zu ignorieren, als Ausdauerstress. 
+
+Das Unterbrechen von Stresszyklen alle 90 bis 120 Minuten mit 15 bis 20 Minuten Erholung entspricht den natürlichen Bedürfnissen des Körpers am besten, berichtet Rossi. 
+
+Laut Rossi stellen diese 15- bis 20-minütigen Ruhepausen die richtigen ultradianen Rhythmen wieder her und sind somit entscheidend für die körperliche und psychische Erholung und langfristige Gesundheit.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
+## Physiologische Erholung = enorm!
+
+Die physiologischen Erholungsbedürfnisse unseres Körpers zu erfüllen, sollte immer unsere oberste Priorität sein. 
+
+Leider vernachlässigen wir mit zunehmendem Stress die Grundbedürfnisse des Körpers nach Nahrung, Schlaf, Bewegung und Entspannung.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

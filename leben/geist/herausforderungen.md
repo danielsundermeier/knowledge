@@ -821,6 +821,32 @@ Wären meine frühen Bitten, von der Institution gesalbt oder sogar für einen J
 
 [The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
 
+## Es ist alles gutes mentales Training
+
+Die Idee dahinter ist, dass Herausforderungen Teil des Lebens sind. 
+
+Wenn man sie als positive, ja sogar wesentliche Instrumente des „mentalen Trainings“ betrachtet, kann man Steinchen für Steinchen einen Berg innerer Widerstandskraft aufbauen, der es einem ermöglicht, alles zu vollenden, wozu man sich zutiefst verpflichtet fühlt.
+
+Diese Herausforderungen und dieses mentale Training erzeugen darüber hinaus, wenn man sie durch das Streben nach Wahl erlebt, eine unglaubliche Quelle der Entschlossenheit, die es uns allen ermöglicht, die wirklich herausfordernden, obligatorischen Leidensphasen, die das Leben uns auferlegt, durchzustehen.
+
+Was möchten Sie anstreben?
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
+## Akzeptieren Sie Widrigkeiten
+
+Das Problem, wenn Sie sich darauf beschränken, in Ihrer Komfortzone zu trainieren, zu üben und zu leben, besteht darin, dass Sie dadurch nicht wachsen und Ihr volles Potenzial nicht erreichen können. 
+
+Wir müssen kämpfen, denn der Kampf macht uns besser – der Kampf selbst ist die Reise. 
+
+Menschen haben von Natur aus Angst vor Widrigkeiten, was ironisch ist, denn Widrigkeiten sind das Einzige, was uns besser macht. 
+
+Wir haben eine instinktive Angst vor der einen Sache, die mit Sicherheit zu den Ergebnissen führt, nach denen wir uns sehnen. 
+
+Wenn wir das wissen, werden die Herausforderungen, Nöte und Kämpfe, die auf den ersten Blick wie Rückschläge und Dinge aussehen, die es zu vermeiden gilt, alles andere als das – sie werden zu entscheidenden Momenten, die die dramatischsten Veränderungen bewirken und die geschätzt und gesucht, nicht gefürchtet und ertragen werden sollten.
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

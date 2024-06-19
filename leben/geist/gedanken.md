@@ -535,6 +535,20 @@ Wenn Sie die Freuden des Lebens vergessen und sich in den Vergnügungen der Welt
 
 [The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
 
+## Über unser Denken nachdenken
+
+Wir wissen das: Wir wissen, dass Höhen und Tiefen unvermeidlich sind. 
+
+Und doch scheinen wir oft unvorbereitet, wenn wir von diesen Höhen und Tiefen heimgesucht werden – wir sind entweder von Selbstüberschätzung erfüllt – einer fast unhaltbaren Euphorie – oder wir werden von Depressionen überwältigt.
+
+Warum ist das so? Warum lassen wir uns von der Strömung mitreißen wie ein unvorbereiteter Schwimmer? 
+
+Weil wir nicht über unser Denken nachdenken. 
+
+Vorauszudenken, wie Sie denken – wie Sie reagieren – werden, wenn diese Höhen und Tiefen kommen, ist ein Schlüssel zum Erfolg im Rennsport und im Leben, insbesondere wenn Sie darüber nachdenken, was Sie zu einem bestimmten Zeitpunkt tun werden und warum Sie es tun werden.
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

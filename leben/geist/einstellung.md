@@ -226,6 +226,36 @@ Wenn Sie Ihre Faulheit aufgeben und sich vornehmen, es zu tun, und zwar nach dem
 
 [To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
 
+## Positivität
+
+Eine optimistische Denkweise ist ein erkennbares Merkmal von Spitzenkräften, denn das, worauf sich der menschliche Geist konzentriert und worüber er spricht, ist das, wovon wir mehr sehen. 
+
+Der Stanford-Professor Arnold Zwicky nennt dies die „Frequenzillusion“. 
+
+Dabei handelt es sich im Wesentlichen um ein Phänomen, bei dem man mehr von den Dingen sieht, auf die man sich bereits konzentriert. 
+
+Ursache dafür sind seiner Meinung nach zwei psychologische Prozesse.
+
+Der erste Prozess, die selektive Aufmerksamkeit, setzt ein, wenn Ihnen ein neues Wort, Ding oder eine neue Idee auffällt; danach halten Sie unbewusst danach Ausschau und finden es infolgedessen überraschenderweise häufiger. 
+
+Der zweite Prozess, die Bestätigungsvoreingenommenheit, versichert Ihnen, dass jede Sichtung ein weiterer Beweis Ihres Eindrucks ist, die Sache sei über Nacht allgegenwärtig geworden. 
+
+Denken Sie an das letzte Mal, als Sie ein neues Auto gekauft haben. 
+
+Nehmen wir an, es war ein Jeep Grand Cherokee. Nachdem Sie ihn gekauft haben, fallen sie Ihnen überall auf – scheinbar fährt jeder dritte Mensch auf der Straße einen Jeep Grand Cherokee. 
+
+Und Ihnen fallen nicht nur die Farben auf, sondern auch die unterschiedlichen Modelle und Ausstattungen; Laredos sind häufiger als Limiteds, und es gibt weniger SRTs als Overlands. 
+
+Natürlich gab es an dem Tag, an dem Sie Ihr Auto gekauft haben, keinen plötzlichen Anstieg der lokalen Jeep-Verkäufe. 
+
+Aber weil Sie aktiv darüber nachdenken, können Sie nicht anders, als sie überall zu bemerken. 
+
+Dasselbe Prinzip gilt für Ihre Einstellung zu Sport, Arbeit und Beziehungen. 
+
+Wenn Sie über Dinge sprechen (oder schlimmer noch, sich darüber beschweren), die außerhalb Ihrer Kontrolle liegen, Dinge, die Ihre Leistung beeinträchtigen könnten, werden Sie mehr davon sehen und erleben.
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

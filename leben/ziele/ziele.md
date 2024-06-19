@@ -672,6 +672,20 @@ Einige unserer besten Ziele mögen zunächst unrealistisch erscheinen, aber wenn
 
 [Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
 
+## Wo ist Ihre nächste Versorgungsstation?
+
+Hundert Meilen. Das ist eine lange Strecke zum Laufen. 
+
+Und verdammt, es ist eine lange Strecke zum Fahren. 
+
+Das wäre, als würde man von Philadelphia nach New York City laufen und dann noch 3 Meilen um den Central Park herumlaufen. 
+
+Wenn man eine solche Distanz laufen will, sollte man sie auf jeden Fall in überschaubare Abschnitte aufteilen. 
+
+Da dies mein erster 100-Meilen-Lauf war, bestand mein Plan darin, konservativ zu beginnen, mich nicht gleich zu Beginn in das Rennen verwickeln zu lassen und die Strecke Schritt für Schritt anzugehen, wobei ich mich darauf konzentrieren sollte, zur nächsten Verpflegungsstation zu gelangen, anstatt mir über die gesamte Strecke Gedanken zu machen.
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

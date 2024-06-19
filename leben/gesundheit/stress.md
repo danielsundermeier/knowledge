@@ -285,6 +285,40 @@ Viktor Frankl, bekannter Psychiater und Gründer der psychotherapeutischen Schul
 
 [The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
 
+## Wie es zur Härtung kommt
+
+Es gibt vier Arten von Stress, und nur eine davon führt zur Abhärtung. Übermäßiger und unzureichender Stress verringern die Abhärtung tatsächlich, während Erhaltungsstress sie auf dem aktuellen Niveau einfriert, nur adaptiver Stress macht abhärtend.
+
+Wir werden härter, indem wir uns schrittweise über unsere normalen Grenzen hinaus herausfordern.
+
+Im Sport besteht das größte Risiko in körperlichem und emotionalem Übertraining; im Leben außerhalb des Sports sind es körperliches Untertraining und emotionales Übertraining.
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
+## Geben Sie mir Stress, ich brauche die Übung!
+
+Wahrscheinlich haben Sie bereits einige schwere emotionale Rückschläge erlitten. 
+
+Sie haben vielleicht das Gefühl, dass Sie in dieser Hinsicht Ihre Schuldigkeit getan haben. 
+
+Leider funktioniert das nicht so. 
+
+Ihr Leben wird noch mehr emotionalen Schmerz erleiden – und meines auch. Die einzige Frage ist, wann.
+
+Eine schwere Lebenskrise ist einfach eine enorme Dosis Stress. 
+
+Wenn Ihr Bewältigungsspielraum sehr begrenzt ist, kann eine plötzliche Lebenskrise Sie schnell über Ihre Grenzen hinaus in die Grauzone drängen, in der Menschen sich selbst destruktive Dinge antun. 
+
+Deshalb ist es wichtig, sich selbst immer als Trainierende zu betrachten, um körperlich und emotional stärker zu werden.
+
+Denken Sie daran, dass die Frage nie ist, ob harte Zeiten kommen werden, sondern nur wann und wie sie sein werden. 
+
+Im wahrsten Sinne des Wortes stellt jeder Tag unseres Lebens eine weitere Gelegenheit dar, härter zu werden und unsere Bewältigungsfähigkeit zu erweitern. 
+
+Ich fordere Sie auf, dieses Konzept für sich anzuwenden: „Geben Sie mir Stress, ich brauche die Übung.“
+
+[Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

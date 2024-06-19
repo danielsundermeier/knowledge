@@ -879,6 +879,60 @@ Jede große und richtungsweisende Bewegung in den Annalen der Welt ist dem Trium
 
 [The Selected Writings of Ralph Waldo Emerson](https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson)
 
+## Gib niemals auf ... außer wenn du aufhören solltest
+
+Hier ist, worauf es hinausläuft: Wenn Sie etwas tun, das Ihnen wirklich am Herzen liegt, etwas, von dem Sie wissen, dass es mit Ihrem wahren Ich und Ihren höchsten Zielen im Leben übereinstimmt, geben Sie niemals auf, weil Sie Angst davor haben, was passieren könnte, wenn Sie weitermachen. 
+
+Angst wird da sein, und das ist einfach ein Teil der Sache – machen Sie trotzdem weiter. 
+
+Scheitern ist das schlimmste mögliche Ergebnis, und das ist nicht allzu schlimm, wenn man bedenkt, dass jeder, der sich ins Zeug legt, auf dem Weg zum Erfolg zwangsläufig scheitern wird, oft sogar regelmäßig. 
+
+Leadman zu beenden, entsprach dem, wer ich sein möchte und wie ich mein Leben verbringen möchte, also war Aufgeben keine Option.
+
+Wenn Sie andererseits etwas tun, von dem Sie erkennen, dass es nicht mit Ihrem wahren Ich und Ihren höchsten Zielen übereinstimmt, stehen die Chancen gut, dass Sie es weiter tun, weil die Angst Ihnen sagt, nicht aufzugeben. 
+
+Sie haben Angst davor, was passieren wird, wenn Sie aufgeben. 
+
+Oder weil andere Leute Ihnen sagen, dass Sie weitermachen sollen. 
+
+Oder weil Geldverdienen irgendwie wichtiger geworden ist als glücklich zu sein. 
+
+Oder weil Sie vor langer Zeit die Entscheidung getroffen haben, einen bestimmten Weg einzuschlagen, und sich nicht damit abfinden können, Ihre Meinung zu ändern. 
+
+Wenn Sie in Ihrem Leben etwas tun, was Sie nicht tun möchten, dann HÖREN SIE AUF. 
+
+Wahrer Mut besteht darin, die Angst zu überwinden und Ihr Leben auf eine Weise zu verbringen, die Sie für sinnvoll halten. 
+
+Eineinhalb Jahre später scherze ich mit Freunden, dass ich „stolz darauf bin, ein Schulabbrecher zu sein“, nachdem ich das Programm zur Schulleiterzulassung abgebrochen habe. 
+
+Die Wahrheit ist viel ernster: Ich bin verdammt froh, dass ich etwas aufgegeben habe, was ich aus Angst getan habe und das mich auf ein Leben vorbereitet hätte, das ich nicht wollte.
+
+[The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
+
+## Handeln Sie wie ein Champion – jetzt
+
+Jim Afremow, ein führender Sportpsychologe, schreibt in seinem Buch A Champion’s Mind: „Es gibt keinen goldenen Weg zur Exzellenz; Exzellenz ist der goldene Weg. Solange Sie diesen Weg nicht einschlagen, werden Sie nie eine Chance haben, dorthin zu gelangen.“ 
+
+Mit anderen Worten: Sie werden nicht erst ein Champion und beginnen dann, sich wie ein Champion zu benehmen. 
+
+Egal, ob Sie Profisportler oder Mitarbeiter auf mittlerer Ebene in einer Anwaltskanzlei sind, beim Streben nach Exzellenz geht es darum, täglich die Verhaltensweisen und Gewohnheiten eines Champions zu leben und zu atmen. 
+
+Es geht darum, bei allem, was Sie tun, Ihr Bestes zu geben, ob Sie für eine Prüfung lernen, bei CrossFit trainieren, den Geschirrspüler einräumen oder einem Freund in Not zuhören. 
+
+Es ist die Art und Weise, wie Sie versuchen, Ihr Potenzial auszuschöpfen, die Sie als Champion definiert, nicht Titel, Medaillen oder Auszeichnungen. 
+
+Doch wenn Sie anfangen, sich wie ein Champion zu benehmen, passiert etwas Merkwürdiges – wenn Sie alles, was Sie haben, in den Prozess einbringen, fügt sich in der Regel alles zusammen.
+
+Es wird nicht einfach sein, und es wird nicht über Nacht passieren. 
+
+Sie werden nicht perfekt sein; Tatsächlich werden Sie auf dem Weg dorthin viel Mühe haben. 
+
+Aber wenn Sie jeden Moment des Tages nach Perfektion streben, können Sie Spitzenleistungen erzielen. 
+
+Aber Sie müssen anfangen. Machen Sie sich an die Arbeit.
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

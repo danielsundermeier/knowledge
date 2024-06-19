@@ -209,6 +209,12 @@ Vielleicht brauchen wir sogar Entschlossenheit, um eine wohlhabende Kindheit zu 
 
 [Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
 
+## Was ist eigentlich „Grit“?
+
+Es ist ein Wort, das verwendet wird, um alles Mögliche zu beschreiben, aber es bedeutet etwas Bestimmtes: Wenn es schwierig wird, strengt man sich mehr an; wenn man scheitert, steht man gestärkt wieder auf; wenn man keine Ergebnisse sieht, lässt man sich nicht entmutigen, sondern arbeitet Tag für Tag mit Unerbittlichkeit, Beständigkeit, Herz und Leidenschaft weiter – das ist „Grit“.
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Bücher
 
 - [Grit](https://www.goodreads.com/book/show/27213329-grit)

@@ -332,6 +332,20 @@ Ich muss herausfinden, ob sie großartig sein wollen, und wenn ja, ermutige ich 
 
 [The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
 
+## Exzellenz
+
+Exzellenz bedeutet, alles, was Sie haben, in den Kategorien zu maximieren, die für Ihre langfristigen Ziele wichtig sind. 
+
+Die Kategorien, auf die es ankommt, sind in jedem Beruf anders. 
+
+Für Sportler sind das Training, Ernährung, Schlaf, Erholung und Einstellung. 
+
+Wenn Sie Gehirnchirurg oder CEO sind, können Ihre Kategorien andere sein. 
+
+Unabhängig davon, was Ihr Beruf ist, sollten Sie sich immer wieder eine Frage stellen: Setze ich alles daran, mich auch nur um den kleinsten Prozentsatz zu verbessern, egal wie hart ich dafür arbeiten muss, egal was ich aufgeben muss, egal wie lange es dauert?
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

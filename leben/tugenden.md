@@ -205,6 +205,27 @@ Was für ein Mensch würden Sie zum Beispiel gerne sein, nachdem Sie zehn oder z
 
 [How to Think Like a Roman Emperor](https://www.goodreads.com/book/show/39863499-how-to-think-like-a-roman-emperor)
 
+## 12 Eigenschaften eines Champions
+
+Wenn es so aussieht, als würde mein Team übermäßig viel Zeit darauf verwenden, sich auf den Charakter zu konzentrieren, dann liegt das daran, dass wir das auch tun. 
+
+Der kampferprobteste und unanfechtbarste Prozess ist nichts, wenn er nicht von den Charaktereigenschaften begleitet wird, die nötig sind, um ihn durchzuhalten.
+
+1. ENGAGEMENT. Alles beginnt mit unserer letzten Idee, die sich mit Engagement befasste. Wenn Sie das „Meh, ich bin gut genug“-Spiel spielen, haben Sie BUCHSTÄBLICH KEINE CHANCE, Spitzenleistungen zu erzielen/Ihr Potenzial zu verwirklichen/usw. Buchstäblich. NULL. Also engagieren Sie sich.
+2. BISSCHEN. Engagiert? Zeit, Biss zu zeigen (und zu bleiben). Darüber sprechen wir als Nächstes.
+3. POSITIVITÄT. Ist der Schlüssel. Darüber sprechen wir auch.
+4. NEHMEN SIE WIDERSTAND AN. ERWARTEN Sie Widrigkeiten. Dann seien Sie antifragil. Mehr gleich.
+5. SELBSTVERTRAUEN. „Selbstvertrauen entsteht, wenn Sie die schwierigsten Schlüssel zum Erfolg in den Alltagstrott integrieren und unerschütterlich an Ihren Charaktereigenschaften festhalten.“
+6. MINUTEN MAXIMAL NUTZEN. „Jetzt ist alles, womit Sie arbeiten müssen. Wenn Sie es voll ausleben, ist es mehr als genug.“ Wann ist ein guter Zeitpunkt, um Spitzenleistungen zu erbringen? JETZT. JETZT. JETZT. Champions nicken nicht nur zustimmend, sie NUTZEN DIE MINUTEN MAXIMAL AUS.
+7. DER PROZESS. „Denken Sie nicht daran, die SEC-Meisterschaft zu gewinnen. Denken Sie nicht an die nationale Meisterschaft. Denken Sie daran, was Sie in dieser Übung, bei diesem Spiel, in diesem Moment tun mussten. Das ist der Prozess: Lassen Sie uns darüber nachdenken, was wir heute tun können, die anstehende Aufgabe.“
+8. KONTROLLE. „Kontrollieren Sie, was Sie kontrollieren können. Ignorieren Sie alles andere.“ Mat Frasers Tattoo sagt: „Gott, gib mir die Gelassenheit, Dinge hinzunehmen, die ich nicht ändern kann, den Mut, Dinge zu ändern, die ich ändern kann, und die Weisheit, das eine vom anderen zu unterscheiden.“
+9. UMBLENDEN. „Zu verstehen, dass Sie nur die Kontrolle über den gegenwärtigen Moment haben, ist der Schlüssel, um das Blatt wenden zu können. Die Vergangenheit wieder zu erleben ist ein Rezept für unnötige Depressionen, Angst vor der Zukunft ist ein todsicherer Weg zu Angstzuständen. Zu lernen, im gegenwärtigen Moment zu leben, ist lebenswichtig, denn das ist das Einzige, worüber Sie Kontrolle haben. Das Einzige, was Sie tun können, um die Vergangenheit zu korrigieren oder die Zukunft zu beeinflussen, ist, jetzt, im gegenwärtigen Moment, zu handeln.“
+10. BESCHEIDENHEIT. „In dem Moment, in dem Sie glauben, Sie hätten die Tür zur Größe erreicht, wird sie Ihnen vor der Nase zugeschlagen.“
+11. WETTBEWERBSEXZELLENZ. Das Mantra: „Ich werde meine Minuten maximieren, indem ich mit Exzellenz denke, handle, trainiere und konkurriere, unabhängig von den Umständen.“
+12. CLUTCH. „die Fähigkeit, unter enormem Druck das zu tun, was man normalerweise auch tun kann.“
+
+[Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

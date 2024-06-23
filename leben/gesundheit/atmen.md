@@ -165,6 +165,32 @@ Atmen Sie Negativität aus. Atmen Sie Entspannung ein. Atmen Sie Stress aus.
 
 [Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
 
+## Unterdrücken der Entzündungsmarker im Blut
+
+Morbus Crohn, Krebs, Depression, Arthritis, Asthma und bipolare Störungen werden alle durch eine Deregulierung unseres Immun-, Hormon- und Hormonsystems durch unkontrollierte Entzündungen verursacht. 
+
+Durch den Einsatz dieser einfachen Atemtechniken können wir nun die Entzündungsmarker im Blut unterdrücken. 
+
+Ich fordere jeden Arzt, der skeptisch bleibt und glaubt, dass es nicht real ist, auf, es selbst auszuprobieren. 
+
+Wir haben überzeugende Beweise, und sie wurden in den besten wissenschaftlichen Zeitschriften der Welt veröffentlicht. 
+
+Wie Sie in den folgenden Kapiteln sehen werden, haben wir die Bücher verändert.
+
+Wir können das autonome Nervensystem anzapfen und Entzündungen unterdrücken. 
+
+Wir können unsere Stimmung, Emotionen, Körpertemperatur und mehr regulieren. 
+
+Die Atemübungen, die mit dieser Methode durchgeführt werden, helfen dabei, die biochemischen Rückstände (die unerwünschten Nebenprodukte einer chemischen Reaktion) im Lymphsystem, dem tiefsten aller Körpersysteme, zu beseitigen. 
+
+Alle stressigen Aktivitäten, die wir in unserer Arbeit und unserem Gefühlsleben ausführen, hinterlassen einen biochemischen Rückstand, der Entzündungen in unseren Zellen verursacht und verschlimmert.
+
+Auch wenn sie einen tiefgreifenden Einfluss auf Ihren körperlichen und emotionalen Zustand haben können, sind die Atemübungen selbst eigentlich sehr einfach. 
+
+Sie bestehen nur aus dreißig Atemzügen, die Sie auf einem Sofa oder Bett liegend machen und zwischendurch anhalten.
+
+[The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
+
 ## Bücher
 
 - [Breath](https://www.goodreads.com/book/show/48890486-breath)

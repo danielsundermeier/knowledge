@@ -110,6 +110,36 @@ Wenn diese Elemente zusammenarbeiten, entsteht eine Aufwärtsspirale und immer b
 
 [Eat Move Sleep](https://www.goodreads.com/book/show/17465697-eat-move-sleep)
 
+## Eine kalte Dusche am Tag erspart Ihnen den Arztbesuch
+
+Wie bekämpfen wir diesen Killer [kardiovaskuläre Krankheiten, die in unserer Gesellschaft die Todesursache Nummer eins sind]? Ganz einfach. 
+
+Eine kalte Dusche am Tag erspart den Arztbesuch. 
+
+Das medizinische System ist zunehmend mehr auf pharmazeutische Lösungen als auf Heilung ausgerichtet, und nur wenige würden diese Methode empfehlen, aber sie ist da. 
+
+Sie ist einfach, sie funktioniert und sie kostet nichts. 
+
+Unser Gefäßsystem muss stimuliert werden, um den gewünschten Muskeltonus zu erreichen. 
+
+Es muss nicht trainiert, sondern nur geweckt werden. 
+
+Wenn es dann, sagen wir in zehn Tagen, geweckt und optimiert ist, beginnt eine ganze Reihe von Magie im Körper zu geschehen.
+
+Wenn Sie eine kalte Dusche nehmen, werden all diese kleinen Muskeln in Ihrem Gefäßsystem – Millionen von ihnen – aktiviert und trainiert. 
+
+Innerhalb von zehn Tagen dieser Duschen werden Sie feststellen, dass Ihre Herzfrequenz deutlich gesunken ist, um bis zu 15 bis 30 Schläge pro Minute, und dass dies 24 Stunden am Tag so bleibt. 
+
+Das bedeutet viel weniger Stress. 
+
+Es ist wichtig zu verstehen, dass Ihre Herzfrequenz steigt, wenn Ihr Körper Stress ausgesetzt ist. 
+
+Dadurch wird ein Ursignal an den Körper gesendet, Adrenalin und Cortisol zu aktivieren, was wiederum eine Reihe biochemischer Prozesse in Gang setzt, die Ihre Nebennierenachse und Ihre Energie erschöpfen, weil Ihr Gefäßzustand schlecht ist. 
+
+Ihr Herz muss mehr pumpen und härter arbeiten.
+
+[The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

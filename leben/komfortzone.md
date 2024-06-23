@@ -152,6 +152,32 @@ Ständiger Komfort ist für uns Menschen etwas radikal Neues.
 
 [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 
+## Romantisierung Ihrer Unbehaglichkeitszone
+
+Unser Körper ist gerne in Homöostase. Wir sind gerne ausgeglichen. 
+
+Das Leben ist hart genug – wir wollen uns wohlfühlen! Aber um besser zu werden und unser Spiel auf und neben dem Platz zu verbessern, müssen wir unsere Komfortzone verlassen. 
+
+Das heißt nicht, dass Sie so weit aus Ihrer Komfortzone herausgehen sollten, dass Sie nicht mehr gut funktionieren können. 
+
+Unser Körper funktioniert am besten, wenn wir ihn in kleinen Schritten fordern. 
+
+Wenn wir uns zu sehr fordern, kann Eustress zu Stress werden. 
+
+Wir müssen wirklich aufpassen, denn sie können dieselben Symptome hervorrufen. 
+
+Eustress wird durch Mäßigung erreicht, indem man den Mittelweg einhält und nicht ins Extreme verfällt.
+
+Das Verlassen Ihrer Komfortzone durch das Erleben von Eustress ist ein kontinuierlicher, schrittweiser Prozess der Romantisierung Ihrer Unbehaglichkeitszone. 
+
+Es ist nicht so, dass Sie ein bestimmtes Niveau erreichen und dann dort bleiben. 
+
+Die Dinge gehen immer entweder vorwärts oder rückwärts; sie bleiben nicht statisch. 
+
+Wenn Sie sich dort, wo Sie sind, wohlfühlen und einfach nur bequem bleiben möchten, ist das in Ordnung, aber das ist nicht der Weg, um Exzellenz und Weisheit zu erreichen.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
 ## Bücher
 
 - [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)

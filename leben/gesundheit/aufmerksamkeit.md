@@ -340,6 +340,88 @@ Meine Forschungen zum digitalen Minimalismus haben die Existenz einer lose organ
 
 [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism)
 
+## Der iPhone-Effekt Teil 3
+
+Nehmen wir an, Sie könnten der Versuchung widerstehen, Ihr Telefon zu überprüfen, wenn es in Ihrer Nähe ist. 
+
+Dies allein würde schon viel Mühe kosten. 
+
+Anstatt Ihre gesamte kognitive Energie dem zu widmen, was Sie wirklich erreichen wollen, geht ein Großteil davon darauf drauf, darüber nachzudenken, Ihr Telefon zu überprüfen, sich vorzustellen, was Sie darauf erwarten könnte, und sich davon abzuhalten, tatsächlich zu überprüfen. 
+
+Für eine im Journal of Social Psychology veröffentlichte Studie baten Forscher eine Gruppe von College-Studenten, eine Reihe schwieriger motorischer Aufgaben zu erledigen, während ihre Mobiltelefone sichtbar waren. 
+
+Tatsächlich war ihre Leistung deutlich schlechter als die einer Kontrollgruppe, deren Mobiltelefone nicht sichtbar waren. 
+
+Noch interessanter wurde es, als allen Teilnehmern die Mobiltelefone weggenommen wurden, das Mobiltelefon des Studienleiters aber vorhanden blieb. 
+
+Unglaublich, aber selbst wenn das sichtbare Telefon nicht ihr eigenes war, litt die Leistung der Studienteilnehmer darunter.
+
+Smartphones lenken uns ab, egal ob sie ein- oder ausgeschaltet sind, in unseren Taschen oder auf einem Tisch liegen, und sie ziehen unsere Aufmerksamkeit auf sich, auch wenn sie nicht unsere eigenen sind.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
+## Der Raum zwischen Reiz und Reaktion
+
+Denken Sie an das Auge eines Hurrikans oder an das ruhige, stille Zentrum inmitten eines Zyklons. 
+
+Egal, wie heftig der Sturm ist oder was von seinen stürmischen Winden mitgerissen wird, dieses ruhige, blaue Zentrum ist immer da. 
+
+Diese Metapher verwende ich gerne, wenn ich über den Raum zwischen Reiz und Reaktion spreche. 
+
+Wir alle haben dieses ruhige Zentrum in uns. 
+
+Achtsamkeit verbindet uns wieder mit diesem zentralen Raum, in dem wir den gegenwärtigen Moment vollständig erleben und Zugang zu der transzendenten Weisheit haben, die oft mit bewusstem Fluss in Verbindung gebracht wird. 
+
+In seinem Buch „… trotzdem Ja zum Leben sagen“ beschrieb es der Neurologe und Holocaust-Überlebende Viktor Frankl so: „Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht, unsere Reaktion zu wählen. In unserer Reaktion liegt unser Wachstum und unsere Freiheit.“
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
+## Aufmerksames Zuhören
+
+Manche Menschen sagen, sie wüssten nicht, was ihre Absicht oder ihr Ziel sei, aber oft haben sie einfach nicht genug Zeit damit verbracht, sich selbst aufmerksam und in Ruhe zuzuhören. 
+
+Intensives Zuhören ist hier sehr hilfreich. 
+
+Intensives Zuhören ist die Praxis, innezuhalten und zuzuhören, ohne zu urteilen oder Ratschläge zu geben. 
+
+Bevor Sie jemand anderem aufmerksam zuhören können, müssen Sie damit beginnen, sich selbst aufmerksam zuzuhören. 
+
+Setzen Sie sich hin, machen Sie Ihren Kopf frei und fragen Sie sich in Ruhe: Was will ich wirklich? Wozu dient mein Leben? 
+
+Wenn Sie tief genug graben, wird sich Ihre Absicht von selbst herauskristallisieren. 
+
+Fast jeder Spitzensportler oder erfolgreiche Mensch, mit dem ich gearbeitet habe, hatte eine Absicht und ein klares Zielbewusstsein. 
+
+Sie kannten ihre Bestimmung, ihren Daseinszweck.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
+## Der Weg des achtsamen Sportlers
+
+Je mehr Sie Achtsamkeit üben und je häufiger Sie auf bewussten Fluss zugreifen, desto mehr spüren Sie diesen Geist der Liebe. 
+
+Denn in mancher Hinsicht sind beide mit demselben großen „Etwas“ verbunden. 
+
+Je mehr Sie diesen größeren Geist der Liebe spüren, desto weniger Raum bleibt für Ablenkung. 
+
+Es gibt keinen Raum für Sorgen, ob Sie gut genug oder besser als der oder die sind, für alle Sorgen darüber, was andere Leute in Zukunft denken oder sagen werden, oder wie Sie sich verhalten haben oder was in der Vergangenheit passiert ist. 
+
+Es gibt keinen Raum für negative Selbstgespräche und ablenkendes Geschwätz oder dafür, die Wölfe Ihrer Hindernisse zu füttern.
+
+Stattdessen werden Sie von Bewusstsein überflutet und sind voll und ganz auf das Hier und Jetzt konzentriert. 
+
+Das ist die Erfahrung, die jeder Athlet macht, wenn er oder sie voll und ganz in der Zone ist. 
+
+Manchmal nennen wir das „Feuer und Flamme sein“. 
+
+Alle Ablenkungen werden weggebrannt. 
+
+Das ist pure Leistung in ihrer besten Form. 
+
+Das ist letztendlich der Weg des achtsamen Athleten.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

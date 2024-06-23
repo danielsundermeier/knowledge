@@ -47,3 +47,9 @@ Unser Instinkt ist es, Unannehmlichkeiten auf Schritt und Tritt zu vermeiden.
 Und wir leben in einer Kultur, die uns hilft, uns von allen Erscheinungsformen des Unbehagens abzulenken.
 
 [The Great Work of Your Life](https://www.goodreads.com/book/show/13573312-the-great-work-of-your-life)
+
+## Falsche Annahmen
+
+Eine der vielen falschen Annahmen des Egos, einer seiner vielen verblendeten Gedanken ist: „Ich sollte nicht leiden müssen.“ … Dieser Gedanke selbst liegt dem Leiden zugrunde. Leiden hat einen edlen Zweck: die Entwicklung des Bewusstseins und das Verbrennen des Egos.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)

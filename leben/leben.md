@@ -379,6 +379,18 @@ Was würden Sie von ihnen hören wollen?
 
 [The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
 
+## Die sieben hermetischen Gesetze
+
+- Das Gesetz des Mentalismus – Das Universum ist eine geistige Schöpfung Gottes.
+- Das Gesetz der Entsprechung – Wie oben, so unten; wie unten, so oben.
+- Das Gesetz der Schwingung – Alle Dinge sind in ständiger und nie endender Bewegung. Eine Veränderung der Schwingung bewirkt eine Veränderung der Erscheinungsform.
+- Das Gesetz der Polarität – Alle Dinge sind dual. Alles hat sein Gegensatzpaar und diese Gegensätze sind von Natur aus identisch und unterscheiden sich nur im Ausmaß.
+- Das Gesetz der Rhythmen – Alle Dinge haben ihre Gezeiten, eine Ebbe und eine Flut.
+- Das Gesetz von Ursache und Wirkung – Jede Ursache hat ihre Wirkung und jede Wirkung ihre Ursache.
+- Das Gesetz des Geschlechts – Alle Dinge haben einen männlichen und einen weiblichen Aspekt.
+
+[The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

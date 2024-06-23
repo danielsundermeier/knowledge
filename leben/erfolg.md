@@ -933,6 +933,30 @@ Aber Sie müssen anfangen. Machen Sie sich an die Arbeit.
 
 [Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
 
+## Das Geheimnis nachhaltigen Erfolgs
+
+Überlegen Sie einmal kurz, was nötig ist, um Muskeln wie den Bizeps zu stärken. 
+
+Wenn Sie versuchen, zu schwere Gewichte zu heben, werden Sie wahrscheinlich nicht mehr als eine Wiederholung schaffen. 
+
+Und selbst wenn Sie es schaffen, besteht die Gefahr, dass Sie sich dabei verletzen. 
+
+Heben Sie dagegen zu leichte Gewichte, werden Sie kaum oder gar keine Ergebnisse sehen; Ihr Bizeps wird einfach nicht wachsen. 
+
+Sie müssen das Goldlöckchen-Gewicht finden: ein Gewicht, das Sie kaum schaffen und das Sie am Ende Ihres Trainings erschöpft und müde – aber nicht verletzt – zurücklässt. 
+
+Doch das Finden dieses Idealgewichts ist nur die halbe Miete. 
+
+Wenn Sie jeden Tag mehrmals Gewichte heben, ohne zwischendurch viel Pause zu machen, werden Sie mit ziemlicher Sicherheit ausbrennen. 
+
+Aber wenn Sie es kaum jemals ins Fitnessstudio schaffen und es nicht schaffen, regelmäßig an Ihre Grenzen zu gehen, werden Sie auch nicht viel stärker werden. 
+
+Der Schlüssel zur Stärkung Ihres Bizeps – und, wie wir erfahren werden, jedes Muskels, sei er physisch, kognitiv oder emotional – liegt in der Balance zwischen der richtigen Menge an Belastung und der richtigen Menge an Ruhe. 
+
+Belastung + Ruhe = Wachstum. Diese Gleichung gilt unabhängig davon, was Sie wachsen lassen möchten.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

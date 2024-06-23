@@ -468,4 +468,5 @@ for anyone who is interested in time management and productivity
 - [They Call Him The Most Productive Man Alive](https://www.youtube.com/watch?v=vja6gTmwGf0)
 - [Dr. K, How Do I Focus?](https://www.youtube.com/watch?v=BZPRX9X5V5I)
 - [What Hunter-Gatherers Can Teach Us About The Frustrations Of Modern Work](https://www.youtube.com/watch?v=2_FlZIr3kXs)
+- [The Leopold: The Evolution of the Eudaimonia Machine](https://www.youtube.com/watch?v=Oq178eQDFsg)
 

@@ -1234,6 +1234,18 @@ Unabhängig davon, ob es sich bei dem Ziel um einen Gesundheitscheck, eine Diät
 
 [Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
 
+## Gute Nachrichten und schlechte Nachrichten
+
+Ein erheblicher Teil der Erdbevölkerung wird bald erkennen – sofern er es nicht bereits getan hat –, dass die Menschheit nun vor einer schwierigen Entscheidung steht: Entwicklung oder Tod.
+
+Wie Tolle unverblümt feststellt, haben wir uns als kollektive Gesellschaft in der gesamten Menschheitsgeschichte wie ein geisteskranker Krimineller verhalten – mit „chronischen paranoiden Wahnvorstellungen, einer krankhaften Neigung zu Mord und Taten extremer Gewalt und Grausamkeit …“
+
+Laut Tolle ist die Ursache für diesen Zustand einfach: „Angst, Gier und Machtstreben.“
+
+Den eigenen Wahnsinn zu erkennen, ist natürlich die Geburtsstunde der geistigen Gesundheit und der Beginn von Heilung und Transzendenz.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

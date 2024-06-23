@@ -238,6 +238,70 @@ Aber für diejenigen, die ihm bis zum Ende folgen, ist das Dhammapada ein sicher
 
 [The Dhammapada](https://www.goodreads.com/book/show/159964.The_Dhammapada)
 
+## Auf der Suche nach unserer Seele
+
+Es ist wichtig, die Tragweite dieser Entdeckung zu erkennen. 
+
+Sie erinnert an die Fabel von den Weisen, die zusammenkommen und fragen: „Was machen wir mit der Seele, da die Menschen so ein Durcheinander damit angerichtet haben?“ „Legt sie auf den höchsten Berg!“, sagt einer. 
+
+Aber die Menschen krabbeln wie Ameisen die Berge hinauf, finden die Seele und machen eine Trophäe daraus. 
+
+Also verordnen die Weisen: „Legt sie auf den Grund der tiefsten Meere!“ 
+
+Aber die Menschen bauen Unterwasserschiffe und tauchen hinab. Sie werden das Ding finden, es an die Oberfläche bringen und es in ein Museum stellen. 
+
+Also sagen die Weisen: „Legt sie hinter den entferntesten Planeten!“ Aber die Menschen werden Raumschiffe bauen und sich auf die Suche danach machen. Sie bringen sie zurück und führen Krieg darum. 
+
+Die Weisen sind verwirrt, weil keiner von ihnen weiß, wohin sie die Seele legen sollen. 
+
+Und dann steht einer auf und sagt: „Ich habe sie! Legt sie in die Menschen selbst, denn dort werden sie immer suchen.“
+
+Genau dort ist sie. Die Seele wohnt in uns. Sie ist in unserer Reichweite, wenn wir wissen, wo wir sie suchen müssen. 
+
+Und jetzt haben wir eine Abkürzung in den tiefsten Teil des Gehirns gefunden, den Sitz des Geistes, der Seele. 
+
+Das ist erstaunlich, und man fühlt sich unglaublich, weil wir erstaunliche Wesen sind, aber wir müssen dem gerecht werden. 
+
+Wir müssen diese Kraft für das Gute einsetzen.
+
+[The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
+
+## Die fünf Superkräfte
+
+Die fünf Superkräfte sind Achtsamkeit, Konzentration, Einsicht, richtige Anstrengung und Vertrauen. 
+
+Diese spirituellen Superkräfte sind miteinander verbunden und arbeiten zusammen. 
+
+Im Buddhismus werden die ersten drei Kräfte – Achtsamkeit, Konzentration und Einsicht – manchmal als dreifaches Training bezeichnet. 
+
+Unser Unterbewusstsein enthält die Samen all dieser Energien. 
+
+Sie können diese drei Energien den ganzen Tag über kultivieren, egal, welcher Aktivität Sie nachgehen. Achtsamkeit, Konzentration und Einsicht bedingen sich gegenseitig. 
+
+Wenn Sie sehr achtsam sind, dann haben Sie Konzentration und Einsicht in Ihrer Achtsamkeit. 
+
+Die Erzeugung dieser Energien ist das Herzstück der Meditationspraxis. 
+
+Sie helfen Ihnen, jeden Moment des Lebens intensiv zu leben. 
+
+Sie bringen Ihnen Freude und Glück und helfen Ihnen, mit Ihrem eigenen Leiden und dem Leiden der Menschen um Sie herum umzugehen.
+
+Die vierte Kraft, richtige Anstrengung oder Sorgfalt, ist die Energie, die uns in unserer Praxis standhaft macht. 
+
+Die kognitive Funktion verbessert sich, wenn wir einen positiven Geisteszustand haben. 
+
+Sorgfalt in unsere Achtsamkeitspraxis einzubringen ist eine großartige Möglichkeit, positive Geisteszustände zu kultivieren. 
+
+Aber wenn wir Sitz- oder Gehmeditation auf eine Weise praktizieren, die unseren Körper oder Geist leiden lässt, ist das keine richtige Anstrengung, weil unsere Anstrengung nicht auf unserem Verständnis basiert.
+
+Die letzte der Fünf Kräfte ist Vertrauen. 
+
+Es kann auch als Glaube oder Zuversicht gesehen werden, aber ich betrachte es gerne als Mut. 
+
+Den Mut zu haben, in das Unbekannte einzutauchen und darauf zu vertrauen, was man dort findet, macht die Praxis der Achtsamkeit und anderer Kräfte möglich.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
 ## Orte
 
 - [Benediktushof](https://www.benediktushof-holzkirchen.de) - Zentrum für Meditation und Achtsamkeit

@@ -216,6 +216,18 @@ Leider vernachlässigen wir mit zunehmendem Stress die Grundbedürfnisse des Kö
 
 [Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
 
+## Das optimale Verhältnis von Arbeit zu Ruhe
+
+Während das genaue Verhältnis von Arbeit und Ruhe von den Anforderungen des Jobs und den individuellen Vorlieben abhängt, ist das Gesamtkonzept klar: Der Wechsel zwischen 50- bis 90-minütigen Blöcken intensiver Arbeit und Erholungspausen von 7 bis 20 Minuten ermöglicht es den Menschen, die körperliche, kognitive und emotionale Energie aufrechtzuerhalten, die für Spitzenleistungen erforderlich ist. 
+
+Dieses Auf und Ab steht im Widerspruch zu dem allzu häufigen Dauerstress, entweder ständig in einer „Zwischenzone“ mäßig harter Arbeit zu arbeiten oder ununterbrochen mit höchster Intensität zu arbeiten. 
+
+Keiner dieser traditionelleren Ansätze ist ideal. Ersteres führt zu Leistungseinbußen. 
+
+Letzteres führt zu körperlicher, kognitiver und emotionaler Erschöpfung und schließlich zum Burnout.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

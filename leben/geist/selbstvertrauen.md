@@ -389,6 +389,30 @@ und wir sind keine Minderjährigen und Invaliden in einer geschützten Ecke, kei
 
 [The Selected Writings of Ralph Waldo Emerson](https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson)
 
+## Selbstwirksamkeit fördern
+
+Ich habe mit allen Sportlern, mit denen ich gearbeitet habe, von den Lakers und den Bulls über Mädchenfußballteams bis hin zu Wochenendkämpfern, die Erfahrung gemacht, dass es zwar immer Unglück gibt, extreme Umstände einen aber stärker machen können. 
+
+Das nennt man ein starkes Gefühl der Selbstwirksamkeit: die Fähigkeit, sich selbst zu sagen, dass man, egal was passiert, alles als Herausforderung und nicht als Fluch betrachten wird. 
+
+Man wird der Situation gewachsen sein und sagen: „Okay, es ist hart, aber das wird großartig!“
+
+Selbstwirksamkeit ist die Fähigkeit, sich selbst als fähig zu sehen. 
+
+Sie ist eine grundlegende mentale Stärke. 
+
+Selbstwirksamkeit wird kultiviert, wenn wir uns selbst gut genug kennen, um alle inneren Hindernisse zu überwinden, die uns im Weg stehen, sei es ein negatives Selbstbild, ein tief verwurzeltes Gefühl der Niederlage oder andere Probleme.
+
+Selbstwirksamkeit oder Stressresistenz ist die treibende Kraft hinter dem, was ich die drei Cs nenne: 
+
+- Engagement für Ihr Wachstum und Ihre Entwicklung; 
+- Kontrolle darüber, wie Sie auf Stressfaktoren reagieren; 
+- und jede Krise oder jeden Druck als Herausforderung zu betrachten. 
+
+Diese drei Cs sind mentale und emotionale Säulen der Weisheit, die uns helfen, unsere Leistung zu steigern, jeden auf uns zurollenden Ball effektiv abzufangen und im Flow zu bleiben.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

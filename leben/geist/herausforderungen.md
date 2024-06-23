@@ -847,6 +847,36 @@ Wenn wir das wissen, werden die Herausforderungen, Nöte und Kämpfe, die auf de
 
 [Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
 
+## Gerade noch zu bewältigende Herausforderungen
+
+Als der Psychologe Mihaly Csikszentmihalyi untersuchte, wie die besten Leistungsträger in die Zone gelangen und sich kontinuierlich verbessern, bemerkte er, dass sie alle regelmäßig an ihre Grenzen gingen und vielleicht sogar noch ein bisschen darüber hinaus. 
+
+In dem Versuch, die mystische „Zone“ in etwas weniger Nebulöses zu verwandeln, entwickelte Csikszentmihalyi ein elegantes konzeptionelles Werkzeug.
+
+Csikszentmihalyis Werkzeug kann Ihnen nicht nur dabei helfen, Ihren Weg in die Zone zu finden, sondern es kann auch eine großartige Möglichkeit sein, die optimale Menge an Stress einzustellen, die für Wachstum erforderlich ist. 
+
+Die beste Art von Stress, die wir gerne als „gerade noch zu bewältigende Herausforderungen“ bezeichnen, liegt in der oberen rechten Ecke des Abschnitts „Flow“.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
+## Aus Gift wird heroische Medizin
+
+Meine erste Frau beging 1995 Selbstmord. 
+
+Wir hatten vier gemeinsame Kinder, und sie sprang aus acht Stockwerken Höhe. Ich war machtlos. 
+
+Sie litt schon seit einiger Zeit, und alle Spritzen, Tabletten und Therapeuten der Welt konnten ihr nicht helfen. Sie machten alles nur noch schlimmer. 
+
+Sie sprang, nachdem sie den Kindern zum Abschied einen Kuss gegeben hatte, und der emotionale Eindruck, der dadurch entstand, ist tief verwurzelt in meinem Antrieb, zunächst eine Möglichkeit zu entwickeln, mit vier Kindern in der Welt zu überleben und dann mit der Zeit zu heilen. 
+
+Es ist wie eine Narbe, die etwas verblasst, aber immer noch da ist. 
+
+Angetrieben von emotionalem Verlust, einem gebrochenen Herzen, vier Kindern und keinem Geld war ich hochmotiviert, etwas zu ändern und eine alternative Lösung für Menschen mit psychischen Erkrankungen anzubieten. 
+
+Jetzt, ein Vierteljahrhundert später, bekommen wir einige Antworten.
+
+[The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

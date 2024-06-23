@@ -7,6 +7,8 @@ Wir haben zwei Denkmodi:
 
 > "The brain changes its activity based on what the body is doing." - Alex Korb
 
+> "Stress führt zu schnelleren Gehirnwellen als Entspannung." - Josè Silva
+
 ## Bewusstsein
 
 Unser Bewusstsein beinhaltet unsere Gedanken und unsere Vorstellung. 

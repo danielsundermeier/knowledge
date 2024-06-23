@@ -323,6 +323,22 @@ Was wirklich zählt, ist, wie Sie persönlich es aufnehmen!
 
 [The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
 
+## Evolutionäre Unterstützung
+
+Das Leben wird Ihnen die Erfahrung bieten, die für die Entwicklung Ihres Bewusstseins am hilfreichsten ist. 
+
+Woher wissen Sie, dass dies die Erfahrung ist, die Sie brauchen? Weil dies die Erfahrung ist, die Sie in diesem Moment machen.
+
+Wenn Sie nichts tun können, sehen Sie sich der Situation an und sagen Sie: „Nun, im Moment ist es eben so. Ich kann es entweder akzeptieren oder mich unglücklich machen.“ 
+
+Die Hauptursache für Unglück ist nie die Situation, sondern Ihre Gedanken über die Situation. 
+
+Seien Sie sich Ihrer Gedanken bewusst. 
+
+Trennen Sie sie von der Situation, die immer neutral ist, die immer so ist, wie sie ist.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

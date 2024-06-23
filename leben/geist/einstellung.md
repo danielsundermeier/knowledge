@@ -256,6 +256,72 @@ Wenn Sie über Dinge sprechen (oder schlimmer noch, sich darüber beschweren), d
 
 [Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
 
+## Ihre Einstellung ist wichtig
+
+Manche Menschen lernen, Stressfaktoren als Herausforderungen und nicht als Bedrohungen zu betrachten. 
+
+Diese Einstellung, die Forscher als „Herausforderungsreaktion“ bezeichnen, ist dadurch gekennzeichnet, dass Stress als etwas Produktives und, wie wir bereits geschrieben haben, als Wachstumsanreiz betrachtet wird. 
+
+Inmitten von Stress konzentrieren sich Menschen, die eine Herausforderungsreaktion zeigen, proaktiv auf das, was sie kontrollieren können. 
+
+Mit dieser Einstellung nehmen negative Emotionen wie Angst und Besorgnis ab. 
+
+Diese Reaktion ermöglicht es den Menschen, Stress besser zu bewältigen und sogar unter Stress zu gedeihen. 
+
+Aber das ist noch nicht alles. So wie unsere Einstellung zu Milchshakes unser tiefes biologisches Profil verändert, so verändert auch unsere Einstellung zu Stress.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
+## Die dritte Säule: Denkweise
+
+Die Wim-Hof-Methode hat drei Säulen. 
+
+Die ersten beiden sind die Kälte und der Atem. Die dritte Säule der Methode ist die Einstellung. 
+
+Wir nennen diese Säule in unseren Trainingsprogrammen „Engagement“, weil man die richtige Einstellung haben muss, um sich zu verpflichten, gegen sein Ego zu handeln und die verdammte Dusche zu nehmen, einfach zu atmen. 
+
+Man könnte diese Säule auch die Kraft des Geistes nennen. 
+
+Sie umfasst die Idee des Willens und die Kraft, sich etwas vorzustellen, zu meditieren, zu visualisieren – die Kraft, die Aufmerksamkeit auf jeden Teil des Körpers zu richten, jeden körperlichen Prozess zu beobachten. 
+
+Wir haben diese Kraft. Wir verlassen uns auf die alten Yogis und Schamanen, um die Geheimnisse der Geisteskraft zu erfahren, aber es ist einfacher als all das. 
+
+Es ist alles hier für uns, wissenschaftlich bewiesen. 
+
+Wissenschaftliche Studien und persönliche Erfahrungen geben uns das Vertrauen, das wir brauchen, um die Methode anzuwenden. 
+
+Sie gaben mir das Vertrauen, meine Mission fortzusetzen.
+
+Wir haben durch wissenschaftliche Beweise und Vergleichsstudien gezeigt, dass Kälteexposition in Kombination mit bewusster Atmung, Meditation und einer positiven geistigen Einstellung weitreichende Vorteile für die menschliche Gesundheit hat. 
+
+Engagierte Anwender dieser Methode konnten Diabetes umkehren, die lähmenden Auswirkungen der Parkinson-Krankheit lindern, Gewicht verlieren und bemerkenswerte sportliche Leistungen erzielen. 
+
+Aber um von dieser Methode profitieren zu können, müssen Sie sich voll und ganz darauf einlassen. 
+
+Schalten Sie Ablenkungen aus. Schalten Sie Ihren Fernseher aus und lassen Sie Ihr Telefon in einem anderen Raum, wenn Sie jeden Morgen mit den Atemübungen beginnen. 
+
+Nehmen Sie sich genug Zeit, damit die Zeit in Ihren Gedanken überhaupt keine Rolle spielt. 
+
+Diese zwanzig bis fünfundzwanzig Minuten am Tag erfordern Ihre volle Aufmerksamkeit. 
+
+Der Geist ist ein neurologischer Muskel, der die molekularen Systeme Ihres Körpers beeinflussen und dessen Aufnahme von Sauerstoff unterstützen kann, wodurch die gewünschte Energie erzeugt wird. 
+
+Und wenn Sie möchten, dass dieser Muskel optimal funktioniert, müssen Sie sich bedingungslos der Erfahrung hingeben. 
+
+Sie müssen sich wirklich darauf einlassen. Sie müssen die dritte Säule haben: Selbstvertrauen, Einstellung.
+
+[The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
+
+## Ihr Bewusstseinszustand
+
+Wie „spirituell“ Sie sind, hat nichts mit Ihren Überzeugungen zu tun, sondern einzig und allein mit Ihrem Bewusstseinszustand. Dieser wiederum bestimmt, wie Sie sich in der Welt verhalten und mit anderen interagieren.
+
+Wir müssen hier verstehen, dass der Himmel kein Ort ist, sondern sich auf den inneren Bereich des Bewusstseins bezieht.
+
+Ein neuer Himmel ist die Entstehung eines transformierten Zustands des menschlichen Bewusstseins und eine neue Erde ist seine Widerspiegelung im physischen Bereich.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

@@ -26,6 +26,8 @@ Niemand ist immer glücklich!
 
 > "Psychologist Tim Kasser shows in his research that time affluence is a consistent predictor of well-being, whereas material affluence is not. Time affluence is the feeling that one has sufficient time to pursue activities that are personally meaningful, to reflect, to engage in leisure." - Tal Ben-Shahar
 
+> "Es gibt drei Worte, die das Geheimnis der Lebenskunst, das Geheimnis allen Erfolgs und Glücks ausdrücken: Eins mit dem Leben." - Eckart Tolle
+
 ## Aufblühen
 
 Aufblühen bedeutet in der Positiven Psychologie ein erfülltes Leben zu führen. Wir erreichen es, indem wir unsere Stärken zum Wohle anderer einsetzen.
@@ -1076,6 +1078,36 @@ Es gibt verschiedene Möglichkeiten, die Eigenschaften glücklicher Menschen zu 
 4. SELBSTWIRKSAMKEIT. Glückliche Menschen sind selbstwirksam, was einfach bedeutet, dass sie sich nicht nur Ziele setzen, sondern fest an sich glauben, dass sie entweder das Zeug dazu haben, etwas zu erledigen, oder lernen können, wie man es erledigt. Selbstwirksamkeit impliziert auch den Glauben, dass Ihr Leben in Ihren Händen liegt und dass Sie die Fähigkeit haben, Ihr eigenes Verhalten zu kontrollieren, um Ihr Schicksal zu gestalten.
 
 [Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
+
+## Die paradoxe Wendung
+
+Es gibt nichts Schöneres oder Erfüllenderes, als sich ein Ziel an der Grenze dessen zu setzen, was wir für möglich halten, und es dann systematisch zu verfolgen. 
+
+Paradoxerweise sind wir oft dann am besten, wenn wir uns voll und ganz dem Prozess der Verbesserung widmen. 
+
+Alle großen Leistungsträger, von denen Sie in diesem Buch gehört haben, sind sich einig, dass sie nicht zufrieden sein können. 
+
+Auch wenn sie in ihren jeweiligen Bereichen an der Spitze stehen, sind sie unermüdlich bestrebt, sich zu verbessern. 
+
+Wir hoffen, dass wir Sie dazu inspirieren, eine ähnliche Einstellung für Ihre eigenen Bestrebungen zu übernehmen.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
+## Fünf Regeln des Glücks
+
+Stress entsteht nicht durch Probleme. Es ist Ihre Einstellung zum Problem, die Stress verursacht. 
+
+Wenn Sie die Ursache von Stress kennen, fällt es Ihnen leichter, damit umzugehen, denn dann können Sie die richtigen Fragen stellen. 
+
+Die Frage ist nicht, wie ich Stress loswerde, sondern wie ich meine Einstellung zur Arbeit, zu Ereignissen, Enttäuschungen, Ängsten und Menschen ändern kann.
+
+- Wenn Ihnen etwas gefällt, dann genießen Sie es.
+- Wenn Ihnen etwas nicht gefällt, dann vermeiden Sie es.
+- Wenn Ihnen etwas nicht gefällt und Sie es nicht vermeiden können, dann ändern Sie es.
+- Wenn Sie etwas, das Ihnen nicht gefällt, nicht vermeiden oder ändern können oder wollen, dann akzeptieren Sie es.
+- Sie akzeptieren etwas, indem Sie Ihre Wahrnehmung davon ändern.
+
+[The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
 
 ## Bücher
 

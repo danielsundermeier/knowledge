@@ -686,6 +686,18 @@ Da dies mein erster 100-Meilen-Lauf war, bestand mein Plan darin, konservativ zu
 
 [The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
 
+## 1.300 3-Punkte-Würfe
+
+Jeder achtsame Hochleistungssportler weiß, dass, wenn man etwas erreichen will, die Chance groß ist, dass man es auch erreichen kann, egal was passiert, wenn – und das ist ein großes Wenn – man bereit ist, den Preis dafür zu zahlen. 
+
+Man muss sich nicht nur auf sein Ziel konzentrieren, sondern auch bereit sein, früh morgens aufzustehen und dasselbe tausende Male – und dann noch einmal tausend Mal – mit Absicht zu tun. 
+
+Was mich zum bewussten Üben führt.
+
+Als ich mit Kobe Bryant arbeitete, erzielte er in der Nebensaison, als er an seinem Dreipunktewurf arbeitete, etwa 1300 Dreipunktewürfe pro Tag.
+
+[The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

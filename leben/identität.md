@@ -410,6 +410,26 @@ Sie lächelte und malte weiter.
 
 [The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
 
+## Das Ego
+
+Das Ego ist nichts weiter als die Identifikation mit der Form, womit in erster Linie Gedankenformen gemeint sind. 
+
+Wenn das Böse überhaupt eine Realität hat – und es hat eine relative, keine absolute Realität –, dann ist dies auch seine Definition: vollständige Identifikation mit der Form – physischen Formen, Gedankenformen, emotionalen Formen. 
+
+Dies führt zu einer völligen Unkenntnis meiner Verbundenheit mit dem Ganzen, meiner inneren Einheit mit der Quelle. 
+
+Diese Vergesslichkeit ist Erbsünde, Leiden, Wahn. 
+
+Wenn diese Wahnvorstellung der völligen Getrenntheit meinen Gedanken, Worten und Taten zugrunde liegt und sie bestimmt, was für eine Welt erschaffe ich dann? 
+
+Um die Antwort darauf zu finden, beobachten Sie, wie Menschen miteinander umgehen, lesen Sie ein Geschichtsbuch oder schauen Sie sich heute Abend die Nachrichten im Fernsehen an.
+
+Der Grund, warum solch großes Leid entsteht, verbirgt sich in dem Wort „mein“.
+
+Wenn Sie sich vollständig mit einer Rolle identifizieren, verwechseln Sie ein Verhaltensmuster mit Ihrer Person und nehmen sich selbst sehr ernst.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

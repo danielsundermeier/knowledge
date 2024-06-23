@@ -1051,6 +1051,12 @@ Einer der besten Spieler der Welt hatte mich gerade dafür bezahlt, das zu tun, 
 
 [The Hoops Whisperer](https://www.goodreads.com/book/show/18668030-the-hoops-whisperer)
 
+## Die Macht der Zielstrebigkeit
+
+Stretcher hat im Laufe der Geschichte festgestellt, dass Menschen zu mehr fähig werden, als sie je für möglich gehalten hätten, wenn sie sich auf ein über sie hinausgehendes oder höheres Ziel konzentrierten.
+
+[Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

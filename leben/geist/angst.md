@@ -407,6 +407,12 @@ Von allen Tugenden, die wir erlernen können, ist keine Eigenschaft nützlicher,
 
 [Flow](https://www.goodreads.com/book/show/66354.Flow)
 
+## Angst zu Aufregung
+
+Angst ist eingebildet, genau wie Glaube eingebildet ist – und da beide eingebildet sind, unterliegen sie Ihrer mentalen Kontrolle.
+
+[The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

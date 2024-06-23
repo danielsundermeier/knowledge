@@ -164,6 +164,16 @@ Dieses Verständnis bildet die Grundlage des Härtetrainings.
 
 [Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
 
+## Schmerzkörper
+
+Aufgrund der menschlichen Tendenz, alte Emotionen aufrechtzuerhalten, trägt fast jeder in seinem Energiefeld eine Ansammlung alten emotionalen Schmerzes, den ich „den Schmerzkörper“ nenne.
+
+Jede negative Emotion, der man sich nicht vollständig stellt und sie im Moment ihres Aufkommens nicht als das erkennt, was sie ist, löst sich nicht vollständig auf. Sie hinterlässt einen Rest.
+
+Die besonderen egoistischen Muster, auf die Sie bei anderen am stärksten reagieren und die Sie fälschlicherweise als deren Identität wahrnehmen, sind in der Regel dieselben Muster, die auch in Ihnen vorhanden sind, die Sie jedoch in sich selbst nicht erkennen können oder wollen.
+
+[A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

@@ -319,6 +319,36 @@ Ich fordere Sie auf, dieses Konzept für sich anzuwenden: „Geben Sie mir Stres
 
 [Toughness Training for Life](https://www.goodreads.com/book/show/1051559.Toughness_Training_for_Life)
 
+## Essen Sie Stress wie einen Energieriegel
+
+An Techniken zur Stressbewältigung zu arbeiten, ist ein bisschen so, als würde man versuchen, das Indy 500 zu gewinnen, indem man den Motor des Rennwagens mit einem Drehzahlregler ausstattet oder einen leistungsstarken V-12 gegen einen V-4 austauscht, weil dieser eine „ruhigere Fahrt“ bietet. 
+
+Das würden Sie nicht tun. 
+
+Nicht, wenn Sie auf die Zielflagge aus wären. 
+
+Nicht, wenn Sie Rennstar Jeff Gordon wären. 
+
+Kein Superstar wird seinen Gegnern einen Vorteil verschaffen. 
+
+Und Sie sollten das auch nicht tun, indem Sie versuchen, sich zu entspannen, wenn der Druck steigt.
+
+Bill Russell ist einer der ganz Großen im Basketball, ein echter Amerikaner … der einzige Sportler, der im selben Jahr – 1956 – eine NCAA-Meisterschaft, eine olympische Goldmedaille und eine Profi-Meisterschaft gewann … Aber Bill Russell hatte ein Problem: Er musste sich vor jedem Spiel übergeben.
+
+[Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
+
+## Druck und Angst
+
+Die körperlichen Symptome von Kampf oder Flucht sind das, was der menschliche Körper im Laufe von Jahrtausenden gelernt hat, um effizienter und auf höchstem Niveau zu funktionieren. 
+
+Angst ist eine kognitive Interpretation dieser körperlichen Reaktion.
+
+Alles, was Ihr Körper unter Druck mit Ihnen macht, ist gut für die Leistung.
+
+Druck ist etwas anderes als Angst; Nervosität ist etwas anderes als Sorge.
+
+[Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

@@ -18,3 +18,5 @@
 - [Die falschen Versprechen des Reisens](https://www.deutschlandfunk.de/die-falschen-versprechen-des-reisens-100.html)
 - [Join the crew](https://join-the-crew.com/de/)
 - [Remotepunks](https://www.remotepunks.com/)
+- [Workation Anbieter & Digitale Nomaden Retreats Weltweit](https://juliacolonia.de/workation-anbieter-digitale-nomaden-retreats/)
+- [moverii](https://moverii.de/)

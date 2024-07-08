@@ -128,6 +128,74 @@ Damit können Sie dem Bösen trotzen und es besiegen.
 
 [Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
 
+## Übe, mutig zu sein
+
+Verstehen Sie mich nicht falsch: Angst kann eine gute Sache sein, und Sie können sie nicht aus Ihrem Leben verbannen. 
+
+Tatsächlich ist es eine Lüge oder eine Geisteskrankheit, Angst aus Ihrem Leben zu verbannen. 
+
+Das ist alles, mehr nicht. Jeder, der sagt, er habe keine Angst, ist ein Lügner. Typen, die sagen, sie hätten keine Angst, reden Scheiße oder sind einfach verrückt. Große Verleugnungsprobleme.
+
+Ich erinnere mich an eine Geschichte über Soldaten, die in die Schlacht zogen und keine Angst zeigten, und der Typ sagte, es sei ganz einfach (ich paraphrasiere hier): „Es gibt zwei Arten von Männern: diejenigen, die rausgehen und kämpfen wollen – die Verrückten – und diejenigen, die Angst haben, zu gehen, aber trotzdem gehen. Das sind die Mutigen.“ 
+
+In diesem Moment wurde mir klar, dass es Angst braucht, um einen Menschen mutig zu machen. Und das gefällt mir, denn Mut sagt etwas über Sie aus.
+
+Das Ergebnis ist, dass Sie nach einer Weile Übung darin bekommen, mutig zu sein. 
+
+Sie verstehen, wie Sie gegen die Angst vorgehen und wie Sie in bestimmten Situationen reagieren. 
+
+Sie werden einfach besser. 
+
+Das heißt nicht, dass Sie keine Angst mehr haben – das wäre leichtsinnig –, aber es bedeutet, dass Sie sich das Recht verdient haben, im Kampf gegen die Angst Selbstvertrauen zu haben.
+
+[The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
+
+## Ausdauer der Seele
+
+Theologen haben in der Hiobgeschichte viele erhabene Lehren gefunden. 
+
+Eine davon ist, dass wir nicht versuchen sollten, die Maßstäbe des Unendlichen mit denen des Endlichen zu vergleichen – sie sind inkommensurabel. 
+
+Die Lehre, die ich aus Hiob ziehe, ist einfacher. 
+
+Das Leben ist nicht gerecht. 
+
+Es gibt keine moralische Ökonomie oder Ausgewogenheit in der Natur der Dinge, sodass Tugend belohnt und Sünde bestraft wird. 
+
+Der gute Mensch hält durch. 
+
+Es ist bezeichnend, dass Platon einer Definition von Mut am nächsten kommt, und zwar in den Dialogen des Laches, in denen Sokrates mit einem General spricht, unter dem er diente und dessen Motto lautet: „Mut ist die Ausdauer der Seele.“ 
+
+Die Griechen bewunderten den kühnen Schlag, den kühnen Vorstoß, aber die größte Anerkennung gebührte dem Mann, der unter Druck durchhält. 
+
+Sie wussten aus bitterer Erfahrung, was Stresssituationen sind. 
+
+Sie wussten, was es bedeutet, unter Druck zusammenzubrechen und was es bedeutet, durchzuhalten. 
+
+Auf dem Schlachtfeld, sagt Aristoteles, ist der größte Druck die Angst vor dem Tod und die Versuchung, wegzulaufen. 
+
+Aber der mutige Mann hält durch.
+
+[Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
+
+## Mut ist, was man verdient
+
+Mut ist nicht etwas, das man bereits hat und das einem Mut macht, wenn die harten Zeiten beginnen. 
+
+Mut ist etwas, das man sich verdient, wenn man harte Zeiten durchlebt hat und feststellt, dass sie gar nicht so hart sind. 
+
+Sehen Sie den katastrophalen Fehler, den die Deutschen gemacht haben? 
+
+Sie bombardierten London, weil sie dachten, das Trauma des Blitzkriegs würde den Mut des britischen Volkes zerstören. 
+
+Tatsächlich geschah das Gegenteil. 
+
+Es entstand eine Stadt von Außenseitern, die mutiger waren als je zuvor. 
+
+Die Deutschen wären besser dran gewesen, wenn sie London überhaupt nicht bombardiert hätten.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
 ## Bücher
 
 - [The Courage Quotient](https://www.goodreads.com/book/show/13720625-the-courage-quotient)

@@ -60,6 +60,26 @@ Als er nach seinem Rezept für Glück gefragt wurde, gab er eine sehr kurze, abe
 
 [Flow](https://www.goodreads.com/book/show/66354.Flow)
 
+## Du und dein Schwert
+
+Japanische Schwerter gelten als einige der besten der Welt. 
+
+Diese Schwerter werden auch heute noch in einem äußerst komplizierten Verfahren von Hand gefertigt und zerbrechen im Kampf nicht. 
+
+Der Schwertmacher legt hartes Metall auf weiches Metall und faltet es wieder und wieder und wieder, tausende Male. 
+
+Hartes Metall bricht und weiches Metall verbiegt sich; doch wenn man sie immer wieder zusammenfaltet, nimmt man die besten Eigenschaften jedes Metalls und verwandelt sie in die exquisiteste Schneidemaschine der Welt. 
+
+Diese Schwerter verlieren nicht so leicht ihre Schärfe und sind genau im richtigen Winkel gebogen.
+
+So wie wir ein Schwert auf eine bestimmte, organisierte Weise herstellen, tun wir das Gleiche mit unserem Geist und Körper. 
+
+Wir müssen in unserer Haltung sanft und behutsam sein, aber in unseren Taten stark und verantwortlich.
+
+Die Fähigkeit, die impulsiven, emotionalen und logischen Teile unseres Lebens als Ganzes zu erleben und zu integrieren, führt zu Flow – jenem fließenden Zustand, in dem wir unsere optimale Leistung erbringen.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
 ## Bücher
 
 - [Flow](https://www.goodreads.com/book/show/66354.Flow)

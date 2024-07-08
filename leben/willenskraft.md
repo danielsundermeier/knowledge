@@ -387,6 +387,30 @@ Wenn wir Versuchungen nicht widerstehen können, wenn sie auftauchen, unsere Tri
 
 [Creating Your Best Life](https://www.goodreads.com/book/show/3112345-creating-your-best-life)
 
+## „Ich werde nicht“-Macht
+
+Wenn Sie nicht genug Willenskraft haben, versuchen Sie, die Werde-nicht“-Kraft zu entwickeln. 
+
+Wenn Sie am Esstisch sitzen und Herr Gier versucht, Ihre Selbstkontrolle zu chloroformieren und Sie dazu zu verleiten, mehr zu essen, als Sie sollten, dann passen Sie auf sich auf. 
+
+Nachdem Sie die richtige Qualität und Menge an Essen zu sich genommen haben, sagen Sie sich: „Ich werde nicht mehr essen“, und stehen Sie vom Tisch auf und rennen Sie los. 
+
+Wenn jemand ruft: „John, komm zurück. Vergiss den leckeren Apfelkuchen nicht“, rufen Sie einfach zurück: „Ich werde nicht.“
+
+Die einzige Möglichkeit, Versuchungen zu vermeiden, besteht darin, zu wissen, dass es höhere Dinge als Versuchungen gibt. 
+
+Wenn die Versuchung kommt, stoppen Sie zuerst die Handlung oder die Kraft. 
+
+Wenn die Versuchung weg ist, dann kommt die Vernunft, denn die Versuchung wird alle Vernunft überwinden. 
+
+Sagen Sie einfach „Nein“, stehen Sie auf und gehen Sie. 
+
+Das ist der sicherste Weg, Versuchungen zu zerstören. 
+
+Je mehr Sie diese „Werde-nicht“-Kraft entwickeln, wenn die Versuchung aufkommt, desto glücklicher werden Sie sein, denn Glück hängt von der Fähigkeit ab, die Dinge zu tun, die Sie tun sollten.
+
+[How to Awaken Your True Potential](https://www.goodreads.com/book/show/27036392-how-to-awaken-your-true-potential)
+
 ## Bücher
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)

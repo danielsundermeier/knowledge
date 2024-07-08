@@ -228,6 +228,36 @@ Letzteres führt zu körperlicher, kognitiver und emotionaler Erschöpfung und s
 
 [Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
 
+## Übungen & Nickerchen
+
+Das Üben ist so hart, dass die Leute ihr Leben auf besondere Weise organisieren müssen, um viel üben zu können. 
+
+Die beiden Spitzengruppen von Geigern übten hauptsächlich am späten Vormittag oder frühen Nachmittag, wenn sie noch ziemlich frisch waren. 
+
+Im Gegensatz dazu übten die Geiger der dritten Gruppe hauptsächlich am späten Nachmittag, wenn sie eher müde waren. 
+
+Die beiden Spitzengruppen unterschieden sich noch in einem weiteren Punkt von der dritten Gruppe: Sie schliefen mehr. 
+
+Sie schliefen nicht nur nachts mehr, sondern machten auch viel mehr Mittagsschläfchen. 
+
+So viel Üben scheint viel Erholung zu erfordern.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Machen Sie ein Nickerchen!
+
+Das ist einer meiner Lieblingstipps. Nickerchen sind in Talentschmieden weit verbreitet und werden sowohl anekdotisch als auch wissenschaftlich begründet.
+
+Die Anekdote: Albert Einstein war gut in Physik und er war wirklich gut in seinem täglichen zwanzigminütigen Nickerchen nach dem Mittagessen. 
+
+Andere berühmte Nickerchenmacher sind Leonardo da Vinci, Napoleon Bonaparte, Winston Churchill, Thomas Edison, Ronald Reagan, John F. Kennedy und John D. Rockefeller. 
+
+Verbringen Sie Zeit mit einer professionellen Sportmannschaft und Sie werden feststellen, dass auch sie professionelle Nickerchen machen.
+
+Die Wissenschaft: Nickerchen sind gut für das lernende Gehirn, weil es hilft, die während des Trainings gebildeten Verbindungen zu stärken und das Gehirn auf die nächste Sitzung vorzubereiten.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

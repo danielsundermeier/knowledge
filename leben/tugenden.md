@@ -226,6 +226,34 @@ Der kampferprobteste und unanfechtbarste Prozess ist nichts, wenn er nicht von d
 
 [Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
 
+## Du bist der Beschützer deines Bruders
+
+Pater O’Malley bat mich, über ethische Vorstellungen zu sprechen, die im Inneren eines Menschen wachsen und nicht einfach eine Reihe von Lektionen sind, die man von außen lernt. 
+
+Sie können sicher sein, dass ich nicht nur eine Reihe von Wegweisern für das Gefängnis oder einen allgemeineren militärischen Kontext konstruiere. 
+
+Meine Schlussfolgerungen sind unendlich allgemein. 
+
+Aus dieser achtjährigen Erfahrung habe ich eine universelle Idee und einige Folgerungen destilliert. 
+
+Es ist eine einfache Idee, eine Idee, die so alt ist wie die Heiligen Schriften, eine Idee, die der Inbegriff von Ehrgeiz ist, eine Idee, die Männern unter Druck ganz natürlich und spontan kommt. 
+
+Wenn der Druck stark genug ist oder lange genug anhält, verbreitet sich diese Idee, ohne dass sie ausgesprochen werden muss. 
+
+Sie schlägt ganz natürlich Wurzeln. 
+
+Es ist eine Idee, die in dieser großen, bequemen Welt des Geschwätzes die Regeln der Spieltheorie, wenn nicht der Vernunft zu verletzen scheint. 
+
+Sie verletzt die Idee von Adam Smiths unsichtbarer Hand, unsere Vorstellungen von der menschlichen Natur und wahrscheinlich auch den zweiten Hauptsatz der Thermodynamik. 
+
+Diese Idee ist, dass man auf seinen Bruder aufpasst.
+
+Das ist die Kehrseite von „Was springt für mich dabei heraus?“ 
+
+Wenn Sie das Erste als Ausdruck der Tugend und das Zweite als Ausdruck des Lasters erkennen, was sicherlich jeder Schüler von Pater O’Malley tun würde, dann lassen Sie Bacons Unterscheidung meiner Konzentration auf das Unglück an diesem freudigen Abschlusstag Relevanz verleihen: „Unglück fördert am besten Tugend während Luxus am besten Laster fördert.“
+
+[Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

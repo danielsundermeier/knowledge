@@ -339,6 +339,46 @@ Trennen Sie sie von der Situation, die immer neutral ist, die immer so ist, wie 
 
 [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
 
+## Liegt es in Ihrer Hand?
+
+Ich möchte für einen Moment von der Chronologie-Rolltreppe heruntersteigen und erklären, welche Erinnerungen an das Enchiridion ich tatsächlich „zur Hand“ hatte, als ich mich aus dem Flugzeug katapultierte. 
+
+Was ich zur Hand hatte, war das Verständnis, dass ein Stoiker in seinem Gedächtnis immer getrennte Ordner führt für (A) die Dinge, die von ihm abhängen, und (B) die Dinge, die nicht von ihm abhängen, oder anders ausgedrückt, (A) die Dinge, die in seiner Macht stehen, und (B) die Dinge, die außerhalb seiner Macht liegen, oder noch anders ausgedrückt, (A) die Dinge, die in der Reichweite seines Willens, seines freien Willens liegen, und (B) die Dinge, die außerhalb dieses liegen. 
+
+Zu den relativ wenigen Dingen, die von mir abhängen, in meiner Macht stehen, die mein Wille bestimmt, gehören meine Meinungen, meine Ziele, meine Abneigungen, mein eigener Kummer, meine eigene Freude, meine Einstellung zu dem, was vor sich geht, mein eigenes Gutes und mein eigenes Böses.
+
+Machen Sie sich nichts vor, tun Sie einfach Ihr Bestes, um Ihren Lebensstandard so zu gestalten, wie Sie ihn haben möchten, aber hängen Sie sich nicht daran fest. 
+
+Achten Sie tief in Ihrem Herzen, in Ihrem Innersten, darauf, dass Sie Ihrem Lebensstandard gleichgültig gegenüberstehen. 
+
+Nicht mit Verachtung, sondern nur mit Gleichgültigkeit.
+
+Und so weiter bis zu einer langen Liste von Dingen, von denen manche unreflektierte Menschen meinen, sie hätten sie bis zur letzten Instanz unter Kontrolle: Ihren Ruf zum Beispiel. 
+
+Tun Sie, was Sie wollen, er ist mindestens so wankelmütig wie Ihr Lebensstandard. 
+
+Andere entscheiden, wie Ihr Ruf ist. 
+
+Versuchen Sie, ihn so gut wie möglich zu machen, aber hängen Sie sich auch hier nicht daran fest. 
+
+Wenn Sie in Ihrem Herzen den Schlüssel herausholen und den alten Rollschreibtisch öffnen, in dem Sie wirklich Ihre Sachen aufbewahren, lassen Sie nicht zu, dass „Ruf“ mit dem vermischt wird, was zu Ihrem moralischen Zweck gehört, was in Ihrer Willenskraft liegt, mit anderen Worten, was in Ihrer Hand liegt. 
+
+Stellen Sie sicher, dass es in der untersten Schublade liegt und unter „Gleichgültige Angelegenheiten“ abgelegt wird. 
+
+Und das gilt auch für Ihre Gesundheit, Ihren Reichtum, Ihr Vergnügen, Ihren Schmerz, Ihren Ruhm, Ihren Streit, Ihr Leben, Ihren Tod. 
+
+Dies alles sind Äußerlichkeiten, die letzten Endes alle außerhalb Ihrer Kontrolle liegen, die alle außerhalb der Macht Ihres wirklichen Lebens liegen. 
+
+Und wo Sie wirklich leben, ist auf das Regime Ihres moralischen Zwecks beschränkt, beschränkt auf Angelegenheiten, die durch Ihre Willensakte projiziert werden können: wie Wünsche, Ziele, Abneigungen, Urteile, Einstellungen und natürlich Ihr Gutes und Ihr Böses. 
+
+Für einen Menschen ist der moralische Zweck, der Wille, der einzige Aufbewahrungsort von Dingen von absolutem Wert. 
+
+Ob sie weise oder töricht, zum Guten oder zum Bösen projiziert werden, liegt bei Ihnen. 
+
+Ihre Erlösung und Ihre Zerstörung liegen zu 100 Prozent bei Ihnen.
+
+[Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

@@ -310,4 +310,44 @@ Der Löwe, der die Reihen des Feindes durchbricht, ist ein kleiner Held im Vergl
 
 [Rumi Daylight](https://www.goodreads.com/book/show/223160.Rumi_Daylight)
 
+## Disziplin bedeutet Freiheit
+
+Anfangs führte Lauras Bedürfnis nach Belohnung auch zu einigen negativen Verhaltensweisen und sie flog von drei weiterführenden Schulen. 
+
+Sie war jedoch in der Lage, diese Tendenzen zu erkennen und einige kritische Grenzen zu setzen, indem sie ihre eigenen Praktiken entwickelte, um mit ihrem starken Antrieb umzugehen. 
+
+Schon in jungen Jahren erkannte sie, dass ihr eigener „Behälter“ eng sein musste und sie sich vor den negativen Manifestationen ihrer genetischen Gabe hüten musste. 
+
+Diese Disziplin war der Schlüssel.
+
+Laura lernte die paradoxe Wahrheit, dass Disziplin Freiheit bedeutet. 
+
+Sie wusste, dass ihre starken Energien richtig kanalisiert und ständig angesprochen werden mussten. 
+
+Sie hatte Gelegenheit, diese Techniken durch ihre Reisen und multikulturellen Erfahrungen zu erlernen – sie verbrachte Zeit im Shaolin-Tempel in China, praktizierte Kung Fu und Meditation, unternahm neun Reisen nach Indien, studierte Yoga und landete nach Snowboardverletzungen mehrere Male im Krankenhaus.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
+## Tun, was getan werden muss
+
+Um den ehemaligen Leiter des Navy SEAL Team Six, Richard Marcinko, zu zitieren: „Man muss es nicht mögen, man muss es nur tun.“ 
+
+Der entscheidende Faktor für den Erfolg ist, das zu tun, was getan werden muss, auch wenn es das Letzte ist, was man tun möchte.
+
+Wenn Sie nur dann Höchstleistungen erbringen, wenn Sie sich am wohlsten fühlen, sind Sie das genaue Gegenteil eines Profis und dazu verdammt, im Leben und in allen anderen Dingen ein Amateur zu bleiben.
+
+Ich glaube nicht, dass etwas falsch daran ist, fernzusehen oder einen guten Film zu schauen. 
+
+Obwohl 99 % des Fernsehens Müll sind, sind die wenigen hochwertigen Sendungen besser als all die kitschigen Sendungen, die es vor vielen Jahren gab. 
+
+Spartacus, Lights Out und Breaking Bad sind allesamt gut gemachte Sendungen mit guten Schauspielern und spannenden Plots. 
+
+Sendungen wie diese sind nicht nur spannend, sondern können tatsächlich zum eigenständigen Denken anregen. 
+
+Die Sucht nach Unterhaltung und diese als Ersatz für ein echtes Leben zu verwenden, ist für manche ein rutschiger Abhang und für die meisten eine Lawine. 
+
+Die Leute sind besser als das und sollten mehr von sich erwarten.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
 

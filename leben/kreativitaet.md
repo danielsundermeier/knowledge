@@ -106,5 +106,17 @@ Auf Kreativität zu hören bedeutet, diese Reise zu unternehmen, diese Veränder
 
 [An Audience of One](https://www.goodreads.com/book/show/37704942-an-audience-of-one)
 
+## Tolle Innovationen und blühende Rosen
+
+Die größten Innovatoren in den verschiedensten Bereichen – Wirtschaft, Wissenschaft, Malerei, Musik – haben alle mindestens ein Merkmal gemeinsam: Sie haben viele Jahre intensiver Vorbereitung verbracht, bevor ihnen ein kreativer Durchbruch gelang. 
+
+Kreative Errungenschaften kamen nie plötzlich, auch nicht in den Fällen, in denen der Schöpfer später behauptete, sie seien plötzlich gekommen. 
+
+Ob es sich nun um den Transistor, das Sgt. Pepper-Album der Beatles, das Mobiltelefon oder Picassos Les Demoiselles d’Avignon handelte, immer folgte jeder Errungenschaft eine lange, vorhergehende Phase extrem harter Arbeit, und in den meisten Fällen wurden die kreativen Produkte selbst über einen beträchtlichen Zeitraum entwickelt. 
+
+Große Innovationen sind Rosen, die nach langer und sorgfältiger Pflege blühen.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
 
 

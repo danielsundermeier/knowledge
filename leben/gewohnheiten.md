@@ -691,6 +691,80 @@ Gewohnheiten sind der Rohstoff, aus dem die Großen gemacht sind
 
 [177 Mental Toughness Secrets of the World Class](https://www.goodreads.com/book/show/2297678.177_Mental_Toughness_Secrets_of_the_World_Class)
 
+## Definition
+
+Gewohnheit ist ein automatischer geistiger Mechanismus zur Ausführung von Handlungen ohne die Willenskraft und Anstrengung, die zur Einleitung neuer Handlungen erforderlich sind. Gewohnheiten erleichtern die Ausführung von Handlungen. 
+
+Gute Gewohnheiten und Tugenden sind ewige Freude bereitende Eigenschaften.
+
+Falsch eingesetzt wird dieser Mechanismus zum Erzfeind des Menschen. 
+
+Schlechte Gewohnheiten ziehen Böses an. Schlechte Gewohnheiten und Sünde sind vorübergehende, Elend verursachende Transplantate auf der Seele.
+
+Es ist bedauerlich, aufgrund der Stärke einer schlechten Gewohnheit gezwungen zu sein, gegen den eigenen Willen Böses zu tun, und dann für seine schlechten Taten leiden zu müssen. 
+
+Es ist wunderbar, gewohnheitsmäßig das Richtige zu tun und so Güte und Glück zu vermehren.
+
+Die Macht der Gewohnheit ist im Leben des Menschen allgegenwärtig. 
+
+Die meisten Menschen verbringen ihr Leben damit, gute geistige Vorsätze zu fassen, aber es gelingt ihnen nie, dem zu folgen, was gesund ist. 
+
+Wir tun normalerweise nicht, was wir tun möchten, sondern nur, was wir gewohnt sind zu tun.
+
+Fühlen Sie sich nicht hilflos, wenn Sie einige unerwünschte Gewohnheiten haben. 
+
+Jetzt ist es an der Zeit, sie zu überwinden, indem Sie Willenskraft entwickeln und sich regelmäßige, richtige Meditation zur Gewohnheit machen. 
+
+Sie können sich aus den Fängen falscher Gewohnheiten befreien und Denk- und Handlungsgewohnheiten entwickeln, die die gewünschten Ergebnisse bringen.
+
+[How to Awaken Your True Potential](https://www.goodreads.com/book/show/27036392-how-to-awaken-your-true-potential)
+
+## Herr J und seine schlechten Angewohnheiten
+
+Herr J. war ein eingefleischter Trinker. 
+
+Nachdem er einen Heiligen getroffen hatte, schwor er, auf das Trinken zu verzichten. 
+
+Er bat seine Diener, seinen kostbaren Wein in verschlossenen Kisten zu verstecken, den Schlüssel aufzubewahren und den Schnaps nur seinen Freunden zu servieren. 
+
+Eine Zeit lang freute sich Herr J. über die Kraft seines neuen Entschlusses, nicht zu trinken. 
+
+Er war sich der unsichtbaren, fesselnden Verlockung der Alkoholsucht nicht bewusst.
+
+Mit der Zeit fühlte er sich gegen die Versuchung des Alkohols immun und bat seine Diener, ihm den Schlüssel zum Weinzimmer zu überlassen, damit er seine Freunde selbst bedienen konnte. 
+
+Da er sich geistig sicher fühlte, entschied er, dass es zu viel Mühe war, in den Keller zu gehen, um Schnaps für seine Freunde zu holen, und versteckte daher einige Weinflaschen im Salon. 
+
+Nach einigen Tagen dachte Herr J.: „Da ich gegen Alkohol immun bin, kann ich den prickelnden Rotwein in der Flasche auf dem Tisch genießen.“
+
+Jeden Tag sah er sich die Flasche an. 
+
+Dann dachte er: „Da ich keinen Alkohol mehr mag, werde ich den Wein probieren und ihn ausspucken.“ 
+
+Das tat er. 
+
+Dann dachte er: „Da ich so fest entschlossen bin, kann es nicht schaden, wenn ich nur einen Schluck trinke.“ 
+
+Danach dachte er: „Da ich die Alkoholsucht überwunden habe, will ich nur noch einen Schluck Wein trinken, so oft mein unbezwingbarer Wille es verlangt.“ 
+
+Dann betrank er sich und blieb trotz seines Entschlusses jeden Tag hilflos betrunken, genau wie zuvor.
+
+[How to Awaken Your True Potential](https://www.goodreads.com/book/show/27036392-how-to-awaken-your-true-potential)
+
+## Bekämpfen Sie alte Gewohnheiten nicht, sondern beginnen Sie mit neuen
+
+Kurz gesagt, es besteht kein Grund, gegen alte Gewohnheiten anzukämpfen. 
+
+Fangen Sie neue an. 
+
+Es ist der Widerstand gegen eine alte Gewohnheit, der Sie in die Falle lockt. 
+
+Ein neues Muster zu beginnen ist einfach, wenn man es mit kindlicher Missachtung eingebildeter Schwierigkeiten tut. 
+
+Sie können sich das durch Ihre eigene Erfahrung beweisen.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

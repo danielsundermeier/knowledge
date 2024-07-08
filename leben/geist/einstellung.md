@@ -322,6 +322,98 @@ Ein neuer Himmel ist die Entstehung eines transformierten Zustands des menschlic
 
 [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
 
+## Die Meistermentalität
+
+Der getriebene Mensch ist besonders für das Leben der Meisterschaft geeignet; tatsächlich müssen wir uns aufgrund unserer Veranlagung fast auf den Weg machen, sonst sabotieren wir uns irgendwann selbst. 
+
+Als getriebene Menschen sind wir so veranlagt, dass wir das Gefühl haben, nie genug oder nicht gut genug zu sein.
+
+Dieses Gefühl treibt uns dazu, großartige Dinge zu tun, aber es treibt uns auch dazu, uns zu schämen und zu sabotieren. 
+
+Die Meisterschaftsmentalität verändert unseren Antrieb nicht, sondern lenkt ihn. 
+
+Sie verschiebt uns von einem Zustand, in dem wir nie genug oder nicht gut genug sind, zu einer Mentalität, in der wir nach etwas mehr oder etwas Besserem suchen. 
+
+Wir erkennen, dass wir in der Gegenwart okay sind, aber dass wir besser sein können. 
+
+Diese Veränderung verändert unser Leben.
+
+Wir können aufhören, unsere vermeintlichen Fehler zu vertuschen, und stattdessen lernen, ihnen entgegenzulaufen. 
+
+„Wie kann ich besser sein?“ kann nicht existieren, wenn Sie „keinen Fehler gemacht haben“, ohne Ihre Fehler zu finden. 
+
+Wir haben es satt, in der Außenwelt so zu tun, als wären wir etwas, während wir uns in einer inneren „geheimen, beschämenden“ Welt verstecken. 
+
+Das Leid, das wir in unserem Leben erfahren, rührt von der Diskrepanz zwischen den beiden Welten her. 
+
+Wir verändern uns, um die äußere und die innere Welt in Einklang zu bringen.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
+## Was glauben Sie wirklich?
+
+Was wollen Sie wirklich? Und was glauben Sie wirklich?
+
+Die zweite Frage ist tiefgründiger. 
+
+Was glauben Sie wirklich? Glauben Sie wirklich, dass Sie in dieser Angelegenheit eine Wahl haben? 
+
+Glauben Sie, dass Ihre Leistung dramatisch steigen und Sie schließlich das höchste Niveau erreichen, wenn Sie die Arbeit richtig planen und sich stundenlang und jahrelang intensiv konzentrieren? 
+
+Wenn Sie das glauben, besteht zumindest eine Chance, dass Sie die Arbeit erledigen und großartige Leistungen erzielen.
+
+Aber wenn Sie glauben, dass Ihre Leistung für immer dadurch eingeschränkt ist, dass Ihnen eine bestimmte angeborene Begabung fehlt oder dass Ihnen allgemeine Fähigkeiten auf einem Niveau fehlen, das Sie für notwendig halten, dann besteht überhaupt keine Chance, dass Sie die Arbeit erledigen.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Positives Framing
+
+Vor jeder Wiederholung gibt es einen Moment, in dem Sie vor einer Entscheidung stehen: Sie können Ihre Aufmerksamkeit entweder auf das Ziel (das, was Sie tun möchten) oder auf den möglichen Fehler (das, was Sie vermeiden möchten) richten. 
+
+Dieser Tipp ist einfach: Konzentrieren Sie sich immer auf die positive Bewegung, nicht auf die negative.
+
+Ein Golfer, der beispielsweise einen Putt ausrichtet, sollte sich sagen: „Zentrieren Sie den Schlag“, und nicht: „Ziehen Sie diesen Putt nicht nach links.“ 
+
+Ein Geiger, der vor einer schwierigen Passage steht, sollte sich sagen: „Schlagen Sie das As perfekt hin“, und nicht: „Oh Mann, ich hoffe, ich verpasse das As nicht.“ 
+
+Psychologen nennen dies „positives Framing“ und bieten zahlreiche Theorien darüber, wie Framing unser Unterbewusstsein beeinflusst. 
+
+Der Punkt ist, dass es immer besser ist, nach dem zu streben, was Sie erreichen möchten, und nicht von dem wegzugehen, was Sie vermeiden möchten.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
+## Denkweisen der Arbeiterklasse
+
+Aus der Ferne betrachtet scheinen Spitzenkräfte ein behagliches, bequemes Leben zu führen. 
+
+Bei näherem Hinsehen stellt man jedoch fest, dass sie große Teile ihres Lebens damit verbringen, intensiv an ihrem Handwerk zu arbeiten. 
+
+Ihre Einstellung ist nicht von Anspruchsdenken oder Arroganz geprägt, sondern von 100 Prozent Arbeitermentalität: Sie stehen morgens auf und gehen jeden Tag zur Arbeit, ob ihnen danach ist oder nicht.
+
+Wie der Künstler Chuck Close sagt: „Inspiration ist etwas für Amateure.“
+ 
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
+## Denken Sie wie ein Gärtner, arbeiten Sie wie ein Zimmermann
+
+Wir alle wollen unsere Fähigkeiten schnell verbessern – heute, wenn nicht früher. 
+
+Aber die Wahrheit ist, Talent wächst langsam. 
+
+Sie würden einen Setzling nicht kritisieren, weil er noch keine große Eiche ist; noch würden Sie sich aufregen, weil sich Ihre Fähigkeitenschaltkreise im Wachstumsstadium befinden. 
+
+Bauen Sie sie stattdessen durch tägliches intensives Üben auf.
+
+Dazu hilft es, „wie ein Gärtner zu denken und wie ein Zimmermann zu arbeiten“. 
+
+Ich habe dieses Sprichwort bei Spartak gehört. 
+
+Denken Sie geduldig, ohne zu urteilen. 
+
+Arbeiten Sie stetig, strategisch und wissen Sie, dass jedes Teil zu einem größeren Ganzen gehört.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

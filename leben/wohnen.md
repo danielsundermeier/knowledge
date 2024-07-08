@@ -218,3 +218,5 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [How to turn your Neighborhood into a Village](https://www.youtube.com/watch?v=VoYZlyBHyQM)
 - [This Town Did The Impossible](https://www.youtube.com/watch?v=XfonhlM6I7w)
 - [Less Cars, More Money: My Visit to the City of the Future](https://www.mrmoneymustache.com/2023/04/07/car-free-cities/)
+- [Coliving Anbieter und Konzepte Weltweit](https://juliacolonia.de/coliving-anbieter-konzepte-weltweit/)
+- [Hub53](https://www.hub53.com/)

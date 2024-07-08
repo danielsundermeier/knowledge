@@ -1057,6 +1057,32 @@ Stretcher hat im Laufe der Geschichte festgestellt, dass Menschen zu mehr fähig
 
 [Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
 
+## Hingabe
+
+Wollen Sie wissen, was ich an mir am meisten mag? 
+
+Die Wahrheit ist, dass ich vielleicht in einer Sache „großartig“ geworden bin: in Hingabe. 
+
+Ich war nie der Schnellste, der Stärkste, der Größte, der Rasanteste oder der Mächtigste. 
+
+Im Leben entdecken wir alle irgendwann, dass es da draußen jemanden gibt, der in irgendeiner Sache besser ist als wir.
+
+Ich habe einen Weg gefunden, das, was manche als harte Arbeit bezeichnen, in ein Spiel und eine Übung in Effizienz zu verwandeln. 
+
+Ich habe das Müllsammeln in ein Rennen verwandelt, weil es ein gutes Herz-Kreislauf-Training ist, weil es ein gutes Krafttraining ist und weil es den Tag schneller vergehen lässt. 
+
+Effizienz ist für mich eine Obsession, eine Sucht. 
+
+Sie hilft mir nicht nur, stärker zu werden, sondern macht die Dinge auch einfacher. 
+
+Sie hilft mir, meine momentanen negativen Neigungen zu überwinden. 
+
+Sie bringt mich dazu, ins Fitnessstudio zu gehen, wenn mir nicht danach ist. 
+
+Der Nebeneffekt sind gute Gewohnheiten. Und das Essen schmeckt auch besser.
+
+[The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

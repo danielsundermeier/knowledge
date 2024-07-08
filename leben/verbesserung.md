@@ -1246,6 +1246,269 @@ Den eigenen Wahnsinn zu erkennen, ist natürlich die Geburtsstunde der geistigen
 
 [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
 
+## Suchen Sie ständig nach Möglichkeiten, besser zu werden
+
+Um zu wachsen, müssen Sie ständig nach Möglichkeiten suchen, in den Dingen, die Sie tun, besser zu werden. 
+
+Das ist ein fortlaufender Prozess, der bei Spitzensportlern üblich ist. 
+
+Sie suchen ständig nach Möglichkeiten, sich in Bereichen zu verbessern, die ihre Erfolgschancen erhöhen.
+
+John Wooden, der berühmte College-Basketballtrainer der UCLA, der mehr Spiele gewonnen hat als jeder andere Basketballtrainer in der Geschichte, sagte, dass das, was den großartigen Spieler vom guten Spieler unterscheidet, darin besteht, dass der großartige Spieler an seinen Stärken arbeitet. 
+
+Der Spitzensportler konzentriert sich auf seine Stärken und dann auf seine Schwächen. 
+
+Er legt Wert darauf, sich darauf zu konzentrieren, wie er sich verbessern und wachsen kann. 
+
+Spitzensportler konzentrieren sich nicht auf Ausreden, noch konzentrieren sie sich auf Gewinnen oder Verlieren. 
+
+Der Spitzensportler konzentriert sich auf Fortschritt und nutzt seine Chancen.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Nachladen
+
+Spitzenkräfte schützen ihr Selbstbild, indem sie nach der Ausführung einer bestimmten Aufgabe einen geplanten Denkprozess durchführen. 
+
+Der Prozess besteht aus drei Schritten und wird als Neuladen bezeichnet. 
+
+Der Zweck des Neuladens besteht darin, das Gehirn mit dem Denkprozess dessen, was Sie wollen, zu erfrischen, ohne sich in dem zu verfangen, was gerade passiert ist. 
+
+Erfolgreiche Menschen lassen sich nicht von schlechten Leistungen überwältigen; sie konzentrieren sich nur auf das, was sie tun sollten, und nicht auf das, was passiert ist.
+
+Wenn Sie eine Aufgabe gut erledigen, sollten Sie sich an dieser Leistung erfreuen. Das Selbstbild braucht Selbstlob, um zu wachsen.
+
+Es ist wichtig, woran Sie nach einer Aufgabe denken.
+
+Wenn es großartig war, sagen Sie zu sich selbst „GROSSARTIG!“. Wenn es OK war, sagen Sie „OK“. Wenn es nicht so toll war, sagen Sie „Kann noch verbessert werden“.
+
+Wenn unsere Leistung nicht überragend ist, düfen wir diese negative Leistung nicht noch tiefer in unseren Geist treiben, indem wir emotional werden. Dinge wie „Ich bin ein Idiot!“ „Warum versage ich es immer, wenn es am wichtigsten ist?“ sind NICHT hilfreich.
+
+Elite-Performer lassen diese giftigen Gedanken einfach nicht in ihren Geist. 
+
+Das können Sie auch nicht, wenn Sie es unbedingt schaffen wollen. 
+
+Wir müssen die mentale Disziplin aufbringen, um uns zu konzentrieren. 
+
+Troy sagt uns, wir sollen einfach sagen: „Kann noch verbessert werden.“
+
+Nachdem Sie Ihre Korrektur geprobt haben, lassen Sie sie einfach los. Kein Grübeln. 
+
+Sie haben erkannt, dass Sie ein wenig Arbeit brauchten (keine große Sache), haben schnell eine optimale Leistung geprobt und es losgelassen.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Dankbar, aber unzufrieden
+
+Im Endeffekt ist der beste Weg, ein erfülltes Leben zu führen, dankbar, aber auch unzufrieden zu sein. 
+
+Nicht unzufrieden wie ein Undankbarer, der sich den ganzen Tag über Luxusprobleme beschwert, sondern unzufrieden mit seinem aktuellen Entwicklungsstand. 
+
+Die interessantesten Menschen, die ich kenne, sind diejenigen, die sich aufgrund ihrer Unzufriedenheit ständig weiterentwickeln. 
+
+Stellen Sie sich vor, Sie sehen einen Film, in dem sich die Charaktere überhaupt nicht ändern? Das klingt ungefähr so aufregend wie der Bau einer Ameisenfarm. 
+
+Die besten Filme und Serien haben immer starke Charaktere, die sich im Laufe der Geschichte weiterentwickeln. 
+
+Die interessantesten Leben sind genauso. 
+
+Wenn Sie sich nicht darauf konzentrieren, eine Entwicklung herbeizuführen, wiederholen Sie einfach immer wieder dasselbe Jahr. 
+
+Nur weil zehn Jahre vergehen, heißt das nicht, dass irgendetwas Sinnvolles passieren wird.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
+## Areté
+
+Ein weiterer kraftvoller aristotelischer Begriff, den ich von einem guten Freund gehört habe, ist arete. 
+
+Es ist ein griechisches Wort, das meines Wissens in keiner anderen Sprache ein echtes Äquivalent hat, aber im Grunde geht es bei arete darum, in die eigene Seele zu blicken und nicht nur herauszufinden, was einen großartig machen kann, sondern auch die Quelle dieser Größe zu identifizieren und sie jeden einzelnen Tag des Lebens zu aktivieren. 
+
+Es ist der Brunnen, aus dem man schöpft, wenn es keine andere Quelle gibt. 
+
+Es ist die absolute Wahrheit, die im tiefsten Teil der eigenen Seele sitzt.
+
+[The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
+
+## Verrückte Träume und lange Reisen
+
+Als ich meinem Vater das erste Mal sagte, dass ich Weltmeister im Mixed Martial Arts werden wollte, dachte er, ich wäre verrückt. 
+
+Es war zwar mein Traum, aber alles beginnt mit einem Traum, und in meinem Kopf fühlte es sich real an. 
+
+Es war schwer, darüber zu sprechen, und für andere noch schwerer zu verstehen oder zu visualisieren. 
+
+Aber ich hatte schon immer Vorahnungen, Gefühle und Visionen, die sich anfühlten, als gehörten sie mir und nur mir. 
+
+Als ob die Zukunft manchmal in meinem Kopf stattfindet.
+
+Aber das ist nicht gut, wenn die Zukunft düster aussieht. 
+
+Die Niederlage gegen meinen Helden Matt Hughes zum Beispiel. Ich habe es gesehen. 
+
+Vom Staredown, bei dem ich ihn nicht einmal ansehen konnte und meinen Blick auf die Dachsparren richtete. 
+
+Ich hatte die Ereignisse lange vor dem Kampf in meinem Kopf durchlebt. 
+
+Tief in mir glaubte ich, dass ich eines Tages Champion sein würde, aber ich hatte auch das Gefühl, dass dies nicht der richtige Zeitpunkt war.
+
+Die Bedeutung des Gefühls liegt jedoch darin, dass es mich auf einen Weg gebracht hat. 
+
+Zum Glück weiß ich, dass jede Reise mit einem Schritt beginnt und ein weiterer folgt.
+
+Denken Sie an die Besteigung eines Berges. 
+
+Wenn Sie sich entscheiden, den Everest zu besteigen, beginnen Sie nicht mit einem Sprint. 
+
+Wenn Sie das tun, werden Sie es nie aus dem Basislager heraus schaffen. 
+
+Das Geheimnis ist zweifach: Stellen Sie sicher, dass Ihr Ansatz konsistent und stetig ist, damit Sie den Fortschritt, den Sie machen, beibehalten können, während Ihre Reise weitergeht.
+
+[The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
+
+## Die 1%-Absicht
+
+„Guten Morgen, Mr. Big! Es ist Zeit, sich zu stärken. Entweder wir dominieren den Tag oder der Tag dominiert uns. Sind Sie bereit?“, fragte Sunny mit der Aufregung eines Kindes am Weihnachtstag.
+
+Als wir durch die Gänge gingen und der Duft von Speck und Frühstück in die Nase stieg, begann Sunny, mich über Mathe auszufragen. „Mr. Big, ein Tag hat 24 Stunden und jede Stunde 60 Minuten. Wie viele Minuten hat ein Tag?“
+
+Ich holte schnell mein Telefon heraus und fragte: „Hey, Siri. Wie viele Minuten hat ein Tag?“
+
+„Ein Tag hat 1.440 Minuten“, antwortete Siri.
+
+Dann fragte sie: „Was ist 1 % von 1.440?“
+
+Hier war ich ratlos. Ich wusste nicht, wie ich rechnen sollte. Schließlich war ich kein Mathelehrer.
+
+„Keine Ahnung“, antwortete ich.
+
+„1 % eines Tages sind 14 Minuten und 24 Sekunden“, sagte sie nachdrücklich. „Jeder möchte 1 % besser werden, aber sie investieren nicht bewusst 1 % ihres Tages, weil sie nicht einmal wissen, dass dies eine Erfolgsstrategie ist.“
+
+[One Percent Better](https://www.goodreads.com/book/show/62826477-one-percent-better)
+
+## A + S + GOYA = R
+
+„Die heutige Nachricht der Success Hotline drehte sich darum, wie man von temporär zu legendär wird. Dr. Gilbert sprach über A + S + GOYA = R“, erklärte Sunny.
+
+„Dr. Gilbert verwendet ein Akronym, das für Fähigkeit + Strategie + Beweg deinen Hintern = Ergebnisse steht“, rezitierte Sunny laut, während sie es an die Tafel in meinem Klassenzimmer schrieb.
+
+„Mr. Big, Fähigkeit ist nicht etwas, das Ihnen fehlt, um die optimale Version Ihrer selbst zu sein. Sie blockieren sie einfach. Wir können unsere Fähigkeit freisetzen, indem wir Ihnen die richtige Strategie geben. In diesem Fall ist diese Strategie einfach Ihre 1%-Absicht. Sie müssen dann Ihre Anatomie runter und Ihre 1%-Absicht jeden Tag umsetzen. Wenn Sie das tun, werden Sie bessere Ergebnisse sehen.“
+
+[One Percent Better](https://www.goodreads.com/book/show/62826477-one-percent-better)
+
+## Bessere Menschen machen bessere All Blacks
+
+Das heißt, indem man die einzelnen Spieler entwickelt und ihnen die Werkzeuge, Fähigkeiten und den Charakter gibt, die sie brauchen, um auch außerhalb des Rugbyfeldes etwas beizutragen, würden sie theoretisch auch die Werkzeuge, Fähigkeiten und den Charakter entwickeln, um auf dem Feld effektiver etwas beizutragen.
+
+Dieses „Kiwi-Kaizen“ konzentrierte sich auf die persönliche Entwicklung, sowohl als Menschen als auch als Profisportler, damit sie den Charakter, die Gelassenheit und die zwischenmenschlichen Fähigkeiten haben, um sowohl auf dem Feld als auch außerhalb Führungspersönlichkeiten zu sein.
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
+## Der Mozart-Mythos
+
+Wolfgangs erste vier Klavierkonzerte, die er im Alter von elf Jahren komponierte, enthalten eigentlich keine Originalmusik von ihm. 
+
+Er stellte sie aus Werken anderer Komponisten zusammen. 
+
+Seine nächsten drei Werke dieser Art, die heute nicht als Klavierkonzerte gelten, schrieb er im Alter von 16 Jahren; auch diese enthalten keine Originalmusik, sondern sind Bearbeitungen von Werken von Johann Christian Bach, bei dem Wolfgang in London studiert hatte.
+
+Mozarts erstes Werk, das heute als Meisterwerk gilt und dessen Status durch die Anzahl der verfügbaren Aufnahmen bestätigt wird, ist sein Klavierkonzert Nr. 9, das er im Alter von einundzwanzig Jahren komponierte. 
+
+Das ist sicherlich ein frühes Alter, aber wir müssen bedenken, dass Wolfgang bis dahin achtzehn Jahre extrem harter, fachmännischer Ausbildung hinter sich hatte.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Sie wussten es alle, aber ...
+
+Bis zum Alter von 18 Jahren hatten die Geiger der ersten Gruppe im Durchschnitt 7.410 Stunden Übung in ihrem Leben angesammelt, gegenüber 5.301 Stunden bei den Geigern der zweiten Gruppe und 3.420 Stunden bei denen der dritten Gruppe. 
+
+Alle Unterschiede waren wissenschaftlich bedeutsam.
+
+Sie wussten es alle, aber sie taten es nicht alle.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Absichtliche Praxis
+
+Bewusstes Üben ist durch mehrere Elemente gekennzeichnet, die es wert sind, näher untersucht zu werden. 
+
+Es handelt sich um eine Aktivität, die speziell darauf ausgerichtet ist, die Leistung zu verbessern, oft mit Hilfe eines Lehrers; sie kann oft wiederholt werden; Feedback zu den Ergebnissen ist ständig verfügbar; sie ist geistig sehr anspruchsvoll, egal ob die Aktivität rein intellektuell ist, wie Schach oder geschäftliche Aktivitäten, oder stark körperlich, wie Sport; und sie macht nicht viel Spaß.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Erwünschter Schwierigkeitsgrad
+
+Der CRT ist wirklich schwer. 
+
+Aber das Seltsame dabei ist: Kennen Sie den einfachsten Weg, die Testergebnisse zu verbessern? Machen Sie ihn ein bisschen schwieriger. 
+
+Die Psychologen Adam Alter und Daniel Oppenheimer haben das vor ein paar Jahren mit einer Gruppe von Studenten der Princeton University versucht. 
+
+Zuerst führten sie den CRT auf die normale Art durch und die Studenten hatten im Durchschnitt 1,9 von drei Antworten richtig. 
+
+Das ist ziemlich gut, aber weit unter den 2,18, die die MIT-Studenten im Durchschnitt hatten. 
+
+Dann druckten Alter und Oppenheimer die Testfragen in einer Schriftart aus, die wirklich schwer zu lesen war – eine 10 Prozent graue, 10 Punkt kursive Myriad Pro-Schriftart –, sodass sie so aussahen:
+
+1. Ein Schläger und ein Ball kosten insgesamt 1,10 $. Der Schläger kostet 1,00 $ mehr als der Ball. Wie viel kostet der Ball?
+
+Die Durchschnittsnote dieses Mal? 2,45. 
+
+Plötzlich schnitten die Studenten viel besser ab als ihre Kollegen am MIT.
+
+Das ist doch merkwürdig, oder? 
+
+Normalerweise glauben wir, dass wir Probleme besser lösen können, wenn sie klar und einfach dargestellt werden. 
+
+Doch hier ist das Gegenteil der Fall.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
+## Stärke und Zielstrebigkeit
+
+Es waren nicht die Privilegierten und Glücklichen, die die Juden in Frankreich aufnahmen. 
+
+Es waren die Randgruppen und Geschädigten, was uns daran erinnern sollte, dass es tatsächlich Grenzen für das gibt, was Böses und Unglück bewirken können. 
+
+Wenn man den Menschen die Gabe des Lesens nimmt, schafft man die Gabe des Lesens, man schafft die Gabe des Zuhörens. 
+
+Wenn man eine Stadt bombardiert, hinterlässt man Tod und Zerstörung. Aber man schafft eine Gemeinschaft von weit entfernten Vermissten. 
+
+Wenn man ihnen eine Mutter oder einen Vater nimmt, verursacht man Leid und Verzweiflung. Aber in einem von zehn Fällen erhebt sich aus dieser Verzweiflung eine unbezwingbare Kraft. 
+
+Sie sehen den Riesen und den Hirten im Tal von Elah und Ihr Blick wird von dem Mann mit Schwert und Schild und der glitzernden Rüstung angezogen. 
+
+Aber so viel von dem Schönen und Wertvollen in der Welt kommt vom Hirten, der mehr Kraft und Zielstrebigkeit hat, als wir uns je vorstellen können.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
+## Intensives Üben
+
+Intensives Üben basiert auf einem Paradoxon: Sich auf bestimmte Weisen anzustrengen – an den Grenzen Ihrer Fähigkeiten zu agieren, wo Sie Fehler machen – macht Sie klüger. 
+
+Oder, um es etwas anders auszudrücken: Erfahrungen, bei denen Sie gezwungen sind, langsamer zu werden, Fehler zu machen und diese zu korrigieren – wie Sie es tun würden, wenn Sie einen eisbedeckten Hügel hinaufgehen und dabei ausrutschen und stolpern – machen Sie am Ende schnell und anmutig, ohne dass Sie es merken.
+
+F: Warum ist gezieltes, fehlerorientiertes Training so effektiv?
+A: Weil der beste Weg, einen guten Schaltkreis aufzubauen, darin besteht, ihn zu aktivieren, sich um Fehler zu kümmern und ihn dann wieder und wieder zu aktivieren. Kämpfen ist keine Option. Es ist eine biologische Voraussetzung.
+
+F: Warum sind Leidenschaft und Ausdauer Schlüsselzutaten für Talent?
+A: Weil es Energie und Zeit kostet, einen großen Schaltkreis mit Myelin zu umwickeln. Wenn Sie es nicht lieben, werden Sie nie hart genug arbeiten, um großartig zu sein.
+
+F: Wie komme ich am besten zur Carnegie Hall?
+A: Gehen Sie geradeaus die Myelin Street hinunter.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Toyotas Kaizen = tiefgreifende Unternehmenspraxis
+
+Vor dreißig Jahren war Toyota ein mittelgroßer Autohersteller. 
+
+Heute ist das Unternehmen der größte Automobilhersteller der Welt. 
+
+Die meisten Analysten führen Toyotas Erfolg auf die Kaizen-Strategie zurück, was auf Japanisch „kontinuierliche Verbesserung“ bedeutet und genauso gut als tiefgreifende Unternehmenspraxis bezeichnet werden könnte.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

@@ -877,6 +877,56 @@ Jetzt, ein Vierteljahrhundert später, bekommen wir einige Antworten.
 
 [The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
 
+## Hindernisse sind gut!
+
+Wenn Hindernisse auftauchen, sehen Sie sie lediglich als eine Gelegenheit, etwas Negatives in etwas Positives umzuwandeln. 
+
+Jedes Hindernis, jede Situation, in der Sie sich befinden, und jede Karte, die Ihnen im Leben ausgeteilt wird, ist eine Gelegenheit, zu wachsen. 
+
+Die Frage ist, nutzen Sie diese Hindernisse als Gelegenheit, sich selbst herauszufordern und zu sehen, wozu Sie fähig sind? 
+
+Oder nutzen Sie diese Hindernisse als Gründe, warum Sie Ihr Ziel nicht erreichen können?
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Die Helden und die Penner aussortieren
+
+Es entstammt gewissermaßen Epiktets Aussage, dass „Schwierigkeiten den Charakter eines Menschen zeigen. Wenn Sie also in eine schwierige Krise geraten, denken Sie daran, dass Sie der unerfahrene Jugendliche sind, mit dem Gott, der Trainer, ringt.“ 
+
+Aber unser Fazit war: Die Herausforderung der Bildung besteht nicht darin, Menschen auf Erfolg vorzubereiten, sondern auf Misserfolg. 
+
+Ich denke, dass die Helden und die Penner erst in der Not und im Misserfolg wirklich unterschieden werden.
+
+[Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
+
+## Herausforderungen offenbaren unser verborgenes Potenzial
+
+Warum wartet der Surfer auf die große Welle? 
+
+Die Antwort ist einfach und sie klärt die Verwirrung auf, die um die wahre Natur des Wettbewerbs herum herrscht. 
+
+Der Surfer wartet auf die große Welle, weil er die Herausforderung schätzt, die sie darstellt. 
+
+Er schätzt die Hindernisse, die die Welle zwischen ihn und sein Ziel stellt, auf ihr bis zum Strand zu reiten. 
+
+Warum? Weil es genau diese Hindernisse sind, die Größe und die Kraft der Welle, die dem Surfer die größte Anstrengung abverlangen. 
+
+Nur bei großen Wellen muss er sein ganzes Können, seinen ganzen Mut und seine ganze Konzentration aufwenden, um sie zu überwinden; nur dann kann er die wahren Grenzen seiner Fähigkeiten erkennen. 
+
+An diesem Punkt erreicht er oft den Gipfel. 
+
+Mit anderen Worten: Je herausfordernder das Hindernis ist, dem er gegenübersteht, desto größer sind die Chancen des Surfers, sein wahres Potenzial zu entdecken und zu erweitern. 
+
+Dieses Potenzial mag schon immer in ihm gewesen sein, aber bis es sich in Taten manifestiert, bleibt es ein in ihm verborgenes Geheimnis. 
+
+Die Hindernisse sind ein sehr notwendiger Bestandteil dieses Prozesses der Selbstfindung. 
+
+Beachten Sie, dass der Surfer in diesem Beispiel nicht darauf aus ist, sich zu beweisen; Es geht ihm nicht darum, sich selbst oder der Welt zu zeigen, wie großartig er ist, sondern er ist einfach damit beschäftigt, seine verborgenen Fähigkeiten zu erkunden. 
+
+Er erfährt seine eigenen Ressourcen direkt und auf intime Weise und erweitert dadurch seine Selbsterkenntnis.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

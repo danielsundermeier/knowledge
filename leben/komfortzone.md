@@ -178,6 +178,22 @@ Wenn Sie sich dort, wo Sie sind, wohlfühlen und einfach nur bequem bleiben möc
 
 [The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
 
+## Komfort-, Lern- und Panikzonen
+
+Noel Richy, Professor an der Business School der University of Michigan und ehemaliger Leiter des berühmten Management Development Center von General Electric in Crotonville, veranschaulicht dies, indem er drei konzentrische Kreise zeichnet. 
+
+Den inneren Kreis bezeichnet er als „Komfortzone“, den mittleren als „Lernzone“ und den äußeren als „Panikzone“. 
+
+Nur wenn man Aktivitäten in der Lernzone auswählt, kann man Fortschritte machen. 
+
+Das ist der Bereich der Fähigkeiten und Fertigkeiten, die gerade außer Reichweite sind. 
+
+In der Komfortzone können wir nie Fortschritte machen, weil das die Aktivitäten sind, die wir bereits leicht ausführen können, während Aktivitäten in der Panikzone so schwer sind, dass wir nicht einmal wissen, wie wir sie angehen sollen.
+
+Die Lernzone zu identifizieren, was nicht einfach ist, und sich dann zu zwingen, ständig in ihr zu bleiben, während sie sich ändert, was noch schwieriger ist – das sind die ersten und wichtigsten Merkmale des bewussten Übens.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
 ## Bücher
 
 - [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)

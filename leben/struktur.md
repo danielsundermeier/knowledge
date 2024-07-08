@@ -119,6 +119,36 @@ Sie müssen sich auf etwas berufen, das im Voraus festgelegt wurde, ein Schlagwo
 
 [The Art of Possibility](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
+## Ihre große Geschichte braucht Struktur
+
+Die Neigung, etwas Besseres zu wollen oder in die Zukunft zu blicken, gründet letztlich auf der ursprünglichen Unzufriedenheit, die sich als Antrieb manifestiert. 
+
+Wir haben das Potenzial für großartige Geschichten, wie die von Elon Musk oder Steve Jobs, aber wir brauchen eine Struktur, die mit den getriebenen Trieben übereinstimmt und uns dennoch auf Kurs hält. 
+
+Wenn dieser Rahmen fehlt, kann das zu schlechten Geschichten führen.
+
+Klienten, die keine Struktur gefunden haben und ihren Antrieb nicht lenken können, fallen Süchten zum Opfer, von Glücksspiel über Drogen bis hin zu Sex. 
+
+Diese Süchte versprechen Erleichterung von dem endlosen, fast zwanghaften Verlangen, besser zu sein – den erwarteten Punkt am Horizont zu erreichen. 
+
+Die Drogen, der Sex oder der Alkohol bieten eine Atempause von der Selbstwahrnehmung als Versager, Überzeugungen, die dadurch bestätigt werden, dass sie gesellschaftliche und selbst auferlegte Erwartungen nicht erfüllen und den begehrten Preis nicht ergattern. 
+
+Ihre Enttäuschung ist ein niederschmetternder Beweis ihrer Unzulänglichkeiten.
+
+Hoch getriebene Menschen brauchen die richtige Umgebung und das richtige Design für ihren „Hochleistungsantrieb“. 
+
+Stellen Sie sich einen Formel-1-Rennwagen vor. 
+
+Wenn Sie diese aufgeladene Maschine auf eine Straße in der Innenstadt stellen, werden Sie in Schwierigkeiten geraten. 
+
+Nehmen Sie dasselbe Rennauto und stellen Sie es auf den Indianapolis Speedway, und es passt perfekt. 
+
+Das Verständnis Ihres Antriebs ist der Schlüssel zur Überwindung und Vermeidung von Sucht. 
+
+Sie möchten Ihre Gaben in die richtige Umgebung bringen, eine Umgebung, in der ein getriebener Mensch gedeihen kann.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

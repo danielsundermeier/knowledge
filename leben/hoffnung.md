@@ -140,6 +140,40 @@ Dies ist die Zeit, laut zu singen, breit zu lächeln, die Menschen um Sie herum 
 
 [Make Your Bed](https://www.goodreads.com/book/show/31423133-make-your-bed)
 
+## Immerwährender Optimismus
+
+Im Militär suchen wir immer nach Möglichkeiten, unsere Kräfte zu verstärken. 
+
+Bessere Kommunikation und Befehlsgewalt und Kontrolle über Ihre Kräfte zu haben als Ihr Feind über seine, ist ein Kraftmultiplikator. 
+
+Größere logistische Kapazitäten als der Feind zu haben, ist ein Kraftmultiplikator. 
+
+Besser ausgebildete Kommandeure zu haben, ist ein Kraftmultiplikator.
+
+Ständiger Optimismus, der Glaube an sich selbst, der Glaube an Ihr Ziel, der Glaube an Ihren Erfolg und das Zeigen von Leidenschaft und Selbstvertrauen sind Kraftmultiplikatoren. 
+
+Wenn Sie glauben und Ihre Anhänger vorbereitet haben, werden die Anhänger glauben.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
+
+## Es ist möglich
+
+„Es ist machbar.“ Dieses bekannte Zitat steht auf einer Schreibtischplatte, die mir der große Humorist Art Buchwald geschenkt hat. 
+
+Auch hier geht es mehr um Einstellung als um Realität. 
+
+Vielleicht ist es nicht machbar, aber glauben Sie am Anfang immer daran, dass Sie es schaffen können, bis sich Fakten und Analysen dagegen häufen. 
+
+Gehen Sie jede Aufgabe positiv und enthusiastisch an. 
+
+Umgeben Sie sich nicht mit Skeptikern. Schließen Sie gleichzeitig Skeptiker und Kollegen, die Ihnen solide Gegenmeinungen liefern, nicht aus. 
+
+„Es ist machbar“ sollte sich nicht in eine blinde Machbarkeitseinstellung verwandeln, die Sie gegen eine Wand laufen lässt. 
+
+Ich versuche, ein Optimist zu sein, aber ich versuche, nicht dumm zu sein.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
+
 ## Bücher
 
 - [The Psychology of Hope](https://www.goodreads.com/book/show/870952.The_Psychology_of_Hope)

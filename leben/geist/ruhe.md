@@ -92,6 +92,28 @@ Stille und Ruhe sind der Weg, zum inneren Selbst zu beten.
 
 [Infinite Self](https://www.goodreads.com/book/show/67758.Infinite_Self)
 
+## Die Zone der Ruhe
+
+In einer Atmosphäre des Chaos treffen nur wenige Menschen vernünftige oder nachhaltige Entscheidungen. 
+
+Je ernster die Situation, die normalerweise mit einer Frist einhergeht, desto wahrscheinlicher ist es, dass alle aufgeregt werden und wie Wasser auf einer heißen Bratpfanne herumspringen. 
+
+In solchen Momenten versuche ich, eine ruhige Zone zu schaffen, behalte aber ein Gefühl der Dringlichkeit bei. 
+
+Ruhe schützt die Ordnung, stellt sicher, dass wir alle Möglichkeiten in Betracht ziehen, stellt die Ordnung wieder her, wenn sie zusammenbricht, und verhindert, dass die Leute sich gegenseitig anschreien.
+
+Sie befinden sich in einem Sturm. 
+
+Der Kapitän muss das Schiff stabilisieren, alle Anzeigen im Auge behalten, allen Abteilungsleitern zuhören und es durchsteuern. 
+
+Wenn der Leiter den Kopf verliert, geht das Vertrauen in ihn verloren und der Kitt, der das Team zusammenhält, beginnt nachzugeben. 
+
+Bewerten Sie also die Situation, handeln Sie schnell, seien Sie entschlossen, aber bleiben Sie ruhig und lassen Sie sich nie anmerken, dass Sie schwitzen.
+
+Die ruhige Zone ist Teil eines emotionalen Spektrums, das ich aufrechtzuerhalten versuche.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

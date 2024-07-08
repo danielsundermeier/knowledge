@@ -346,6 +346,145 @@ Unabhängig davon, was Ihr Beruf ist, sollten Sie sich immer wieder eine Frage s
 
 [Chasing Excellence](https://www.goodreads.com/book/show/35713474-chasing-excellence)
 
+## Besser hat keine Ziellinie
+
+Besser hat kein Ziel und besser bedeutet nicht perfekt. 
+
+Das ist ein gewaltiger Unterschied zu einer Denkweise, die uns sagt, wir müssten erreichen, was am Horizont liegt, damit es uns gut geht, oder wir müssten im College nur Einsen bekommen, um zu beweisen, dass wir schlau sind (und natürlich rationalisieren wir uns, wenn wir die Einsen haben, dass jeder sie hätte bekommen können, weil die Kurse einfach waren). 
+
+Es besteht kein Grund für Selbsthass, kein Grund für Selbstsabotage. 
+
+Wir wechseln zu einer Denkweise, die weiß, dass es uns gut geht, wir aber immer danach streben können, besser zu werden. 
+
+Wir können immer besser werden.
+
+Es ist aufregend, besser zu sein, eine Aufregung, die uns motiviert, uns mehr anzustrengen. 
+
+Besser hat keine Ziellinie. 
+
+Dies zu verstehen und zu glauben ist entscheidend, um der Selbstsabotage ein Ende zu setzen.
+
+Sie finden vielleicht Wege, besser zu werden, aber da es für besser keine Ziellinie gibt, haben Sie nie versagt. 
+
+Sie kommen nie dort an, was großartig ist, denn es gibt keinen Grund mehr, besorgt zu sein.
+
+Indem wir uns darauf konzentrieren, besser zu werden, können wir kleine, überschaubare Veränderungen vornehmen, die ein Leben lang halten.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
+## Der Weg der Meisterschaft
+
+Beim Meisterpfad geht es nicht darum, große Entscheidungen zu treffen oder große Veränderungen vorzunehmen. 
+
+Es sind die Mikroverpflichtungen und Mikroanpassungen, die wir vornehmen, die diesen ständigen Lernzustand ausmachen. 
+
+Eine kleine Veränderung löst bei unserem Elefanten keinen Widerstand aus; sie ermöglicht es uns, unsere Bandbreite langsam zu erweitern.
+
+Wenn wir diesen Fortschritt wertschätzen und dankbar dafür sind, wenn wir die kleinen Schritte feiern, können wir die verstärkenden Gefühle der Zufriedenheit genießen. 
+
+Wir verlieren nicht den Mut; wir geben nicht auf. 
+
+Wir konzentrieren uns nicht auf einen bestimmten Punkt in der Ferne, weil uns kein bestimmter Ort auf dem Weg interessiert, sondern nur der Weg selbst. 
+
+Der Meisterpfad ist endlos. Es gibt keine Ziellinie. Wir lernen weiter.
+
+[Driven](https://www.goodreads.com/book/show/35580095-driven)
+
+## Die 12 Elemente der Spitzenleistung
+
+- Element #1: Elite-Performer sind leidenschaftlich bei dem, was sie tun. Andere mögen, was sie tun.
+- Element #2: Elite-Performer verwalten ihre Zeit und halten sich an einen Zeitplan. Andere verwalten ihre Zeit schlecht und haben keinen Zeitplan.
+- Element #3: Elite-Performer konzentrieren sich auf Chancen. Andere konzentrieren sich auf Hindernisse.
+- Element #4: Elite-Performer arbeiten an allen drei Leistungsbereichen. Andere konzentrieren sich ausschließlich auf ihre unterbewussten Fähigkeiten.
+- Element #5: Elite-Performer trainieren mit einem Ziel. Andere üben, was ihnen Spaß macht.
+- Element #6: Elite-Performer konzentrieren sich auf Lösungen. Andere konzentrieren sich auf Probleme.
+- Element #7: Elite-Performer konzentrieren sich darauf, was sie tun sollten. Andere konzentrieren sich darauf, was passiert ist.
+- Element #8: Elite-Performer konzentrieren sich auf den Prozess. Andere konzentrieren sich auf das Ergebnis.
+- Element #9: Elite-Performer geben sich genau das richtige Maß an Mühe. Andere versuchen, 110 Prozent zu geben.
+- Element #10: Elite-Performer bauen ihr Selbstbild aktiv auf und schützen es. Andere erkennen nicht, wie wichtig es ist, ihr Selbstbild aufzubauen und zu schützen.
+- Element #11: Elite-Performer verstärken den Erfolg oder konzentrieren sich auf die Korrektur. Andere konzentrieren sich auf das Ergebnis und den Misserfolg.
+- Element #12: Elite-Performer konzentrieren sich auf das Erreichen. Andere konzentrieren sich auf die Leistung.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Was macht Ihnen wirklich Spaß?
+
+Ich habe eine sehr wichtige Sache gelernt, nämlich, dass ich nur Dinge gut mache, die mir wirklich Spaß machen. 
+
+Noch wichtiger ist, dass ich depressiv werde, wenn ich meine Zeit nicht mit Dingen verbringe, die mir Spaß machen. 
+
+Im Laufe der Jahre habe ich gelernt, dass dies ein Segen im Unglück ist.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
+## Die Zehnjahresregel
+
+Das Phänomen scheint nahezu universell zu sein. 
+
+In einer berühmten Studie über Schachspieler schlugen der Nobelpreisträger Herbert Simon und William Chase die „Zehnjahresregel“ vor, basierend auf ihrer Beobachtung, dass scheinbar niemand ohne ein Jahrzehnt intensiven Lernens in die obersten Ränge der Schachspieler aufstieg, und manche brauchten sogar noch viel mehr Zeit. 
+
+Sogar Bobby Fischer war keine Ausnahme; als er mit 16 Jahren Großmeister wurde, hatte er neun Jahre lang intensiv Schach studiert. 
+
+Spätere Forschungen in einer Vielzahl von Bereichen haben die Zehnjahresregel überall bestätigt, wo die Forscher nachgesehen haben. 
+
+In Mathematik, Naturwissenschaften, Musikkomposition, Schwimmen, Röntgendiagnostik, Tennis, Literatur – niemand, nicht einmal die „talentiertesten“ Spieler, wurde großartig ohne mindestens zehn Jahre sehr harter Vorbereitung. 
+
+Wenn Talent bedeutet, dass Erfolg leicht oder schnell ist, wie die meisten Leute zu glauben scheinen, dann stimmt mit einer talentbasierten Erklärung für hohe Leistungen offensichtlich etwas nicht.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Wir können alle besser werden
+
+Die Fakten bieten keine einfachen Zusicherungen. 
+
+Sie zeigen, dass der Preis für Spitzenleistungen außerordentlich hoch ist. 
+
+Vielleicht ist es unvermeidlich, dass nicht viele Menschen bereit sind, diesen Preis zu zahlen. 
+
+Aber die Fakten zeigen auch, dass jeder besser werden kann, wenn er versteht, wie einige wenige großartig werden. 
+
+Was die Fakten am lautesten verkünden, ist eine bemerkenswerte, befreiende Nachricht: 
+
+Große Leistungen sind nicht nur einigen wenigen Auserwählten vorbehalten. 
+
+Sie sind für Sie und für jeden erreichbar.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
+## Kosmische Würfel und harte Arbeit
+
+In den letzten paar hundert Jahren hat die westliche Kultur Talent anhand der Idee einer einzigartigen Identität verstanden und erklärt – dem kosmischen Würfelspiel, das jeden Menschen anders macht und einige wenige glückliche Menschen zu etwas Besonderem. 
+
+Dieser Denkweise zufolge waren die Brontës und die Z-Boys erfolgreich, weil sie außergewöhnlich waren – auf mysteriöse Weise begabte Außenseiter, vom Schicksal geküsste Kids from Nowhere. 
+
+Betrachtet man sie jedoch durch die Linse intensiver Übung, ändert sich die Geschichte. 
+
+Einzigartigkeit ist immer noch wichtig, aber ihre Bedeutung liegt in der Art und Weise, wie die Brontës und die Z-Boys die Dinge tun, die notwendig sind, um ihre bemerkenswerten Fähigkeiten zu entwickeln: die richtigen Signale senden, Schaltkreise verfeinern, kleine Bücher schreiben und sie mit kindlichen Geschichten füllen, leere Swimmingpools aufsuchen, um stundenlang darin zu reiten und hineinzufallen. 
+
+Die Wahrheit ist, dass viele andere Mädchen aus Yorkshire ein ebenso provinzielles und eingeschränktes Leben führten wie die Brontës, genauso wie viele andere Kinder aus Los Angeles so kantig und cool waren wie die Z-Boys. 
+
+Doch Myelin interessiert sich nicht dafür, wer Sie sind. Es interessiert sich nur dafür, was Sie tun.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Michelangelo & Myelin
+
+Nehmen wir Michelangelo. 
+
+Von seinem sechsten bis zu seinem zehnten Lebensjahr lebte er bei einem Steinmetz und dessen Familie und lernte den Umgang mit Hammer und Meißel, bevor er überhaupt schreiben konnte. 
+
+Nach einem kurzen, erfolglosen Schulversuch ging er bei dem großen Ghirlandaio in die Lehre. 
+
+Er arbeitete an großen Aufträgen, zeichnete, kopierte und bereitete Fresken in einer der größten Kirchen von Florenz vor. 
+
+Danach wurde er von Meisterbildhauer Bertoldo unterrichtet und von anderen Berühmtheiten im Haus von Lorenzo de’ Medici betreut, wo Michelangelo bis zu seinem siebzehnten Lebensjahr lebte. 
+
+Er war ein vielversprechender, aber wenig bekannter Künstler, bis er im Alter von 24 Jahren die Pietà schuf. 
+
+Die Leute bezeichneten die Pietà als reines Genie, doch ihr Schöpfer war anderer Meinung. „Wenn die Leute wüssten, wie hart ich arbeiten musste, um meine Meisterschaft zu erlangen“, sagte Michelangelo, „würde sie gar nicht so wunderbar erscheinen.“
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

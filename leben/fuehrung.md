@@ -293,6 +293,20 @@ Es wird dir besser gehen. Und wenn es einem besser geht, werden Möglichkeiten v
 
 [Planting Seeds of Possibility](https://www.goodreads.com/book/show/56027046-planting-seeds-of-possibility)
 
+## Kiwi Kaizen = 100 Dinge um 1 % verbessern
+
+Menschen werden durch Zielstrebigkeit, Autonomie und den Drang nach Meisterschaft motiviert. 
+
+Erfolgreiche Führungskräfte schaffen eine Umgebung, in der ihre Mitarbeiter ihre Fähigkeiten, ihr Wissen und ihren Charakter entwickeln können. 
+
+Dies führt zu einer Lernumgebung und einer Kultur der Neugier, Innovation und kontinuierlichen Verbesserung. 
+
+Indem sie die 100 Dinge finden, die nur um 1 Prozent besser gemacht werden können, schaffen Führungskräfte inkrementelle und kumulative Vorteile und Organisationen erleben einen Aufschwung bei Leistung und Ergebnissen. 
+
+Bei der Schaffung einer kohärenten Lernumgebung lohnt es sich, sowohl nicht hilfreiche Elemente zu eliminieren – das Mobiliar auszuräumen – als auch aufschlussreiche und inspirierende Einflüsse einzuführen.
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

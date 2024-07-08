@@ -165,6 +165,48 @@ Die meisten Sportler würden davon profitieren, sich bei großen Wettkämpfen ge
 
 [The Champion's Mind](https://www.goodreads.com/book/show/18050010-the-champion-s-mind)
 
+## Lass es geschehen
+
+Großartige Leistungsträger konzentrieren sich auf das, was sie tun, und auf nichts anderes. 
+
+Sie sind in der Lage, sich so vollständig auf eine Aufgabe einzulassen, dass kein Raum für Selbstkritik, Urteile oder Zweifel bleibt; sie bleiben locker und äußerst, sogar irrational, selbstbewusst.
+
+Sie lassen es geschehen, lassen es los. Die Ergebnisse sind ihnen völlig egal.
+
+[Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
+
+## Den Prozess bestaunen
+
+Lesen Sie diese einfache Analogie und sehen Sie, ob sich nicht eine Alternative zum Beurteilungsprozess abzeichnet. 
+
+Wenn wir einen Rosensamen in die Erde pflanzen, bemerken wir, dass er klein ist, aber wir kritisieren ihn nicht als „wurzel- und stammlos“. 
+
+Wir behandeln ihn wie einen Samen und geben ihm das Wasser und die Nahrung, die ein Samen braucht. 
+
+Wenn er zum ersten Mal aus der Erde schießt, verurteilen wir ihn nicht als unreif und unterentwickelt; noch kritisieren wir die Knospen, weil sie nicht offen sind, wenn sie erscheinen. 
+
+Wir stehen staunend vor dem stattfindenden Prozess und geben der Pflanze die Pflege, die sie in jedem Stadium ihrer Entwicklung braucht. 
+
+Die Rose ist eine Rose von der Zeit, in der sie ein Samen ist, bis zu dem Zeitpunkt, an dem sie stirbt. 
+
+In ihr steckt zu jeder Zeit ihr ganzes Potenzial. 
+
+Sie scheint sich ständig im Prozess der Veränderung zu befinden, und doch ist sie in jedem Zustand, in jedem Moment, vollkommen in Ordnung, so wie sie ist.
+
+Ebenso können die Fehler, die wir machen, als wichtiger Teil des Entwicklungsprozesses angesehen werden. 
+
+Unser Tennisspiel profitiert in seinem Entwicklungsprozess stark von Fehlern. 
+
+Sogar Einbrüche sind Teil des Prozesses. 
+
+Sie sind keine „schlechten“ Ereignisse, aber sie scheinen endlos zu dauern, solange wir sie schlecht nennen und uns mit ihnen identifizieren. 
+
+Wie ein guter Gärtner, der weiß, wann der Boden alkalisch und wann sauer sein muss, sollte der kompetente Tennisprofi in der Lage sein, die Entwicklung Ihres Spiels zu unterstützen. 
+
+Normalerweise besteht das Erste, was getan werden muss, darin, sich mit den negativen Konzepten auseinanderzusetzen, die den angeborenen Entwicklungsprozess behindern.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Bücher
 
 - [Burn Your Goals](https://www.goodreads.com/book/show/22388989-burn-your-goals)

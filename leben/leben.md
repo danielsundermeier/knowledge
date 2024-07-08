@@ -370,6 +370,18 @@ Was würden Sie von ihnen hören wollen?
 
 [Mind Gym](https://www.goodreads.com/book/show/451720.Mind_Gym)
 
+## Machen Sie Ihr Leben zu Ihrer Botschaft
+
+In diesem Buch geht es darum, die Verantwortung für Ihr Leben zu übernehmen und den Mut zu haben, Ihr Leben zu Ihrer Botschaft zu machen. 
+
+Letztendlich liegt die Wahrheit in Ihren Taten, nicht in dem, was Sie sagen. 
+
+Ihr Leben ist die stärkste Botschaft, die Sie anderen vermitteln können. 
+
+Ein authentisches Leben zu führen, ist mächtiger als jedes Buch, das Sie schreiben, oder alles, was Sie sagen.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
 ## Die vier edlen Wahrheiten
 
 1. Das Leben ist voller Leid.
@@ -390,6 +402,38 @@ Was würden Sie von ihnen hören wollen?
 - Das Gesetz des Geschlechts – Alle Dinge haben einen männlichen und einen weiblichen Aspekt.
 
 [The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
+
+## Die dreizehn Regeln
+
+Kurz nachdem ich bei FORSCOM (Arm’s Forces Command) ankam, bat mich das Magazin Parade, die langjährige Sonntagsbeilage mit einer Leserschaft von über 50 Millionen Menschen, um eine Titelgeschichte über mich und meinen neuen Auftrag – einen dieser kurzen persönlichen Artikel, die sich an Amerikaner richten, die ihre Sonntagszeitung bei einer Tasse Kaffee lesen.
+
+Der Autor, David Wallechinsky, ein hochqualifizierter Journalist, brauchte einen Aufhänger, um den Artikel abzuschließen. 
+
+Einer meiner Sekretäre, Sergeant Commie Brown, drängte ihn, mich nach den paar Dutzend Papierschnipseln zu fragen, die unter der Glasabdeckung auf meinem Schreibtisch lagen – Zitate und Aphorismen, die ich im Laufe der Jahre gesammelt oder erfunden hatte. 
+
+David rief an und fragte, ob ich ein paar davon vorlesen würde. 
+
+Die dreizehn, die ich ihm vorlas, erschienen in einer Seitenleiste des Artikels.
+
+Nachdem sie zum ersten Mal in Parade abgedruckt worden waren – zu meiner großen Überraschung – setzten sich die Dreizehn Regeln durch. In den letzten dreiundzwanzig Jahren haben meine Assistenten Hunderte von Kopien dieser Liste in vielen verschiedenen Formen verteilt; Sie wurden in PowerPoint präsentiert und im Internet weltweit verbreitet.
+
+Hier sind meine Regeln und die Gründe, warum ich an ihnen festgehalten habe.
+
+1. ES IST NICHT SO SCHLIMM, WIE SIE DENKEN. MORGEN WIRD ES BESSER AUSSEHEN.
+2. WERDEN SIE WÜTEND, UND KOMMEN SIE DANN DARÜBER HIN.
+3. VERMEIDEN SIE, DASS IHR EGO SO NAH AN IHRER POSITION IST, DASS IHR EGO MITGEHT, WENN IHRE POSITION FÄLLT.
+4. ES IST MÖGLICH.
+5. SEIEN SIE VORSICHTIG, WAS SIE WÄHLEN. SIE KÖNNTEN ES BEKOMMEN.
+6. LASSEN SIE NICHT ZU, DASS NEGATIVFAKTEN EINER GUTEN ENTSCHEIDUNG IM WEG STEHEN.
+7. SIE KÖNNEN NICHT DIE ENTSCHEIDUNGEN VON JEMAND ANDEREM TREFFEN. SIE SOLLTEN NICHT JEMAND ANDERE IHRE ENTSCHEIDUNGEN TREFFEN LASSEN.
+8. PRÜFEN SIE KLEINIGKEITEN.
+9. TEILEN SIE DIE VERANTWORTUNG.
+10. BLEIBEN SIE RUHIG. SEIN SIE FREUNDLICH.
+11. HABEN SIE EINE VISION. SEIN SIE ANSPRUCHSVOLL. 
+12. Lassen Sie sich nicht von Ihren Ängsten oder Kritikern beraten.
+13. Ständiger Optimismus ist ein Kraftmultiplikator.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
 
 ## Links
 

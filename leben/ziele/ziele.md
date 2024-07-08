@@ -698,6 +698,72 @@ Als ich mit Kobe Bryant arbeitete, erzielte er in der Nebensaison, als er an sei
 
 [The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
 
+## Schieß weiter
+
+Je mehr Sie darüber nachdenken, dass etwas passiert, desto wahrscheinlicher ist es, dass es passiert. 
+
+Das hat Karoly Takacs besser gemacht als jeder andere. 
+
+Er zweifelte nie daran, was er erreichen konnte, sondern konzentrierte sich ständig darauf, was er tun musste, um seine Ziele zu erreichen. 
+
+Seine Geschichte wird in den internationalen Schützengemeinschaften auf der ganzen Welt erzählt. 
+
+Während viele seine Geschichte als Beweis dafür verwenden, dass man niemals aufgeben sollte, denke ich, dass Karolys Fähigkeit, darüber nachzudenken, was er wollte, und das zu tun, was er tun musste, um es zu erreichen, die größere Lektion ist, die er gelernt hat.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Welches Vermächtnis schaffen Sie?
+
+Stephen Covey ermutigte uns, am Ende anzufangen und uns vorzustellen, wir wären bei unserer eigenen Beerdigung. 
+
+Wer würde da sein? Was würden sie über uns sagen, wenn wir nicht mehr da sind? Was würde ihnen unser Leben bedeuten? Würden sie weinen?
+
+Das ist nicht krankhaft, sondern das Gegenteil. 
+
+Es bedeutet, etwas aufs Spiel zu setzen – unser Leben. 
+
+Es bedeutet ein Gefühl von Dringlichkeit und Unmittelbarkeit, und es ist gut, ein bisschen Dringlichkeit und Unmittelbarkeit im Leben zu haben.
+
+Wenn wir ein Leben führen wollen, wenn wir irgendetwas führen wollen, sollten wir sicher wissen, wohin wir gehen und warum.
+
+Champions tun mehr.
+
+Sie finden etwas, für das sie bereit sind zu sterben.
+
+Dann geben sie ihr Leben dafür.
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
+## Muss überprüft werden, sobald mit der Ausführung begonnen wird
+
+Pläne sind weder erfolgreich noch erfolglos, bis sie ausgeführt werden. 
+
+Und die erfolgreiche Ausführung eines Plans ist wichtiger als der Plan selbst. 
+
+Ich wurde darauf trainiert, zu erwarten, dass ein Plan überarbeitet werden muss, sobald mit der Ausführung begonnen wird, und dass immer ein paar Leute im Hinterzimmer darüber nachdenken, was richtig oder falsch laufen könnte, und Notfallpläne für beide Möglichkeiten erstellen.
+
+Der Leiter muss in Gedanken und Taten flexibel sein. 
+
+Er muss bereit sein, einen Plan zu überarbeiten oder zu verwerfen, wenn er nicht funktioniert oder sich neue Möglichkeiten ergeben. 
+
+Vor allem darf der Leiter niemals von der vermeintlichen Brillanz seines Plans oder seinem persönlichen Einsatz dafür geblendet sein. 
+
+Der Leiter muss die Ausführung von Anfang bis Ende beobachten und tun, was sie ihm sagt.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
+
+## Wissen Sie, wohin Sie wollen
+
+Schritt eins ist offensichtlich, verdient aber eine kurze Überlegung: zu wissen, was Sie tun möchten. 
+
+Das Schlüsselwort ist nicht „was“, sondern „wissen“. 
+
+Da die Anforderungen, über viele Jahre hinweg außergewöhnliche Leistungen zu erbringen, so hoch sind, hat niemand die geringste Chance, sie ohne absolutes Engagement zu erfüllen. 
+
+Sie müssen wissen, was Sie tun möchten, und dürfen es nicht ahnen, dazu neigen oder darüber nachdenken.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

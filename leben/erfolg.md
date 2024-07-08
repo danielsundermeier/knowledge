@@ -957,6 +957,70 @@ Belastung + Ruhe = Wachstum. Diese Gleichung gilt unabhängig davon, was Sie wac
 
 [Peak Performance](https://www.goodreads.com/book/show/31450959-peak-performance)
 
+## Der 3-Stufen-Erfolgszyklus
+
+„Wenn Sie eine 1%-Absicht formulieren, möchten Sie sicher sein, dass Sie den 3-Stufen-Erfolgszyklus befolgen können. Der 3-Stufen-Erfolgszyklus ist ein Prozess, der auf alle Arten von Leistung angewendet wird, auf Lehren, Ehe, Sport, Geschäft und ja, Ihre 1%-Absicht“, sagte Sunny.
+
+„Zuerst müssen Sie sich auf Ihre Leistung vorbereiten. Dann führen Sie aus, was sie sich vorgenommen haben. Schließlich müssen Sie über Ihre Leistung nachdenken, um Ihren Lerneffekt aus dieser Leistung an diesem Tag zu maximieren. Der größte Fehler, den ich bei Leuten sehe, die die 1%-Absicht formulieren, ist, dass sie sich vorbereiten, indem sie aufschreiben, was sie tun werden, dann führen sie ihre 1%-Absicht für eine kurze Zeit aus, vergessen aber, darüber nachzudenken. Beim Nachdenken werden die goldenen Nuggets der Weisheit und Entwicklung abgebaut. Sie müssen nachdenken, damit Sie lernen können. Andernfalls fallen Sie zurück in die Routine, anstatt durch die Routine zu wachsen.“
+
+[One Percent Better](https://www.goodreads.com/book/show/62826477-one-percent-better)
+
+## Erwartungen akzeptieren
+
+In seinem Buch „Schnelles Denken, langsames Denken“ schreibt der Nobelpreisträger Daniel Kahneman über die Vorteile der Angst vor dem Scheitern, die er als „Verlustaversion“ bezeichnet. 
+
+Unter Berufung auf Forschungsergebnisse von Devon Pope und Maurice Schweitzer an der University of Pennsylvania diskutiert er die „relative Stärke zweier Motive“ in den Statistiken professioneller Golfspieler: „Ganz gleich, ob der Putt leicht oder schwer war, bei jeder Entfernung vom Loch waren die Spieler erfolgreicher, wenn sie auf Par putten, als auf Birdie.“ 
+
+Der Unterschied in der Erfolgsquote betrug 3,6 Prozent.
+
+Wir spielen anscheinend nicht, um zu gewinnen, sondern um nicht zu verlieren.
+
+„Die Geschichte des Rugby der All Blacks war so erfolgreich, dass in Neuseeland die Erwartung besteht, dass wir jeden Test gewinnen“, sagt Graham Henry, „und ich denke, das ist gut für das Team. Wenn es diese Erwartung nicht gäbe, würden wir sicher nicht die Standards erreichen, die wir erreichen.“
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
+## Goliath, das ist David
+
+Die Schlacht wird auf wundersame Weise von einem Außenseiter gewonnen, der nach allen Erwartungen überhaupt nicht hätte gewinnen dürfen. 
+
+So haben wir uns die Geschichte seit vielen Jahrhunderten gegenseitig erzählt. 
+
+So hat sich die Phrase „David und Goliath“ in unsere Sprache eingeprägt – als Metapher für einen unwahrscheinlichen Sieg. 
+
+Und das Problem mit dieser Version der Ereignisse ist, dass fast alles daran falsch ist.
+
+„Goliath hatte gegen David so viele Chancen“, schreibt der Historiker Robert Dohrenwend, „wie jeder Krieger aus der Bronzezeit mit einem Schwert gegen einen [Gegner] gehabt hätte, der mit einer 45er-Automatikpistole bewaffnet war.“
+
+Was die Israeliten von hoch oben auf dem Bergkamm sahen, war ein einschüchternder Riese. 
+
+In Wirklichkeit war genau das, was dem Riesen seine Größe verlieh, auch die Quelle seiner größten Schwäche. 
+
+Daraus lässt sich eine wichtige Lektion für Kämpfe mit Riesen aller Art ableiten. 
+
+Die Mächtigen und Starken sind nicht immer das, was sie zu sein scheinen.
+
+David rannte auf Goliath zu, angetrieben von Mut und Glauben. 
+
+Goliath bemerkte sein Herannahen nicht – und dann war er am Boden, zu groß und zu langsam und mit verschwommenen Augen, um zu begreifen, wie sich das Blatt gewendet hatte. 
+
+All die Jahre haben wir solche Geschichten falsch erzählt.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
+## Das umgekehrte U
+
+Umgekehrte U-Kurven sind schwer zu verstehen. 
+
+Sie überraschen uns fast immer, und einer der Gründe, warum wir so oft Vor- und Nachteile verwechseln, ist, dass wir vergessen, wann wir in einer U-förmigen Welt agieren.
+
+Die Psychologen Barry Schwartz und Adam Grant argumentieren in einem brillanten Artikel, dass in der Tat fast alles von Bedeutung dem umgekehrten U folgt: 
+
+„In vielen Bereichen der Psychologie stellt man fest, dass X Y bis zu einem gewissen Punkt erhöht und dann Y verringert. So etwas wie ein uneingeschränktes Gut gibt es nicht. Alle positiven Eigenschaften, Zustände und Erfahrungen haben Kosten, die auf hohem Niveau beginnen können, ihre Vorteile aufzuwiegen.“
+
+Wir alle gehen davon aus, dass es immer in unserem besten Interesse ist, größer und stärker und reicher zu sein. Vivek Ranadivé, ein Hirtenjunge namens David und Direktor der Shepaug Valley Middle School, wird Ihnen sagen, dass dies nicht der Fall ist.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

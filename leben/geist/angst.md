@@ -413,6 +413,44 @@ Angst ist eingebildet, genau wie Glaube eingebildet ist – und da beide eingebi
 
 [The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
 
+## Angst und Versagen: Sind immer vorhanden
+
+Ich habe wahrscheinlich genauso viel von Misserfolgen und meinen Neinsagern gelernt wie von meinen unterstützenden Rabbis. Misserfolg kommt mit der Erfahrung.
+
+Ich erinnere mich, wie ich vor ein paar Jahren an einer elitären und sehr strukturierten japanischen Highschool sprach. 
+
+Die Kinder kamen aus guten Familien und waren meist sehr intelligent. 
+
+Nach meinen Ausführungen stellten sich ausgewählte Kinder aus der Ehrenliste auf, um mir Fragen zu stellen, die auf Karten getippt und von ihren Lehrern gründlich geprüft worden waren.
+
+Nach den ersten paar Fragen wandte ich mich von der Reihe ab und lud jeden im Publikum ein, Fragen zu stellen, wobei ich meinen Blick besonders auf die hinteren Reihen richtete, wo ich immer zu sitzen versuchte. 
+
+Ein etwa dreizehnjähriges Mädchen hob die Hand und ich rief sie auf. 
+
+„Hast du manchmal Angst?“, fragte sie. „Ich habe jeden Tag Angst“, fuhr sie fort. „Ich habe Angst zu versagen.“ 
+
+Wie mutig sie war, diese Frage in einer sehr strukturierten japanischen Highschool öffentlich zu stellen.
+
+Ja, ich sagte es ihr. 
+
+Ich habe jeden Tag vor etwas Angst und ich scheitere jeden Tag bei etwas. 
+
+Angst und Versagen sind immer präsent. 
+
+Akzeptieren Sie sie als Teil des Lebens und lernen Sie, mit diesen Realitäten umzugehen. 
+
+Haben Sie Angst, aber machen Sie weiter. 
+
+Angst ist normalerweise vorübergehend. Sie geht vorbei. 
+
+Wenn Sie scheitern, beheben Sie die Ursachen und machen Sie weiter.
+
+Im Raum herrschte Totenstille. 
+
+Jeder der jungen Leistungsträger hatte dieselbe Frage im Kopf, auch wenn sie zu verängstigt waren, um sie auszusprechen.
+
+[It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

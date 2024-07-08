@@ -178,6 +178,98 @@ Nichts Lebendiges kann stillstehen, es geht vorwärts oder rückwärts. Das Lebe
 
 [You Learn by Living](https://www.goodreads.com/book/show/78509.You_Learn_by_Living)
 
+## Alles dreht sich um das Myelin
+
+Der Talentcode basiert auf einer revolutionären wissenschaftlichen Entdeckung im Zusammenhang mit einem neuronalen Isolator namens Myelin, den einige Neurologen mittlerweile als den heiligen Gral der Fähigkeitserlangung betrachten. 
+
+Und zwar aus folgendem Grund: Jede menschliche Fähigkeit, sei es Baseball oder Bach spielen, entsteht durch Nervenfaserketten, die einen winzigen elektrischen Impuls übertragen – im Grunde ein Signal, das durch einen Schaltkreis wandert. 
+
+Die entscheidende Rolle des Myelins besteht darin, diese Nervenfasern auf dieselbe Weise zu umhüllen, wie Gummiisolierung einen Kupferdraht umhüllt. 
+
+Dadurch wird das Signal stärker und schneller, indem verhindert wird, dass elektrische Impulse nach außen dringen. 
+
+Wenn wir unsere Schaltkreise auf die richtige Weise aktivieren – wenn wir üben, den Schläger zu schwingen oder eine Note zu spielen –, reagiert unser Myelin, indem es Isolierschichten um den neuronalen Schaltkreis wickelt, wobei jede neue Schicht für ein bisschen mehr Fähigkeit und Geschwindigkeit sorgt. 
+
+Je dicker das Myelin wird, desto besser isoliert es und desto schneller und präziser werden unsere Bewegungen und Gedanken.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Muskeln & Myelin
+
+Auf einer Ebene klingt die Erforschung des Myelins wie eine exotische neue Neurowissenschaft. 
+
+Auf einer anderen Ebene ähnelt Myelin jedoch einem anderen evolutionär entstandenen Mechanismus, den wir täglich nutzen: den Muskeln. 
+
+Wenn Sie Ihre Muskeln auf eine bestimmte Weise nutzen – indem Sie sich anstrengen, Dinge zu heben, die Sie kaum heben können –, werden diese Muskeln darauf reagieren, indem sie stärker werden. 
+
+Wenn Sie Ihre Fähigkeitsschaltkreise auf die richtige Weise aktivieren – indem Sie sich anstrengen, Dinge zu tun, die Sie kaum heben können, und zwar durch intensives Üben –, werden Ihre Fähigkeitsschaltkreise darauf reagieren, indem sie schneller und flüssiger werden.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Baby Steps: der Königsweg zum Können
+
+Kurz gesagt: Vor einigen Jahren führte eine Gruppe amerikanischer und norwegischer Forscher eine Studie durch, um herauszufinden, was Babys beim Laufen besser macht. 
+
+Sie entdeckten, dass der Schlüsselfaktor nicht Größe, Gewicht, Alter, Gehirnentwicklung oder irgendein anderes angeborenes Merkmal war, sondern (welch eine Überraschung!) die Zeit, die sie damit verbrachten, ihre Schaltkreise zu aktivieren und zu versuchen zu laufen.
+
+So gut diese Entdeckung unsere These auch stützen mag, ihr wirklicher Nutzen besteht darin, ein lebendiges Bild davon zu zeichnen, wie sich intensives Üben anfühlt. 
+
+Kurz gesagt, es ist das Gefühl, ein taumelndes Baby zu sein, intensiv und unbeholfen auf ein Ziel zuzusteuern und umzukippen. 
+
+Es ist ein wackeliges, unangenehmes Gefühl, das jeder vernünftige Mensch instinktiv vermeiden würde. 
+
+Doch je länger die Babys in diesem Zustand blieben – je bereitwilliger sie waren, ihn zu ertragen und sich zu erlauben, zu scheitern – desto mehr Myelin bauten sie auf und desto geschickter wurden sie. 
+
+Die taumelnden Babys verkörpern die tiefste Wahrheit über intensives Üben: Um gut zu werden, ist es hilfreich, bereit, ja sogar begeistert, schlecht zu sein. 
+
+Kleine Schritte sind der Königsweg zum Können.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Komfortzone + Sweet Spot + Überlebenszone
+
+Es gibt einen Ort, genau an der Grenze Ihrer Fähigkeiten, an dem Sie am besten und am schnellsten lernen. Er wird Sweet Spot genannt. So finden Sie ihn.
+
+Komfortzone
+
+Empfindungen: Leichtigkeit, Mühelosigkeit. Sie arbeiten, aber Sie streben nicht nach etwas und kämpfen nicht.
+
+Prozentsatz erfolgreicher Versuche: 80 Prozent und mehr
+
+Sweet Spot
+
+Empfindungen: Frustration, Schwierigkeiten, Fehlerbereitschaft. Sie sind voll und ganz in einen intensiven Kampf vertieft – als würden Sie mit aller Kraft nach einem fast unerreichbaren Ziel streben, es mit den Fingerspitzen berühren und dann wieder danach greifen.
+
+Prozentsatz erfolgreicher Versuche: 50-80 Prozent.
+
+Überlebenszone
+
+Empfindungen: Verwirrung, Verzweiflung. Sie sind unterlegen: Sie kämpfen, schlagen um sich und raten. Manchmal raten Sie richtig, aber es ist meistens Glück.
+
+Prozentsatz erfolgreicher Versuche: Unter 50 Prozent.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
+## Die wichtigste Fähigkeit von allen
+
+Bei intensivem Üben sind kleine tägliche Übungssnacks effektiver als wöchentliche Übungsorgien. 
+
+Der Grund dafür liegt in der Art und Weise, wie unser Gehirn wächst – schrittweise, jeden Tag ein bisschen, sogar im Schlaf. 
+
+Tägliches Üben, selbst für fünf Minuten, fördert diesen Prozess, während gelegentliches Üben Ihr Gehirn dazu zwingt, aufzuholen. 
+
+Oder, wie es der Musikpädagogik-Pionier Shinichi Suzuki ausdrückt: „Üben Sie an den Tagen, an denen Sie essen.“
+
+Der andere Vorteil des täglichen Übens besteht darin, dass es zur Gewohnheit wird. 
+
+Der Akt des Übens – sich Zeit dafür zu nehmen und es gut zu machen – kann als eine Fähigkeit an sich betrachtet werden, vielleicht die wichtigste Fähigkeit überhaupt. 
+
+Geben Sie ihm Zeit. 
+
+Laut Forschung dauert es etwa dreißig Tage, bis sich eine neue Gewohnheit etabliert.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
@@ -268,3 +360,5 @@ Nichts Lebendiges kann stillstehen, es geht vorwärts oder rückwärts. Das Lebe
 ## Zitate
 
 > Among the topics to learn—the skilled crafts associated with growing food, processing local materials, constructing natural buildings, fermentation and food storage without the need for electricity, weaving textiles to make clothes and baskets, permaculture to regenerate soils and restore ecosystems, group facilitation and governance practices, how to raise children, and a host of other things related to living sustainably in place. - [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-chapter-16)
+
+> Üben Sie an den Tagen, an denen Sie essen. - Shinichi Suzuki

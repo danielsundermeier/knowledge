@@ -272,5 +272,37 @@ Seine Antwort: „Es ist aufregend weil es bedeutet, dass es verschiedene Mögli
 
 [Move by Move](https://www.goodreads.com/book/show/195820950-move-by-move)
 
+## Akzeptieren Sie das Scheitern
+
+Wenn Sie erfolgreiche Menschen studieren, werden Sie feststellen, dass sie weit mehr Fehler als Erfolge gemacht haben. 
+
+Der einzige Rekord, den NBA-Legende Michael Jordan hält, ist beispielsweise der für die meisten Fehlwürfe! 
+
+Obwohl er als großartiger Spieler in Erinnerung bleibt, der viele Würfe getroffen hat, ist es in Wirklichkeit so, dass er viel mehr Würfe verfehlt als getroffen hat. 
+
+Das ist bei sehr erfolgreichen Menschen sehr häufig der Fall. 
+
+Wir neigen dazu, uns auf ihre Erfolge zu fixieren und übersehen, dass sie im Allgemeinen viel mehr Misserfolge als Erfolge haben. 
+
+Der Unterschied zwischen erfolgreichen und mittelmäßigen Menschen besteht darin, dass die Erfolgreichen nicht bei ihren Misserfolgen verweilen. 
+
+Sie lernen aus ihren Misserfolgen und machen weiter.
+
+Einen großen Fehler kann man nicht dadurch beheben, dass man nie wieder etwas Neues und Originelles probiert. 
+
+Kalkulierte Risiken einzugehen ist der Preis für ein erfülltes Leben. 
+
+Das Leben auf der Bank ist sicher – vielleicht sogar verletzungssicher – aber es fehlt an Dynamik und Kontakt, was die Essenz eines aggressiven Lebens ist.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
+## 20.000 Mal auf den Hintern fallen
+
+Eine Studie über Eiskunstläufer hat ergeben, dass Eiskunstläufer der unteren Leistungsklasse viel Zeit damit verbringen, an den Sprüngen zu arbeiten, die sie bereits beherrschen, während Eiskunstläufer auf höchstem Niveau mehr Zeit mit den Sprüngen verbringen, die sie nicht beherrschen, also mit der Art von Sprüngen, die letztendlich olympische Medaillen einbringen und bei denen man oft hinfällt, bevor man sie beherrscht.
+
+Zwanzigtausend Mal auf dem Hintern zu landen, ist der Grundstein für eine großartige Leistung.
+
+[Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
+
 ## Bücher
 

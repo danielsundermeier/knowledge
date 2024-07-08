@@ -549,6 +549,18 @@ Vorauszudenken, wie Sie denken – wie Sie reagieren – werden, wenn diese Höh
 
 [The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
 
+## Den Geist schrittweise beruhigen
+
+Kurz gesagt: Um „alles auf die Reihe zu kriegen“, muss man den Geist entschleunigen. 
+
+Den Geist zu beruhigen bedeutet, weniger zu denken, zu kalkulieren, zu urteilen, sich Sorgen zu machen, zu fürchten, zu hoffen, zu versuchen, zu bereuen, zu kontrollieren, zu nervös zu sein oder sich ablenken zu lassen. 
+
+Der Geist ist ruhig, wenn er ganz im Hier und Jetzt ist, in perfekter Einheit mit der Handlung und dem Handelnden. 
+
+Das Ziel des Inneren Spiels ist es, die Häufigkeit und Dauer dieser Momente zu erhöhen, den Geist schrittweise zu beruhigen und dadurch eine kontinuierliche Erweiterung unserer Lern- und Leistungsfähigkeit zu erreichen.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

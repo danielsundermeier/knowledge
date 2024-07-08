@@ -430,6 +430,74 @@ Wenn Sie sich vollständig mit einer Rolle identifizieren, verwechseln Sie ein V
 
 [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
 
+## Erreichung
+
+Wenn Sie das höchste Niveau Ihrer Fähigkeiten erreichen möchten, müssen Sie sich auf das Erreichen von Zielen konzentrieren. 
+
+Um in dem, was Sie tun, großartig zu werden, müssen Sie nicht nur Ihr Handwerk erlernen. 
+
+Zielen bedeutet, Ihr Handwerk zu beherrschen, sich in Drucksituationen konsequent konzentrieren zu können, das Vertrauen zu haben, erfolgreich sein zu können und Ihre Ziele zu setzen und zu erreichen. 
+
+Wenn Sie sich auf die Erfolgspunkte konzentrieren, Ihre Fähigkeiten ausbauen und diese Strategien in Ihren Plan einbeziehen, wird Erfolg wahrscheinlich und nicht nur möglich.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Unsere Integrität stärken
+
+Integrität ist ein kraftvolles Wort, das sich von einem bestimmten Konzept ableitet. 
+
+Es beschreibt eine Person, die integriert ist, sich in ein Ganzes einfügt, im Gegensatz zu einer Person mit vielen Teilen, vielen Gesichtern und vielen Trennungen. 
+
+Das Wort bezieht sich auf die Unterscheidung der Alten zwischen Leben und gutem Leben. 
+
+Entgegen der landläufigen Meinung ist eine Person mit Integrität normalerweise gelassen und hat Sinn für Humor. 
+
+Sie kennt sich selbst, spiegelt eine bestimmte und durchdachte Reihe von Vorlieben und Bestrebungen wider und ist daher zuverlässig. 
+
+Da sie weiß, dass sie ganz ist, ist sie nicht damit beschäftigt, auf der Welle ständiger Angst, sondern ist frei, auf der Welle der Lebensfreude zu reiten!
+
+[Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
+
+## Vermächtnis beginnt mit Charakter
+
+Jetzt [nach dem Feiern eines großen Sieges] passiert etwas, womit man nicht rechnen würde.
+
+Zwei der älteren Spieler – einer davon zweimaliger Nationalspieler des Jahres – greifen zu einem langstieligen Besen und beginnen, die Schuppen zu fegen. 
+
+Sie kehren den Schlamm und die Gaze in kleinen Haufen in der Ecke zusammen.
+
+Während das Land noch Wiederholungen anschaut und Schulkinder im Bett liegen und vom Ruhm der All Blacks träumen, räumen die All Blacks selbst hinter sich auf.
+
+Sie fegen die Schuppen.
+
+Und machen es richtig.
+
+Damit es niemand anderes tun muss.
+
+Denn niemand kümmert sich um die All Blacks.
+
+Die All Blacks kümmern sich um sich selbst.
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
+## Selbst 1 und Selbst 2
+
+Jetzt sind wir bereit für das erste wichtige Postulat des Inneren Spiels: Bei jedem Spieler ist die Art der Beziehung zwischen Selbst 1 und Selbst 2 der wichtigste Faktor, der die Fähigkeit bestimmt, sein Wissen über die Technik in effektives Handeln umzusetzen. 
+
+Mit anderen Worten: Der Schlüssel zu besserem Tennis – oder zu allem anderen – liegt in der Verbesserung der Beziehung zwischen dem bewussten Erzähler, Selbst 1, und den natürlichen Fähigkeiten von Selbst 2.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
+## Nach Qualitäten fragen
+
+„Nach Qualitäten fragen“ beschreibt die andere Art des Rollenspiels. 
+
+Wenn ich diese Idee einführe, sage ich normalerweise so etwas wie: 
+
+„Stellen Sie sich vor, ich bin der Regisseur einer Fernsehserie. Da ich weiß, dass Sie ein Schauspieler sind, der Tennis spielt, frage ich Sie, ob Sie eine kleine Rolle als Spitzentennisspieler übernehmen möchten. Ich versichere Ihnen, dass Sie sich keine Sorgen machen müssen, ob Sie den Ball ins Netz oder ins Netz schlagen, da die Kamera nur auf Sie gerichtet ist und dem Ball nicht folgt. Was mich hauptsächlich interessiert, ist, dass Sie professionelle Umgangsformen an den Tag legen und Ihren Schläger mit großer Selbstsicherheit schwingen. Vor allem darf Ihr Gesicht keine Selbstzweifel ausdrücken. Sie sollten aussehen, als würden Sie jeden Ball genau dorthin schlagen, wo Sie wollen. Gehen Sie wirklich in die Rolle hinein, schlagen Sie so hart Sie wollen und ignorieren Sie, wohin der Ball tatsächlich fliegt.“
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

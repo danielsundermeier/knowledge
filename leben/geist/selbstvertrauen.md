@@ -10,6 +10,8 @@
 
 > "The mature human being goes about doing what needs to be done regardless of whether that person feels great or terrible. Knowing that you are the kind of person with that kind of self-control brings all the satisfaction and confidence you will ever need. Even on days when the satisfaction and confidence just aren’t there, you can get the job done anyway." - David Reynolds
 
+> "Confidence is a resolute state of mind by which you believe nothing is impossible." - John Eliot
+
 ## Quellen
 
 - Eigene Erfolgserlebnisse
@@ -412,6 +414,26 @@ Selbstwirksamkeit oder Stressresistenz ist die treibende Kraft hinter dem, was i
 Diese drei Cs sind mentale und emotionale Säulen der Weisheit, die uns helfen, unsere Leistung zu steigern, jeden auf uns zurollenden Ball effektiv abzufangen und im Flow zu bleiben.
 
 [The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
+
+## Die vertrauensvolle Denkweise
+
+Natürlich sind großartige Künstler gut ausgebildet, erfahren, intelligent und in manchen Fällen übernatürlich talentiert. 
+
+Aber die Art und Weise, wie ihr Gehirn während einer Aufführung arbeitet, ähnelt eher dem eines Eichhörnchens als dem von Einstein. 
+
+Wie Eichhörnchen tun die Besten in jedem Geschäft das, was sie gelernt haben, ohne ihre Fähigkeiten in Frage zu stellen – sie vertrauen voll und ganz auf ihre Fähigkeiten, weshalb wir diesen Geisteszustand bei hoher Leistung als „vertrauensvolle Denkweise“ bezeichnen. 
+
+Der routinemäßige Zugriff auf die vertrauensvolle Denkweise ist das, was großartige Künstler vom Rest der Meute unterscheidet.
+
+Verkaufen ist etwas ganz anderes als zu versuchen, ein Verkäufer zu sein. 
+
+Die Eins, die Sie an der Business School in „Verkauf und Marketing“ bekommen haben, wird den Deal nicht abschließen. 
+
+Wenn Sie tatsächlich nur darüber nachdenken, was Sie tun sollten, werden Sie wie ein verlegener Trottel wirken und alles andere tun, als den Deal abzuschließen. 
+
+Wenn Sie mitten in einem Deal stecken, müssen Sie diesen Teil Ihres Gehirns abschalten und sich selbst vertrauen.
+
+[Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
 
 ## Bücher
 

@@ -320,6 +320,52 @@ Zu einer Zeit aufzustehen, zu der es nur wenige andere tun, kann ein erster Schr
 
 [The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
 
+## Wählen Sie einen anderen Pfad
+
+Nur weil Sie etwas getan haben, heißt das nicht, dass Sie damit weitermachen müssen. 
+
+Sie können einen anderen Weg wählen. 
+
+Nur weil alle Ihre Freunde ihre Arbeit hassen und ihren Kummer jedes Wochenende in starkem Alkoholkonsum ertränken, heißt das nicht, dass Sie das auch tun müssen. 
+
+Man sagt, das Leben sei kurz; wenn Sie jedoch ein Leben in stiller Verzweiflung führen, ist es alles andere als kurz. 
+
+Ich denke, wir alle sind es uns selbst und jedem, der jemals einen positiven Einfluss auf uns hatte, schuldig, den Mut zu haben, unserem Glück zu folgen. 
+
+Wenn wir das nicht tun, führt dies zu selbstzerstörerischem Groll und die Folgen sind oft nicht nur für den Einzelnen, sondern auch für die Gruppe katastrophal.
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
+## Opfer vs. Entscheidungen
+
+Der Schlüssel war jedoch immer einfach: Entdeckung. 
+
+Obwohl andere Leute anfingen, ihre Meinung über mein Potenzial zu äußern, blieb ich still. 
+
+Bis ich genau herausfand, was ich tun wollte: ein Mixed-Martial-Arts-Kämpfer werden. 
+
+Diese Entdeckung gab meinen inneren Träumen Glauben, weil ich begann, die konkrete Möglichkeit zu sehen, dass ich ein Kämpfer werden könnte, ein echter Kämpfer. 
+
+Und so ging die Veränderung von Visionen über mein Leben dazu über, sie konkret zu leben.
+
+In dieser Phase meines Lebens ließ ich viele, viele Dinge hinter mir. 
+
+Ich hörte ständig Kristofs Worte in mein Ohr geflüstert und es löste eine Reaktion in mir aus und mir wurde klar: Das ist es, was ich tun möchte. 
+
+Ich möchte Weltmeister im Mixed Martial Arts werden.
+
+Und dann floss all meine Energie, alles, was ich in mir hatte, in das Erreichen dieses Ziels. 
+
+Ich brachte keine Opfer mehr, ich traf Entscheidungen. 
+
+Training statt Party. Arbeit statt Spiel. Perfektes Üben statt beiläufiger Wiederholung.
+
+Ich begann, ein Leben mit Sinn und Ziel zu leben. 
+
+Mit den Worten Buddhas: „Zuerst die Absicht; dann die Erleuchtung.“
+
+[The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

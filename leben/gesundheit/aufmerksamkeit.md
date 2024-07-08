@@ -422,6 +422,36 @@ Das ist letztendlich der Weg des achtsamen Athleten.
 
 [The Mindful Athlete](https://www.goodreads.com/book/show/22928952-the-mindful-athlete)
 
+## Im psychologischen Fitnessstudio trainieren
+
+„Bei unserer Arbeit dreht sich alles um die Kontrolle der Aufmerksamkeit“, sagt Brosnahan. In Drucksituationen, sagt er, ist es für unser Bewusstsein sehr leicht, „von einem einfallsreichen in einen einfallslosen Zustand abzudriften“, von einer Position geistiger Ruhe, Klarheit und innerer Stärke in das, was er „defensives Denken“ nennt.
+
+Leistung unter Druck wird als A.C.T. bezeichnet. 
+
+In Brosnahans Worten: „sich selbst den Sieg zu ermöglichen, indem man dem Prozess folgt, anstatt sich von Ergebnissen vereinnahmen zu lassen.“
+
+„Die Fähigkeit, mit Druck umzugehen, war entscheidend“, sagt Henry. 
+
+„Druck ist ein Privileg“, sagt Gilbert Enoka – es bedeutet, dass man auf höchstem Niveau spielt. 
+
+„Wenn eine Organisation wirklich Weltklasse sein will“, erläutert Brosnahan, „wird das eine Menge Druck bedeuten – Druck ist eine gute Sache.“
+
+„Es ist verrückt“, sagt Gilbert Enoka [uns], „denn wenn Sie Kraft aufbauen wollen, gehen Sie ins Fitnessstudio und trainieren dreimal pro Woche Ihre Rumpfkraft. Es scheint, als würden Sie denselben Ansatz anwenden, wenn Sie Ihre Konzentrationsfähigkeit und Fokussierung entwickeln und aus geistiger Sicht flexibel sein wollen.“
+
+[Legacy](https://www.goodreads.com/book/show/18890191-legacy)
+
+## Passen Sie Ihren Geist dem Rhythmus der Atmung an
+
+Wenn der Geist auf den Atemrhythmus eingestellt ist, neigt er dazu, in sich gekehrt und ruhig zu werden. 
+
+Ob auf dem Platz oder abseits davon, ich kenne keinen besseren Weg, mit Ängsten umzugehen, als sich auf den eigenen Atemprozess zu konzentrieren. 
+
+Angst ist die Furcht vor dem, was in der Zukunft passieren könnte, und sie tritt nur dann auf, wenn sich der Geist vorstellt, was die Zukunft bringen könnte. 
+
+Wenn Ihre Aufmerksamkeit jedoch auf das Hier und Jetzt gerichtet ist, haben die in der Gegenwart zu erledigenden Aufgaben die beste Chance, erfolgreich ausgeführt zu werden, und die Zukunft wird dadurch zur bestmöglichen Gegenwart.
+
+[The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

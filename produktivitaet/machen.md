@@ -928,6 +928,110 @@ Ich habe jedoch den Punkt erreicht, an dem meine Selbstkontrolle so weit ist, da
 
 [The Ultra Mindset](https://www.goodreads.com/book/show/22715975-the-ultra-mindset)
 
+## Haben Sie den Mut, sich weiterzuentwickeln?
+
+Ich treffe ständig Leute, die sich über ihr Leben beschweren, und sie alle haben eines gemeinsam: Sie verbringen mehr Zeit damit, sich über ihre Unzulänglichkeiten zu beschweren, als Zeit oder nur wenig Zeit damit, etwas zu unternehmen, um ihre Lebensqualität zu verbessern. 
+
+Wenn ich ihnen erzähle, wie ich mein Leben verändert habe, entgegnen sie, dass mir Veränderungen leichtfallen und ich etwas Besonderes bin. 
+
+Glauben Sie mir, ich bin nichts Besonderes und Veränderungen waren nie leicht. 
+
+Sie sind immer schwer. 
+
+Es ist immer eine Herausforderung, gegen die Trägheit anzukämpfen und Überzeugungen und Ängste loszulassen, die uns zurückhalten. 
+
+Es ist kein Kampf, der jemals endet, aber was Sie durch das Kämpfen, Überwinden und Entwickeln werden, ist die Belohnung, und es ist eine Belohnung, die es wert ist, verfolgt zu werden. 
+
+Haben Sie den Mut, sich weiterzuentwickeln?
+
+[Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
+
+## Durch Bewegungen wachsen
+
+„Mr. Big, es ist der Anfang, der die meisten Menschen aufhält. Ein Objekt, in diesem Fall Sie, in Bewegung bleibt in Bewegung. Der schwierigste Teil ist es, die Trägheit zu überwinden. Wussten Sie, dass ein Space Shuttle in der ersten Stunde seiner Reise etwa 80 % seines Treibstoffs verbraucht? Sobald Sie Schwung auf Ihre Seite bekommen, kommt der Erfolg. Sie schaffen einen Rhythmus und eine Routine und beginnen, Ihre Gewohnheiten und Routinen bewusster umzusetzen, anstatt sie blind auszuführen. Ich nenne es gerne „Wachstum durch die Bewegungen statt Ausführen der Bewegungen“, behauptete Sunny. 
+
+„Der beste Ausgangspunkt ist immer Ihre Absicht und Ihre Investition. Ihre 1 %-Absicht ist flexibel und fließend. Sie kann sich im Laufe der Zeit anpassen, muss aber IMMER aufgeschrieben und immer in Aktion sein, vorzugsweise als Teil Ihrer Morgen- oder Abendroutine, denn dort haben Sie die größte Kontrolle über Ihren Tag.“
+
+[One Percent Better](https://www.goodreads.com/book/show/62826477-one-percent-better)
+
+## Pflanze den Baum
+
+„Nun, Mr. Big, der beste Zeitpunkt, den Baum der Investition und Absicht zu pflanzen, wäre vor 20 Jahren gewesen, als Sie angefangen haben, denn dann wäre er ausgewachsen und könnte Früchte für andere tragen. Aber der zweitbeste Zeitpunkt, den Baum zu pflanzen, ist genau jetzt.“
+
+[One Percent Better](https://www.goodreads.com/book/show/62826477-one-percent-better)
+
+## Positives Denken vs. positives Handeln
+
+Außergewöhnliche Denker lernen, ihrem Bewusstsein zu vertrauen. 
+
+Sie lernen, wie wichtig positives Handeln ist. Sie denken nicht darüber nach, wie großartig die Tat sein wird. 
+
+Stattdessen handeln sie.
+
+Der wahre Ausnahmekünstler ist der Superpilot. Jeder einzelne Sinn, jede Faser seines Körpers ist bei dem, was er tut, im Einsatz.
+
+[Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
+
+## Gottes Werk tun
+
+Müßiggang ist der spirituellen Verwirklichung äußerst abträglich. 
+
+Faulheit in Körper und Geist muss vertrieben werden, bevor Sie in das Königreich Gottes gelangen können. 
+
+So wie Soldaten auf dem Schlachtfeld niemals Müßiggang kennen dürfen, so muss der spirituelle Mensch absolut frei von geistiger oder körperlicher Müßiggang sein.
+
+Denken Sie nie, dass die Arbeit zu viel für Sie ist. 
+
+Denken Sie daran, dass Gott Universen erschafft und niemals müde ist. 
+
+Wenn wir wie er sein wollen, müssen wir seine enorme Aktivitätsfähigkeit haben.
+
+Was auch immer Sie tun, denken Sie immer daran, dass Sie Gottes Werk tun. 
+
+Sagen Sie jeden Tag: „Was kann ich heute für Gott tun?“ 
+
+Geben Sie heute Ihr Bestes und vergessen Sie morgen. 
+
+Quälen Sie die Seele nicht mit kleinlichen Sorgen. Gott wird sich um alles kümmern.
+
+[How to Awaken Your True Potential](https://www.goodreads.com/book/show/27036392-how-to-awaken-your-true-potential)
+
+## Ganzfeldpresse
+
+„Jedes Jahr kommen so viele Trainer zu mir, um das Pressing zu lernen“, sagte Pitino. 
+
+Er ist jetzt Cheftrainer der Basketballmannschaft der University of Louisville, und Louisville ist zum Mekka all jener Davids geworden, die lernen wollen, wie man Goliaths besiegt. 
+
+„Dann schicken sie mir eine E-Mail. Sie sagen mir, dass sie es nicht schaffen. Sie wissen nicht, ob ihre Spieler durchhalten.“ 
+
+Pitino schüttelte den Kopf. „Wir trainieren jeden Tag zwei Stunden“, fuhr er fort. Die Spieler bewegen sich fast 98 Prozent des Trainings. Wir verbringen sehr wenig Zeit mit Reden. Wenn wir unsere Korrekturen vornehmen“ – das heißt, wenn Pitino und seine Trainer das Spiel unterbrechen, um Anweisungen zu geben – „sind das Korrekturen im Sieben-Sekunden-Takt, sodass unser Herzschlag nie zur Ruhe kommt. Wir arbeiten immer.“ 
+
+Sieben Sekunden! Die Trainer, die nach Louisville kommen, sitzen auf der Tribüne und sehen dieser unaufhörlichen Aktivität und Verzweiflung zu. 
+
+Um nach Davids Regeln zu spielen, muss man verzweifelt sein. 
+
+Man muss so schlecht sein, dass man keine andere Wahl hat. 
+
+Ihre Teams sind gerade gut genug, dass sie wissen, dass es nie funktionieren könnte. 
+
+Ihre Spielerinnen ließen sich nie dazu überreden, so hart zu spielen. 
+
+Sie waren nicht verzweifelt genug. Aber Ranadivé? Oh, er war verzweifelt. 
+
+Wenn man sich seine Mädchen ansieht, könnte man meinen, ihre völlige Unfähigkeit, zu passen, zu dribbeln und zu schießen, sei ihr größter Nachteil. 
+
+Aber das war es nicht, oder? Das war es, was ihre Erfolgsstrategie möglich machte.
+
+[David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
+
+## Aktion, Aktion, Aktion
+
+[Albert] Ellis, der Dutzende Bücher schrieb, entwickelte einen direkten, handlungsorientierten Ansatz, der das Freudsche Modell der Untersuchung von Kindheitserlebnissen in Frage stellte. 
+
+„Neurose ist nur ein vornehmes Wort für Gejammer“, sagte er. „Das Problem mit den meisten Therapien ist, dass sie einem helfen, sich besser zu fühlen. Aber man wird nicht besser. Man muss es mit Taten, Taten, Taten untermauern.“
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

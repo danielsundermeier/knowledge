@@ -686,6 +686,54 @@ Am Anfang hörte er wahrscheinlich: „Man muss verrückt sein, um zu glauben, d
 
 [How Champions Think](https://www.goodreads.com/book/show/25305085-how-champions-think)
 
+## Du bist was du denkst
+
+Um die nächste Stufe des Erfolgs zu erreichen, die Sie verdienen, müssen Sie mental stark werden. 
+
+Sie müssen darüber nachdenken, was Sie wollen, und dürfen nicht der Versuchung erliegen, darüber nachzudenken, warum Sie es nicht haben. 
+
+Das Bewusstsein ist mächtig und kann Sie in die Richtung führen, die Person zu sein, die Sie sein möchten. 
+
+Sie kennen das Sprichwort „Du bist, was du isst“. Nun, ich sage Ihnen, dass Sie werden, was Sie denken!
+
+Wenn Sie denken, dass Sie nicht gewinnen werden, haben Sie recht. So einfach ist das.
+
+[Attainment](https://www.goodreads.com/book/show/18303438-attainment)
+
+## Zündung und 4-Minuten-Meilen
+
+Weniger bekannt ist, was in den Wochen nach Bannisters Leistung geschah: Ein anderer Läufer, ein Australier namens John Landy, durchbrach ebenfalls die Vier-Minuten-Marke. 
+
+In der darauffolgenden Saison gelang dies einigen weiteren Läufern. 
+
+Und dann begannen sie, die Marke in Scharen zu durchbrechen. 
+
+Innerhalb von drei Jahren erreichten nicht weniger als siebzehn Läufer die größte sportliche Leistung des 20. Jahrhunderts. 
+
+Nichts Grundlegendes hatte sich geändert. 
+
+Die Bahnoberflächen waren dieselben, die Gene waren dieselben. 
+
+Es auf Selbstvertrauen oder positives Denken zu schieben, geht am Thema vorbei. 
+
+Die Veränderung kam nicht von innen: Sie reagierten auf etwas von außen. 
+
+Die siebzehn Läufer hatten ein klares Signal erhalten – ihr könnt das auch schaffen – und die Vier-Minuten-Marke, einst eine unüberwindbare Mauer, wurde sofort zu einem Sprungbrett.
+
+[The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
+
+## Mentale Filme vor dem Schlafengehen
+
+Dies ist eine nützliche Angewohnheit, von der ich von Dutzenden von Spitzenkräften gehört habe, von Chirurgen über Sportler bis hin zu Komikern. 
+
+Kurz vor dem Einschlafen spielen sie in Gedanken einen Film ihrer idealisierten Leistung ab. 
+
+Eine breite Forschungsarbeit unterstützt diese Idee und bringt Visualisierung mit verbesserter Leistung, Motivation, mentaler Stärke und Selbstvertrauen in Verbindung. 
+
+Betrachten Sie es als eine Möglichkeit, den Motor Ihres Unterbewusstseins anzukurbeln, damit es mehr Zeit damit verbringt, auf Ihre Ziele hinzuarbeiten.
+
+[The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

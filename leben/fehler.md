@@ -304,5 +304,33 @@ Zwanzigtausend Mal auf dem Hintern zu landen, ist der Grundstein für eine groß
 
 [Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
 
+## Die 7 L’s des Comeback-Codes des Champions
+
+Hier sind die 7 Ls, die Champions verwenden, um den Comeback-Code des Champions zu knacken.
+
+1. LOSLASSEN – den mentalen Klotz loslassen
+2. UNTERSTÜTZUNG SUCHEN – ein Gewinnerteam aufbauen
+3. DAS SPIEL LIEBEN – mit Zielstrebigkeit und Leidenschaft antreten
+4. LERNEN – eine Wachstumsmentalität annehmen
+5. ARBEITEN – weiter hart arbeiten
+6. OPTIMISMUS LERNEN – an Ihre Comeback-Story glauben
+7. AUF IHR MENTALES SPIEL VERLASSEN – das Spiel aus sich selbst heraus gewinnen
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
+## Deine Comeback-Story
+
+Wir treiben Sport für die Geschichten, manche gut, manche schlecht. 
+
+Es gibt keine größere Motivation, als eine gute Geschichte erzählen zu wollen. 
+
+Sie sind jetzt bereit, den ersten Schritt auf Ihrer nächsten Reise zu machen. 
+
+Denken Sie über die Comeback-Geschichte nach, die Sie für den Rest Ihres Lebens erzählen möchten. 
+
+Dann schreiben Sie sie.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
 ## Bücher
 

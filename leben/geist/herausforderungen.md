@@ -927,6 +927,71 @@ Er erfährt seine eigenen Ressourcen direkt und auf intime Weise und erweitert d
 
 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 
+## Pre sagt: „Her damit!“
+
+Am nächsten Tag beschrieb Pre das Rennen in seinem Tagebuch. 
+
+„Es war von Anfang an ein sehr hartes Rennen mit einer Kombination aus großartigen Läufern und einer harten Strecke“, schrieb er. „Ich hatte meine Probleme zu gewinnen. Ich hatte mehrmals das Gefühl, dem Schmerz nachzugeben und Gary gewinnen zu lassen, aber ich konnte es einfach nicht. Ich habe mich einfach immer härter und härter angetrieben, immer länger.“
+
+Dieses offene Geständnis psychischer Verletzlichkeit, Unsicherheit angesichts des Leidens, hätte Steves Legionen von treuen Fans in ganz Amerika, bekannt als „Pre’s People“, überrascht. 
+
+Durch seinen sadomasochistischen Rennstil und seine forschen öffentlichen Kommentare hatte sich Pre den Ruf als härtester Läufer aufgebaut, ein furchtloser Gladiator, dem es leicht fiel, seine Anstrengungen zu meistern. 
+
+„Das einzige gute Renntempo ist ein Selbstmordtempo“, sagte er in typischer Manier vor einem Wettkampf, „und heute sieht es aus wie ein guter Tag zum Sterben.“
+
+Solche großspurigen Erklärungen hatten bei einigen Fans den Eindruck erweckt, dass Pre das Leiden tatsächlich genoss. 
+
+Nichts hätte ferner von der Wahrheit sein können. 
+
+Bei fast jedem Rennen erlebte er Krisenmomente, und manchmal gewann seine schwächere Seite die Oberhand. 
+
+„Ich war nicht konkurrenzfähig“, klagte er nach einem verlorenen Rennen in Europa. „Wir lagen 50 Meter vor dem Ziel Kopf an Kopf, und plötzlich dachte ich: ‚Ach, verdammt, ich will das nicht unbedingt. Es ist mir egal. Nimm es.‘“
+
+Selbst im Training hatte Pre oft Mühe, die mentale Herausforderung intensiver Anstrengungen zu meistern. 
+
+„Manchmal frage ich mich, ob es die Schmerzen wert ist, die ich dafür aufbringen muss, wenn ich mich bis an meine Grenzen treibe“, vertraute er seinem Tagebuch nach einem harten Lauftraining im Oktober 1971 an. „Ich kann nur sagen, dass es besser ist.“
+
+Diese grundlegende Frage – Ist es das wert? – tauchte in Pres Reden und Schriften immer wieder auf. 
+
+Sie verriet eine natürliche Angst und Abneigung vor den unausweichlichen Unannehmlichkeiten eines harten Laufs. 
+
+Und doch brachte sich Pre immer wieder in Situationen, in denen diese Frage zwangsläufig aufkam – denn er fürchtete und verabscheute den Gedanken, von dieser Unannehmlichkeit besiegt zu werden, noch mehr. 
+
+Pres Schwester Linda sagte über ihn: „Er empfindet die gleichen Schmerzen und Ängste wie wir alle.“ 
+
+Was ihn anders machte, fügte sie hinzu, war, dass „er trotz seines Schmerzes und seiner Angst im Wesentlichen sagte: ‚Her damit!‘“
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
+## Champions lernen, Herausforderungen statt Bedrohungen zu sehen
+
+Wie erreichen Sie Ihr Ziel und wie können Sie sich an verschiedene Herausforderungen anpassen und darauf reagieren? 
+
+Rückschläge im Sport und in anderen Lebensbereichen sind völlig normal, denn niemand kann solche Dinge vermeiden. 
+
+Wie Sie mit Rückschlägen – wie Bedrohungen oder Herausforderungen – umgehen, macht den Unterschied. 
+
+„Man kann sich entscheiden, zurück in Richtung Sicherheit zu gehen oder vorwärts in Richtung Wachstum“, schrieb der Psychologe Abraham Maslow. „Wachstum muss immer wieder gewählt werden; Angst muss immer wieder überwunden werden.“
+
+Wir alle möchten das Denken, Fühlen und Handeln wie ein Champion zu einem Teil unseres Alltags machen, denn seien wir ehrlich: Anforderungen und Schwierigkeiten sind Teil aller Aspekte des Lebens. 
+
+Der Schritt vom Anwärter zum Champion bedeutet, aus Ihrer Komfortzone herauszutreten, Ihre innere Stärke und Unterstützer anzurufen und schwierige Situationen als Wachstumschancen und Chancen für ein Comeback zu betrachten.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
+## Lernen, Widrigkeiten zu akzeptieren
+
+Wenn Widrigkeiten auftauchen, haben Sie zwei Möglichkeiten: 
+
+(1) Nichts tun, sich davon überwältigen lassen und Ihren Umständen zum Opfer fallen oder 
+(2) die Herausforderung annehmen und sich den Widrigkeiten stellen, sodass sie Teil Ihrer Erfolgsgeschichte werden. 
+
+Bereiten Sie sich auf diese Momente vor, denn sie werden in allen Bereichen Ihres Lebens auftreten, ob Sie wollen oder nicht. 
+
+Wenn Sie dies verstehen und lernen, Widrigkeiten anzunehmen, können Sie lernen, sie zu überwinden und zu Ihrem Vorteil zu nutzen.
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

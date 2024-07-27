@@ -1109,6 +1109,18 @@ Die Frage ist nicht, wie ich Stress loswerde, sondern wie ich meine Einstellung 
 
 [The Silva Mind Control Method of Mental Dynamics](https://www.goodreads.com/book/show/58365183-the-silva-mind-control-method-of-mental-dynamics)
 
+## Alles zählt
+
+Wenn Sie anfangen zu denken, dass nur Ihre größten und glänzendsten Momente zählen, werden Sie sich die meiste Zeit wie ein Versager fühlen. 
+
+Persönlich möchte ich mich die meiste Zeit lieber gut fühlen, daher zählt für mich alles: die kleinen Momente, die mittleren, die Erfolge, die in die Zeitung kommen, und auch die, von denen niemand außer mir weiß. 
+
+Die Herausforderung besteht darin, sich nicht von den großen, glänzenden Momenten ablenken zu lassen, die anderen Leuten den Kopf verdrehen. 
+
+Sie müssen selbst herausfinden, wie Sie sie genießen und feiern können, und dann weitermachen.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

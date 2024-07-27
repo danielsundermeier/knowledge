@@ -414,6 +414,28 @@ Arbeiten Sie stetig, strategisch und wissen Sie, dass jedes Teil zu einem größ
 
 [The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
 
+## Habe eine Haltung
+
+In der Raumfahrt bezieht sich „Haltung“ auf die Orientierung: in welche Richtung Ihr Fahrzeug im Verhältnis zur Sonne, der Erde und anderen Raumfahrzeugen zeigt. 
+
+Wenn Sie die Kontrolle über Ihre Haltung verlieren, passieren zwei Dinge: Das Fahrzeug beginnt zu taumeln und zu trudeln, was alle an Bord desorientiert, und es kommt auch von seinem Kurs ab, was, wenn Sie wenig Zeit oder Treibstoff haben, den Unterschied zwischen Leben und Tod bedeuten kann. 
+
+In der Sojus beispielsweise nutzen wir jeden Hinweis aus jeder verfügbaren Quelle – Periskop, mehrere Sensoren, den Horizont –, um unsere Haltung ständig zu überwachen und bei Bedarf anzupassen. 
+
+Wir wollen nie die Haltung verlieren, da die Beibehaltung der Haltung grundlegend für den Erfolg ist.
+
+Meiner Erfahrung nach ist etwas Ähnliches auf der Erde der Fall. 
+
+Letztendlich bestimme ich nicht, ob ich das gewünschte berufliche Ziel erreiche. 
+
+Zu viele Variablen liegen außerhalb meiner Kontrolle. 
+
+Es gibt wirklich nur eine Sache, die ich kontrollieren kann: meine Haltung während der Reise, die mir ein stabiles und stabiles Gefühl gibt und mich in die richtige Richtung steuert. 
+
+Daher beobachte ich das Ganze bewusst und korrigiere, wenn nötig, denn die Einstellung zu verlieren wäre weitaus schlimmer, als mein Ziel nicht zu erreichen.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
 ## Bücher
 
 - [Learned Optimism](https://www.goodreads.com/book/show/26123.Learned_Optimism)

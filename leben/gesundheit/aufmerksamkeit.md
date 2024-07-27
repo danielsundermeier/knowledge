@@ -452,6 +452,24 @@ Wenn Ihre Aufmerksamkeit jedoch auf das Hier und Jetzt gerichtet ist, haben die 
 
 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 
+## Selbstbewusstsein und Entscheidungsfreiheit
+
+Dieses Kapitel begann mit der Feststellung, dass die Kunst, ein Leben lang mit der besten Art von Leidenschaft zu leben, stark auf Selbsterkenntnis beruht. 
+
+Wenn Sie sich in den Fängen einer Leidenschaft befinden, lässt Ihre Fähigkeit, darüber hinaus zu blicken, oft nach. 
+
+Infolgedessen verlieren Sie die Macht zu entscheiden, wie Sie Ihre Zeit und Energie verbringen möchten. 
+
+Ihre Leidenschaft kontrolliert Sie, anstatt dass Sie sie kontrollieren. 
+
+Der Schlüssel zum Schutz vor der intensiven Trägheit der Leidenschaft liegt in der Entwicklung von Selbsterkenntnis. 
+
+Ironischerweise besteht der beste Weg dazu darin, Abstand von sich selbst zu gewinnen. 
+
+Regelmäßige Selbstdistanzierung (über eine Situation nachdenken, als ob ein Freund sie erlebt und nicht Sie selbst, oder in der dritten Person denken/Tagebuch führen) und bewusstes Gewinnen von Perspektiven (indem Sie sich Ehrfurcht aussetzen, meditieren oder über die Sterblichkeit nachdenken) sind zwei der effektivsten Möglichkeiten, selbsterkenntnisreich zu bleiben und Ihre Entscheidungsfähigkeit zu bewahren, selbst während Sie einer Leidenschaft nachgehen.
+
+[The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

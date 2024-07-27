@@ -354,6 +354,24 @@ Motivation ist eine Kraft, die uns zum Handeln bewegt und sie entspringt dem Inn
 
 [The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
 
+## Der stärkste Einfluss
+
+Die Frage, die sich jeder Sportler in den entscheidenden Momenten eines Rennens stellt – Wie sehr willst du es? – ist im Grunde eine Frage der Motivation. 
+
+Zahlreiche Faktoren beeinflussen, wie nahe ein Feuerläufer an seine körperlichen Grenzen geht, aber den stärksten Einfluss hat die Motivation. 
+
+Hinter der Frage, wie sehr ein Sportler sein Bestes geben möchte, verbirgt sich eine tiefere Frage: Ist es das wert? 
+
+Die Intensität der Motivation eines Sportlers, seine bestmögliche Leistung zu erzielen, wird weitgehend davon bestimmt, wie viel Wert er darauf legt. 
+
+Sportler erbringen bei Rennen wahrgenommene Höchstleistungen, weil sie eine Belohnung erwarten. 
+
+In den meisten Fällen ist diese Belohnung weder praktischer (z. B. Geld) noch sensorischer (z. B. ein köstliches Festessen), sondern persönlicher Natur. 
+
+Sein Bestes zu geben, hat eine gewisse Bedeutung. Das ist ihr Wert. Und diese Bedeutung ist für jeden Sportler anders.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

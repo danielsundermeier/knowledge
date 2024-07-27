@@ -146,6 +146,22 @@ Aber zu viel Perfektionismus wird Ihren Fortschritt behindern und Ihr Leben ruin
 
 [The Confident Mind](https://www.goodreads.com/book/show/57863475-the-confident-mind)
 
+## Adaptiv und maladaptiv
+
+Psychologen unterscheiden zwei Arten von Perfektionismus: adaptiven und maladaptiven. 
+
+Adaptiver Perfektionismus ist eine nie zufriedene Einstellung, die sich positiv auf die Leistung auswirken kann. 
+
+Maladaptiver Perfektionismus hingegen führt bei Sportlern häufig zu selbstzerstörerischem Verhalten wie Übertraining. 
+
+Diese Art von Perfektionismus ist bekanntermaßen mit geringem Selbstwertgefühl und Unsicherheit verbunden. 
+
+Sportler, die das allgemeine Gefühl haben, nie gut genug zu sein, neigen in ihrem endlosen Streben, ihren Wert zu beweisen, dazu, zu übertrainieren. 
+
+Selbstbewusste Sportler sind in der Regel viel besser in der Lage, ihr Training auf der Grundlage rationaler innerer Beobachtung zu gestalten.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
 ## Bücher
 
 - [Die Gaben der Unvollkommenheit](https://www.goodreads.com/book/show/18874161-die-gaben-der-unvollkommenheit)

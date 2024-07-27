@@ -270,6 +270,18 @@ Laut Forschung dauert es etwa dreißig Tage, bis sich eine neue Gewohnheit etabl
 
 [The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
 
+## Gottes großer Kindergarten
+
+Die Welt ist eine große Universität. 
+
+Von der Wiege bis zur Bahre sind wir immer in Gottes großem Kindergarten, wo alles versucht, uns seine Lektion zu erteilen, uns sein großes Geheimnis zu verraten. 
+
+Manche Menschen sind immer in der Schule und sammeln immer wertvolle Wissenshäppchen. 
+
+Alles hat eine Lektion für sie. Es hängt alles vom Auge ab, das sehen kann, vom Geist, der es sich aneignen kann.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)

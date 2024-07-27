@@ -415,3 +415,8 @@ Je mehr Sie diese „Werde-nicht“-Kraft entwickeln, wenn die Versuchung aufkom
 
 - [Willpower](https://www.goodreads.com/book/show/11104933-willpower)
 - [The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+## Videos
+
+- [How to Build Willpower | David Goggins & Dr. Andrew Huberman](https://www.youtube.com/watch?v=84dYijIpWjQ)
+- [How to Increase Your Willpower & Tenacity](https://www.hubermanlab.com/episode/how-to-increase-your-willpower-and-tenacity)

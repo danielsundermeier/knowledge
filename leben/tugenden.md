@@ -254,6 +254,20 @@ Wenn Sie das Erste als Ausdruck der Tugend und das Zweite als Ausdruck des Laste
 
 [Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
 
+## Unser Potenzial wecken
+
+In einer Maximite-Torpedogranate steckt genug latente Kraft, um ein Kriegsschiff in Stücke zu reißen. 
+
+Aber die Kraft oder Sprengkraft einer dieser furchtbaren Zerstörungsmaschinen ließe sich durch eine gewöhnliche Erschütterung niemals feststellen.
+
+Kinder könnten jahrelang damit spielen, darauf herumschlagen, es herumrollen und alles Mögliche damit anstellen; die Granate könnte durch die Wände eines gewöhnlichen Gebäudes geschossen werden, ohne ihre schreckliche dynamische Energie zu wecken. 
+
+Sie muss mit enormer Kraft aus einer Kanone durch etwa 30 cm dicke Stahlplattenpanzerung abgefeuert werden, bevor sie auf einen Widerstand trifft, der groß genug ist, um ihre gewaltige Sprengkraft zu wecken.
+
+Jeder Mensch kennt seine größte Stärke, seine gewaltigste Macht nicht, bis sie durch eine große Verantwortung, einen kritischen Notfall oder eine äußerste Krise in seinem Leben auf die Probe gestellt wird.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

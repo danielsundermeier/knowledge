@@ -1021,6 +1021,219 @@ Wir alle gehen davon aus, dass es immer in unserem besten Interesse ist, größe
 
 [David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
 
+## Die Beatles und ihre 1.200 Konzerte
+
+Schließlich reisten die Beatles zwischen 1960 und Ende 1962 fünfmal nach Hamburg. 
+
+Beim ersten Trip spielten sie 106 Abende, jeweils fünf oder mehr Stunden pro Abend. 
+
+Beim zweiten Trip spielten sie 92 Mal. 
+
+Beim dritten Trip spielten sie 48 Mal und standen insgesamt 172 Stunden auf der Bühne. 
+
+Die letzten beiden Auftritte in Hamburg im November und Dezember 1962 umfassten weitere 90 Stunden Bühnenauftritte. 
+
+Insgesamt traten sie in etwas mehr als eineinhalb Jahren 270 Abende auf. 
+
+Bis zu ihrem ersten großen Erfolg im Jahr 1964 hatten sie schätzungsweise zwölfhundert Live-Auftritte absolviert. 
+
+Wissen Sie, wie außergewöhnlich das ist? 
+
+Die meisten Bands von heute treten in ihrer gesamten Karriere nicht zwölfhundert Mal auf. 
+
+Die Feuerprobe in Hamburg ist eines der Dinge, die die Beatles von anderen abheben.
+
+„Als sie dorthin gingen, waren sie auf der Bühne nicht gut, aber als sie zurückkamen, waren sie sehr gut“, fuhr Norman fort. „Sie lernten nicht nur Ausdauer. Sie mussten eine enorme Menge an Nummern lernen – Coverversionen von allem, was man sich vorstellen kann, nicht nur Rock and Roll, auch ein bisschen Jazz. Davor waren sie auf der Bühne überhaupt nicht diszipliniert. Aber als sie zurückkamen, klangen sie wie niemand sonst. Das war ihr Durchbruch.“
+
+[Outliers](https://www.goodreads.com/book/show/3228917-outliers)
+
+## Bill Gates schleicht sich aus dem Bett, um zu programmieren
+
+„Es war meine Obsession“, sagt Gates über seine ersten Jahre auf der High School. „Ich habe den Sport geschwänzt. Ich bin abends hingegangen. Am Wochenende haben wir programmiert. Es kam selten vor, dass wir nicht zwanzig oder dreißig Stunden pro Woche trainierten. Es gab eine Zeit, in der Paul Allen und ich Ärger bekamen, weil wir ein paar Passwörter geklaut und das System zum Absturz gebracht hatten. Wir wurden rausgeschmissen. Ich konnte den ganzen Sommer nicht an den Computer. Das war, als ich fünfzehn und sechzehn war. Dann fand ich heraus, dass Paul einen Computer gefunden hatte, der an der University of Washington frei war. Sie hatten diese Maschinen im medizinischen Zentrum und in der Physikabteilung. Sie hatten einen 24-Stunden-Plan, aber mit dieser großen Leerlaufzeit, sodass zwischen drei und sechs Uhr morgens nie etwas angesetzt war.“ 
+
+Gates lachte. „Ich bin abends losgefahren, nach meiner Schlafenszeit. Ich konnte von zu Hause zur University of Washington laufen. Oder ich nahm den Bus. Aus diesem Grund bin ich der University of Washington gegenüber immer so großzügig, weil sie mir erlaubt haben, so viel Computerzeit zu stehlen.“ 
+
+(Jahre später sagte Gates‘ Mutter: „Wir haben uns immer gewundert, warum es ihm so schwer fiel, morgens aufzustehen.“)
+
+Wir tun so, als sei Erfolg ausschließlich eine Frage individueller Leistung. 
+
+Doch in keiner der Geschichten, die wir bisher untersucht haben, findet sich ein Hinweis darauf, dass die Dinge so einfach sind. 
+
+Vielmehr sind es Geschichten von Menschen, die eine besondere Chance erhielten, wirklich hart zu arbeiten, und diese Chance ergriffen, und die zufällig zu einer Zeit erwachsen wurden, als diese außergewöhnliche Anstrengung vom Rest der Gesellschaft belohnt wurde. 
+
+Ihr Erfolg war nicht nur ihr eigenes Werk. Er war ein Produkt der Welt, in der sie aufwuchsen.
+
+[Outliers](https://www.goodreads.com/book/show/3228917-outliers)
+
+## Beenden Sie stark!
+
+Die Lektion für mich war, dass das Allerletzte, was man auf einer Mission tut, genauso wichtig ist wie das Erste, das man getan hat – vielleicht sogar noch wichtiger, weil man jetzt müde ist. 
+
+Es ist wie die letzte Meile eines Marathons: Die Anstrengung muss bewusster erfolgen und man muss sich selbst hart antreiben, um bis zum Ende durchzuhalten. 
+
+Es ist verlockend, sich zu sagen: „Ich habe nur noch 20 Schritte vor mir“, aber wenn man schon auf die Ziellinie wartet, ist die Wahrscheinlichkeit groß, dass man nachlässt und dann Fehler macht – Fehler, die in meinem Beruf tödlich sein könnten.
+
+Es ist gefährlich, den Abstieg als Antiklimax zu betrachten. 
+
+Anstatt sehnsüchtig über die Schulter auf das zurückzublicken, was man hinter sich lässt, sollte man sich fragen: „Was ist das Nächste, das mich töten könnte?“
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
+## Der Publikumseffekt
+
+Psychologen haben einen Namen für dieses Phänomen: den Publikumseffekt. 
+
+Das Online-Psychologiewörterbuch definiert es als „den Einfluss der Anwesenheit anderer Menschen auf das Verhalten einer Person“. 
+
+Psychologen glauben, dass der Publikumseffekt durch ein sogenanntes Soziometer vermittelt wird, einen Mechanismus, an dem mehrere Regionen des Gehirns beteiligt sind, darunter die vordere Inselrinde und der untere Gyrus. 
+
+Durch diesen Mechanismus bemerken und interpretieren Menschen die Aufmerksamkeit der Menschen um sie herum und verwenden diese Eingabe, um ihr Verhalten auf eine Weise anzupassen, die ihnen wahrscheinlich mehr positive Aufmerksamkeit einbringt.
+
+Im Wesentlichen bringt der Publikumseffekt Menschen dazu, höhere Ansprüche an sich selbst zu stellen. 
+
+Betrachten wir eine Studie aus dem Jahr 2011, die von Psychologen der Newcastle University durchgeführt und in Evolution and Human Behavior veröffentlicht wurde. 
+
+Sie ergab, dass College-Studenten eher dazu neigten, in einer Cafeteria ihren Hintern aufzuräumen, wenn Poster mit menschlichen Augen auffällig an den Wänden hingen. 
+
+Der Publikumseffekt erhöht die Ansprüche der Menschen nicht nur an moralisches Verhalten, sondern auch an jede Art von Aufgabenerfüllung, die beurteilt werden könnte. 
+
+Wir Menschen möchten als „gut in“ allem angesehen werden, was wir in Gegenwart anderer tun.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
+## Übertreffen Sie Ihren Vertrag?
+
+Kompromissloses Training und ständiger Einsatz im Wettkampf sind entscheidend, um sportliche Ziele zu erreichen. 
+
+J.J. Watt ist ein NFL All-Pro Defensive End für die Houston Texans. 
+
+Seine Bereitschaft, die für Spitzenleistungen erforderlichen zusätzlichen Anstrengungen auf sich zu nehmen, ist einer der Hauptgründe für seinen Erfolg. 
+
+Watt sagt Folgendes über harte Arbeit und eine gute Selbstdarstellung: „Ich denke, egal, welchen Job man macht – es ist mir egal, welcher Job es ist – man möchte mehr leisten, als man vertraglich vereinbart ist. Ich finde, so sollte zumindest jeder seinen Job angehen. Man sollte wollen, dass die Leute denken, man sei unterbezahlt, weil man so hart arbeitet, weil man seinen Job so gut macht, weil man seine Arbeit so gut macht.“
+
+Nehmen Sie sich einen Moment Zeit für ehrliche Selbstreflexion. 
+
+Übertreffen Sie Ihre vertraglich vereinbarte Leistung? 
+
+Gehen Sie täglich hart an Ihren Job heran? 
+
+Wie sieht es mit Ihrem Sport aus? 
+
+Sind Sie einer der fleißigsten Arbeiter in Ihrem Team? 
+
+Geben Sie 100 Prozent maximale Anstrengung für Ihre Ziele und gehen Sie mit Leidenschaft an die Arbeit. 
+
+Seien Sie bereit, die Arbeit eines einfachen Mannes zu leisten, anstatt sich zu wünschen, Sie hätten mehr Talent, damit Ihnen alles leicht von der Hand geht. 
+
+Das wird es nie. Die Großen lassen es einfach aussehen, aber erst, nachdem sie Zeit und Arbeit investiert haben.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
+## Wahre Größe liegt in dir
+
+Größe, wie ich von Leuten wie Shawn gelernt habe, ist „nicht nur, eine Goldmedaille auf dem Siegerpodest in den Händen zu halten“. 
+
+Es geht darum, Menschen zu inspirieren, eine Botschaft zu teilen, an die Wahrheit dieses Klischees zu glauben: dass es um den Weg geht, nicht um das Ziel, einen vermeintlichen Schatz oder einen Moment der Bewunderung. 
+
+Tatsächlich gibt es Millionen Möglichkeiten, großartig zu sein, und Millionen weiterer Dinge, in denen man großartig sein kann. 
+
+Die meisten davon sind nicht mit einer Medaille oder einem riesigen Scheck verbunden. 
+
+Betrachten Sie diese Liste:
+
+- Eltern sein
+- ein Fürsprecher sein
+- Künstler sein
+- Gesund sein
+- Großzügig sein
+- Ein Unternehmer sein
+- Eine Führungspersönlichkeit sein
+- Dienen
+- Ein Veränderer sein
+
+All dies sind großartige Träume, bei denen Größe ein würdiges und erreichbares Ziel ist. 
+
+Diejenigen, die in einem dieser Träume großartig geworden sind – unabhängig von Plaketten an ihren Wänden oder Trophäen auf ihrem Kaminsims – sind die Menschen, von denen wir alle lernen können.
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
+## Die acht Schwerpunktbereiche
+
+Shawn drückte es so aus: „Größe bedeutet, stolz auf sich selbst zu sein, mit sich selbst zufrieden zu sein, zu wissen, dass man für etwas gearbeitet hat und nichts Besseres hätte tun können. Das ist Größe an sich.“ Es geht darum, den Charakter und die Gewohnheiten zu kultivieren, die nicht nur zum Erfolg führen, sondern einem auch helfen, jede Herausforderung oder Widrigkeit zu überwinden. Es geht darum, sich aus den Tiefen der Verzweiflung zu erheben und Achtsamkeit, Freude und Liebe zu nutzen, um seine Träume zu verwirklichen. Es ist ein Fortschritt durch eine Reihe von Lektionen – acht Schwerpunktbereiche und kontinuierliche Verbesserung:
+
+1. Entwickeln Sie eine Vision.
+2. Machen Sie Widrigkeiten zu einem Vorteil.
+3. Entwickeln Sie die Denkweise eines Champions.
+4. Entwickeln Sie Tatkraft.
+5. Beherrschen Sie Ihren Körper.
+6. Üben Sie positive Gewohnheiten.
+7. Bauen Sie ein Gewinnerteam auf.
+8. Helfen Sie anderen.
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
+## Weltkrieg 0
+
+Warum sollte in der heutigen Welt irgendjemand den inneren Krieger entfesseln wollen?
+
+Wir wollen den Krieg beenden, aber um den Krieg zu beenden, müssen wir den Krieg verstehen. 
+
+Und der Ausgangspunkt für jeden Krieg liegt in jedem von uns.
+
+Wahre Krieger verstehen das; deshalb brauchen wir mehr Krieger. 
+
+Ein Krieger zu sein, bedeutet nicht, zu kämpfen. 
+
+Es geht um die Fähigkeit, den Mut und die Hingabe, den Krieg in sich selbst zu beenden und nicht aufzugeben, bis die Arbeit getan ist. 
+
+Ob es darum geht, den Krieg in Ihrem Zuhause, Ihren Beziehungen, Ihrer Nachbarschaft, Ihrem Geschäft, Ihrem Land oder Ihrer Welt zu beenden, Krieger verstehen, dass sie in sich selbst beginnen und nach außen aufbauen müssen. 
+
+Sie wissen, dass sie den größten Unterschied in ihrer Welt machen können, indem sie den Krieg in sich selbst meistern.
+
+Ein Krieger zu sein bedeutet nicht, zu kämpfen. 
+
+Es geht darum, so gut auf eine Herausforderung vorbereitet zu sein und so fest an die Sache zu glauben, für die man kämpft, dass man sich weigert aufzugeben.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
+## Nicht tot, kann nicht aufhören
+
+Man weiß, wann die Hölle kommt. Man denkt daran. Man sieht, wie die Woche immer näher rückt, und der Tag immer näher. 
+
+Die Angst wächst, die Zweifel wachsen, die Furcht wächst. Die Höllenwoche dauert sechs Tage und fünf Nächte, aber wenn man mittendrin steckt, fühlt es sich an wie der Rest des Lebens.
+
+Trotzdem muss man da durch, wenn man ein Navy SEAL werden will. 
+
+Ich wollte mehr als alles andere Teil der führenden Spezialeinheit des US-Militärs sein, vielleicht sogar der Welt. 
+
+Was ich durch diese Erfahrung und die darauffolgende zehnjährige Karriere als SEAL gelernt habe, ist Folgendes: Wenn man etwas wirklich will, hat man die Macht, es zu verwirklichen – egal, was andere sagen, egal, wie gering die Chancen zunächst erscheinen. 
+
+Ich erzähle Ihnen das nicht, damit Sie sich gut fühlen. 
+
+Ich erzähle Ihnen das nicht, weil es nett klingt. 
+
+Ich erzähle Ihnen das, weil ich weiß, dass es wahr ist. Ich habe es erlebt. Und Sie können das auch.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
+## Streben Sie 80 % an
+
+Man hört oft den Ausdruck „alles geben“ oder „110 Prozent Einsatz zeigen“. 
+
+Ich glaube nicht an diese Denkweise. 
+
+Man kann nicht 110 Prozent in irgendetwas stecken, weil das gegen die Gesetze der Physik verstößt. 
+
+Man hat nur 100 Prozent und ich glaube, je näher man an 100 Prozent herankommt, desto näher ist man daran, seinen Körper abzuschalten. 
+
+Man kann sein Auto ein paar Sekunden lang mit Höchstgeschwindigkeit fahren, aber danach fängt es an zu wackeln und fällt schließlich auseinander.
+
+Die effektivere Denkweise besteht darin, sich zum Ziel zu setzen, alle seine Fähigkeiten auf 80 Prozent seines Maximums zu bringen, egal, was man tut. 
+
+An diesem Punkt ist man in der Lage, zu denken und seinen Körper zu nutzen, um in Balance und Harmonie zu bleiben, zu fließen, anstatt zu zwingen.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

@@ -196,6 +196,38 @@ Die Deutschen wären besser dran gewesen, wenn sie London überhaupt nicht bomba
 
 [David and Goliath](https://www.goodreads.com/book/show/15751404-david-and-goliath)
 
+## Hast du den Mut?
+
+Wenn Sie entschieden haben, dass ein bestimmtes Ziel absolut entscheidend für Ihr Leben und Ihr Glück ist, müssen Sie es zu Ihrer Mission machen, es zu erreichen. 
+
+Diese Mission muss der zentrale Fokus Ihrer Zeit und Energie werden. 
+
+Wenn Sie diese Mission einmal erklärt und verfolgt haben, werden Sie mehrere kleinere Ziele entdecken, die Sie auf dem Weg überwinden müssen, um Ihre Mission zu erfüllen. 
+
+Nachdem Sie Ihre Mission erklärt haben, gibt es nur noch eine Sache, die Sie unbedingt verstehen müssen, um Ihre Mission in Gang zu bringen. 
+
+Als ich BUD/S durchlief, wurde uns gesagt, dass es nur ein Geheimnis gibt, um die Ausbildung zu bestehen. 
+
+Es war nichts, was wir in einen Rucksack packen oder lernen konnten. Es war Mut. Alles, was Sie brauchen, ist Mut.
+
+Bauchgefühl:
+
+- ind Sie bereit, eine Entscheidung zu treffen?
+- Haben Sie den Mut, anzufangen?
+- Können Sie sich dazu verpflichten, zu Ende zu gehen?
+
+Viele Menschen treffen eine Entscheidung. 
+
+Nur wenige Menschen haben den Mut, anzufangen. 
+
+Nur wenige Menschen haben die Verpflichtung, zu Ende zu gehen. 
+
+Die Menschen, die das tun, sind diejenigen, die den Mumm haben, die Verluste auf dem Weg zu ertragen, um am Ende den Sieg zu erringen. 
+
+Erst wenn Sie ein Ziel zu einer Frage von Leben und Tod machen, leben Sie am Ende.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
 ## Bücher
 
 - [The Courage Quotient](https://www.goodreads.com/book/show/13720625-the-courage-quotient)

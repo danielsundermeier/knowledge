@@ -149,6 +149,33 @@ Sie möchten Ihre Gaben in die richtige Umgebung bringen, eine Umgebung, in der 
 
 [Driven](https://www.goodreads.com/book/show/35580095-driven)
 
+## Die M&Ms der perfekten Tage
+
+In dieser Übung besteht Ihre Aufgabe darin, zu skizzieren, wie Ihr perfekter Tag auf dem Weg zur Verwirklichung Ihrer Vision aussieht. 
+
+Diese Übung besteht aus zwei Teilen: dem Makro- und dem Mikroteil. 
+
+Zuerst kommt der Makroteil, in dem Sie herausfinden, wie Ihr perfekter Tag auf einer allgemeinen Ebene aussehen würde. 
+
+Nicht jeder Tag wird genau gleich sein. 
+
+Jeder Tag wird ein wenig anders aussehen, je nachdem, was am Tag zuvor passiert ist. 
+
+Er sollte ein wenig anders aussehen, sonst würde das Leben langweilig und eintönig werden. 
+
+Dennoch sollten Sie eine grobe Vorstellung davon haben, wie sich jeder perfekte Tag anfühlen wird. 
+
+Dies beginnt mit einer Reihe von Fragen.
+
+- Wie soll jeder Tag aussehen?
+- Wie möchte ich mich an jedem einzelnen Tag fühlen?
+- Was erschaffe ich täglich?
+- Mit wem verbringe ich Zeit?
+- Welchen Orten stelle ich mich aus?
+- Welche Leidenschaften gehe ich aus?
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

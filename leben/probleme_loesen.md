@@ -149,6 +149,32 @@ Sie können oft scheitern, solange Sie aus diesen Fehlern lernen und am Ende ein
 
 [The Achievement Habit](https://www.goodreads.com/book/show/23462640-the-achievement-habit)
 
+## Machen Sie sich über Kleinigkeiten Gedanken
+
+Als wir später darüber sprachen, was schiefgelaufen war, vermuteten wir alle die Tropfen aus meinem Wasserbeutel – vielleicht vermischten sie sich mit einem Schweißtropfen, etwas aus meinem Haar oder etwas aus dem Anzug selbst. 
+
+Wir gingen mit der Missionskontrolle alle Möglichkeiten durch, als CAPCOM fragte: „Chris, hast du daran gedacht, deine Sachen gegen Beschlagen zu schützen?“ 
+
+Natürlich hatte ich das. 
+
+Am Abend zuvor hatte ich das Visier des Anzugs poliert, damit es nicht wie eine Skimaske beschlägt. 
+
+„Nun, wir denken, du hast es nicht perfekt gemacht. Wahrscheinlich hast du es nicht vollständig entfernt.“ 
+
+Anscheinend besteht die Lösung im Wesentlichen aus Geschirrspülmittel; wenn man es mit ein paar Tropfen Wasser vermischt, ist es, als hätte man sich Seife direkt ins Auge gespritzt. 
+
+Meine erste Reaktion auf diese Neuigkeit war: „Wirklich? Wir verwenden Spülmittel?“ „No More Tears Babyshampoo war keine Option?“
+
+Aber meine zweite Antwort war: „Das nächste Mal werde ich noch detailorientierter sein.“ 
+
+Ein Weltraumspaziergang mit einem mehrere Millionen Dollar teuren Ausrüstungsgegenstand, der für den Bau der ISS absolut unerlässlich war – und ist –, wurde durch einen mikroskopisch kleinen Tropfen Reinigungslösung gefährdet.
+
+Deshalb lohnt es sich, sich um Kleinigkeiten zu kümmern. 
+
+Und selbst in meinem Beruf geht es nur um Kleinigkeiten.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

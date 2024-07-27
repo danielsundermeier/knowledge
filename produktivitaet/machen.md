@@ -1032,6 +1032,50 @@ Aber das war es nicht, oder? Das war es, was ihre Erfolgsstrategie möglich mach
 
 [The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
 
+## Der Colonel sagt!
+
+Meine Kinder amüsieren sich unendlich über das, was sie als meine Ernsthaftigkeit empfinden. 
+
+Seit Jahren spielen sie ein Spiel namens „Der Colonel sagt“, bei dem sie Aussprüche von mir nachplappern, die sie besonders lustig finden. 
+
+Der persönliche Favorit meines Sohnes Evan, den ich ihm unter dem Familienauto, das ich gerade reparieren wollte, entgegenbrüllte: „Niemand hat jemals etwas Großes im Sitzen erreicht.“ 
+
+Kürzlich haben sie darüber gescherzt, eine „Colonel sagt“-App zu entwickeln, die für jede Situation passende Sprüche ausspuckt. 
+
+Das ist eine großartige Idee, obwohl ich denke, dass man nur einen bräuchte: „Sei bereit. Arbeite. Hart. Genieße es!“ Das passt zu jeder Situation.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
+## Wünsche bauen kein Haus
+
+„Wenn sich doch nur alles ändern würde!“, schreien Sie. 
+
+Was ändert die Dinge? Wünschen oder Hektik? Träumen oder Arbeiten? 
+
+Können Sie erwarten, dass sich etwas ändert, wenn Sie sich nur hinsetzen und wünschen, dass es sich ändert? 
+
+Wie lange würden Sie brauchen, um ein Haus zu bauen, das auf dem Fundament steht und sich wünscht, dass es hochgeht? 
+
+Wünsche sind nutzlos, wenn sie nicht von Anstrengung, Entschlossenheit und Biss getragen werden.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
+## Die Hustle-Muskeln trainieren
+
+Chris hat etwas angesprochen, das der 18-fache Olympiasieger Michael Phelps meiner Meinung nach am besten beschrieben hat, als er über sein Schwimmtraining sprach: „Wenn du der Beste sein willst, musst du Dinge tun, die andere nicht tun wollen.“
+
+Er war bereit, alles zu tun, was nötig war: „Man muss Chancen nachjagen, egal ob man Unternehmer oder Künstler ist – das gilt besonders für mich, weil ich so viel verlorene Zeit nachholen musste.“
+
+Die Ironie ist, dass wir alle verlorene Zeit nachholen. 
+
+Das ist die Essenz des Trubels beim Streben nach Größe – alles zu tun, was nötig ist, und Chancen mit großer Dringlichkeit nachzujagen – als ob das eigene Leben davon abhinge. 
+
+Denn das tut es. 
+
+Größe ist eigentlich das Überleben Ihrer Vision über einen längeren Zeitraum hinweg, basierend auf Ihrer Bereitschaft, angesichts von Widrigkeiten alles zu tun, was nötig ist, und die Einstellung zu entwickeln, Chancen zu ergreifen, wo immer sie sich bieten.
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

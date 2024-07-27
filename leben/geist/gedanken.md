@@ -561,6 +561,22 @@ Das Ziel des Inneren Spiels ist es, die Häufigkeit und Dauer dieser Momente zu 
 
 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 
+## Die 3 P’s für mentale Höchstleistungen
+
+Unsere Gedanken schweifen von Natur aus ab oder driften ab; wir sind nur Menschen. 
+
+Mentales Training ermöglicht es uns, dies zu bemerken, bevor es zu spät ist, und gibt uns die Werkzeuge an die Hand, um unsere Konzentration wieder auf die anstehende Aufgabe zu lenken. 
+
+Mit genügend Training und Disziplin entwickeln Sie die Entschlossenheit, sich auf die Herausforderungen des Augenblicks zu konzentrieren. 
+
+Halten Sie sich an die 3 Ps.
+
+- Konzentrieren Sie sich auf die Gegenwart – was in diesem Spiel, in diesem Moment passiert.
+- Konzentrieren Sie sich auf das Positive – was Sie gut machen, Ihre Stärken.
+- Konzentrieren Sie sich auf den Prozess – was Sie tun müssen, um erfolgreich zu sein.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

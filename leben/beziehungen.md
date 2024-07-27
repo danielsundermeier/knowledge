@@ -480,6 +480,22 @@ Träumen Sie groß und TUN SIE ES!
 
 [Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
 
+## Zeitblöcke für tiefe Liebe
+
+Wenn man, wie ich, großartige Unterstützung hat, kann man anfangen, sie als selbstverständlich hinzunehmen oder egoistisch zu werden und einfach zu erwarten, dass die eigenen Bedürfnisse Vorrang haben. 
+
+Dem versuche ich vorzubeugen, indem ich dafür sorge, dass Helene diejenige ist, die die Agenda bestimmt, wenn ich in meinem Zeitplan Spielraum habe, ob ich nun dabei bin oder nicht. 
+
+Ich lege auch Wert darauf, aktiv nach Möglichkeiten zu suchen, Zeit miteinander zu verbringen. 
+
+Sonntagmorgens zum Beispiel versuchen Helene und ich, egal, was sonst los ist, mit den Hunden spazieren zu gehen, dann Kaffee zu trinken und gemeinsam das Kreuzworträtsel der New York Times zu lösen. 
+
+Wenn ich der Zeit mit der Familie Priorität einräume – sie zur Pflicht mache, so wie ein Meeting bei der Arbeit Pflicht ist –, hilft mir das, den Menschen, die mir am wichtigsten sind, zu zeigen, dass sie mir tatsächlich am wichtigsten sind.
+
+Und es ist für mich auch nicht gerade unangenehm.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
 ## Links
 
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)

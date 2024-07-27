@@ -734,6 +734,32 @@ Betrachten Sie es als eine Möglichkeit, den Motor Ihres Unterbewusstseins anzuk
 
 [The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
 
+## Selbstverachtung ist ein Verbrechen
+
+Das große Problem vieler von uns ist, dass wir nicht genug an uns glauben. 
+
+Wir erkennen unsere Macht nicht. 
+
+Der Mensch wurde geschaffen, um seinen Kopf hochzuhalten und sich wie ein Eroberer zu verhalten, nicht wie ein Sklave – als Erfolg, nicht als Versager –, um sein von Gott gegebenes Geburtsrecht geltend zu machen. 
+
+Selbstverachtung ist ein Verbrechen.
+
+Wenn Sie überlegen sein wollen, müssen Sie den Gedanken der Überlegenheit ständig im Kopf haben.
+
+Stellen Sie sicher, dass Ihr Erfolg nie höher steigen wird als Ihr Selbstvertrauen. 
+
+Der größte Künstler der Welt könnte nicht das Gesicht einer Madonna malen, wenn er ein Modell der Verderbtheit im Kopf hätte. 
+
+Sie können nicht erfolgreich sein, wenn Sie an sich selbst zweifeln oder an Misserfolg denken. 
+
+Halten Sie an Erfolgsgedanken fest. 
+
+Füllen Sie Ihren Geist mit fröhlichen, optimistischen Bildern – Bildern des Erfolgs. 
+
+Dies wird die Gespenster des Zweifels und der Angst zerstreuen und eine Kraft durch Sie senden, die Sie in einen Leistungsträger verwandeln wird.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

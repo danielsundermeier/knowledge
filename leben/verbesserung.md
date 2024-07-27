@@ -1509,6 +1509,22 @@ Die meisten Analysten führen Toyotas Erfolg auf die Kaizen-Strategie zurück, w
 
 [The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
 
+## Üben Sie, bis Sie nichts mehr falsch machen können
+
+Denken Sie daran: Sie tun nichts, bis Sie es richtig machen, sondern bis Sie es nicht mehr falsch machen können. 
+
+Bauen Sie ein solides Gedächtnis für Ihr Gehirn und Ihre Muskeln auf! 
+
+Üben Sie nicht einfach eine Bewegung oder Technik und hören Sie auf, wenn Sie sie nach mehreren Versuchen einmal richtig machen. 
+
+Wenn Sie etwas richtig machen, üben Sie stattdessen, bis Sie es konstant richtig machen können. 
+
+Durch kontinuierliches Üben werden die richtige Technik und Form zur zweiten Natur. 
+
+Das sollte Ihr Ziel für jede einzelne Technik sein. Anstrengung wird mühelos.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)
@@ -1519,4 +1535,4 @@ Die meisten Analysten führen Toyotas Erfolg auf die Kaizen-Strategie zurück, w
 - [Life's an RPG And You Messed Up Your Build](https://www.youtube.com/watch?v=JgkYRyqloVA)
 - [Becoming a magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 - [The Counterintuitive Way to Create Change in Your Life](https://zenhabits.net/counter/)
-
+- [The Self-Help Paradox](https://edwardsays.substack.com/p/the-self-help-paradox)

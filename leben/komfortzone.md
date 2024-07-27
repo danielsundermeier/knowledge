@@ -194,6 +194,28 @@ Die Lernzone zu identifizieren, was nicht einfach ist, und sich dann zu zwingen,
 
 [Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
 
+## Die Psychologie des Schmerzes: Sich wappnen
+
+Die Forschung zur Psychologie des Schmerzes hat ähnliche Ergebnisse hervorgebracht. 
+
+In einer Reihe von Studien wurden die Auswirkungen zweier gegensätzlicher antizipatorischer Einstellungen – Akzeptanz und Unterdrückung – auf die Schmerzwahrnehmung verglichen. 
+
+Manche Menschen neigen von Natur aus dazu, der Wiederholung eines bekannten Schmerzreizes mit Akzeptanz entgegenzusehen. 
+
+Sie sagen sich: „Das wird wehtun, aber nicht schlimmer als vorher.“ 
+
+Andere Menschen versuchen, mit derselben Situation durch Unterdrückung, eine Form der Verleugnung, fertig zu werden. 
+
+Sie sagen sich im Grunde: „Ich hoffe wirklich, dass es nicht so weh tut wie beim letzten Mal.“ 
+
+Psychologen haben im Allgemeinen festgestellt, dass Akzeptanz im Vergleich zur Unterdrückung die Unannehmlichkeiten des Schmerzes verringert, ohne den Schmerz selbst zu verringern. 
+
+Aus diesem Grund ist sie eine effektivere Bewältigungsstrategie.
+
+Im allgemeinen Sprachgebrauch wird diese Haltung der Akzeptanz gegenüber einer bevorstehenden unangenehmen Erfahrung als „sich wappnen“ bezeichnet.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
 ## Bücher
 
 - [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)

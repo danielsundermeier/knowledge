@@ -140,6 +140,22 @@ Ihr Herz muss mehr pumpen und härter arbeiten.
 
 [The Wim Hof Method](https://www.goodreads.com/book/show/50403522-the-wim-hof-method)
 
+## Möchten Sie länger leben? Lächeln Sie!
+
+Die positive Psychologie hat uns die Vorteile von Optimismus und Glück gelehrt. 
+
+Eine Studie korrelierte die Lebenserwartung von Major League Baseball-Spielern mit ihrem Lächeln. 
+
+2010 analysierten die Forscher Ernest Abel und Michael Kruger 230 Baseballkarten aus dem Jahr 1952, einer Zeit, als auf den Karten Sportler abgebildet waren, die direkt in die Kamera blickten. 
+
+Die Ergebnisse werden Ihnen Lust zum Lächeln machen.
+
+- Spieler, die nicht lächelten, hatten eine durchschnittliche Lebenserwartung von 72,9 Jahren.
+- Spieler, die teilweise lächelten, hatten eine durchschnittliche Lebenserwartung von 75,0 Jahren.
+- Spieler mit einem vollen Lächeln hatten eine durchschnittliche Lebenserwartung von 79,9 Jahren.
+
+[The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

@@ -435,6 +435,28 @@ Hier sind meine Regeln und die Gründe, warum ich an ihnen festgehalten habe.
 
 [It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
 
+## Was werden Sie mit dem Geschenk Ihres Lebens erschaffen?
+
+Um den Weg eines Kriegers zu wählen, müssen Sie eine unauslöschliche Leidenschaft für das Leben entwickeln. 
+
+Wenn Sie das tun, ist der unglaubliche Wert davon immer in Ihrem Kopf und treibt Ihren Körper an.
+
+Dies wird vor allem den Krieger in jedem von uns entfesseln. 
+
+Es reicht nicht aus, die Prinzipien in diesem Buch zu verstehen, wir müssen sie kontinuierlich anwenden. 
+
+Suchen Sie nicht nach Wegen, dem Leben auszuweichen. 
+
+Ergreifen Sie es, stürzen Sie sich hinein. Tun Sie etwas, was auch immer, aber mischen Sie sich hinein!
+
+Am Ende werden wir alle sterben. Daran führt kein Weg vorbei.
+
+Was werden Sie mit dem Geschenk, das Ihr Leben ist, schaffen?
+
+Mein einziger Wunsch für dieses Buch ist, Ihnen in Demut dabei zu helfen, Ihre Ziele zu erreichen. Vielen Dank fürs Lesen.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

@@ -451,6 +451,46 @@ Jeder der jungen Leistungsträger hatte dieselbe Frage im Kopf, auch wenn sie zu
 
 [It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
 
+## Die Gedanken Gottes lesen
+
+Sie können nie ein großartiger Mann oder eine großartige Frau werden, bis Sie Angst, Sorge und Furcht überwunden haben. 
+
+Für einen ängstlichen, besorgten oder furchtsamen Menschen ist es unmöglich, die Wahrheit zu erkennen. 
+
+Durch solche Geisteszustände werden alle Dinge verzerrt und aus ihrem richtigen Zusammenhang gebracht, und diejenigen, die sich in einem solchen Zustand befinden, können die Gedanken Gottes nicht lesen.
+
+Eile ist eine Manifestation von Angst; wer keine Angst hat, hat viel Zeit. 
+
+Wenn Sie mit vollkommenem Vertrauen in Ihre eigenen Wahrnehmungen der Wahrheit handeln, werden Sie nie zu spät oder zu früh sein; und nichts wird schiefgehen.
+
+So sicher Sie sich in der geistigen Haltung der Eile befinden, so sicher können Sie wissen, dass Sie sich nicht in der geistigen Haltung der Größe befinden. 
+
+Eile und Angst werden Ihre Verbindung mit dem universellen Geist sofort unterbrechen.
+
+[The Science of Being Great](https://www.goodreads.com/book/show/1880165.The_Science_of_Being_Great)
+
+## Den Feind namens Angst besiegen
+
+Der Weg, die Angst zu besiegen, besteht darin, sich in sie hinein und durch sie hindurch zu bewegen. 
+
+Stellen Sie sie sich als einen hauchdünnen, verschleierten Nebel vor und gehen Sie einfach hindurch. 
+
+Es ist wie ein Nebel: Manchmal scheint ein Nebel so dicht wie Stein zu sein. 
+
+Man kann nichts durch ihn hindurch sehen, er scheint einen zu verschlingen. 
+
+Aber wenn Sie weitergehen und einen Fuß vor den anderen setzen, ist er plötzlich verschwunden. 
+
+Plötzlich können Sie alles sehen. 
+
+Manchen meiner Schüler hilft es, sich die Angst als hauchdünnen, verschleierten Nebel vorzustellen. 
+
+Und wenn Sie erst einmal durch diesen hauchdünnen Nebel gegangen sind, ist er auf der anderen Seite klar. 
+
+Ihre Angst liegt hinter Ihnen.
+
+[Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

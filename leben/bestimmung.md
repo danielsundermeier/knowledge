@@ -1083,6 +1083,102 @@ Der Nebeneffekt sind gute Gewohnheiten. Und das Essen schmeckt auch besser.
 
 [The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
 
+## Bedeutung = Autonomie + Komplexität + Verbindung
+
+Diese drei Dinge – Autonomie, Komplexität und eine Verbindung zwischen Anstrengung und Belohnung – sind, da sind sich die meisten Menschen einig, die drei Eigenschaften, die Arbeit haben muss, wenn sie zufriedenstellend sein soll. 
+
+Es ist nicht das Geld, das wir verdienen, das uns zwischen neun und fünf glücklich macht. 
+
+Es ist, ob unsere Arbeit uns erfüllt. 
+
+Wenn ich Ihnen die Wahl ließe, Architekt zu sein und 75.000 Dollar im Jahr zu verdienen oder für den Rest Ihres Lebens jeden Tag für 100.000 Dollar im Jahr an einer Mautstelle zu arbeiten, was würden Sie wählen? 
+
+Ich vermute Ersteres, denn kreative Arbeit ist mit Komplexität, Autonomie und einer Verbindung zwischen Anstrengung und Belohnung verbunden, und das ist den meisten von uns mehr wert als Geld.
+
+Arbeit, die diese Kriterien erfüllt, ist sinnvoll.
+
+Als Louis Borgenicht nach Hause kam, nachdem er die Kinderschürze gesehen hatte, tanzte er einen Jig. 
+
+Er hatte noch nichts verkauft. 
+
+Er war immer noch mittellos und verzweifelt, und er wusste, dass er Jahre harter Arbeit brauchen würde, um aus seiner Idee etwas zu machen. 
+
+Aber er war begeistert, denn die Aussicht auf diese endlosen Jahre harter Arbeit erschien ihm nicht als Last. 
+
+Bill Gates hatte dasselbe Gefühl, als er sich zum ersten Mal in Lakeside ans Keyboard setzte. 
+
+Und die Beatles schreckten nicht vor Entsetzen zurück, als man ihnen sagte, sie müssten acht Stunden pro Nacht spielen, sieben Tage die Woche. 
+
+Sie ergriffen die Chance. 
+
+Harte Arbeit ist nur dann eine Gefängnisstrafe, wenn sie keinen Sinn hat. 
+
+Wenn sie aber einen hat, wird sie zu etwas, das einen dazu bringt, seine Frau um die Taille zu fassen und einen Jig zu tanzen.
+
+[Outliers](https://www.goodreads.com/book/show/3228917-outliers)
+
+## Leidenschaft: Mit Vorsicht behandeln
+
+Mittlerweile zeichnet sich ein umfassenderes Bild von Leidenschaft ab. 
+
+Anfangs implizierte das Wort Leidenschaft – damals noch passio – Leiden. 
+
+Erst in jüngerer Zeit hat es positive Konnotationen angenommen. 
+
+Doch je nach den Umständen sind beide Definitionen noch immer zutreffend. 
+
+Das Gefühl der Leidenschaft stammt sowohl von unseren evolutionären Vorfahren (Natur) als auch von unseren gelebten Erfahrungen (Erziehung). 
+
+Wenn wir uns einer Obsession hingeben, greifen wir tiefsitzende Unsicherheiten an, füllen Lücken aus unserer Vergangenheit und fliehen vor Dingen, mit denen wir uns in unserer Gegenwart vielleicht nicht auseinandersetzen wollen. 
+
+Unsere Biologie und insbesondere ein Neurochemikalium namens Dopamin treibt dieses Streben an. 
+
+Es lässt uns immer wieder zurückkommen und verhindert, dass wir zufrieden werden. 
+
+Manche von uns werden vielleicht mit einem biologischen Profil geboren, das uns anfälliger dafür macht, der Leidenschaft zu verfallen, aber durch häufige Wiederholung einer Aktivität, die wir als bedeutsam erachten, kann jeder süchtig werden.
+
+[The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
+
+## Das „fit-mind-set“
+
+In der kleinen, aber wachsenden Welt der Leidenschaftsforschung wird dies als „fit-mind-set“ der Leidenschaft bezeichnet und weist große Parallelen zum Schicksalsglaubenssystem der Liebe auf. 
+
+Laut der neuesten Forschung haben 78 Prozent der Menschen ein fit-mind-set, d. h. sie glauben, dass Glück daraus erwächst, eine Aktivität oder Arbeit zu finden, für die sie sich sofort begeistern, etwas, das sich von Anfang an intuitiv richtig anfühlt.
+
+Obwohl diese Denkweise am weitesten verbreitet sein mag, ist sie nicht unbedingt die beste. 
+
+Menschen, die ein fit-mind-set der Leidenschaft annehmen, neigen dazu, ihre anfänglichen Gefühle zu überbetonen. 
+
+Sie wählen Beschäftigungen (und insbesondere Berufe) eher auf der Grundlage vorläufiger Einschätzungen und nicht des Wachstumspotenzials aus – obwohl Letzteres im Allgemeinen wichtiger ist als Ersteres für dauerhafte Erfüllung und Zufriedenheit. 
+
+Menschen mit einem fit-mind-set der Leidenschaft geben neue Beschäftigungen auch eher beim ersten Anzeichen einer Enttäuschung auf, zucken mit den Schultern und denken: „Das ist wohl nichts für mich.“ 
+
+Darüber hinaus zeigen Studien, dass Menschen mit einer gesunden Einstellung tatsächlich damit rechnen, dass ihre Leidenschaften mit der Zeit nachlassen, und sich so auf eine Midlife-Crisis einstellen, sobald ihre anfängliche Begeisterung für eine Aktivität nachgelassen hat. 
+
+Wenn man all dies zusammennimmt, ergibt sich eine überzeugende Geschichte: Eine gesunde Einstellung für Leidenschaft ist einengend; sie beschränkt einen von Natur aus auf Aktivitäten, die sich sofort gut anfühlen, und macht einen anfällig für Herausforderungen oder Veränderungen.
+
+[The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
+
+## Obsessive Leidenschaft vs. harmonische Leidenschaft
+
+Hier kommt die harmonische Leidenschaft ins Spiel: ein Gefühl, das entsteht, wenn man sich in etwas vertieft, hauptsächlich aus Freude an der Aktivität, wenn die Beschäftigung nicht nur ein Mittel zum Zweck, sondern vielmehr ein Selbstzweck ist. 
+
+Harmonische Leidenschaft manifestiert sich hauptsächlich bei Aktivitäten, die frei und ohne Zufälligkeiten gewählt werden; wenn man etwas tut, weil es einem Spaß macht, nicht weil es potenzielle Belohnungen bietet und nicht, um negative Auswirkungen zu vermeiden. 
+
+Nicht jeder Moment harmonischer Leidenschaft ist notwendigerweise angenehm, aber insgesamt ist sie zutiefst erfüllend. 
+
+Sie steht in engem Einklang mit dem altgriechischen Begriff der Eudaimonie oder einer Art von Glück, das nicht aus überwältigender Freude resultiert, sondern aus dem Streben, sein volles Potenzial auszuschöpfen, indem man Aktivitäten nachgeht, die man als sinnvoll erachtet. 
+
+In den 1970er Jahren schrieb der verstorbene Psychologe und humanistische Philosoph Erich Fromm über etwas Ähnliches, das er produktive Aktivität nannte, bei der Glück nicht mit dem Erlangen von Besitz oder Belohnungen zusammenhängt, sondern vielmehr mit „dem Prozess der immer stärkeren Lebendigkeit. denn ein erfülltes Leben so zufriedenstellend wie möglich zu führen, ist so befriedigend, dass die Sorge, was man erreichen könnte oder nicht, kaum eine Chance hat, sich zu entwickeln.“ 
+
+Das große Paradox ist jedoch, dass äußerer Erfolg zwar nie das Hauptziel harmonischer Leidenschaft ist, aber wenn man sich aus Freude an der Tätigkeit völlig in das vertieft, was man tut, ist er oft ein Nebenprodukt. 
+
+Diejenigen, die sich am meisten auf den Erfolg konzentrieren, haben die geringste Chance, ihn zu erreichen. 
+
+Diejenigen, die sich am wenigsten auf den Erfolg konzentrieren und sich stattdessen auf den Prozess der Ausübung ihres Handwerks konzentrieren, haben die größte Chance, ihn zu erreichen.
+
+[The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

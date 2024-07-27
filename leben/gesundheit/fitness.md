@@ -266,6 +266,50 @@ So sehr wir es auch verabscheuten, während unserer Ausbildung und unserer Karri
 
 [Be Unstoppable](https://www.goodreads.com/book/show/17819744-be-unstoppable)
 
+## Das psychobiologische Modell
+
+Ein neueres Modell der Ausdauerleistung integriert Körper und Geist über das Gehirn. 
+
+Diese alternative Theorie wurde von ihrem Hauptentwickler Samuele Marcora „psychobiologisches Modell“ genannt. 
+
+Diesem Modell zufolge tritt Erschöpfung bei realen Ausdauerwettkämpfen nicht dann ein, wenn der Körper an harte physikalische Grenzen stößt, wie etwa die vollständige Erschöpfung der Glykogenspeicher, sondern wenn der Sportler das maximale Maß an wahrgenommener Anstrengung erreicht, das er bereit oder in der Lage ist zu ertragen. 
+
+Natürlich gibt es harte physikalische Grenzen, aber kein Sportler erreicht sie jemals, weil er immer zuerst an die rein psychologische Grenze der wahrgenommenen Anstrengungstoleranz stößt. 
+
+Die scheinbar unaufhaltsame Verlangsamung, die bei nahender Erschöpfung eintritt, ist nicht mechanistisch, wie bei einem Auto, dem das Benzin ausgeht, sondern willentlich.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
+## Ein Rennen ist wie ein Lauf übers Feuer
+
+Ein Rennen ist wie ein Lauf übers Feuer. 
+
+Wenn Sie ein Rennen beginnen, stehen Sie vor einem Bett aus glühenden Kohlen, an dessen Ende eine Wand steht. 
+
+Die Wand stellt Ihre absolute körperliche Grenze dar. 
+
+Sie werden sie nie erreichen. 
+
+Ihr Ziel ist es lediglich, so nah wie möglich an die Wand heranzukommen, denn je näher Sie kommen, desto besser ist Ihre Leistung. 
+
+Im Verlauf des Rennens drücken Ihre nackten Füße immer wieder in die glühenden Kohlen. 
+
+Jeder Schritt ist schmerzhafter als der vorherige. (Vergessen Sie nicht: Schmerz ist etwas anderes als wahrgenommene Anstrengung. Dies ist eine Metapher.) 
+
+Irgendwann erreichen Sie die Grenze Ihrer Schmerztoleranz und sind gezwungen, von der glühenden Glut zu springen. 
+
+Der Abstand zwischen diesem Punkt und der Wand ist ein Maß dafür, wie gut Sie im Verhältnis zu Ihrem vollen Potenzial abgeschnitten haben.
+
+Die körperliche Fitness bestimmt, wo die Wand steht, die Ihre körperliche Grenze darstellt. 
+
+Die geistige Fitness bestimmt, wie nah Sie im Wettkampf an diese Grenze herankommen können. 
+
+Mentale Fitness ist eine Kombination aus Bewältigungsstrategien – Verhaltensweisen, Gedanken und Emotionen, die Sportlern helfen, die Unannehmlichkeiten und den Stress des Sports zu bewältigen, vor allem indem sie die Toleranz gegenüber wahrgenommener Anstrengung erhöhen und die wahrgenommene Anstrengung bei einer bestimmten Trainingsintensität verringern. 
+
+Was ich die neue Psychologie des Ausdauersports nenne, zielt darauf ab, die mentale Fitness zu fördern, indem Sportlern geholfen wird, die Herausforderungen, denen sie gegenüberstehen, aus psychobiologischer Sicht zu verstehen, und indem ihnen gezeigt wird, wie sie die Methoden nachahmen können, mit denen die erfolgreichsten Sportler mit diesen Herausforderungen umgehen.
+
+[How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

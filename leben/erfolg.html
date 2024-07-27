@@ -1,0 +1,1745 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+  max-width: 980px;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 45px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable,
+.markdown-body .highlighttable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr,
+.markdown-body .highlighttable {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite,
+.markdown-body .highlighttable pre,
+.markdown-body .highlighttable div.highlight {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td,
+.markdown-body .highlighttable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headerlink {
+  font: normal 400 16px fontawesome-mini;
+  vertical-align: middle;
+  margin-left: -16px;
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0;
+  color: #333;
+}
+
+.markdown-body .headerlink:focus {
+  outline: none;
+}
+
+.markdown-body h1 .headerlink {
+  margin-top: 0.8rem;
+}
+
+.markdown-body h2 .headerlink,
+.markdown-body h3 .headerlink {
+  margin-top: 0.6rem;
+}
+
+.markdown-body h4 .headerlink {
+  margin-top: 0.2rem;
+}
+
+.markdown-body h5 .headerlink,
+.markdown-body h6 .headerlink {
+  margin-top: 0;
+}
+
+.markdown-body .headerlink:hover,
+.markdown-body h1:hover .headerlink,
+.markdown-body h2:hover .headerlink,
+.markdown-body h3:hover .headerlink,
+.markdown-body h4:hover .headerlink,
+.markdown-body h5:hover .headerlink,
+.markdown-body h6:hover .headerlink {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  border-radius: 3px;
+}
+
+.markdown-body code:not(.highlight):not(.codehilite), .markdown-body samp {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight,
+.markdown-body pre {
+  border-radius: 3px;
+}
+
+.markdown-body :not(.highlight) > pre {
+  background-color: #f7f7f7;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* MultiMarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px fontawesome-mini;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\e157';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+.markdown-body diagram-div, .markdown-body div.uml-sequence-diagram, .markdown-body, div.uml-flowchart {
+  overflow: auto;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><style>/*GitHub*/
+.highlight {background-color:#f7f7f7;color:#333333;}
+.highlight .hll {background-color:#ffffcc;}
+.highlight .c{color:#999988;font-style:italic}
+.highlight .err{color:#a61717;background-color:#e3d2d2}
+.highlight .k{font-weight:bold}
+.highlight .o{font-weight:bold}
+.highlight .cm{color:#999988;font-style:italic}
+.highlight .cp{color:#999999;font-weight:bold}
+.highlight .c1{color:#999988;font-style:italic}
+.highlight .cs{color:#999999;font-weight:bold;font-style:italic}
+.highlight .gd{color:#000000;background-color:#ffdddd}
+.highlight .ge{font-style:italic}
+.highlight .gr{color:#aa0000}
+.highlight .gh{color:#999999}
+.highlight .gi{color:#000000;background-color:#ddffdd}
+.highlight .go{color:#888888}
+.highlight .gp{color:#555555}
+.highlight .gs{font-weight:bold}
+.highlight .gu{color:#800080;font-weight:bold}
+.highlight .gt{color:#aa0000}
+.highlight .kc{font-weight:bold}
+.highlight .kd{font-weight:bold}
+.highlight .kn{font-weight:bold}
+.highlight .kp{font-weight:bold}
+.highlight .kr{font-weight:bold}
+.highlight .kt{color:#445588;font-weight:bold}
+.highlight .m{color:#009999}
+.highlight .s{color:#dd1144}
+.highlight .n{color:#333333}
+.highlight .na{color:teal}
+.highlight .nb{color:#0086b3}
+.highlight .nc{color:#445588;font-weight:bold}
+.highlight .no{color:teal}
+.highlight .ni{color:purple}
+.highlight .ne{color:#990000;font-weight:bold}
+.highlight .nf{color:#990000;font-weight:bold}
+.highlight .nn{color:#555555}
+.highlight .nt{color:navy}
+.highlight .nv{color:teal}
+.highlight .ow{font-weight:bold}
+.highlight .w{color:#bbbbbb}
+.highlight .mf{color:#009999}
+.highlight .mh{color:#009999}
+.highlight .mi{color:#009999}
+.highlight .mo{color:#009999}
+.highlight .sb{color:#dd1144}
+.highlight .sc{color:#dd1144}
+.highlight .sd{color:#dd1144}
+.highlight .s2{color:#dd1144}
+.highlight .se{color:#dd1144}
+.highlight .sh{color:#dd1144}
+.highlight .si{color:#dd1144}
+.highlight .sx{color:#dd1144}
+.highlight .sr{color:#009926}
+.highlight .s1{color:#dd1144}
+.highlight .ss{color:#990073}
+.highlight .bp{color:#999999}
+.highlight .vc{color:teal}
+.highlight .vg{color:teal}
+.highlight .vi{color:teal}
+.highlight .il{color:#009999}
+.highlight .gc{color:#999;background-color:#EAF2F5}
+</style><title>erfolg</title></head><body><article class="markdown-body"><h1 id="erfolg">Erfolg<a class="headerlink" href="#erfolg" title="Permanent link"></a></h1>
+<p>Ich glaube, dass jeder alles erreichen kann, wenn man bereit ist die erforderlichen Opfer zu bringen.</p>
+<p>Es ist okay Fehler zu machen, solange ich daraus lerne.</p>
+<p>Es ist wichitig, wie wir Erfolg definieren. Der Gründer der Band Megadeth hat sich nach großen Erfolgen immer noch als Versager gefühlt, weil seine Definition von Erfolg war besser zu sein als die Band aus der er geworfen wurde, Metallica.</p>
+<p>Menschen auf dem Sterbebett beschreiben meist drei Dinge, die wirklich von bedeutung waren:</p>
+<ul>
+<li>Wer sie als Person wurden</li>
+<li>Welchen Einfluss sie auf andere hatten</li>
+<li>Ob sie das Leben führten, von dem sie wussten, dass sie es führen sollten</li>
+</ul>
+<blockquote>
+<p>&ldquo;Our greatest fear in life should not be of failure, but of succeeding at things in life that don’t really matter.&rdquo; - Francis Chan</p>
+</blockquote>
+<p>Jeden Tag gehen Menschen aus der Tür und glauben, dass alles anders wird, wenn sie einfach mehr erreichen, mehr gewinnen oder mehr Geld verdienen können. Aber wenn die Leistung diese Lücke noch nicht gefüllt hat, wie kann sie in Zukunft durch mehr erreicht werden? Wie durstige Menschen, die Salzwasser trinken, wecken Erfolge nur den Wunsch, mehr zu erreichen, und entziehen uns der wahren Zufriedenheit und Erfüllung.</p>
+<blockquote>
+<p>&ldquo;Find your uniqueness and exploit it in the service of others.&rdquo; - Joshua Medcalf</p>
+</blockquote>
+<p>Wir erreichen den Erfolg mit kleinen stetigen Verbesserungen über einen langen Zeitraum. </p>
+<blockquote>
+<p>&ldquo;If we wanted it as bad as we say we do, our lives would look very different because we would make radically different choices every day.&rdquo; - Jamie Gilbert</p>
+</blockquote>
+<h2 id="1-gesundheit">1. Gesundheit<a class="headerlink" href="#1-gesundheit" title="Permanent link"></a></h2>
+<ul>
+<li><a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/gesundheit/schlaf.md">Schlaf</a></li>
+<li><a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/gesundheit/ernaehrung.md">Ernährung</a></li>
+<li><a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/gesundheit/fitness.md">Fitness</a></li>
+</ul>
+<p>-&gt; Energie Ziele zu erreichen</p>
+<h2 id="2-finanzen-aufbauen">2. Finanzen aufbauen<a class="headerlink" href="#2-finanzen-aufbauen" title="Permanent link"></a></h2>
+<ul>
+<li><a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/finanzen/struktur.md">Kontenstruktur</a> aufbauen</li>
+<li>Starten zu <a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/finanzen/finanzen.md">Investieren</a></li>
+</ul>
+<p>-&gt; Sicherheit und Möglichkeiten aufbauen</p>
+<h2 id="3-fahigkeit-aufbauen-verbessern">3. Fähigkeit aufbauen / verbessern<a class="headerlink" href="#3-fahigkeit-aufbauen-verbessern" title="Permanent link"></a></h2>
+<ul>
+<li>Neues <a href="/Users/danielsundermeier/code/danielsundermeier/knowledge/leben/lernen.md">Lernen</a> und Ausprobieren</li>
+<li>Tätigkeiten, die Spaß machen</li>
+<li>Zunehmend schwierigere Dinge mit der Fähigkeit tun</li>
+<li>Feedback sammeln und umsetzen</li>
+</ul>
+<p>-&gt; Mehrwert bieten</p>
+<h2 id="4-netzwerkzielgruppe-aufbauen">4. Netzwerk/Zielgruppe aufbauen<a class="headerlink" href="#4-netzwerkzielgruppe-aufbauen" title="Permanent link"></a></h2>
+<ul>
+<li>Gelerntes veröffentlichen</li>
+<li>Kostenlos Mehrwert bieten</li>
+<li>Blog, Video, &hellip;</li>
+</ul>
+<p>-&gt; Dadurch Kommunikation lernen / verbessern</p>
+<h2 id="5-profitieren">5. Profitieren<a class="headerlink" href="#5-profitieren" title="Permanent link"></a></h2>
+<ul>
+<li>Netzwerk nutzen</li>
+<li>Möglichkeiten wahrnehmen</li>
+<li>Produkt/Kurs/Buch vermarkten</li>
+</ul>
+<p>-&gt; Leben verbessern</p>
+<h2 id="6-3-5-wiederholen">6. 3-5 Wiederholen<a class="headerlink" href="#6-3-5-wiederholen" title="Permanent link"></a></h2>
+<ul>
+<li><a href="https://www.scottadamssays.com/2016/12/27/the-kristina-talent-stack/">Talent Stack</a> erweitern durch neue / verbesserte Fähigkeiten</li>
+<li>Netzwerk vergrößern</li>
+<li>Mehr profitieren</li>
+</ul>
+<p>-&gt; Zufriedenheit</p>
+<h2 id="zitate">Zitate<a class="headerlink" href="#zitate" title="Permanent link"></a></h2>
+<blockquote>
+<p>&ldquo;The focus should be on the insistence of excellence, both from yourself and from those around you.&rdquo;- <a href="https://500ish.com/the-great-asshole-fallacy-82e108a755c7">The Great Asshole Fallacy</a></p>
+<p>&ldquo;All you have to do, if you want everything in life from everybody else, is first pay attention; listen to them; show them respect; give them meaning, satisfaction, and fulfillment. Convey to them that they matter to you. And show you love them. But you have to go first. And what are you going to get back? Mirrored reciprocation. Right? See how we tie this all together? The world is so damn simple. It’s not complicated at all! Every single person on this planet is looking for the same thing. Now, why is it that we don’t act on these very simple things?&rdquo; - <a href="https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking">Peter Kaufman on the Multi-Disciplinary Approach to Thinking</a></p>
+<p>&ldquo;the world rewards you for value added, not time spent&rdquo; - <a href="https://jamesclear.com/">James Clear</a></p>
+<p>&ldquo;But I think of just two years ago, when I could barely survive what now has become routine, and remind myself that there is nothing more important than simply showing up and doing the work, every single day.&rdquo; - <a href="https://www.collaborativefund.com/blog/lessons-from-the-sea">Lessons from the Sea</a></p>
+<p>&ldquo;The success formula: solve your own problems and freely share the solutions.&rdquo; - <a href="https://twitter.com/NavalismHQ/status/1539192654264782849">Navalism</a></p>
+<p>&ldquo;John, chopping wood and carrying water is the price of admission for the opportunity to reach sustained excellence. Like the roots of a bamboo tree, it is a long and arduous process of invisible growth, where you are building the foundation that is necessary to sustain success. For many years it might feel as if nothing is happening, but you must trust the process and continue to chop wood and carry water, day in day out, regardless of what is happening around you. There will be distractions. There will be people who tell you that you are stupid or crazy for doing it. There will be people who try and lure you off the path with quick fixes and get rich quick schemes. But you must be wise and stay the path, and continue to build your foundation by chopping wood and carrying water every day. Greatness isn’t sexy John, it is the dirty, hard work that is often very boring. You have a bright future. Stay the path, and never forget &ndash;&rdquo; - <a href="https://www.goodreads.com/book/show/28405277-chop-wood-carry-water">Chop Wood Carry Water</a></p>
+<p>&ldquo;The process of self-discovery that was necessary to formulate my vision, and the power of having a philosophy has given me a confidence I didn’t have before. One of the keys to success lies in knowing and believing in yourself. When you are confident and you trust in who you are, you can perform to the best of your ability, and that is exactly what I plan to do. Whether you are coaching the USC Trojans or the Seattle Seahawks, working at your job or running a household, all you should ever strive for is to be the best you can be . . . and that is the essence of what it means to Win Forever.&rdquo; - Pete Carroll</p>
+</blockquote>
+<h2 id="aus-dem-gleichgewicht">Aus dem Gleichgewicht<a class="headerlink" href="#aus-dem-gleichgewicht" title="Permanent link"></a></h2>
+<p>Wenn wir der beste in etwas werden wollen, müssen wir uns voll darauf konzentrieren, zumindest für eine Zeit. </p>
+<p>Es gibt keine freien Tage und keine Ausfallzeiten, wenn wir davon besessen sind, großartig zu sein.</p>
+<p>Wir wollen nicht im ungebindet im Glecihgewicht sein, wir wollen uns zufrieden fühlen. Manchmal bedeutet das uns auf eine Sache festzulegen und alles andere zu vernachlässigen.</p>
+<p>Wir können nicht alles, haben, das wollen wir in der Regel auch nicht. Wir können uns sehr zufrieden fühlen, wenn wir herausfinden, was wir wirklich wollen.</p>
+<h2 id="optionen-erweitern">Optionen erweitern<a class="headerlink" href="#optionen-erweitern" title="Permanent link"></a></h2>
+<p>Oft spielen wir, um nicht zu verlieren. Wir schränken uns und unsere Optionen damit ein.</p>
+<p>Wir konzentrieren uns nur auf die Dinge, von denen wir denken, dass wir sie sicher erreichen können. Wir denken zu klein.</p>
+<p>Wir wollen uns also immer wieder daran erinnern, dass wir viel mehr erreichen können, wenn wir das Unbehagen aushalten können.</p>
+<p>Wir konzentrieren uns dann aud die Dinge, die wirklich wichtig sind. Wir tolerieren nicht mehr alles und sprechen aus, was wir denken.</p>
+<p>Wir arbeiten an den Dingen, die wir wollen, anstatt davon auszugehen, dass wir sie nicht haben können.</p>
+<p>Wir lernen unsere Bedürfnisse wirklich zu befriedigen.</p>
+<p><a href="https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous">This Book Will Make You Dangerous</a></p>
+<h2 id="selbstbewusstsein">Selbstbewusstsein<a class="headerlink" href="#selbstbewusstsein" title="Permanent link"></a></h2>
+<p>Die wichtigste Fähigkeit, die wir haben müssen, um erfolgreich zu sein ist Selbstbewusstsein.</p>
+<p>Das beinhaltet zu wissen:</p>
+<ul>
+<li>Wer wir sind</li>
+<li>Was wir können</li>
+<li>Was wir nicht können</li>
+<li>Woher unser Wert kommt</li>
+<li>Wo wir uns verbessern sollten</li>
+</ul>
+<p>Wir müssen wissen, wo unsere Stärken liegen und wie wir sie nutzen können.</p>
+<p>Es ist wichtig unser Ist-Zustand zu kennen, um uns auf den Weg zu der Person machen zu können, die wir sein wollen.</p>
+<p><a href="https://www.goodreads.com/book/show/40776006">Raise Your Game</a></p>
+<h2 id="konzentration-auf-starken">Konzentration auf Stärken<a class="headerlink" href="#konzentration-auf-starken" title="Permanent link"></a></h2>
+<blockquote>
+<p>&ldquo;find the one thing you do better than anyone else and continue to pour into that&rdquo; - Alan Stein Jr.</p>
+</blockquote>
+<p>Wir brauchen Selbstbewusstsein, um unsere Stärken zu kennen. Dann sollten wir uns voll auf sie konzentrieren.</p>
+<p>So können wir uns unbezahlbar machen: Wir machen etwas, was niemand sonst kann. Spezialisierung ist der Weg zum Erfolg.</p>
+<p>Wenn wir unsere Stärken einsetzen, sind wir viel engagierter.</p>
+<p>Wenn wir nicht die Gelegenheit dazu haben, fühlen wir uns verschwendet und ziehen uns zurück.</p>
+<p><a href="https://www.goodreads.com/book/show/40776006">Raise Your Game</a></p>
+<h2 id="die-steuerbaren-dinge-kontrollieren">Die steuerbaren Dinge kontrollieren<a class="headerlink" href="#die-steuerbaren-dinge-kontrollieren" title="Permanent link"></a></h2>
+<p>Wir können nur unsere Leistung und Einstellung komplett kontrollieren. Wir sollten uns darauf konzentrieren. Alles andere ist Verschwendung von Energie und Zeit.</p>
+<p>Wir haben keine Kontrolle über andere Menschen und nur bedingt über Ergebnisse. Uns darüber aufzuregen oder zu beschweren bringt uns nicht weiter.</p>
+<p><a href="https://www.goodreads.com/book/show/40776006">Raise Your Game</a></p>
+<h2 id="systeme-sind-perfekt">Systeme sind perfekt<a class="headerlink" href="#systeme-sind-perfekt" title="Permanent link"></a></h2>
+<p>Jedes System ist perfekt. Jedes System liefert uns genau die Ergebnisse, die wir von diesem System erwarten sollten. Wenn wir also bessere Ergebnisse erzielen möchten, ist die Lösung erschreckend (und verblüffend) einfach: Wir erstellen ein besseres System, das uns die gewünschten Ergebnisse liefert.</p>
+<p><a href="https://www.goodreads.com/book/show/27036684-crazy-good">Crazy Good</a></p>
+<h2 id="experimente-scheitern-nie">Experimente scheitern nie<a class="headerlink" href="#experimente-scheitern-nie" title="Permanent link"></a></h2>
+<blockquote>
+<p>&ldquo;Experiments never fail because when you are experimenting you are just as eager to find out what doesn’t work as what does. Whatever you find out helps you grow. There is no failure in that.&rdquo; - Steve Chandler</p>
+</blockquote>
+<p>Wir sollten experimentieren! Dann sehen wir, was tatsächlich funktioniert und was nicht. Es sind alles neutrale Daten. Wir testen, lernen, wachsen.</p>
+<p>Wir müssen auch aufhören, unser Gehirn einfach nur mit neuen Informationen zu füllen. Wir müssen die Ideen auf unser Leben anwenden und uns dabei transformieren.</p>
+<p><a href="https://www.goodreads.com/book/show/27036684-crazy-good">Crazy Good</a></p>
+<h2 id="unsere-eigene-erfolgsphilosophie">Unsere eigene Erfolgsphilosophie<a class="headerlink" href="#unsere-eigene-erfolgsphilosophie" title="Permanent link"></a></h2>
+<p>John Wooden, der erfolgreichste Trainer des 20. Jahrhunderts, war 16 Jahre Trainer bei UCLA, bis er seinen ersten Titel gewonnen hat. Davor hat er schon einige Jahre mehr als Trainer gearbeitet.</p>
+<p>In unserer Gesellschaft des statischen Selbstbildes denken wir, dass wir entweder zum Erfolg geboren sind oder nicht. Das ist aber nie so. Erfolg braucht seine Zeit.</p>
+<p>Es hat lange gedauert, aber als er seine eigene Erfolgsphilosophie gefunden hat, war er nicht mehr aufzuhalten und hat 10/12 Meisterschaften gewonnen.</p>
+<p>Das Gleiche trifft auch auf uns zu. Wir müssen herausfinden, wie wir Erfolg haben können und was es für uns bedeutet. Dann sind auch wir nicht mehr aufzuhalten.</p>
+<p><a href="https://www.goodreads.com/book/show/8594535-win-forever">Win Forever</a></p>
+<h2 id="gleichgewicht-der-krafte">Gleichgewicht der Kräfte<a class="headerlink" href="#gleichgewicht-der-krafte" title="Permanent link"></a></h2>
+<p>Wenn wir unser bestes geben fühlt es sich nicht schwierig an. Es ist der Punkt an dem unser Bewusstsein, Unterbewusstsein und unser Selbstbild im Gleichgewicht sind und zusammenarbeiten.</p>
+<p>Wir handeln ruhig, effizient und scheinbar mühelos.</p>
+<p>Das Ziel ist, diesen Zustand immer öfter und auf Kommando erreichen zu können.</p>
+<p><a href="https://www.goodreads.com/book/show/208926.With_Winning_in_Mind">With Winning in Mind</a></p>
+<h2 id="arbeit-und-die-nebenprdukte">Arbeit und die Nebenprdukte<a class="headerlink" href="#arbeit-und-die-nebenprdukte" title="Permanent link"></a></h2>
+<blockquote>
+<p>&ldquo;The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and allows rewards to come or not come, whatever they like.&rdquo; - Steven Pressfield</p>
+</blockquote>
+<p>Wir definieren was Erfolg für uns bedeutet. Für John Wooden war es der Seelenfrieden, weil es wusste, dass er sein bestes gegeben hat. Alles andere ist ein Nebenprodukt.</p>
+<p><a href="https://www.goodreads.com/book/show/1319.The_War_of_Art">The War of Art</a></p>
+<h2 id="nimm-die-hand-runter">Nimm die Hand runter<a class="headerlink" href="#nimm-die-hand-runter" title="Permanent link"></a></h2>
+<blockquote>
+<p>&ldquo;Weakness, laziness, frustration, negativity, anxiety. Every single morning you get to decide whether to give those things a vote.&rdquo; - Tim S. Grover</p>
+</blockquote>
+<p>Wir haben eine endlose Debatte in unserem Kopf. Engel gegen Teufel, Gut gegen Böse, unser bestes Selbst gegen unseren inneren Schweinehund.</p>
+<p>Wir entscheiden wer die Oberhand gewinnt. Die Qualität unseres Lebens wird dadurch bestimmt, welcher Stimme wir am häufigsten zustimmen.</p>
+<p>Wir können unserer weinerlichen kleinen Stimme sagen, dass sie ihre Hand nicht heben darf. Sie darf heute nicht mit Abstimmen.</p>
+<p><a href="https://www.goodreads.com/book/show/56769353-winning">Winning</a></p>
+<h2 id="nein">Nein<a class="headerlink" href="#nein" title="Permanent link"></a></h2>
+<p>Wenn wir Erfolg haben wollen, müssen wir lernen &ldquo;Nein&rdquo; zu sagen. Wir müssen Prioritäten setzen und uns voll darauf konzentrieren.</p>
+<p>Wir können dafür eine Nein-Liste machen. Wir schreiben alles auf, was wir nicht machen wollen und uns von unseren Zielen ablenkt.</p>
+<p><a href="https://www.goodreads.com/book/show/56769353-winning">Winning</a></p>
+<h2 id="42">42%<a class="headerlink" href="#42" title="Permanent link"></a></h2>
+<p>Die Wahrscheinlichkeit, dass wir unsere Ziele erreichen, ist um 42% höher, wenn wir sie aufschreiben.</p>
+<p>Wir sollten sie aber einfach nur in ein Tagebuch schreiben und sie vergessen. Wir sollten sie uns oft ansehen. Täglich ist ideal. So behalten wir Ihre oberste Priorität im Auge.</p>
+<p><a href="https://www.goodreads.com/book/show/43706482-everything-is-figureoutable">Everything is Figureoutable</a></p>
+<h2 id="das-ultimative-aufgabe">Das ultimative Aufgabe<a class="headerlink" href="#das-ultimative-aufgabe" title="Permanent link"></a></h2>
+<p>Die ultimative heldenhafte Aufgabe? Der Held wird zum Führer. </p>
+<p>Es ist an der Zeit, die besten und heldenhafteste Version von uns selbst zu werden, damit wir anderen dabei helfen können, dasselbe zu tun. So verändern wir die Welt.</p>
+<p><a href="https://www.goodreads.com/book/show/61896658-unlocked">Unlocked</a></p>
+<h2 id="groes-erreichen">Großes erreichen<a class="headerlink" href="#groes-erreichen" title="Permanent link"></a></h2>
+<p>Du kannst Großes erreichen. Egal, wo wir uns gerade im Leben befinden, es gibt etwas, in dem wir einzigartig und unglaublich sein können. </p>
+<p>Aber bevor wir unglaublich sein können, müssen wir glauben, dass wir es schaffen können. Das ist der erste Schritt. </p>
+<p>Der nächste Schritt ist etwas schwieriger; wir müssen entscheiden, worin wir großartig sein wollen.</p>
+<p><a href="https://www.goodreads.com/book/show/21500669-black-hole-focus">Black Hole Focus</a></p>
+<h2 id="gro-denken-erfolg-wiederholen">Groß denken. Erfolg. Wiederholen.<a class="headerlink" href="#gro-denken-erfolg-wiederholen" title="Permanent link"></a></h2>
+<p>Es gibt eine Geschichte über Sir Edmund Hillary, den ersten Menschen, der den Mount Everest bestieg. Als er zurück ins Basislager kam, wurde er von Reportern empfangen, die ihn fragten, wie die Aussicht oben auf der Welt sei. </p>
+<p>Er sagte, es sei unglaublich, denn während er dort oben war, sah er einen anderen Berg im Himalaya-Gebirge, den er noch nicht bestiegen hatte, und er dachte bereits über die Route nach, die er als nächstes nehmen würde, um diesen Gipfel zu besteigen.</p>
+<p>Wenn Sie den Berggipfel erreichen, eröffnet sich Ihnen eine völlig neue Perspektive auf den Rest der Welt, auf den Rest Ihres Lebens. </p>
+<p>Sie sehen neue Herausforderungen, die zuvor außer Sichtweite waren, und Sie sehen alte Herausforderungen auf neue Weise. Mit diesem großen Sieg, den Sie jetzt erringen können, sind sie alle bezwingbar.</p>
+<p><a href="https://www.goodreads.com/book/show/125063314-be-useful">Be Useful</a></p>
+<h2 id="zusammengesetzte-kraft-der-konsistenz">Zusammengesetzte Kraft der Konsistenz<a class="headerlink" href="#zusammengesetzte-kraft-der-konsistenz" title="Permanent link"></a></h2>
+<p>Ripken bestritt 2.632 Spiele in Folge, was bei weitem der Rekord in der Major League Baseball ist. Nur ein anderer Spieler überschritt die 2.000-Marke: Lou Gehrig mit 2.160.</p>
+<p>Wie selten diese Art von Konstanz ist, wird deutlich, wenn man bedenkt, dass nur fünf andere Spieler in der Geschichte der Major League jemals mehr als tausend Spiele in Folge bestritten haben. Vielleicht wurde das Spiel, in dem Ripken Gehrigs Rekord übertraf, deshalb zum denkwürdigsten in der MLB-Geschichte gewählt.</p>
+<p>Ripken sagte schnell, dass sein Erfolg nicht darauf zurückzuführen sei, dass er talentierter sei als alle anderen. Er zeigte sich, arbeitete hart, spielte verletzt und gab sein Bestes – jeden Tag sechzehn Jahre lang. Er war der Inbegriff von Beständigkeit.</p>
+<p><a href="https://www.goodreads.com/book/show/40590293-leadershift">Leadershift</a></p>
+<h2 id="mentale-norbremse-losen">Mentale Norbremse lösen<a class="headerlink" href="#mentale-norbremse-losen" title="Permanent link"></a></h2>
+<ul>
+<li>NOTBREMSE AN: Konzentrieren Sie sich auf den Sieg.</li>
+<li>NOTBREMSE AUS: Konzentrieren Sie sich darauf, ihr bestes zu geben.</li>
+</ul>
+<p>Die meisten Sportler konzentrieren sich auf das Falsche, das Gewinnen. Das ist ein großer Fehler. </p>
+<p>Warum? Weil Sie keine Kontrolle über den Sieg haben. </p>
+<p>Sie haben die Kontrolle über Ihren Einsatz.</p>
+<p>&ldquo;Voller Einsatz ist voller Sieg.&rdquo; - Ghandi</p>
+<p>Konzentrieren Sie sich auf den Einsatz, nicht auf das Ergebnis!</p>
+<p><a href="https://www.goodreads.com/book/show/36748067-read-this-book-tonight-to-help-you-win-tomorrow">Read This Book Tonight To Help You Win Tomorrow</a></p>
+<h2 id="365-x-5-see-you-at-the-pool">365 x 5: See you at the pool<a class="headerlink" href="#365-x-5-see-you-at-the-pool" title="Permanent link"></a></h2>
+<p>Setzen Sie Ihre Ziele hoch. Arbeiten Sie jeden Tag gewissenhaft daran, diese Ziele zu erreichen.</p>
+<p>Eines haben alle erfolgreichen Menschen gemeinsam: Sie machen es sich zur Gewohnheit, Dinge zu tun, die erfolglose Menschen nicht gerne tun.</p>
+<p>Fünf Jahre lang, von 1998 bis 2003, glaubten wir nicht an freie Tage. Ich hatte einen wegen eines Schneesturms, zwei weitere wegen der Entfernung der Weisheitszähne. Weihnachten? Wir sehen uns am Pool. Das Erntedankfest? Schwimmbad. Geburtstage? Schwimmbad. Sponsorenpflichten? Erarbeiten Sie sie während der Übungszeit.</p>
+<p><a href="https://www.goodreads.com/book/show/5497240-no-limits">No Limits</a></p>
+<h2 id="win-whats-important-now">W.I.N. = What’s Important Now?<a class="headerlink" href="#win-whats-important-now" title="Permanent link"></a></h2>
+<p>Wenn wir uns nicht gut fühlen, können wir oft nicht unser Bestes geben.</p>
+<p>Wenn wir es aber schaffen uns auf das wichtige zu konzentrieren, egal wie wir uns fühlen, können wir alles schaffen.</p>
+<p><a href="https://www.goodreads.com/book/show/5497240-no-limits">No Limits</a></p>
+<h2 id="zeit-energie-hingabe-herz-und-seele">Zeit, Energie, Hingabe, Herz und Seele<a class="headerlink" href="#zeit-energie-hingabe-herz-und-seele" title="Permanent link"></a></h2>
+<p>Nichts im Leben ist einfach. Sie können nicht eines Tages aufwachen, verkünden, dass Sie etwas tun werden, und erwarten, dass es ein Erfolg wird. Zumindest nicht konsequent. Man muss Zeit und Energie investieren und alles, was man zur Verfügung hat. Man muss es unbedingt wollen.</p>
+<p>Das ist der Punkt, den einige Leute, die sagen, dass sie etwas wollen, was auch immer das ist, vielleicht nicht ganz verstehen. Viele Schwimmer, mit denen ich trainiert habe, sagten, sie wollten etwas Großes erreichen, steckten aber nicht wirklich Zeit, Energie, Hingabe und Herzblut hinein.</p>
+<p><a href="https://www.goodreads.com/book/show/5497240-no-limits">No Limits</a></p>
+<h2 id="keine-exit-strategie">Keine Exit-Strategie<a class="headerlink" href="#keine-exit-strategie" title="Permanent link"></a></h2>
+<p>Das ist nicht nur meine Geschichte. Es ist jede Geschichte und es ist die gesamte Geschichte. Das Verbrennen der Boote als Erfolgsstrategie reicht bis ins Alte Testament zurück.</p>
+<p>Zuletzt, im Jahr 2022, wurde Woldymyr Selenskyj, der Komiker und spätere Präsident der Ukraine, von russischen Invasoren belagert, als ihm die Vereinigten Staaten einen Evakuierungsplan anboten. Die gesamte freie Welt war zu dem Schluss gekommen, dass die Ukraine keine Chance hatte, das volle Gewicht der russischen Armee zu überwinden, und dass Selenskyj seinen Untergang erleben würde, wenn er Kiew nicht bald verließ. Doch der ukrainische Präsident bewies, dass er sowohl Geschichte als auch Psychologie studiert, als er über den Äther das Angebot von US-Präsident Joe Biden ablehnte. „Ich brauche keine Mitfahrgelegenheit; „Ich brauche Waffen“, sagte er.</p>
+<p>Selenskyj signalisierte den russischen Gegnern – und der Welt –, dass er sich keinen Ausweg gegönnt hatte. Er hatte die Boote verbrannt und war bereit, sich bis zum Tod durchzukämpfen. Sein Widerstand erwies sich als ansteckend, und mit diesen einfachen Worten inspirierte er sein Land – und letztlich die gesamte NATO – zum Widerstand gegen die Invasion.</p>
+<p><a href="https://www.goodreads.com/book/show/61150750-burn-the-boats">Burn the Boats</a></p>
+<h2 id="der-guru-am-strand">Der Guru am Strand<a class="headerlink" href="#der-guru-am-strand" title="Permanent link"></a></h2>
+<p>Die Geschichte, die ich erzählt habe, ging ungefähr so: Ein Mann, der im Geschäft vorankommen will, geht zu einem Guru und sagt zu ihm: „Die Leute sagen, du kennst das Erfolgsgeheimnis.“ Was ist das Geheimnis, Guru?‘</p>
+<p>Der Guru sagt: „Wenn du das Geheimnis erfahren willst, triff mich morgen früh am Strand.“</p>
+<p>Am nächsten Morgen taucht der Mann im Anzug am Strand auf, um den Guru zu treffen. Der Guru fordert den Mann auf, ihm zum Wasser zu folgen. Der Mann sieht den Guru an, als wäre er verrückt, aber er tut es trotzdem. Wenn das Wasser brusthoch ist, drückt der Guru den Kopf des Mannes nach unten und hält ihn unter Wasser, bis er sich wehrt und mit den Armen wedelt. Schließlich lässt der Guru den Mann an die Oberfläche kommen. Als er endlich zu Atem kommt, fragt der Guru den Mann: „Als du unter Wasser warst, was wolltest du mehr als alles andere?“</p>
+<p>Der Mann antwortet ihm: „Atmen.“</p>
+<p>Der Guru nickt und sagt: „Jetzt kennen Sie das Geheimnis.“ Wenn Sie genauso erfolgreich sein wollen, wie Sie atmen wollen, werden Sie erfolgreich sein.“</p>
+<p><a href="https://www.goodreads.com/book/show/59883566-you-owe-you">You Owe You</a></p>
+<h2 id="seien-sie-besessen">Seien Sie besessen<a class="headerlink" href="#seien-sie-besessen" title="Permanent link"></a></h2>
+<p>Die Bibel sagt, dass der Mann, der fleißig arbeitet, vor Königen bestehen wird. Ganz einfach: Die Chancen, die man hat, wenn man exzellent ist, sind größer als die Chancen, die man hat, wenn man nur durchschnittlich ist. Die Art und Weise, wie Sie die Welt erleben, wenn Sie exzellent sind, unterscheidet sich erheblich von der Art und Weise, wie Sie sie erleben, wenn Sie mittelmäßig agieren.</p>
+<p>Seien Sie besessen davon, worin Sie sich auszeichnen möchten. Um exzellent zu sein, muss man wie Michael Jordan und Kobe Bryant sein – unersättlich, unbändig, verrückt. Die wirklich Exzellenten unter uns wissen, dass wir jeden Tag aufwachen und danach streben, besser zu sein als am Tag zuvor. Wir stehen jeden Tag mit dem Ziel auf, uns zu verbessern und Großes zu erreichen.</p>
+<p><a href="https://www.goodreads.com/book/show/59883566-you-owe-you">You Owe You</a></p>
+<h2 id="denken-sie-voraus-und-gehen-sie-die-extrameile">Denken Sie voraus und gehen Sie die Extrameile<a class="headerlink" href="#denken-sie-voraus-und-gehen-sie-die-extrameile" title="Permanent link"></a></h2>
+<p>Hier ist die Erkenntnis: Wenn Sie bei einem Unterfangen mit Konkurrenz erfolgreich sein wollen, gehen Sie die Extrameile. Machen Sie etwas mehr als erwartet. Dann machen Sie mehr. Streben Sie mit all Ihren Talenten danach, der Beste zu sein. Und es gibt immer Konkurrenz. Es ist mir egal, ob es sich um eine Beförderung, ein Softballspiel in der Stadtliga, die Rolle als Top-Verkaufsführer in Ihrem Team oder sogar um ein Date handelt. Sie nehmen an einem Wettbewerb teil. Und einige der anderen Konkurrenten sind immer verdammt gut.</p>
+<p>Ich möchte auch diesen wichtigen Grundsatz anbieten: Wenn Sie etwas tun, insbesondere etwas Schwieriges, sehen Sie sich selbst und sagen Sie sich, dass Sie gewinnen werden. Wenn ich die Akademie mit dem Gedanken betreten hätte: „Ich werde versuchen, Jets zu fliegen“, „Ich werde versuchen, meinen Abschluss zu machen“, hätte ich, das weiß ich, nicht so gut abgeschnitten.</p>
+<p>Es gibt einen großen Unterschied zwischen Versuchen und Engagement. Der Wille zum Sieg bringt Sie dazu, die Extrameile zu gehen. Ich weiß, dass eine solche Einstellung das Risiko einer Enttäuschung erhöht. Ich würde lieber meine Gewinnchancen stark erhöhen und das Risiko eingehen, enttäuscht zu werden, als etwas Wichtiges mittelmäßig auszuprobieren. Wie John Paul Jones berühmt sagte: „Wer kein Risiko eingeht, kann nicht gewinnen.“</p>
+<p><a href="https://www.goodreads.com/book/show/77363164-learn-how-to-lead-to-win">Learn How to Lead to Win</a></p>
+<h2 id="uber-der-linie-vs-unterhalb-der-linie">Über der Linie vs. Unterhalb der Linie<a class="headerlink" href="#uber-der-linie-vs-unterhalb-der-linie" title="Permanent link"></a></h2>
+<p>Alles beginnt mit Above-the-Line-Verhalten. Es ist ein Lehrpunkt von Tim Knight, und er hat die Art und Weise, wie ich führe und denke, tiefgreifend beeinflusst. Ich war überwältigt von seiner Kraft und Klarheit, als er es mir zum ersten Mal erklärte, und wenn überhaupt, ist meine Wertschätzung dafür gewachsen.</p>
+<p>Die Leistung eines Teams hängt vom Verhalten ab. Gewinnendes Verhalten ist absichtlich, absichtlich und geschickt. Es liegt über der Linie. Aber es ist einfacher, impulsiv, auf Autopilot zu reagieren und widerspenstig zu sein. Das ist unterhalb der Linie. Below the Line ist gefährlich, weil es bequem und bequem ist. Es ist der Weg des geringsten Widerstands. „Below the Line“ erfordert wenig Aufwand oder Geschick, und das Beste, was ich hervorbringen kann, ist „einfach in Ordnung“. Letztendlich führt es zum Scheitern.</p>
+<p>Die einfache Wahrheit ist, dass es die Grundlage für den Erfolg ist, bei allem, was Sie tun – bei der Arbeit, in der Schule, beim Fußball und im Leben – über die Linie zu kommen und zu bleiben. Die schwierigere Wahrheit ist, dass es nicht einfach ist, über die Linie zu kommen und zu bleiben. Es muss gelehrt und entwickelt werden. Jeder Tag ist ein Kampf darum, ob wir uns entscheiden, über oder unter der Linie zu leben. Die Wahl, die wir treffen, bestimmt, wie wir Menschen behandeln, die wir lieben, wie wir mit Arbeitskollegen interagieren, wie wir unsere Arbeit erledigen, wie wir lernen und wachsen, wie wir mit Widrigkeiten und Enttäuschungen umgehen und letztendlich, was wir erreichen.</p>
+<p>Bitte halten Sie einen Moment inne und nehmen Sie Folgendes zur Kenntnis: „Above the Line“-Verhalten ist die Grundlage für den Erfolg bei allem, was Sie tun. Es gibt keinen Aspekt Ihres Lebens, der davon unberührt bleibt, und deshalb ist die Entscheidung, sich über oder unter der Linie zu verhalten, die wichtigste Entscheidung, die Sie jeden Tag treffen.</p>
+<p><a href="https://www.goodreads.com/book/show/25489423-above-the-line">Above the Line</a></p>
+<h2 id="unermudlicher-einsatz">Unermüdlicher Einsatz<a class="headerlink" href="#unermudlicher-einsatz" title="Permanent link"></a></h2>
+<p>Hier ist die nicht ganz so geheime Formel für außergewöhnlichen Erfolg: Klären Sie, was Sie wirklich wollen, und arbeiten Sie dann so hart wie möglich und so lange es dauert. Durch Härte können Dinge erreicht werden, die Talent allein niemals erreichen kann.</p>
+<p>Der Erfolg ist kumulativ und progressiv. Es ist das Ergebnis dessen, was Sie jeden Tag tun. Sowohl erfolgreiche als auch erfolglose Menschen ergreifen täglich Maßnahmen. Der Unterschied besteht darin, dass erfolgreiche Menschen über die Linie hinaus handeln. Sie treten auf und handeln mit Absicht, Zielstrebigkeit und Geschick.</p>
+<p>Für jedes Ziel, das Sie verfolgen, ist ein Prozess involviert. Es gibt einen Weg, dem Sie folgen müssen. Um Ihre Ziele zu erreichen, müssen Sie sich mit täglichem „Above the Line“-Verhalten auf den Prozess einlassen. Nicht nur ein- oder zweimal, sondern immer wieder im Laufe der Zeit. Der Erfolg wird nicht durch eine gelegentliche heroische Reaktion erreicht. Erfolg wird durch gezieltes und nachhaltiges Handeln erreicht. Jeder Erfolg ist eine Reihe von Entscheidungen. Je größer der Erfolg, desto länger die Serie und desto anspruchsvoller die Entscheidungen.</p>
+<p>Zielklarheit ist wichtig, aber auch Prozessklarheit. Machen Sie sich für jedes von Ihnen gesetzte Ziel äußerst klar, welcher Prozess notwendig ist, um das gewünschte Ergebnis zu erzielen. Indem Sie im Laufe der Zeit konsequent „Above the Line“ handeln, können Sie fast alles erreichen.</p>
+<p><a href="https://www.goodreads.com/book/show/25489423-above-the-line">Above the Line</a></p>
+<h2 id="die-grundlagen-des-erfolgs">Die Grundlagen des Erfolgs<a class="headerlink" href="#die-grundlagen-des-erfolgs" title="Permanent link"></a></h2>
+<p>Ich glaube an die Grundlagen: Aufmerksamkeit und Perfektion für kleine Details, die oft übersehen werden. Für diejenigen, die es nicht verstehen, mögen sie trivial, vielleicht sogar lächerlich erscheinen, aber das sind sie nicht. Sie sind von grundlegender Bedeutung für Ihren Fortschritt im Basketball, im Geschäft und im Leben. Sie machen den Unterschied zwischen Champions und Beinahe-Champions aus.</p>
+<p>Zum Beispiel habe ich bei der ersten Mannschaftsbesprechung jeder Saison, die zwei Wochen vor unserem ersten eigentlichen Training stattfand, persönlich demonstriert, wie ich den Spielern jedes Mal das Anziehen ihrer Socken ermöglichen sollte: Rollen Sie die Socken vorsichtig über die Zehen und den Fußballen , wölbe und um die Ferse herum und ziehe die Socke dann eng an, sodass keinerlei Falten entstehen.</p>
+<p>Wenn Sie zu viel Zeit damit verbringen, die Tricks des Handels zu erlernen, erlernen Sie das Handwerk möglicherweise nicht. Wenn Sie daran arbeiten, den einfachen Weg zu finden, arbeiten Sie nicht hart genug an den Grundlagen. Eine Zeit lang kommen Sie vielleicht damit durch, aber es gibt keinen Ersatz für die Grundlagen. Und die erste Grundvoraussetzung ist gute, altmodische harte Arbeit.</p>
+<p><a href="https://www.goodreads.com/book/show/43536.Wooden">Wooden</a></p>
+<h2 id="woodens-definition-von-erfolg">Woodens Definition von Erfolg<a class="headerlink" href="#woodens-definition-von-erfolg" title="Permanent link"></a></h2>
+<p>Im Jahr 1934 prägte ich schließlich meine Definition von Erfolg:</p>
+<p>Erfolg ist Seelenfrieden, der das direkte Ergebnis der Selbstzufriedenheit ist, weil man weiß, dass man sein Bestes getan hat, um das Beste zu werden, was man erreichen kann.</p>
+<p>Darüber hinaus kann letztendlich nur eine Person den Grad Ihres Erfolgs beurteilen: Sie. Denken Sie einen Moment darüber nach.</p>
+<p>Ich glaube, das ist wahrer Erfolg. Alles, was aus diesem Erfolg resultiert, ist einfach ein Nebenprodukt, sei es das Ergebnis, der Pokal, eine nationale Meisterschaft, Ruhm oder Reichtum. Sie sind allesamt Nebenprodukte des Erfolgs und nicht der Erfolg selbst, Anzeichen dafür, dass Sie vielleicht im wichtigeren Wettbewerb erfolgreich waren.</p>
+<p>Der eigentliche Wettbewerb besteht natürlich darin, Ihre persönliche Bestleistung zu erreichen, und das liegt völlig in Ihrer Hand. Wenn Sie das erreichen, haben Sie Erfolg gehabt. Sie sind ein Gewinner und nur Sie wissen genau, ob Sie gewonnen haben.</p>
+<p><a href="https://www.goodreads.com/book/show/43536.Wooden">Wooden</a></p>
+<h2 id="lass-es-geschehen">Lass es geschehen<a class="headerlink" href="#lass-es-geschehen" title="Permanent link"></a></h2>
+<p>Deshalb ermahne ich meine Studierenden in Europa und Amerika immer wieder: Strebe nicht nach Erfolg – je mehr du ihn anstrebst und zur Zielscheibe machst, desto mehr wirst du ihn verfehlen. </p>
+<p>Denn Erfolg kann ebenso wie Glück nicht angestrebt werden; Es muss dazu kommen, und zwar nur als unbeabsichtigte Nebenwirkung des persönlichen Engagements für eine Sache, die größer ist als man selbst, oder als Nebenprodukt der Hingabe an eine andere Person als sich selbst. </p>
+<p>Glück muss passieren, und das Gleiche gilt auch für Erfolg: Man muss es geschehen lassen, ohne sich darum zu kümmern. </p>
+<p>Ich möchte, dass Sie auf die Gebote Ihres Gewissens hören und diese dann nach bestem Wissen und Gewissen ausführen. </p>
+<p>Dann werden Sie erleben, dass Ihnen auf lange Sicht der Erfolg folgen wird, gerade weil Sie vergessen haben, darüber nachzudenken.</p>
+<p><a href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning">Man’s Search for Meaning</a></p>
+<h2 id="dein-ultimativer-segen">Dein ultimativer Segen<a class="headerlink" href="#dein-ultimativer-segen" title="Permanent link"></a></h2>
+<p>Die Japaner haben ein Sprichwort: „Die Götter lachen nur, wenn Menschen zu ihnen um Reichtum beten.“ </p>
+<p>Der Segen, der dem Anbeter zuteil wird, richtet sich immer nach seiner Statur und der Art seines vorherrschenden Verlangens: Der Segen ist einfach ein Symbol der Lebensenergie auf die Erfordernisse des Einzelfalls zurückgegriffen. </p>
+<p>Die Ironie liegt natürlich darin, dass der Held, der die Gunst des Gottes gewonnen hat, zwar um den Segen der vollkommenen Erleuchtung betteln mag, er aber im Allgemeinen nach längeren Lebensjahren und Waffen strebt, mit denen er seinen Nächsten töten kann, oder die Gesundheit seines Kindes.</p>
+<p>Die Griechen erzählen von König Midas, der das Glück hatte, von Baccus das Angebot aller Segen zu erhalten, die er sich nur wünschen konnte. </p>
+<p>Er verlangte, dass alles, was er berührte, in Gold verwandelt werden sollte. </p>
+<p>Als er seinen Weg ging, pflückte er versuchsweise den Zweig einer Eiche und er war sofort goldfarben; er hob einen Stein auf; es hatte sich in Gold verwandelt; Ein Apfel war ein Goldklumpen in seiner Hand. </p>
+<p>Begeistert befahl er, ein prächtiges Fest zur Feier des Wunders vorzubereiten. </p>
+<p>Doch als er sich hinsetzte und seine Finger auf den Braten legte, verwandelte er sich; An seinen Lippen wurde der Wein zu flüssigem Gold. </p>
+<p>Und als seine kleine Tochter, die er über alles auf der Welt liebte, kam, um ihn in seinem Elend zu trösten, verwandelte sie sich in dem Moment, in dem er sie umarmte, in eine hübsche goldene Statue.</p>
+<p><a href="https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces">The Hero With a Thousand Faces</a></p>
+<h2 id="initiative-willenskraft">Initiative + Willenskraft<a class="headerlink" href="#initiative-willenskraft" title="Permanent link"></a></h2>
+<p>Ein weiteres Geheimnis des Fortschritts liegt in der Selbstanalyse. </p>
+<p>Selbstbeobachtung ist ein Spiegel, in dem Sie Teile Ihres Geistes sehen können, die Ihnen sonst verborgen bleiben würden. </p>
+<p>Es ist nie zu spät, Ihre Fehler zu diagnostizieren und Ihre guten und schlechten Tendenzen einzuschätzen. </p>
+<p>Analysieren Sie, wer Sie sind, was Sie werden möchten und welche Tendenzen oder Mängel Sie behindern. </p>
+<p>Entscheiden Sie, was Ihre tiefe und geheime Aufgabe ist – Ihre Mission im Leben –, damit Sie sich zu dem machen können, was Sie sein sollten und sein wollen. </p>
+<p>Um dieses Ziel zu erreichen, nutzen Sie sowohl Initiative als auch Willenskraft.</p>
+<p>Was ist Initiative? Es ist die kreative Fähigkeit in dir, ein Funke des Unendlichen Schöpfers. </p>
+<p>Es kann Ihnen die Macht geben, etwas zu erschaffen, was noch niemand sonst geschaffen hat. </p>
+<p>Es fordert Sie dazu auf, Dinge auf neue Art und Weise zu tun. </p>
+<p>Die Leistungen eines Initiativmenschen sind so spektakulär wie die einer Sternschnuppe. </p>
+<p>Er macht das Unmögliche möglich, indem er die große erfinderische Kraft des Geistes nutzt.</p>
+<p><a href="https://www.goodreads.com/book/show/4588224-how-to-be-a-success">How To Be A Success</a></p>
+<h2 id="systematisieren">Systematisieren<a class="headerlink" href="#systematisieren" title="Permanent link"></a></h2>
+<p>Ihr Engagement für das Geschäft ist wichtig, aber Ihr Auftrag, anderen zu dienen, ist wichtiger, und Ihr Engagement für Meditation, Gott und die Wahrheit ist am wichtigsten. </p>
+<p>Sagen Sie nicht, dass Sie zu sehr damit beschäftigt sind, den Wolf von der Tür fernzuhalten, als dass Sie Zeit für die Entwicklung himmlischer Qualitäten hätten. </p>
+<p>Brechen Sie Ihre selbstzufriedene, unerschütterliche schlechte Angewohnheit ab, Ihre weniger wichtigen Engagements zu vergöttern und Ihre wichtigstes Engagement mit Weisheit völlig zu ignorieren.</p>
+<p>Auseinandersetzungen mit Überaktivität und Mr. Müßiggang führen beide ins Elend. </p>
+<p>Für den modernen Menschen ist es an der Zeit, seine jahrhundertealte Schläfrigkeit abzuschütteln und sein Leben zu systematisieren. </p>
+<p>Der moderne Mensch hat gelernt, Wissenschaft, Psychologie und System für sein materielles Wohlergehen auf sein Geschäft anzuwenden. </p>
+<p>Er sollte auch System und Wissenschaft anwenden, um seine Gesundheit, seinen Wohlstand und sein soziales Leben zu verbessern.</p>
+<p><a href="https://www.goodreads.com/book/show/4588224-how-to-be-a-success">How To Be A Success</a></p>
+<h2 id="was-ist-erfolg">Was ist Erfolg?<a class="headerlink" href="#was-ist-erfolg" title="Permanent link"></a></h2>
+<p>In meinen Augen und für die Zwecke dieses Buches definiere ich Leistung als ein gutes Leben; </p>
+<p>Die Aufgabe des Lebens auf eine zufriedenstellende Weise zu erledigen, die die Lebenskraft in uns und denen, mit denen wir Umgang haben, fördert. </p>
+<p>Es geht darum, ein gewisses Maß an Selbstbeherrschung zu entwickeln, um mit den schwierigen Aspekten unseres Lebens und unserer Beziehungen umzugehen. </p>
+<p>Es geht darum, etwas mit unserem Leben zu tun, das uns einbezieht und uns positives Feedback gibt. </p>
+<p>Wenn wir es richtig machen, sollte das Leben kein schwächender Kampf sein, auch wenn es manchmal erhebliche Anstrengungen erfordert.</p>
+<p><a href="https://www.goodreads.com/book/show/23462640-the-achievement-habit">The Achievement Habit</a></p>
+<h2 id="hektar-voller-diamanten">Hektar voller Diamanten<a class="headerlink" href="#hektar-voller-diamanten" title="Permanent link"></a></h2>
+<p>Unnötig zu erwähnen, dass sich die Farm, die der erste Bauer verkauft hatte, um eine Diamantenmine zu finden, als die produktivste Diamantenmine auf dem gesamten afrikanischen Kontinent erwies. </p>
+<p>Der erste Bauer hatte mehrere Hektar Diamanten besessen; hatte sie aber praktisch umsonst verkauft, um woanders danach zu suchen.</p>
+<p>Nun, die Moral ist klar: Hätte sich der erste Bauer nur die Zeit genommen, zu studieren und sich darauf vorzubereiten, herauszufinden, wie Diamanten im Rohzustand aussehen, und da er bereits ein Stück des afrikanischen Kontinents besessen hatte, das Anwesen gründlich zu erkunden Bevor er sich woanders umgesehen hätte, wären all seine kühnsten Träume wahr geworden.</p>
+<p>Das Besondere an dieser Geschichte, das Dr. Conwell und später Millionen andere so tief berührte, war die Vorstellung, dass jeder von uns in diesem Moment mitten auf seinem eigenen Hektar voller Diamanten steht. </p>
+<p>Wenn wir nur die Weisheit und Geduld haben, die Arbeit, mit der wir gerade beschäftigt sind, intelligent und effektiv zu erforschen, uns selbst zu erforschen, werden wir normalerweise den reichhaltigsten Gewinn finden, sei es finanziell oder immateriell oder beides! </p>
+<p>Bevor wir uns auf die Weide begeben, die unserer Meinung nach grüner ist, stellen wir sicher, dass unsere eigene nicht genauso grün oder vielleicht sogar grüner ist.</p>
+<p><a href="https://www.goodreads.com/book/show/825450.Lead_the_Field">Lead the Field</a></p>
+<h2 id="sind-sie-auer-dienst">Sind Sie außer Dienst?<a class="headerlink" href="#sind-sie-auer-dienst" title="Permanent link"></a></h2>
+<p>Ich stelle mir dieses Gesetz gerne in Form einer riesigen Apothekerwaage vor, mit einem Kreuz darauf, an dem zwei Schalen an Ketten hängen. </p>
+<p>Jetzt ist eine der Schüsseln mit „Belohnungen“ gekennzeichnet, die andere mit „Dienst“. </p>
+<p>Was auch immer wir in die Schüssel mit der Aufschrift „Dienst“ geben, die Welt wird in die Schüssel mit der Aufschrift „Belohnungen“ an das anpassen, was wir in die Schüssel mit der Aufschrift „Dienst“ legen. </p>
+<p>Und das Ausmaß und die Art unseres Dienstes werden unsere Belohnungen bestimmen. </p>
+<p>Wenn ein Mensch mit seinen Belohnungen unzufrieden ist, muss er seinen Dienst überprüfen. </p>
+<p>Aktion Reaktion; wie man sät so wirst du ernten; Was Sie ausgeben, bestimmt, was Sie zurückbekommen müssen. </p>
+<p>So einfach, so grundlegend, so wahr – und so missverstanden!</p>
+<p><a href="https://www.goodreads.com/book/show/825450.Lead_the_Field">Lead the Field</a></p>
+<h2 id="so-machen-sie-ihr-leben-zu-einem-meisterwerk">So machen Sie Ihr Leben zu einem Meisterwerk<a class="headerlink" href="#so-machen-sie-ihr-leben-zu-einem-meisterwerk" title="Permanent link"></a></h2>
+<p>Sie müssen mit Ihrem Ideal beginnen, Ihrer Vision einer perfekten Zukunft. </p>
+<p>Sie beginnen, Ihre inneren Kräfte freizusetzen, indem Sie den Blick heben und Ihr Leben genau so „sehen“, als ob es bereits in jeder Hinsicht perfekt wäre. </p>
+<p>Ihre erste Aufgabe besteht darin, einen Plan zu erstellen, ein klares Bild davon, wohin Sie gehen und wie es aussehen wird, wenn Sie dort ankommen. </p>
+<p>Dieses Bild dient dann als Organisationsprinzip, als Leitfaden, als Maßstab, an dem Sie alles messen und vergleichen können, was Sie tun, um es in Ihre Realität umzusetzen.</p>
+<p>Durch die Definition der sieben Erfolgsfaktoren erhalten Sie eine Reihe von Zielen, die Sie anstreben können. </p>
+<p>Wenn Sie Ihr Leben ideal definieren und den Mut haben, genau zu entscheiden, was Sie wollen, beginnen Sie damit, Ihre verborgenen Kräfte freizusetzen, um erfolgreich zu sein.</p>
+<p>Zu wissen, wo man landen möchte, ist der erste und wichtigste Schritt.</p>
+<ol>
+<li>Seelenfrieden</li>
+<li>Gesundheit und Energie</li>
+<li>Liebevolle Beziehungen</li>
+<li>Finanzielle Freiheit</li>
+<li>Würdige Ziele und Ideale</li>
+<li>Selbsterkenntnis und Selbstbewusstsein</li>
+<li>Persönliche Erfüllung</li>
+</ol>
+<p><a href="https://www.goodreads.com/book/show/115613.Maximum_Achievement">Maximum Achievement</a></p>
+<h2 id="hektar-voller-diamanten_1">Hektar voller Diamanten<a class="headerlink" href="#hektar-voller-diamanten_1" title="Permanent link"></a></h2>
+<p>Der Händler nahm den Stein und sagte: „Das ist ein Diamant von großem Wert und Preis.“ </p>
+<p>Der neue Bauer war skeptisch, aber der Händler bestand darauf, ihm zu zeigen, wo er den Diamanten gefunden hatte. </p>
+<p>Sie gingen auf die Farm hinaus, wo der Bauer den Esel getränkt hatte, und als sie sich umsahen, fanden sie einen weiteren Diamanten und noch einen und noch einen. </p>
+<p>Es stellte sich heraus, dass die gesamte Farm mit Hektar voller Diamanten bedeckt war. </p>
+<p>Der alte Bauer war auf der Suche nach Diamanten nach Afrika gegangen, ohne jemals unter seine eigenen Füße zu schauen.</p>
+<p>Die Moral dieser Geschichte war, dass der alte Bauer nicht erkannte, dass die Diamanten in ihrer Rohform nicht wie Diamanten aussehen. </p>
+<p>Für ein ungebildetes Auge sehen sie einfach wie Steine aus.</p>
+<p>Ein Diamant muss geschliffen, facettiert, poliert und gefasst werden, bevor er wie ein Diamant aussieht, den man in Juweliergeschäften sieht. </p>
+<p>Ebenso liegen Ihre Diamantenflächen wahrscheinlich direkt unter Ihren eigenen Füßen. </p>
+<p>Aber sie werden meist als harte Arbeit getarnt. „Chancen ergeben sich in Arbeitskleidung.“</p>
+<p>Ihre Diamanten liegen wahrscheinlich in Ihren eigenen Talenten, Ihren Interessen, Ihrer Ausbildung, Ihrem Hintergrund und Ihrer Erfahrung, Ihrer Branche, Ihrer Stadt, Ihren Kontakten. </p>
+<p>Ihre Diamanten liegen wahrscheinlich direkt unter Ihren eigenen Füßen, wenn Sie sich die Zeit nehmen, sie zu erkennen und sich dann an die Arbeit an ihnen zu machen.</p>
+<p><a href="https://www.goodreads.com/book/show/115613.Maximum_Achievement">Maximum Achievement</a></p>
+<h2 id="ich-habe-also-eine-chance">Ich habe also eine Chance?<a class="headerlink" href="#ich-habe-also-eine-chance" title="Permanent link"></a></h2>
+<p>Aber bevor wir unseren Erfolg erreichen, muss ich ihn im Kopf sehen.</p>
+<p>Visualisierung ist so wichtig. </p>
+<p>Wussten Sie, dass sich der Schauspieler Jim Carrey, als er anfing, stets als reich, berühmt und erfolgreich vorstellte, selbst als er es nicht war? </p>
+<p>Er fuhr durch Los Angeles und tat so, als würde er sich mit Regisseuren treffen – und niemand wusste, wer Jim Carrey war. </p>
+<p>Er hat dies für sich getan. Die Leute hätten ihn vielleicht für verrückt gehalten, aber er sah das Ziel klar vor Augen.</p>
+<p>Klingt, als würde er in einer Traumwelt leben, oder? </p>
+<p>Aber er täuschte seinen Verstand und redete sich ein, dass alle seine Träume da draußen auf ihn warteten. </p>
+<p>Sie würden sein eigentlicher Besitz sein. Er hatte sie einfach noch nicht im Griff. Es würde einige Zeit dauern.</p>
+<p>Als er pleite war, stellte er sich selbst einen Scheck über 10 Millionen Dollar aus. </p>
+<p>Er war davon überzeugt, dass ihm das Geld eines Tages in den Weg kommen würde. </p>
+<p>Er datierte es auf Thanksgiving 1995 und steckte es in seine Brieftasche. </p>
+<p>Kurz vor Thanksgiving Day 1995 erfuhr Carrey, dass er zehn Millionen für einen Film namens Dumb and Dumber verdienen würde. </p>
+<p>Jim Carrey bewahrte diesen Scheck bis zu dem Tag, an dem er seinen Vater beerdigte, in seiner Brieftasche auf und legte ihn in den Sarg seines Vaters, weil sie gemeinsam den Traum hatten, dass er ihn herstellen würde. </p>
+<p>Visualisierung ist mächtig, Mann. Es ist eine der höchsten Formen des GLAUBENS.</p>
+<p><a href="https://www.goodreads.com/book/show/199799649-elevate-and-dominate">Elevate and Dominate</a></p>
+<h2 id="ja-lebt-im-land-von-nein">Ja lebt im Land von Nein<a class="headerlink" href="#ja-lebt-im-land-von-nein" title="Permanent link"></a></h2>
+<p>Ein Eigentümer scheut sich nicht, eine Anfrage zu stellen. Aus diesem Grund schneiden Besitzer beim Verkauf und bei der Werbung so gut ab.</p>
+<p>Opfer haben Angst vor dem Wort „Nein“ und werden erstaunliche Dinge tun, um es nicht jemals zu hören. </p>
+<p>Für ein Opfer bedeutet „Nein“ Ablehnung. Totale, vernichtende Ablehnung. </p>
+<p>„Nein“ klingt für das Opfer nicht nur wie „Nein“, es klingt wie: „Nein, nein, NEIN, du bist NICHTS WERT!“</p>
+<p>Aber für einen Eigentümer ist „Nein“ einfach die andere Seite von „Ja“. </p>
+<p>„Nein“ und „Ja“ leben zusammen. Jeder Mensch hat das uneingeschränkte Recht, entweder „Ja“ oder „Nein“ zu sagen, und das stört den Eigentümer nicht. </p>
+<p>Ein Eigentümer respektiert dieses Recht. Wenn Eigentümer also „Nein“ hören, denken sie nicht, dass mit dem Universum etwas nicht stimmt. </p>
+<p>Sie kommen nicht zu dem Schluss, dass das Leben unfair ist. </p>
+<p>Sie fahren direkt mit ihrer nächsten Anfrage fort. Das Leben besteht aus Bitten und Versprechen.</p>
+<p>Opfer verbringen den größten Teil ihres Lebens damit, das Wort „Nein“ nicht zu hören, weil sie daraus eine Ablehnung bedeuten – völlige, gründliche und persönliche Ablehnung. </p>
+<p>Kein Wunder, dass sie es wann immer möglich vermeiden wollen. </p>
+<p>Das Problem ist, dass sie durch das Vermeiden von „Nein“ auch ein „Ja“ vermeiden. Beides gehört zusammen. Sie leben zusammen.</p>
+<p>Der Hauptgrund dafür, dass Menschen im Leben nicht bekommen, was sie wollen, ist, dass sie Angst haben, danach zu fragen. </p>
+<p>Sie haben Angst vor der Ablehnung, die sie für sich selbst als „Nein“ empfinden.</p>
+<p><a href="https://www.goodreads.com/book/show/93360.Reinventing_Yourself">Reinventing Yourself</a></p>
+<h2 id="freiheit-von-der-tyrannei-der-trends">Freiheit von der Tyrannei der Trends<a class="headerlink" href="#freiheit-von-der-tyrannei-der-trends" title="Permanent link"></a></h2>
+<p>Eine Art und Weise, wie wir unsere Fähigkeit, einen Zustand des Sehens zu erleben, kapern, besteht darin, dass wir in das verwickelt werden, was ich die „Tyrannei der Trends“ nenne. </p>
+<p>Die Tyrannei der Trends ermöglicht es, den Maßstab für Erfolg und den kleinsten gemeinsamen Nenner zu setzen. </p>
+<p>Sehr oft überzeugen Trends den Einzelnen, was der Sinn seines Lebens sein sollte. </p>
+<p>Aus Fernsehen, Radio, Zeitungen, Boulevardzeitungen, Computern und sogar aus dem Wartezimmer unseres Zahnarztes wird uns die Tyrannei der Trends entgegengeblasen, die versuchen, uns davon zu überzeugen, dass wir auf eine bestimmte Weise riechen, ein bestimmtes Etikett tragen, ein bestimmtes Gewicht wiegen müssen Weißere Zähne, ein bestimmtes Auto fahren, ein bestimmtes Einkommen erzielen usw., bevor wir davon ausgehen können, dass wir es geschafft haben.</p>
+<p>Beginnen Sie damit, Ihre Zustimmung zur Mittelmäßigkeit der Tyrannei der Trends bewusst zu brechen. </p>
+<p>Betrachten Sie Trendsetter nicht länger als Menschen, die es zu bewundern oder nachzuahmen gilt. </p>
+<p>Befreien Sie sich von dem Einfluss dessen, was uns die Gesellschaft vorschreibt, wie wir sein sollten. </p>
+<p>Lassen Sie sich in die Gegenwart derjenigen hineinziehen, die die nächste Stufe der menschlichen Evolution verkörpern – einen spirituellen Lehrer oder eine spirituelle Gemeinschaft. </p>
+<p>Jeder von uns ist auf dem Planeten Erde angekommen, um an dem Abenteuer der Erforschung der Wahrheit teilzunehmen, dass wir erleuchtete Wesen sind, die eine menschliche Inkarnation haben.</p>
+<p><a href="https://www.goodreads.com/book/show/5594205-spiritual-liberation">Spiritual Liberation</a></p>
+<h2 id="entscheide-dich-fur-das-licht-im-inneren">Entscheide dich für das Licht im Inneren<a class="headerlink" href="#entscheide-dich-fur-das-licht-im-inneren" title="Permanent link"></a></h2>
+<p>Auf die Frage, wie man angesichts des großen Kommerzials ein Individuum bleiben könne, schlug Bradbury vor: „Lebe einfach dein Leben und schreibe deine Geschichten.</p>
+<p>Wenn Sie sich vorgenommen haben, einen Bestseller zu schreiben, ist das nicht möglich. </p>
+<p>Menschen, die versuchen, sich einen Namen zu machen, werden in der Regel von Menschen übertroffen, die ihre Freude und Talente authentisch zum Ausdruck bringen.“</p>
+<p>Diejenigen, die ihren Namen im Licht sehen, übersehen normalerweise das Licht in sich selbst. </p>
+<p>Sie stellen Ruhm und Ehre an die Spitze der Erfolgsleiter und übersehen persönliche Zufriedenheit und kreativen Ausdruck. </p>
+<p>Menschen, die schwitzen, um Stars zu werden, tun dies selten, während diejenigen, die leben, um ihre Gaben zu teilen und den Ritt zu genießen, oft den Weg in die oberen Ränge des Erfolgs finden.</p>
+<p><a href="https://www.goodreads.com/book/show/7651497-a-daily-dose-of-sanity">A Daily Dose of Sanity</a></p>
+<h2 id="ein-segen-sein">Ein Segen sein<a class="headerlink" href="#ein-segen-sein" title="Permanent link"></a></h2>
+<p>Meiner Meinung nach bestand sein Problem darin, dass er jeden Tag aufwachte und versuchte herauszufinden, was er bekommen konnte, anstatt aufzuwachen und herauszufinden, was er geben konnte. </p>
+<p>Anstatt um einen Segen zu bitten, hätte er üben sollen, ein Segen zu sein.</p>
+<p>Die Wissenschaft ist einfach: Wenn du der Welt Liebe und Respekt gibst, wird die Welt dir Liebe und Respekt zurückgeben.</p>
+<p><a href="https://www.goodreads.com/book/show/27905.Do_You_">Do You!</a></p>
+<h2 id="wie-kann-ich-behilflich-sein">Wie kann ich behilflich sein?<a class="headerlink" href="#wie-kann-ich-behilflich-sein" title="Permanent link"></a></h2>
+<p>Wie alle Superheldengeschichten ist die von Iron Man eine übertriebene Metapher für eine Sichtweise auf das eigene Leben. </p>
+<p>Man muss kein Waffenhersteller sein, der zum wohlwollenden Superhelden geworden ist, um die Superkraft der Kreativität zu entfalten. </p>
+<p>Tatsächlich ist es viel einfacher. Stellen Sie sich heute eine Frage: Wie kann ich Ihnen behilflich sein?</p>
+<p><a href="https://www.goodreads.com/book/show/11168421-the-seven-spiritual-laws-of-superheroes">The Seven Spiritual Laws of Superheroes</a></p>
+<h2 id="opfer-und-risiko">Opfer und Risiko<a class="headerlink" href="#opfer-und-risiko" title="Permanent link"></a></h2>
+<p>Im Gegensatz dazu versprechen echte Opfer keine Garantie für eine konkrete Rendite. </p>
+<p>Meine Mutter brachte ein unkalkulierbar großes Opfer, als sie die schmerzhafte Entscheidung traf, meinen Bruder, meine Schwester und mich in Jamaika, wo wir herkommen, zurückzulassen und auf der Suche nach einem besseren Leben in die Vereinigten Staaten zu gehen. </p>
+<p>Ich war erst zwei Jahre alt, als sie ging. </p>
+<p>Es würde zehn lange Jahre dauern, bis sie die Staatsbürgerschaft erlangte und uns finanziell unterstützen konnte, um sie in diesem Land der unbegrenzten Möglichkeiten zu begleiten. </p>
+<p>Sie konnte nicht ahnen, wie sich diese zehn Jahre entwickeln würden und welche unendlich vielen möglichen Herausforderungen wir alle bewältigen müssen. </p>
+<p>Tatsächlich wurde Dr. Martin Luther King Jr. bereits am ersten Tag nach ihrer Ankunft in den Vereinigten Staaten in Memphis erschossen, was im ganzen Land Unruhen auslöste. </p>
+<p>So wie sie es erzählt, war sie schockiert darüber, dass ihr Traum so verheerend begann. </p>
+<p>Aber sie verstand, dass es hier nicht nur um ihre Gefühle und Ängste ging; Sie hatte drei kleine Kinder, die von ihrer Mutter betreut wurden, die sich darauf verließ, dass sie weitermachte. </p>
+<p>Und sie machte weiter, mit Mut, Entschlossenheit und Zielstrebigkeit, und ein Jahrzehnt später erfüllte sie die Aufgabe, die sie sich so viele Jahre zuvor vorgenommen hatte, und schließlich konnten wir uns wieder als eine Familie vereinen.</p>
+<p><a href="https://www.goodreads.com/book/show/195820950-move-by-move">Move by Move</a></p>
+<h2 id="rotes-gelbes-grunes-licht">Rotes -&gt; Gelbes -&gt; Grünes Licht<a class="headerlink" href="#rotes-gelbes-grunes-licht" title="Permanent link"></a></h2>
+<p>Ich hatte das Gefühl, den Unterschied zwischen einem Rotlicht- und einem Grünlicht-Zustand zu verstehen. </p>
+<p>Ich wollte lernen, wie man grünes Licht schafft und dort bleibt.</p>
+<p>„Sie erkennen, dass Sie, wenn Sie sich in einem Rotlicht- oder Gelblichtzustand befinden, eine Release-Routine benötigen, um wieder auf Grün zu kommen und die Kontrolle über sich selbst zu erlangen. Diese Release-Routine folgt einem dreistufigen Prozess“, sagte Coach Kenny. „Sie benötigen (#1) eine körperliche Aktion, die Sie mit einer Assoziation ausführen, die als Auslöser dafür dient, die Vergangenheit loszulassen und mit dem nächsten Stück oder dem nächsten Teil Ihres Tages fortzufahren. Dann (#2) atmen Sie tief ein, während Sie auf einen festen Punkt blicken, den wir als Brennpunkt bezeichnen, um Ihr Gehirn mit Sauerstoff zu versorgen und wieder die Kontrolle über sich selbst zu erlangen. Und dann haben Sie (#3) einen verbalen Auslöser, den Sie sagen, der die Vergangenheit abschneidet und Ihr Engagement für die Gegenwart festigt.“</p>
+<p>Dann stand Trainer Kenny auf, klatschte in die Hände, holte tief Luft, wischte sich mit den Händen über die Brust, als würde er sich den Dreck abwischen, und sagte: „GUT. Was ist jetzt wichtig?“</p>
+<p><a href="https://www.goodreads.com/book/show/43228338-the-10-pillars-of-mental-performance-mastery">The 10 Pillars of Mental Performance Mastery</a></p>
+<h2 id="die-zwei-grenzen-des-lebens">Die zwei Grenzen des Lebens<a class="headerlink" href="#die-zwei-grenzen-des-lebens" title="Permanent link"></a></h2>
+<p>„Schlichtheit ist schön, mein Freund“, sagte Peter. „Der Code ist einfach und ich habe ihn in ein leicht zu merkendes Framework gepackt. Wie Sie ihn jedoch anwenden, liegt ganz bei Ihnen. Ich hoffe, dieses Paddel wird Sie immer daran erinnern, dass Sie im Leben nur durch zwei Dinge eingeschränkt sind: Ihre Fähigkeit zu träumen und den Mut, diese Träume zu verfolgen. Außerhalb dieses Hafens wartet eine erstaunliche Welt auf Sie.“ </p>
+<p>Peter deutete auf den Bug der Persistence, der auf Hardwork Bay zusteuerte. „Sie haben das Boot und den Verstand, um die Welt zu erkunden. Alles, was Sie jetzt tun müssen, ist, einen Kurs zu finden und den Mut zu haben, ihm zu folgen.“</p>
+<p><a href="https://www.goodreads.com/book/show/17819744-be-unstoppable">Be Unstoppable</a></p>
+<h2 id="die-vision-eines-champions">Die Vision eines Champions<a class="headerlink" href="#die-vision-eines-champions" title="Permanent link"></a></h2>
+<p>Meine Lieblingsbeschreibung von Spitzenleistungen in der Welt des Sports stammt von Anson Dorrance, dem legendären Fußballtrainer der Frauen der University of North Carolina. </p>
+<p>Er fuhr eines Morgens früh zur Arbeit und als er an einem verlassenen Feld vorbeikam, bemerkte er in der Ferne eine seiner Spielerinnen, die alleine zusätzliches Training absolvierte. </p>
+<p>Er fuhr weiter, hinterließ aber später eine Notiz in ihrem Spind: „Die Vision eines Champions ist jemand, der gebeugt und schweißgebadet am Rande der Erschöpfung steht, wenn niemand sonst zusieht.“ </p>
+<p>Die junge Frau, Mia Hamm, sollte eine der größten Spielerinnen in der Geschichte des Sports werden.</p>
+<p>Ein großer Traum – und eine klare Vorstellung davon, wie man aussehen wird, wenn man nach Spitzenleistungen im Wettbewerb strebt – inspiriert immer zu Großartigkeit. </p>
+<p>Was ist Ihr Traumziel? </p>
+<p>Wie sieht Spitzenleistung in Ihrem Spiel aus, wenn Sie voll und ganz bei der Sache sind und Ihren Traum leidenschaftlich verfolgen – die Beste in Ihrem Sport zu werden, die Sie sein können? </p>
+<p>Formulieren Sie die Beschreibung lebendig und kraftvoll genug, um Ihnen den Adrenalinschub zu geben, wenn Sie ihn brauchen, einen Schub, der nur entstehen kann, wenn Sie sich vollständig mit dem wahren Wunsch Ihres Herzens identifizieren.</p>
+<p><a href="https://www.goodreads.com/book/show/18050010-the-champion-s-mind">The Champion&rsquo;s Mind</a></p>
+<h2 id="das-ehrenversprechen-des-champions">Das Ehrenversprechen des Champions<a class="headerlink" href="#das-ehrenversprechen-des-champions" title="Permanent link"></a></h2>
+<p>Haben Sie den Mut, das zu verfolgen, was Sie im Sport und im Leben am meisten wollen. </p>
+<p>Wenn Sie den Mut haben, anzufangen, werden Sie auch den Mut haben, es zu beenden. </p>
+<p>Machen Sie „Denken Sie an Gold und geben Sie sich nie mit Silber zufrieden“ zu Ihrem Lebensmotto und setzen Sie es täglich in die Tat um. </p>
+<p>Entfalten Sie das Potenzial Ihres Lebens voll und ganz – sowohl auf dem Spielfeld als auch außerhalb –, denn Ihr Leben ist einzigartig. </p>
+<p>So zu denken ist der ultimative Sieg für jeden Champion. Jetzt sind Sie bereit, das Ehrengelöbnis des Champions abzulegen:</p>
+<p>Durch meine Bemühungen werde ich meinen Körper stark, meinen Geist konzentriert und meine Entschlossenheit unaufhaltsam halten.
+Ich bin entschlossen, im Hier und Jetzt mit Kraft, Zielstrebigkeit und Leidenschaft anzutreten.
+Ich weiß, dass jeder Muskelkater und jeder Schweißtropfen eine Investition in Exzellenz ist.
+Ich strebe danach, mein Bestes zu geben, nichts Geringeres, und Freude wird aus meinem Streben kommen.
+Es stimmt, es kommt immer Schmerz, aber ich kann ihn ertragen.
+Mein Körper gewinnt, wenn mein Geist sich weigert, aufzugeben.
+In einer Niederlage werde ich nachdenken und lernen.
+Im Sieg werde ich den herrlichen Moment genießen.
+Morgen beginnen meine Bemühungen immer von Neuem.</p>
+<p><a href="https://www.goodreads.com/book/show/18050010-the-champion-s-mind">The Champion&rsquo;s Mind</a></p>
+<h2 id="exzeptionalismus">Exzeptionalismus<a class="headerlink" href="#exzeptionalismus" title="Permanent link"></a></h2>
+<p>Die entscheidende Bedeutung dieser Einstellung ist das Wichtigste, was ich in meinen Jahrzehnten der Arbeit mit Menschen, die nach Größe streben, über Außergewöhnlichkeit gelernt habe. </p>
+<p>Talent, wie es allgemein definiert wird, ist natürlich Teil der Gleichung. </p>
+<p>Wie Bear Bryant einmal sagte: „Wann haben Sie zuletzt einen Idioten den Kentucky Derby gewinnen sehen?“ </p>
+<p>Aber es gibt viele Menschen mit körperlichem Talent, genauso wie es viele Menschen mit roher Intelligenz gibt. </p>
+<p>Ich würde behaupten, dass die meisten Menschen in irgendetwas talentiert sind, ob sie es nun erkennen oder nicht. </p>
+<p>Was bloß talentierte Menschen von außergewöhnlichen Menschen unterscheidet, kann nicht am vertikalen Sprung, der Zeit für den 40-Meter-Lauf, der Länge vom Abschlag oder dem IQ gemessen werden. </p>
+<p>Es ist etwas Inneres. </p>
+<p>Große Leistungsträger teilen eine Denkweise, eine Reihe von Einstellungen und Eigenschaften wie Optimismus, Selbstvertrauen, Ausdauer und starken Willen. </p>
+<p>Sie alle wollen sich selbst antreiben, um zu sehen, wie großartig sie werden können. </p>
+<p>Diese Eigenschaften und Einstellungen veranlassen Champions, härter und intelligenter zu arbeiten als andere Menschen, wenn sie sich auf einen Wettkampf vorbereiten. </p>
+<p>Sie helfen ihnen, unter Druck konzentriert zu bleiben und ihre beste Leistung zu erbringen, wenn am meisten auf dem Spiel steht.</p>
+<p><a href="https://www.goodreads.com/book/show/25305085-how-champions-think">How Champions Think</a></p>
+<h2 id="begeisterung-der-katalysator-der-champions">Begeisterung: Der Katalysator der Champions<a class="headerlink" href="#begeisterung-der-katalysator-der-champions" title="Permanent link"></a></h2>
+<p>Um eine Analogie aus der Chemie zu verwenden: Begeisterung wirkt wie ein Katalysator, der alle anderen geistigen Eigenschaften eines Champions besser funktionieren lässt. </p>
+<p>Um ein wichtiges Beispiel zu nennen: Beharrlichkeit ist viel einfacher, wenn man von dem, was man tut, begeistert ist. </p>
+<p>An etwas festzuhalten, das man liebt, ist wie Fahrradfahren bergab. </p>
+<p>An etwas festzuhalten, das man nicht liebt, ist wie Fahrradfahren bergauf.</p>
+<p><a href="https://www.goodreads.com/book/show/25305085-how-champions-think">How Champions Think</a></p>
+<h2 id="studieren-sie-das-leben-der-heiligen">Studieren Sie das Leben der Heiligen<a class="headerlink" href="#studieren-sie-das-leben-der-heiligen" title="Permanent link"></a></h2>
+<p>Studieren Sie das Leben der Heiligen. </p>
+<p>Was leicht zu tun ist, ist nicht der Weg des Herrn. Was schwer zu tun ist, ist sein Weg! </p>
+<p>Der heilige Franziskus hatte mehr Probleme, als Sie sich vorstellen können, aber er gab nicht auf. </p>
+<p>Eins nach dem anderen überwand er diese Hindernisse durch die Kraft des Geistes und wurde eins mit dem Meister des Universums. </p>
+<p>Warum sollten Sie nicht diese Art von Entschlossenheit haben? </p>
+<p>Ich denke oft, dass die sündhafteste Handlung im Leben darin besteht, ein Versagen einzugestehen, denn damit leugnen Sie die höchste Macht Ihrer Seele, Gottes Ebenbild in Ihnen. </p>
+<p>Geben Sie niemals auf.</p>
+<p>Entwickeln Sie eine Vorliebe für jene Bestrebungen, die Ihnen helfen, mehr Kontrolle über sich selbst zu erlangen. </p>
+<p>Ein wahrer Sieg besteht darin, Ihre guten Vorsätze trotz aller Schwierigkeiten in die Tat umzusetzen. </p>
+<p>Lassen Sie nicht zu, dass Sie Ihre Entschlossenheit durch irgendetwas brechen. </p>
+<p>Die meisten Menschen argumentieren: „Lass es heute sein, ich werde es morgen noch einmal versuchen.“ </p>
+<p>Täuschen Sie sich nicht. </p>
+<p>Diese Art des Denkens wird Ihnen keinen Sieg bringen. </p>
+<p>Wenn Sie einen Vorsatz fassen und nie aufhören, ihn umzusetzen, werden Sie Erfolg haben. </p>
+<p>Die heilige Teresa von Avila sagte: „Heilige sind Sünder, die niemals aufgegeben haben.“ </p>
+<p>Wer niemals aufgibt, erringt letztendlich den Sieg.</p>
+<p><a href="https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_">To Be Victorious in Life</a></p>
+<h2 id="begeisterung">Begeisterung<a class="headerlink" href="#begeisterung" title="Permanent link"></a></h2>
+<p>Begeisterung ist einer der stärksten Motoren des Erfolgs. </p>
+<p>Wenn Sie etwas tun, tun Sie es mit aller Kraft. </p>
+<p>Geben Sie ihm Ihre ganze Seele. Geben Sie ihm Ihren eigenen Stempel auf. </p>
+<p>Seien Sie aktiv, energisch, enthusiastisch und treu, und Sie werden Ihr Ziel erreichen. </p>
+<p>Ohne Begeisterung wurde nie etwas Großes erreicht.</p>
+<p>Jede große und richtungsweisende Bewegung in den Annalen der Welt ist dem Triumph der Begeisterung zu verdanken.</p>
+<p><a href="https://www.goodreads.com/book/show/716871.The_Selected_Writings_of_Ralph_Waldo_Emerson">The Selected Writings of Ralph Waldo Emerson</a></p>
+<h2 id="gib-niemals-auf-auer-wenn-du-aufhoren-solltest">Gib niemals auf &hellip; außer wenn du aufhören solltest<a class="headerlink" href="#gib-niemals-auf-auer-wenn-du-aufhoren-solltest" title="Permanent link"></a></h2>
+<p>Hier ist, worauf es hinausläuft: Wenn Sie etwas tun, das Ihnen wirklich am Herzen liegt, etwas, von dem Sie wissen, dass es mit Ihrem wahren Ich und Ihren höchsten Zielen im Leben übereinstimmt, geben Sie niemals auf, weil Sie Angst davor haben, was passieren könnte, wenn Sie weitermachen. </p>
+<p>Angst wird da sein, und das ist einfach ein Teil der Sache – machen Sie trotzdem weiter. </p>
+<p>Scheitern ist das schlimmste mögliche Ergebnis, und das ist nicht allzu schlimm, wenn man bedenkt, dass jeder, der sich ins Zeug legt, auf dem Weg zum Erfolg zwangsläufig scheitern wird, oft sogar regelmäßig. </p>
+<p>Leadman zu beenden, entsprach dem, wer ich sein möchte und wie ich mein Leben verbringen möchte, also war Aufgeben keine Option.</p>
+<p>Wenn Sie andererseits etwas tun, von dem Sie erkennen, dass es nicht mit Ihrem wahren Ich und Ihren höchsten Zielen übereinstimmt, stehen die Chancen gut, dass Sie es weiter tun, weil die Angst Ihnen sagt, nicht aufzugeben. </p>
+<p>Sie haben Angst davor, was passieren wird, wenn Sie aufgeben. </p>
+<p>Oder weil andere Leute Ihnen sagen, dass Sie weitermachen sollen. </p>
+<p>Oder weil Geldverdienen irgendwie wichtiger geworden ist als glücklich zu sein. </p>
+<p>Oder weil Sie vor langer Zeit die Entscheidung getroffen haben, einen bestimmten Weg einzuschlagen, und sich nicht damit abfinden können, Ihre Meinung zu ändern. </p>
+<p>Wenn Sie in Ihrem Leben etwas tun, was Sie nicht tun möchten, dann HÖREN SIE AUF. </p>
+<p>Wahrer Mut besteht darin, die Angst zu überwinden und Ihr Leben auf eine Weise zu verbringen, die Sie für sinnvoll halten. </p>
+<p>Eineinhalb Jahre später scherze ich mit Freunden, dass ich „stolz darauf bin, ein Schulabbrecher zu sein“, nachdem ich das Programm zur Schulleiterzulassung abgebrochen habe. </p>
+<p>Die Wahrheit ist viel ernster: Ich bin verdammt froh, dass ich etwas aufgegeben habe, was ich aus Angst getan habe und das mich auf ein Leben vorbereitet hätte, das ich nicht wollte.</p>
+<p><a href="https://www.goodreads.com/book/show/22715975-the-ultra-mindset">The Ultra Mindset</a></p>
+<h2 id="handeln-sie-wie-ein-champion-jetzt">Handeln Sie wie ein Champion – jetzt<a class="headerlink" href="#handeln-sie-wie-ein-champion-jetzt" title="Permanent link"></a></h2>
+<p>Jim Afremow, ein führender Sportpsychologe, schreibt in seinem Buch A Champion’s Mind: „Es gibt keinen goldenen Weg zur Exzellenz; Exzellenz ist der goldene Weg. Solange Sie diesen Weg nicht einschlagen, werden Sie nie eine Chance haben, dorthin zu gelangen.“ </p>
+<p>Mit anderen Worten: Sie werden nicht erst ein Champion und beginnen dann, sich wie ein Champion zu benehmen. </p>
+<p>Egal, ob Sie Profisportler oder Mitarbeiter auf mittlerer Ebene in einer Anwaltskanzlei sind, beim Streben nach Exzellenz geht es darum, täglich die Verhaltensweisen und Gewohnheiten eines Champions zu leben und zu atmen. </p>
+<p>Es geht darum, bei allem, was Sie tun, Ihr Bestes zu geben, ob Sie für eine Prüfung lernen, bei CrossFit trainieren, den Geschirrspüler einräumen oder einem Freund in Not zuhören. </p>
+<p>Es ist die Art und Weise, wie Sie versuchen, Ihr Potenzial auszuschöpfen, die Sie als Champion definiert, nicht Titel, Medaillen oder Auszeichnungen. </p>
+<p>Doch wenn Sie anfangen, sich wie ein Champion zu benehmen, passiert etwas Merkwürdiges – wenn Sie alles, was Sie haben, in den Prozess einbringen, fügt sich in der Regel alles zusammen.</p>
+<p>Es wird nicht einfach sein, und es wird nicht über Nacht passieren. </p>
+<p>Sie werden nicht perfekt sein; Tatsächlich werden Sie auf dem Weg dorthin viel Mühe haben. </p>
+<p>Aber wenn Sie jeden Moment des Tages nach Perfektion streben, können Sie Spitzenleistungen erzielen. </p>
+<p>Aber Sie müssen anfangen. Machen Sie sich an die Arbeit.</p>
+<p><a href="https://www.goodreads.com/book/show/35713474-chasing-excellence">Chasing Excellence</a></p>
+<h2 id="das-geheimnis-nachhaltigen-erfolgs">Das Geheimnis nachhaltigen Erfolgs<a class="headerlink" href="#das-geheimnis-nachhaltigen-erfolgs" title="Permanent link"></a></h2>
+<p>Überlegen Sie einmal kurz, was nötig ist, um Muskeln wie den Bizeps zu stärken. </p>
+<p>Wenn Sie versuchen, zu schwere Gewichte zu heben, werden Sie wahrscheinlich nicht mehr als eine Wiederholung schaffen. </p>
+<p>Und selbst wenn Sie es schaffen, besteht die Gefahr, dass Sie sich dabei verletzen. </p>
+<p>Heben Sie dagegen zu leichte Gewichte, werden Sie kaum oder gar keine Ergebnisse sehen; Ihr Bizeps wird einfach nicht wachsen. </p>
+<p>Sie müssen das Goldlöckchen-Gewicht finden: ein Gewicht, das Sie kaum schaffen und das Sie am Ende Ihres Trainings erschöpft und müde – aber nicht verletzt – zurücklässt. </p>
+<p>Doch das Finden dieses Idealgewichts ist nur die halbe Miete. </p>
+<p>Wenn Sie jeden Tag mehrmals Gewichte heben, ohne zwischendurch viel Pause zu machen, werden Sie mit ziemlicher Sicherheit ausbrennen. </p>
+<p>Aber wenn Sie es kaum jemals ins Fitnessstudio schaffen und es nicht schaffen, regelmäßig an Ihre Grenzen zu gehen, werden Sie auch nicht viel stärker werden. </p>
+<p>Der Schlüssel zur Stärkung Ihres Bizeps – und, wie wir erfahren werden, jedes Muskels, sei er physisch, kognitiv oder emotional – liegt in der Balance zwischen der richtigen Menge an Belastung und der richtigen Menge an Ruhe. </p>
+<p>Belastung + Ruhe = Wachstum. Diese Gleichung gilt unabhängig davon, was Sie wachsen lassen möchten.</p>
+<p><a href="https://www.goodreads.com/book/show/31450959-peak-performance">Peak Performance</a></p>
+<h2 id="der-3-stufen-erfolgszyklus">Der 3-Stufen-Erfolgszyklus<a class="headerlink" href="#der-3-stufen-erfolgszyklus" title="Permanent link"></a></h2>
+<p>„Wenn Sie eine 1%-Absicht formulieren, möchten Sie sicher sein, dass Sie den 3-Stufen-Erfolgszyklus befolgen können. Der 3-Stufen-Erfolgszyklus ist ein Prozess, der auf alle Arten von Leistung angewendet wird, auf Lehren, Ehe, Sport, Geschäft und ja, Ihre 1%-Absicht“, sagte Sunny.</p>
+<p>„Zuerst müssen Sie sich auf Ihre Leistung vorbereiten. Dann führen Sie aus, was sie sich vorgenommen haben. Schließlich müssen Sie über Ihre Leistung nachdenken, um Ihren Lerneffekt aus dieser Leistung an diesem Tag zu maximieren. Der größte Fehler, den ich bei Leuten sehe, die die 1%-Absicht formulieren, ist, dass sie sich vorbereiten, indem sie aufschreiben, was sie tun werden, dann führen sie ihre 1%-Absicht für eine kurze Zeit aus, vergessen aber, darüber nachzudenken. Beim Nachdenken werden die goldenen Nuggets der Weisheit und Entwicklung abgebaut. Sie müssen nachdenken, damit Sie lernen können. Andernfalls fallen Sie zurück in die Routine, anstatt durch die Routine zu wachsen.“</p>
+<p><a href="https://www.goodreads.com/book/show/62826477-one-percent-better">One Percent Better</a></p>
+<h2 id="erwartungen-akzeptieren">Erwartungen akzeptieren<a class="headerlink" href="#erwartungen-akzeptieren" title="Permanent link"></a></h2>
+<p>In seinem Buch „Schnelles Denken, langsames Denken“ schreibt der Nobelpreisträger Daniel Kahneman über die Vorteile der Angst vor dem Scheitern, die er als „Verlustaversion“ bezeichnet. </p>
+<p>Unter Berufung auf Forschungsergebnisse von Devon Pope und Maurice Schweitzer an der University of Pennsylvania diskutiert er die „relative Stärke zweier Motive“ in den Statistiken professioneller Golfspieler: „Ganz gleich, ob der Putt leicht oder schwer war, bei jeder Entfernung vom Loch waren die Spieler erfolgreicher, wenn sie auf Par putten, als auf Birdie.“ </p>
+<p>Der Unterschied in der Erfolgsquote betrug 3,6 Prozent.</p>
+<p>Wir spielen anscheinend nicht, um zu gewinnen, sondern um nicht zu verlieren.</p>
+<p>„Die Geschichte des Rugby der All Blacks war so erfolgreich, dass in Neuseeland die Erwartung besteht, dass wir jeden Test gewinnen“, sagt Graham Henry, „und ich denke, das ist gut für das Team. Wenn es diese Erwartung nicht gäbe, würden wir sicher nicht die Standards erreichen, die wir erreichen.“</p>
+<p><a href="https://www.goodreads.com/book/show/18890191-legacy">Legacy</a></p>
+<h2 id="goliath-das-ist-david">Goliath, das ist David<a class="headerlink" href="#goliath-das-ist-david" title="Permanent link"></a></h2>
+<p>Die Schlacht wird auf wundersame Weise von einem Außenseiter gewonnen, der nach allen Erwartungen überhaupt nicht hätte gewinnen dürfen. </p>
+<p>So haben wir uns die Geschichte seit vielen Jahrhunderten gegenseitig erzählt. </p>
+<p>So hat sich die Phrase „David und Goliath“ in unsere Sprache eingeprägt – als Metapher für einen unwahrscheinlichen Sieg. </p>
+<p>Und das Problem mit dieser Version der Ereignisse ist, dass fast alles daran falsch ist.</p>
+<p>„Goliath hatte gegen David so viele Chancen“, schreibt der Historiker Robert Dohrenwend, „wie jeder Krieger aus der Bronzezeit mit einem Schwert gegen einen [Gegner] gehabt hätte, der mit einer 45er-Automatikpistole bewaffnet war.“</p>
+<p>Was die Israeliten von hoch oben auf dem Bergkamm sahen, war ein einschüchternder Riese. </p>
+<p>In Wirklichkeit war genau das, was dem Riesen seine Größe verlieh, auch die Quelle seiner größten Schwäche. </p>
+<p>Daraus lässt sich eine wichtige Lektion für Kämpfe mit Riesen aller Art ableiten. </p>
+<p>Die Mächtigen und Starken sind nicht immer das, was sie zu sein scheinen.</p>
+<p>David rannte auf Goliath zu, angetrieben von Mut und Glauben. </p>
+<p>Goliath bemerkte sein Herannahen nicht – und dann war er am Boden, zu groß und zu langsam und mit verschwommenen Augen, um zu begreifen, wie sich das Blatt gewendet hatte. </p>
+<p>All die Jahre haben wir solche Geschichten falsch erzählt.</p>
+<p><a href="https://www.goodreads.com/book/show/15751404-david-and-goliath">David and Goliath</a></p>
+<h2 id="das-umgekehrte-u">Das umgekehrte U<a class="headerlink" href="#das-umgekehrte-u" title="Permanent link"></a></h2>
+<p>Umgekehrte U-Kurven sind schwer zu verstehen. </p>
+<p>Sie überraschen uns fast immer, und einer der Gründe, warum wir so oft Vor- und Nachteile verwechseln, ist, dass wir vergessen, wann wir in einer U-förmigen Welt agieren.</p>
+<p>Die Psychologen Barry Schwartz und Adam Grant argumentieren in einem brillanten Artikel, dass in der Tat fast alles von Bedeutung dem umgekehrten U folgt: </p>
+<p>„In vielen Bereichen der Psychologie stellt man fest, dass X Y bis zu einem gewissen Punkt erhöht und dann Y verringert. So etwas wie ein uneingeschränktes Gut gibt es nicht. Alle positiven Eigenschaften, Zustände und Erfahrungen haben Kosten, die auf hohem Niveau beginnen können, ihre Vorteile aufzuwiegen.“</p>
+<p>Wir alle gehen davon aus, dass es immer in unserem besten Interesse ist, größer und stärker und reicher zu sein. Vivek Ranadivé, ein Hirtenjunge namens David und Direktor der Shepaug Valley Middle School, wird Ihnen sagen, dass dies nicht der Fall ist.</p>
+<p><a href="https://www.goodreads.com/book/show/15751404-david-and-goliath">David and Goliath</a></p>
+<h2 id="die-beatles-und-ihre-1200-konzerte">Die Beatles und ihre 1.200 Konzerte<a class="headerlink" href="#die-beatles-und-ihre-1200-konzerte" title="Permanent link"></a></h2>
+<p>Schließlich reisten die Beatles zwischen 1960 und Ende 1962 fünfmal nach Hamburg. </p>
+<p>Beim ersten Trip spielten sie 106 Abende, jeweils fünf oder mehr Stunden pro Abend. </p>
+<p>Beim zweiten Trip spielten sie 92 Mal. </p>
+<p>Beim dritten Trip spielten sie 48 Mal und standen insgesamt 172 Stunden auf der Bühne. </p>
+<p>Die letzten beiden Auftritte in Hamburg im November und Dezember 1962 umfassten weitere 90 Stunden Bühnenauftritte. </p>
+<p>Insgesamt traten sie in etwas mehr als eineinhalb Jahren 270 Abende auf. </p>
+<p>Bis zu ihrem ersten großen Erfolg im Jahr 1964 hatten sie schätzungsweise zwölfhundert Live-Auftritte absolviert. </p>
+<p>Wissen Sie, wie außergewöhnlich das ist? </p>
+<p>Die meisten Bands von heute treten in ihrer gesamten Karriere nicht zwölfhundert Mal auf. </p>
+<p>Die Feuerprobe in Hamburg ist eines der Dinge, die die Beatles von anderen abheben.</p>
+<p>„Als sie dorthin gingen, waren sie auf der Bühne nicht gut, aber als sie zurückkamen, waren sie sehr gut“, fuhr Norman fort. „Sie lernten nicht nur Ausdauer. Sie mussten eine enorme Menge an Nummern lernen – Coverversionen von allem, was man sich vorstellen kann, nicht nur Rock and Roll, auch ein bisschen Jazz. Davor waren sie auf der Bühne überhaupt nicht diszipliniert. Aber als sie zurückkamen, klangen sie wie niemand sonst. Das war ihr Durchbruch.“</p>
+<p><a href="https://www.goodreads.com/book/show/3228917-outliers">Outliers</a></p>
+<h2 id="bill-gates-schleicht-sich-aus-dem-bett-um-zu-programmieren">Bill Gates schleicht sich aus dem Bett, um zu programmieren<a class="headerlink" href="#bill-gates-schleicht-sich-aus-dem-bett-um-zu-programmieren" title="Permanent link"></a></h2>
+<p>„Es war meine Obsession“, sagt Gates über seine ersten Jahre auf der High School. „Ich habe den Sport geschwänzt. Ich bin abends hingegangen. Am Wochenende haben wir programmiert. Es kam selten vor, dass wir nicht zwanzig oder dreißig Stunden pro Woche trainierten. Es gab eine Zeit, in der Paul Allen und ich Ärger bekamen, weil wir ein paar Passwörter geklaut und das System zum Absturz gebracht hatten. Wir wurden rausgeschmissen. Ich konnte den ganzen Sommer nicht an den Computer. Das war, als ich fünfzehn und sechzehn war. Dann fand ich heraus, dass Paul einen Computer gefunden hatte, der an der University of Washington frei war. Sie hatten diese Maschinen im medizinischen Zentrum und in der Physikabteilung. Sie hatten einen 24-Stunden-Plan, aber mit dieser großen Leerlaufzeit, sodass zwischen drei und sechs Uhr morgens nie etwas angesetzt war.“ </p>
+<p>Gates lachte. „Ich bin abends losgefahren, nach meiner Schlafenszeit. Ich konnte von zu Hause zur University of Washington laufen. Oder ich nahm den Bus. Aus diesem Grund bin ich der University of Washington gegenüber immer so großzügig, weil sie mir erlaubt haben, so viel Computerzeit zu stehlen.“ </p>
+<p>(Jahre später sagte Gates‘ Mutter: „Wir haben uns immer gewundert, warum es ihm so schwer fiel, morgens aufzustehen.“)</p>
+<p>Wir tun so, als sei Erfolg ausschließlich eine Frage individueller Leistung. </p>
+<p>Doch in keiner der Geschichten, die wir bisher untersucht haben, findet sich ein Hinweis darauf, dass die Dinge so einfach sind. </p>
+<p>Vielmehr sind es Geschichten von Menschen, die eine besondere Chance erhielten, wirklich hart zu arbeiten, und diese Chance ergriffen, und die zufällig zu einer Zeit erwachsen wurden, als diese außergewöhnliche Anstrengung vom Rest der Gesellschaft belohnt wurde. </p>
+<p>Ihr Erfolg war nicht nur ihr eigenes Werk. Er war ein Produkt der Welt, in der sie aufwuchsen.</p>
+<p><a href="https://www.goodreads.com/book/show/3228917-outliers">Outliers</a></p>
+<h2 id="beenden-sie-stark">Beenden Sie stark!<a class="headerlink" href="#beenden-sie-stark" title="Permanent link"></a></h2>
+<p>Die Lektion für mich war, dass das Allerletzte, was man auf einer Mission tut, genauso wichtig ist wie das Erste, das man getan hat – vielleicht sogar noch wichtiger, weil man jetzt müde ist. </p>
+<p>Es ist wie die letzte Meile eines Marathons: Die Anstrengung muss bewusster erfolgen und man muss sich selbst hart antreiben, um bis zum Ende durchzuhalten. </p>
+<p>Es ist verlockend, sich zu sagen: „Ich habe nur noch 20 Schritte vor mir“, aber wenn man schon auf die Ziellinie wartet, ist die Wahrscheinlichkeit groß, dass man nachlässt und dann Fehler macht – Fehler, die in meinem Beruf tödlich sein könnten.</p>
+<p>Es ist gefährlich, den Abstieg als Antiklimax zu betrachten. </p>
+<p>Anstatt sehnsüchtig über die Schulter auf das zurückzublicken, was man hinter sich lässt, sollte man sich fragen: „Was ist das Nächste, das mich töten könnte?“</p>
+<p><a href="https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth">An Astronaut&rsquo;s Guide to Life on Earth</a></p>
+<h2 id="der-publikumseffekt">Der Publikumseffekt<a class="headerlink" href="#der-publikumseffekt" title="Permanent link"></a></h2>
+<p>Psychologen haben einen Namen für dieses Phänomen: den Publikumseffekt. </p>
+<p>Das Online-Psychologiewörterbuch definiert es als „den Einfluss der Anwesenheit anderer Menschen auf das Verhalten einer Person“. </p>
+<p>Psychologen glauben, dass der Publikumseffekt durch ein sogenanntes Soziometer vermittelt wird, einen Mechanismus, an dem mehrere Regionen des Gehirns beteiligt sind, darunter die vordere Inselrinde und der untere Gyrus. </p>
+<p>Durch diesen Mechanismus bemerken und interpretieren Menschen die Aufmerksamkeit der Menschen um sie herum und verwenden diese Eingabe, um ihr Verhalten auf eine Weise anzupassen, die ihnen wahrscheinlich mehr positive Aufmerksamkeit einbringt.</p>
+<p>Im Wesentlichen bringt der Publikumseffekt Menschen dazu, höhere Ansprüche an sich selbst zu stellen. </p>
+<p>Betrachten wir eine Studie aus dem Jahr 2011, die von Psychologen der Newcastle University durchgeführt und in Evolution and Human Behavior veröffentlicht wurde. </p>
+<p>Sie ergab, dass College-Studenten eher dazu neigten, in einer Cafeteria ihren Hintern aufzuräumen, wenn Poster mit menschlichen Augen auffällig an den Wänden hingen. </p>
+<p>Der Publikumseffekt erhöht die Ansprüche der Menschen nicht nur an moralisches Verhalten, sondern auch an jede Art von Aufgabenerfüllung, die beurteilt werden könnte. </p>
+<p>Wir Menschen möchten als „gut in“ allem angesehen werden, was wir in Gegenwart anderer tun.</p>
+<p><a href="https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle">How Bad Do You Want It?</a></p>
+<h2 id="ubertreffen-sie-ihren-vertrag">Übertreffen Sie Ihren Vertrag?<a class="headerlink" href="#ubertreffen-sie-ihren-vertrag" title="Permanent link"></a></h2>
+<p>Kompromissloses Training und ständiger Einsatz im Wettkampf sind entscheidend, um sportliche Ziele zu erreichen. </p>
+<p>J.J. Watt ist ein NFL All-Pro Defensive End für die Houston Texans. </p>
+<p>Seine Bereitschaft, die für Spitzenleistungen erforderlichen zusätzlichen Anstrengungen auf sich zu nehmen, ist einer der Hauptgründe für seinen Erfolg. </p>
+<p>Watt sagt Folgendes über harte Arbeit und eine gute Selbstdarstellung: „Ich denke, egal, welchen Job man macht – es ist mir egal, welcher Job es ist – man möchte mehr leisten, als man vertraglich vereinbart ist. Ich finde, so sollte zumindest jeder seinen Job angehen. Man sollte wollen, dass die Leute denken, man sei unterbezahlt, weil man so hart arbeitet, weil man seinen Job so gut macht, weil man seine Arbeit so gut macht.“</p>
+<p>Nehmen Sie sich einen Moment Zeit für ehrliche Selbstreflexion. </p>
+<p>Übertreffen Sie Ihre vertraglich vereinbarte Leistung? </p>
+<p>Gehen Sie täglich hart an Ihren Job heran? </p>
+<p>Wie sieht es mit Ihrem Sport aus? </p>
+<p>Sind Sie einer der fleißigsten Arbeiter in Ihrem Team? </p>
+<p>Geben Sie 100 Prozent maximale Anstrengung für Ihre Ziele und gehen Sie mit Leidenschaft an die Arbeit. </p>
+<p>Seien Sie bereit, die Arbeit eines einfachen Mannes zu leisten, anstatt sich zu wünschen, Sie hätten mehr Talent, damit Ihnen alles leicht von der Hand geht. </p>
+<p>Das wird es nie. Die Großen lassen es einfach aussehen, aber erst, nachdem sie Zeit und Arbeit investiert haben.</p>
+<p><a href="https://www.goodreads.com/book/show/26114562-the-champion-s-comeback">The Champion&rsquo;s Comeback</a></p>
+<h2 id="wahre-groe-liegt-in-dir">Wahre Größe liegt in dir<a class="headerlink" href="#wahre-groe-liegt-in-dir" title="Permanent link"></a></h2>
+<p>Größe, wie ich von Leuten wie Shawn gelernt habe, ist „nicht nur, eine Goldmedaille auf dem Siegerpodest in den Händen zu halten“. </p>
+<p>Es geht darum, Menschen zu inspirieren, eine Botschaft zu teilen, an die Wahrheit dieses Klischees zu glauben: dass es um den Weg geht, nicht um das Ziel, einen vermeintlichen Schatz oder einen Moment der Bewunderung. </p>
+<p>Tatsächlich gibt es Millionen Möglichkeiten, großartig zu sein, und Millionen weiterer Dinge, in denen man großartig sein kann. </p>
+<p>Die meisten davon sind nicht mit einer Medaille oder einem riesigen Scheck verbunden. </p>
+<p>Betrachten Sie diese Liste:</p>
+<ul>
+<li>Eltern sein</li>
+<li>ein Fürsprecher sein</li>
+<li>Künstler sein</li>
+<li>Gesund sein</li>
+<li>Großzügig sein</li>
+<li>Ein Unternehmer sein</li>
+<li>Eine Führungspersönlichkeit sein</li>
+<li>Dienen</li>
+<li>Ein Veränderer sein</li>
+</ul>
+<p>All dies sind großartige Träume, bei denen Größe ein würdiges und erreichbares Ziel ist. </p>
+<p>Diejenigen, die in einem dieser Träume großartig geworden sind – unabhängig von Plaketten an ihren Wänden oder Trophäen auf ihrem Kaminsims – sind die Menschen, von denen wir alle lernen können.</p>
+<p><a href="https://www.goodreads.com/book/show/23848518-the-school-of-greatness">The School of Greatness</a></p>
+<h2 id="_1"><a class="headerlink" href="#_1" title="Permanent link"></a></h2>
+<h2 id="links">Links<a class="headerlink" href="#links" title="Permanent link"></a></h2>
+<ul>
+<li><a href="https://blog.stephsmith.io/how-to-be-great/">How to Be Great? Just Be Good, Repeatably</a></li>
+<li><a href="https://moretothat.com/pursue-mastery-not-status/">Pursue Mastery, Not Status</a></li>
+<li><a href="https://www.neelnanda.io/blog/33-upside-risk">Seek Upside Risk</a></li>
+<li><a href="https://www.collaborativefund.com/blog/dangerous-feelings/">Dangerous Feelings</a></li>
+<li><a href="https://www.collaborativefund.com/blog/defining-success/">Defining Success</a></li>
+<li><a href="https://twitter.com/ShaneAParrish/status/1462038767569567753">What looks like success is often just patience.</a></li>
+<li><a href="https://twitter.com/elizalian/status/1463953252500729856">The secret successful people don&rsquo;t want you to know? You can literally walk away from anything or anyone that doesn&rsquo;t make you happy and start over.</a></li>
+<li><a href="https://tynan.com/excellence/">Attainable Excellence</a></li>
+<li><a href="https://www.collaborativefund.com/blog/skills/">Big Skills</a></li>
+<li><a href="https://www.collaborativefund.com/blog/the-power-of-failing-well/">The Power of Failing Well</a></li>
+<li><a href="https://blog.samaltman.com/how-to-be-successful">How To Be Successful</a></li>
+<li><a href="https://www.raptitude.com/2018/06/getting-what-you-want/">A Complete Guide to Getting What You Want</a></li>
+<li><a href="https://life-longlearner.com/where-does-ambition-come-from/">Where Does Ambition Come From?</a></li>
+<li><a href="https://mindmine.substack.com/p/on-competing-constructively">on competing constructively</a></li>
+<li><a href="http://paulgraham.com/greatwork.html">How to Do Great Work</a></li>
+</ul>
+<h2 id="bucher">Bücher<a class="headerlink" href="#bucher" title="Permanent link"></a></h2>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/8594535-win-forever">Win Forever</a></li>
+<li><a href="https://www.goodreads.com/book/show/40776006-raise-your-game">Raise Your Game</a></li>
+<li><a href="https://www.goodreads.com/book/show/28405277-chop-wood-carry-water">Chop Wood Carry Water</a></li>
+<li><a href="https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People">The 7 Habits of Highly Effective People</a></li>
+<li><a href="https://www.goodreads.com/book/show/208926.With_Winning_in_Mind">With Winning in Mind</a></li>
+<li><a href="https://www.goodreads.com/book/show/40776006">Raise Your Game</a></li>
+<li><a href="https://www.goodreads.com/book/show/44890091-it-takes-what-it-takes">It Takes What It Takes</a></li>
+</ul></article></body></html>

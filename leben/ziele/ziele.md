@@ -764,6 +764,76 @@ Sie müssen wissen, was Sie tun möchten, und dürfen es nicht ahnen, dazu neige
 
 [Talent is Overrated](https://www.goodreads.com/book/show/4485966-talent-is-overrated)
 
+## Astro-WOOP
+
+Es ist mir ein Rätsel, warum so viele Selbsthilfegurus die Leute dazu drängen, sich den Sieg vorzustellen und es dabei belassen. 
+
+Manche behaupten sogar, dass man Gutes bekommt, wenn man es sich lange genug und inständig genug wünscht – und umgekehrt, dass man Schlechtes einlädt, wenn man sich auf das Negative konzentriert. 
+
+Warum sich selbst unglücklich machen, indem man sich Sorgen macht? 
+
+Warum Zeit damit verschwenden, sich auf Katastrophen vorzubereiten, die vielleicht nie eintreten?
+
+Probleme vorherzusehen und herauszufinden, wie man sie löst, ist eigentlich das Gegenteil von Sorgen: Es ist produktiv.
+
+Mein Optimismus und mein Selbstvertrauen kommen nicht daher, dass ich mich glücklicher fühle als andere Sterbliche, und sie kommen sicher nicht daher, dass ich mir den Sieg vorstelle. 
+
+Sie sind das Ergebnis eines Lebens, in dem ich mir Niederlagen vorstelle und mir überlege, wie ich sie verhindern kann.
+
+Wie die meisten Astronauten bin ich ziemlich sicher, dass ich mit dem fertig werde, was das Leben mir entgegenwirft, weil ich darüber nachgedacht habe, was ich tun soll, wenn etwas schiefgeht, und auch, wenn es gut läuft. 
+
+Das ist die Macht des negativen Denkens.
+
+[An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
+
+## Höre nicht auf zu träumen
+
+Hören Sie nicht auf zu träumen. 
+
+Ermutigen Sie Ihre Visionen und glauben Sie an sie. 
+
+Schätzen Sie Ihre Visionen und glauben Sie an sie. 
+
+Dieses Ding in uns, das nach Höherem strebt, das uns auffordert, nach oben zu schauen, das uns höher winkt, ist gottgegeben. 
+
+Streben ist die Hand, die uns den Weg zeigt, der himmelwärts führt. 
+
+So wie Ihre Vision ist, so wird auch Ihr Leben sein. 
+
+Ihr besserer Traum ist die Prophezeiung dessen, wie Ihr Leben sein könnte, sein sollte.
+
+Das Großartige ist, zu versuchen, das Leben nach dem Muster zu gestalten, das uns im Moment unserer höchsten Inspiration gezeigt wurde; unseren höchsten Moment dauerhaft zu machen.
+
+Träume sind etwas Großartiges, wenn man die nötige Entschlossenheit und Ausdauer hat, seine Träume in die Realität umzusetzen. 
+
+Aber Träume ohne Anstrengung, Wünsche ohne Anstrengung, um den Wunsch zu verwirklichen, untergraben den Charakter. 
+
+Nur praktische Träume zählen – Träume gepaart mit harter Arbeit und beharrlicher Anstrengung.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
+## Ihr Leistungszertifikat
+
+Schreiben Sie Ihr Ziel auf. Drucken Sie es aus. Rahmen Sie es ein. Hängen Sie es irgendwo auf, wo Sie es sehen. Jeden Tag.
+
+Das Aufschreiben Ihres Ziels ist eine mächtige Sache. 
+
+Noch mächtiger ist es, Ihre Vision zu erklären und ein Datum dafür festzulegen, als ob sie eintreten würde (oder wie Angel sagen würde, als ob sie bereits eingetreten wäre).
+
+Bei dieser Übung geht es darum, sich völlig darüber klar zu werden, was Sie wollen und warum Sie es wollen, und diese Vision dann für die nächsten 6 Monate oder für ein anderes Datum, das Sie im Kopf haben, für sich selbst zu erklären, solange sie spezifisch ist. 
+
+Ihr Ziel kann finanzieller, persönlicher, gesundheitlicher oder beruflicher Natur sein. 
+
+Es ist fast egal, was die Vision ist. 
+
+Es gibt nur eine Regel: Es muss etwas sein, das Ihnen Angst macht, wenn Sie es jemandem, den Sie respektieren, laut sagen. 
+
+Gleichzeitig sollte es etwas sein, das in dem vorgegebenen Zeitrahmen erreicht werden kann – vorausgesetzt, Sie investieren die nötige Arbeit. 
+
+Und dann schreiben Sie sich ein neues Ziel, sobald es erreicht ist.
+
+[The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

@@ -485,6 +485,85 @@ Die Leute bezeichneten die Pietà als reines Genie, doch ihr Schöpfer war ander
 
 [The Talent Code](https://www.goodreads.com/book/show/5771014-the-talent-code)
 
+## Anlage A: 10.000 Stunden
+
+Beweisstück A für das Talentargument ist eine Studie, die der Psychologe K. Anders Ericsson und zwei Kollegen Anfang der 1990er Jahre an der Berliner Elite-Hochschule für Musik durchführten. 
+
+Mit Hilfe der Professoren der Hochschule teilten sie die Geiger der Schule in drei Gruppen ein. 
+
+In der ersten Gruppe waren die Stars, die Schüler mit dem Potenzial, Weltklasse-Solisten zu werden. 
+
+In der zweiten Gruppe waren diejenigen, die lediglich als „gut“ beurteilt wurden. 
+
+In der dritten Gruppe waren Schüler, die Musiklehrer an staatlichen Schulen werden wollten. 
+
+Allen Geigern wurde dann dieselbe Frage gestellt: Wie viele Stunden haben Sie im Laufe Ihrer gesamten Karriere geübt, seit Sie zum ersten Mal die Geige in die Hand genommen haben?
+
+Alle aus allen drei Gruppen begannen etwa im gleichen Alter zu spielen, mit etwa fünf Jahren. 
+
+In diesen ersten paar Jahren übte jeder ungefähr gleich viel, etwa zwei oder drei Stunden pro Woche. 
+
+Aber als die Schüler etwa acht Jahre alt waren, begannen echte Unterschiede aufzutauchen. 
+
+Die Schüler, die später die Klassenbesten wurden, begannen mehr zu üben als alle anderen: sechs Stunden pro Woche im Alter von neun Jahren, acht Stunden pro Woche im Alter von zwölf Jahren, bis sie im Alter von zwanzig Jahren – das heißt, sie spielten ihr Instrument zielstrebig und zielstrebig mit der Absicht, besser zu werden – weit über dreißig Stunden pro Woche übten. 
+
+Tatsächlich hatten die Elite-Künstler im Alter von zwanzig Jahren insgesamt zehntausend Stunden geübt. 
+
+Im Gegensatz dazu hatten die lediglich guten Schüler insgesamt achttausend Stunden geübt, und die zukünftigen Musiklehrer hatten insgesamt etwas über viertausend Stunden geübt.
+
+[Outliers](https://www.goodreads.com/book/show/3228917-outliers)
+
+## Keine Naturals. Keine Grinders.
+
+Das Auffällige an Ericssons Studie ist, dass er und seine Kollegen keine „Naturtalente“ finden konnten, 
+
+Musiker, die mühelos an die Spitze gelangten und dabei nur einen Bruchteil der Zeit übten, die ihre Kollegen dafür brauchten. 
+
+Ebenso wenig konnten sie „Arbeitskünstler“ finden, Leute, die härter arbeiteten als alle anderen, aber einfach nicht das Zeug hatten, um in die Spitzenränge vorzudringen. 
+
+Ihre Forschung legt nahe, dass, sobald ein Musiker genug Talent hat, um in eine Spitzenmusikschule zu kommen, das, was einen Musiker von einem anderen unterscheidet, sein Fleiß ist. 
+
+Das ist alles. 
+
+Und außerdem arbeiten die Leute an der Spitze nicht nur härter oder sogar viel härter als alle anderen. Sie arbeiten viel, viel härter.
+
+Die Idee, dass Exzellenz bei einer komplexen Aufgabe ein kritisches Mindestmaß an Übung erfordert, taucht in Exzellenzstudien immer wieder auf. 
+
+Tatsächlich haben sich Forscher auf eine Zahl geeinigt, die ihrer Meinung nach die magische Zahl für wahre Expertise ist: zehntausend Stunden.
+
+[Outliers](https://www.goodreads.com/book/show/3228917-outliers)
+
+## Die Meistermentalität
+
+Meisterschaft ist eine Geisteshaltung und zugleich ein Weg. 
+
+Sie führt zu kontinuierlicher Verbesserung und Entwicklung. 
+
+Sie schätzt akutes (im Moment) und chronisches (über das ganze Leben) Engagement und wertet die meisten vorübergehenden Dinge dazwischen (zeitpunktbezogene Erfolge oder Misserfolge) ab. 
+
+Meisterschaft ist kein New-Age-Selbsthilfekonzept. 
+
+Sie wurzelt in Prinzipien, die für die Psychologie und Biologie von zentraler Bedeutung sind, und sie ist ein allgegenwärtiges Thema im Leben von Menschen, die harmonische Leidenschaft verkörpern.
+
+Menschen, die auf dem Weg der Meisterschaft sind, vollbringen nicht nur Großes, sondern tun dies auch auf gesunde und nachhaltige Weise. 
+
+Sie strahlen eine Zen-artige Aura aus, sind resistent gegen Burnout und produzieren Arbeit von besonderer Qualität – einer Qualität, die aus Liebe geboren ist. 
+
+Und doch ist ihre vielleicht größte Leistung eine noch wertvollere: kontinuierliches Wachstum und Entwicklung, ein erfülltes Leben. 
+
+So gut wie jeder großartige Künstler, der die beste Art von Leidenschaft verkörpert und aufrechterhält, hält auch an dem fest, was wir die Meistergeisteshaltung nennen. 
+
+Die gute Nachricht ist, dass diese Denkweise und alle ihre Vorteile jedem zur Verfügung stehen, der bereit ist, die notwendige Arbeit zu leisten, um sie zu übernehmen. 
+
+1. Von innen heraus angetrieben
+2. Konzentrieren Sie sich auf den Prozess
+3. Machen Sie sich keine Gedanken darüber, der Beste zu sein; machen Sie sich Gedanken darüber, der Beste darin zu sein, besser zu werden
+4. Akzeptieren Sie akutes Versagen für chronische Erfolge
+5. Seien Sie geduldig
+6. Seien Sie im hier und jetzt
+
+[The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

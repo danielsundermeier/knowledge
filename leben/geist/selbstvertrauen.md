@@ -435,6 +435,32 @@ Wenn Sie mitten in einem Deal stecken, müssen Sie diesen Teil Ihres Gehirns abs
 
 [Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
 
+## Glaubst du, dass du das kannst?
+
+Was würden Sie von einem jungen Mann halten, der den Ehrgeiz hat, Anwalt zu werden, sich aber mit einer medizinischen Umgebung umgibt und seine Zeit mit dem Lesen medizinischer Bücher verbringt? 
+
+Glauben Sie, dass er durch einen solchen Weg jemals ein großer Anwalt werden würde? 
+
+Nein, er muss sich in eine juristische Umgebung begeben; dorthin gehen, wo er sie aufnehmen und sich darin vertiefen kann, bis er sich auf die juristische Note eingestellt hat. 
+
+Er muss so in den juristischen Baum eingepfropft werden, dass er seinen Saft durch sich fließen spüren kann.
+
+Wie lange wird ein junger Mann brauchen, um erfolgreich zu sein, der sich in eine Atmosphäre des Versagens begibt und darin bleibt, bis er von der Idee durchtränkt und gesättigt ist? 
+
+Wie lange wird ein Mann brauchen, der sich selbst geringschätzt, vom Versagen spricht, an Versagen denkt, wie ein Versagen geht und sich wie ein Versagen kleidet; der sich immer über die unüberwindlichen Schwierigkeiten auf seinem Weg beschwert und dessen jeder Schritt auf dem Weg zum Versagen ist – wie lange wird er brauchen, um das Erfolgsziel zu erreichen? 
+
+Wird irgendjemand an ihn glauben oder erwarten, dass er gewinnt?
+
+Solange Sie eine Atmosphäre des Scheiterns mit sich herumtragen und Zweifel und Entmutigung ausstrahlen, werden Sie ein Versager sein. 
+
+Kehrt um; schneidet alle Ströme von Scheiternsgedanken, von entmutigenden Gedanken ab. 
+
+Stellen Sie sich mutig Ihrem Ziel mit tapferem Herzen und entschlossenem Bemühen, und Sie werden feststellen, dass sich die Dinge für Sie ändern werden; aber Sie müssen eine neue Welt sehen, bevor Sie darin leben können. 
+
+Sie werden dem, was Sie sehen, dem, woran Sie glauben, dem, worum Sie unablässig kämpfen, nahe kommen.
+
+[He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
+
 ## Bücher
 
 - [The Turnaround](https://www.goodreads.com/book/show/58097871-the-turnaround)

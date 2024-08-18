@@ -174,6 +174,101 @@ Die besonderen egoistischen Muster, auf die Sie bei anderen am stärksten reagie
 
 [A New Earth](https://www.goodreads.com/book/show/76334.A_New_Earth)
 
+## Konzentrieren Sie sich auf die Bedeutung statt auf die Stimmung
+
+Eine Entscheidung, die eine existenzbewusste Person trifft, besteht darin, sich auf die Sinnstiftung zu konzentrieren, anstatt Stimmungen zu überwachen. 
+
+Wenn Sie sich mit der Frage „Wie fühle ich mich?“ quälen, schaffen Sie Unglück. 
+
+Wenn die Frage, die Sie sich stattdessen stellen, lautet: „Wo soll ich als nächstes Sinnstiftung investieren?“, leben Sie authentischer.
+
+Es ist einer der ironischen kleinen Witze des Universums, dass Menschen ihre Stimmung genau dann überprüfen, wenn sie am schlechtesten ist. 
+
+Wir überprüfen unsere Stimmung nur selten, wenn wir Spaß haben oder hart an etwas Spannendem arbeiten. 
+
+In diesen Momenten ist es selbstverständlich, zu sagen, wie wir uns fühlen – einfach gut – und deshalb machen wir uns nicht die Mühe, uns selbst unsere gute Laune mitzuteilen. 
+
+Wir warten, bis wir nicht beschäftigt sind und nicht aktiv daran arbeiten, uns zu melden. 
+
+Wie genial ist das denn?
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Emotionaler Stil
+
+Im Laufe meiner Karriere als Neurowissenschaftler habe ich Tausende von Menschen mit ähnlichem Hintergrund erlebt, die auf dasselbe Lebensereignis völlig unterschiedlich reagierten. 
+
+Manche sind beispielsweise widerstandsfähig gegenüber Stress, während andere zusammenbrechen. 
+
+Letztere werden ängstlich, depressiv oder handlungsunfähig, wenn sie auf Widrigkeiten stoßen. 
+
+Widerstandsfähige Menschen sind irgendwie in der Lage, bestimmte Arten von Stressereignissen nicht nur zu überstehen, sondern auch davon zu profitieren und diese Widrigkeiten in Vorteile umzuwandeln. 
+
+Dies ist, kurz gesagt, das Rätsel, das meine Forschung angetrieben hat. 
+
+Ich wollte wissen, was bestimmt, wie jemand auf eine Scheidung, den Tod eines geliebten Menschen, den Verlust eines Arbeitsplatzes oder einen anderen Rückschlag reagiert – und ebenso, was bestimmt, wie Menschen auf einen Karriereerfolg, auf die Eroberung des Herzens ihrer wahren Liebe, auf die Erkenntnis, dass ein Freund für sie über Kohlen gehen würde, oder auf andere Quellen des Glücks reagieren. 
+
+Warum und wie unterscheiden sich Menschen so stark in ihren emotionalen Reaktionen auf die Höhen und Tiefen des Lebens?
+
+Die Antwort, die sich aus meiner eigenen Arbeit ergeben hat, ist, dass unterschiedliche Menschen unterschiedliche emotionale Stile haben.
+
+Der emotionale Stil umfasst sechs Dimensionen. 
+
+Diese sechs Dimensionen sind weder konventionelle Aspekte der Persönlichkeit noch einfache emotionale Merkmale oder Stimmungen, geschweige denn diagnostische Kriterien für psychische Erkrankungen, sondern spiegeln die Erkenntnisse der modernen neurowissenschaftlichen Forschung wider:
+
+- Belastbarkeit: wie langsam oder schnell Sie sich von Widrigkeiten erholen.
+- Einstellung: wie lange Sie in der Lage sind, positive Emotionen aufrechtzuerhalten.
+- Soziale Intuition: wie gut Sie soziale Signale von den Menschen um Sie herum wahrnehmen.
+- Selbstbewusstsein: wie gut Sie körperliche Gefühle wahrnehmen, die Emotionen widerspiegeln.
+- Kontextsensibilität: wie gut Sie Ihre emotionalen Reaktionen regulieren können, um den Kontext zu berücksichtigen, in dem Sie sich befinden.
+- Aufmerksamkeit: wie scharf und klar Ihr Fokus ist.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
+## Sie können Ihren emotionalen Stil ändern
+
+Obwohl der emotionale Stil im Laufe der Zeit normalerweise ziemlich stabil ist, kann er durch zufällige Erlebnisse sowie durch bewusste, absichtliche Anstrengungen zu jedem Zeitpunkt des Lebens durch die absichtliche Entwicklung bestimmter geistiger Qualitäten oder Gewohnheiten verändert werden.
+
+Ich sage nicht, dass es theoretisch möglich ist, Ihren Platz auf einer der Kontinua des emotionalen Stils zu verschieben, oder dass eine solche Verschiebung nur prinzipiell möglich ist. 
+
+In meiner Forschung habe ich praktische, wirksame Möglichkeiten entdeckt, dies zu tun. 
+
+Für den Moment genügt es zu sagen, dass Sie Ihren emotionalen Stil ändern können, um Ihre Belastbarkeit, soziale Intuition, Sensibilität für Ihre eigenen inneren emotionalen und physiologischen Zustände, Bewältigungsmechanismen, Aufmerksamkeit und Ihr Wohlbefinden zu verbessern. 
+
+Die erstaunliche Tatsache ist, dass wir allein durch geistige Aktivität unser eigenes Gehirn absichtlich verändern können. 
+
+Geistige Aktivität, von Meditation bis hin zur kognitiven Verhaltenstherapie, kann die Gehirnfunktion in bestimmten Schaltkreisen verändern, mit dem Ergebnis, dass Sie ein breiteres Bewusstsein für soziale Signale, eine tiefere Sensibilität für Ihre eigenen Gefühle und Körperempfindungen und eine durchweg positivere Einstellung entwickeln können. 
+
+Kurz gesagt, durch mentales Training können Sie Ihre Gehirnaktivitätsmuster und die Struktur Ihres Gehirns so verändern, dass sich Ihr emotionaler Stil ändert und Ihr Leben verbessert wird. 
+
+Ich glaube, dies ist der ultimative Schritt in der Geist-Körper-Interaktion.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
+## Doppelhelix + Musiksammlungen
+
+Dies waren die ersten Hinweise darauf, dass unser emotionales und psychologisches Schicksal nicht allein in den Windungen der Doppelhelix liegt. 
+
+Je nachdem, welche Erfahrungen ein Kind gemacht hat, kann sich eine genetische Grundlage für Schüchternheit, Aggression oder Kriminalität manifestieren oder auch nicht. 
+
+Anstatt die DNA als die Software zu betrachten, die unsere Zellen steuert – oder als die Notenblätter eines Klaviers, die bestimmen, welche Noten gespielt werden –, ist es an der Zeit, sie als eine Musiksammlung zu betrachten. 
+
+Ob Sie Ihre Musik auf einem iPod oder auf einem Stapel CDs oder (gibt es noch welche von uns?) Vinylplatten speichern, welche Musik wir hören, hängt davon ab, welche Musik gespielt wird. 
+
+Nur weil wir sie haben, bedeutet das nicht, dass die Harmonien, die in den Unebenheiten und Tälern der Rillen einer Schallplatte kodiert sind, unsere Ohren erreichen. 
+
+Jetzt wissen wir, dass nur weil wir ein bestimmtes Gen haben, die Musik dieses Gens nicht unbedingt Teil unseres Lebens sein wird. 
+
+Oder, wenn ich die Musikanalogie aufgeben darf, denken Sie so: Gene laden die Waffe, aber nur die Umwelt kann den Abzug betätigen.
+
+Kurz gesagt: Die Revolution in der Neuroplastizität hat gezeigt, dass sich das Gehirn infolge zweier unterschiedlicher Einflüsse verändern kann. 
+
+Es kann sich infolge der Erfahrungen verändern, die wir in der Welt machen – wie wir uns bewegen und verhalten und welche Sinnessignale in unserer Hirnrinde ankommen. 
+
+Das Gehirn kann sich auch als Reaktion auf rein geistige Aktivitäten verändern, von der Meditation bis zur kognitiven Verhaltenstherapie, mit dem Ergebnis, dass die Aktivität in bestimmten Schaltkreisen zunehmen oder abnehmen kann.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
 ## Bücher
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)

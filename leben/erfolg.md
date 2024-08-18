@@ -1234,6 +1234,122 @@ An diesem Punkt ist man in der Lage, zu denken und seinen Körper zu nutzen, um 
 
 [Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
 
+## Die 10x-Regel
+
+Dies ist der Schwerpunkt der 10X-Regel: Sie müssen Ziele setzen, die 10-mal so hoch sind wie das, was Sie zu wollen glauben, und dann 10-mal so viel tun, wie Sie glauben, dass es nötig ist, um diese Ziele zu erreichen. 
+
+Auf gewaltige Gedanken müssen gewaltige Taten folgen. 
+
+Die 10X-Regel ist nichts Gewöhnliches. 
+
+Sie ist einfach das, was sie verspricht: 10-mal so große Gedanken und 10-mal so viele Taten wie andere Menschen. 
+
+Bei der 10X-Regel geht es um pure Dominanzmentalität. 
+
+Sie tun nie, was andere tun. Sie müssen bereit sein, Dinge zu tun, die sie nicht tun – und sogar Dinge tun, die Sie für „unvernünftig“ halten.
+
+Bei dieser Dominanzmentalität geht es nicht darum, andere zu kontrollieren; vielmehr geht es darum, ein Vorbild für die Gedanken und Taten anderer zu sein. 
+
+Ihre Denkweise und Taten sollten als Maßstab dienen, an dem sich andere messen können. 
+
+10X-Menschen nähern sich nie einem Ziel mit dem Ziel, nur dieses eine Ziel zu erreichen. 
+
+Stattdessen wollen sie den gesamten Sektor dominieren – und werden unvernünftige Maßnahmen ergreifen, um dies zu erreichen. 
+
+Wenn Sie bei der Arbeit daran denken, das mögliche Ergebnis zu begrenzen, begrenzen Sie gleichzeitig auch die Maßnahmen, die zur Erreichung dieses Ziels erforderlich sind.
+
+[The 10X Rule](https://www.goodreads.com/book/show/10339170-the-10x-rule)
+
+## Sind Sie ein Sollkopf?
+
+Ein weiteres Beispiel für den Unterschied, den unsere einfachen Entscheidungen ausmachen können, findet sich in einem eindrucksvollen Buch von Mac Anderson und Sam Parker mit dem Titel 212: The Extra Degree. 
+
+In dem Buch und einem dazugehörigen kurzen Video demonstrieren die Autoren die Tatsache, dass Wasser bei 211 Grad heiß ist – aber bei 212 Grad kocht.
+
+„Mit kochendem Wasser kommt Dampf; und Dampf kann eine Lokomotive antreiben. Es ist dieses eine Grad, das den ganzen Unterschied macht“, sagen die Autoren. 
+
+Sie veranschaulichen die Auswirkungen von 1 Grad anhand mehrerer Beispiele aus dem Leben.
+
+Ich glaube, dass dieses eine Grad den winzigen, fast unmerklichen, fast unsichtbaren, aber dennoch gleichbedeutenden Unterschied zwischen der Wahl einer Haltung ausmacht, die besagt: „Ich bin mir noch nicht sicher“, und einer Haltung, die besagt: „Ich bin für immer dabei.“ 
+
+Das heißt, eine Haltung, die fragt: „Sollte ich?“, gegenüber einer Haltung, die fragt: „Wie werde ich?“
+
+Dieser 1-Grad-Unterschied in der Hingabe unterscheidet, auf welche Menschen Sie sich verlassen können und welche Sie im Stich lassen.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Herrn Mittelmäßigkeit zum Schweigen bringen
+
+Wenn Sie die Treppe nehmen und erfolgreich sein wollen, müssen Sie lernen, sich selbst zu disziplinieren und positive Affirmationen zu verwenden. 
+
+Trainieren Sie Ihren Geist so, dass jedes Mal, wenn Sie Herrn Mittelmäßigkeit über etwas aufregen hören, Ihr persönlicher Alarm ertönt und Sie sein Feuer sofort löschen, indem Sie es mit einer Flut positiver Selbstgespräche besprühen. 
+
+Das wird sich zunächst dumm anfühlen. Eigentlich könnte es sich immer ein wenig albern anfühlen. 
+
+Ich sage Ihnen gleich, dass die meisten Menschen keine positiven Affirmationen verwenden möchten. 
+
+Aber denken Sie daran: Erfolgreiche Menschen tun, wozu andere keine Lust haben – und deshalb erzielen sie außergewöhnliche Ergebnisse.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Wahrer Erfolg
+
+Nur wenige von uns wissen, dass wahrer Erfolg, der jedem offen steht, nicht an der Vollendung einer großen Sache gemessen wird; dass er nicht darin besteht, reich, berühmt oder mächtig zu sein; sondern dass er die Krönung all derer ist, die ehrlich und ernsthaft ihr Bestes geben und ein einfaches Alltagsleben führen, mit allem, was dazu gehört, wenn sie die alltäglichen Pflichten erfüllen. 
+
+Nur durch die Ausübung der gewöhnlichen, einfachen Tugenden; durch den Versuch, alles, was man sich vornimmt, vollständig zu Ende zu bringen; durch den Versuch, bei jeder Transaktion peinlich ehrlich zu sein; durch immer aufrichtige Freundschaften, ja sogar durch eine hilfsbereite, entgegenkommende Haltung gegenüber unseren Mitmenschen; durch den Versuch, nach besten Kräften die Verpflichtung zu erfüllen, edel zu sein und unseren höchsten Idealen treu zu bleiben – durch solche Dinge führen wir ein erfolgreiches Leben.
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
+## Du bist der Kapitän deines Lebensschiffs
+
+Was würde aus einem Kapitän werden, der jedes Mal, wenn er Nebel aufziehen oder einen Sturm aufziehen sieht, sein Schiff wendet und in den Hafen zurücksegelt, den er verlassen hat? Er würde seinen Job verlieren und als inkompetent und feige gebrandmarkt werden. 
+
+Jeder Kapitän hält sein Schiff kompasstreu und pflügt durch Nebel, Stürme oder Hurrikane zu seinem fernen Ziel. 
+
+Sie sind der Kapitän Ihres Lebensschiffs und es liegt an Ihnen, es meisterhaft in den Hafen zu bringen. 
+
+Wenn Sie nicht die Qualitäten eines guten Kapitäns besitzen, ist Ihr Schiff in Gefahr.
+
+Harte Arbeit, eine Zielstrebigkeit, die nie nachlässt, Entschlossenheit und Nervenstärke, die nie nachlassen; das sind die Qualitäten, die das Leben siegreich machen.
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
+## Nebeneffekte, wenn man seinem Geist folgt
+
+Geld, Ruhm, ein durchtrainierter Körper und erste Preise sind keine gesunden Ziele, die man um ihrer selbst willen anstreben sollte. 
+
+Wenn Sie das tun, verdammen Sie sich selbst, bevor Sie überhaupt anfangen. 
+
+Sie bauen Ihr Haus auf Sand, und wenn der erste Regen kommt, sollten Sie besser eine Badehose besitzen. 
+
+Lassen Sie diese Belohnungen stattdessen als Nebenprodukt Ihrer Hingabe erscheinen. 
+
+Bauen Sie Ihr Geschäft oder Ihren Körper auf, weil es Ihnen Spaß macht. 
+
+Singen Sie aus Liebe zum Lied. 
+
+Nehmen Sie an Wettkämpfen teil, um Ihre Fähigkeiten zu verbessern. 
+
+Was Sie tun, sieht vielleicht genauso aus wie die Handlungen derjenigen, die nach Anerkennung schreien, aber der Grund, warum Sie es tun, und die Art und Weise, wie Sie sich dabei fühlen, werden radikal anders sein. 
+
+Sie werden aus Ganzheit statt aus Unzulänglichkeit hervorgehen, und das wird den entscheidenden Unterschied machen.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
+## Der einzig wahre Maßstab für Erfolg
+
+Am Ende eines Surf-Schnupperkurses, den ich besuchte, gab uns der Lehrer ein brillantes Motto mit auf den Weg: 
+
+„Der beste Surfer ist derjenige, der am meisten Spaß hat.“ 
+
+Dieselbe Regel gilt auch für die Kunst des Surfens. 
+
+Man hat Ihnen beigebracht, dass der erfolgreichste Mensch derjenige ist, der das meiste Geld, den meisten Sexappeal, das meiste Prestige, die meiste Macht, Geschicklichkeit, Kraft oder Geschwindigkeit hat. 
+
+Aber der erfolgreichste Mensch ist derjenige, der am meisten Spaß hat. Der einzige wahre Maßstab für Erfolg ist Glück.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Links
 
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)

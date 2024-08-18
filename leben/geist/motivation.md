@@ -372,6 +372,18 @@ Sein Bestes zu geben, hat eine gewisse Bedeutung. Das ist ihr Wert. Und diese Be
 
 [How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
 
+## Kontrolle und Bedeutung
+
+Mit anderen Worten: Die Entscheidungen, die am stärksten motivieren, sind Entscheidungen, die zwei Dinge bewirken: Sie überzeugen uns davon, dass wir die Kontrolle haben, und sie verleihen unseren Handlungen eine tiefere Bedeutung. 
+
+Die Entscheidung, einen Berg zu besteigen, kann zum Ausdruck der Liebe zu einer Tochter werden. 
+
+Die Entscheidung, einen Aufstand im Pflegeheim zu organisieren, kann zum Beweis werden, dass man noch am Leben ist. 
+
+Eine interne Kontrollüberzeugung entsteht, wenn wir uns mental angewöhnen, Aufgaben in sinnvolle Entscheidungen umzuwandeln, wenn wir behaupten, dass wir die Autorität über unser Leben haben.
+
+[Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
 ### Bücher
 
 [Rethinking Positive Thinking](https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking)

@@ -114,6 +114,28 @@ Die ruhige Zone ist Teil eines emotionalen Spektrums, das ich aufrechtzuerhalten
 
 [It Worked for Me](https://www.goodreads.com/book/show/13425638-it-worked-for-me)
 
+## Geist wie Wasser
+
+Im Karate gibt es ein Bild, das verwendet wird, um die Position der vollkommenen Bereitschaft zu definieren: „Geist wie Wasser“. 
+
+Stellen Sie sich vor, Sie werfen einen Kieselstein in einen stillen Teich. 
+
+Wie reagiert das Wasser? 
+
+Die Antwort lautet: vollständig und angemessen hinsichtlich der Kraft und Masse des Stoßes, danach wird es wieder ruhig. Es reagiert weder über- noch unterreagiert.
+
+Die Kraft eines Karateschlags kommt von der Geschwindigkeit, nicht von den Muskeln; sie kommt von einem gezielten „Knall“ am Ende der Peitsche. 
+
+Deshalb können zierliche Menschen lernen, Bretter und Ziegel mit ihren Händen zu zerschlagen: Dazu braucht es keine Schwielen oder rohe Kraft, sondern nur die Fähigkeit, einen gezielten Stoß mit Geschwindigkeit auszuführen. 
+
+Aber ein angespannter Muskel ist ein langsamer. 
+
+Daher lehrt und fordert das hohe Trainingsniveau in den Kampfkünsten vor allem Gleichgewicht und Entspannung. 
+
+Den Kopf freizubekommen und flexibel zu sein, ist der Schlüssel.
+
+[Getting Things Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)

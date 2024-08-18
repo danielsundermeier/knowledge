@@ -1525,6 +1525,112 @@ Das sollte Ihr Ziel für jede einzelne Technik sein. Anstrengung wird mühelos.
 
 [The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
 
+## Steigern Sie Ihren Gewinn
+
+Dann brachte ich Emma dazu, sich das große Ganze ihrer Leistung vorzustellen, indem ich ihr einen Filmausschnitt ihrer direkten Beteiligung am Spiel ansah, wobei ich mich diesmal auf ihre positiven Beiträge zur Teamleistung konzentrierte. 
+
+Langsam beseitigten wir die reflexartige emotionale Reaktion auf Fehler und ersetzten sie durch eine andere Definition von Erfolg, bei der Emma sich erlaubte, stolz auf ihren positiven Beitrag zum Team zu sein, sich den einen oder anderen Fehler verzieh und eine vernünftigere Wahrnehmung von Erfolg entwickelte. 
+
+Um dies zu untermauern, zeichnete ich drei Linien auf ein Flipchart. 
+
+Die obere Linie stand für Perfektion, die mit 100 % bewertet wurde. 
+
+Ich bat Emma, ihre beste Leistung zu bewerten, und sie antwortete „90 %“, also wurde die mittlere Linie mit 90 % bewertet. 
+
+Die nächste Frage an Emma war, wie sie ihre schlechteste Leistung bewerten sollte. Kopfschüttelnd antwortete sie „60 %“.
+
+Die 60-Prozent-Leistungen traten normalerweise auf, wenn Emma früh im Spiel Fehler machte und den ersten Fehler durch weitere Fehler verschlimmerte. 
+
+Die Abweichung von 90 % auf 60 % konnte dem Team wirklich schaden. 
+
+Emma verstand und stimmte zu, ihren Fokus von der Schließung der Lücke von 90 % auf 100 % (ein lohnendes Ziel, aber eine schwierige und frustrierende Herausforderung) auf die Schließung der Lücke von 60 % auf 90 % zu verlagern. 
+
+Dies war ein viel erreichbareres Ziel, das sowohl ihr als auch dem Team zugute kommen würde. 
+
+Ich betonte, dass die Änderung ihrer Standards nicht bedeutete, keine Standards mehr zu haben, sondern vielmehr realistischere Standards. 
+
+Fehler sollten als wertvolle Lernmöglichkeiten und nicht als Ausreden gesehen werden, um sich selbst fertigzumachen. 
+
+Dieser Fokus auf die „Steigerung des Endergebnisses“ führte schnell zu einer Verringerung von Stress und Angst und zu einer deutlich verbesserten Leistungskonsistenz.
+
+[Change Your Story, Change Your Life](https://www.goodreads.com/book/show/18406694-change-your-story-change-your-life)
+
+## Du gegen Dich
+
+Das beherrschende Thema dieses Buches ist, dass der Kampf um psychische Gesundheit und Wohlbefinden ein Kampf zwischen dir und dir ist – dem starken Ich gegen das schwache Ich. 
+
+Die Geschichten betonen die Macht, Hilfe zu suchen und nicht zu versuchen, das Leben allein zu meistern. 
+
+Auf die eine oder andere Weise haben alle meine Athleten und Trainer den Mut gefunden, zu sagen: „Ich habe mich geirrt“, „Es tut mir leid“, „Ich weiß nicht“ oder „Ich brauche Hilfe“. 
+
+Für einige dieser Personen war der Austausch mit einem Mentor oder Denkpartner der Schlüssel zur Veränderung ihrer Geschichte und zu einer viel erfolgreicheren Karriere – und einem erfolgreicheren Leben.
+
+Dieses einfache Buch mit Geschichten ermutigt Sie, Ihre eigene Lebensgeschichte zu überprüfen, und erinnert Sie daran, dass sich Ihr Leben ändern kann, sobald Sie Verantwortung für Ihre eigene Denkweise, Ihr daraus resultierendes Denken und Verhalten übernehmen. 
+
+Wenn Sie nicht das Leben führen, das Sie führen möchten, gibt es eine Reihe von Möglichkeiten, die in jeder Lektion veranschaulicht werden, wie Sie die Kontrolle zurückgewinnen können. 
+
+Die wichtigsten Fragen, die es zu beantworten gilt, sind: „Was will ich?“ und „Wie sehr will ich es?“ 
+
+Veränderung ist nicht einfach, aber wenn Sie Ängste und Zweifel überwinden und die Willenskraft aufbringen, Verantwortung zu übernehmen und Ihre Denkweise zu stärken, können Sie den Lauf Ihres Lebens neu gestalten. 
+
+Ich wünsche Ihnen viel Erfolg beim Ändern Ihrer Geschichte!
+
+[Change Your Story, Change Your Life](https://www.goodreads.com/book/show/18406694-change-your-story-change-your-life)
+
+## Alles ist schwer, bevor es einfach ist
+
+Der deutsche Philosoph Goethe schrieb einst: „Alles ist schwer, bevor es leicht wird.“ 
+
+Es kann sein, dass Sie enorme Disziplin aufbringen müssen, um neue Denk- und Verhaltensgewohnheiten zu entwickeln. 
+
+Aber wenn Sie diese erst einmal fest verankert haben, können Sie mit weniger Aufwand weitaus mehr erreichen.
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
+## Was könnten Sie mit einer Stunde pro Tag tun?
+
+Ich wünschte, es wäre möglich, die wunderbaren Ergebnisse einer einzigen Stunde täglich, die man mit beharrlicher, konzentrierter, ernsthafter Selbstbildung verbringt, am Himmel zu verkünden, wo sie sich in das Bewusstsein jedes Jugendlichen einbrennen würden.
+
+Welcher junge Mann ist wirklich zu beschäftigt, um eine Stunde täglich der Selbstverbesserung und Selbsterweiterung zu widmen? 
+
+Eine Stunde täglich für kurze Zeit, gewinnbringend eingesetzt, würde es Männern mit durchschnittlichen Fähigkeiten ermöglichen, eine vollständige Wissenschaft zu erlernen. 
+
+Eine Stunde täglich in zehn Jahren würde einen unwissenden Menschen zu einem gut informierten Menschen machen. 
+
+In einer Stunde täglich könnte ein Junge oder ein Mädchen zwanzig Seiten nachdenklich lesen – mehr als siebentausend Seiten in einem Jahr oder achtzehn dicke Bände. 
+
+Eine Stunde täglich könnte einen unbekannten Menschen berühmt machen – nein, hat ihn bereits gemacht –, einen nutzlosen Menschen zu einem Wohltäter seiner Rasse. 
+
+Denken Sie an die gewaltigen Möglichkeiten von zwei – vier – ja, sogar sechs Stunden täglich, die junge Männer und Frauen oft mit frivoler Unterhaltung vergeuden!
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
+## Samen und mehr werden
+
+Ein Samen, der in die Erde fällt, wird aktiv und bringt im Akt des Lebens hundert weitere Samen hervor; das Leben vervielfältigt sich, indem es lebt. 
+
+Es wird immer mehr; das muss es tun, wenn es überhaupt weiter bestehen soll.
+
+Es ist der natürliche und inhärente Impuls des Lebens, mehr leben zu wollen; es liegt in der Natur der Intelligenz, sich zu erweitern, und des Bewusstseins, seine Grenzen zu erweitern und einen umfassenderen Ausdruck zu finden.
+
+[The Science of Getting Rich](https://www.goodreads.com/book/show/342504.The_Science_of_Getting_Rich)
+
+## Goldfische, Bonsai-Bäume und Sie
+
+Wir alle wurden hypnotisiert und dachten, wir seien kleiner als wir sind. 
+
+So wie ein zu kleiner Blumentopf einen mächtigen Baum in seinen Wurzeln hält oder ein kleines Goldfischglas Goldfische winzig klein hält, haben wir uns an ein Leben wie ein Liliputaner angepasst und eingerichtet. 
+
+Aber wenn man denselben Baum auf ein offenes Feld oder denselben Fisch in einen See setzt, werden sie hundertmal so groß wie sie sind. 
+
+Anders als der Baum oder der Goldfisch sind Sie nicht darauf angewiesen, dass jemand anderes Sie bewegt. 
+
+Sie haben die Macht, sich selbst zu bewegen. 
+
+Sie können in einen größeren Bereich vordringen und Ihr volles Potenzial entfalten.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Links
 
 - [How to Experiment Your Way to a Better Life](https://cityfrugal.com/experiment/)

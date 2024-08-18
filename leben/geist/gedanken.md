@@ -577,6 +577,152 @@ Halten Sie sich an die 3 Ps.
 
 [The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
 
+## Hier ist Ihr neues Training für mentale Stärke
+
+Ihr Geist ist ein Muskel, genau wie Ihr Bizeps. 
+
+Wenn Sie möchten, dass Ihr Bizeps stärker wird, müssen Sie regelmäßig Bizepscurls machen. 
+
+Dasselbe gilt für Ihren Geist. 
+
+Wenn Sie geistig stark werden möchten, müssen Sie regelmäßig geistige Übungen machen.
+
+Der Muskelabbau beginnt innerhalb von 72 Stunden nach Ihrem letzten Training. 
+
+Das gilt nicht nur für Ihren Bizeps, sondern auch für Ihr Gehirn. 
+
+Das Ziel sollte sein, nie zwei Tage ohne irgendeine Art von körperlicher Aktivität verstreichen zu lassen, und Sie sollten auch nie zwei Tage ohne geistiges Training verstreichen lassen.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
+## Ist Ihr Gedanke dienlich für Sie?
+
+Wenn ein Gedanke Ihnen dient, behalten Sie ihn. 
+
+Wenn er Ihnen nicht dient, lehnen Sie ihn ab. 
+
+Wenn Sie denken: „Ich werde die nächsten zwei Stunden damit verbringen, einen Sinn zu finden“, behalten Sie ihn. 
+
+Wenn Sie diesem Gedanken folgen und sagen: „Aber vielleicht bin ich auf dem falschen Weg und habe mein Leben vermasselt“, lehnen Sie ihn sofort und ohne viel Aufhebens ab. 
+
+Sie sagen: „Wow, dieser Folgegedanke war ein Knaller! Zum Teufel damit.“ 
+
+Es liegt ganz bei Ihnen, Ihre Gedanken zu akzeptieren oder abzulehnen. Wer sonst ist in der Lage, das für Sie zu tun?
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Flurmonitore für Ihre Gedanken
+
+Kognitive Therapeuten haben in der Regel ein gutes Gespür dafür, wie unsere Gedanken unser Unglücklichsein erzeugen. 
+
+Matthew McKay, Martha Davis und Patrick Fanning erklären beispielsweise in „Thoughts and Feelings“:
+
+Es wurde immer wieder nachgewiesen, dass den meisten schmerzhaften Emotionen unmittelbar eine Art interpretierender Gedanke vorausgeht. 
+
+Ein neuer Bekannter ruft beispielsweise nicht an, wenn er es versprochen hat. 
+
+Wenn Ihr interpretierender Gedanke wäre: „Er mag mich doch nicht“, wären Sie traurig, weil Sie abgewiesen wurden. 
+
+Wenn Ihr Gedanke wäre: „Er hatte einen Autounfall“, würden Sie sich um sein Wohlergehen sorgen. 
+
+Wenn Sie denken: „Er hat mich absichtlich angelogen, was seinen Anruf angeht“, könnten Sie über seine Lüge wütend sein. 
+
+Diese einfache Erkenntnis bildet den Kern der kognitiven Verhaltenstherapie: Sie können Ihre Gefühle ändern, indem Sie Ihre Gedanken ändern.
+
+Diese interpretierenden Gedanken sind nicht unähnlich Schulkindern, die ohne Aufsicht durch die Gänge rennen. 
+
+Wo ist der Fluraufseher? 
+
+Wo ist die Stimme in Ihnen, die fragt: „Was bringt mir diese Denkweise?“ 
+
+Es ist eine Sache, wenn einem ein flüchtiger Gedanke durch den Kopf geht wie „Ich hätte nichts dagegen, heute Abend high zu werden“ oder „Jedermann hat bessere Beziehungen als ich“. 
+
+Aber es durch den Kopf gehen zu lassen und es ernst zu nehmen, sind zwei verschiedene Dinge. 
+
+Man nimmt es nicht für bare Münze, bis man es betrachtet und beurteilt hat. 
+
+Gedanken müssen sich bewähren.
+
+Sie haben vielleicht das Gefühl, dass Ihr Leben beschissen ist, aber Sie können diesen Gedanken nicht freilassen und ihn wie eine Todesfee durch die Hallen Ihres Geistes rasen lassen. 
+
+Das Gefühl sitzt vielleicht wie ein Kloß in Ihrer Brust, aber der Gedanke ist da, damit Sie ihn genau untersuchen und hinterfragen können. 
+
+Wie hinterfragen Sie ihn? 
+
+Indem Sie fragen: „Wie hilft mir dieser Gedanke?“ 
+
+Die Frage ist nicht, ob ein Gedanke wie „Mein Leben ist beschissen“ irrational oder unvernünftig ist. 
+
+Die Frage ist, ob er Ihnen hilft oder nicht. 
+
+Das ist das Maß für jeden Gedanken, den Sie denken – hilft er Ihnen bei Ihren Bemühungen, die Erfahrung von Authentizität zu erlangen?
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Kognitive Verhaltenstherapie = großartig
+
+Die kognitive Verhaltenstherapie, die in den 1960er Jahren entwickelt wurde, ist im Grunde eine Form des mentalen Trainings. 
+
+Sie konzentriert sich darauf, den Patienten beizubringen, auf gesunde Weise auf ihre Emotionen, Gedanken und Verhaltensweisen zu reagieren. 
+
+Die Idee besteht darin, dysfunktionales Denken neu zu bewerten und den Menschen zu helfen, aus ihrem Denkmuster auszubrechen: „Die Tatsache, dass sie kein zweites Mal mit mir ausgehen wollte, bedeutet, dass ich ein totaler Versager bin und nie geliebt werden werde.“ 
+
+Die Patienten lernen, ihre Angewohnheit zu erkennen, alles zu katastrophisieren und alltägliche Rückschläge in Katastrophen zu verwandeln, und mit diesen kognitiven Fähigkeiten können sie Traurigkeit und Enttäuschung empfinden, ohne in den Abgrund der Depression zu stürzen.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
+## Unser geistiges Haus aufräumen
+
+Wenn Sie einen Raum gründlich reinigen möchten, werden Sie alles darin aufheben und untersuchen. 
+
+Manche Dinge werden Sie mit Liebe betrachten und Sie werden sie abstauben oder polieren, um ihnen neue Schönheit zu verleihen. 
+
+Bei manchen Dingen werden Sie feststellen, dass sie überarbeitet oder repariert werden müssen, und Sie werden sich eine Notiz machen, dies zu tun. 
+
+Manche Dinge werden Ihnen nie wieder von Nutzen sein, und es wird Zeit, sie loszulassen. 
+
+Alte Zeitschriften und Zeitungen und schmutzige Pappteller können ganz gelassen in den Papierkorb geworfen werden. 
+
+Es besteht kein Grund, wütend zu werden, um den Raum zu reinigen.
+
+Dasselbe gilt, wenn wir unser geistiges Haus reinigen. 
+
+Es besteht kein Grund, wütend zu werden, nur weil einige der darin enthaltenen Überzeugungen reif sind, weggeworfen zu werden. 
+
+Lassen Sie sie so einfach los, wie Sie nach einer Mahlzeit Essensreste in den Müll kratzen würden. 
+
+Würden Sie wirklich im Müll von gestern wühlen, um das Abendessen zuzubereiten? 
+
+Wühlen Sie in altem geistigen Müll, um die Erfahrungen von morgen zu schaffen? 
+
+Wenn Ihnen ein Gedanke oder eine Überzeugung nicht dient, lassen Sie ihn los!
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Ihr Gedanken-Türsteher
+
+Ihre wahren Feinde sind die selbstzerstörerischen Gedanken, armseligen Erwartungen und Überzeugungen, dass Sie nicht mit Vollgas leben dürfen. 
+
+Sie werden so viel Schmerz erfahren, wie Sie bereit sind zu akzeptieren. 
+
+Sie haben die Kontrolle darüber, wie sehr Sie leiden. 
+
+Schmerz passiert; Leiden ist optional. 
+
+Sie können Gedanken wählen, die Ihnen Erleichterung bringen, anstatt Sie einzusperren. 
+
+Um Ihre Freiheit zu finden, stehen Sie an der Tür Ihres Geistes und beobachten Sie Ihre Gedanken. 
+
+Beachten Sie, welche Sie aufrichten und welche Sie herunterziehen. 
+
+Dann lassen Sie wie ein Türsteher bei einer exklusiven Party nur diejenigen auf der Gästeliste zu und schicken Sie die anderen dorthin zurück, wo sie hergekommen sind. 
+
+Das Schicksal ist kein Netz, das das launische Glück über Sie geworfen hat; es ist ein Garten, den Sie durch die Gedanken pflegen, denen Sie folgen. 
+
+Verändern Sie Ihre Aufmerksamkeit, und Sie werden Ihr Leben verändern.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Bücher
 
 - [The Tools](https://www.goodreads.com/book/show/13152847-the-tools)

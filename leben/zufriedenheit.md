@@ -1121,6 +1121,104 @@ Sie müssen selbst herausfinden, wie Sie sie genießen und feiern können, und d
 
 [An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
 
+## Unglück passiert
+
+Seien wir reif und ehrlich und akzeptieren wir die Realität des Unglücklichseins. 
+
+Es ist nicht die Farbe des Lebens, aber es ist sicherlich eine seiner Farben. 
+
+Momente des Unglücklichseins kommen vor. Tage des Unglücklichseins kommen vor. Unglücklichsein kann ein Jahr oder ein Jahrzehnt überschatten. 
+
+Das macht Sie nicht „unzurechnungsfähig“ und es ist nichts, wofür Sie sich schämen sollten. 
+
+Aber was tun? Denn die Erfahrung des Unglücklichseins wollen Sie nicht verlängern oder, wenn Sie es vermeiden können, wiederholen. 
+
+Die Antwort: Arbeiten Sie an Ihrem Existenzprogramm. Lassen Sie mich Ihnen dieses Programm jetzt vorstellen.
+
+Eine Möglichkeit, mit der Unvermeidlichkeit des Unglücklichseins umzugehen, besteht darin, ein Leben zu führen, das auf existenziellen Idealen basiert. 
+
+Sie übernehmen so viel Kontrolle wie möglich über Ihre Gedanken, Ihre Einstellungen, Ihre Stimmungen, Ihr Verhalten und Ihre Lebenseinstellung und machen aus Ihrer angeborenen Freiheit eine Tugend und einen Segen.
+
+Dieses existenzielle Programm betont das Existenzielle, das Kognitive und das Verhalten. 
+
+Authentisch zu leben bedeutet, Ihr Leben um Ihre Antworten auf drei grundlegende Fragen herum zu organisieren. 
+
+- Die erste lautet: „Was ist Ihnen wichtig?“ 
+- Die zweite lautet: „Sind Ihre Gedanken auf das ausgerichtet, was Ihnen wichtig ist?“ 
+- Die dritte lautet: „Sind Ihre Verhaltensweisen auf das ausgerichtet, was Ihnen wichtig ist?“ 
+
+Im Folgenden sind die Elemente des Programms aufgeführt. In den folgenden Kapiteln werden wir sie nacheinander untersuchen.
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## PERMA
+
+Im Jahr 2011 veröffentlichte Seligman ein neues Buch mit dem Titel Flourish, das eine Abkehr von der bisherigen Konzentration auf die Theorie des authentischen Glücks darstellte, die weitgehend mit Hedonia in Verbindung gebracht wird. 
+
+Seligman entwickelte eine „Wohlbefindenstheorie“, die aus fünf Elementen (PERMA) besteht, die seiner Ansicht nach Menschen für sich selbst wählen werden. 
+
+Jedes der fünf Elemente steigert nachweislich das Wohlbefinden und ist intrinsisch motivierend und quantifizierbar. 
+
+Zu diesen Elementen gehören:
+- Positive Emotionen: Seligman behielt positive Emotionen bei, da er sie als „Eckpfeiler der Wohlbefindenstheorie“ bezeichnet. Glück und Lebenszufriedenheit sind jedoch nun lediglich Elemente dieser Komponente und nicht das Endziel.
+- Engagement Ähnlich: wie das obige Element bleibt Engagement Teil der neuen Wohlbefindenstheorie, da es die oben genannten Kriterien erfüllt und ein wesentlicher Bestandteil eines erfüllten Lebens ist.
+- Beziehungen: Dieses Element dreht sich um die Bedeutung „anderer Menschen“ und die entscheidende Rolle, die sie für unsere Fähigkeit zu erfüllen spielen, zu gedeihen.
+- Bedeutung: Bedeutung ist eine frühere Komponente der Glückstheorie, bleibt aber in der Wohlbefindenstheorie erhalten und umfasst das Gefühl von Sinn und Zugehörigkeit sowie den Dienst an etwas Höherem als sich selbst.
+- Leistung: Diese neue Komponente umfasst Personen, die sich auf ein „erfolgreiches Leben“ einlassen und sich auf Erfolg, Leistung und vor allem Meisterschaft konzentrieren.
+
+Seligman gibt weiter an, dass diese Elemente zum Wohlbefinden beitragen, es aber nicht allein definieren. 
+
+Indem er sowohl hedonistische als auch eudaimonische Komponenten in die Wohlbefindenstheorie einbezog, schuf Seligman eine ganzheitlichere Perspektive auf optimales Funktionieren. 
+
+Seligman argumentierte, dass Gedeihen das fehlende theoretische Rückgrat der gesamten positiven Psychologie sein könnte, da die Mehrheit der Themen und angewandten Programme der positiven Psychologie darauf abzielt, das Gedeihen eines Individuums zu steigern. 
+
+Forscher entwickeln derzeit ein Tool zur Messung des Gedeihens, wie es von PERMA operativ definiert wird.
+
+[Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
+
+## Lernen Sie Ihr (autonomes) Nervensystem kennen
+
+Das sympathische Nervensystem (SNS) ist das reaktive, integrierte System, das während Aktivierungsphasen wie Angstgefühlen, Erwartung und Aufregung reagiert. 
+
+Die Aktivierung des SNS führt zu physiologischen Veränderungen wie erhöhter Herzfrequenz, Adrenalinsekretion, Schwitzen und Pupillenverengung. 
+
+Das parasympathische Nervensystem (PNS) hingegen „ist das System der Ruhe, Erholung und des Vergnügens“. 
+
+Das Gleichgewicht zwischen diesen beiden Zweigen des autonomen Nervensystems ist für eine optimale Funktion unerlässlich. 
+
+Die Neigung, dass eines dieser Systeme unter bestimmten Umständen das andere dominiert und dadurch angemessene körperliche Reaktionen hervorruft, ist eine grundlegende Voraussetzung für ein Gedeihen. 
+
+Wenn ein System dazu neigt, zu dominieren (normalerweise das SNS, wodurch die angemessene Aktivierung des PNS verhindert wird), ist das Gleichgewicht zwischen diesen beiden Zweigen des Nervensystems beeinträchtigt und die optimale Funktion beeinträchtigt. 
+
+Um dieses Gleichgewicht zu beurteilen, können Psychophysiologen die Herzfrequenzvariabilität (HRV) untersuchen (Segerstrom et al. 2011).
+
+[Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
+
+## Das gute Leben
+
+Ein gutes Leben erreicht man nicht, indem man versucht, „glücklich“ zu sein, in dem Sinne, wie dieses Wort oft verwendet wird – nämlich um die Abwesenheit unangenehmer Erfahrungen wie Angst, Sorge oder Schmerz zu beschreiben. 
+
+Im Gegenteil: Vollkommen lebendig zu sein bedeutet, sich allen Dimensionen des Lebens zu öffnen – Trauer ebenso wie Freude, Schmerz ebenso wie Vergnügen. 
+
+Es bedeutet auch, sich der Suche nach persönlichem Sinn und transzendenten Zielen zu verschreiben – und Glück ist ein Nebenprodukt davon.
+
+[Conquer Your Critical Inner Voice](https://www.goodreads.com/book/show/48386.Conquer_Your_Critical_Inner_Voice)
+
+## Die 10 Gründe, warum Ihr Leben beschissen sein könnte
+
+1. „Du gibst deine Macht ab.
+2. Du erwartest, dass es Mist ist.
+3. Du lässt dich vom Schein täuschen.
+4. Du verschwendest Energie auf Dinge, die Mist sind.
+5. Du versuchst ständig, dich zu beweisen.
+6. Du sagst ja, wenn du nein meinst.
+7. Du denkst, du musst alles selbst machen.
+8. Du versuchst, andere Leute zu ändern.
+9. Du lässt deine Seele verhungern.
+10. Du vergisst, die Fahrt zu genießen.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Bücher
 
 - [Future Visions](https://www.goodreads.com/book/show/332795.Future_Visions)

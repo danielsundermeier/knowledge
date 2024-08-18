@@ -216,6 +216,24 @@ Im allgemeinen Sprachgebrauch wird diese Haltung der Akzeptanz gegenüber einer 
 
 [How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
 
+## Veränderungen finden außerhalb Ihrer Komfortzone statt
+
+Alle Veränderungen finden außerhalb Ihrer Komfortzone statt. 
+
+Das gilt körperlich, geistig, spirituell und finanziell. 
+
+Innerhalb Ihrer Komfortzone kann keine Veränderung stattfinden. 
+
+Überfordern Sie Ihren Körper und er wird stärker. 
+
+Überfordern Sie sich selbst und Ihre eigene Komfortzone und Sie werden stärker. 
+
+Tun Sie das jeden Tag und die Affirmation „Jeden Tag, in jeder Hinsicht, werde ich reicher und stärker“ wird nicht länger nur eine Affirmation sein. 
+
+Es wird eine Bestätigung sein.
+
+[Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
+
 ## Bücher
 
 - [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)

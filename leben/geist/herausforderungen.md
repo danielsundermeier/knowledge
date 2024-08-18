@@ -992,6 +992,50 @@ Wenn Sie dies verstehen und lernen, Widrigkeiten anzunehmen, können Sie lernen,
 
 [The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
 
+## Schmerzparadox
+
+Ein einfaches Leben auf lange Sicht resultiert also kontraintuitiv aus dem Opfer, hier und jetzt schwierigere Aufgaben zu erledigen. 
+
+Aber die Paradigmenwechsel auslösende Erkenntnis und der Durchbruch, den erfolgreiche Menschen im Gegensatz zu vielen anderen erzielt haben, ist, dass diese schwierigeren Aktivitäten oft nur für kurze Zeit notwendig sind.
+
+Das bringt uns zum Schmerzparadoxon der Entscheidungsfindung, das besagt, dass das kurzfristig Einfache zu dem langfristig Schwierigen führt, während das kurzfristig Schwierige zu dem langfristig Einfachen führt. 
+
+Das große Paradoxon ist, dass das, was wir für das Einfache hielten, was wie das Einfache aussieht, was wie der einfache Weg erscheint, uns sehr oft dazu führt, ein Leben zu schaffen, das das Gegenteil von einfach nicht sein könnte. 
+
+Und umgekehrt sind die Dinge, die wir für am schwierigsten hielten, die Herausforderungen, die am härtesten erscheinen, und die Anforderungen, die am strengsten erscheinen, genau die Aktivitäten, die uns zu dem einfachen Leben führen, das wir alle wollen.
+
+Aufgeschobene Probleme werden nur vergrößert.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Überraschungen und Realität
+
+Wir sehnen uns danach, dass das Leben „endlich zur Ruhe kommt“ und uns keine bösen Überraschungen mehr bereitet. 
+
+Wir wollen unsere Fehler nicht wiederholen, keine neuen, gewaltigen Fehler machen, nicht vor dem Leben stehen und nicht wissen, was wir als Nächstes tun sollen, und keine ernsthaften Zweifel und Ängste verspüren. 
+
+Aber das Leben kann, existentiell gesehen, nicht zur Ruhe kommen. 
+
+Morgen verliere ich vielleicht einen Elternteil oder ein Kind – das kann alles verändern. 
+
+Morgen fange ich vielleicht etwas an, das ehrgeiziger ist als alles, was ich je zuvor in Angriff genommen habe – natürlich werde ich zweifeln, ängstlich werden und Fehler machen! 
+
+Wir wollen so etwas wie eine Garantie vom Leben: Wenn ich ein bestimmtes Alter oder eine bestimmte Lebensphase erreiche, kann ich endlich an einem Ort der Gewissheit stehen. 
+
+Aber nur der Tod bringt diese Gewissheit. Das Leben bringt neue Fragen und neue Herausforderungen.
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Kleine Dinge + Große Dinge
+
+Meine Forschung hat immer wieder gezeigt, dass die Erholung von den kleineren Herausforderungen, die wir in einem Experiment stellen, wie z. B. Verbrennungen durch die Thermode oder das Sehen eines verstörenden Bildes, stark damit korreliert und vorhersagt, wie jemand mit Widrigkeiten im wirklichen Leben umgeht, insbesondere wie schnell er sich davon erholt. 
+
+Die Widerstandsfähigkeit gegenüber den kleinen Dingen ist daher ein guter Indikator für die Widerstandsfähigkeit gegenüber den größeren. 
+
+Wenn sie sich schnell von den kleinen Rückschlägen erholen, sind sie im Allgemeinen auch gegenüber den großen widerstandsfähig, und wenn sie durch die kleinen Dinge gelähmt werden oder sich von ihnen besessen machen, neigen sie dazu, auch von den großen Dingen lange Zeit niedergeschlagen zu sein.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
 ## Bücher
 
 - [The Stoic Challenge](https://www.goodreads.com/book/show/53404252-the-stoic-challenge)

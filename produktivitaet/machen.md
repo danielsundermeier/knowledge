@@ -1076,6 +1076,73 @@ Größe ist eigentlich das Überleben Ihrer Vision über einen längeren Zeitrau
 
 [The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
 
+## Die vier Handlungsgrade
+
+Eine Frage, die mir im Laufe der Jahre immer wieder gestellt wurde, lautet: „Wie viel Handeln ist genau notwendig, um erfolgreich zu sein?“ 
+
+Es überrascht nicht, dass jeder nach der geheimen Abkürzung sucht – und ebenso wenig überraschend ist die folgende Tatsache: Es gibt keine Abkürzungen. 
+
+Je mehr Sie tun, desto größer sind Ihre Chancen auf einen Durchbruch. 
+
+Diszipliniertes, konsequentes und beharrliches Handeln ist ein entscheidenderer Faktor für den Erfolg als jede andere Kombination von Dingen. 
+
+Zu wissen, wie man das richtige Maß an Handeln berechnet und dann ergreift, ist wichtiger als Ihr Konzept, Ihre Idee, Ihre Erfindung oder Ihr Geschäftsplan.
+
+Die meisten Menschen scheitern nur, weil sie im falschen Maß handeln. 
+
+Um das Handeln zu vereinfachen, werden wir Ihre Möglichkeiten in vier einfache Kategorien oder Handlungsgrade unterteilen. Ihre vier Möglichkeiten sind:
+
+1. Nichts tun.
+2. Zurückziehen.
+3. Normales Maß an Handeln ergreifen.
+4. Massive Maßnahmen ergreifen.
+
+Aufgrund meiner Tatendrangigkeit wurde ich schon mit vielen Dingen betitelt – als Workaholic, zwanghaft, gierig, nie zufrieden, getrieben und sogar manisch. 
+
+Doch jedes Mal, wenn ich so bezeichnet wurde, war es immer jemand, der weniger als den vierten Grad der Tatkraft besaß. 
+
+Ich habe noch nie jemanden erlebt, der erfolgreicher war als ich und mein exzessives Handeln als etwas Schlechtes ansah – denn erfolgreiche Menschen wissen aus erster Hand, was es braucht, um diese Art von Erfolg zu erzielen. 
+
+Sie wissen selbst, wie sie dorthin gelangen, wo sie hinwollen, und würden massive Taten niemals als in irgendeiner Weise unerwünscht bezeichnen.
+
+[The 10X Rule](https://www.goodreads.com/book/show/10339170-the-10x-rule)
+
+## Sie müssen einen Lebensstil der Aktion entwickeln
+
+Sie müssen einen Lebensstil entwickeln, der auf Handeln beruht. 
+
+Sie müssen sich zum Handeln verpflichten. 
+
+Sie müssen das Handeln annehmen. 
+
+Wenn Sie handeln, wenn Sie etwas tun, wenn Sie sich bewegen, können Sie alles haben, was Sie wollen. 
+
+Wenn Sie nicht handeln, verstehen Sie, aber Sie glauben nicht. 
+
+Wenn Sie nicht handeln, sind Sie nur ein informierter Verwahrloster. 
+
+Wenn Sie nicht handeln, sind Sie ein unglücklicher Hafen ungenutzten Potenzials. 
+
+Wenn Sie nicht handeln, wenn Sie nichts tun, wenn Sie sich nicht bewegen, werden Sie nichts haben.
+
+Sie werden handeln. Sie werden gewinnen.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Werde aktiv
+
+Der Mensch muss vom Wettbewerbsdenken zum kreativen Denken übergehen; er muss sich ein klares Bild von den Dingen machen, die er will, und mit Vertrauen und Zielstrebigkeit alles tun, was täglich getan werden kann, und dabei jede einzelne Sache effizient erledigen.
+
+Geben Sie Ihren kreativen Impuls nicht der ursprünglichen Substanz hin und setzen Sie sich dann hin und warten Sie auf Ergebnisse; wenn Sie das tun, werden Sie sie nie bekommen. 
+
+Handeln Sie jetzt. 
+
+Es gibt nie eine andere Zeit als jetzt, und es wird nie eine andere Zeit als jetzt geben. 
+
+Wenn Sie jemals anfangen wollen, sich auf den Empfang dessen vorzubereiten, was Sie wollen, müssen Sie jetzt beginnen.
+
+[The Science of Getting Rich](https://www.goodreads.com/book/show/342504.The_Science_of_Getting_Rich)
+
 ## Zitate
 
 > "The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think." - [Matthew Kobach](https://twitter.com/mkobach/status/1379237073194991623)

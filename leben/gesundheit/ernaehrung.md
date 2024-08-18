@@ -500,6 +500,26 @@ Oder, wie die Wissenschaftler von Cedars Sinai es ausdrücken: „Wenn Sie vor d
 
 [The Comfort Crisis](https://www.goodreads.com/book/show/55120630-the-comfort-crisis)
 
+## Ernährung und Wohlbefinden
+
+Zucker ist seit dem 16. Jahrhundert ein Bestandteil der westlichen Ernährung. 
+
+Vor 500 Jahren konnte der Durchschnittsmensch froh sein, wenn er Zucker zu sich nahm, heute konsumiert der durchschnittliche Westler schätzungsweise 3 Pfund Zucker pro Woche. 
+
+Insgesamt ist unser jährlicher Zuckerkonsum von 5 Pfund pro Person im Jahr 1700 auf 152 Pfund pro Person im Jahr 2000 gestiegen. 
+
+Neuere Forschungen haben ergeben, dass Zucker nicht nur schlecht für unsere Taille ist, sondern auch schädliche Auswirkungen auf unser Gehirn haben kann. 
+
+Es wurde festgestellt, dass Zucker Bereiche schrumpfen lässt, die für wichtige Funktionen wie Gedächtnis und Stimmungsregulierung verantwortlich sind, und den Hippocampus belastet.
+
+Westover und Marangell führten eine länderübergreifende Studie (Korea, USA, Frankreich, Deutschland, Kanada, Neuseeland) über die Beziehung zwischen Zuckerkonsum und dem Auftreten schwerer Depressionen durch. 
+
+Sie fanden heraus, dass „eine höchst signifikante Korrelation zwischen dem Zuckerkonsum (Kalorien/Kapsel/Tag) und der jährlichen Depressionsrate besteht“. 
+
+Auch wenn diese Studie einige erhebliche Einschränkungen aufweist, unterstreicht sie doch, wie wichtig es ist, die Herstellung verarbeiteter Lebensmittel und die Rolle des Zuckers in unserer Ernährung neu zu bewerten.
+
+[Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
+
 ## Links
 
 - [NutritionFacts](https://nutritionfacts.org/)

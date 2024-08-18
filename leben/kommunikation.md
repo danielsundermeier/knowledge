@@ -84,6 +84,24 @@ Wir kommen auch unseren Verpflichtungen nach und gehen nur Verpflichtungen ein, 
 
 [The Four Agreements](https://www.goodreads.com/book/show/6596.The_Four_Agreements)
 
+## Die Physik der E-Mail
+
+Newtons drittes Bewegungsgesetz besagt, dass jede Aktion eine gleich große und entgegengesetzte Reaktion hervorruft. 
+
+Die Physik von E-Mails verhält sich nicht anders: Je mehr E-Mails Sie senden, desto mehr E-Mails werden Sie erhalten. 
+
+Je besser Sie geben, desto besser werden Sie.
+
+Obwohl jeder Zweite seine E-Mails vor dem Frühstück liest, ist es selten produktiv, die E-Mails gleich morgens als Erstes zu überprüfen. 
+
+Tatsächlich ist es normalerweise kontraproduktiv, den Tag damit zu beginnen, die Prioritäten von den Anforderungen anderer Leute bestimmen zu lassen. 
+
+Widmen Sie stattdessen die ersten 60 bis 90 Minuten Ihres Tages einer Aufgabe, die Ihre wichtigste und anspruchsvollste Arbeit voranbringt, wenn Ihre Gehirnleistung am höchsten ist, und nicht später am Tag, wenn Sie gehetzt und Ihre Energie erschöpft ist. 
+
+Das bedeutet auch, dass Sie, wenn Sie Ihre Aufmerksamkeit Ihren E-Mails zuwenden, egal, was Sie dort finden – welche Probleme Sie lösen müssen, welche unbeantworteten Fragen Sie beantworten müssen – an diesem Tag bereits gute Arbeit geleistet haben.
+
+[Unsubscribe](https://www.goodreads.com/book/show/29502387-unsubscribe)
+
 ## Links
 
 - [Systemisches Konsensieren](https://blog.objectbay.com/systemic-consensus-principle)

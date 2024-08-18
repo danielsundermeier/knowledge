@@ -310,6 +310,18 @@ Was ich die neue Psychologie des Ausdauersports nenne, zielt darauf ab, die ment
 
 [How Bad Do You Want It?](https://www.goodreads.com/book/show/26047703-how-bad-do-you-want-it-mastering-the-psychology-of-mind-over-muscle)
 
+## Körperliche Aktivität als positive psychologische Intervention
+
+Hefferton und Mutrie haben körperliche Aktivität als „herausragende“ Intervention der positiven Psychologie bezeichnet, da sie nicht nur Risiken mindert und Krankheiten lindert, sondern auch positive Emotionen, Selbstwirksamkeit, Selbstbeherrschung und allgemeines Wohlbefinden hervorruft. 
+
+Was die Reduzierung betrifft, so wurde festgestellt, dass körperliche Aktivität das Risiko von „Fettleibigkeit, Herz-Kreislauf-Erkrankungen, koronarer Herzkrankheit, Schlaganfall, Diabetes (Typ 2), Osteoporose, bestimmten Schlafstörungen, Bluthochdruck (z. B. sinkt der Blutdruck bis zu 12 Stunden nach dem Training), bestimmten Krebsarten (Dickdarm-, Brust-, Enddarm-, Lungen-, Prostata-, Gebärmutterschleimhautkrebs) und sogar vorzeitigem Tod“ senkt. 
+
+Bewegung kann auch zur Verbesserung der Funktion des Immunsystems eingesetzt werden, es scheint jedoch eine J-förmige Beziehung zu geben, sodass moderate, chronische Aktivitätsniveaus zur Förderung der Funktion des Immunsystems besser geeignet sind als chronische, hochintensive.
+
+Was die Erzeugung von Wohlbefinden betrifft, so ist körperliche Aktivität sowohl mit hedonistischen als auch eudaimonischen Erfahrungen verbunden, darunter: positive Emotionen, Selbstwertgefühl, Körperbild, kognitive Funktionen, psychisches Wohlbefinden, posttraumatisches Wachstum, Flow, Lebenssinn und viele, viele weitere Konzepte.
+
+[Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)

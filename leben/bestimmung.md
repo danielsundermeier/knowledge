@@ -1179,6 +1179,68 @@ Diejenigen, die sich am wenigsten auf den Erfolg konzentrieren und sich stattdes
 
 [The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
 
+## Besessenheit ist keine Krankheit, sondern eine Gabe
+
+Im Wörterbuch wird der Begriff „besessen“ als „die Beherrschung der eigenen Gedanken oder Gefühle durch eine hartnäckige Idee, ein Bild oder einen Wunsch“ definiert. 
+
+Der Rest der Welt behandelt diese Geisteshaltung zwar eher wie eine Krankheit, doch ich glaube, dass sie das perfekte Adjektiv für Ihre Herangehensweise an den Erfolg ist. 
+
+Um Ihren Bereich, Ihr Ziel, Ihren Traum oder Ihre Ambition zu beherrschen, müssen Sie zunächst alle Ihre Interessen, Gedanken und Überlegungen beherrschen. 
+
+Besessenheit ist in diesem Zusammenhang nichts Schlechtes; sie ist eine Voraussetzung, um dorthin zu gelangen, wo Sie hin möchten. 
+
+Sie sollten sogar so fanatisch auf Erfolg fixiert sein, dass die Welt weiß, dass Sie keine Kompromisse eingehen oder aufgeben werden. 
+
+Und solange Sie nicht völlig von Ihrer Mission besessen sind, wird Sie niemand ernst nehmen. 
+
+Solange die Welt nicht versteht, dass Sie nicht aufgeben werden – dass Sie sich zu 100 Prozent engagieren, aus vollkommener Überzeugung sind und Ihr Projekt beharrlich verfolgen werden –, werden Sie nicht die Aufmerksamkeit und Unterstützung bekommen, die Sie brauchen. 
+
+In diesem Zusammenhang ist Besessenheit wie ein Feuer; Sie möchten es so groß bauen, dass die Leute sich gezwungen fühlen, sich bewundernd darum zu setzen. 
+
+Und wie bei einem Feuer müssen Sie immer wieder Holz nachlegen, um die Wärme und das Glühen aufrechtzuerhalten. 
+
+Sie sind besessen davon, wie Sie Ihr Feuer am Brennen halten können – sonst wird es zu Asche.
+
+[The 10X Rule](https://www.goodreads.com/book/show/10339170-the-10x-rule)
+
+## Existenzielle Intelligenz
+
+Existenzielle Intelligenz ist der Teil unseres natürlichen Erbes, der sich damit beschäftigt, was die Dinge bedeuten. 
+
+Es ist der Teil, der einen Schritt zurücktritt, ein Weitwinkelobjektiv aufsetzt und im Bereich der Bedeutung abschätzt.
+
+Wir mögen in vielerlei Hinsicht fähig sein, aber wir sind nur ein Bündel von Fähigkeiten, bis wir unsere existenzielle Intelligenz anwenden. 
+
+Existenzielle Intelligenz ist die koordinierende Intelligenz, die Intelligenz, der alle anderen Intelligenzen dienen. 
+
+Sie mögen klug genug sein, eine sehr große Bombe, eine Rakete zum Mars, eine Klonmaschine oder einen zweihundertstöckigen Turm zu bauen, aber wenn Sie sich nicht fragen, ob Sie es bauen sollten, haben Sie nur Ihre rohe Intelligenz auf die Aufgabe angewendet und nicht Ihre existenzielle Intelligenz.
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Wie man Bedeutung schafft
+
+… so etwas wie eine Methode oder eine Reihe von Prinzipien ergibt sich aus dem existenziellen Ideal. 
+
+Das klingt etwa so: Sie wägen Ihre Handlungen an einer Vision ab, die Sie von der Person haben, die Sie gerne sein möchten, der Person, auf die Sie am stolzesten wären; Sie ergreifen Maßnahmen; Sie lernen aus Ihren Erfahrungen, inwieweit Sie richtig geraten haben; und Sie nutzen das Gelernte, wenn Sie Ihre nächste Entscheidung abwägen. 
+
+Wir können das kurz benennen: das Prinzip des persönlichen Stolzes. 
+
+Sie nutzen das Prinzip des persönlichen Stolzes, um Ihren Sinn zu schaffen. 
+
+Das mag der schöne, unvollkommene, erschütternde Weg sein – der Weg, Sinn zu schaffen.
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
+## Das geprüfte Leben leben
+
+Jeder von uns hat das Ziel, für sich selbst und seine Lieben das bestmögliche Leben zu schaffen. 
+
+Seit Jahrhunderten versuchen Philosophen und Religionslehrer zu definieren, was es bedeutet, ein „gutes Leben“ zu führen. 
+
+Ihre Ansichten zu diesem Thema sind unterschiedlich, doch sie alle haben eine gemeinsame Überzeugung – nämlich, dass „ein Leben ohne Selbstreflexion nicht lebenswert ist“, wie Sokrates es ausdrückte. 
+
+Wir können unser menschliches Potenzial nur dann ausschöpfen, wenn wir unsere eigenen Wünsche, Sehnsüchte, Ziele und Ideale ernsthaft in Betracht ziehen und dann bewusste Entscheidungen treffen, während wir nach dem persönlichen Sinn unseres Lebens suchen.
+
 ## Bücher
 
 - [This Book Will Make You Dangerous](https://www.goodreads.com/book/show/53581047-this-book-will-make-you-dangerous)

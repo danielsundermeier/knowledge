@@ -258,6 +258,20 @@ Die Wissenschaft: Nickerchen sind gut für das lernende Gehirn, weil es hilft, d
 
 [The Little Book of Talent](https://www.goodreads.com/book/show/13330702-the-little-book-of-talent)
 
+## Frische Köpfe + erstklassige Arbeit
+
+Viele glauben, dass alle großen Erfolge von unermüdlichem Fleiß abhängen; dass sie mehr erreichen, wenn sie unermüdlich dabei bleiben, wenn sie immer bei der Arbeit sind, als wenn sie weniger arbeiten und mehr spielen. 
+
+Es könnte keinen größeren Irrtum geben.
+
+Klares, starkes Denken entspringt Frische und Enthusiasmus, und diese Eigenschaften werden nicht durch anstrengende, treibende Methoden hervorgebracht.
+
+Es gibt keine größere Täuschung, als zu glauben, dass wir mehr erreichen können, wenn wir jeden Tag viele Stunden arbeiten und Geist und Körper bis an die Grenzen der Belastbarkeit belasten, als wenn wir weniger Stunden arbeiten, weniger anstrengen, weniger ermüden, dafür aber mit größerer Frische und Intensität.
+
+Erstklassige Arbeit ist für Gehirne, die durch Erholungs- und Schlafmangel erschöpft sind, unmöglich.
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
 ## Links
 
 - [What to Do When You’re Feeling Drained](https://zenhabits.net/drained/)

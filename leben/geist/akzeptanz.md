@@ -379,6 +379,50 @@ Ihre Erlösung und Ihre Zerstörung liegen zu 100 Prozent bei Ihnen.
 
 [Thoughts of a Philosophical Fighter Pilot](https://www.goodreads.com/book/show/31201.Thoughts_of_a_Philosophical_Fighter_Pilot)
 
+## Ich bin verantwortlich
+
+Zu den wichtigsten persönlichen Entscheidungen, die Sie treffen können, gehört es, die volle Verantwortung für alles zu übernehmen, was Sie sind und was Sie jemals sein werden. 
+
+Dies ist der große Wendepunkt im Leben. 
+
+Die Übernahme persönlicher Verantwortung ist das, was den überlegenen Menschen vom durchschnittlichen Menschen unterscheidet. 
+
+Persönliche Verantwortung ist das herausragende Merkmal von Führungspersönlichkeiten und die Quelle hoher Leistung in jedem Menschen in jeder Situation.
+
+Die volle Verantwortung für Ihr Leben zu übernehmen bedeutet, dass Sie sich weigern, Ausreden zu suchen oder anderen die Schuld für Dinge in Ihrem Leben zu geben, mit denen Sie nicht glücklich sind. 
+
+Sie weigern sich von diesem Moment an, andere aus irgendeinem Grund zu kritisieren. 
+
+Sie weigern sich, sich über Ihre Situation oder über das, was in der Vergangenheit passiert ist, zu beschweren. Sie eliminieren alle „Wenn-doch-nur“- und „Was-wäre-wenn“-Fragen und konzentrieren sich stattdessen darauf, was Sie wirklich wollen und wohin Sie gehen.
+
+Diese Entscheidung, die volle Verantwortung für sich selbst, Ihr Leben und Ihre Ergebnisse zu übernehmen, ohne Ausreden, ist absolut notwendig, wenn Sie Ihr Einkommen und Ihre Freizeit verdoppeln möchten. 
+
+Sagen Sie sich von jetzt an, egal was passiert, „Ich bin verantwortlich.“
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
+## Lasst uns unsere Seele nicht verkümmern lassen
+
+Oft sind die Dinge, die wir als „falsch“ mit uns betrachten, nur Ausdruck unserer Individualität. 
+
+Das ist unsere Einzigartigkeit und das Besondere an uns. 
+
+Die Natur wiederholt sich nie. 
+
+Seit Anbeginn der Zeit hat es auf diesem Planeten nie zwei gleiche Schneeflocken oder zwei gleiche Regentropfen gegeben. Und jedes Gänseblümchen ist anders als jedes andere Gänseblümchen. 
+
+Unsere Fingerabdrücke sind anders, und wir sind anders. 
+
+Wir sind dazu bestimmt, anders zu sein. 
+
+Wenn wir das akzeptieren können, gibt es keinen Wettbewerb und keinen Vergleich. 
+
+Zu versuchen, wie ein anderer zu sein, heißt, unsere Seele verkümmern zu lassen. 
+
+Wir sind auf diesen Planeten gekommen, um auszudrücken, wer wir sind.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
 ## Bücher
 
 - [Living Untethered](https://www.goodreads.com/book/show/59552636-living-untethered)

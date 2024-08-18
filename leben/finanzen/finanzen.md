@@ -106,6 +106,93 @@ PBNKDEFF011
 - Die nächsten 2 Zeichen (Buchstaben und Zahlen) - Standort code.
 - Die letzten 3 Zeichen (Buchstaben und Zahlen) ? Bankfiliale (optional).
 
+## Die Säulen des Wohlstands
+
+Wohlstand ist wie ein Haus ein Dach über dem Kopf eines Menschen, das ihm Schutz und Komfort bietet. 
+
+Ein Dach setzt eine Stütze voraus, und eine Stütze erfordert ein Fundament. 
+
+Das Dach des Wohlstands wird also von den folgenden acht Säulen getragen, die in einem Fundament moralischer Beständigkeit verankert sind:
+
+1. Energie: Sich zu anstrengender und unablässiger Anstrengung bei der Erfüllung seiner Aufgabe aufraffen.
+2. Sparsamkeit: Konzentration von Macht; die Erhaltung von Kapital und Charakter, wobei letzterer geistiges Kapital ist und daher von größter Bedeutung.
+3. Integrität: Unerschütterliche Ehrlichkeit; alle Versprechen, Vereinbarungen und Verträge ohne Rücksicht auf Verlust oder Gewinn einhalten.
+4. System: Alle Einzelheiten der Ordnung unterordnen und dadurch das Gedächtnis und den Geist von überflüssiger Arbeit und Anstrengung entlasten, indem viele auf eins reduziert werden.
+5. Mitgefühl: Großzügigkeit, Großzügigkeit, Sanftmut und Zärtlichkeit; freigiebig, frei und freundlich sein.
+6. Aufrichtigkeit: Gesund und ganz, robust und ehrlich sein; und deshalb in der Öffentlichkeit nicht eine Person sein und im Privaten nicht eine andere, und nicht öffentlich gute Taten vorgeben, während man im Geheimen schlechte Taten begeht.
+7. Unparteilichkeit: Gerechtigkeit; nicht für sich selbst streben, sondern beide Seiten abwägen und nach Billigkeit handeln.
+8. Selbstständigkeit: Nur auf sich selbst schauen, um Stärke und Unterstützung zu finden, indem man auf festen und unbesiegbaren Prinzipien steht, und sich nicht auf Äußerlichkeiten verlässt, die einem jederzeit entrissen werden können.
+
+[Eight Pillars of Prosperity](https://www.goodreads.com/book/show/536015.Eight_Pillars_of_Prosperity)
+
+## Wohlstand + Die Seele eines Genies
+
+Wohlstand ist zunächst ein Geist, eine Geisteshaltung, eine moralische Kraft, ein Leben, das sich äußerlich in Form von Überfluss, Glück und Freude manifestiert. 
+
+So wie ein Mensch nicht durch das Schreiben von Gedichten, Essays und Theaterstücken zum Genie werden kann, sondern die Seele eines Genies entwickeln und erwerben muss – wenn das Schreiben als Wirkung auf die Ursache folgt –, so kann man auch nicht durch das Anhäufen von Geld und durch den Erwerb von Eigentum und Besitztümern wohlhabend werden, sondern muss die Seele der Tugend entwickeln und erwerben – wenn die materiellen Accessoires als Wirkung auf die Ursache folgen – denn der Geist der Tugend ist der Geist der Freude und er enthält in sich allen Überfluss, alle Zufriedenheit, alle Lebensfülle.
+
+[Eight Pillars of Prosperity](https://www.goodreads.com/book/show/536015.Eight_Pillars_of_Prosperity)
+
+## Der tugendhafte vs. der bösartige Mensch
+
+Wenn ein Mensch gewisse geistige oder körperliche Laster ablegt, die ihn seiner Energie beraubt haben, was passiert dann mit der so erhaltenen Energie? 
+
+Sie wird nicht zerstört oder geht verloren, denn Energie kann niemals zerstört oder verloren werden. 
+
+Sie wird zu produktiver Energie. 
+
+Sie erscheint in Form fruchtbarer Gedanken wieder. 
+
+Der tugendhafte Mensch ist immer erfolgreicher als der lasterhafte, weil er voller Ressourcen ist. 
+
+Seine gesamte Mentalität ist lebendig und kraftvoll, voller gespeicherter Energie. 
+
+Was der lasterhafte Mensch in lasterhafter Nachsicht verschwendet, verwendet der tugendhafte Mensch in fruchtbarer Arbeit. 
+
+Ein neues Leben und eine neue Welt voller faszinierender Beschäftigungen und reiner Freuden öffnet sich dem Menschen, der sich von der alten Welt tierischer Laster abschottet, und sein Platz wird durch die Ressourcen gesichert, die in ihm aufsteigen werden.
+
+[Eight Pillars of Prosperity](https://www.goodreads.com/book/show/536015.Eight_Pillars_of_Prosperity)
+
+## Die Logik, warum Sie reich werden sollten
+
+Sie können Gott und der Menschheit keinen größeren Dienst erweisen, als das Beste aus sich zu machen.
+
+Was auch immer zum Lob der Armut gesagt werden mag, die Tatsache bleibt, dass es nicht möglich ist, ein wirklich erfülltes oder erfolgreiches Leben zu führen, wenn man nicht reich ist. 
+
+Es ist nicht möglich, ein wirklich erfülltes oder erfolgreiches Leben zu führen, wenn man nicht reich ist. 
+
+Kein Mensch kann sein Talent oder seine Seelenentwicklung zu seiner größtmöglichen Größe aufsteigen, wenn er nicht viel Geld hat; denn um die Seele zu entfalten und Talent zu entwickeln, muss er viele Dinge haben, die er nutzen kann, und er kann diese Dinge nicht haben, wenn er nicht Geld hat, um sie zu kaufen.
+
+Der Zweck der Natur ist die Weiterentwicklung und Entfaltung des Lebens; und jeder Mensch sollte alles haben, was zur Kraft, Eleganz, Schönheit und Fülle des Lebens beitragen kann; sich mit weniger zufrieden zu geben, ist sündig.
+
+Was Gott möchte, ist, dass Sie das Beste aus sich machen, für sich selbst und für andere; und Sie können anderen mehr helfen, indem Sie das Beste aus sich machen, als auf irgendeine andere Weise.
+
+Sie können das Beste aus sich nur machen, indem Sie reich werden; daher ist es richtig und lobenswert, dass Sie Ihre ersten und besten Gedanken der Erwerb von Reichtum widmen.
+
+[The Science of Getting Rich](https://www.goodreads.com/book/show/342504.The_Science_of_Getting_Rich)
+
+## Liebe deine Rechnungen
+
+Es ist wichtig, dass wir aufhören, uns über Geld Sorgen zu machen und aufhören, unsere Rechnungen zu hassen. 
+
+Viele Menschen betrachten Rechnungen als Strafen, die es möglichst zu vermeiden gilt. 
+
+Eine Rechnung ist eine Bestätigung unserer Zahlungsfähigkeit. 
+
+Der Gläubiger geht davon aus, dass Sie wohlhabend genug sind, und bietet Ihnen zuerst die Dienstleistung oder das Produkt an. 
+
+Ich segne mit Liebe jede einzelne Rechnung, die in mein Haus kommt. 
+
+Ich segne mit Liebe und drücke einen kleinen Kuss auf jeden einzelnen Scheck, den ich ausstelle. 
+
+Wenn Sie mit Groll bezahlen, wird das Geld nur schwer zu Ihnen zurückkommen. 
+
+Wenn Sie mit Liebe und Freude bezahlen, öffnen Sie den frei fließenden Kanal des Überflusses. 
+
+Behandeln Sie Geld als Freund, nicht als etwas, das Sie zusammenknüllen und in Ihrer Tasche zerquetschen.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
 ## Links
 
 - [How to build wealth slowly](https://pjrvs.com/wealth)

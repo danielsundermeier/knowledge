@@ -349,6 +349,24 @@ Druck ist etwas anderes als Angst; Nervosität ist etwas anderes als Sorge.
 
 [Overachievement](https://www.goodreads.com/book/show/568477.Overachievement)
 
+## Achtsamkeitsmeditation
+
+Um eine größere Belastbarkeit zu entwickeln und sich schneller von Rückschlägen zu erholen, empfehle ich Achtsamkeitsmeditation. 
+
+Da sie emotionale Ausgeglichenheit erzeugt, hilft Achtsamkeitsmeditation Ihnen, sich zu erholen, aber nicht zu schnell (genauso wie sie Ihnen hilft, sich zu konzentrieren, ohne hyperfokussiert zu werden). 
+
+Achtsamkeit schwächt die Assoziationsketten, die uns dazu bringen, uns von Rückschlägen besessen zu machen und uns sogar darin zu suhlen. 
+
+Wenn Sie beispielsweise Ihren Arbeitsplatz verlieren, könnten Ihre Gedanken von „Arbeitslosigkeit“ über „keine Krankenversicherung“ und „Haus verlieren“ bis hin zu „Ich kann nicht weitermachen“ purzeln. 
+
+Achtsamkeit stärkt die Verbindungen zwischen dem präfrontalen Kortex und der Amygdala und fördert Gleichmut, der Sie davon abhält, in diese Abwärtsspirale zu geraten. 
+
+Sobald Ihre Gedanken in dieser Kette des Elends von einer Katastrophe zur nächsten zu springen beginnen, haben Sie die geistigen Mittel, innezuhalten, zu beobachten, wie leicht das dem Geist gelingt, zu erkennen, dass es sich um einen interessanten geistigen Prozess handelt, und sich dagegen zu wehren, in den Abgrund gezogen zu werden. 
+
+Ich empfehle Ihnen, mit einer einfachen Form der Achtsamkeitsmeditation zu beginnen, wie der zuvor beschriebenen Achtsamkeit der Atmung.
+
+[The Emotional Life of Your Brain](https://www.goodreads.com/book/show/11950578-the-emotional-life-of-your-brain)
+
 ## Bücher
 
 - [The Upside of Stress](https://www.goodreads.com/book/show/23281639-the-upside-of-stress)

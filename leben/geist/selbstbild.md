@@ -760,6 +760,56 @@ Dies wird die Gespenster des Zweifels und der Angst zerstreuen und eine Kraft du
 
 [He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
 
+## Werde zum Krieger und verändere dich
+
+Ihre Überzeugungen sind immer Ihr einziges wirkliches Problem. 
+
+Glauben Sie nichts Negatives über sich selbst. 
+
+Wenn Sie eine unproduktive Angewohnheit haben, werden Sie einfach aktiv. 
+
+Ersetzen Sie sie durch die Angewohnheit, die Ihnen besser dient. 
+
+Nichts ist von Dauer. 
+
+Alles ändert sich, auch Sie. 
+
+Besonders, wenn Sie sich entscheiden, ein Krieger zu werden.
+
+[Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
+
+## Sollte -> Könnte
+
+Ich glaube, dass „sollte“ eines der schädlichsten Wörter unserer Sprache ist. 
+
+Jedes Mal, wenn wir „sollte“ verwenden, sagen wir im Grunde „falsch“. 
+
+Entweder liegen wir falsch, oder wir lagen falsch, oder wir werden falsch liegen. 
+
+Ich glaube nicht, dass wir noch mehr Unrecht in unserem Leben brauchen. 
+
+Wir brauchen mehr Entscheidungsfreiheit. 
+
+Ich würde das Wort „sollte“ am liebsten für immer aus dem Vokabular streichen. 
+
+Ich würde es durch das Wort „könnte“ ersetzen. 
+
+„könnte“ gibt uns eine Wahl, und wir liegen nie falsch.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Was wir uns selbst sagen
+
+Wenn Sie in der letzten Woche bemerkt haben, dass sich Ihre Stimmung geändert hat – zum Beispiel von relativer Zufriedenheit zu Niedergeschlagenheit –, versuchen Sie, sich an das Ereignis oder die Interaktion zu erinnern, die unmittelbar vor der Änderung Ihrer Gefühle stattgefunden hat. 
+
+Nachdem Sie über die Einzelheiten des Ereignisses oder Gesprächs nachgedacht haben, versuchen Sie sich daran zu erinnern, was Sie sich damals gesagt haben. 
+
+Obwohl viele Situationen und Begegnungen belastend oder angstauslösend sein können, ist es wichtig, noch einmal zu betonen, dass die Art und Weise, wie wir diese Ereignisse oder Situationen interpretieren, der Kern des Problems ist. 
+
+Was wir uns über das Ereignis, über uns selbst und über die andere(n) beteiligte(n) Person(en) sagen, ist für die Bestimmung unserer Gefühle und unseres Gemütszustands weitaus entscheidender als das Ereignis selbst.
+
+[Conquer Your Critical Inner Voice](https://www.goodreads.com/book/show/48386.Conquer_Your_Critical_Inner_Voice)
+
 ## Bücher
 
 - [Mindset](https://www.goodreads.com/book/show/40745.Mindset)

@@ -268,6 +268,72 @@ Jeder Mensch kennt seine größte Stärke, seine gewaltigste Macht nicht, bis si
 
 [He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
 
+## Stärken + Schwächen: Höhen und Tiefen
+
+Wer versucht, einen Menschen so einzusetzen oder eine Organisation so zu besetzen, dass Schwächen vermieden werden, wird im besten Fall Mittelmäßigkeit erzielen. 
+
+Die Vorstellung, dass es „ausgeglichene“ Menschen gibt, Menschen, die nur Stärken und keine Schwächen haben (ob man nun den „ganzen Menschen“, die „reife Persönlichkeit“, die „ausgeglichene Persönlichkeit“ oder den „Generalisten“ nennt), ist ein Rezept für Mittelmäßigkeit, wenn nicht für Inkompetenz. 
+
+Starke Menschen haben immer auch starke Schwächen. 
+
+Wo es Gipfel gibt, gibt es auch Täler. 
+
+Und in vielen Bereichen ist niemand stark. 
+
+Gemessen am Universum des menschlichen Wissens, der Erfahrung und der Fähigkeiten müsste selbst das größte Genie als völliger Versager eingestuft werden. 
+
+So etwas wie einen „guten Menschen“ gibt es nicht. 
+
+Gut wofür?, ist die Frage.
+
+[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+
+## Freundlichkeit + Großzügigkeit
+
+Großzügigkeit geht mit großherziger Güte einher. 
+
+Wenn Güte die sanfte Schwester ist, ist Großzügigkeit der starke Bruder. 
+
+Ein freier, freigiebiger und großmütiger Charakter ist immer anziehend und einflussreich. 
+
+Geiz und Gemeinheit stoßen immer ab; sie sind dunkel, eng, beschränkt und kalt. 
+
+Güte und Großzügigkeit ziehen immer an; sie sind sonnig, freundlich, offen und warm. 
+
+Das Abstoßende führt zu Isolation und Versagen; das Anziehende führt zu Verbundenheit und Erfolg.
+
+[Eight Pillars of Prosperity](https://www.goodreads.com/book/show/536015.Eight_Pillars_of_Prosperity)
+
+## Aus Stolz handeln vs. Sich selbst stolz machen
+
+Aus Stolz zu handeln und stolz zu sein, sind zwei verschiedene Ideen. 
+
+Natürlich sprechen wir von Letzterem. 
+
+Tatsächlich müssen Sie sich vielleicht demütigen, um stolz zu sein, indem Sie beispielsweise zugeben, dass Sie Ihren Alkoholkonsum außer Kontrolle geraten lassen oder dass Sie erkennen, dass Ihre Art, mit Menschen umzugehen, diese herabwürdigt. 
+
+Das existenzielle Ideal besteht nicht darin, Arroganz, Größenwahn und Narzissmus zu verbergen. 
+
+Es geht darum, von Ihnen zu verlangen, dass Sie Ihre Freiheit nutzen, um Ihre Handlungen mit einer Vision Ihres Lebens in Einklang zu bringen.
+
+Sie müssen zwangsläufig Urlaub von der Bedeutung nehmen, da nicht jede Minute des Tages bedeutungsvoll erscheinen kann. 
+
+Aber Sie versuchen, keinen Urlaub von Ihrem persönlichen Stolz zu nehmen. 
+
+Um zu überleben, entscheiden Sie sich vielleicht, Dinge zu tun, auf die Sie nicht stolz sind. 
+
+Aus Angst sagen Sie vielleicht nichts. 
+
+Aus Faulheit und Nachlässigkeit verschwenden Sie vielleicht einen Tag, ein Jahr oder ein Jahrzehnt. 
+
+Um Ihre Haut zu retten, verletzen Sie vielleicht einen anderen. 
+
+Aber zumindest wissen Sie, dass Sie Ihre eigene oberste Direktive verletzen. 
+
+Sie werden sich schuldig fühlen und wissen, dass Sie es das nächste Mal besser machen müssen.
+
+[Rethinking Depression](https://www.goodreads.com/book/show/13235653-rethinking-depression)
+
 ## Universelle Tugenden
 
 Sie korrelieren am meisten mit dem Aufblühen.

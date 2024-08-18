@@ -154,6 +154,15 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 
 - [NRW.Bank](https://www.nrwbank.de/de/privatpersonen/mietwohnraum-schaffen/)
 
+## Coliving
+
+### Links
+
+- [Coliving Anbieter und Konzepte Weltweit](https://juliacolonia.de/coliving-anbieter-konzepte-weltweit/)
+- [Vonder](https://www.vondereurope.com/)
+- [Habyt](https://www.habyt.com/)
+- [The Base](https://www.jointhebase.co/de)
+
 ## Videos
 
 - [America's Biggest Problem](https://www.youtube.com/watch?v=-lD7VqQbrEw&feature=share)

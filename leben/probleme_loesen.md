@@ -175,6 +175,40 @@ Und selbst in meinem Beruf geht es nur um Kleinigkeiten.
 
 [An Astronaut's Guide to Life on Earth](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth)
 
+## So werden Sie stark und belastbar
+
+Starke, belastbare Menschen haben das, was wir einen „unerbittlichen Lösungsfokus“ oder RSF nennen. 
+
+Wenn eine Person mit einem großartigen RSF in der gleichen Situation wäre und diesen großen Kunden verlieren würde, wäre sie nicht eine Art emotionsloser Roboter – der Verlust würde schmerzen. Aber der unmittelbare, messerscharfe Fokus würde darauf gerichtet sein, den Lösungsweg zu finden und dies in weniger als sechzig Sekunden zu tun.
+
+Wir sagen „Lösungsweg“, weil viele, viele Probleme offensichtlich nicht mit einer blitzartigen Idee gelöst werden. 
+
+Eine Lösung ist ein Prozess, und dieser Prozess besteht aus Schritten. 
+
+Bei RSF besteht Ihr Ziel bei einem Problem darin, innerhalb von sechzig Sekunden einen Schritt zu identifizieren, mit dem Sie die Situation verbessern können – und sei es nur um eine kleine Verbesserung. 
+
+Bei RSF geht es nicht darum, die „perfekte“ Lösung zu finden, sondern vielmehr darum, einfach irgendeine Art von Verbesserung zu identifizieren. 
+
+Es wird die „+1-Lösung“ genannt, weil jede Verbesserung der aktuellen Situation Teil einer Lösung ist. 
+
+Dem +1-Konzept wurde mehrfach zugeschrieben, dass es das, was zuvor für unmöglich gehalten wurde, tatsächlich möglich gemacht hat.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
+## Schuldzuweisungen und Macht
+
+Schuldzuweisungen sind eine der sichersten Methoden, um in einem Problem steckenzubleiben. 
+
+Indem wir anderen die Schuld geben, geben wir unsere Macht ab. 
+
+Wenn wir das verstehen, können wir uns über das Problem erheben und die Kontrolle über unsere Zukunft übernehmen. 
+
+Die Vergangenheit lässt sich nicht ändern. 
+
+Die Zukunft wird von unserem gegenwärtigen Denken geprägt.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
 ## Zitate
 
 > "The goal here is not to remove all your problems. Rather, it’s to upgrade the quality of your existing problems so they become ones worth solving." - [Thankfully, Life Is Full of Problems](https://moretothat.com/thankfully-life-is-full-of-problems/)

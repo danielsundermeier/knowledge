@@ -350,4 +350,39 @@ Die Leute sind besser als das und sollten mehr von sich erwarten.
 
 [Live Life Aggressively](https://www.goodreads.com/book/show/12413834-live-life-aggressively-what-self-help-gurus-should-be-telling-you)
 
+## Die 7 Strategien zur Selbstdisziplin
+
+In den folgenden Kapiteln werde ich Ihnen die sieben Strategien vorstellen, die Sie brauchen, um die Treppe zu dem Leben zu nehmen, das Sie sich immer gewünscht haben. 
+
+Es sind sieben Prinzipien, auf die Sie sich verlassen können und die sich in den Gedanken und Leben der Menschen widerspiegeln, die ich getroffen, gesehen, gelesen oder mit denen ich gesprochen habe und die ihre Träume leben.
+
+Die sieben Prinzipien zur Vereinfachung der Selbstdisziplin, um Ihr Potenzial freizusetzen, sind:
+
+- Opferbereitschaft: Das Paradox-Prinzip
+- Engagement: Das Buy-In-Prinzip
+- Fokus: Das Vergrößerungsprinzip
+- Integrität: Das Schöpfungsprinzip
+- Zeitplan: Das Ernteprinzip
+- Glaube: Das Perspektivenprinzip
+- Aktion: Das Pendelprinzip
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Das schwierigste Wort
+
+Ich wollte das nicht lernen. Ich habe jahrelang dagegengehalten. 
+
+Aber schließlich habe ich es akzeptiert: Je härter ich zu mir selbst bin, desto leichter fällt mir das Leben. 
+
+Je härter ich zu mir selbst bin, desto schwerer fällt mir das Leben. 
+
+Und wenn ich davon spreche, hart zu mir selbst zu sein, meine ich nicht Kritik. 
+
+Ich meine, harte Dinge zu tun. Hartes Training. Harte Arbeit. Und die harte Aufgabe, NEIN zu all den Leuten zu sagen, mit denen ich mein Leben vergeudet habe, weil ich versuchte, ihnen zu gefallen und ihre Anerkennung zu gewinnen. 
+
+Der Schwierigkeitsgrad, NEIN zu sagen, ist der Grund, warum ich das Wort Krieger verwende. 
+
+Und der Sieg, der sich einstellt, wenn man JA zu Kreativität, Konzentration und Dienst sagt, ist der Grund, warum ich das Wort Reichtum verwende.
+
+[Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
 

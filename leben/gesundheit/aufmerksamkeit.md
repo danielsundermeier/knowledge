@@ -470,6 +470,114 @@ Regelmäßige Selbstdistanzierung (über eine Situation nachdenken, als ob ein F
 
 [The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
 
+## Das „Geheimnis“ der Wirksamkeit
+
+Wenn es ein „Geheimnis“ der Effektivität gibt, dann ist es Konzentration. 
+
+Effektive Führungskräfte erledigen die wichtigsten Dinge zuerst und sie erledigen eine Sache nach der anderen.
+
+Es gibt immer mehr wichtige Beiträge zu leisten, als Zeit dafür zur Verfügung steht. Daher besteht immer ein Zeitdefizit.
+
+Je mehr sich eine Führungskraft auf den Beitrag nach oben konzentriert, desto mehr wird sie relativ große, kontinuierliche Zeitblöcke benötigen. 
+
+Je mehr sie von der Beschäftigung auf das Erreichen von Ergebnissen umschaltet, desto mehr wird sie zu anhaltenden Anstrengungen übergehen – Anstrengungen, die eine ziemlich große Menge an Zeit benötigen, um Früchte zu tragen. 
+
+Doch um auch nur diesen halben Tag oder diese zwei Wochen wirklich produktiver Zeit zu bekommen, sind Selbstdisziplin und die eiserne Entschlossenheit erforderlich, „Nein“ zu sagen.
+
+Je mehr eine Führungskraft daran arbeitet, ihre Stärken produktiv zu machen, desto mehr wird ihr die Notwendigkeit bewusst, die ihr zur Verfügung stehenden menschlichen Stärken auf große Chancen zu konzentrieren. 
+
+Dies ist der einzige Weg, um Ergebnisse zu erzielen.
+
+[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+
+## Fokus + Mentale Modelle
+
+Menschen, die ihre Aufmerksamkeit zu steuern wissen und sich regelmäßig robuste mentale Modelle aneignen, verdienen tendenziell mehr Geld und bekommen bessere Noten. 
+
+Darüber hinaus zeigen Experimente, dass jeder lernen kann, sich regelmäßig mentale Modelle anzueignen. 
+
+Indem wir uns angewöhnen, uns selbst Geschichten über das zu erzählen, was um uns herum geschieht, lernen wir, unsere Aufmerksamkeit gezielter zu lenken. 
+
+Diese Momente des Geschichtenerzählens können so klein sein wie der Versuch, sich auf dem Weg zur Arbeit ein bevorstehendes Meeting vorzustellen – sich selbst dazu zu zwingen, sich vorzustellen, wie das Meeting beginnen wird, welche Punkte man ansprechen wird, wenn der Chef um Kommentare bittet, welche Einwände die Kollegen wahrscheinlich vorbringen werden – oder sie können so groß sein wie eine Krankenschwester, die sich auf dem Weg durch eine Neugeborenen-Intensivstation Geschichten darüber erzählt, wie Säuglinge aussehen sollten.
+
+[Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
+## Superkraft des 21. Jahrhunderts
+
+Deshalb sind die Strategien, die im zweiten Abschnitt dieses Buches beschrieben werden – das methodische Umreißen Ihrer Ziele, das Definieren Ihrer täglichen Routine und das Festlegen von Erwartungen an sich selbst und andere in Bezug auf Art und Zeitpunkt Ihrer Kommunikation – so wichtig. 
+
+Dabei geht es nicht nur um E-Mails; es geht darum, zu lernen, wie Sie Ihre Aufmerksamkeit im Hinblick auf alle – und jede – ablenkende Information oder Unterbrechung, die Ihnen begegnet, effektiver steuern können. 
+
+Erfolgreich waren schon immer diejenigen, die ihre Talente über einen längeren Zeitraum zielstrebig einsetzen konnten, um ein bestimmtes Ergebnis zu erzielen. 
+
+Angesichts der Flut neuer Apps und Kommunikationskanäle, die online gehen und um unsere kostbare Aufmerksamkeit buhlen, wird dies nur noch wahrer werden. 
+
+Die Mittel – und die Willenskraft – zu haben, Prioritäten zu setzen, Kurs zu halten und irrelevante „Chancen“ zu ignorieren, ist eine Fähigkeit, die in diesem kakophonischen und anspruchsvollen digitalen Zeitalter unübertroffen ist.
+
+[Unsubscribe](https://www.goodreads.com/book/show/29502387-unsubscribe)
+
+## Fokus ist Kraft
+
+Wenn Sie an einem heißen Sommertag ein Stück Papier auf den Asphalt legen würden, würde ihm nichts passieren, aber wenn Sie eine Lupe zwischen das Stück Papier und die Sonne halten würden, würde das Papier Feuer fangen.
+
+Warum? Weil Konzentration buchstäblich Kraft ist. 
+
+Sonnenlicht, das ausreichend konzentriert ist, erzeugt genug Energie, um ein Stück Papier in Brand zu setzen. 
+
+Wasser, das ausreichend konzentriert oder stromlinienförmig genug ist, kann Stahl durchschneiden. 
+
+Das Vergrößerungsprinzip der Konzentration drückt einfach eine der wichtigsten Wahrheiten des Lebens aus: Konzentration ist Kraft.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Fixieren Sie Ihre Aufmerksamkeit
+
+Informationen sind nicht belanglos oder einfach harmlos. 
+
+Sie verbrauchen unsere Aufmerksamkeit, unsere kostbare und wertvolle Aufmerksamkeit. 
+
+Wir werden wohlhabend, wenn wir lernen, unsere Aufmerksamkeit auf unsere Ziele, auf dienstleistungsorientierte Aktivitäten und auf nützliche Informationen zu richten. 
+
+Unsere Aufmerksamkeit wird die Quelle unseres Reichtums sein. 
+
+Wenn wir also zulassen, dass die vergifteten, zufälligen Gewässer von allem, was sich als „Neuigkeiten“ oder „neue, angesagte Unterhaltung“ ausgibt, in uns eindringen, bleibt uns nichts mehr, womit wir arbeiten können.
+
+[Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
+
+## Zwei Anwälte in deinem Kopf
+
+Stellen Sie sich zwei Anwälte in einem Gerichtssaal in Ihrem Kopf vor. 
+
+Einer argumentiert für Ihre Möglichkeiten und dafür, dass Sie Ihre Ziele erreichen. 
+
+Der andere argumentiert für Ihre Grenzen und dafür, warum Sie nicht verdienen, was Sie wollen. 
+
+Wer wird gewinnen? Der Anwalt, den Sie am meisten bezahlen. 
+
+Sie bezahlen diese Anwälte jedoch nicht mit Geld, sondern mit Ihrer Aufmerksamkeit.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
+## Das Geheimnis des Genies ist Konzentration
+
+Das Geheimnis des Genies ist Konzentration. 
+
+Wenn Sie Ihre Aufmerksamkeit auf ein Thema oder Projekt richten können, wird es Ihnen dessen Bauplan offenbaren. 
+
+George Washington Carver entdeckte 325 Verwendungsmöglichkeiten für die Erdnuss und 100 für die Süßkartoffel! 
+
+Große Genies sind starke Fokussierer. 
+
+Viele wurden als exzentrisch oder verrückt bezeichnet, weil sie weltliche Sorgen zugunsten ihrer Musik, Kunst, Architektur, ihres Theaters, ihrer Erfindungen oder ihrer Schriftstellerei zurückstellten. 
+
+Aber sie sind die Individuen, die die Welt verändern, während diejenigen mit zerstreuter Aufmerksamkeit durch mittelmäßige Leben waten. 
+
+Genies verschwenden ihren kostbaren Verstand nicht mit Massentrends. 
+
+Sie schaffen die Trends, die die Massen verändern.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Bücher
 
 - [Indistractable](https://www.goodreads.com/book/show/44595007-indistractable)

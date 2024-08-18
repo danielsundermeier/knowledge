@@ -152,6 +152,26 @@ Ziele – was Ihre Träume und Ambitionen sind.
 
 [The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
 
+## Die gewünschte Zustimmung erhalten
+
+Lassen Sie uns gleich eine Tatsache klarstellen: 
+
+Sie werden nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, immer und immer die Anerkennung von allen bekommen. 
+
+Weder Jesus noch Gandhi oder Prinzessin Diana haben das geschafft. 
+
+Selbst sehr gute Menschen konnten es nicht schaffen, von allen gemocht zu werden. 
+
+Das hat noch niemand geschafft und Sie werden nicht der Erste sein. 
+
+Sie werden nicht erreichen, dass alle eine Sache mögen, die Sie tun, und Sie werden auch nicht erreichen, dass irgendjemand alles mag, was Sie tun. 
+
+Geben Sie also Ihr Streben nach allgemeiner Bewunderung sofort auf; es ist endlos, unendlich frustrierend und es ist ätzend. 
+
+Wenn Sie jemals die Anerkennung bekommen wollen, die Sie suchen, dann muss sie von Ihnen selbst kommen.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Bücher
 
 - [Six Pillars of Self-Esteem](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem)

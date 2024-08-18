@@ -457,6 +457,22 @@ Mein einziger Wunsch für dieses Buch ist, Ihnen in Demut dabei zu helfen, Ihre 
 
 [Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
 
+## Die großen Wahrheiten des Lebens sind einfach
+
+Die großen Wahrheiten des Lebens sind einfach. 
+
+Es ist erstaunlich, wie viele persönliche und soziale Probleme gelöst werden könnten, wenn jeder beschließen würde, andere Menschen so zu behandeln, wie er selbst behandelt werden möchte. 
+
+Hören Sie den Menschen so zu, wie Sie selbst gerne gehört werden möchten. 
+
+Verkaufen Sie Ihre Produkte und Dienstleistungen so, wie Sie möchten, dass andere Ihnen ihre Produkte und Dienstleistungen verkaufen. 
+
+Seien Sie höflich und respektvoll gegenüber anderen Menschen, so wie Sie möchten, dass sie höflich und respektvoll Ihnen gegenüber sind. 
+
+Seien Sie geduldig und verständnisvoll mit Menschen, wenn sie Fehler machen, so wie Sie möchten, dass sie geduldig und verständnisvoll mit Ihnen sind, wenn Sie Fehler machen.
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
 ## Links
 
 - [Wie kann ich mein persönliches Wachstum effizient beschleunigen?](https://de.quora.com/Wie-kann-ich-mein-pers%C3%B6nliches-Wachstum-effizient-beschleunigen)

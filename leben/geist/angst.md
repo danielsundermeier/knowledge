@@ -491,6 +491,70 @@ Ihre Angst liegt hinter Ihnen.
 
 [Unleash the Warrior Within](https://www.goodreads.com/book/show/171531.Unleash_the_Warrior_Within)
 
+## Es ist Zeit, der Angst ihr Lieblingsessen zu nehmen
+
+Ich selbst bewältige dieses Dilemma, indem ich die Zeit aus der Gleichung herauslasse – denn Zeit ist es, die die Angst antreibt. 
+
+Je mehr Zeit Sie dem Objekt Ihrer Befürchtungen widmen, desto stärker wird es. 
+
+Also entziehen Sie der Angst ihre Lieblingsspeise, indem Sie die Zeit von ihrem Speiseplan streichen. 
+
+Nehmen wir zum Beispiel an, John muss einen Kunden anrufen, eine Aufgabe, die bei ihm sofort Angstgefühle auslöst. 
+
+Anstatt also sofort zum Telefon zu greifen und anzurufen, holt er sich eine Tasse Kaffee und überlegt, was er tun wird. 
+
+Seine langwierigen Überlegungen lassen seine Angst nur wachsen, da er sich vorstellt, wie das Gespräch alles schiefgehen könnte und was für schreckliche Dinge passieren könnten. 
+
+Wenn er damit konfrontiert wird, wird er wahrscheinlich behaupten, dass er sich „vorbereiten“ muss, bevor er den Anruf tätigt. 
+
+Aber Vorbereitung ist nur eine Ausrede für diejenigen, die nicht richtig trainiert haben – und die sie als Grund verwenden, um ihre Zurückhaltung in letzter Minute zu rechtfertigen. 
+
+John muss tief durchatmen, zum Telefon greifen und einfach anrufen. 
+
+Vorbereitungen in letzter Minute sind nur eine weitere Möglichkeit, die Angst zu schüren, die mit der Zeit nur noch stärker wird. 
+
+Ohne Handeln geschieht nichts.
+
+Angst sagt Ihnen nicht nur, was Sie tun sollen, sondern auch, wann Sie es tun sollen. 
+
+Fragen Sie sich zu jedem beliebigen Zeitpunkt des Tages, wie spät es ist, und die Antwort ist immer dieselbe: jetzt. 
+
+Die Zeit ist immer jetzt – und wenn Sie Angst verspüren, ist das ein Zeichen dafür, dass der beste Zeitpunkt zum Handeln genau in diesem Moment ist. 
+
+Die meisten Menschen werden ihre Ziele nicht verfolgen, wenn zwischen der Entstehung ihrer Idee und der tatsächlichen Umsetzung genügend Zeit vergangen ist. 
+
+Wenn Sie jedoch Zeit aus Ihrem Prozess entfernen, sind Sie bereit loszulegen. 
+
+Es gibt einfach keine andere Wahl, als zu handeln. 
+
+Sie müssen sich nicht vorbereiten. Wenn Sie schon so weit gekommen sind, ist es dafür zu spät.
+
+Anstatt die Angst – wie die meisten anderen Menschen – als Zeichen zum Weglaufen zu sehen, muss sie zu einem Indikator werden, loszugehen.
+
+[The 10X Rule](https://www.goodreads.com/book/show/10339170-the-10x-rule)
+
+## Das Licht einschalten
+
+Um ein Meister zu sein, benimm dich wie einer. 
+
+Angenommen, Größe ist nicht vorgetäuscht; Unwürdigkeit ist der Betrüger. 
+
+Sie haben sich vielleicht lange klein gemacht und sind der Halluzination „Ich kann nicht“ zum Opfer gefallen. 
+
+Aber hinter jedem „kann nicht“ verbirgt sich ein „will nicht“. 
+
+Wenn Sie den Kreidekreis erreichen, den andere um Sie gezogen haben, gehen Sie weiter. 
+
+Sobald Sie einem Monster in die Augen sehen und fordern: „Zeig mir, was du wirklich bist“, verwandelt sich das Biest in einen Verbündeten. 
+
+Emerson verkündete: „Tu das, was du fürchtest, und der Tod der Angst ist gewiss.“ 
+
+Wenn Dunkelheit und Licht in denselben Raum gebracht werden, gewinnt immer das Licht. 
+
+Und weil Ihre Natur Licht ist, werden Sie über jede Grenze triumphieren, die Sie gelernt haben.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Bücher
 
 - [Originals](https://www.goodreads.com/book/show/25614523-originals)

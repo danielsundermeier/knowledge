@@ -366,6 +366,18 @@ Mit den Worten Buddhas: „Zuerst die Absicht; dann die Erleuchtung.“
 
 [The Way of the Fight](https://www.goodreads.com/book/show/17607323-the-way-of-the-fight)
 
+## Nullbasiertes Denken
+
+Um Ihr Leben zu vereinfachen, ist Zero-Based Thinking eine der wirksamsten Strategien, die Sie lernen und regelmäßig anwenden können. 
+
+Und so funktioniert es: 
+
+Fragen Sie sich: „Gibt es irgendetwas, das ich gerade tue und das ich angesichts meines Wissens heute nicht noch einmal tun würde, wenn ich noch einmal von vorne anfangen würde?“
+
+Wenn Ihre Antwort „Ja“ lautet, dann lautet Ihre nächste Frage: „Wie komme ich aus dieser Situation heraus und wie schnell?“
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
 ## Bücher
 
 - [Decisive: How to Make Better Choices in Life and Work](https://www.goodreads.com/book/show/15798078-decisive)

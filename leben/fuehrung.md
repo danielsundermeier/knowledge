@@ -307,6 +307,44 @@ Bei der Schaffung einer kohärenten Lernumgebung lohnt es sich, sowohl nicht hil
 
 [Legacy](https://www.goodreads.com/book/show/18890191-legacy)
 
+## Die fünf wesentlichen Praktiken einer erfolgreichen Führungskraft
+
+Dies sind im Wesentlichen fünf solcher Praktiken – fünf solcher Denkgewohnheiten, die man sich aneignen muss, um ein effektiver Manager zu sein:
+
+1. Effektive Manager wissen, wofür sie ihre Zeit verwenden. Sie arbeiten systematisch daran, die wenige Zeit, die sie unter Kontrolle bringen können, zu verwalten.
+2. Effektive Manager konzentrieren sich auf äußere Beiträge. Sie richten ihre Bemühungen auf Ergebnisse und nicht auf Arbeit aus. Sie beginnen mit der Frage: „Welche Ergebnisse werden von mir erwartet?“ und nicht mit der zu erledigenden Arbeit, geschweige denn mit den dafür erforderlichen Techniken und Werkzeugen.
+3. Effektive Manager bauen auf ihren Stärken auf – ihren eigenen Stärken, den Stärken ihrer Vorgesetzten, Kollegen und Untergebenen; und auf den Stärken der Situation, das heißt auf dem, was sie tun können. Sie bauen nicht auf Schwächen auf. Sie beginnen nicht mit Dingen, die sie nicht tun können.
+4. Effektive Manager konzentrieren sich auf die wenigen Hauptbereiche, in denen eine überlegene Leistung herausragende Ergebnisse hervorbringt. Sie zwingen sich, Prioritäten zu setzen und bei ihren Prioritätsentscheidungen zu bleiben. Sie wissen, dass sie keine andere Wahl haben, als das Wichtigste zuerst zu tun – und das Zweitwichtigste überhaupt nicht. Die Alternative ist, gar nichts zu erledigen.
+5. Erfolgreiche Führungskräfte treffen schließlich auch effektive Entscheidungen. Sie wissen, dass es dabei vor allem um System geht – um die richtigen Schritte in der richtigen Reihenfolge. Sie wissen, dass eine effektive Entscheidung immer auf „abweichenden Meinungen“ und nicht auf „Konsens über die Fakten“ beruht. Und sie wissen, dass viele Entscheidungen in kurzer Zeit zu treffen bedeutet, die falschen Entscheidungen zu treffen. Was nötig ist, sind wenige, aber grundlegende Entscheidungen. Was nötig ist, ist die richtige Strategie und keine Blend-Taktik.
+
+Dies sind die Elemente effektiver Führungskräfte – und dies sind die Themen dieses Buches.
+
+[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+
+## Randbedingungen
+
+Am Morgen nach dem Stromausfall gelang es einer New Yorker Zeitung, zu erscheinen: der New York Times. 
+
+Sie hatte ihre Druckerei direkt über den Hudson nach Newark, New Jersey, verlegt, wo die Kraftwerke in Betrieb waren und eine Lokalzeitung, die Newark Evening News, eine große Druckerei hatte. 
+
+Doch statt der Millionen Exemplare, die das Management der Times bestellt hatte, erreichte weniger als die Hälfte davon die Leser. 
+
+Gerade als die Times in Druck ging (so zumindest eine weit verbreitete Anekdote), begannen der Chefredakteur und drei seiner Assistenten darüber zu streiten, wie man ein Wort mit Bindestrich trennt. 
+
+Dafür brauchten sie 48 Minuten (so heißt es) – oder die Hälfte der verfügbaren Druckzeit. 
+
+Die Times, argumentierte der Redakteur, setze einen Standard für geschriebenes Englisch in den Vereinigten Staaten und könne sich daher keinen Grammatikfehler leisten.
+
+Angenommen, die Geschichte ist wahr – und ich bürge nicht dafür –, fragt man sich, was das Management von der Entscheidung hielt. 
+
+Aber es besteht kein Zweifel, dass es angesichts der grundlegenden Annahmen und Ziele des Chefredakteurs die richtige Entscheidung war. 
+
+Seine Randbedingungen waren ganz klar nicht die Anzahl der an einem Morgen verkauften Exemplare, sondern die Unfehlbarkeit der Times als Grammatiker und Magistrar Amerikas.
+
+Der erfolgreiche Manager weiß, dass eine Entscheidung, die die Randbedingungen nicht erfüllt, ineffektiv und unangemessen ist.
+
+[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+
 ## Bücher
 
 - [Lead Yourself First](https://www.goodreads.com/book/show/31451193-lead-yourself-first)

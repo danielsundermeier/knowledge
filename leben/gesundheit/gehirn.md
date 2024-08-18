@@ -86,3 +86,32 @@ Sobald sie Teil eines Satzes sozialer Regeln und Normen wird, hört sie auf, in 
 Und wie Dostojewski und viele andere bemerkten: Wäre Christus im Mittelalter zurückgekehrt, um seine Botschaft der Befreiung zu predigen, wäre er immer wieder von den Führern eben jener Kirche gekreuzigt worden, deren weltliche Macht auf seinem Namen beruhte.
 
 [Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Ihr Gehirn und Energie
+
+Aber es gibt noch andere, weniger häufig diskutierte Dinge, die ich gerne als Gehirn-Kryptonit bezeichne. Das sind nicht einfach nur Chemikalien. 
+
+Gehirn-Kryptonit umfasst alles, was benötigte Energie vom Gehirn weg und in einen anderen Teil des Körpers zieht. 
+
+Bestimmte Nahrungsmittel, Produkte in unserer Umgebung, Lichtarten und sogar Arten von Bewegung können Ihr Gehirn schwächen. 
+
+Dieses Gehirn-Kryptonit tötet Sie nicht – zumindest nicht am Anfang – es frisst nur langsam und heimlich Ihre Batterielebensdauer auf.
+
+Ihr Gehirn braucht viel Energie, um gut zu funktionieren – tatsächlich verbraucht das Gehirn bis zu 20 Prozent der gesamten Energie Ihres Körpers. 
+
+Das ist mehr als jedes andere Organ im gesamten Körper! Woher also bekommt es diese Energie? 
+
+Ihr Körper produziert sie. 
+
+In fast jeder Zelle Ihres Körpers befinden sich mindestens mehrere hundert winzige Nachkommen von Bakterien, die Mitochondrien genannt werden. 
+
+Die Energie, die uns am Leben erhält, wird in diesen Mitochondrien erzeugt, und Sie wären erstaunt, wie wichtig sie für Ihre Lebensqualität sind. 
+
+Wenn Ihre Mitochondrien in allen Ihren Zellen auch nur für ein paar Sekunden aufhören würden, Energie zu produzieren, würden Sie sterben. 
+
+Die Anzahl, Effizienz und Stärke Ihrer Mitochondrien bestimmt, ob Sie irgendwann Krebs oder eine degenerative Erkrankung entwickeln oder nicht, und auch, wie viel Gehirnleistung Sie gerade haben. 
+
+Wer hätte gedacht, dass diese winzigen Organellen (Organe in jeder Zelle) der Schlüssel zu Ihrer Gehirnleistung sind?
+
+[Head Strong](https://www.goodreads.com/book/show/30653985-head-strong)
+

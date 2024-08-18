@@ -384,6 +384,38 @@ Konzentrieren Sie Ihre ganze Energie und Intensität ohne Ablenkung auf den erfo
 
 [The Psychology of Winning](https://www.goodreads.com/book/show/7543.The_Psychology_of_Winning)
 
+## Rocken Sie den Zeigarnik-Effekt?
+
+Wenn Sie sich die Mühe machen, eine priorisierte Liste der Aufgaben des nächsten Tages zu erstellen, öffnen Sie im Grunde eine Schleife in Ihrem Kopf. 
+
+Während Sie schlafen, bereitet sich Ihr Gehirn automatisch darauf vor, diese Schleifen erfolgreich zu schließen. 
+
+Dies ist als „Zeigarnik-Effekt“ bekannt. 
+
+In den 1920er Jahren quantifizierte die russische Psychologieforscherin Bluma Zeigarnik das Phänomen, nachdem ihr Professor Kurt Lewin bemerkt hatte, dass Kellner, die für eine Bestellung nicht bezahlt worden waren, sich viel besser an die Einzelheiten dieser Bestellungen erinnern konnten als an Bestellungen, die bezahlt worden waren. 
+
+Auf der Grundlage von Zeigarniks Forschung entwickelte Lewin das Konzept der „aufgabenspezifischen Spannung“, die sowohl im Bewusstsein als auch im Unterbewusstsein bestehen bleibt, bis die Aufgabe erledigt ist.
+
+Mit anderen Worten: Das Gehirn mag keine unerledigten Aufgaben! Hochrangige Mathematiker und erfolgreiche Schriftsteller verwenden diese Technik seit Jahren als Werkzeug, um ihre Arbeit voranzutreiben. 
+
+Vor dem Schlafengehen nehmen sie sich ein paar Minuten Zeit, um die mathematischen oder literarischen Arbeiten des Tages noch einmal durchzulesen – vor allem, wenn sie ein Plateau erreicht haben oder das Gefühl haben, nicht weiterzukommen. 
+
+Das Gehirn arbeitet dann die ganze Nacht daran, den Kreis zu schließen, und sie wachen morgens mit „Inspiration“ auf. 
+
+Es scheint magisch, aber es ist nicht so sehr magisch, sondern vielmehr das Ergebnis der effektiven Anregung der mentalen Pumpe.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
+## Zielstrebig, eine Berührung
+
+Wenn Sie Ihre Arbeit durchdacht und sich für die wertvollste Aufgabe entschieden haben, müssen Sie die Disziplin aufbringen, sofort damit anzufangen und dabei zu bleiben, bis Sie sie erledigt haben. 
+
+Wenn Sie sich zielstrebig und ohne Ablenkung auf eine einzige Aufgabe konzentrieren, werden Sie sie viel schneller erledigen, als wenn Sie anfangen und aufhören und dann zur Aufgabe zurückkehren und sie wieder aufnehmen. 
+
+Sie können die Zeit, die Sie für eine wichtige Aufgabe aufwenden, um bis zu 80 Prozent reduzieren, indem Sie einfach nichts anderes tun, bis diese Aufgabe erledigt ist.
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
 ## Zitate
 
 > First, master fundamentals. Then, play infinite games. - James Stuber

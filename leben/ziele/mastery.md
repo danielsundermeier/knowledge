@@ -564,6 +564,20 @@ Die gute Nachricht ist, dass diese Denkweise und alle ihre Vorteile jedem zur Ve
 
 [The Passion Paradox](https://www.goodreads.com/book/show/37901642-the-passion-paradox)
 
+## Wiederholung
+
+Wiederholung, Wiederholung, Wiederholung, Wiederholung.
+
+Meisterschaft kommt nur durch Anstrengung und Wiederholung. 
+
+Sie würden nicht erwarten, dass Ihr fünfjähriges Kind seine Schuhe beim ersten Mal binden kann. 
+
+Um es mit den Worten des Zen-Meisters Suzuki auszudrücken: Wenn Sie den Geist der Wiederholung verlieren, wird Ihre Übung schwierig. 
+
+Dies war einer der absoluten Eckpfeiler der Lehren von Coach Wooden.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
 ## Bücher
 
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)

@@ -834,6 +834,296 @@ Und dann schreiben Sie sich ein neues Ziel, sobald es erreicht ist.
 
 [The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
 
+## Schreiben Sie täglich und strecken Sie sich!
+
+Die meisten Menschen sind so gleichgültig gegenüber ihren Zielen, dass sie sie nur einmal im Jahr aufschreiben. 
+
+Meiner Ansicht nach wird nichts, was sich zu tun lohnt, nur einmal oder zweimal im Jahr getan. 
+
+Die Dinge, von denen Ihr Leben am meisten abhängt, basieren auf den Handlungen, die Sie täglich ausführen. 
+
+Deshalb achte ich darauf, immer zwei Dinge zu tun: 
+
+(1) Ich schreibe meine Ziele jeden Tag auf und 
+(2) ich wähle Ziele, die gerade außer Reichweite sind. 
+
+Dadurch kann ich mein volles Potenzial entfalten, das ich als Antrieb für mein tägliches Handeln nutze. 
+
+Manche Leute meinen, das Setzen unwahrscheinlicher Ziele könne dazu führen, dass man enttäuscht wird und das Interesse verliert. 
+
+Aber wenn Ihre Ziele so klein sind, dass Sie nicht einmal täglich darüber nachdenken müssen, dann werden Sie das Interesse verlieren!
+
+Fragen Sie sich, ob die von Ihnen gesetzten Ziele Ihrem Potenzial entsprechen.
+
+[The 10X Rule](https://www.goodreads.com/book/show/10339170-the-10x-rule)
+
+## Kenne deine Zeit
+
+Effektive Führungskräfte beginnen meiner Beobachtung nach nicht mit ihren Aufgaben. 
+
+Sie beginnen mit ihrer Zeit. Und sie beginnen nicht mit der Planung. 
+
+Sie beginnen damit, herauszufinden, wofür sie ihre Zeit tatsächlich verwenden. 
+
+Dann versuchen sie, ihre Zeit zu verwalten und unproduktive Zeitanforderungen zu reduzieren. 
+
+Schließlich konsolidieren sie ihre „frei verfügbare“ Zeit in möglichst große fortlaufende Einheiten. 
+
+Dieser dreistufige Prozess:
+
+- Zeit erfassen,
+- Zeit verwalten,
+- Zeit konsolidieren
+
+ist die Grundlage für die Effektivität von Führungskräften.
+
+Effektive Führungskräfte wissen, dass die Zeit der limitierende Faktor ist. 
+
+Die Output-Grenzen jedes Prozesses werden durch die knappste Ressource gesetzt. 
+
+In dem Prozess, den wir „Leistung“ nennen, ist dies die Zeit.
+
+[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+
+## Vision und Planung für einen durchschlagenden Erfolg
+
+Sie können es gleich jetzt selbst ausprobieren, wenn Sie möchten. 
+
+Wählen Sie ein Projekt, das neu oder festgefahren ist oder das einfach verbessert werden könnte. 
+
+Denken Sie an Ihr Ziel. 
+
+Überlegen Sie, wie ein erfolgreiches Ergebnis aussehen würde: Wo wären Sie physisch, finanziell, in Bezug auf Ihren Ruf usw.? 
+
+Brainstormen Sie mögliche Schritte. 
+
+Ordnen Sie Ihre Ideen. 
+
+Entscheiden Sie sich für die nächsten Schritte. 
+
+Ist Ihnen klarer geworden, wohin Sie wollen und wie Sie dorthin gelangen?
+
+[Getting Things Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+
+## Stretch Goals + Smart Goals = Kluge Ziele
+
+Der Grund, warum wir sowohl ehrgeizige als auch SMART-Ziele brauchen, ist, dass Kühnheit an sich schon furchteinflößend sein kann. 
+
+Es ist oft nicht klar, wie man mit einem ehrgeizigen Ziel beginnt. 
+
+Damit ein ehrgeiziges Ziel mehr als nur ein Wunsch wird, brauchen wir eine disziplinierte Denkweise, die uns zeigt, wie wir ein weit entferntes Ziel in eine Reihe realistischer kurzfristiger Ziele umwandeln können. 
+
+Menschen, die wissen, wie man SMART-Ziele formuliert, sind oft an Kulturen gewöhnt, in denen große Ziele in überschaubare Teile zerlegt werden können, und wissen daher, was zu tun ist, wenn sie auf scheinbar übergroße Ambitionen stoßen. 
+
+Ehrgeizige Ziele, gepaart mit SMART-Denken, können helfen, das Unmögliche in Reichweite zu bringen.
+
+[Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
+## Proximale Ziele
+
+Eine Lösung besteht darin, To-do-Listen zu schreiben, die ehrgeizige Ziele und SMART-Ziele kombinieren. 
+
+Erstellen Sie eine Liste Ihrer größten Ambitionen. 
+
+Träumen Sie groß und ehrgeizig. 
+
+Beschreiben Sie die Ziele, die auf den ersten Blick unmöglich erscheinen, wie z. B. die Gründung eines Unternehmens oder das Laufen eines Marathons.
+
+Wählen Sie dann ein Ziel aus und beginnen Sie, es in kurzfristige, konkrete Schritte aufzuteilen. 
+
+Fragen Sie sich: Welche realistischen Fortschritte kann ich am nächsten Tag, in der nächsten Woche, im nächsten Monat machen? 
+
+Wie viele Meilen können Sie morgen und in den nächsten drei Wochen realistischerweise laufen? 
+
+Was sind die spezifischen, kurzfristigen Schritte auf dem Weg zu größerem Erfolg? 
+
+Welcher Zeitplan ist sinnvoll? 
+
+Werden Sie Ihr Geschäft in sechs Monaten oder einem Jahr eröffnen? 
+
+Wie werden Sie Ihren Fortschritt messen? 
+
+In der Psychologie werden diese kleineren Ambitionen als „proximale Ziele“ bezeichnet, und wiederholte Studien haben gezeigt, dass die Aufteilung einer großen Ambition in proximale Ziele die Wahrscheinlichkeit erhöht, dass das große Ziel erreicht wird.
+
+[Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
+## Verbinden Sie Ihr Warum und Ihr Wie
+
+Um eine wichtige Veränderung in Ihrer Situation herbeizuführen, ist es wichtig, Klarheit über Leidenschaft und Ziel zu schaffen – den Grund, warum Sie sich ändern möchten und wo Sie hin möchten. 
+
+Zu diesem Zweck beginne ich meine Mentoring-Unterstützung immer damit, einem Klienten drei Schlüsselfragen zu stellen:
+
+- Was möchten Sie?
+- Wie sehr möchten Sie es?
+- Wie sehr sind Sie bereit zu leiden?
+
+Die Antworten auf diese Fragen bilden die Grundlage für einen Verhaltensdrang zur Veränderung und Verbesserung. 
+
+Ein wichtiger Teil meiner Arbeit besteht darin, Klienten dabei zu helfen, ihren Grund – was sie erreichen möchten – mit ihrem Wie – dem Plan, es zu verwirklichen – zu verbinden.
+
+[Change Your Story, Change Your Life](https://www.goodreads.com/book/show/18406694-change-your-story-change-your-life)
+
+## Was kommt als nächstes?
+
+Nachdem wir herausgefunden hatten, was Harry am Erfolg hinderte, einigten wir uns auf ein Vier-Schritte-Programm, um seine selbst auferlegten Grenzen zu erweitern. 
+
+Zunächst schrieb Harry eine Geschichte seiner bisherigen Erfolge auf. 
+
+Als Harry die zahllosen Siege seiner jungen Karriere aufzählte, war es sehr klar, dass es keine Beweise für seine Zweifel und Ängste gab, dass er nicht gut genug war, um es mit seinem Gegner aufzunehmen. 
+
+Zweitens arbeiteten wir gemeinsam an dem, was ich ein „Bild der Perfektion“ nenne. 
+
+Dies ist eine Vision des Allerbesten, das passieren könnte, vorausgesetzt, alles läuft gut. 
+
+Harry sah sich selbst im Mittelpunkt des Bildes, wie er starkes und durchsetzungsstarkes Tennis spielte, ein großes Turnier gewann, den Pokal entgegennahm und mit seinem Trainer und seiner Familie feierte. 
+
+Diese Vision begeisterte Harry und entfachte seine Leidenschaft neu. 
+
+Als nächstes ermutigte ich Harry, einen „Glaubenspartner“ zu finden, ein Familienmitglied oder einen engen Freund, der einen ständig anspornt, immer weiter und höher zu streben. 
+
+Harry wählte seine Mutter, die ihn bei jedem Turnier begleitete und ihm als größter Cheerleader zur Seite stand, wenn Selbstzweifel und negative Selbstgespräche aufkamen.
+
+Schließlich bestand Harrys vierte Maßnahme darin, Leistungsdynamik aufzubauen, indem er immer fragte: „Was kommt als Nächstes?“ 
+
+Ich erzählte ihm und seiner Mutter von Adam Peaty, dem Meisterschwimmer. 
+
+Wenige Minuten, nachdem Adam seinen ersten Europameistertitel gewonnen hatte, wurde er am Beckenrand interviewt. 
+
+Auf die Frage, was er denke, antwortete Adam: „Was kommt als Nächstes?“ 
+
+Später in seiner Karriere, nachdem er olympisches Gold im 100-Meter-Brustschwimmen in 57,1 Sekunden gewonnen hatte, verkündete Adam sofort, dass als Nächstes Projekt 56 anstehe – sein Ziel, der erste Schwimmer überhaupt zu sein, der die 100 Meter Brust in 56 Sekunden schwimmt. 
+
+Adam erreichte dies zwei Jahre später und demonstrierte damit die Macht einer „Was kommt als Nächstes?“-Mentalität.
+
+[Change Your Story, Change Your Life](https://www.goodreads.com/book/show/18406694-change-your-story-change-your-life)
+
+## Fortschritts-Hacks zur Überwindung des Fortschrittsparadoxons
+
+Um bei sinnvoller Arbeit engagiert zu bleiben – und der Versuchung von E-Mails zu widerstehen –, müssen Sie Ihren Fortschritt sichtbar machen. 
+
+Hier ein paar Tipps und Tricks, die Sie ausprobieren können: Hängen Sie einen Kalender an Ihren Schreibtisch, um Ihre tägliche kreative Leistung zu protokollieren, z. B. die Anzahl der Wörter, die Sie geschrieben haben, die Anzahl der behobenen Fehler oder die Anzahl der getätigten Verkaufsgespräche. 
+
+Teilen Sie große Projekte in wöchentliche Meilensteine auf, die Sie abhaken können, damit Sie ein kontinuierliches Erfolgserlebnis haben. 
+
+Nehmen Sie sich am Ende des Tages fünf Minuten Zeit, um Ihre „kleinen Erfolge“ in einem Tagebuch festzuhalten und die Schritte anzuerkennen, die Sie in Richtung Ihres Ziels gemacht haben. 
+
+Oder drucken Sie Ihre Entwürfe, Skizzen und Prototypen aus, sobald sie anfallen, und bewahren Sie sie in einem immer größer werdenden Stapel auf Ihrem Schreibtisch auf, um Ihren Fortschritt zu dokumentieren. 
+
+Der Schlüssel liegt darin, „Fortschritts-Hacks“ zu erfinden, damit Ihre sinnvolle Arbeit genauso süchtig macht wie E-Mails.
+
+[Unsubscribe](https://www.goodreads.com/book/show/29502387-unsubscribe)
+
+## Was versuchen Sie überhaupt zu erreichen?
+
+Sie hassen es vielleicht, Ihre ganze Zeit mit E-Mails zu verbringen, aber es ist sehr schwer, damit aufzuhören, wenn Sie keine klare Vorstellung davon haben, was Sie lieber tun würden. 
+
+Sie können auch nicht entscheiden, welche E-Mails wichtig sind und welche nicht, wenn Sie nicht wissen, was Sie erreichen wollen.
+
+Deshalb halten wir einen Moment inne und richten unsere Aufmerksamkeit weg von den E-Mails auf diese mysteriöse Menge, die ich immer als „sinnvolle Arbeit“ bezeichne. 
+
+Dies ist die Art von Arbeit, die zu Ihrem Vermächtnis beiträgt, Ihnen hilft, Ihre Karriere voranzutreiben oder Ihre Fähigkeiten zu erweitern. 
+
+Wenn Sie eine solche Arbeit erledigen, haben Sie das befriedigende Gefühl, dass Sie Ihre Zeit gut investiert und eine Arbeit gut erledigt haben.
+
+- Auftragsbasierte Arbeit
+- Projektbasierte Arbeit
+- Kompetenzbasierte Arbeit
+
+[Unsubscribe](https://www.goodreads.com/book/show/29502387-unsubscribe)
+
+## Visualisierung + Idealisierung
+
+In dieser Hinsicht ist Klarheit ungeheuer wichtig. 
+
+Erfolgreiche Menschen haben enorme Klarheit darüber, wer sie sind, was sie wollen und wie sie es erreichen werden. 
+
+Erfolglose Menschen sind sich normalerweise unsicher und verwirrt darüber, wer sie sind, was sie wollen und wohin sie gehen. 
+
+Eine wirkungsvolle Übung, mit der Sie Ihr Denken ankurbeln und Ihre Ergebnisse beschleunigen können, heißt Idealisierung. 
+
+Bei der Idealisierung stellen Sie sich ständig das perfekte Ergebnis oder die perfekte Lösung für jede Situation in Ihrem Leben vor. 
+
+Sie projizieren drei bis fünf Jahre oder sogar noch weiter in die Zukunft und erstellen dann ein geistiges Bild von der Art von Leben und Karriere, die in jeder Hinsicht ideal für Sie wäre.
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
+## Schärfen Sie Ihren Fokus
+
+Hier sind einige zusätzliche Fragen, die Sie im Rahmen Ihrer persönlichen strategischen Planung regelmäßig stellen und beantworten sollten:
+
+- Wenn Sie einen Zauberstab schwingen und sich in jedem Bereich Ihres Lebens alles wünschen könnten, was Sie sich wünschen, was wäre das?
+- Wenn Sie Ihren perfekten Lebensstil gestalten könnten wie würde er aussehen?
+- Wie würden Sie Ihr Leben ändern, wenn Sie heute 1 Million Dollar in bar steuerfrei erhalten würden? Was würden Sie als Erstes tun?
+- Welche Bereiche Ihrer Arbeit machen Ihnen am meisten Spaß und sind Ihre besten? Worin liegen Ihre Stärken? Welche Aktivitäten machen Sie am glücklichsten?
+- Was würden Sie tun, wie würden Sie Ihre Zeit verbringen, wenn Sie heute erfahren würden, dass Sie nur noch sechs Monate zu leben haben?
+- Von welcher großen Sache würden Sie zu träumen wagen, wenn Sie wüssten, dass Sie nicht scheitern können? Wenn Ihnen der Erfolg bei der Erreichung eines Ziels, ob klein oder groß, kurzfristig oder langfristig, absolut garantiert wäre, was wäre das?
+
+[Focal Point](https://www.goodreads.com/book/show/89974.Focal_Point)
+
+##
+
+Die Konzentration unserer Gedanken ist der Ausgangspunkt für alles Schaffen in unserem ganzen Leben. 
+
+Bevor wir etwas in unserer physischen Welt erschaffen, muss es zuerst in unserer mentalen Welt konzipiert werden. 
+
+Manche Leute nennen es Zweck, manche nennen es Vision und manche nennen es Möglichkeit. 
+
+Der Begriff, den ich bevorzuge, ist „Visioneering“. 
+
+Ich habe den Begriff vom Autor Andy Stanley und ich liebe ihn, weil er die beiden wichtigsten Aspekte der Schaffung einer neuen Idee – eine „Vision“ und „Ingenieurskunst“ – angemessen beschreibt.
+
+Unabhängig davon, ob Sie es ein Ziel, einen Zweck oder eine Vision nennen, ist das Endergebnis, dass Sie eine haben müssen. 
+
+Die Entwicklung einer Vision ist keine akademische Übung, kein Element eines Geschäftsplans und keine metaphysische Begegnung mit dem Universum. 
+
+Eine Vision ist ein inspirierendes geistiges Bild, das Sie zum Handeln antreibt. 
+
+Ihre Vision ist wichtig, weil Ihr Durchhaltevermögen und die Intensität Ihrer Konzentration direkt proportional zur Klarheit Ihrer Vision sind.
+
+Eine großartige Vision ist wie ein starker Magnet, der Sie in eine Zukunft zieht, in der Sie ein besserer Mensch werden.
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Gesetz der abnehmenden Absicht
+
+Die Leute, die sich Neujahrsvorsätze vornehmen, diese aber nicht einhalten, sind einfach aus Unwissenheit Opfer des Gesetzes der abnehmenden Absicht. 
+
+Sie sind sich nicht darüber im Klaren, wie wankelmütig – und flüchtig – unsere eigenen Absichten sein können. 
+
+Das Verständnis dieses Phänomens erklärt, warum Neujahrsvorsätze selten funktionieren. 
+
+Wir können nicht einmal im Jahr einen Vorsatz fassen und erwarten, dass er uns für diesen gesamten Zeitraum zum Handeln veranlasst. 
+
+Stattdessen schrieb Albert Gray 1940: „Jeder Vorsatz, der heute gefasst wird, muss morgen wieder gefasst werden.“ 
+
+Und am nächsten Tag, und am nächsten Tag, und am nächsten Tag (erinnern Sie sich an das Rentenaxiom?).
+
+[Take the Stairs](https://www.goodreads.com/book/show/12084105-take-the-stairs)
+
+## Niemand ist jemals zufällig in etwas Wünschenswertes geraten
+
+Es wäre für ein Schiff unmöglich, ohne Kompass in einen bestimmten Hafen einzulaufen, ebenso wie es für einen Mann oder eine Frau unmöglich wäre, ohne Ziel auf dem Meer des Lebens voranzukommen. 
+
+Niemand treibt jemals in etwas Erstrebenswertes hinein. 
+
+Um das Ziel zu erreichen, muss man wissen, wo das Ziel liegt, und man muss direkt darauf zusteuern, vorbei an allen Felsen und Sandbänken.
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
+## Projekte: Der Sorgenlöser
+
+Denken Sie daran, dass einer der Leitsätze der Vermögensbildung darin besteht, sich keine Sorgen zu machen. 
+
+Und denken Sie auch daran, dass der beste Weg, sich keine Sorgen zu machen, darin besteht, ein Projekt zu haben, an dem Sie beteiligt sind. 
+
+Ohne ein Projekt versinken Sie in Sorgen. 
+
+Ihr Projekt wird zu einer Sorge. 
+
+Ihr Geist muss irgendwo hin, und wenn er sich nicht in ein kreatives Projekt verbeißen kann, wird er nach außen blicken und sich um andere Menschen und die Welt im Allgemeinen sorgen.
+
+[Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
+
 ## Bücher
 
 - [Goals!](https://www.goodreads.com/book/show/113935.Goals_)

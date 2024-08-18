@@ -156,6 +156,94 @@ Die Ergebnisse werden Ihnen Lust zum Lächeln machen.
 
 [The Champion's Comeback](https://www.goodreads.com/book/show/26114562-the-champion-s-comeback)
 
+## Kryptonitstaub
+
+Stellen Sie sich vor, Sie wären Superman (oder Superwoman). 
+
+Eines Tages pulverisiert Lex Luthor Kryptonit und verstreut ein wenig davon in Ihrem Haus. 
+
+Wenn Sie eine kleine Menge Kryptonitstaub essen (oder einatmen), werden Sie nicht daran sterben. 
+
+Sie werden trotzdem den Tag überstehen und Menschen retten können, Sie werden sich nur ein bisschen komisch fühlen. 
+
+Tatsächlich werden Sie sich an dieses Gefühl gewöhnen und glauben, es sei normal. 
+
+Aber wenn Sie jeden Tag ein wenig mehr Kryptonit zu sich nehmen, wird Ihre Fähigkeit, Menschen zu helfen, langsam und unsichtbar abnehmen, bis Ihr Körper den Punkt erreicht, an dem er seine gesamte Energie darauf verwendet, die Wirkung des Giftes zu überwinden.
+
+[Head Strong](https://www.goodreads.com/book/show/30653985-head-strong)
+
+## Eine Billiarde Mitochondrien
+
+Die durchschnittliche menschliche Zelle enthält zwischen eintausend und zweitausend Mitochondrien. 
+
+Die Zellen in den Teilen unseres Körpers, die am meisten Energie benötigen – Gehirn, Netzhaut und Herz – enthalten jeweils etwa zehntausend Mitochondrien. 
+
+Das bedeutet, dass Sie mehr als eine Billiarde Mitochondrien in Ihrem Körper haben. 
+
+Das ist mehr als die Anzahl der Bakterien, die in Ihrem Darm leben! Und tatsächlich existiert unser gesamtes Atmungssystem – unser Herz, unsere Lungen und unser Blut –, um unsere Mitochondrien mit Sauerstoff zu versorgen, damit sie die Energie (ATP) erzeugen können, die uns am Leben hält.
+
+Ihre Mitochondrien bestimmen, wie Ihr Körper auf die Welt um Sie herum reagiert. 
+
+Wenn Ihre Mitochondrien effizienter werden, verbessert sich Ihre geistige Leistungsfähigkeit. 
+
+Je besser Ihre Mitochondrien Energie erzeugen, desto leistungsfähiger sind Ihr Körper und Ihr Geist, desto mehr können Sie tun und desto besser werden Sie sich dabei fühlen.
+
+[Head Strong](https://www.goodreads.com/book/show/30653985-head-strong)
+
+## Mülllicht
+
+Das ist Junk-Light. Und wie ich bereits erwähnt habe, ist genau das Gleiche mit unserer Nahrung passiert – wir haben die teuren gesunden Fette eliminiert, indem wir den Mythos „Fett ist schlecht“ benutzten, und die Menge an billigem Zucker über das Maß hinaus erhöht, das unser Körper verarbeiten kann. 
+
+Sie können immer noch Junk-Food essen, aber Sie werden sich dadurch nicht gut fühlen. 
+
+Beim Licht haben wir einige biologisch notwendige Frequenzen eliminiert, um Strom zu sparen, und andere stressige Frequenzen um Größenordnungen erhöht. 
+
+Sie können bei Junk-Light immer noch sehen, aber Sie werden das Gefühl nicht mögen, das es Ihnen gibt.
+
+[Head Strong](https://www.goodreads.com/book/show/30653985-head-strong)
+
+## Energie ist eine moralische Tugend
+
+Energie ist die Arbeitskraft bei allen Errungenschaften. 
+
+Sie verwandelt träge Kohle in Feuer und Wasser in Dampf; sie belebt und intensiviert das gewöhnlichste Talent, bis es sich dem Genie nähert, und wenn sie den Geist des Dummkopfs berührt, verwandelt sie das, was vorher in Trägheit schlief, in ein lebendiges Feuer.
+
+Energie ist eine moralische Tugend; ihr entgegengesetztes Laster ist Faulheit. 
+
+Als Tugend kann sie kultiviert werden, und der faule Mensch kann energisch werden, indem er sich selbst gewaltsam zur Anstrengung aufrafft. 
+
+Verglichen mit dem energischen Menschen ist der faule Mensch nicht halb lebendig. 
+
+Selbst während der letztere über die Schwierigkeit spricht, etwas zu tun, tut der erstere es. 
+
+Der aktive Mensch hat eine beträchtliche Menge Arbeit erledigt, bevor der faule Mensch aus dem Schlaf erwacht ist. 
+
+Während der faule Mensch auf eine Gelegenheit wartet, ist der aktive Mensch hinausgegangen, hat ein halbes Dutzend Gelegenheiten gefunden und genutzt. 
+
+Er tut Dinge, während der andere sich die Augen reibt.
+
+[Eight Pillars of Prosperity](https://www.goodreads.com/book/show/536015.Eight_Pillars_of_Prosperity)
+
+## Positive Emotionen und Langlebigkeit
+
+Wenn wir die Beziehung zwischen positiven Emotionen, Glück (subjektives Wohlbefinden) und Langlebigkeit betrachten, zeigt die Forschung, dass glücklichere Menschen im Durchschnitt länger leben. 
+
+Als eines der berühmtesten Experimente der positiven Psychologie bleibt die folgende Studie legendär, da sie die potenziellen Auswirkungen positiver Emotionen auf die Langlebigkeit demonstriert. 
+
+Nonnen sind der Inbegriff eines gesunden Lebens, und da sie einen sehr kontrollierten Lebensstil haben, sind sie ideale Studienteilnehmerinnen. 
+
+Im Rahmen einer größeren Studie beschlossen Forscher der University of Kentucky, die Bewerbungsunterlagen neu ernannter Nonnen (durchschnittliches Alter bei Bewerbung 22 Jahre) nachträglich zu überprüfen und zu analysieren. 
+
+Im Jahr 85 waren 97 Prozent der Nonnen, deren Bewerbungen die positivsten Formulierungen und emotionalsten Inhalte enthielten, noch am Leben (gegenüber 52 Prozent der am wenigsten positiven). 
+
+Und ähnlich waren im Jahr 93 52 Prozent der fröhlichen Bewerberinnen noch am Leben, gegenüber 18 Prozent der am wenigsten fröhlichen. 
+
+Forscher vermuten also, dass Glücklichsein Ihr Leben tatsächlich um bis zu 10 Jahre verlängern kann. 
+
+Um die Erkenntnisse auf andere autobiografische Werke auszuweiten, analysierte Sarah Pressman die Autobiografien von 96 berühmten Psychologen und fand heraus, dass diejenigen, die mehr positive, emotionale Formulierungen verwendeten, im Durchschnitt sechs Jahre länger lebten als diejenigen, die mehr negative, emotionale Wörter verwendeten.
+
+[Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

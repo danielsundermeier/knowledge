@@ -282,6 +282,32 @@ Alles hat eine Lektion für sie. Es hängt alles vom Auge ab, das sehen kann, vo
 
 [He Can Who Thinks He Can](https://www.goodreads.com/book/show/19197406-he-can-who-thinks-he-can-other-papers-on-success-in-life)
 
+## Unflüssigkeit
+
+Die Menschen, die am erfolgreichsten lernen – diejenigen, die in der Lage sind, die sie umgebenden Daten zu verarbeiten, die Erkenntnisse aus ihren Erfahrungen aufzunehmen und die vorbeifließenden Informationen zu ihrem Vorteil zu nutzen – sind diejenigen, die wissen, wie sie Unflüssigkeit zu ihrem Vorteil nutzen können. 
+
+Sie verwandeln, was das Leben ihnen vorsetzt, anstatt es einfach so hinzunehmen, wie es kommt. 
+
+Sie wissen, dass die besten Lektionen diejenigen sind, die uns zwingen, etwas zu tun und die Informationen zu manipulieren. 
+
+Sie nehmen Daten und verwandeln sie in Experimente, wann immer sie können. 
+
+Ob wir nun den technischen Designprozess anwenden, eine Idee bei der Arbeit testen oder einfach ein Konzept mit einem Freund besprechen, indem wir Informationen unflüssiger machen, machen wir sie paradoxerweise leichter verständlich.
+
+In unserem eigenen Leben gilt dieselbe Lektion: Wenn wir auf neue Informationen stoßen und daraus lernen wollen, sollten wir uns zwingen, etwas mit den Daten zu tun. 
+
+Es reicht nicht, wenn Ihre Badezimmerwaage tägliche Updates an eine App auf Ihrem Telefon sendet. 
+
+Wenn Sie abnehmen wollen, zwingen Sie sich, diese Messungen auf Millimeterpapier einzutragen, und Sie werden beim Mittagessen eher einen Salat als einen Hamburger wählen. 
+
+Wenn Sie ein Buch voller neuer Ideen lesen, zwingen Sie sich, es wegzulegen und die Konzepte jemandem zu erklären, der neben Ihnen sitzt. 
+
+Dann ist es wahrscheinlicher, dass Sie sie in Ihrem Leben anwenden. 
+
+Wenn Sie eine neue Information finden, zwingen Sie sich, sich damit zu beschäftigen, sie in einem Experiment zu verwenden oder sie Ihrem Freund zu beschreiben – und dann beginnen Sie, die mentalen Ordner zu erstellen, die den Kern des Lernens bilden.
+
+[Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
+
 ## Bücher
 
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)

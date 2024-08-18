@@ -498,6 +498,48 @@ Wenn ich diese Idee einführe, sage ich normalerweise so etwas wie:
 
 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 
+## Das wahre Ich vs. die kritische innere Stimme
+
+Je nachdem, welcher Teil Ihrer Persönlichkeit zu einem bestimmten Zeitpunkt stärker ausgeprägt ist, Ihr wahres Ich oder die kritische innere Stimme, werden Sie einen völlig anderen Standpunkt vertreten und Ihr Verhalten und Ihre Interaktionen mit anderen werden anders sein. 
+
+Vielleicht haben Sie dieses interessante Phänomen bei den Menschen in Ihrer Nähe bemerkt; sie können ganz anders sein, wenn sie „sie selbst“ zu sein scheinen, als wenn sie nicht sie selbst zu sein scheinen. 
+
+Wenn sie sie selbst sind, sind sie normalerweise entspannt und viel sympathischer. 
+
+Wenn sie von ihrer inneren kritischen Stimme beeinflusst werden, sind sie normalerweise verklemmter und unsympathischer.
+
+[Conquer Your Critical Inner Voice](https://www.goodreads.com/book/show/48386.Conquer_Your_Critical_Inner_Voice)
+
+## Wählen Sie sich ein, um zu „Wissen“
+
+Stellen Sie sich einen Radiosender vor, den wir KNOW nennen und der rund um die Uhr fundierte Ratschläge aus Ihrem tiefsten Inneren sendet.
+
+Stellen Sie sich dann vor, Sie hätten einen Tuner, der das Signal empfangen kann. 
+
+Wenn Sie Ihren Tuner auf die richtige Frequenz einstellen, hören Sie die Sendung und erhalten wichtige Informationen. 
+
+Wenn Ihr Tuner anders eingestellt ist, verpassen Sie die Nachricht.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
+## Nähren Sie Ihren Geist
+
+Die wichtigste Grenze, die Sie setzen können, ist die Zeit, die Sie für die Nahrung Ihres Geistes aufwenden. 
+
+Die paar Minuten am Tag, die Sie sich nehmen, um Ihre Seele zu nähren, sind Ihre stärkste Investition in Ihr Glück. 
+
+Tun Sie alles, was nötig ist, um sich selbst zu inspirieren und in einem kreativen Bewusstsein zu bleiben. 
+
+Wählen Sie jeden Tag eine Zeit, um sich mit Ihrem inneren Wesen zu verbinden, und gehen Sie dabei keine Kompromisse ein. 
+
+Betrachten Sie es als nicht verhandelbar. 
+
+Menschen, die Sie wirklich lieben, werden Sie verstehen und Sie dabei unterstützen. 
+
+Jeder, der Sie für Ihre Selbstfürsorge tadelt oder stattdessen Ihre Aufmerksamkeit fordert, ist eindeutig nicht im Einklang mit Ihrem Schicksal und sollte freigelassen werden, damit er sein eigenes finden kann.
+
+[Why Your Life Sucks](https://www.goodreads.com/book/show/99227.Why_Your_Life_Sucks)
+
 ## Links
 
 [Identity-Based Habits](https://jamesclear.com/identity-based-habits)

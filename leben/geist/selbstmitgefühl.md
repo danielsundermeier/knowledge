@@ -101,6 +101,78 @@ Deshalb leiden die Menschen.
 
 [To Be Victorious in Life](https://www.goodreads.com/book/show/136634.To_Be_Victorious_in_Life_Self_Realization_Fellowship_)
 
+## Akzeptiere dich genau so wie du bist
+
+Wenn Leute mit einem Problem zu mir kommen, ist es mir egal, was es ist – schlechte Gesundheit, Geldmangel, unerfüllte Beziehungen oder unterdrückte Kreativität – es gibt nur eine Sache, an der ich arbeite, und das ist, SICH SELBST ZU LIEBEN.
+
+Ich finde, wenn wir uns wirklich lieben, akzeptieren und GENAU SO WIE WIR SIND ANNEHMEN, dann funktioniert alles im Leben. 
+
+Es ist, als ob überall kleine Wunder geschehen. 
+
+Unsere Gesundheit verbessert sich, wir ziehen mehr Geld an, unsere Beziehungen werden viel erfüllender und wir beginnen, uns auf kreative Weise auszudrücken. 
+
+All das scheint zu passieren, ohne dass wir es auch nur versuchen.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Spieglein, Spieglein an der Wand
+
+Ich bitte meine Klienten, einen kleinen Spiegel zu nehmen, sich in die Augen zu schauen, ihren Namen zu sagen und zu sagen: „Ich liebe und akzeptiere dich genau so, wie du bist.“
+
+Das ist für viele Menschen so schwierig. 
+
+Selten bekomme ich eine ruhige Reaktion, ganz zu schweigen von Freude an dieser Übung. 
+
+Manche weinen oder sind den Tränen nahe, manche werden wütend, manche verharmlosen ihre Eigenschaften oder Qualitäten, manche bestehen darauf, dass sie es NICHT KÖNNEN …
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Sich selbst als Kind sehen
+
+Wenn wir ein dreijähriges Kind in die Mitte des Zimmers setzen und wir beide anfangen würden, es anzuschreien, ihm zu sagen, wie dumm es ist, dass es nie etwas richtig machen kann, dass es dies tun und jenes lassen soll, und uns dann das Chaos ansehen würden, das es angerichtet hat, und es vielleicht ein paar Mal schlagen würden, hätten wir am Ende ein verängstigtes kleines Kind, das brav in der Ecke sitzt oder alles verwüstet. 
+
+Das Kind wird einen dieser beiden Wege gehen, aber wir werden nie das Potenzial dieses Kindes kennen.
+
+Wenn wir dasselbe kleine Kind nehmen und ihm sagen, wie sehr wir es lieben, wie sehr es uns am Herzen liegt, dass wir sein Aussehen lieben und dass wir lieben, wie klug und schlau es ist, dass wir lieben, wie es Dinge tut, und dass es in Ordnung ist, wenn es beim Lernen Fehler macht – und dass wir immer für es da sein werden, egal was passiert –, dann wird Sie das Potenzial, das in diesem Kind steckt, umhauen!
+
+Jeder von uns hat ein dreijähriges Kind in sich und wir verbringen die meiste Zeit damit, dieses Kind in uns anzuschreien. 
+
+Dann wundern wir uns, warum unser Leben nicht funktioniert.
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Laufen und Sprechen lernen
+
+Wenn ein kleines Kind laufen oder sprechen lernt, ermutigen wir es und loben es für jeden noch so kleinen Fortschritt. 
+
+Das Kind strahlt und versucht eifrig, es besser zu machen. 
+
+Ermutigen Sie sich selbst auf diese Weise, wenn Sie etwas Neues lernen? 
+
+Oder machen Sie es sich schwerer zu lernen, weil Sie sich sagen, dass Sie dumm oder ungeschickt oder ein „Versager“ sind?
+
+[You Can Heal Your Life](https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life)
+
+## Schuld erkennen
+
+Schuld kann als selbstkritische Gefühle und Einstellungen definiert werden, die wir in Bezug auf unsere Handlungen sowie in Bezug auf unsere Gedanken und Gefühle erfahren, die wir als inakzeptabel erachten. 
+
+Aber selbst in Situationen, in denen Sie wissen, dass Sie im Unrecht sind, hat es keinen Sinn, sich selbst für die negativen Auswirkungen Ihres Verhaltens anzugreifen. 
+
+Es ist viel konstruktiver, die kritischen inneren Stimmen zu identifizieren, die Ihre Schuldgefühle verstärken, Mitgefühl für sich selbst und die andere Person zu empfinden und Wege zu planen, Ihr Verhalten in zukünftigen Interaktionen zu ändern.
+
+[Conquer Your Critical Inner Voice](https://www.goodreads.com/book/show/48386.Conquer_Your_Critical_Inner_Voice)
+
+## Schritte zur Bekämpfung von Depressionen
+
+Um die Stimmen zu bekämpfen, die zu Depressionen beitragen, ist es hilfreich:
+
+1. Identifizieren und hinterfragen Sie die negativen Gedanken und Überzeugungen, die Sie zu Beginn des selbstzerstörerischen Kreislaufs erleben.
+2. Sprechen Sie mit einem engen Freund, der eher optimistisch ist. Wenn Sie mit jemandem sprechen, der auch niedergeschlagen oder dem Leben gegenüber zynisch eingestellt ist, kann das dazu führen, dass Sie sich noch schlechter fühlen.
+3. Zwingen Sie sich, Aktivitäten nachzugehen, die Ihnen in der Vergangenheit Freude bereitet haben. Auch wenn sie Ihnen im Moment nicht gefallen, werden sie Ihnen helfen, Apathie, Gleichgültigkeit und Energiemangel zu überwinden, die die Hauptsymptome einer Depression sind.
+
+[Conquer Your Critical Inner Voice](https://www.goodreads.com/book/show/48386.Conquer_Your_Critical_Inner_Voice)
+
 ## Bücher
 
 - [Self-Compassion](https://www.goodreads.com/book/show/10127008-self-compassion)

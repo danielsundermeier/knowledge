@@ -176,6 +176,52 @@ Dies beginnt mit einer Reihe von Fragen.
 
 [The School of Greatness](https://www.goodreads.com/book/show/23848518-the-school-of-greatness)
 
+## 2 Hauptziele
+
+Die Methoden, die ich hier vorstelle, basieren alle auf zwei Hauptzielen: 
+
+(1) Erfassen aller Dinge, die erledigt werden müssen – jetzt, später, irgendwann, ob groß, klein oder dazwischen – in einem logischen und vertrauenswürdigen System außerhalb Ihres Kopfes und außerhalb Ihres Verstandes; und 
+(2) Selbstdisziplin, um im Vorfeld Entscheidungen über alle „Eingaben“ zu treffen, die Sie in Ihr Leben lassen, damit Sie immer einen Plan für „nächste Aktionen“ haben, den Sie jederzeit umsetzen oder neu verhandeln können.
+
+Die meisten Menschen laufen mit einem Arbeitsspeicher herum, der aus allen Nähten platzt. 
+
+Sie sind ständig abgelenkt, ihre Konzentration wird durch ihre eigene innere mentale Überlastung gestört.
+
+Was ist die nächste Aktion? 
+
+Dies ist die entscheidende Frage für alles, was Sie gesammelt haben. 
+
+Wenn Sie sie richtig beantworten, haben Sie die wichtigsten inhaltlichen Dinge, die Sie organisieren müssen. 
+
+Die „nächste Aktion“ ist die nächste physische, sichtbare Aktivität, die ausgeführt werden muss, um die aktuelle Realität zu einem Abschluss zu bringen.
+
+[Getting Things Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+
+## Die Woche vor Ihrem Urlaub
+
+Die meisten Menschen fühlen sich in der Woche vor ihrem Urlaub am wohlsten, was ihre Arbeit angeht, aber das liegt nicht am Urlaub selbst. 
+
+Was machen Sie in der letzten Woche vor Ihrer Abreise auf eine große Reise? 
+
+Sie räumen auf, schließen ab, klären und verhandeln alle Ihre Vereinbarungen mit sich selbst und anderen neu. 
+
+Ich schlage nur vor, dass Sie das wöchentlich statt jährlich tun.
+
+[Getting Things Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+
+## Die 2 wichtigsten Fragen für morgen
+
+Um auf den richtigen Weg zu kommen, stellen Sie sich diese beiden entscheidenden Fragen: 
+
+(1) Was sind die drei wichtigsten Dinge, die ich morgen erledigen muss? und 
+(2) Was ist die wichtigste Aufgabe, die ich erledigen muss? 
+
+Die Fragen arbeiten innerhalb der „Kanalkapazität“ Ihres Gehirns und geben Ihnen in überschaubaren Dosen Richtung und Prioritäten vor. 
+
+Wenn Sie Ihren Tag beginnen, kennen Sie die drei wichtigsten Dinge, die Sie bis zum Ende des Tages erledigen müssen, und Sie wissen, welches dieser drei Dinge die große, im Dunkeln leuchtende Priorität ist. Sie werden erstaunt sein, wie viel klarer Ihre Entscheidungsfindung wird – und wie viel effizienter Sie Ihre Zeit nutzen – nur durch diesen einfachen organisatorischen Schritt.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
 ## Links
 
 - [Here’s What the Simple Life Looks Like](https://cityfrugal.com/heres-what-the-simple-life-looks-like/)

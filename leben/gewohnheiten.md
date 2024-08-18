@@ -765,6 +765,73 @@ Sie können sich das durch Ihre eigene Erfahrung beweisen.
 
 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 
+## Bekommst du es hin?
+
+Was bedeutet „es schaffen“?
+
+Wenn Sie eine positive Veränderung wirklich gemeistert haben, nennen wir das „es schaffen“. 
+
+Das ist bei vielen unserer Studenten zu einem beliebten Kurzformulierungssatz geworden. 
+
+Damit Sie die Verbesserung und die dafür erforderlichen Änderungen vollständig integriert haben, bedeutet das, dass Sie in drei aufeinanderfolgenden Monaten in der Lage waren, die Änderung täglich in 90 Prozent der Fälle oder besser abzuschließen.
+
+Für welche Verbesserung Sie sich auch entscheiden – ob es nun darum geht, die Zukunft heute zu organisieren oder sich zum Mental Workout zu verpflichten – Sie müssen in der Lage sein, es drei Monate lang an neun von zehn Tagen zu tun – ohne Ausreden. 
+
+Wenn Sie es nicht schaffen, bedeutet das, dass Sie Ihre Disziplin erhöhen oder sich zu einem geringeren Intensitätsniveau verpflichten müssen. 
+
+Beginnen Sie, indem Sie sich selbst beweisen, dass Sie es schaffen können, auch wenn es sich um ein kleineres Engagement handelt. 
+
+Sie können später immer noch steigern. 
+
+Ein wesentliches Element der Leistung besteht darin, dass Menschen lernen, sich selbst zu vertrauen. 
+
+Wenn Sie in 90 Prozent der Fälle beweisen, dass Sie es schaffen können, können Sie nicht anders, als Ihr Selbstvertrauen und Ihr Selbstbewusstsein zu stärken.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
+## Durchkämpfen
+
+Dies ist der Punkt, an dem aus „Ich kann das“ „Das ist schwieriger, als ich dachte“ oder „Macht es wirklich etwas aus, wenn ich einen Tag auslasse?“ wird. 
+
+Um die dritte Phase zu erreichen, in der die Gewohnheit zur zweiten Natur wird, müssen Sie in der Lage sein, zwei oder drei dieser wichtigen Durchhaltekämpfe mit sich selbst zu gewinnen.
+
+1. Ritualisieren Sie. Machen Sie es einfach, Ihr Verhalten zu wiederholen.
+2. Erkennen. Einfach zu wissen, dass Sie unweigerlich auf diese kleine, weinerliche Stimme stoßen werden, die versucht, mit Ihnen zu verhandeln, dass heute der Tag ist, an dem wir unsere Verpflichtung sausen lassen, ist ein großer Teil des Prozesses, um Durchkämpfe zu gewinnen.
+3. Stellen Sie zwei Fragen. 1) „Wie werde ich mich fühlen, wenn ich diesen Kampf gewinne?“ und 2) „Wie werde ich mich fühlen, wenn ich diesen Kampf verliere.“
+4. Lebensprojektion. Nehmen Sie sich 30 Sekunden Zeit, um sich Ihr Leben in 5 Jahren vorzustellen, wenn Sie Ihre Kämpfe konsequent gewinnen und alle neuen Verhaltensweisen einführen
+
+Die erstaunlichen Dinge, die Weltklasseathleten erreichen können, werden normalerweise außergewöhnlichen Fähigkeiten zugeschrieben – und das kann sicherlich ein Faktor sein. 
+
+Aber ein viel größerer Faktor, der diese Athleten dazu bringt, dieses Niveau zu erreichen, ist ihre unermüdliche Fähigkeit, die Kämpfe konsequent zu gewinnen.
+
+[Organize Tomorrow Today](https://www.goodreads.com/book/show/24693651-organize-tomorrow-today)
+
+## Ratten + Belohnungen: Real vs. Zufall
+
+Können Sie es sich zur Gewohnheit machen, Ihre „wahren Belohnungen“ bei der Arbeit zu identifizieren, um nicht in die Falle zufälliger Belohnungen zu tappen?
+
+Das Rattenhirn übernimmt am ehesten die Kontrolle, wenn Sie sich ziellos fühlen. 
+
+Wappnen Sie sich gegen das unnütze Überprüfen von E-Mails, indem Sie es sich zur Gewohnheit machen, jeden Abend vor Verlassen des Büros die To-do-Liste für den nächsten Tag aufzuschreiben. 
+
+Wenn Sie Ihre To-do-Liste im Voraus erstellen, können Sie den Arbeitstag mit Klarheit und Schwung beginnen. 
+
+Es bedeutet auch, dass Sie einen Rahmen für die Prioritäten des Tages haben, bevor Sie Ihre E-Mails abrufen, sodass Sie eingehende Anfragen gegen das abwägen können, was Sie bereits zu erledigen geplant haben. 
+
+Alles abzuhaken ist Ihre Belohnung – und es wird auch das positive Verhalten verstärken.
+
+[Unsubscribe](https://www.goodreads.com/book/show/29502387-unsubscribe)
+
+## Große kleine Dinge
+
+Von solchen Nebensächlichkeiten bis zu den großen Katastrophen des Lebens scheint es noch sehr weit hergeholt, aber meiner Meinung nach sind der höchste Mut und die beste und vollkommenste Selbstbeherrschung nichts anderes als das Ergebnis der Gewohnheit, sich in den kleinen Dingen des Lebens unter Kontrolle und Beständigkeit zu halten. 
+
+Der Mann oder die Frau, die den kleinen Dingen gelassen gegenüberstehen, sind auf die ernsteren oder unerwarteten Dinge vorbereitet und werden schließlich durch die Macht der Gewohnheit jene erhabene Art von Mut, Haltung und Selbstbeherrschung erlangen, die selbst das größte Unglück nicht erschüttern kann. 
+
+Und obwohl sein höchster Mut vielleicht nie auf die Probe gestellt wird, wird derjenige, der sich an Selbstbeherrschung in kleinen Dingen gewöhnt hat, die Charakterstärke erlangt haben, die ihn in jeder Lebenslage zu einer herausragenden Person macht.
+
+[Making Life a Masterpiece](https://www.goodreads.com/book/show/738805.Making_Life_a_Masterpiece)
+
 ## Tools
 
 - [Habitica](https://habitica.com/)

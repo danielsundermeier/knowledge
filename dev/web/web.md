@@ -30,3 +30,7 @@
 ## htaccess
 
 - [Ultimate Htaccess Examples](https://evolt.org/ultimate_htaccess_examples)
+
+## Websockets
+
+- [Laravel Reverb](https://laravel.com/docs/11.x/reverb)

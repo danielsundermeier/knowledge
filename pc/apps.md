@@ -7,6 +7,7 @@
 ## Sonstiges
 
 - [Draw.io](https://app.diagrams.net/)
+- [Excalidraw](https://excalidraw.com/)
 - [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display
 
 ## Mail

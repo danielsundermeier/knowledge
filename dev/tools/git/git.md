@@ -32,3 +32,11 @@ git mv temp FooBar
 
 git mv foo.php Foo.php
 ```
+
+## Pull
+
+```sh
+git reset --hard
+git clean -df
+git pull
+```

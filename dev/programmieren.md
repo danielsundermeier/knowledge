@@ -138,4 +138,4 @@ video course](https://mailcoach.app/videos)
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 - [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
 - [How to Design Programs](https://htdp.org/2023-3-6/Book/index.html)
-
+- [Quasar](https://quasar.dev/) - The enterprise-ready cross-platform VueJs framework

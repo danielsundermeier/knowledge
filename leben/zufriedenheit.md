@@ -1274,4 +1274,5 @@ Es bedeutet auch, sich der Suche nach persönlichem Sinn und transzendenten Ziel
 - [getting in/out of a funk](https://mindmine.substack.com/p/getting-inout-of-a-funk)
 - [The Levers That Money Can’t Pull](https://moretothat.com/the-levers-that-money-cant-pull/)
 - [What are the most common habits of unhappy people?](https://qr.ae/prlvwp)
+- [So kontrollierst du dein Dopaminlevel für maximale Produktivität](https://www.youtube.com/watch?v=tjjqyiHczcc)
 

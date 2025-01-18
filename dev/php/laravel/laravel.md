@@ -26,7 +26,8 @@ butler laravel:new name
 
 ## Blogs
 
-[Tighten](https://tighten.co/blog/)
+- [Tighten](https://tighten.co/blog/)
+- [Mastering Laravel](https://masteringlaravel.io/)
 
 ## Packages
 

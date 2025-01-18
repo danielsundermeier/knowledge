@@ -1642,3 +1642,4 @@ Sie können in einen größeren Bereich vordringen und Ihr volles Potenzial entf
 - [Becoming a magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 - [The Counterintuitive Way to Create Change in Your Life](https://zenhabits.net/counter/)
 - [The Self-Help Paradox](https://edwardsays.substack.com/p/the-self-help-paradox)
+- [KEEP IMPROVING In Life And Fitness Like Sung Jin-Woo! - Solo Leveling Training](https://www.youtube.com/watch?v=lUtN5HNiwyA)

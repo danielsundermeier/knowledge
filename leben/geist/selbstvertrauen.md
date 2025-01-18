@@ -470,3 +470,4 @@ Sie werden dem, was Sie sehen, dem, woran Sie glauben, dem, worum Sie unablässi
 - [I finally know the true meaning of confidence](https://www.reddit.com/r/confidence/comments/ms24iw/after_years_of_research_i_finally_know_the_true)
 - [The Only Way to Be Truly Confident in Yourself](https://markmanson.net/how-to-be-confident)
 - [What Do Strangers Think Of You?](https://www.youtube.com/watch?v=jg-O7f_1Ngc)
+- [Brutally Honest Advice to Build Your Confidence](https://www.youtube.com/watch?v=pt50QF6al8g)

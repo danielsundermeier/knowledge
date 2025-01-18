@@ -19,6 +19,8 @@
 - [The Light and Dark Side of the API Economy](https://www.swyx.io/api-economy/)
 - [Learn API Doc](https://idratherbewriting.com/learnapidoc/)
 - [Nordic APIs](https://nordicapis.com/)
+- [REST API Tutorial](https://restfulapi.net/)
+- [OAuth 2.0 Simplified](https://www.oauth.com/)
 
 ## Newsletter
 
@@ -40,3 +42,11 @@
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
 - [OAuth 2.0](https://oauth.net/2/)
 - [Modern Guide - What is OAuth 2.0 and How Does It Work?](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
+
+## Webhooks
+
+- [Webhook](https://webhook.site)
+
+## Dokumentation
+
+- [Scramble](https://scramble.dedoc.co/) - Laravel OpenAPI (Swagger) Documentation Generator

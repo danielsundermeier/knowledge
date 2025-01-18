@@ -379,6 +379,7 @@ Wenn Sie eine neue Information finden, zwingen Sie sich, sich damit zu beschäft
 - [Teaching the science of learning](https://europepmc.org/article/MED/29399621)
 - [Ask HN: What is your system for learning new things?](https://news.ycombinator.com/item?id=34771415)
 - [Der Zettelkasten Niklas Luhmanns](https://niklas-luhmann-archiv.de/nachlass/zettelkasten)
+- [Mini Essays: The Ultimate Learning Tool](https://www.youtube.com/watch?v=N4YjXJVzoZY)
 
 ## Spaced Repetition
 

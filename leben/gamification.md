@@ -36,3 +36,4 @@ Wie können wir den heutgen Tag zu einem Spiel machen?
 - [How video games are changing my life](https://www.youtube.com/watch?v=Rim2rXIbVoA)
 - [How to Level Up in Life](https://www.youtube.com/watch?v=8b0UGEepleU)
 - [Games are problems people pay to solve](https://invertedpassion.com/games-are-problems-people-pay-to-solve/)
+- [How I Turned My Life Into A Video Game](https://www.youtube.com/watch?v=_VGmzvG7oq4)

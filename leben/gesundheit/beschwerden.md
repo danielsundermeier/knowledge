@@ -5,6 +5,7 @@
 - [The EASIEST Way To Fix Low Back Pain](https://www.youtube.com/watch?v=BqL-_eOiOKw)
 - [Der Butt-Wink](https://my-reset.com/butt-wink/)
 - [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
+- [Lower Back Mini-Mastery-Class](https://www.youtube.com/watch?v=D97Q78y3DDc)
 
 ## Schultern
 

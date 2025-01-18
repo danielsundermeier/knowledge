@@ -70,6 +70,7 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 - [The Sovereign Lifter: Building your home gym](https://eugenemarinelli.com/the-sovereign-lifter/)
 - [The 10 Home Gym Essentials According to Coop](https://www.youtube.com/watch?v=QFq6Dg_0dbU)
 - [The 10 Biggest Home Gym Mistakes I See...](https://www.youtube.com/watch?v=dOjKpPLQZJ4)
+- [Speediance](https://www.speediance.com/)
 
 ## Übungen
 
@@ -322,6 +323,13 @@ Was die Erzeugung von Wohlbefinden betrifft, so ist körperliche Aktivität sowo
 
 [Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
 
+## Abos
+
+- [Urban Sports Club](https://urbansportsclub.com/de)
+- [ClassPass](https://classpass.de/)
+- [GymPool](https://www.gympool.de/)
+- [EGYM Wellpass](https://egym-wellpass.com/)
+
 ## Links
 
 - [Stress the Heart and Bones](https://paulskallas.substack.com/p/why-do-we-work-out)
@@ -344,4 +352,5 @@ Was die Erzeugung von Wohlbefinden betrifft, so ist körperliche Aktivität sowo
 - [Andy Galpin, PhD](https://www.andygalpin.com/)
 - [modusX](https://modusx.de)
 - [Phil Maffetone’s MAF Method](https://philmaffetone.com/)
+- [What it total fitness?](https://www.youtube.com/watch?v=n85jqM3tXxQ)
 

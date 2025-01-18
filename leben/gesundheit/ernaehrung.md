@@ -157,6 +157,16 @@ Es ist ein Teufelskreis.
 
 - [Open Insulin Foundation](https://openinsulin.org/)
 
+## Salz
+
+Es werden 6g Salz pro Tag empfohlen.
+
+Salz bindet Wasser und das führt dazu, dass wir schwerer werden.
+
+Zu viel Salz kann zu Bluthochdruck führen, weil mehr Blut gepumpt werden muss.
+
+Salz fördert den Geschmack, in dem es den Geschmack der anderen Zutaten verstärkt.
+
 ## Glukose
 
 = Zucker aus Kohlenhydraten.

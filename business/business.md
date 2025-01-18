@@ -188,6 +188,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 
 - [Mid-Year Review](https://perell.com/essay/mid-year-review/)
 - [Quantum Leap Fitness](https://quantumleapfitness.de/die-wahrheit-ueber-uns)
+- [No compromises](https://nocompromises.io)
 
 ### Produkte
 

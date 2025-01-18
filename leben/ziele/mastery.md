@@ -583,3 +583,7 @@ Dies war einer der absoluten Eckpfeiler der Lehren von Coach Wooden.
 - [Mastery](https://www.goodreads.com/book/show/81940.Mastery)
 - [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 - [Peak](https://www.goodreads.com/book/show/26312997-peak)
+
+## Links
+
+- [You Won’t Be The Same Person In 6 Months](https://www.youtube.com/watch?v=h_r6Mo8EDic)

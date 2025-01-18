@@ -125,6 +125,7 @@ Zuhause kann ich es mir dann nachmal durchlesen und reflektieren. Das mache ich 
 - [GPT-3 Is the Best Journal I’ve Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 - [Story Structure 104: The Juicy Details](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details)
 - [It's Not Supposed to Be Easy.](https://www.youngmoney.co/p/not-supposed-easy)
+- [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
 
 ## Inspiration
 
@@ -137,6 +138,10 @@ Zuhause kann ich es mir dann nachmal durchlesen und reflektieren. Das mache ich 
 
 - [Static Gen](https://www.staticgen.com/)
 - [Hugo](https://gohugo.io/)
+
+## Packages
+
+- [Prezet](https://prezet.com/) - Markdown Blogging for Laravel
 
 ## Zitate
 

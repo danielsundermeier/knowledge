@@ -386,3 +386,7 @@ Und der Sieg, der sich einstellt, wenn man JA zu Kreativität, Konzentration und
 
 [Wealth Warrior](https://www.goodreads.com/book/show/17140681-wealth-warrior)
 
+## Links
+
+- [It’s actually pretty easy to be self-disciplined](https://www.youtube.com/watch?v=ReyMCKC-FwU)
+- [Pursuing Pain, Not Pleasure: How Laziness & Comfort Cripples You | Cal Newport](https://www.youtube.com/watch?v=UsBy4t74ABM)

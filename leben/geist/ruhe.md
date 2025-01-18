@@ -139,3 +139,7 @@ Den Kopf freizubekommen und flexibel zu sein, ist der Schlüssel.
 ## Bücher
 
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)
+
+## Videos
+
+- [STOP TALKING TO YOURSELF And This Is What Will Happen](https://www.youtube.com/watch?v=BrOYVD-AdhA)

@@ -471,3 +471,4 @@ Sie werden dem, was Sie sehen, dem, woran Sie glauben, dem, worum Sie unablässi
 - [The Only Way to Be Truly Confident in Yourself](https://markmanson.net/how-to-be-confident)
 - [What Do Strangers Think Of You?](https://www.youtube.com/watch?v=jg-O7f_1Ngc)
 - [Brutally Honest Advice to Build Your Confidence](https://www.youtube.com/watch?v=pt50QF6al8g)
+- [Affirmations Are BULLS*T! Here Is How You Create Real Change](https://www.youtube.com/watch?v=2FnX_ue8yco)

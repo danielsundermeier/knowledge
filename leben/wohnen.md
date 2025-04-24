@@ -162,6 +162,8 @@ Alle Städte bis zur Erfindung des Autos und des Aufzugs wurden so gebaut.
 - [Vonder](https://www.vondereurope.com/)
 - [Habyt](https://www.habyt.com/)
 - [The Base](https://www.jointhebase.co/de)
+- [Basata Eco-Lodge](https://www.basata.com/)
+- [The Yokolou](https://yokolou.com/)
 
 ## Videos
 

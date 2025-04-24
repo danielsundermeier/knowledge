@@ -83,3 +83,7 @@ Die Fähigkeit, die impulsiven, emotionalen und logischen Teile unseres Lebens a
 ## Bücher
 
 - [Flow](https://www.goodreads.com/book/show/66354.Flow)
+
+## Links
+
+- [Why Entering Flow State Feels Impossible](https://www.youtube.com/watch?v=l5GMD587vCc)

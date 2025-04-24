@@ -587,3 +587,4 @@ Dies war einer der absoluten Eckpfeiler der Lehren von Coach Wooden.
 ## Links
 
 - [You Won’t Be The Same Person In 6 Months](https://www.youtube.com/watch?v=h_r6Mo8EDic)
+- [How To Be Awesome At Anything](https://www.youtube.com/watch?v=3y5p7V05xls)

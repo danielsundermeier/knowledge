@@ -1,6 +1,7 @@
 # Windows
 
 - [Windows package manager](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/)
+- [UniGetUI](https://www.marticliment.com/unigetui/) - The Graphical Interface for your package managers
 
 ## Programme
 

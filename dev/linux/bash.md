@@ -58,6 +58,12 @@ pwd
 cd - // Zum letzen Ordner
 ```
 
+### Speicherplaz
+
+```
+du -hs *
+```
+
 ### Rechte
 
 #### Dateien

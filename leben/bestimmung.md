@@ -1264,4 +1264,5 @@ Wir können unser menschliches Potenzial nur dann ausschöpfen, wenn wir unsere 
 - [Death](https://www.youtube.com/watch?v=iMe_YY3In-g)
 - [This Is The Most Fun Way To Make Your Life Awesome](https://bakadesuyo.com/2023/02/find-your-passion/)
 - [Why Finding Purpose Is SO HARD Today](https://www.youtube.com/watch?v=NuHEY7CjjTI)
+- [I wasted 10+ years trying to find my purpose and here’s what I learned (12 lessons)](https://www.youtube.com/watch?v=M4BYtID3I-I)
 

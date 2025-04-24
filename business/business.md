@@ -177,6 +177,13 @@ Die Dinge von ihrem Blickwinkel betrachten.
 ## Coworking
 
 - [StartMIndenUP](https://www.startup-muehlenkreis.de/) - Coworking Space in Minden
+- [Tempowerk](https://tempo-werk.de/)
+- [Betahaus](https://www.betahaus.com/)
+
+## Start-Up Hubs
+
+- [Europe’s Leading Start-up Hubs](https://rankings.ft.com/incubator-accelerator-programmes-europe/ranking/europes-leading-start-up-hubs)
+- [WERK1](https://www.werk1.com/)
 
 ## Zitate
 

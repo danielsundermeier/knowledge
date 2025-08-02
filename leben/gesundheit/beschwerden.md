@@ -6,10 +6,15 @@
 - [Der Butt-Wink](https://my-reset.com/butt-wink/)
 - [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
 - [Lower Back Mini-Mastery-Class](https://www.youtube.com/watch?v=D97Q78y3DDc)
+- [Rundrücken und vorgezogene Schultern korrigieren](https://www.youtube.com/watch?v=MErc15tjwLo)
 
 ## Schultern
 
 - [How To Unf*ck Your Shoulders In 10 Minutes](https://www.youtube.com/watch?v=UE0ktBkeo64)
+
+## Hüfte
+
+- [https://www.youtube.com/watch?v=UnVjlCcolS8](https://www.youtube.com/watch?v=UnVjlCcolS8)
 
 ## Diabetes
 

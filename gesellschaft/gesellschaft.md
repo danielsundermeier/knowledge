@@ -32,7 +32,7 @@ So können kleine Gemeinschaften selbst entscheiden, wie sie leben wollen. Sie h
 ## Lebensstil
 
 - Die Welt besser verlassen, als wir sie betreten haben
-- Produktion statt Konsum
+- Kreation statt Konsum
 
 ## Status
 

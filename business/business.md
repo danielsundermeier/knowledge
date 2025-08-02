@@ -223,6 +223,7 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Grinding to $1,000,000 in revenue over 6 years](https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/)
 - [How I would start my next Startup in Germany without a GmbH](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 - [Here are the 14 steps of my strange journey](https://twitter.com/thejustinwelsh/status/1453029782631895043)
+- [My complete $10M journey](https://www.justinwelsh.me/newsletter/my-10m-journey)
 
 ## Links
 
@@ -292,3 +293,4 @@ Die Dinge von ihrem Blickwinkel betrachten.
 - [Starting a $400,000 Side Business in 1 Month](https://www.youtube.com/watch?v=NblHMZbYg-o)
 - [How This CEO Built a Billion-Dollar Ethical Egg Business](https://www.youtube.com/watch?v=o8uhxZON1TU)
 - [How do I make money without taking sponsorships?](https://www.youtube.com/watch?v=FmjbqGZA_Q4)
+- [Getting Rich is a Game. Here’s How to Win.](https://www.youtube.com/watch?v=-r2SH6EH5eY&si=X1X9VntU1IqCf-np)

@@ -175,3 +175,7 @@ Wenn Sie jemals die Anerkennung bekommen wollen, die Sie suchen, dann muss sie v
 ## Bücher
 
 - [Six Pillars of Self-Esteem](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem)
+
+## Links
+
+- [STOP Chasing Approval — Here's How To Get Free](https://www.youtube.com/watch?v=1cqkP5_YRho)

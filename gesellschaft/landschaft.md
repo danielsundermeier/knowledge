@@ -48,6 +48,8 @@ Gebäude sollen mehr Fläche begrünen, als sie belegen (vertikal, Dachgarten, .
 - Obergeschoss(e)
     + Wohnen
     + Appartments verschiedenster Größen -> Diversivität
+    
+- [Campus 2045](https://cloud.dg-hochn.de/s/SBHkMEYqkNp8egk?path=%2FBrosch%C3%BCre%20als%20PDF)
 
 ## Autarkie
 

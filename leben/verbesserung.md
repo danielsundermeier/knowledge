@@ -1643,3 +1643,6 @@ Sie können in einen größeren Bereich vordringen und Ihr volles Potenzial entf
 - [The Counterintuitive Way to Create Change in Your Life](https://zenhabits.net/counter/)
 - [The Self-Help Paradox](https://edwardsays.substack.com/p/the-self-help-paradox)
 - [KEEP IMPROVING In Life And Fitness Like Sung Jin-Woo! - Solo Leveling Training](https://www.youtube.com/watch?v=lUtN5HNiwyA)
+- [From Broke Barber to Building My DREAM LIFE (6-figures)](https://www.youtube.com/watch?v=5WR9-h8iFqU)
+- [Here's Why Watching More Self-Help Videos Won't Fix You](https://www.youtube.com/watch?v=wVslfrWUT2U)
+

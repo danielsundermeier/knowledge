@@ -380,6 +380,7 @@ Wenn Sie eine neue Information finden, zwingen Sie sich, sich damit zu beschäft
 - [Ask HN: What is your system for learning new things?](https://news.ycombinator.com/item?id=34771415)
 - [Der Zettelkasten Niklas Luhmanns](https://niklas-luhmann-archiv.de/nachlass/zettelkasten)
 - [Mini Essays: The Ultimate Learning Tool](https://www.youtube.com/watch?v=N4YjXJVzoZY)
+- [Wie Sie sich wie ein Genie weiterbilden (ohne Schule)](https://www.youtube.com/watch?v=NLpYWLGkIII)
 
 ## Spaced Repetition
 

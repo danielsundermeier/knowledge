@@ -273,3 +273,7 @@ Das Gehirn kann sich auch als Reaktion auf rein geistige Aktivitäten verändern
 
 - [Letting Go](https://www.goodreads.com/book/show/16098910-letting-go)
 - [Constructive Living](https://www.goodreads.com/book/show/244742.Constructive_Living)
+
+## Links
+
+- [How To Get Out Of The Matrix | Breaking Through Emotional Patterns](https://www.youtube.com/watch?v=s61p2b-lKEc)

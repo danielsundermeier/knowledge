@@ -126,6 +126,8 @@ Zuhause kann ich es mir dann nachmal durchlesen und reflektieren. Das mache ich 
 - [Story Structure 104: The Juicy Details](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details)
 - [It's Not Supposed to Be Easy.](https://www.youngmoney.co/p/not-supposed-easy)
 - [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
+- [6 Writing Tips I Used to Publish 7 Bestsellers](https://www.youtube.com/watch?v=6om9ndA8dyc)
+- [Book Writing Process](https://acceptable.substack.com/p/book-writing-process-1)
 
 ## Inspiration
 

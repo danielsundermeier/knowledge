@@ -55,3 +55,4 @@ Deshalb ich meine bevorzugte Haltedauer "für immer".
 - [extraEtf](https://de.extraetf.com/)
 - [justEtf](https://www.justetf.com/de/)
 - [Inside the World of Stocks & Investing | Explained.](https://www.youtube.com/watch?v=_MeZt4LBnCE)
+- [Die Börse gewinnt immer](https://www.youtube.com/watch?v=TQuxVz52w2w)

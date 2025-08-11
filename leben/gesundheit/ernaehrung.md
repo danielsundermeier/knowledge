@@ -570,6 +570,7 @@ Auch wenn diese Studie einige erhebliche Einschränkungen aufweist, unterstreich
 - [How To Get Lean & STAY Lean Forever (Using Science)](https://www.youtube.com/watch?v=roHQ3F7d9YQ)
 - [Arme-Leute-Essen und Luxusspeisen](https://www.openscience.or.at/hungryforscienceblog/arme-leute-essen-und-luxusspeisen/)
 - [The "Perfect Diet" Myth](https://www.youtube.com/watch?v=DKYXI6pDQSo)
+- [The one simple daily meal that transformed my physique](https://www.youtube.com/watch?v=zy497DOahJ8)
 
 ## Zitate
 

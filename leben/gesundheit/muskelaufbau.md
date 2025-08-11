@@ -91,6 +91,12 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - 2*3, 3*2: zwischen Kraft- und Muskelaufbau wechseln
 - 5: Bro Split, nur für Bodybuilder, zu lange Pause
 
+## Übungen
+
+- [The fastest way to build strong shoulders at home](https://www.youtube.com/watch?v=PwutudyK_1Y)
+- [How anyone can achieve a one-arm chinup in 3 minutes a week](https://www.youtube.com/watch?v=Q3dhtlOq8NE)
+- [How to build powerful legs in one rep a week](https://www.youtube.com/watch?v=tmb7zNxKaRQ)
+
 ## Links
 
 - [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
@@ -115,4 +121,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [How I Keep Getting Bigger](https://www.youtube.com/watch?v=kiDT5jY3KY)
 - [The SIMPLE BASICS that get you 95% of the gains... (training, diet, supps)](https://www.youtube.com/watch?v=PzwvX8FwiaA)
 - [7 “STUPID” Lessons I Learned To GAIN 25+ Lbs of MASS (So Can You Bro)](https://www.youtube.com/watch?v=ga8rQ_tEXqg)
+- [The best beginner training routine - zero to strong in 40min/week](https://www.youtube.com/watch?v=mYb3sgft9Dw)
 

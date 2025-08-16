@@ -179,3 +179,4 @@ Wenn Sie jemals die Anerkennung bekommen wollen, die Sie suchen, dann muss sie v
 ## Links
 
 - [STOP Chasing Approval — Here's How To Get Free](https://www.youtube.com/watch?v=1cqkP5_YRho)
+- [Sie geben den Menschen nicht die Chance, Sie zu lieben](https://www.youtube.com/watch?v=JsNRVP6g_Xs)

@@ -221,6 +221,7 @@ Den Beruf des Lehrers in Teilaufgaben aufteilen, Lehrer können sich spezialisie
 - [Life lessons I wish school taught us](https://twitter.com/Julian/status/1397281208296525833)
 - [Anybody Here Know COBOL?: On the Nature of Educational Crises](https://consilienceproject.org/education-crisis/)
 - [DG HochN](https://www.dg-hochn.de/) - Deutsche Gesellschaft und für eine Nachhaltigkeit an Hochschulen
+- [Biophilic Education](https://davincilifeskills.com/)
 
 ## Videos
 

@@ -137,4 +137,5 @@ Wenn etwas gepflegt wird, bleibt es auch eher so.
 - [The Perfect Country](https://www.youtube.com/watch?v=shanIOl7MyE)
 - [StriveTogether](https://www.strivetogether.org/)
 - [City Campus](https://www.citycampus.org)
+- [Local Futures](https://www.localfutures.org/) - PROMOTING LOCALIZATION GLOBALLY
 

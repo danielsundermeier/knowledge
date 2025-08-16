@@ -261,6 +261,7 @@ Um die Erkenntnisse auf andere autobiografische Werke auszuweiten, analysierte S
 - [The Longevity Guide](https://thelongevity.guide/) - A guide to living healthier, longer.
 - [The Best Deal in the World Right Now](https://www.raptitude.com/2023/04/the-best-deal-in-the-world-right-now/)
 - [With Green Prescriptions, Getting Healthier Is a Walk in the Park](https://reasonstobecheerful.world/green-prescriptions-health-nature-parks/)
+- [The Fathom Trust](https://fathomtrust.com/)
 
 ## Videos
 

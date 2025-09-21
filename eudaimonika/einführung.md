@@ -2,15 +2,21 @@
 
 Anfang des 21. Jahrhunderts hat sie die Lage auf der Erde immer weiter zugespitz. Die Lebensqaulität der Menschen ist gesunken und der Klimawandel hat sich immer stärker bemerkbar gemacht.
 
-Die Menschen waren unzufrieden, was zu einem rechtsruck geführt hat.
+Die Menschen waren unzufrieden, was zu einem Rechtsruck geführt hat.
 
 Immer mehr Konflikte sind eskaliert und schließlich ist es zu einem Weltkrieg gekommen.
 
 In diesem Krieg gab es keine Sieger. Die Gewalt und Brutalität mit der vorgegangen wurde, hat die Menschen aufgeweckt.
 
+Als die Bevölkerung erkannt hat, dass die Regierung in ihrer Gier und Machthunger niemals aufhören wir und zur Not den Planeten opfern würden, ist es zu einer Rebellion gekommmen.
+
+In fast allen Ländern wurden die Anführer gestürzt.
+
 Es wurde wahllos getötet. Automaische Drohnen, Bio- und Chemische Kampfstoffe wurden eingesetzt um Angst und Schrecken zu verbreiten.
 
 Zum Glück hat niemand Atomwaffen eingesetzt.
+
+Die Öl- und Energieproduktion wurde aber gezielt zerstört. Es ist Lebensader der jeweilgen Nation. Dadurch ist den Menschen klar geworden, wie sehr sie darauf angewiesen und ohne diese Energie hilflos sind.
 
 durch diese Art der Kriegsführung ist erstaunlich viel Infrastruktur erhalten geblieben, die Menschehit wurde aber stark dezimiert.
 
@@ -23,6 +29,8 @@ Sie haben sich immer weiter von der Natur und damit auch ihrem Selbst entfernt.
 Die Menschen haben erkannt, dass es so nicht mehr weitergehen kann und sich zusammengesetzt, um solche Zustände in Zukunft zu verhindern.
 
 Es ist traurig, dass es zu diesen Katastrophen kommen musste, damit das passiert.
+
+## Neustart
 
 Jetzt hat aber erstmal der Wiederaufbau höchste Priorität und es braucht einen Plan, um dem Klimawandel zu begegnen.
 
@@ -49,6 +57,8 @@ Die Nationalstaaten wurden aufgelöst und die Menschen haben sich in Bioregionen
 Das Klima und damit die Lebensbedingungen ähneln sich und somit auch die Menschen. Es gibt ähnliche Herausfroderungen und Lebensweisen.
 
 Die Menschen sehen sich selbst als Stewards und Architekten ihrer Region.
+
+Wir tun das, was wir am besten können. Wir setzen unsere Kreativität ein, um Probleme zu lösen und Systeme zu schaffen von denen alle profitieren.
 
 Die Idee ist, die Grundversorgung lokal und regenerativ sicherzustellen. Gleichzeitig aber auch nicht auf den Handel mit dem Rest der Welt zu verzichten.
 

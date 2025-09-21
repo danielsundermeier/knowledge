@@ -232,6 +232,7 @@ Den Beruf des Lehrers in Teilaufgaben aufteilen, Lehrer können sich spezialisie
 - [Why School Is Becoming Irrelevant](https://www.youtube.com/watch?v=VSiQCL3oBj8)
 - [Dexter: Re-inventing Education | In Depth](https://www.youtube.com/watch?v=p5zIWw4gu8c)
 - [SCHOOL: SOCIETY'S MOST BROKEN MACHINE](https://www.youtube.com/watch?v=0Qi36WcylLs)
+- [How I Took Charge of My Future after Realising Education was a Scam](https://www.youtube.com/watch?v=mRSEtVBIEFk)
 
 ## Spiele
 

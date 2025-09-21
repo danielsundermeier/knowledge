@@ -93,13 +93,30 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 
 ## Übungen
 
+- Planche Push-up
+- Front-Lever Row
+- Nordic Curls, [Hamstring Curls](https://dieringe.com/de/exercises/turnringe-ham-curls) oder Leg Curls (Boden, [Ringe](https://dieringe.com/de/exercises/leg-curls-mit-turnringen), Pezziball)
 - [The fastest way to build strong shoulders at home](https://www.youtube.com/watch?v=PwutudyK_1Y)
 - [How anyone can achieve a one-arm chinup in 3 minutes a week](https://www.youtube.com/watch?v=Q3dhtlOq8NE)
 - [How to build powerful legs in one rep a week](https://www.youtube.com/watch?v=tmb7zNxKaRQ)
 
+### Muscle-Up
+
+- [False Grip Rudern an den Turnringen](https://dieringe.com/de/exercises/false-grip-row)
+- [Negative Muscle Ups an den Turnringen](https://dieringe.com/de/exercises/negative-muscle-ups)
+- [Ring Muscle Up](https://dieringe.com/de/exercises/ring-muscle-ups)
+
+### Handstand Push-Up
+
+- [I'll prove you can do handstand push-ups](https://www.youtube.com/watch?v=K23pTcf0VV4)
+
+### Back Lever
+
+- [If you can do pull-ups, you can do back lever](https://www.youtube.com/watch?v=qLBPPf9x3GU)
+
 ## Links
 
-- [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation?ac=1&from_search=true&qid=d8zg5PtiSg&rank=2)
+- [HFT](https://www.goodreads.com/book/show/36099305-hft---hochfrequenztraining-auto-regulation)
 - [Muscle Wiki](https://musclewiki.com/)
 - [The 7-Minute Workout](https://www.7minuteworkouttimer.com/)
 - [How to Sixpack](https://fitness-experts.de/muskelaufbau/sixpack)
@@ -122,4 +139,5 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [The SIMPLE BASICS that get you 95% of the gains... (training, diet, supps)](https://www.youtube.com/watch?v=PzwvX8FwiaA)
 - [7 “STUPID” Lessons I Learned To GAIN 25+ Lbs of MASS (So Can You Bro)](https://www.youtube.com/watch?v=ga8rQ_tEXqg)
 - [The best beginner training routine - zero to strong in 40min/week](https://www.youtube.com/watch?v=mYb3sgft9Dw)
+- [Die Ringe](https://dieringe.com/de/) - Muskeln mit denen du was anfangen kannst
 

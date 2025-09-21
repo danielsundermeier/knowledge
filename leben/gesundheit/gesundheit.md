@@ -244,6 +244,10 @@ Um die Erkenntnisse auf andere autobiografische Werke auszuweiten, analysierte S
 
 [Positive Psychology and the Body](https://www.goodreads.com/book/show/19448829-positive-psychology-and-the-body)
 
+## Schuhe
+
+- [Freiluftkind](https://freiluftkind.de/)
+
 ## Links
 
 - [Apple Health OS](https://divinations.substack.com/p/healthos)

@@ -138,4 +138,5 @@ Wenn etwas gepflegt wird, bleibt es auch eher so.
 - [StriveTogether](https://www.strivetogether.org/)
 - [City Campus](https://www.citycampus.org)
 - [Local Futures](https://www.localfutures.org/) - PROMOTING LOCALIZATION GLOBALLY
+- [ZEGG](https://www.zegg.de/de/)
 

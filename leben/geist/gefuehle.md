@@ -277,3 +277,4 @@ Das Gehirn kann sich auch als Reaktion auf rein geistige Aktivitäten verändern
 ## Links
 
 - [How To Get Out Of The Matrix | Breaking Through Emotional Patterns](https://www.youtube.com/watch?v=s61p2b-lKEc)
+- [How to Embrace the Emotions You Resist & Find Lasting Freedom | Joe Hudson](https://www.youtube.com/watch?v=dhlupWyTNYM)

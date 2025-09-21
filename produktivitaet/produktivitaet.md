@@ -95,6 +95,7 @@ Das Gefühl die Zeit zu vergessen und vollkommen in einer Tätigkeit aufzugehen.
 - [Casualties of Perfection](https://www.collaborativefund.com/blog/inefficient/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+collabfund+%28Collaborative+Fund%29)
 - [On Solitude](https://eriktorenberg.substack.com/p/on-solitude)
 - [what mindless scrolling does to you](https://www.youtube.com/watch?v=WEQTrW9NP68)
+- [I Tried Embracing Boredom for 30 Days: Here's What Happened](https://www.youtube.com/watch?v=bXvWK6ElK1I)
 
 ## Eisenhower-Matrix
 

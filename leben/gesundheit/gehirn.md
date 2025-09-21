@@ -115,3 +115,7 @@ Wer hätte gedacht, dass diese winzigen Organellen (Organe in jeder Zelle) der S
 
 [Head Strong](https://www.goodreads.com/book/show/30653985-head-strong)
 
+## Asymetrie
+
+- [Are We About to Live Through the Next Renaissance?](https://www.youtube.com/watch?v=Fmt6GJMCuX8)
+

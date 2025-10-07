@@ -14,7 +14,9 @@
 
 ## Hüfte
 
-- [https://www.youtube.com/watch?v=UnVjlCcolS8](https://www.youtube.com/watch?v=UnVjlCcolS8)
+- [Train This to Reduce Pain and Stiffness and Unlock Youthful Athleticism!](https://www.youtube.com/watch?v=UnVjlCcolS8)
+- [The Reason You Have a Huge Butt and How to Train It.](https://youtu.be/x5zfeS8fH7w?si=jmmc6PZl2R1Gn86C)
+- [The Ancient Exercise that Heals your Hips (Why & How)](https://www.youtube.com/watch?v=LUTvHp_VaGk)
 
 ## Diabetes
 

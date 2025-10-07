@@ -233,4 +233,5 @@ Behandeln Sie Geld als Freund, nicht als etwas, das Sie zusammenknüllen und in 
 - [Buy. Borrow. Die. | How The Rich Stay Rich](https://www.youtube.com/watch?v=4_XFqwN9zLU)
 - [You Suck at Investing.](https://www.youtube.com/watch?v=SbUkmysgXFs)
 - [The 2.7% Rule for Retirement Spending](https://www.youtube.com/watch?v=1FwgCRIS0Wg)
+- [Reichtum vs. Wert – Was macht dich wirklich reich?](https://www.youtube.com/watch?v=zbPQHeR_Zk4)
 

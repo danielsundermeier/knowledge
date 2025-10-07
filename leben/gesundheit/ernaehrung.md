@@ -91,6 +91,19 @@ Makronährstoffe berechnen:
 
 [Lose Body Fat Without Dropping Calories!](https://www.youtube.com/watch?v=KsOljsef4Rs)
 
+### Kohlenhydrate
+
+- [Can You REALLY Live Without Carbs? Shocking Truth About Ketosis & Exercise](https://www.youtube.com/watch?v=lRjNjfMCd-U)
+
+### Proteine
+
+- [Why Your Training Shake is Feeding Your Liver, Not Your Gains](https://www.youtube.com/watch?v=wdufIZuogOE)
+
+### Fett
+
+- [How Too Much Fat Affects Nearly Every Part of Your Body](https://www.youtube.com/watch?v=gmCZtbKfHQ4)
+- [How Your Body Really Burns Fat: Can We Control It?](https://www.youtube.com/watch?v=SYKVsMMCOl4)
+
 ## Supplements
 
 > "After conducting countless randomized controlled trials on popular vitamins and supplements, Edgar Miller III, MD, PhD, a professor of medicine at Johns Hopkins University, concluded: “People would be better off spending their money on fruits and vegetables.”

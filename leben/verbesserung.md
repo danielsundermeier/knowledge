@@ -1646,4 +1646,5 @@ Sie können in einen größeren Bereich vordringen und Ihr volles Potenzial entf
 - [From Broke Barber to Building My DREAM LIFE (6-figures)](https://www.youtube.com/watch?v=5WR9-h8iFqU)
 - [Here's Why Watching More Self-Help Videos Won't Fix You](https://www.youtube.com/watch?v=wVslfrWUT2U)
 - [How to achieve any goal 10x faster with less time](https://www.youtube.com/watch?v=jW4ra2eyFgI)
+- [How to Make the West Great Again](https://www.youtube.com/watch?v=z1wFD1etp6s)
 

@@ -353,4 +353,5 @@ Was die Erzeugung von Wohlbefinden betrifft, so ist körperliche Aktivität sowo
 - [modusX](https://modusx.de)
 - [Phil Maffetone’s MAF Method](https://philmaffetone.com/)
 - [What it total fitness?](https://www.youtube.com/watch?v=n85jqM3tXxQ)
+- [ATG Zero: My Fitness Formula For Life](https://www.youtube.com/watch?v=Xy_MF9GA9k0)
 

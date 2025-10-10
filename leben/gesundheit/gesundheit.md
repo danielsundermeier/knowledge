@@ -21,6 +21,10 @@ Zeit in der Natur verbringen
 - Boosts nk Cells
 - Ohne Ablenkung (Musik, Handy, …)
 
+## Metabolismus
+
+- [The Best Exercise For Health, Fitness, and Longevity](https://www.youtube.com/watch?v=8ef7FhmMcLU)
+
 ## Meditation
 
 

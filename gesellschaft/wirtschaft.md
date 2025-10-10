@@ -101,3 +101,5 @@ Unternehmen sollen Win-Win Situationen schaffen.
 
 - [Crash Course Socialism](https://dessalines.github.io/essays/crash_course_socialism.html)
 - [Wealth: A New Era of Economics](https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441)
+- [Hat Piketty den Code der Ungleichheit geknackt?](https://www.youtube.com/watch?v=kiRhwW-shBI)
+

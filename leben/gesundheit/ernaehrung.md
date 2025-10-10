@@ -112,6 +112,10 @@ Makronährstoffe berechnen:
 
 > “The idea that you can take 10 pills a day and fix everything or live forever is faulty. There’s a huge disconnect between people’s perception of supplements and the reality, and that can be really destructive." - [In Supplements We Trust](https://insider.fitt.co/issue-no-108-in-supplements-we-trust/)
 
+### Kreatin
+
+- [You're Missing a HUGE Benefit From Your Workout](https://www.youtube.com/watch?v=hqKiJ8Qb8jM)
+
 ## Hunger
 
 - [Expected satiety](https://en.wikipedia.org/wiki/Expected_satiety)

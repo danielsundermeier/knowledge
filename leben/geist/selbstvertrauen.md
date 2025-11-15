@@ -473,3 +473,4 @@ Sie werden dem, was Sie sehen, dem, woran Sie glauben, dem, worum Sie unablässi
 - [Brutally Honest Advice to Build Your Confidence](https://www.youtube.com/watch?v=pt50QF6al8g)
 - [Affirmations Are BULLS*T! Here Is How You Create Real Change](https://www.youtube.com/watch?v=2FnX_ue8yco)
 - [How To Stop Seeking Approval](https://www.youtube.com/watch?v=92VTkwhxzrc)
+- [not being insecure is easy, actually](https://www.youtube.com/watch?v=iTfhdXFERu8)

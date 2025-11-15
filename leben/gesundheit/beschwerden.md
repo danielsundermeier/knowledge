@@ -7,6 +7,7 @@
 - [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
 - [Lower Back Mini-Mastery-Class](https://www.youtube.com/watch?v=D97Q78y3DDc)
 - [Rundrücken und vorgezogene Schultern korrigieren](https://www.youtube.com/watch?v=MErc15tjwLo)
+- [Give Me 5 Minutes and I’ll Fix Your Back Pain](https://www.youtube.com/watch?v=ydz_hRm9oEk)
 
 ## Schultern
 
@@ -17,6 +18,7 @@
 - [Train This to Reduce Pain and Stiffness and Unlock Youthful Athleticism!](https://www.youtube.com/watch?v=UnVjlCcolS8)
 - [The Reason You Have a Huge Butt and How to Train It.](https://youtu.be/x5zfeS8fH7w?si=jmmc6PZl2R1Gn86C)
 - [The Ancient Exercise that Heals your Hips (Why & How)](https://www.youtube.com/watch?v=LUTvHp_VaGk)
+- [The Fastest Way to Gain Hip Internal Rotation | Do This PAILS & RAILS Sequence](https://www.youtube.com/watch?v=OE-Qn8btQhw)
 
 ## Diabetes
 

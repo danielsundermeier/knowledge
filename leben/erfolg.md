@@ -1367,6 +1367,7 @@ Aber der erfolgreichste Mensch ist derjenige, der am meisten Spaß hat. Der einz
 - [Where Does Ambition Come From?](https://life-longlearner.com/where-does-ambition-come-from/)
 - [on competing constructively](https://mindmine.substack.com/p/on-competing-constructively)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
+- [The truth I wish I knew 8 years ago](https://www.youtube.com/watch?v=v9dbj0MM_HQ)
 
 ## Bücher
 

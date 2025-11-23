@@ -13,3 +13,5 @@
 
 - [How to get flexible one time, forever](https://www.youtube.com/watch?v=NwX2dh0dwNA) 
 - [How Stretching REALLY Works](https://www.youtube.com/watch?v=zEOkI3xkF4U)
+- [Stop stretching. Do this instead.](https://www.youtube.com/watch?v=uiKW2lji5uU) 
+- [Do this to unlock your shoulders (permanently)](https://www.youtube.com/watch?v=ZJhQ0V68Zew)

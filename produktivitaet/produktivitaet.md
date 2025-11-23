@@ -503,4 +503,5 @@ for anyone who is interested in time management and productivity
 - [Dr. K, How Do I Focus?](https://www.youtube.com/watch?v=BZPRX9X5V5I)
 - [What Hunter-Gatherers Can Teach Us About The Frustrations Of Modern Work](https://www.youtube.com/watch?v=2_FlZIr3kXs)
 - [The Leopold: The Evolution of the Eudaimonia Machine](https://www.youtube.com/watch?v=Oq178eQDFsg)
+- [Travel taught me the truth about productivity](https://www.youtube.com/watch?v=S2SU9G9uRf4)
 

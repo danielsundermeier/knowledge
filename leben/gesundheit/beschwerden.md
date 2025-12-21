@@ -12,6 +12,7 @@
 ## Schultern
 
 - [How To Unf*ck Your Shoulders In 10 Minutes](https://www.youtube.com/watch?v=UE0ktBkeo64)
+- [The best exercise for fixing tight shoulders & chest](https://www.youtube.com/watch?v=IwWCCVcwUIw)
 
 ## Hüfte
 

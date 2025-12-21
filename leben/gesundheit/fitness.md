@@ -75,6 +75,7 @@ Ziel ist der [Muskelaufbau](./muskelaufbau.md).
 ## Übungen
 
 - [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
+- [Why practicing handstands is making you worse](https://www.youtube.com/watch?v=xA5Fx4x9-O4)
 - [BODYWEIGHT BRIDGE: Train Your Spine, Reduce Back Pain, Boost Athleticism](https://www.youtube.com/watch?v=fZoASuW8gK8)
 
 ## Hoffnungsmoleküle
@@ -354,4 +355,5 @@ Was die Erzeugung von Wohlbefinden betrifft, so ist körperliche Aktivität sowo
 - [Phil Maffetone’s MAF Method](https://philmaffetone.com/)
 - [What it total fitness?](https://www.youtube.com/watch?v=n85jqM3tXxQ)
 - [ATG Zero: My Fitness Formula For Life](https://www.youtube.com/watch?v=Xy_MF9GA9k0)
+- [Unfortunately, Fitness Really Is This Simple](https://www.youtube.com/watch?v=4XH3jADQF7c)
 

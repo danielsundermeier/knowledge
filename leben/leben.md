@@ -583,3 +583,5 @@ Seien Sie geduldig und verständnisvoll mit Menschen, wenn sie Fehler machen, so
 - [lifehacks](https://guzey.com/lifehacks/)
 - [Is there anyone who has understood late what happiness really is? How did you find out?](https://qr.ae/pypeKN)
 - [How to have a FULFILLING LIFE: the importance of vision and want](https://www.youtube.com/watch?v=apQWNWtcPnA)
+- [The 60-second habit that changed my life](https://www.youtube.com/watch?v=wMpkhZdGv9c)
+

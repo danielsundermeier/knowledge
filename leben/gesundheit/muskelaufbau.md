@@ -100,6 +100,10 @@ Eine Alternative ist das Plateau als Gelgenheit zu nutzen die Technik und die Au
 - [How anyone can achieve a one-arm chinup in 3 minutes a week](https://www.youtube.com/watch?v=Q3dhtlOq8NE)
 - [How to build powerful legs in one rep a week](https://www.youtube.com/watch?v=tmb7zNxKaRQ)
 
+### Pull
+
+- [Your Body's Forgotten Strength: Pulling](https://www.youtube.com/watch?v=qppBRa_c04Y)
+
 ### Muscle-Up
 
 - [False Grip Rudern an den Turnringen](https://dieringe.com/de/exercises/false-grip-row)

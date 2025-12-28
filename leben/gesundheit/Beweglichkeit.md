@@ -1,5 +1,9 @@
 # Beweglichkeit
 
+## Kniebeuge
+
+- [The Squat Is NOT What You Think It Is](https://www.youtube.com/watch?v=QbPrux3rJt8)
+
 ## Gehen
 
 - [Richtig gehen - Die 3 Fußwippen als Schlüssel - Wertvolle Übungen inklusive](https://www.youtube.com/watch?v=SeQdva7mxhw)
